@@ -39,4 +39,28 @@ data_parsed['boardgames']['boardgame']['boardgamemechanic']['#text']
 #doc['mydocument']['plus']['#text'] # == u'element as well'
 #    return render_to_response('my_template.html', {'data': data})
 
-           
+###generate random game id's
+import random
+import numpy
+game_ids = random.sample(range(1, 1000), 3)           
+
+
+ratings = numpy.empty(len(game_ids))
+categories = []
+for id in range(len(game_ids)):
+    game_xml_string = 'https://boardgamegeek.com/xmlapi/boardgame/' + str(game_ids[id]) + '?&stats=1'
+
+    file2 = urllib.request.urlopen(game_xml_string)
+    data2 = file2.read()
+    file2.close()
+
+    data_parsed2 = xmltodict.parse(data2)
+    
+    if 'error' in data_parsed2['boardgames']['boardgame'].keys():
+        ratings[id] = None
+        categories.append(None)
+    else:
+        ratings[id] = (data_parsed2['boardgames']['boardgame']['statistics']['ratings']['average'])
+        #(len(data_parsed2['boardgames']['boardgame']['boardgamemechanic']))
+        categories.append(data_parsed2['boardgames']['boardgame']['boardgamemechanic'][0]['#text'])
+
