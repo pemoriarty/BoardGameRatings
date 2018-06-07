@@ -48,6 +48,8 @@ game_ids = random.sample(range(1, 10000), 10)
 ratings = numpy.empty(len(game_ids))
 categories = []
 images = []
+game_info = []
+
 for id in range(len(game_ids)):
     game_xml_string = 'https://boardgamegeek.com/xmlapi/boardgame/' + str(game_ids[id]) + '?&stats=1'
 
@@ -58,13 +60,19 @@ for id in range(len(game_ids)):
     data_parsed2 = xmltodict.parse(data2)
     
     if 'error' in data_parsed2['boardgames']['boardgame'].keys():
-        ratings[id] = None
-        categories.append(None)
-        images.append(None)
+        rating_tmp = None
+        cat_tmp = None
+        img_tmp = None
+        game_tmp = [rating_tmp, cat_temp, img_temp]
     else:
-        ratings[id] = (data_parsed2['boardgames']['boardgame']['statistics']['ratings']['average'])
+        rating_tmp = (data_parsed2['boardgames']['boardgame']['statistics']['ratings']['average'])
         #(len(data_parsed2['boardgames']['boardgame']['boardgamemechanic']))
-        categories.append(data_parsed2['boardgames']['boardgame']['boardgamemechanic'][0]['#text'])
-        images.append(data_parsed2['boardgames']['boardgame']['image'])
-
+        img_tmp = data_parsed2['boardgames']['boardgame']['image']
+        ncat = len(data_parsed2['boardgames']['boardgame']['boardgamemechanic'])
+        cat_tmp = []
+        for idx in range(ncat):
+            cat_tmp.append(data_parsed2['boardgames']['boardgame']['boardgamemechanic'][idx]['#text'])
+        game_tmp = [rating_tmp, cat_tmp, img_tmp]
+    game_info.append(game_tmp)
+    
 from PIL import Image
