@@ -42,11 +42,12 @@ data_parsed['boardgames']['boardgame']['boardgamemechanic']['#text']
 ###generate random game id's
 import random
 import numpy
-game_ids = random.sample(range(1, 1000), 3)           
+game_ids = random.sample(range(1, 10000), 10)           
 
 
 ratings = numpy.empty(len(game_ids))
 categories = []
+images = []
 for id in range(len(game_ids)):
     game_xml_string = 'https://boardgamegeek.com/xmlapi/boardgame/' + str(game_ids[id]) + '?&stats=1'
 
@@ -59,8 +60,11 @@ for id in range(len(game_ids)):
     if 'error' in data_parsed2['boardgames']['boardgame'].keys():
         ratings[id] = None
         categories.append(None)
+        images.append(None)
     else:
         ratings[id] = (data_parsed2['boardgames']['boardgame']['statistics']['ratings']['average'])
         #(len(data_parsed2['boardgames']['boardgame']['boardgamemechanic']))
         categories.append(data_parsed2['boardgames']['boardgame']['boardgamemechanic'][0]['#text'])
+        images.append(data_parsed2['boardgames']['boardgame']['image'])
 
+from PIL import Image
