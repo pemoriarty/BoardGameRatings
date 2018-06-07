@@ -38,36 +38,41 @@ def request(msg, slp=1):
 #r2 = request(game_xml_string, slp = 1)
 #soup2 = bs(r2.content, 'html5lib')
 #soup2.find_all('boardgamemechanic')
-game_ids = range(500)
+game_ids = range(1000)
+cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 ids_exist = []
 categories = []
 images = []
 game_info = []
+name = []
 for id in game_ids:
     game_xml_string = 'https://boardgamegeek.com/xmlapi/boardgame/' + str(game_ids[id]) + '?&stats=1'
 
     game_tmp = request(game_xml_string, slp = 1)
     soup_tmp = bs(game_tmp.content, 'html5lib')
-    nmechanic = len(soup_tmp.find_all('boardgamemechanic'))
-    #rating = soup_tmp.find_all('rating')
-
-    #data_parsed2 = xmltodict.parse(data2)
-    
-    if nmechanic > 0:
-        game_xml = xmltodict.parse(game_tmp.content)
-        ids_exist.append(id)
-        
-        rating_tmp = (game_xml['boardgames']['boardgame']['statistics']['ratings']['average'])
-        #(len(data_parsed2['boardgames']['boardgame']['boardgamemechanic']))
-        img_tmp = game_xml['boardgames']['boardgame']['image']
-        #ncat = len(game_xml['boardgames']['boardgame']['boardgamemechanic'])
+    ncat = len(soup_tmp.find_all('boardgamecategory'))#check if the game is categorized
+           
+    if ncat > 0:
         cat_tmp = []
-        for idx in range(nmechanic):
-            cat_tmp.append(soup_tmp.find_all('boardgamemechanic')[0].get_text())
-            #cat_tmp.append(game_xml['boardgames']['boardgame']['boardgamemechanic'][idx]['#text'])
-        game_tmp = [rating_tmp, cat_tmp, img_tmp]
+        for idx in range(ncat):#check if it's a children's game
+            cat_tmp.append(soup_tmp.find_all('boardgamecategory')[idx].get_text())
+        if cat_to_pull in cat_tmp:    
+            name.append(soup_tmp.find_all('name')[0].get_text())
+            game_xml = xmltodict.parse(game_tmp.content)
+            ids_exist.append(id)
         
-    game_info.append(game_tmp)
+            rating_tmp = (game_xml['boardgames']['boardgame']['statistics']['ratings']['average'])
+            
+            #if len(soup_tmp.find_all('image')) > 0:
+            img_tmp = game_xml['boardgames']['boardgame']['image']
+            #else:
+                #img_tmp = None
+        
+       
+            #cat_tmp.append(game_xml['boardgames']['boardgame']['boardgamemechanic'][idx]['#text'])
+            game_tmp = [rating_tmp, cat_tmp, img_tmp]
+        
+            game_info.append(game_tmp)
         
         #img_tmp = soup_tmp.find_all('ratings')['average']
         #ncat = len(data_parsed2['boardgames']['boardgame']['boardgamemechanic'])
