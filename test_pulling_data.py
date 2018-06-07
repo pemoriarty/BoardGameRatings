@@ -64,7 +64,7 @@ for id in range(len(game_ids)):
         cat_tmp = None
         img_tmp = None
         game_tmp = [rating_tmp, cat_temp, img_temp]
-    else:
+    elif 'boardgamemechanic' in data_parsed2['boardgames']['boardgame'].keys():
         rating_tmp = (data_parsed2['boardgames']['boardgame']['statistics']['ratings']['average'])
         #(len(data_parsed2['boardgames']['boardgame']['boardgamemechanic']))
         img_tmp = data_parsed2['boardgames']['boardgame']['image']
@@ -73,6 +73,14 @@ for id in range(len(game_ids)):
         for idx in range(ncat):
             cat_tmp.append(data_parsed2['boardgames']['boardgame']['boardgamemechanic'][idx]['#text'])
         game_tmp = [rating_tmp, cat_tmp, img_tmp]
+    else:
+        
     game_info.append(game_tmp)
     
+    
+ ##for every game id number- if exists, check if category == [desired category] if so, keep id number. if not, go on
+   
+ 
+ 
+ 
 from PIL import Image
