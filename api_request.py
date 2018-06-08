@@ -20,6 +20,6 @@ def api_request(msg, slp=1):
                 print("Server Error! Response Code %i. Retrying..." % (r.status_code))
         except:
             print("An exception has occurred, probably a momentory loss of connection. Waiting one seconds...")
-            time.sleep(1)
+            time.sleep(5)
     return r
 
