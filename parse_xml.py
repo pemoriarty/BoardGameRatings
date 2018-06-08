@@ -14,7 +14,7 @@ import pickle
 import matplotlib.pyplot as plt
 
 
-game_ids = range(3)
+game_ids = range(25000)
 cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 cat_ids = []
 categories = []
@@ -27,7 +27,7 @@ game_names = []
 #if so, parse it
 #save parsed version
 
-for id in game_ids:
+for id in range(4029, 25000):#game_ids:
     file_name = "BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"
     fileObject = open(file_name,'rb')  
     xml_content_tmp = fileObject.read ()
@@ -42,12 +42,15 @@ for id in game_ids:
         if cat_to_pull in cat_tmp:    
             cat_ids.append(id)
             game_names.append(soup_tmp.find_all('name')[0].get_text())
-            xml_tmp = xmltodict.parse(xml_content_tmp.content)
-
+            xml_tmp = xmltodict.parse(xml_content_tmp)
         
+            users_tmp = (xml_tmp['boardgames']['boardgame']['statistics']['ratings']['usersrated'])
             rating_tmp = (xml_tmp['boardgames']['boardgame']['statistics']['ratings']['average'])           
             #if len(soup_tmp.find_all('image')) > 0:
-            img_tmp = xml_tmp['boardgames']['boardgame']['image']
+            try:
+                img_tmp = xml_tmp['boardgames']['boardgame']['image']
+            except KeyError:
+                img_tmp = None
             game_tmp = [rating_tmp, cat_tmp, img_tmp]
         
             compiled_info.append(game_tmp)
