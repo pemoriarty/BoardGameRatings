@@ -37,8 +37,3 @@ for id in game_ids:
     #pickle.dump((soup_tmp, game_xml),fileObject)   
     fileObject.write(game_tmp.content)
     fileObject.close()    
-    
-    
-#fileObject = open(file_name,'rb')  
-#soup_tmp, game_xml = pickle.load(fileObject) 
-cd 
