@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5721">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Inning-A-Minute Baseball</name>
+									
+			<description>This baseball game uses 8 dice to derive results of each at bat. Different possible outcomes (walk, home run, ground out, etc.) are on the faces of each die. Six of the dice are always used and are placed in a cup (not provided).&lt;br/&gt;&lt;br/&gt;The offensive player then selects one die secretly from a set of four dice, each representing a particular strategy for that at bat (Swing Away, Power Swing, Make Contact, and Stay Back.) The results on each die are in keeping with what would be expected from the chosen strategy.&lt;br/&gt;&lt;br/&gt;Simultaneously, the defensive player chooses one die from a set of four that represent defensive strategies (Overpower, Induce Grounder, Induce Fly, Pitch Around) and adds it to the cup.&lt;br/&gt;&lt;br/&gt;Once all the dice are in the cup, they are rolled. The result that is most common is the result for that at bat. There are, of course, rules for breaking ties. There are also strategy options on offense and defense that can affect the outcome.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/j47yZr4zyr1ZJ4_Rkx3lH9STtfI=/fit-in/200x150/pic25838.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/szONLbG-tyFI6EYRm4zLpFD78Co=/0x0/pic25838.jpg</image>
+						
+												<boardgamedesigner objectid="2121">Timothy B. Brown</boardgamedesigner>
+															<boardgamedesigner objectid="649">William W. Connors</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="1335">Minute Sports</boardgamepublisher>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>28</usersrated>
+					<average>5.875</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.31356</stddev>
+					<median>0</median>
+					<owned>40</owned>
+					<trading>5</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>10</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

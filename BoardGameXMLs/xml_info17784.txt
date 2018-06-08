@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17784">
+			<yearpublished>1980</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Galaxis</name>
+									
+			<description>In Galaxis, both players attempt to locate four missing spaceships. The game is played on a grid and mediated by a computer. Each turn, a player may enter a set of coordinates on the grid. The computer will tell him whether he has found one of the ships. If not, it will tell him how many spaceships are on the same line (horizontal, vertical or diagonal) as the coordinates. Using pegs, the player can register his results.&lt;br/&gt;&lt;br/&gt;Both players have their own results board, which are placed back-to-back, so they cannot see eachother's results. First player to locate all four ships wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rNoW8KHb6fZgd4tuLQOvrMAQO_Q=/fit-in/200x150/pic521457.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Ea_Jh9fn_82NWpTl4pRk6kmBxXM=/0x0/pic521457.jpg</image>
+						
+												<boardgamehonor objectid="8791">1980 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="7127">Battleship</boardgamefamily>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																													<boardgamecategory objectid="1072">Electronic</boardgamecategory>
+															<boardgameversion objectid="139500">First edition</boardgameversion>
+																																				<boardgamepublisher objectid="99">Otto Maier Verlag</boardgamepublisher>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamedesigner objectid="2819">David Wells</boardgamedesigner>
+															<boardgameimplementation objectid="2810" inbound="true">Checkpoint: Danger!</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>20</usersrated>
+					<average>7.325</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24775</stddev>
+					<median>0</median>
+					<owned>45</owned>
+					<trading>3</trading>
+					<wanting>6</wanting>
+					<wishing>13</wishing>
+					<numcomments>8</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

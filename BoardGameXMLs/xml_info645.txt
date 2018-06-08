@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="645">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Bosworth</name>
+							<name  sortindex="4">Le Champ de Bataille de Bosworth</name>
+							<name  sortindex="1">Waterloo</name>
+									
+			<description>Bosworth is essentially a chess variant for up to 4 players.  The pieces are the same as chess (8 pawns, 2 knights, 2 rooks, 2 bishops, a king, and a queen), but they are represented as disks so that they can be drawn randomly from a pile.&lt;br/&gt;&lt;br/&gt;Players begin the game with 4 pawns in their edge of the board or &amp;quot;field camps&amp;quot; and four pieces from their draw pile as their hand.&lt;br/&gt;&lt;br/&gt;On each turn, a player must move or capture with one piece, fill empty spaces in their field camp with a piece from their hand, and then draw to bring their hand up to four pieces.&lt;br/&gt;&lt;br/&gt;Pieces move and capture just like in chess, except for pawns, which can move sideways and capture in any diagonal direction, and kings, which can capture their own pieces to escape check.  As in chess, the object is to checkmate all opponent's kings.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     GameTable Online (real-time)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NEohson7eLtGA_C9xgngujwuyvY=/fit-in/200x150/pic48606.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wLSTgbpUIhZDONGC75oB4PRSKHs=/0x0/pic48606.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="404">Alga</boardgamepublisher>
+																						<boardgamepublisher objectid="389">Brio AB</boardgamepublisher>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+																																											<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+																						<boardgamedesigner objectid="294">Mark Alan Osterhaus</boardgamedesigner>
+															<boardgamepublisher objectid="48">Out of the Box Publishing</boardgamepublisher>
+															<boardgameversion objectid="25183">Premier Edition</boardgameversion>
+															<boardgameversion objectid="26802">Second edition</boardgameversion>
+															<boardgameversion objectid="56824">Swedish edition</boardgameversion>
+															<boardgameversion objectid="303278">Swedish edition 2000</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>345</usersrated>
+					<average>5.83913</average>
+					<bayesaverage>5.56976</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7225" bayesaverage="5.56976" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="534" bayesaverage="5.63849" />
+												
+											</ranks>
+					
+					<stddev>1.41467</stddev>
+					<median>0</median>
+					<owned>697</owned>
+					<trading>105</trading>
+					<wanting>6</wanting>
+					<wishing>23</wishing>
+					<numcomments>173</numcomments>
+					<numweights>30</numweights>
+					<averageweight>2.1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

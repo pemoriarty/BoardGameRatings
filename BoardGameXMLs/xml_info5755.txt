@@ -1,0 +1,100 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5755">
+			<yearpublished>1966</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Guadalcanal</name>
+									
+			<description>Guadalcanal is a hex based simulation of the land battle of Guadalcanal from August, 7 1942 through January 29, 1943, with battalion-sized units and a map scale of approximately one mile per hex. The naval and aerial combat that surrounded Guadalcanal are assumed to have their historical results so only historical reinforcements are available.&lt;br/&gt;&lt;br/&gt;The &amp;quot;Basic Game&amp;quot; introduced the components: the map board, unit counters, victory conditions, movement, zones of control, and combat.&lt;br/&gt;&lt;br/&gt;The &amp;quot;Tournament Game&amp;quot; the effects of different terrain types, reduction of units due to combat rather than wholesale elimination, ranged artillery fire, and point-based victory conditions.&lt;br/&gt;&lt;br/&gt;The &amp;quot;Optional Rules&amp;quot; introduced hidden movement, supply rules, different ranges for different artillery units based on their historical composition, withdrawing units from the island, and specialized capabilities for amphibious tractor and engineer units. Records for step reduction were kept on paper side records, rather than using reduced units (as in Anzio); records for hidden movement were also kept on paper, rather than using screens to hide each player's view of the opponent's forces as in Midway.&lt;br/&gt;&lt;br/&gt;The game victory conditions in the basic game were that the United States won if the Japanese were unable to hold Henderson Field for two consecutive turns between the September 25 and November 20 turns, inclusive, with the game ending on November 20 turn. The Tournament Game extended until the January 29, 1943 turn, with the point-based victory determined based on points awarded for eliminating enemy combat factors, occupying Henderson Field, or (for the Japanese) having Henderson Field in range of their artillery units.&lt;br/&gt;&lt;br/&gt;Avalon Hill discontinued the game before assigning it a complexity rating; however, in the  Avalon Hill ''General'', Volume 3, Number 6, Avalon Hill assigned to the game the following characteristics:&lt;br/&gt;&lt;br/&gt;     Playing Time: 2-4 hours&lt;br/&gt;     Play Balance: Even&lt;br/&gt;     Complexity: Very Complex&lt;br/&gt;     For Beginner: Very Poor&lt;br/&gt;     Play-By-Mail: Poor&lt;br/&gt;     Suggestion: Use of Optional Rules&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The rules were revised to a small extent in their second printing in June, 1966. These changes were described in the  Avalon Hill ''General'', Volume 3. Number 2.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gqPTsmYgXlrs9k-moihxa3_zDEU=/fit-in/200x150/pic21490.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DhTIr53BHfmofW7aYdXaVqApkCk=/0x0/pic21490.jpg</image>
+						
+												<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamefamily objectid="13255">Country: Solomon Islands</boardgamefamily>
+																						<boardgameartist objectid="79559">Donald Lester Dickson</boardgameartist>
+															<boardgameversion objectid="155116">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="2964">Larry Pinsky</boardgamedesigner>
+															<boardgamedesigner objectid="1838">Lindsley Schutz</boardgamedesigner>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>134</usersrated>
+					<average>5.80709</average>
+					<bayesaverage>5.52957</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10000" bayesaverage="5.52957" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2239" bayesaverage="5.62397" />
+												
+											</ranks>
+					
+					<stddev>1.63659</stddev>
+					<median>0</median>
+					<owned>404</owned>
+					<trading>25</trading>
+					<wanting>8</wanting>
+					<wishing>18</wishing>
+					<numcomments>81</numcomments>
+					<numweights>20</numweights>
+					<averageweight>2.45</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

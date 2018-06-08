@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19834">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>4</age>
+
+							<name  sortindex="1">Arret de Bus</name>
+							<name  sortindex="1">Arrêt de bus</name>
+							<name primary="true" sortindex="1">Bus Stop</name>
+							<name  sortindex="1">Bushalte</name>
+							<name  sortindex="1">Bushaltestelle</name>
+							<name  sortindex="1">Buss-spelet</name>
+							<name  sortindex="1">Estación de Autobuses</name>
+							<name  sortindex="1">Fermata dell&#039;Autobus</name>
+							<name  sortindex="1">Otobüs Durağı</name>
+							<name  sortindex="1">Paragem de Autocarro</name>
+							<name  sortindex="1">автобусная остановка</name>
+							<name  sortindex="1">バス停</name>
+									
+			<description>A game for Ages 4 - 8.  It is about adding and subtracting.  Players go around a board picking up and taking off passengers according to where they land.  All players must reach the end of the track, but the winner is the one who got there with the most passengers, otherwise the quickest one wins a tie.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/npjmbcEYS0fD4xZKtbq4hndg9No=/fit-in/200x150/pic94284.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hYFEr0PBhVYOrDm1SH3OvpeEQg4=/0x0/pic94284.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+																						<boardgameversion objectid="129211">First edition</boardgameversion>
+															<boardgameversion objectid="129222">French edition</boardgameversion>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamepublisher objectid="1962">Orchard Toys</boardgamepublisher>
+															<boardgameversion objectid="32904">Orchard Toys second edition</boardgameversion>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="3" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>4.35135</average>
+					<bayesaverage>5.46036</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14518" bayesaverage="5.46036" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="595" bayesaverage="5.04205" />
+												
+											</ranks>
+					
+					<stddev>1.59757</stddev>
+					<median>0</median>
+					<owned>64</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>23</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

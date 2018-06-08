@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1323">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Cry Havoc</name>
+									
+			<description>A man-to-man medieval combat wargame.  Each side is comprised of peasants, sergeants, bills, men-at-arms, and knights.  Various scenarios are included in the rules.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    Outremer&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Cry Havoc series page contains information about the game system and history of the game including fan expansions.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7NYewSIgLpoOsW--Rtd-hJKW4ms=/fit-in/200x150/pic361350.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xelp8zp-oztvQzX8sxxY90RHsQo=/0x0/pic361350.jpg</image>
+						
+												<boardgamedesigner objectid="979">Gary Chalk</boardgamedesigner>
+															<boardgameartist objectid="979">Gary Chalk</boardgameartist>
+															<boardgameexpansion objectid="3756">Croisades</boardgameexpansion>
+																						<boardgameexpansion objectid="23925">Cry Havoc Scenario Book 1</boardgameexpansion>
+															<boardgameexpansion objectid="23926">Cry Havoc Scenario Book 2</boardgameexpansion>
+															<boardgamefamily objectid="3273">Cry Havoc System</boardgamefamily>
+																						<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+															<boardgamepublisher objectid="116">Eurogames</boardgamepublisher>
+															<boardgameversion objectid="40414">Eurogames French second edition</boardgameversion>
+															<boardgameimplementation objectid="147919">Guiscard</boardgameimplementation>
+															<boardgameintegration objectid="147919">Guiscard</boardgameintegration>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="1605">Jeux Rexton</boardgamepublisher>
+															<boardgameversion objectid="31415">Jeux Rexton edition</boardgameversion>
+																													<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgameexpansion objectid="5571">Siege</boardgameexpansion>
+															<boardgamepublisher objectid="1211">Standard Games and Publications, Ltd.</boardgamepublisher>
+															<boardgameversion objectid="32140">Standard Games English first edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamedesigner objectid="3386">Tony Webster</boardgamedesigner>
+															<boardgameintegration objectid="147919" inbound="true">Guiscard</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>618</usersrated>
+					<average>6.76415</average>
+					<bayesaverage>5.91623</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2451" bayesaverage="5.91623" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="482" bayesaverage="6.43106" />
+												
+											</ranks>
+					
+					<stddev>1.41647</stddev>
+					<median>0</median>
+					<owned>1114</owned>
+					<trading>49</trading>
+					<wanting>38</wanting>
+					<wishing>108</wishing>
+					<numcomments>195</numcomments>
+					<numweights>56</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1337">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Akiba</name>
+							<name  sortindex="1">Kuba</name>
+							<name primary="true" sortindex="1">Traboulet</name>
+									
+			<description>Similar to Abalone, Traboulet has marbles to be pushed singly or in rows along an open 7x7 grid of holes. Each player has two clusters of four marbles each in opposite corners. Thirteen red neutral marbles in diamond shape start in the center of the grid. Players can push on any open end of their marbles to push the neutral or opposing marbles off the edge. Every time a player pushes a marble off the edge, they get to move again. First player to push off 7 red marbles or all of his opponent's movable marbles wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_J4IXnkO0PHZroS-6KLjJqgr6Tk=/fit-in/200x150/pic74555.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oFHHnTVda0MQ2GX76lTx-AnGIbA=/0x0/pic74555.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="560">Serge Cahu</boardgamedesigner>
+															<boardgameversion objectid="114965">Dutch edition</boardgameversion>
+																													<boardgamepublisher objectid="390">Fun Connection</boardgamepublisher>
+																													<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+																						<boardgameversion objectid="25166">Patch edition 1997</boardgameversion>
+															<boardgamepublisher objectid="209">Patch Products</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>133</usersrated>
+					<average>6.22638</average>
+					<bayesaverage>5.57448</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6987" bayesaverage="5.57448" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="319" bayesaverage="5.85246" />
+												
+											</ranks>
+					
+					<stddev>1.2752</stddev>
+					<median>0</median>
+					<owned>271</owned>
+					<trading>17</trading>
+					<wanting>11</wanting>
+					<wishing>20</wishing>
+					<numcomments>63</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.875</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

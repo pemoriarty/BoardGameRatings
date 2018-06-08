@@ -1,0 +1,160 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1491">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>9</maxplayers>
+			<playingtime>150</playingtime>
+			<minplaytime>150</minplaytime>
+			<maxplaytime>150</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Outpost</name>
+									
+			<description>Players compete to build the best outpost.  They must build and staff factories to produce resources which are then used to build more factories and purchase any of 13 outpost improvements which give different advantages (ranging from production technologies, resource storage, and increased population maximums to resource producing stations).  Improvements are purchased through auctions, and each player may win several per round.  There are 3 phases in the game, and with each phase after the first a new set of improvements are available to purchase.  Each staffed factory and improvement is worth a certain number of victory points (ranging from 1 pt for an ore factory to 20 points for a moon base) and the first player to reach 75 points wins.&lt;br/&gt;&lt;br/&gt;This game's mechanisms were later reused in The Scepter of Zavandor and, to a lesser extent, in Phoenicia.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XwezXWwNvzEf_lxNER83j7xf8l0=/fit-in/200x150/pic1083946.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/p_JcmNFd0MKDpjSVqcVjWQNxAyg=/0x0/pic1083946.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepodcastepisode objectid="101144">BGTG 136 - 100 Great Games, part 3 (with Stephen Glenn and Mark Jackson)</boardgamepodcastepisode>
+															<boardgameartist objectid="11925">Karim Chakroun</boardgameartist>
+															<boardgameartist objectid="3621">Michael D. Moore</boardgameartist>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="119931">English 	20th Anniversary edition</boardgameversion>
+															<boardgameversion objectid="30715">English first edition (3-8p)</boardgameversion>
+																						<boardgamepodcastepisode objectid="211877">Episode 14: The 10th Anniversary Definitive Limited Collector&#039;s Edition Fan Appreciation Director&#039;s Cut Between Turns Exclusive Special Presentation Redux</boardgamepodcastepisode>
+																																				<boardgamedesigner objectid="201">James Hlavaty</boardgamedesigner>
+															<boardgameartist objectid="51904">Damian Isherwood</boardgameartist>
+																													<boardgamedesigner objectid="51435">Timothy Moore</boardgamedesigner>
+																																											<boardgameimplementation objectid="13884">The Scepter of Zavandor</boardgameimplementation>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="11652">Stronghold Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="65046">The Spiel at Essen 2011 - Stronghold Games</boardgamepodcastepisode>
+																						<boardgamepublisher objectid="90">TimJim Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1083</usersrated>
+					<average>6.84097</average>
+					<bayesaverage>6.16523</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1571" bayesaverage="6.16523" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="762" bayesaverage="6.28994" />
+												
+											</ranks>
+					
+					<stddev>1.69179</stddev>
+					<median>0</median>
+					<owned>1453</owned>
+					<trading>66</trading>
+					<wanting>97</wanting>
+					<wishing>258</wishing>
+					<numcomments>393</numcomments>
+					<numweights>115</numweights>
+					<averageweight>3.1304</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

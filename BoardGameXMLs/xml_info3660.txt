@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3660">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Rock, Scissors, Paper</name>
+									
+			<description>&lt;br/&gt;            This is not the simple game played with your hands ****&lt;br/&gt;        &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A two player game of strategy in which each player has a set of Rocks, Scissors, and Papers. Each type of piece has different movement abilities on a hexagonal board. They capture one type of piece but are captured by the other type (Rocks capture Scissors but are captured by Paper). Each type of piece interacts differently with pieces of the same type. Two Paper pieces stack on top of one another while Scissors lock together and Rocks knock one another about. The goal of the game is to capture the enemy's flags.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/fXwnrRE5_OJCnRuZVBGiSV8irG0=/fit-in/200x150/pic105963.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/loapKIA9zIfiLUkD41XfNfcq2kc=/0x0/pic105963.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="22634">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="1263">Greg Lam</boardgamedesigner>
+															<boardgamepublisher objectid="696">Pair-of-Dice Games</boardgamepublisher>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>6.05</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.88746</stddev>
+					<median>0</median>
+					<owned>34</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>10</wishing>
+					<numcomments>13</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

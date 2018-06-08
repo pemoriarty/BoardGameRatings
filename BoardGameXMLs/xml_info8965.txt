@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8965">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">1 Stein + Co.</name>
+							<name  sortindex="1">1Stein + Co.</name>
+							<name  sortindex="4">Le Bloq</name>
+									
+			<description>1 Stein + Co. is an abstract game with simple rules. Players take turns placing stones. The goal is to enclose empty squares on the board. Each square enclosed by a played block counts one point (Enclosed space must not be able to fit a block). The stones measure 2 x 3 x 4 squares and can be placed in any of the three alignments (i.e. covering 2 x 3, 3 x 4 or 2 x 4 squares). After the first stone is placed, subsequent stones must touch at least one previously placed stone - but cannot touch a stone with the same alignment (unless the player is able to score with the new stone). When the board is so full that no further stone can be placed, the player with the highest score is the winner.&lt;br/&gt;&lt;br/&gt;The rules offer a variant scoring system for three or four players, in which not only the active player scores, but also the player preceeding him/her.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OMO31db2zYSOz1avoANBChuQpoU=/fit-in/200x150/pic296204.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1my_duCGsoTlLifiryh7LUHWDgU=/0x0/pic296204.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+																						<boardgameversion objectid="86803">First edition</boardgameversion>
+																						<boardgamepublisher objectid="454">Goliath B.V.</boardgamepublisher>
+															<boardgameversion objectid="80212">Goliath Multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="148">Holzinsel</boardgamepublisher>
+															<boardgamedesigner objectid="83">Niek Neuwahl</boardgamedesigner>
+															<boardgamepublisher objectid="5873">NFFX Design</boardgamepublisher>
+															<boardgameversion objectid="131136">NFFX Edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>78</usersrated>
+					<average>6.07308</average>
+					<bayesaverage>5.53492</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9529" bayesaverage="5.53492" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="495" bayesaverage="5.67501" />
+												
+											</ranks>
+					
+					<stddev>1.54203</stddev>
+					<median>0</median>
+					<owned>144</owned>
+					<trading>7</trading>
+					<wanting>15</wanting>
+					<wishing>23</wishing>
+					<numcomments>30</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1.5714</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

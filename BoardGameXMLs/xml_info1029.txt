@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1029">
+			<yearpublished>1988</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>210</playingtime>
+			<minplaytime>210</minplaytime>
+			<maxplaytime>210</maxplaytime>
+			<age>16</age>
+
+							<name primary="true" sortindex="1">Lieber bairisch sterben</name>
+									
+			<description>From the translation:&lt;br/&gt;&lt;br/&gt;&amp;ldquo;Better to Die Bavarian&amp;rdquo; is the battle for rule over the Bavarian people in 1705. Three sides fight for power: the Imperial Austrian Army (yellow counters/ Symbol:  Imperial Orb); the Prince&amp;rsquo;s soldiers (blue counters/Symbol: the crown), and the rebellious farmers (red counters/Symbol:  Pitchfork). There are also the monks, who surprisingly intervened in the power struggle.&lt;br/&gt;&lt;br/&gt;Players don't represent a particular faction, but instead must court the factions' leadership each turn. He acquires counters of the corresponding color. The main shareholder is awarded the leadership for that turn.  In the course of the game, the leader of a side can change.&lt;br/&gt;&lt;br/&gt;With his faction, a player tries, during the round, to gain points. Points are awarded for the capture of the most important towns: Munich, Regensburg, Passau, Straubing, Landshut, and Burghausen. You have to occupy these with a unit.  Occupying a town brings money into the bank, with which you can pay for the cost of the troops.&lt;br/&gt;&lt;br/&gt;Battles are dealt with by using the Maneuver Cards and Dice. The action cards give support to the players when they court points and power. The points acquired by each player are recorded on the pad. The player with the highest number of points at the end of the game is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NxqZrPK__X4L-r3QaedZEXtz7u4=/fit-in/200x150/pic1013257.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XJKHbWcseHr4dh7Q_UCLU500L-Y=/0x0/pic1013257.jpg</image>
+						
+												<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameversion objectid="108125">First edition</boardgameversion>
+															<boardgamepublisher objectid="2">Moskito Spiele</boardgamepublisher>
+															<boardgamedesigner objectid="1">Karl-Heinz Schmiel</boardgamedesigner>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>34</usersrated>
+					<average>6.75882</average>
+					<bayesaverage>5.53634</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9426" bayesaverage="5.53634" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1989" bayesaverage="5.7008" />
+												
+											</ranks>
+					
+					<stddev>1.65354</stddev>
+					<median>0</median>
+					<owned>134</owned>
+					<trading>8</trading>
+					<wanting>6</wanting>
+					<wishing>12</wishing>
+					<numcomments>14</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

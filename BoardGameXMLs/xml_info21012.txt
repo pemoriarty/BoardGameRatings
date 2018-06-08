@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21012">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="5">Das grosse Pentago</name>
+							<name primary="true" sortindex="1">Pentago XL</name>
+									
+			<description>A four-player version of Pentago.  (Now in color, instead of black and white) &lt;br/&gt;An abstract strategy game with nine 3&amp;times;3 grids arranged into a larger 9x9 grid. Players alternate placing marbles on the board, each players has a color of marbles, and the game is set-up to allow team-play. The first player or team to get five in a row on the entire 9x9 grid wins, but there is a twist: Every time a player places a marble he or she also turns any one of the game&amp;rsquo;s eight outer boards (3&amp;times;3 grid) 90&amp;deg; in either direction. The ever-changing game board makes the game all the more challenging.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Pentago&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Multiplayer Pentago&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nIDokO1pjjvHn4S_QdR5Gn9yFcI=/fit-in/200x150/pic162879.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/agTUoT0G-PFlzNc0J2cowkV6YbU=/0x0/pic162879.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="9829">Pål Keller Carlquist</boardgamedesigner>
+																													<boardgamedesigner objectid="5993">Tomas Flodén</boardgamedesigner>
+																																																																<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgameversion objectid="106681">Kosmos edition</boardgameversion>
+															<boardgamepublisher objectid="4561">Mindtwister AB</boardgamepublisher>
+															<boardgameversion objectid="147774">Mindtwister Multilingual edition</boardgameversion>
+															<boardgameimplementation objectid="56690">Multiplayer Pentago</boardgameimplementation>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+																						<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamefamily objectid="18439">Pentago</boardgamefamily>
+																						<boardgameartist objectid="7089">Mårten Skoger</boardgameartist>
+															<boardgamepublisher objectid="964">Tactic</boardgamepublisher>
+															<boardgameversion objectid="33615">Tactic Edition</boardgameversion>
+															<boardgameartist objectid="26321">Joel Ydring</boardgameartist>
+															<boardgameimplementation objectid="19841" inbound="true">Pentago</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>76</usersrated>
+					<average>6.0875</average>
+					<bayesaverage>5.52325</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10567" bayesaverage="5.52325" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="533" bayesaverage="5.64016" />
+												
+											</ranks>
+					
+					<stddev>1.70476</stddev>
+					<median>0</median>
+					<owned>100</owned>
+					<trading>5</trading>
+					<wanting>11</wanting>
+					<wishing>42</wishing>
+					<numcomments>27</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.8889</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

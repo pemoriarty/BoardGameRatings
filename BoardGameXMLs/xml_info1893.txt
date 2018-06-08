@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1893">
+			<yearpublished>1992</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Semáforo</name>
+							<name primary="true" sortindex="1">Traffic Lights</name>
+									
+			<description>Many variants on the concept of noughts and crosses exist. This version was created by Alan Parr. It is played on a 3x3 or 3x4 board with a supply of red, yellow, and green markers. The object is to get a line of three of the same color.&lt;br/&gt;&lt;br/&gt;On each turn, you may do ONE of the following:&lt;br/&gt;&lt;br/&gt;(1) Put a red counter in an empty square.&lt;br/&gt;(2) Replace a red counter with a yellow one.&lt;br/&gt;(3) Replace a yellow counter with a green one.&lt;br/&gt;&lt;br/&gt;So ultimately the board will fill with green counters.&lt;br/&gt;&lt;br/&gt;According to the book &amp;quot;What's your Game&amp;quot; by Michael Cornelius &amp;amp; Alan Parr, the game is a first player win with perfect play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RSU5AD94FOdLGIaxX7-sZY62ssw=/fit-in/200x150/pic114296.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/P7RLadh9SIP_NpbywKoB8bS8sx0=/0x0/pic114296.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="413">Fiendish Games</boardgamepublisher>
+																						<boardgamepublisher objectid="24407">LuduScience</boardgamepublisher>
+															<boardgameversion objectid="227330">Luduscience &quot;medio&quot; edition</boardgameversion>
+															<boardgameversion objectid="227328">LuduScience edition</boardgameversion>
+															<boardgamedesigner objectid="792">Alan Parr</boardgamedesigner>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamefamily objectid="7395">Video Tape Box Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>20</usersrated>
+					<average>4.965</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.87304</stddev>
+					<median>0</median>
+					<owned>20</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>9</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

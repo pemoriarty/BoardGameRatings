@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15173">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="5">Die Insel</name>
+							<name  sortindex="5">The Island</name>
+							<name  sortindex="1">Stadt im Himmel</name>
+									
+			<description>This is a new board game using the technology from King Arthur. This is an adventure game that takes place on an island with a volcano.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RLnmL5ysht8-WRI9NlWa1GS8tn4=/fit-in/200x150/pic77062.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0poHI_XcFHs62N7rzFHFEf9K1do=/0x0/pic77062.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1072">Electronic</boardgamecategory>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																																																																																																										<boardgameartist objectid="27685">KniffDesign</boardgameartist>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgameartist objectid="11804">Joachim Krause</boardgameartist>
+															<boardgameartist objectid="33722">Henry M. Linder</boardgameartist>
+															<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+															<boardgameartist objectid="2946">Walter Pepperle</boardgameartist>
+															<boardgameversion objectid="270780">Ravensburger German &quot;Smart Play&quot; edition</boardgameversion>
+															<boardgameversion objectid="33797">Ravensburger German First Edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+																						<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>87</usersrated>
+					<average>6.73678</average>
+					<bayesaverage>5.5873</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6454" bayesaverage="5.5873" />
+												
+											</ranks>
+					
+					<stddev>1.39565</stddev>
+					<median>0</median>
+					<owned>158</owned>
+					<trading>5</trading>
+					<wanting>9</wanting>
+					<wishing>24</wishing>
+					<numcomments>25</numcomments>
+					<numweights>17</numweights>
+					<averageweight>1.9412</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

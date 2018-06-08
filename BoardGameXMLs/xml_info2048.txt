@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2048">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Starships</name>
+									
+			<description>This is really a tile-laying game using cards. An improved version of Up the Creek (a.k.a. Ogallala) transposed to a Science Fiction context.&lt;br/&gt;&lt;br/&gt;In a &amp;quot;space dock&amp;quot; you build up starships. Cards represent prows and poops, and everything in between --missile launchers, laser turrets, shuttles...Special &amp;quot;prizes&amp;quot; appear as pairs of cards; should you be lucky enough to draw both halves and play them side by side, it is worth more. Each of these prizes is worth even more if played in the same starship as a specific accompanying card.&lt;br/&gt;&lt;br/&gt;At any point, you have to choose between closing a starship (and scoring) or building it up some more. In addition, complete starships can attack the other player's starships...&lt;br/&gt;&lt;br/&gt;There is little control in this game, as the players simply draw then place cards - but there's still some reasonable amount of strategy in the placements. The simplicity makes it accessible to children, whilst it remains enjoyable by adults as a light, quick game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-5VeeQIEdetph1o__ftQb_qdHZ0=/fit-in/200x150/pic70144.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1xAnnOF44R0nz-xr0I-79GJyT0E=/0x0/pic70144.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgameversion objectid="27905">First edition</boardgameversion>
+															<boardgamedesigner objectid="154">Rudi Hoffmann</boardgamedesigner>
+															<boardgamefamily objectid="21928">Ogallala Series</boardgamefamily>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+															<boardgamepublisher objectid="95">Waddington&#039;s Games, Inc.</boardgamepublisher>
+															<boardgameimplementation objectid="2047" inbound="true">Up the Creek</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>19</usersrated>
+					<average>6.01316</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.961337</stddev>
+					<median>0</median>
+					<owned>45</owned>
+					<trading>4</trading>
+					<wanting>3</wanting>
+					<wishing>9</wishing>
+					<numcomments>9</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1398">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>16</age>
+
+							<name primary="true" sortindex="1">Chicago</name>
+									
+			<description>extrapolated from the English translation of the rules.&lt;br/&gt;&lt;br/&gt;Chicago is played in a city in which the bars and casinos are being fought over. The winner is the person who succeeds at one of the following three goals, and can stay that way up through the end of a game phase.&lt;br/&gt;&lt;br/&gt;- The owner of 3 of the 4 casinos,&lt;br/&gt;- The owner of all 8 bars in the central square,&lt;br/&gt;- The owner of 5 thugs with 4 rings each.&lt;br/&gt;If no one manages to reach a goal by the end of the 24th turn, the winner is the player with the biggest fortune.&lt;br/&gt;&lt;br/&gt;The board shows a map with streets and buildings. Each Quarter has the same layout, with the central place in the middle of the board. Bars and Casinos: Each bar is a space. Each Quarter has a casino and 22 bars of different values but each Quarter has an overall value of 72,000.&lt;br/&gt;&lt;br/&gt;Players can use thugs to help control a Quarter&lt;br/&gt;&lt;br/&gt;A  game of Chicago runs at most 4 phases (a-d). In each phase, there are 6 rounds.&lt;br/&gt;&lt;br/&gt;End of a phase:&lt;br/&gt;At the end of each set of 6 game turns, a phase ends. All players receive the value of bars and casinos they own. Each player counts the value of their buildings marked with their chips. The player then gets that value in cash.&lt;br/&gt;&lt;br/&gt;Game End: The game ends when a player has achieved one of the goals at the end of a phase. If the game makes it to the end of phase D, and no one has reached a goal, the game ends. Players receive income from bars and casinos, then the player with the most money wins. The value of thugs is added to cash on hand to determine the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hPBE1jec8x7VcUNON3adou6IYNM=/fit-in/200x150/pic11516.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dRTSEE1nLz-uMMthPvTfGvFXx6M=/0x0/pic11516.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamefamily objectid="18227">Cities: Chicago (Illinois, USA)</boardgamefamily>
+															<boardgamefamily objectid="14835">Country: USA</boardgamefamily>
+															<boardgameversion objectid="46689">Dutch-only edition</boardgameversion>
+															<boardgameversion objectid="73034">English-only edition</boardgameversion>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamepublisher objectid="144">Flying Turtle Games</boardgamepublisher>
+																																				<boardgameversion objectid="400932">German-only edition</boardgameversion>
+															<boardgameversion objectid="72389">Italian-only edition</boardgameversion>
+															<boardgameversion objectid="103594">Italian/German edition</boardgameversion>
+															<boardgamecategory objectid="1033">Mafia</boardgamecategory>
+															<boardgameversion objectid="132577">Multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+																						<boardgameartist objectid="22513">J. C. Sohier</boardgameartist>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamedesigner objectid="488">H. Jean Vanaise</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>166</usersrated>
+					<average>5.38614</average>
+					<bayesaverage>5.47859</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13920" bayesaverage="5.47859" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1750" bayesaverage="5.46398" />
+												
+											</ranks>
+					
+					<stddev>1.48758</stddev>
+					<median>0</median>
+					<owned>457</owned>
+					<trading>42</trading>
+					<wanting>2</wanting>
+					<wishing>9</wishing>
+					<numcomments>51</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.0769</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

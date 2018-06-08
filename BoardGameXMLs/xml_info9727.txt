@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9727">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Play Net</name>
+									
+			<description>Play Net is a board game based on the concept of Petri nets, which are graphical tools that describe the mathematical processes behind systems with many components.&lt;br/&gt;&lt;br/&gt;The game board is illustrated with a network of many nodes: four are starting points and one is the finishing point.  Starting with a colored personal token and six grey neutral tokens, each player's goal is to move his or her personal token to the finishing point.&lt;br/&gt;&lt;br/&gt;The nodes are interlinked by directional gateways.  A node can have only one entry route from another node, but it might have exits to two others.  Token movement follows the rule that to enter a node, all entries through the gateway must be occupied, and its exits clear.  Players take turns to place their tokens and move everyone's tokens if movement conditions are satisfied, taking back neutral tokens under certain circumstances.&lt;br/&gt;&lt;br/&gt;The first player to reach the finishing point wins.  The game ends at that point if the players agree, or they can play till all positions are decided.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/koSPr7gh2_udU6BZapM5lP7Nkq8=/fit-in/200x150/pic40646.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/d42sDqyjKNNx-kHZ3fUUqEU0WvI=/0x0/pic40646.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="1568">Helmut Dressler</boardgamedesigner>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="249004">First edition</boardgameversion>
+																						<boardgamepublisher objectid="906">Play Net Spieleverlag</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>19</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>11</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

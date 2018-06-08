@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7008">
+			<yearpublished>1802</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Preferans</name>
+							<name primary="true" sortindex="1">Preference</name>
+							<name  sortindex="1">Priffe</name>
+							<name  sortindex="1">Πρέφα (Prefa)</name>
+							<name  sortindex="1">Преф</name>
+							<name  sortindex="1">Преферанс</name>
+									
+			<description>Preference is a standard deck playing card game played throughout central Europe and Russia using a 32 card &amp;quot;Bavarian&amp;quot; deck like the one used in Schafkopf.  The major varieties of Preference are Croatian, Austrian, and Russian and there are variations of each as well.  Generally a three player game, a fourth player can play by having the dealer of each hand sit out for the round.  Following is a brief description of the Croatian version of the game, and below are links to rule sets for the Croatian, Austrian, and Russian versions.&lt;br/&gt;&lt;br/&gt;Each of the suits has a predetermined value:&lt;br/&gt;Leaves = 2&lt;br/&gt;Bells = 3&lt;br/&gt;Hearts = 4&lt;br/&gt;Acorns = 5&lt;br/&gt;&lt;br/&gt;The dealer deals out all 32 cards - 10 to each player and 2 to the &amp;quot;talon&amp;quot; (crib).  Each player in turn bids one of the suits for trump, or can bid the value 6 game where the declarer(bid winner) can attempt to take no tricks and the other two must try to force him to do so, or the 7 game where there is no trump suit. The highest bid becomes the declarer, takes the two cards from the &amp;quot;talon&amp;quot; and discards two, and then must take 6 tricks to succeed in the game he bid for or a higher one.  The opposing players have the option to play in which they must get two tricks to succeed.  If only one player is opposing, he may request the aid of the other non-declaring player in an attempt to make the declarer fail in his bid, but takes all the bonuses or penalties for doing so.  Non bid hands means a double scoring round in the next hand, and &amp;quot;kontra&amp;quot; may be offered to double the stakes of a hand a player is confident in making the declarer fail (and can be &amp;quot;rekontra&amp;quot; and &amp;quot;sukontra&amp;quot; or doubled and doubled again and again!).&lt;br/&gt;&lt;br/&gt;The players start out with a set number of points (usually 100 each) and the game goes until the total of all three players equals zero.  Tricks taken when opposing a contract score some points for the player and against those players in the final tally.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4yHwSX5Su7X0XQe-1kYXpjgnceo=/fit-in/200x150/pic100613.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G33ssWF3MhtLRK9aSYYhtUZBjfQ=/0x0/pic100613.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+																						<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgameversion objectid="153948">First edition</boardgameversion>
+																																				<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>59</usersrated>
+					<average>7.49424</average>
+					<bayesaverage>5.57829</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6806" bayesaverage="5.57829" />
+												
+											</ranks>
+					
+					<stddev>1.98035</stddev>
+					<median>0</median>
+					<owned>48</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>13</wishing>
+					<numcomments>33</numcomments>
+					<numweights>13</numweights>
+					<averageweight>3.2308</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

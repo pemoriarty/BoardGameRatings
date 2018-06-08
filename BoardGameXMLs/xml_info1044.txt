@@ -1,0 +1,152 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1044">
+			<yearpublished>1982</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Gunslinger</name>
+									
+			<description>&amp;quot;Fill Yore Hand ...&amp;quot; with Gunslinger, the game of western gunfights. In Gunslinger, you play the part of a western character who is caught in a sudden gunfight, and you face the split-second decisions and incidents of the showdown as bullets start to fly.&lt;br/&gt;&lt;br/&gt;Gunslinger is based on a quick and easy game system that recreates the split-second nature of gunplay. Each turn the players secretly play cards to define exactly what they will do during the next two seconds in the game. Then they step through these actions on the playing map, resolving each shot in the split-second when it takes place. Gunslinger resolves combat quickly and easily. The attacker draws a result card that shows exactly where his shot hits, which combines with his gun to determine the damage he inflicts. This recreates the critical differences between weapons: Winchesters, Shotguns, Buffalo rifles, Colt's &amp;quot;Peacemaker&amp;quot;, Smith &amp;amp; Wesson's breakopen guns and Remington's Derringer are a few of the guns in the game.&lt;br/&gt;&lt;br/&gt;Gunslinger includes eight two-sided boards (a total of sixteen map faces) portraying town and countryside terrain at a scale of six feet per hex. These boards can be assembled in varying ways to create a vast number of different maps that are used in the gunfights. The terrain includes gullies, hills, trees, watering troughs, wells, hitching posts and the interiors of buildings.&lt;br/&gt;&lt;br/&gt;Gunslinger presents 26 different gunfights and several hundred variations, including both historical gunfights and made-up situations. Wild Bill Hickok, Billy the Kid, Wyatt Earp, and John Wesley Hardin are just a few of the real gunslingers of history who appear in re-creations of the gunfights that made them famous.  Indian raids, barroom brawls and poker games are just a few of the hypothetical situations.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xQyHTB349-E-QgxBOnQCdGDL9z8=/fit-in/200x150/pic184259.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YxWTmTWoDDZJCFmRf2ngpZ5RjYs=/0x0/pic184259.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamecategory objectid="1055">American West</boardgamecategory>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+																																											<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="24523">First edition</boardgameversion>
+																						<boardgamedesigner objectid="19">Richard Hamblen</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="2652">Charles Kibler</boardgameartist>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgameartist objectid="12259">W. Scott Moores</boardgameartist>
+																						<boardgameartist objectid="12252">Dale Sheaffer</boardgameartist>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepodcastepisode objectid="7419">The Messy Game Room Episode 14</boardgamepodcastepisode>
+																						<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgameartist objectid="1158">Chris White (I)</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>896</usersrated>
+					<average>7.09591</average>
+					<bayesaverage>6.17861</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1536" bayesaverage="6.17861" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="280" bayesaverage="6.41612" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="773" bayesaverage="6.27909" />
+												
+											</ranks>
+					
+					<stddev>1.61076</stddev>
+					<median>0</median>
+					<owned>1823</owned>
+					<trading>84</trading>
+					<wanting>196</wanting>
+					<wishing>484</wishing>
+					<numcomments>435</numcomments>
+					<numweights>113</numweights>
+					<averageweight>3.2566</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

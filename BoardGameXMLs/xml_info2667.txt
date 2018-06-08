@@ -1,0 +1,158 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2667">
+			<yearpublished>1998</yearpublished>
+			<minplayers>4</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">What Were You Thinking?</name>
+									
+			<description>A party game where you try to guess the most popular answers to the questions, not necessarily the correct answers.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OJkunoQGn_SEgNgkU0Iw7HzB42c=/fit-in/200x150/pic9122.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Et6ihYmb0cx2UmETBu6vZ4sMHok=/0x0/pic9122.jpg</image>
+						
+												<boardgamehonor objectid="13016">1998 Origins Awards Best Abstract Board Game Winner</boardgamehonor>
+															<boardgamepodcastepisode objectid="20557">BGTG - March 29, 2005</boardgamepodcastepisode>
+															<boardgameversion objectid="28486">First edition</boardgameversion>
+															<boardgamedesigner objectid="14">Richard Garfield</boardgamedesigner>
+															<boardgameimplementation objectid="201308">Hive Mind</boardgameimplementation>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamesubdomain objectid="5498">Party Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+																						<boardgamepublisher objectid="13">Wizards of the Coast</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>232</usersrated>
+					<average>6.91373</average>
+					<bayesaverage>5.73708</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3648" bayesaverage="5.73708" />
+												
+							
+														<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="172" bayesaverage="6.084" />
+												
+											</ranks>
+					
+					<stddev>1.56992</stddev>
+					<median>0</median>
+					<owned>258</owned>
+					<trading>23</trading>
+					<wanting>21</wanting>
+					<wishing>68</wishing>
+					<numcomments>107</numcomments>
+					<numweights>15</numweights>
+					<averageweight>1.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

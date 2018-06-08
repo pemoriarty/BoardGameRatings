@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="661">
+			<yearpublished>1990</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Wer hat mehr?</name>
+							<name primary="true" sortindex="1">Where&#039;s Bob&#039;s Hat?</name>
+									
+			<description>A form of estimation whist, with three colored suits (cards from 1 to 20), and the possibility of trumps or no-trumps.   You have to bid for which suit (or suits) you think you will capture most cards of, or you can bid to capture fewer cards than anyone else.   Get it right, you score; get it wrong, you take a penalty.   The number of cards per hand increases round by round, and the number of rounds depends on the number of players.&lt;br/&gt;&lt;br/&gt;From the Box:&lt;br/&gt;Where's Bob's Hat? is best with 3 or 4 players. Over several hands, players bid to take the most cards in one or more of the three suits, each a different kind of hat. Players who feel they will take few, if any, tricks may bid to take the fewest cards in tricks played during each hand. Players score points for making their bids and lose points for missing their bids.&lt;br/&gt;&lt;br/&gt;Several cards picture Bob's Hat in addition to the hat of their suit. When a player wins a trick containing a card with Bob's Hat on it, the player takes the Bob's Hat card (worth plus or minus 10 points). The player with the card at the end of the hand add (or subtracts) 10 points to his score. The player with the most points at the end of the game is the winner!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P1uzuZWmNhHewv7Q5aD-vruSoFI=/fit-in/200x150/pic244547.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zNWoxG1pvHekfVaWqTQ9034WUbs=/0x0/pic244547.jpg</image>
+						
+												<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																																									<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgamepublisher objectid="22">Piatnik</boardgamepublisher>
+															<boardgameversion objectid="36265">Piatnik Hit-Serie Edition</boardgameversion>
+																						<boardgameversion objectid="29891">Rio Grande edition</boardgameversion>
+															<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>390</usersrated>
+					<average>6.2289</average>
+					<bayesaverage>5.68248</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4254" bayesaverage="5.68248" />
+												
+											</ranks>
+					
+					<stddev>1.33439</stddev>
+					<median>0</median>
+					<owned>663</owned>
+					<trading>42</trading>
+					<wanting>10</wanting>
+					<wishing>30</wishing>
+					<numcomments>159</numcomments>
+					<numweights>43</numweights>
+					<averageweight>1.5814</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

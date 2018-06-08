@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15958">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Sfinksi</name>
+							<name primary="true" sortindex="1">Sphinx</name>
+									
+			<description>Players each secretly construct a maze on a hidden grid, and place both an entrance and the location of the treasure.  Each player races to find his/her way to the opponent's treasure before their own treasure is stolen.&lt;br/&gt;&lt;br/&gt;Each turn a player calls out a location on the grid.  If that location is a corridor square, the turn continues, if it's a wall, the turn ends, and if it's the treasure, the player wins.  Each location guessed must be connected back to the entrance by confirmed corridor squares.&lt;br/&gt;&lt;br/&gt;Components:&lt;br/&gt;&lt;br/&gt;    2 screens&lt;br/&gt;    4 grids&lt;br/&gt;    120 chips (yellow for corridors, brown for walls)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This game is similar to Pathfinder/Sniff&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/k4MWAEfu_RbpAuEndwmI53AMkrA=/fit-in/200x150/pic202962.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ocAdP5UXvptnAh37D_PR8VtyNLY=/0x0/pic202962.jpg</image>
+						
+												<boardgamedesigner objectid="4817">Mark Berger</boardgamedesigner>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																						<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="154580">Finnish edition</boardgameversion>
+															<boardgameversion objectid="154579">German edition</boardgameversion>
+																						<boardgamedesigner objectid="483">Edith Grein-Böttcher</boardgamedesigner>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameimplementation objectid="2884" inbound="true">Pathfinder</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>33</usersrated>
+					<average>5.81818</average>
+					<bayesaverage>5.50947</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11811" bayesaverage="5.50947" />
+												
+											</ranks>
+					
+					<stddev>1.65977</stddev>
+					<median>0</median>
+					<owned>76</owned>
+					<trading>4</trading>
+					<wanting>4</wanting>
+					<wishing>11</wishing>
+					<numcomments>10</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

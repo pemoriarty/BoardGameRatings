@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2232">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Connexion</name>
+							<name  sortindex="1">Domino Bead Game</name>
+							<name primary="true" sortindex="1">Wu Hsing</name>
+									
+			<description>Published version of Sackson's Domino Bead Game as described in A Gamut of Games. Domino-like placement game which rewards the appropriate arrangement of patterns.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ED7kHz01E5gkS3lh200NjFU8a7I=/fit-in/200x150/pic296189.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8N6H4bHwqIEfoa9CTvJ6aDduj2A=/0x0/pic296189.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="97">Dominoes</boardgamefamily>
+																						<boardgameversion objectid="109782">First edition</boardgameversion>
+															<boardgamepublisher objectid="151">franjos Spieleverlag</boardgamepublisher>
+																																				<boardgamepublisher objectid="10504">Jouets Éducatifs Universels</boardgamepublisher>
+																																				<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgameartist objectid="3106">Franz-Josef Schulte</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>48</usersrated>
+					<average>6.74167</average>
+					<bayesaverage>5.55302</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8179" bayesaverage="5.55302" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="350" bayesaverage="5.8118" />
+												
+											</ranks>
+					
+					<stddev>1.2744</stddev>
+					<median>0</median>
+					<owned>105</owned>
+					<trading>3</trading>
+					<wanting>4</wanting>
+					<wishing>13</wishing>
+					<numcomments>26</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

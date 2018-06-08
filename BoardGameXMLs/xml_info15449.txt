@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15449">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Um El Bagara</name>
+									
+			<description>Also known as &amp;quot;The Cow Game&amp;quot;.&lt;br/&gt;&lt;br/&gt;This is an ancient game similar to Mancala, and it originated in Africa, in the area now known as the Sudan.&lt;br/&gt;&lt;br/&gt;The board is similar to a Mancala board, and 5 stones are placed in each of the 10 playing wells. Players take turns moving stones by picking up all the stones in a well (except for one!) then dropping a stone in each well until they run out, moving either clockwise or counter-clockwise. You skip the scoring wells and must put a stone in the well you started in (in addition to leaving one there to begin the move). A well with only a single stone cannot be moved.&lt;br/&gt;&lt;br/&gt;After your move, starting with the well you last placed a stone into, any wells that have exactly two or four stones may be placed in your scoring well. If there is a well that you cannot score (it has a number of stone other than 2 or 4), then any that come after it in sequence may not be scored either.&lt;br/&gt;&lt;br/&gt;The game ends when neither player can make a legal move. Any stones left on a players side of the board are added to those in his scoring well. However has the most stones is the winner.&lt;br/&gt;&lt;br/&gt;Um el Tuweisat is considered a children's version of this game&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="124">Great American Trading Company</boardgamepublisher>
+															<boardgamefamily objectid="9">Mancala</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

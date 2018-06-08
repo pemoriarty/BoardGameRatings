@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21074">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Monochrome  Chess</name>
+									
+			<description>Monochrome Chess is played with 2 identical Chess sets, set up as you would for ordinary Chess, except with the same color on both sides of the board. The objective is to capture pieces (including the King) of your opponent.&lt;br/&gt;&lt;br/&gt;Any piece positioned on your side of the board (i.e. the 4 rows closest to you) is yours, while any piece on the other side of the board belongs to your opponent. Any time you move a piece across the center line, it becomes your opponent's piece. You may only capture pieces belonging to your opponent, so pieces which get moved onto your side of the board can only be captured by your opponent. There is no &amp;quot;check&amp;quot; or &amp;quot;checkmate&amp;quot;: a king may be captured, and the game ends if one player runs out of pieces.&lt;br/&gt;&lt;br/&gt;The player who has the captured the highest point-value total of the opponents pieces is the winner. (K = 10, Q = 8, R= 5, B = 4, Kt  3, P = 1)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QgJsEyycyN_v-OTD4TN7E_V5b5g=/fit-in/200x150/pic203051.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KNsXnePi9QBBIsV98AlGJadgqUk=/0x0/pic203051.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="122">Andrew Looney</boardgamedesigner>
+															<boardgamepublisher objectid="76">Looney Labs</boardgamepublisher>
+																						<boardgameimplementation objectid="19803" inbound="true">Martian Chess</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>6.07143</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.51323</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>5</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

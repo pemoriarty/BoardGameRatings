@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9138">
+			<yearpublished>1945</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Teeko</name>
+							<name  sortindex="1">Teko</name>
+									
+			<description>The game Teko was first released in 1945. Teko is played on a 4x4 grid. The name was changed to Teeko (and the board grid changed to 5x5) for the 1952 release by John Scarne Games.&lt;br/&gt;&lt;br/&gt;Each player has four pieces. Players start by alternately placing pieces on a 5x5 grid, then alternate moves (moving one piece each turn to an adjacent point on the grid). Object is to get four pieces in a row, or to form a square with your four pieces.&lt;br/&gt;&lt;br/&gt;Teko Junior rules do not allow diagonal moves. A player can win with the same patterns, but can also win by blocking his opponent's 4 pieces from moving (on a 4x4 grid).&lt;br/&gt;&lt;br/&gt;In 1998 Guy Steele solved standard Teeko, as well as all variants proposed by the original inventor. The solution was brute force. Standard Teeko (only win with 4 in a row or a 2x2 square) is a draw with perfect play. Advanced Teeko (win with 4 in a row or a square of any size) is a win for the first player.&lt;br/&gt;&lt;br/&gt;Reimplementations or successors:&lt;br/&gt;&lt;br/&gt;A fully independently developed successor of the game with similar material and quite close winning conditions is Mondrago. Anyway instead of starting from a clean board Mondrago uses a fixed setup of the player's pawns. Besides winning with squares being parallel to board edges Mondrago uses diagonally and obliquely aligned perfect squares as well.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/83z4_MpgvJ4waXhKkrLMc7Xn9JM=/fit-in/200x150/pic38574.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bYFThw_XFd_wcWpISCf-f2QIdGQ=/0x0/pic38574.jpg</image>
+						
+																			<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgameversion objectid="169057">John Scarne Games Edition 1952</boardgameversion>
+															<boardgamepublisher objectid="2131">John Scarne Games, Inc.</boardgamepublisher>
+															<boardgameversion objectid="169056">Musto Bros. edition</boardgameversion>
+															<boardgamepublisher objectid="22843">Musto Bros., Inc.</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamedesigner objectid="1547">John Scarne</boardgamedesigner>
+																																																							
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21</usersrated>
+					<average>6.11905</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.58042</stddev>
+					<median>0</median>
+					<owned>31</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>7</wishing>
+					<numcomments>17</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5079">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Push</name>
+									
+			<description>The object of the game is to Push your Prince from its home position to one of the crowned squares on the opposite side of the board (the edge rows).  This is achieved with the help of your eight Escort pieces.&lt;br/&gt;&lt;br/&gt;On your turn, you move either your Prince (1, 2 or 3 steps) or an Escort (by its exact value: 3, 4, 5 or 6).  Each step is horizontal, diagonal or vertical --but the board is odd.  It is 33x33 with 64 3x3 tiles &amp;quot;punched out&amp;quot;, some with a connected square remaining in the middle.&lt;br/&gt;&lt;br/&gt;Jumps aren't allowed.  A Push occurs when an Escort arrives short of another piece (Princes can't Push); what happens is that the Escort's remaining steps are transferred to the pushed piece --which may be an opposing piece or your own Prince.  The pushed piece's move must be in a straight line, in the direction dictated by the collision.  When the straight line isn't possible, deflection occurs as indicated in the rules.  Compound pushes can occur, when a pushed piece in turn collides with another.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/X9pNZgervqTfzdC_EA8Ipl3SqPI=/fit-in/200x150/pic16912.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UTzrjJ4aC7zqEZpufvXuhaahf8Y=/0x0/pic16912.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamedesigner objectid="1932">Louis DaVia</boardgamedesigner>
+															<boardgameversion objectid="126374">First edition</boardgameversion>
+															<boardgamepublisher objectid="426">Ungame</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

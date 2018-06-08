@@ -1,0 +1,142 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="905">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Decision! Decisions!</name>
+							<name  sortindex="1">Opportunity</name>
+							<name primary="true" sortindex="1">Vagabondo</name>
+									
+			<description>This game, from the makers of Mastermind, challenges players to place pentomino-style tiles of various sizes and shapes onto a grid in such a way that they always touch pieces of an opposing color but do not touch pieces of their own color.  There are different rules for the two-player/four-player partnership game and the three-to-six-player game, allowing for more players than usual for an abstract strategy game to play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/KJ3mYGOdXBfs-ZyaOc4nUEo2rVo=/fit-in/200x150/pic63935.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LH-LWuxyoB_Rv93aHJ2ZkdN7O4w=/0x0/pic63935.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameartist objectid="76644">Frank Baginski</boardgameartist>
+															<boardgamepublisher objectid="27714">Evermore Industries, Inc</boardgamepublisher>
+															<boardgameversion objectid="246129">Evermore Industries, Inc edition</boardgameversion>
+															<boardgamedesigner objectid="912">Peter Forbes</boardgamedesigner>
+															<boardgameversion objectid="156957">Invicta first edition 1978</boardgameversion>
+															<boardgamepublisher objectid="233">Invicta Games</boardgamepublisher>
+															<boardgameversion objectid="155468">Invicta red box edition</boardgameversion>
+															<boardgameversion objectid="155465">Invicta white box edition</boardgameversion>
+															<boardgamepublisher objectid="2368">Murfett Australia</boardgamepublisher>
+															<boardgameversion objectid="155611">Murfett Australian edition</boardgameversion>
+															<boardgamefamily objectid="24571">Polyominoes</boardgamefamily>
+															<boardgamedesigner objectid="911">Brian Taylor</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>5.67742</average>
+					<bayesaverage>5.50497</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12208" bayesaverage="5.50497" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="728" bayesaverage="5.48735" />
+												
+											</ranks>
+					
+					<stddev>1.52161</stddev>
+					<median>0</median>
+					<owned>100</owned>
+					<trading>14</trading>
+					<wanting>6</wanting>
+					<wishing>7</wishing>
+					<numcomments>24</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.6</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

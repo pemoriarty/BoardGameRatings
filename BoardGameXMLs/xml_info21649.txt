@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21649">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Tromino Go</name>
+									
+			<description>Players use sets of tetrominoes to try to build connected paths of their own tiles and surround their opponent's tiles. A player may not place the same shape of tetromino twice in a row and must place a tile so that it touches the last tile his opponent played.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0s9tRB_uZb7nb-sxa-eg8nEJXmM=/fit-in/200x150/pic476371.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YdgILyZeaOf0xP0vSVTSNGXUSpw=/0x0/pic476371.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamepublisher objectid="752">GAMES Magazine</boardgamepublisher>
+															<boardgamefamily objectid="24571">Polyominoes</boardgamefamily>
+															<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgamepublisher objectid="120">SPI (Simulations Publications, Inc.)</boardgamepublisher>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

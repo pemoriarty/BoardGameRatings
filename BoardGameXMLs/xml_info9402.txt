@@ -1,0 +1,86 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9402">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Ski Springen</name>
+							<name primary="true" sortindex="1">Skispringen</name>
+									
+			<description>Roll the dice and move the spaces. Decide if you want to buy this space. Perhaps you have to draw an action card. You have money in the beginning of the game. And you should have more money in the end of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cdb6Js1tbQLdDJ7qupH05TBAM54=/fit-in/200x150/pic163314.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5epbabHK1UaGM79TYBJ-ck9Rl84=/0x0/pic163314.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="153554">First edition</boardgameversion>
+																																				<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgamedesigner objectid="3204">Johannes Odenthal</boardgamedesigner>
+															<boardgameartist objectid="3204">Johannes Odenthal</boardgameartist>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5732">Sports: Winter Sports</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>5.83333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.95078</stddev>
+					<median>0</median>
+					<owned>17</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

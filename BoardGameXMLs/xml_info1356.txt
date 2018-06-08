@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1356">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Boszorkányfutam</name>
+							<name primary="true" sortindex="1">Hexen Rennen</name>
+							<name  sortindex="1">Hexenrennen</name>
+							<name  sortindex="1">Witch Race</name>
+							<name  sortindex="1">마녀들의 경주</name>
+									
+			<description>Each player races a team of 3 witches, trying to run them through a random obstacle course made up randomly each game out of 48 cardboard disks. Both your hand of cards and the board move your witches. Problem is, the board disks all start face down, so the leaders have a rougher time of it.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TT8D0Kjb4q2O2Ts0_bVNfu3GXY4=/fit-in/200x150/pic725204.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PVpALBx51lqjZDaR4AYAGEfjRoI=/0x0/pic725204.jpg</image>
+						
+												<boardgamehonor objectid="8665">2001 Spiel des Jahres Recommended</boardgamehonor>
+																																				<boardgameversion objectid="27108">German first edition</boardgameversion>
+																																																		<boardgameversion objectid="370872">German second edition</boardgameversion>
+																						<boardgamecategory objectid="1024">Horror</boardgamecategory>
+															<boardgameversion objectid="172182">Hungarian edition</boardgameversion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="249">Wolfgang Panning</boardgamedesigner>
+															<boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgameartist objectid="28011">Katja Schmiedeskamp</boardgameartist>
+															<boardgamefamily objectid="28880">Witches</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>196</usersrated>
+					<average>6.24005</average>
+					<bayesaverage>5.59614</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6123" bayesaverage="5.59614" />
+												
+											</ranks>
+					
+					<stddev>1.33749</stddev>
+					<median>0</median>
+					<owned>393</owned>
+					<trading>14</trading>
+					<wanting>8</wanting>
+					<wishing>22</wishing>
+					<numcomments>50</numcomments>
+					<numweights>13</numweights>
+					<averageweight>1.3846</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

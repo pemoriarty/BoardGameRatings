@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="16141">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Fredericus</name>
+									
+			<description>Fredericus, by Eligio Cazzato, is a board game for 2-4 falconers at the court of Kaiser Frederik II in Castel del Monte. The box includes 118 cards (43x66mm), an illustrated game board, and a falcon, hawk, and betting coin for each player. The goal of the game is to catch as many mythological beasts as possible. After each capture, the catches of the other players can be bet on and the Kaiser can award prizes to the players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JDzuaokYzdcMYuCpSlFkLIu_RlY=/fit-in/200x150/pic85994.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EhAAvb2hffFIHyr0TDq4pkvAwgs=/0x0/pic85994.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamedesigner objectid="3841">Eligio Cazzato</boardgamedesigner>
+															<boardgameartist objectid="12126">Stefano de Fazi</boardgameartist>
+																						<boardgamepublisher objectid="917">dV Giochi</boardgamepublisher>
+															<boardgameversion objectid="71489">dV Giochi edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameexpansion objectid="26144">Fredericus: Sigillum Magnum</boardgameexpansion>
+																						<boardgameversion objectid="31848">Mayfair edition</boardgameversion>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																													<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>162</usersrated>
+					<average>5.35679</average>
+					<bayesaverage>5.47755</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13975" bayesaverage="5.47755" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1749" bayesaverage="5.46739" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1541" bayesaverage="5.46988" />
+												
+											</ranks>
+					
+					<stddev>1.27064</stddev>
+					<median>0</median>
+					<owned>400</owned>
+					<trading>66</trading>
+					<wanting>2</wanting>
+					<wishing>15</wishing>
+					<numcomments>65</numcomments>
+					<numweights>23</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

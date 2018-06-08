@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20017">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Fractie</name>
+									
+			<description>This dutch game is about creating factions in a government.&lt;br/&gt;&lt;br/&gt;Initially a list of program points need to be filled in. The game starts with picking 7 tiles (from 150 available). These tiles represent persons in the government.&lt;br/&gt;&lt;br/&gt;By placing at least 2 adjecent tiles (they are numbered from A1 to J15, thus a total of 10 * 15 = 150) a faction appears.  If a faction is adjecent to another faction the smallest faction is absorbed. Voting is then performed. &lt;br/&gt;Depending on the size of the factions a program point is selected or cancelled, so the player with the biggest factions has more chance for succeeding his points.&lt;br/&gt;&lt;br/&gt;By getting cards extra points can be gained, same for each placed tile to an owned faction.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JAvcUybDbKmhsyvnzF1EflIAxOM=/fit-in/200x150/pic688421.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xMEpcRiFxVAV8MUOR6QY7Wy6Y3M=/0x0/pic688421.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamepublisher objectid="1772">Clipper</boardgamepublisher>
+															<boardgameversion objectid="22646">First edition</boardgameversion>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamedesigner objectid="6058">Hans Ludo van Mierlo</boardgamedesigner>
+															<boardgamedesigner objectid="6057">Meindert Vrolijk</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>5.55</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.05948</stddev>
+					<median>0</median>
+					<owned>33</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

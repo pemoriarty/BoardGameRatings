@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="22219">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Tower &amp; Guard</name>
+							<name  sortindex="1">Tower and Guard</name>
+							<name primary="true" sortindex="1">Turm &amp; Wächter</name>
+									
+			<description>Turm &amp;amp; W&amp;auml;chter (Tower &amp;amp; Guard) is a simple abstract 2-player game that is played on a 7x7 grid. Each player starts with 7 Tower-stones and 1 Guard-stone. The aim of the game is to use these stones to capture your opponent's all important Guard-stone, or to occupy the starting position of this stone with your own Guard.&lt;br/&gt;&lt;br/&gt;Each turn a player can move one stone, or one stack of stones. How far (forwards, backwards or sideways, but never diagonal) is determined by the height of the stack. It is possible to move only a part of a stack if you don't want to move the full possible distance, but it is not allowed to jump over any other stones in this path. A move can end on a friendly Tower-stone or -stack, but Guard-stones can never become part of a stack.&lt;br/&gt;&lt;br/&gt;It is possible to capture enemy stones by landing on them, under certain conditions. Guard-stones can always land on any enemy stone or stack and likewise, anything can land on the enemy Guard-stone. A tower-stone or stack can capture enemy stones or stacks only when it at least matches the height of the opposing stack. All Tower-stones that are captured are removed from play and as stated before, taking the enemy Guard-stone is one way of two ways to win the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xx83yrX_JL1Gvepi-srR7tHBPF0=/fit-in/200x150/pic115088.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DWLumWOy2en0QtBw0olF8mZdsyo=/0x0/pic115088.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="2407">Clemens Gerhards</boardgamepublisher>
+															<boardgameversion objectid="170953">Clemens Gerhards Wooden Edition</boardgameversion>
+															<boardgamedesigner objectid="4812">Christoph Endres</boardgamedesigner>
+																													<boardgameartist objectid="74">Doris Matthäus</boardgameartist>
+																													<boardgamepublisher objectid="5156">Spiel &amp; Autor</boardgamepublisher>
+															<boardgamefamily objectid="135">Spielbox</boardgamefamily>
+															<boardgameversion objectid="21608">Spielbox edition</boardgameversion>
+															<boardgamepublisher objectid="3001">W. Nostheide Verlag GmbH</boardgamepublisher>
+															<boardgamedesigner objectid="6705">Robert Wirth</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>5.8125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.933324</stddev>
+					<median>0</median>
+					<owned>22</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>6</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

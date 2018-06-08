@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17247">
+			<yearpublished>1995</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">You Be the Judge</name>
+									
+			<description>You Be The Judge - The game of Real Life Court Dramas.&lt;br/&gt;&lt;br/&gt;You be the Judge contains brief descriptions of 500 court cases from around the world.&lt;br/&gt;&lt;br/&gt;Players divide themselves into two teams and take it in turns to decide on the outcome of a court case.&lt;br/&gt;&lt;br/&gt;One person from Team A selects a card from the box and reads it out loud to Team B, who then have the opportunity to consult with each other before announcing whether they, the jury, are FOR or AGAINST. If they answer correctly then they advance 0, 1, 2, 3 places round the scoreboard, dependant on the number thrown on a dice. If they answer incorrectly, their turn ends immediately.&lt;br/&gt;&lt;br/&gt;Team B now reads a case to Team A, who in turn, deliberate and announce their findings . And so on...&lt;br/&gt;&lt;br/&gt;The game ends after one Team has completed a circuit of the board (16 spaces).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bmFsiiMFfloGGoPl9YCVu5jwsPQ=/fit-in/200x150/pic78593.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ry4sj7IZ_HKJYy8MtW6j6RbqHxk=/0x0/pic78593.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamedesigner objectid="2330">David Mair</boardgamedesigner>
+															<boardgameversion objectid="125121">Paul Lamond British Edition</boardgameversion>
+															<boardgamepublisher objectid="486">Paul Lamond Games Ltd</boardgamepublisher>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamepublisher objectid="288">Spear&#039;s Games</boardgamepublisher>
+															<boardgameversion objectid="106209">Spears Edition</boardgameversion>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>17</usersrated>
+					<average>4.70588</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.83158</stddev>
+					<median>0</median>
+					<owned>56</owned>
+					<trading>3</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

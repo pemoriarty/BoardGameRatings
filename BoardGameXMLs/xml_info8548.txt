@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8548">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Gounki</name>
+									
+			<description>Gounki is an abstract strategy game in which pieces can combine and disperse to affect their movement possibilities. Played on an eight-by-eight square grid, the goal is to move one of your own pieces off the opposite end of the board while preventing your opponent from doing the same.&lt;br/&gt;&lt;br/&gt;The complete rules, as well as the C++ source code for a computerized version of the game, can be found at the author's web site, both in English and in French:&lt;br/&gt;&lt;br/&gt;&lt;a target='_blank' href=&quot;http://perso.wanadoo.fr/rvo/gounki/en/index.en.html&quot; rel=&quot;nofollow&quot;&gt;http://perso.wanadoo.fr/rvo/gounki/en/index.en.html&lt;/a&gt;&lt;br/&gt;&lt;a target='_blank' href=&quot;http://perso.wanadoo.fr/rvo/gounki/index.fr.html&quot; rel=&quot;nofollow&quot;&gt;http://perso.wanadoo.fr/rvo/gounki/index.fr.html&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;     Boardspace.net (Real time, AI option)&lt;br/&gt;     Super Duper Games turn based&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XOzMy6ZatTqhUN7VgjS2g9M8lIc=/fit-in/200x150/pic50256.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Rjy8CmQiqbkzPM0s69bomPUIVKc=/0x0/pic50256.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamedesigner objectid="2918">Christophe Malavasi</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>27</usersrated>
+					<average>6.74074</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.03073</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>6</wanting>
+					<wishing>17</wishing>
+					<numcomments>19</numcomments>
+					<numweights>4</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

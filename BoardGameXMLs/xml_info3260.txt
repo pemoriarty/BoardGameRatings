@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3260">
+			<yearpublished>1998</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Gaukelspiel</name>
+									
+			<description>This is a seven card expansion for Beutelschneider.&lt;br/&gt;&lt;br/&gt;It adds cards that can be played in a trick instead of cards dealt to affect the current trick.  The cards are used only once and then discarded.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2Vs72ciKH8bxsuwIAp-EEicTMk0=/fit-in/200x150/pic372905.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/e617nypQ5eZoua2Dz4ajhkkdysM=/0x0/pic372905.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamepublisher objectid="306">Krimsus Krimskrams-Kiste</boardgamepublisher>
+															<boardgamedesigner objectid="215">Mark Sienholz</boardgamedesigner>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+															<boardgameexpansion objectid="451" inbound="true">Beutelschneider</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.424</stddev>
+					<median>0</median>
+					<owned>64</owned>
+					<trading>4</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

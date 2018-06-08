@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12020">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Quadromania</name>
+									
+			<description>The game consists in:&lt;br/&gt;- One 4*4 square board&lt;br/&gt;- 16 piece, in all the different combinations of 4 colours (red, green, yellow, blue) and 4 shapes (square, circle, triangle, star)&lt;br/&gt;&lt;br/&gt;One player is the colour-player and the other is the shape-player.&lt;br/&gt;&lt;br/&gt;Colour-player scores points for rows (of four pieces) and quads (2*2 formations of four pieces) in which the colours are all the same, or all different.&lt;br/&gt;&lt;br/&gt;Shape-player scores points in exactly the same way as the colour-player, but with shapes instead of colours.&lt;br/&gt;&lt;br/&gt;When all the 16 pieces are placed, the winner is the player with the most points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wE2aKF2DHuJgixOzrriHOiCC_fc=/fit-in/200x150/pic48574.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jNOh5LxDCub0sPfGuxNgJzPYVXQ=/0x0/pic48574.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="3799">G. A. Ellsbury</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="2653">Red Dragon Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.471405</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

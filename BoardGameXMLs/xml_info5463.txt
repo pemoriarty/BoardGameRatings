@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5463">
+			<yearpublished>1970</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Mind Maze</name>
+									
+			<description>In Mind Maze, each player builds a maze for the other to navigate, sight unseen.  They then race each other.&lt;br/&gt;&lt;br/&gt;The board stands vertically between the players and serves as a screen.  On your half, you build a maze by placing a number of baffles between posts.  Handicapping can be achieved by reducing a player's number of baffles.  When the race starts, you use a magnetic controller to nudge your steel ball (on the opponent side) through the maze, toward the exit hole.  When you hit a baffle, your ball fails to follow the controller and drops to the bottom, where you must grab it anew.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YqihnRo4fjzO4EGidLwkCpKXyxs=/fit-in/200x150/pic19716.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0s-oJl9a5W0wzu4RAJTgoS44Btc=/0x0/pic19716.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgameversion objectid="57876">First edition</boardgameversion>
+																						<boardgamedesigner objectid="3743">Marvin Glass</boardgamedesigner>
+																						<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamecompilation objectid="202937">Mein Friedberg Spiel</boardgamecompilation>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>52</usersrated>
+					<average>5.53077</average>
+					<bayesaverage>5.50142</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12509" bayesaverage="5.50142" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="749" bayesaverage="5.46934" />
+												
+											</ranks>
+					
+					<stddev>1.19896</stddev>
+					<median>0</median>
+					<owned>172</owned>
+					<trading>18</trading>
+					<wanting>1</wanting>
+					<wishing>10</wishing>
+					<numcomments>32</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

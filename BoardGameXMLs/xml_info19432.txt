@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19432">
+			<yearpublished>1936</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Hex Chess</name>
+							<name primary="true" sortindex="1">Hexagonal Chess</name>
+							<name  sortindex="1">hexasakk</name>
+							<name  sortindex="1">Polskie Szachy Heksagonalne</name>
+							<name  sortindex="1">Szachy Heksagonalne</name>
+							<name  sortindex="1">Szachy Polskie</name>
+									
+			<description>Over the years a number of chess variants have been proposed for boards featuring hexagonally shaped cells (commonly called hexes). The most popular of these is Hexagonal Chess which was invented in 1936 by Wladyslaw Glinski of Poland.&lt;br/&gt;&lt;br/&gt;David Pritchard says, in the Encyclopedia of Chess Variants, that Glinski's game is played by over half-a-million people, mostly in Eastern Europe.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7nFe1DN3HyUJDszYgpWU6QklsZI=/fit-in/200x150/pic90843.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1_wCP7Ln7RVmdrst2gffFpRpREM=/0x0/pic90843.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="217826">Game Crafter edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+															<boardgamecategory objectid="1119">Game System</boardgamecategory>
+															<boardgamedesigner objectid="5867">Wladyslaw Glinski</boardgamedesigner>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgameversion objectid="155161">Jaques First Edition</boardgameversion>
+															<boardgamepublisher objectid="5722">John Jaques of London</boardgamepublisher>
+																						<boardgamepublisher objectid="7387">WOSI &quot;Wspolna Sprawa&quot;</boardgamepublisher>
+															<boardgameversion objectid="155162">WOSI First Edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>29</usersrated>
+					<average>6.91379</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.92116</stddev>
+					<median>0</median>
+					<owned>41</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>8</wishing>
+					<numcomments>16</numcomments>
+					<numweights>6</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

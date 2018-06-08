@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20440">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Saxum</name>
+							<name  sortindex="1">Tam-Bit</name>
+									
+			<description>A rather straightforward dice game by Sid Sackson. Players alternate rolling two dice and allocating markers onto a 5 x 5 grid at the coordinates corresponding to the numbers thrown. If a six comes up, it can be counted as any other number by sacrificing six points from the acting player's score, or else simply re-rolled. Players are allowed to choose in which order the coordinates are read off the dice, so that each roll (other than doubles) gives two possible placements. If an occupied grid point is selected, points are scored according to the number of adjacent grid points contiguously occupied by stones of the owning player. The game is won by the player first player to reach a pre-determined total score. (The rules suggest 177, but this can lead to extremely long games...)&lt;br/&gt;&lt;br/&gt;The game was originally published by Gamescience/Renwal. It was re-released by Das Spiel as Saxum, with some significant rules changes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZPg8e9STd2KEEQBQS9uXpvV6z3Q=/fit-in/200x150/pic101354.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qSePvJywVg2rqruzy8lN-VNXiio=/0x0/pic101354.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameversion objectid="152070">English edition</boardgameversion>
+															<boardgamepublisher objectid="843">Gamescience</boardgamepublisher>
+															<boardgameversion objectid="152071">German edition</boardgameversion>
+															<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgamepublisher objectid="2972">Das Spiel</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>24</usersrated>
+					<average>6.64167</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.9613</stddev>
+					<median>0</median>
+					<owned>44</owned>
+					<trading>2</trading>
+					<wanting>3</wanting>
+					<wishing>3</wishing>
+					<numcomments>18</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

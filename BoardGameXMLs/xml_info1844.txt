@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1844">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Battle of Britain</name>
+									
+			<description>Hitler's war machine has rolled like a juggernaut across the Continent, crushing all opposition. Only Britain still stands, isolated and defiant, readying itself for a mortal struggle between the Luftwaffe and the Royal Air Force. For the first time in history, air power will decide the fate of a nation.&lt;br/&gt;&lt;br/&gt;August 1940: The Royal Air Force has been awaiting massive German air raids since Churchill refused to make peace with Germany. And they did not have to wait long - in fact, far too short to build up the RAF to a strength that would be able to match the German Luftwaffe. But besides its fighters, the RAF has other weapons to help deal with the &amp;quot;Huns&amp;quot;: a chain of RDF (radar) towers along the British coast, and an elaborate system of communications, signal evaluation and fighter control and guidance. If those are used skilfully, the resulting economy of Fighter Command operations might just be able to offset the sheer power of the German Luftflotten (&amp;quot;air fleets&amp;quot;).&lt;br/&gt;&lt;br/&gt;You are in command of all four RAF Fighter Groups to match them against the incoming raids. Can you deny the Luftwaffe its objective to weaken the British air defence system beyond the breaking point?&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6eAFlpGl7VOjGfnaoREsD6wNxhk=/fit-in/200x150/pic351536.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/29s7J20v0uRuUPUho-uHdOdYPPY=/0x0/pic351536.jpg</image>
+						
+																			<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgameimplementation objectid="204003">Battle of Britain</boardgameimplementation>
+															<boardgamedesigner objectid="25">Richard Borg</boardgamedesigner>
+															<boardgamedesigner objectid="353">David &quot;Zeb&quot; Cook</boardgamedesigner>
+															<boardgameartist objectid="16300">Sarah Feggestad</boardgameartist>
+															<boardgameversion objectid="26581">First edition</boardgameversion>
+															<boardgamedesigner objectid="777">Tom Hoffman</boardgamedesigner>
+															<boardgameartist objectid="13816">Dennis Kauth</boardgameartist>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamedesigner objectid="776">Ken Sommerfield</boardgamedesigner>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>218</usersrated>
+					<average>6.45229</average>
+					<bayesaverage>5.62919</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5234" bayesaverage="5.62919" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1150" bayesaverage="5.96206" />
+												
+											</ranks>
+					
+					<stddev>1.31848</stddev>
+					<median>0</median>
+					<owned>519</owned>
+					<trading>34</trading>
+					<wanting>16</wanting>
+					<wishing>29</wishing>
+					<numcomments>93</numcomments>
+					<numweights>35</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

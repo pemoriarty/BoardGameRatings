@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12715">
+			<yearpublished>1997</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="4">De Bellis Renationis</name>
+							<name  sortindex="1">DBR</name>
+									
+			<description>Renaissance-era rules from the DBx series (which includes De Bellis Antiquitatis, introductory rules for ancient/medieval periods; De Bellis Multitudinis, an advanced version of DBA, and Hordes of the Things, a fantasy version of DBA. The rules cover the entire 200 year (plus) period from 1494 to 1700.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    De Bellis Antiquitatis&lt;br/&gt;    De Bellis Multitudinis&lt;br/&gt;    Hordes of the Things&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gJeLNrFPAKNx2YxGmAtuzn8JtCk=/fit-in/200x150/pic51847.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nkb3XWekZ2MlsBamXMByhZFjuzs=/0x0/pic51847.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamedesigner objectid="1668">Philip C. Barker</boardgamedesigner>
+															<boardgameexpansion objectid="126080">De Bellis Civile v. 1, 1642-1643</boardgameexpansion>
+															<boardgameexpansion objectid="126081">De Bellis Civile v. 2, 1644-1645</boardgameexpansion>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+															<boardgameexpansion objectid="58452">DBR Army Lists Book 1</boardgameexpansion>
+															<boardgameexpansion objectid="58456">DBR Army Lists Book 2</boardgameexpansion>
+															<boardgameexpansion objectid="58457">DBR Army Lists Book 3</boardgameexpansion>
+															<boardgamefamily objectid="6324">DBx</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="106289">First edition</boardgameversion>
+															<boardgameimplementation objectid="31167">Horse, Foot and Guns</boardgameimplementation>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+															<boardgamedesigner objectid="1669">Richard Bodley Scott</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamepublisher objectid="938">Wargames Research Group</boardgamepublisher>
+															<boardgameexpansion objectid="84122">Wittstock 1636</boardgameexpansion>
+															<boardgameimplementation objectid="299" inbound="true">De Bellis Antiquitatis</boardgameimplementation>
+															<boardgameimplementation objectid="8495" inbound="true">De Bellis Multitudinis</boardgameimplementation>
+															<boardgameimplementation objectid="5369" inbound="true">Hordes of the Things</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>48</usersrated>
+					<average>6.64896</average>
+					<bayesaverage>5.54737</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8566" bayesaverage="5.54737" />
+												
+											</ranks>
+					
+					<stddev>1.462</stddev>
+					<median>0</median>
+					<owned>122</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>16</numcomments>
+					<numweights>9</numweights>
+					<averageweight>3.5556</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

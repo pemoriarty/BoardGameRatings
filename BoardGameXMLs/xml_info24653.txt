@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24653">
+			<yearpublished>1994</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>3</age>
+
+							<name  sortindex="1">Bilderlotto</name>
+							<name  sortindex="1">Billedlotteri</name>
+							<name  sortindex="1">Loto d&#039;images</name>
+							<name primary="true" sortindex="1">Picture Bingo</name>
+							<name  sortindex="1">Trafik-lotteri</name>
+									
+			<description>Picture Bingo is a perception game for 1-3 children. A leader should be chosen before each game. The leader selects one picture tile after the other and says its name out loud. If a player finds that tile on their picture board they get to keep that tile and place it on their board. The first player to fill their picture board wins.&lt;br/&gt;&lt;br/&gt;Source: Amazon.com&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9Cw0edrCoiNJaLko6Fl6WzR9rKk=/fit-in/200x150/pic1183466.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/q-CQBKBtRxFr6_cXnnolganGWMk=/0x0/pic1183466.jpg</image>
+						
+												<boardgamefamily objectid="7855">Bingo</boardgamefamily>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamepublisher objectid="2919">Damm / Egmont</boardgamepublisher>
+															<boardgamepublisher objectid="8785">Egmont Litas</boardgamepublisher>
+															<boardgameversion objectid="300601">Egmont Litas Danish edition</boardgameversion>
+																						<boardgameversion objectid="259473">Palet Dog edition 4 plates</boardgameversion>
+															<boardgamepublisher objectid="7885">Palet spil</boardgamepublisher>
+																						<boardgamepublisher objectid="1917">Selecta Spielzeug</boardgamepublisher>
+															<boardgameversion objectid="116360">Selecta Spielzeug Multilingual first edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamedesigner objectid="8573">Hannelore Wernhard</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="3" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.04416</stddev>
+					<median>0</median>
+					<owned>17</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

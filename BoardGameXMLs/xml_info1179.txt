@@ -1,0 +1,99 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1179">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tendix</name>
+									
+			<description>PROCESS OF GAME&lt;br/&gt;The player whose turn it is draws one tile from the bag and places it on any free space.&lt;br/&gt;The colour on top is decisive for the effect of the tile. All tiles in the distance that corresponds to the colour (straight line) are turned upside down. Diagonal distances do not count here. Violet (zero) up means of course that nothing is turned. Only a just placed tile can have an effect, there are no chain reactions.&lt;br/&gt;Example: If I lay down a tile with orange up, all tiles that are exactly two spaces away from that tile are turned around, but not those who are one or more than two spaces away. The games lasts until all tiles are placed and the board is completed.&lt;br/&gt;&lt;br/&gt;from the rules translation&lt;br/&gt;OBJECT OF THE GAME&lt;br/&gt;At the end of the game every player counts separately the number of tiles showing his two colours on the top. Now he subtracts the lower number from the higher one. That is his final result.&lt;br/&gt;Example: With red and green as my colors, eight red tiles are tying up and three green ones. Thus I have five points.&lt;br/&gt;If the final result, of two players is the same, the player with more tiles up (sum of the two colours) wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tBcbyAGgD_opwQ6wIQJHvtweaTw=/fit-in/200x150/pic28172.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mnqOORw5iKBQRp3uDnWZqqGQMoU=/0x0/pic28172.jpg</image>
+						
+												<boardgamepublisher objectid="100">db-Spiele</boardgamepublisher>
+															<boardgameversion objectid="202385">First edition</boardgameversion>
+																						<boardgamedesigner objectid="60">Dirk Henn</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>15</usersrated>
+					<average>5.8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.38804</stddev>
+					<median>0</median>
+					<owned>42</owned>
+					<trading>2</trading>
+					<wanting>1</wanting>
+					<wishing>2</wishing>
+					<numcomments>6</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

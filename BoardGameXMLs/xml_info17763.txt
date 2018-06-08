@@ -1,0 +1,86 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17763">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Numica</name>
+									
+			<description>Numica uses a standard chess board (an 8&amp;times;8 square grid).&lt;br/&gt;&lt;br/&gt;VICTORY&lt;br/&gt;Capture Opponent's pieces. Either:&lt;br/&gt;&lt;br/&gt;    2 Square pieces &amp;amp; 2 Round pieces or &lt;br/&gt;    3 Square pieces or 3 Round pieces. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TURN SEQUENCE&lt;br/&gt;On your turn you may move 1 of your pieces.  How the piece moves is determined by the Tile it is on.  If the Tile Symbol is a number, the piece moves exactly that many Spaces in a straight line, orthogonally or diagonally and It jumps over other pieces.  If the Symbol is a K, the piece moves like a knight in chess.  If the symbol is an X, the piece may move to any empty Space on the board.  If your piece lands on an opposing piece, you capture it.  You may never land on one of your own pieces.  If you are ever unable to move, you automatically lose.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Super Duper Games&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bVaiDCXn34doOPdv23xOYi7UtFc=/fit-in/200x150/pic76961.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YgF73Xbo0V3FaMjbjV_S9RUj69c=/0x0/pic76961.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="181964">First edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+																						<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.3784</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

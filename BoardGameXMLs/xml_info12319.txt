@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12319">
+			<yearpublished>1970</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Quandary</name>
+									
+			<description>Not to be confused with a later, totally different game of the same name, Quandary, as published by Spears, is a two-player abstract traversal race game. Following an initially random placement of their four pawns (using cards), each player moves one pawn in turn one space forward (either orthogonally or diagonally) if and only if the space to which the pawn is moving is of the same color as the space in front of at least one of the opposing pawns. The first player to get one pawn to the far end of the board wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qJ9Q7B82aBDWuGCAfG6vA0lnLrk=/fit-in/200x150/pic1289347.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6amjns6O5qGWPrlfaY1Algwr4CY=/0x0/pic1289347.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamepublisher objectid="288">Spear&#039;s Games</boardgamepublisher>
+															<boardgameversion objectid="76930">Spears Edition 1970</boardgameversion>
+															<boardgameversion objectid="105867">Spears German Edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>6.25</average>
+					<bayesaverage>5.52591</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10323" bayesaverage="5.52591" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="556" bayesaverage="5.6205" />
+												
+											</ranks>
+					
+					<stddev>1.46239</stddev>
+					<median>0</median>
+					<owned>118</owned>
+					<trading>7</trading>
+					<wanting>1</wanting>
+					<wishing>7</wishing>
+					<numcomments>21</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19030">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Frankenstein</name>
+									
+			<description>In this two-player game, Dr. Frankenstein and Igor try get sets of three ingredients from a large rack of 5x10 ingredients.&lt;br/&gt;&lt;br/&gt;During a turn, a player has three action points to manipulate the ingredient columns, trying to get the exact set of three ingredients he is looking for either on top of a single column or on three adjacent columns.&lt;br/&gt;&lt;br/&gt;Re-stacking the columns is rather intuitive: you can move stacks of any size, but you can never move them upwards, only to the same height or downwards. The first player to collect five sets wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JJCcF-6glk06j4_Ejee1HwE_Zo8=/fit-in/200x150/pic302246.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UEBNtcF6OfxxNiM9ICIGr4dIbdY=/0x0/pic302246.jpg</image>
+						
+												<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameartist objectid="22496">Hans-Jörg Brehm</boardgameartist>
+															<boardgamefamily objectid="20733">Characters: Frankenstein</boardgamefamily>
+															<boardgameversion objectid="35176">First edition</boardgameversion>
+																						<boardgameversion objectid="31646">French edition</boardgameversion>
+															<boardgamecategory objectid="1024">Horror</boardgamecategory>
+															<boardgamefamily objectid="5615">Monsters</boardgamefamily>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+																						<boardgamedesigner objectid="86">Michael Schacht</boardgamedesigner>
+															<boardgamepublisher objectid="296">Spiele aus Timbuktu</boardgamepublisher>
+															<boardgamepublisher objectid="42">Tilsit</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>43</usersrated>
+					<average>5.80814</average>
+					<bayesaverage>5.50837</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11914" bayesaverage="5.50837" />
+												
+											</ranks>
+					
+					<stddev>1.35672</stddev>
+					<median>0</median>
+					<owned>162</owned>
+					<trading>18</trading>
+					<wanting>5</wanting>
+					<wishing>13</wishing>
+					<numcomments>26</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

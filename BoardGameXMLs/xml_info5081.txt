@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5081">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Tac-Tic-Turn</name>
+									
+			<description>A simple variant of Tic-Tac-Toe.  The board measures 6x6 and is subdivided into nine 2x2 &amp;quot;boardlets&amp;quot; which can individually be turned.  On your turn, you either place a marker *or* turn a boardlet ninety degrees.  First player to line up four or more markers horizontally, vertically or diagonally wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7edTYAuCPNOSKL3NvvXxJtlDTv0=/fit-in/200x150/pic16916.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yXC92lI9fE-kiG-ct7zG6BKk7D4=/0x0/pic16916.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="169934">IRWIN first edition 1987</boardgameversion>
+															<boardgamepublisher objectid="6338">IRWIN Games</boardgamepublisher>
+															<boardgamepublisher objectid="3376">Ohio Art</boardgamepublisher>
+															<boardgameversion objectid="126684">Ohio Art edition 1988</boardgameversion>
+															<boardgamepublisher objectid="6049">Otto Simon - Holland</boardgamepublisher>
+															<boardgameversion objectid="97911">Otto Simon Edition 1988</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="1933">Ned Strongin</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.37437</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>2</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

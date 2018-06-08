@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="14259">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Oxford</name>
+									
+			<description>Contents:&lt;br/&gt;12 pieces per side; each with O on one side, X on the other.&lt;br/&gt;&lt;br/&gt;The board starts with each player having 6 pieces in play; 3 with each symbol.&lt;br/&gt;&lt;br/&gt;Each turn, a player brings a new piece into play, or moves a piece a distance exactly equal to the number of pieces they own matching that symbol.  At the end of a move the piece is flipped to show the opposite symbol.  Movement is orthogonal; forwards or sideways, but never backwards.&lt;br/&gt;&lt;br/&gt;An opponent's piece may be captured by replacement, and lost pieces may be regained by moving to the opponent's starting row.&lt;br/&gt;&lt;br/&gt;To win, put the opponent in a position where they only have pieces with one symbol in play - it doesn't matter which one!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QFxdW02p0dPiZIAEhVf1XYZVtRs=/fit-in/200x150/pic113916.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Utvtl22jcXuBvN1TmDnV3kd6ffw=/0x0/pic113916.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+															<boardgameversion objectid="237273">First edition</boardgameversion>
+																						<boardgamepublisher objectid="648">Peri Spiele</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>6.47143</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.60064</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>2</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>6</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

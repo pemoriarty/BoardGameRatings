@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2559">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Blockade</name>
+							<name  sortindex="1">Cul-de-Sac</name>
+									
+			<description>Described on-box as &amp;quot;the Beat the Barrier&amp;quot; strategy game. Players each have 2 pawns, 9 green walls (which are placed vertically), and 9 blue walls (placed horizontally). Pawns start on the color matching them, which are 4x4 squares in on each of the four corners of the 11x14 board. The object is simple: to get one of your pawns to a starting spot of your opponent. Each turn players can move one pawn up to two spaces, and also place one wall, useful for blocking off their opponent's move. Walls always cover two squares worth of area, and must be placed according to their color (vertically or horizontally). Once players are out of walls, they keep moving pawns until one wins.&lt;br/&gt;&lt;br/&gt;This game is one of a series of 2 player strategy games by Lakeside from the 1970s.&lt;br/&gt;&lt;br/&gt;Another version by the same Designer:&lt;br/&gt;&lt;br/&gt;    Quoridor&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Re-implemented By:&lt;br/&gt;&lt;br/&gt;    Pinko Pallino&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W5p3KhotQ41MI0I6Oy0Hqq0T2g4=/fit-in/200x150/pic2528098.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1jkgkkKo1QGVjCCYQTwckRd1nH8=/0x0/pic2528098.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="8912">Action GT</boardgamepublisher>
+															<boardgameversion objectid="161262">Action GT British edition</boardgameversion>
+															<boardgamepublisher objectid="1997">Arxon</boardgamepublisher>
+															<boardgameversion objectid="161241">Arxon German edition</boardgameversion>
+															<boardgamefamily objectid="5881">Blockade</boardgamefamily>
+																						<boardgamepublisher objectid="152">Lakeside</boardgamepublisher>
+															<boardgamefamily objectid="5880">Lakeside Abstract Series</boardgamefamily>
+															<boardgameversion objectid="26068">Lakeside Games  box version</boardgameversion>
+															<boardgamepublisher objectid="559">Lazy Days (I)</boardgamepublisher>
+															<boardgameversion objectid="124711">Lazy Days edition 1975</boardgameversion>
+															<boardgamedesigner objectid="281">Mirko Marchesi</boardgamedesigner>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamepublisher objectid="23494">Oficina do Aprendiz</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamedesigner objectid="11505">Philip Slater</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>118</usersrated>
+					<average>6.22966</average>
+					<bayesaverage>5.56106</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7707" bayesaverage="5.56106" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="365" bayesaverage="5.80199" />
+												
+											</ranks>
+					
+					<stddev>1.33145</stddev>
+					<median>0</median>
+					<owned>278</owned>
+					<trading>19</trading>
+					<wanting>7</wanting>
+					<wishing>36</wishing>
+					<numcomments>67</numcomments>
+					<numweights>13</numweights>
+					<averageweight>1.5385</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7604">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Final Fantasy IX Tetra Master Card game</name>
+									
+			<description>A &amp;quot;real&amp;quot; card game rendition of a virtual card game which existed inside the Final Fantasy IX video game.  A few modifications were made to adjust to the lack of a computer.&lt;br/&gt;&lt;br/&gt;Players play on a 4x4 grid (play mat provided), with some spaces randomly blocked out during set-up by special extra cards.&lt;br/&gt;&lt;br/&gt;Each card has a set of arrows, and a set of attributes.  The arrows point at one of the adjacent cards in the grid (four sides and four diagonals)  An arrow may be present or not, each card has a unique combination of arrows.  The attributes are: an attack value, whether the attack is physical or magical, and two defense values: one physical, and one magical.  There are a few other special cards.&lt;br/&gt;&lt;br/&gt;Cards are played from a hand onto the game grid, and marked with a chip indicating the player.  If the new card has an arrow pointing at an existing card, and that card has no arrow pointing back, the other card changes owners.  If opposing arrows occur, then the cards 'battle' using their attributes.  Combat is resolved by comparing the attributes, looking up the value in a table, and then rolling the indicated percentile.  Winning a combat can create a chain reaction of ownership changes, based on the card arrows.&lt;br/&gt;&lt;br/&gt;To my knowledge, the game was only published in Germany.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0wP__VvW9I0Izi-tbafjvPLZsDc=/fit-in/200x150/pic1210461.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AV9jX_uJJt1DhMrWPTCYWE1_ApE=/0x0/pic1210461.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="5601">Anime &amp; Manga</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="1765">Dino</boardgamepublisher>
+															<boardgamefamily objectid="22722">Final Fantasy</boardgamefamily>
+															<videogamebg objectid="68549">Final Fantasy IX</videogamebg>
+															<boardgameversion objectid="45364">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="2662">Shaun M. Thomas</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>35</usersrated>
+					<average>5.32</average>
+					<bayesaverage>5.48752</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13467" bayesaverage="5.48752" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="812" bayesaverage="5.39614" />
+												
+											</ranks>
+					
+					<stddev>1.62002</stddev>
+					<median>0</median>
+					<owned>91</owned>
+					<trading>2</trading>
+					<wanting>5</wanting>
+					<wishing>22</wishing>
+					<numcomments>12</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

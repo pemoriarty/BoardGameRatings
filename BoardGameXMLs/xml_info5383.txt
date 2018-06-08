@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5383">
+			<yearpublished>1975</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">MechWar &#039;77</name>
+									
+			<description>Mech War '77 is a simulation of tactical combat in West Germany and Asia during the 1970's. The game is played by scenario. Eight scenarios revolve around a hypothetical Soviet-American clash in West Germany. One scenario is drawn from the Yom Kippur War. The tenth scenario pictures a Sino-Soviet clash.&lt;br/&gt;&lt;br/&gt;Scale: Each hex represents 200 meters from side to side. &lt;br/&gt;Time: Each Game-Turn represent one to six minutes of elapsed time.&lt;br/&gt;Counters: 400&lt;br/&gt;&lt;br/&gt;Uses the same rules system (but with additional &amp;quot;modern&amp;quot; elements) as Panzer '44&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/c14wW0EAeNBC7l6e4eRxbRa4QOI=/fit-in/200x150/pic598690.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Z6gZL2G_j4Ze7m608Fw6WTMLphs=/0x0/pic598690.jpg</image>
+						
+																			<boardgamedesigner objectid="1081">Jim Dunnigan</boardgamedesigner>
+															<boardgameversion objectid="33888">Flat box edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgameartist objectid="1030">Redmond A. Simonsen</boardgameartist>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamepublisher objectid="120">SPI (Simulations Publications, Inc.)</boardgamepublisher>
+															<boardgameversion objectid="75440">SPI Designer&#039;s Edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>138</usersrated>
+					<average>6.24529</average>
+					<bayesaverage>5.56554</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7465" bayesaverage="5.56554" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1679" bayesaverage="5.79263" />
+												
+											</ranks>
+					
+					<stddev>1.31438</stddev>
+					<median>0</median>
+					<owned>414</owned>
+					<trading>24</trading>
+					<wanting>6</wanting>
+					<wishing>22</wishing>
+					<numcomments>73</numcomments>
+					<numweights>25</numweights>
+					<averageweight>3.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

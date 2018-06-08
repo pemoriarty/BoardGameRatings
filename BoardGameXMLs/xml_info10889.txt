@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10889">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Akron</name>
+									
+			<description>Akron is an extension of standard connection games (such as Hex, Y, Unlur,...) to three dimensions.  The pieces consist of balls of two colours placed in a square grid, and players seek to connect the board sides of their colour with a visibly connected chain of pieces of their colour. The mechanism that makes the game three dimensional is that players can elevate balls onto 2x2 platforms formed by four existing balls already in play. In a novel twist, moves can make balls drop to change the connection on the board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1vRv4MBvYWEDt2azCujW2NKAP4k=/fit-in/200x150/pic3047981.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qo7KXNNT0veKc6nHHCpC62ty5z4=/0x0/pic3047981.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="194817">First edition</boardgameversion>
+															<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="313759">nestorgames Deluxe edition</boardgameversion>
+															<boardgamepublisher objectid="11706">Pancerola</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>7</average>
+					<bayesaverage>5.55491</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8054" bayesaverage="5.55491" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="346" bayesaverage="5.8182" />
+												
+											</ranks>
+					
+					<stddev>1.5</stddev>
+					<median>0</median>
+					<owned>29</owned>
+					<trading>0</trading>
+					<wanting>15</wanting>
+					<wishing>38</wishing>
+					<numcomments>26</numcomments>
+					<numweights>5</numweights>
+					<averageweight>3.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

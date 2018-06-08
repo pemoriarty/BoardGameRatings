@@ -1,0 +1,145 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2781">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">My Word!</name>
+							<name  sortindex="1">My Word! Junior</name>
+									
+			<description>A dealer turns over cards, each card having a single letter or a two-letter combination; as soon as any player spots a word that can be formed using any set of three or more cards, s/he shouts it out and claims the cards (if the word was valid). Once the deck is exhausted, each player gets one point per card claimed. Play as many rounds as there are players.&lt;br/&gt;&lt;br/&gt;Re-Implements: Diabolo&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W5nPogVZl0TMWqZWoJaEJgQ2IKU=/fit-in/200x150/pic10024.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G2U407yA8S6zfTwB6io8Vseftgo=/0x0/pic10024.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgamepodcastepisode objectid="28050">I&#039;ve Been Diced! episode 10: Gateway games</boardgamepodcastepisode>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+																						<boardgameversion objectid="94989">Out of the Box Award Winning Edition</boardgameversion>
+															<boardgameversion objectid="164020">Out of the Box Edition 2001</boardgameversion>
+															<boardgameversion objectid="257374">Out of the Box edition 2001</boardgameversion>
+															<boardgamepublisher objectid="48">Out of the Box Publishing</boardgamepublisher>
+															<boardgameversion objectid="94991">Out of the Box To Go! Edition</boardgameversion>
+															<boardgamesubdomain objectid="5498">Party Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+															<boardgameversion objectid="29368">Word Game of the Year Edition</boardgameversion>
+															<boardgameimplementation objectid="3999" inbound="true">Diabolo</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>411</usersrated>
+					<average>5.71479</average>
+					<bayesaverage>5.55246</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8218" bayesaverage="5.55246" />
+												
+							
+														<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="352" bayesaverage="5.60223" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1389" bayesaverage="5.56979" />
+												
+											</ranks>
+					
+					<stddev>1.31288</stddev>
+					<median>0</median>
+					<owned>818</owned>
+					<trading>69</trading>
+					<wanting>2</wanting>
+					<wishing>19</wishing>
+					<numcomments>210</numcomments>
+					<numweights>40</numweights>
+					<averageweight>1.325</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

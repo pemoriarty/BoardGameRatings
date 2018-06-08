@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3540">
+			<yearpublished>1995</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tic Tac Chec</name>
+									
+			<description>Tic Tac Chec is both a chess teaching tool and a clever strategy game.  Each player has four pieces: a knight, a rook, a bishop and a pawn.  The object of the game is to be the first to align your pieces in a vertical, horizontal or diagonal row.  Play starts on an empty 4 x 4 board and players take turns placing a piece on any open square.  Once at least three pieces are placed per player, they may move a piece, capture a piece or place their remaining piece.  Captured pieces are returned to their player and may be replayed on any open square.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/o5nGKhDlDeR-cwR1npussvyGB6E=/fit-in/200x150/pic2628226.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ykiAajkdzEFN1XJjrXbF_3OP2qQ=/0x0/pic2628226.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="820">Dream Green</boardgamepublisher>
+																						<boardgameversion objectid="91591">First edition 1995</boardgameversion>
+																						<boardgamedesigner objectid="229">Don Green</boardgamedesigner>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																													<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgameversion objectid="282144">Second edition 1998</boardgameversion>
+															<boardgameversion objectid="223757">Third edition 2008</boardgameversion>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>60</usersrated>
+					<average>6.11333</average>
+					<bayesaverage>5.52657</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10273" bayesaverage="5.52657" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="546" bayesaverage="5.62986" />
+												
+											</ranks>
+					
+					<stddev>1.53696</stddev>
+					<median>0</median>
+					<owned>162</owned>
+					<trading>10</trading>
+					<wanting>2</wanting>
+					<wishing>14</wishing>
+					<numcomments>36</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

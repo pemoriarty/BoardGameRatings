@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="316">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Chase</name>
+									
+			<description>Each player starts Chase with a row of nine dice on their side of the hexagonal game board, with the faces of those d6s adding up to 25. On a turn, a player moves a die as many spaces in a straight line as the value showing on the die's face. A die can't move through another piece, but it can wrap around the side of the board and it can bounce off the front or back wall at an angle to move its full distance.&lt;br/&gt;&lt;br/&gt;If you land a die on an opponent's die, that second die is removed and the value of that die added to the lowest die on the opponent's team, keeping their pip count at 25. (If a die reaches 6, you add any remaining speed to what is now the lowest die.) If you land on one of your own dice, you bump that die one space in the same direction, possibly leading to another bump or a capture.&lt;br/&gt;&lt;br/&gt;Instead of moving, if you have two dice next to one another, you can spend the turn adjusting their values while keeping their sum the same. If, for example, you have a 2 and 5 adjacent to one another, you can change them to 1 &amp;amp; 6, 3 &amp;amp; 4, 4 &amp;amp; 3, 5 &amp;amp; 2, or 6 &amp;amp; 1.&lt;br/&gt;&lt;br/&gt;The center of the board has a chamber on it. You cannot move a die through the chamber. If you land a die on the chamber, you split the value of that die on two dice as evenly as possible. (You start the game with one spare.) Those dice emerge from the chamber on spaces adjacent to it, possibly resulting in bumps or captures.&lt;br/&gt;&lt;br/&gt;If you knock an opponent down to only four dice, then they have a pip count below 25 and they lose the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QILes1XLEuRAdCc90aaqat0h-2Y=/fit-in/200x150/pic19452.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QPf6i0hFZWNEmaYDVrHXP7Phyxc=/0x0/pic19452.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgameversion objectid="270311">Blue Dolphin English edition</boardgameversion>
+															<boardgamepublisher objectid="8728">Blue Dolphin Games</boardgamepublisher>
+																													<boardgameversion objectid="42584">Citadel German edition</boardgameversion>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="133">Tom Kruszewski</boardgamedesigner>
+															<boardgameartist objectid="3034">Dave LaForce</boardgameartist>
+															<boardgamepublisher objectid="139">Laurin Verlag</boardgamepublisher>
+															<boardgameartist objectid="10384">Nathan Morse</boardgameartist>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="399934">nestorgames English edition</boardgameversion>
+															<boardgameartist objectid="17825">Colleen O&#039;Malley</boardgameartist>
+																						<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgameversion objectid="91593">TSR English edition</boardgameversion>
+															<boardgamefamily objectid="21376">TSR Master Moves</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>284</usersrated>
+					<average>6.81214</average>
+					<bayesaverage>5.74067</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3615" bayesaverage="5.74067" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="136" bayesaverage="6.26356" />
+												
+											</ranks>
+					
+					<stddev>1.43327</stddev>
+					<median>0</median>
+					<owned>472</owned>
+					<trading>28</trading>
+					<wanting>33</wanting>
+					<wishing>149</wishing>
+					<numcomments>183</numcomments>
+					<numweights>37</numweights>
+					<averageweight>2.6486</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

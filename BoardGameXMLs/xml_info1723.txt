@@ -1,0 +1,99 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1723">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Alpha Omega</name>
+									
+			<description>In Alpha Omega, players assume the roles of the commanders of the Human, Drove and Rhylsh space fleets.  The game features scenarios set chronologically in the fictional distant future setting: from the civil wars of the fledgling Human space empire, to the first alien invasion by the Droves, and the confrontation and eventual alliance between the Humans and the Rhylsh.&lt;br/&gt;&lt;br/&gt;The Droves and the Human/Rhylsh factions have different technologies between them, affecting the way their units move and the weapons they have to destroy each other with.  Both sides can deploy fighters, assault ships, destroyers, carriers, battle cruisers, and various other vessels.  Mines can be laid to defend outposts and star bases, but can be swept aside with mine sweepers.  Cargo can be captured, and sensors can be jammed to help cloaked ships infiltrate further.&lt;br/&gt;&lt;br/&gt;Each scenario (battle) is resolved as follows.  In the first phase, each player secretly writes down the movement and actions of his units.  The orders of both sides are then simultaneously resolved in the following phases.  After the moves and actions have been resolved, the players repeat the cycle, secretly plotting their orders and openly enacting them.  Combat actions are resolved by rolling dice and consulting the effects from tables.  Play goes on until the scenario's duration has elapsed or a side's Victory Conditions have been met.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qDUnIHMEw1qEoMgmJZ2WPPnm7mM=/fit-in/200x150/pic3636337.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Q314nSwXgxwoSMsIEzjGalo-wEI=/0x0/pic3636337.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamepublisher objectid="1634">Battleline</boardgamepublisher>
+															<boardgameversion objectid="59411">Battleline edition</boardgameversion>
+															<boardgamedesigner objectid="734">Sean Hayes</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="733">J. Stephen Peek</boardgamedesigner>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameversion objectid="261993">Second edition</boardgameversion>
+															<boardgameversion objectid="31672">Third edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameartist objectid="36899">Mike Williford</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>159</usersrated>
+					<average>5.22987</average>
+					<bayesaverage>5.45824</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14573" bayesaverage="5.45824" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2744" bayesaverage="5.3064" />
+												
+											</ranks>
+					
+					<stddev>1.4704</stddev>
+					<median>0</median>
+					<owned>540</owned>
+					<trading>48</trading>
+					<wanting>6</wanting>
+					<wishing>21</wishing>
+					<numcomments>95</numcomments>
+					<numweights>21</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

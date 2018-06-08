@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24936">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Sportiv, Football édition 2006</name>
+									
+			<description>How to play football... even on a small table.&lt;br/&gt;&lt;br/&gt;Each player has 4 sets of cards: Players cards, Actions / counter-actions cards, Goal cards and and Goalkeeper cards.&lt;br/&gt;&lt;br/&gt;During his turn, a player can add players, remove adverse players by matching the totals (his player(s) numbers total = adverse player(s) numbers total), or play a special action (can be countered).&lt;br/&gt;&lt;br/&gt;And finally, he may try to score a goal using his goal card set, while the opponent will try to block it with his goalkeeper set, hoping to guess the parts of the goal that need to be protected and doing so.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JoYUcCg100eqX9U6kxpo7LcSg98=/fit-in/200x150/pic720245.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jX97e_ujlmaIUXi6AZwNeMvHvg8=/0x0/pic720245.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="98397">First edition</boardgameversion>
+															<boardgamedesigner objectid="7502">Tony Leoni</boardgamedesigner>
+															<boardgameartist objectid="7502">Tony Leoni</boardgameartist>
+															<boardgamepublisher objectid="5800">Leoni sports et loisirs</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5551">Sports: Football / Soccer</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>6.44444</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.21666</stddev>
+					<median>0</median>
+					<owned>12</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

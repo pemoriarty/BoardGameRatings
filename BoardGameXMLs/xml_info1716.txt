@@ -1,0 +1,135 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1716">
+			<yearpublished>1987</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Knights of the Air</name>
+									
+			<description>World War I aerial combat game.  Similar to Blue Max (q.v.) but with greater complexity and realism.  Was also adapted to miniatures rules (if only by individual GMs).  Supported by several articles in The General.&lt;br/&gt;&lt;br/&gt;Total counters = 188&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NguVv3ivsQ8EJhaRbYQHHGlzWBM=/fit-in/200x150/pic216376.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kCE12E98Cl5dBolQrq-Kp3BMOPM=/0x0/pic216376.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgameartist objectid="12253">Joe DeMarco</boardgameartist>
+															<boardgameversion objectid="155188">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="667">Mick (Mike) Uhl</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>190</usersrated>
+					<average>5.85211</average>
+					<bayesaverage>5.52672</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10258" bayesaverage="5.52672" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2307" bayesaverage="5.60255" />
+												
+											</ranks>
+					
+					<stddev>1.67714</stddev>
+					<median>0</median>
+					<owned>672</owned>
+					<trading>50</trading>
+					<wanting>19</wanting>
+					<wishing>50</wishing>
+					<numcomments>105</numcomments>
+					<numweights>29</numweights>
+					<averageweight>3.4483</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

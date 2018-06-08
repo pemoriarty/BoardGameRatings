@@ -1,0 +1,135 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="368">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Drahtseilakt</name>
+							<name primary="true" sortindex="1">Relationship Tightrope</name>
+									
+			<description>This game is a relative of the Raj/Hols der Geier family of games, the german title means Tightrope.  Each turn, a number of red and blue sticks are up for grabs.  The highest card played will take the blue sticks and the lowest card will take the red sticks.  The trick is that a red stick cancels a blue stick (that is, a well balanced tightrope walker), and the goal is to score as few points as possible.  However, there are two different ways of playing the game, depending on how players wish to play: strategic or otherwise.  The basic game has players simultaneously playing cards (ala Raj), whereas the strategic version plays like a trick-taking game with players selecting a card sequentially.&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Yin Yang/Fifty-Fifty&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6anSYNLrdR7aPslXtorxSxZV78o=/fit-in/200x150/pic48609.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FkBQ1Yi97pIel3NeK-3_yzAvFhI=/0x0/pic48609.jpg</image>
+						
+												<boardgamepublisher objectid="74">ASS Altenburger Spielkarten</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="5743">Circus</boardgamefamily>
+																						<boardgameversion objectid="26004">English edition</boardgameversion>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepodcastepisode objectid="69520">GameBreak Audio: Episode #011 - It&#039;s in the Cards!</boardgamepodcastepisode>
+															<boardgameversion objectid="21298">German edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+																						<boardgameartist objectid="11478">Alvin Madden</boardgameartist>
+																													<boardgameartist objectid="33724">Thorsten Schäfer</boardgameartist>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+															<boardgamepublisher objectid="1901">Überplay</boardgamepublisher>
+															<boardgameimplementation objectid="83197">Zen Master</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>987</usersrated>
+					<average>6.18471</average>
+					<bayesaverage>5.81967</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3003" bayesaverage="5.81967" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="798" bayesaverage="5.90235" />
+												
+											</ranks>
+					
+					<stddev>1.34208</stddev>
+					<median>0</median>
+					<owned>1493</owned>
+					<trading>203</trading>
+					<wanting>11</wanting>
+					<wishing>55</wishing>
+					<numcomments>491</numcomments>
+					<numweights>134</numweights>
+					<averageweight>1.3433</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7651">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>300</playingtime>
+			<minplaytime>300</minplaytime>
+			<maxplaytime>300</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Europe at War</name>
+									
+			<description>This game resembles Axis &amp; Allies, with some more complex rules.&lt;br/&gt;&lt;br/&gt;From the manual:&lt;br/&gt;Europe at War is a multi-player game that is a simulation of World War II in Europe. One or two players play the side of the Axis Powers and one or three players play the side of the Allied Powers. The object for the Axis Players is to conquer Europe while the Allied Players must try to stop them.&lt;br/&gt;&lt;br/&gt;In order to achieve their goals, the players have at their disposal playing pieces that represent infantry, tanks, planes, bombers and various types of combat vessels. These pieces are built by each player in accordance to the amount of money the player has available and to the force pool available. During each turn, all players have the opportunity to move, to perform combat and to built additional units.&lt;br/&gt;&lt;br/&gt;Expanded by:&lt;br/&gt;&lt;br/&gt;    Russia at War&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Bd5mLSc-0MRoNCQvfe1JOzq0Ao4=/fit-in/200x150/pic47622.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/t9ldr4aAk2bAusm8FeuMaLrEWRk=/0x0/pic47622.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="110908">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgameexpansion objectid="11856">Russia at War</boardgameexpansion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgamepublisher objectid="725">Xeno Games</boardgamepublisher>
+															<boardgamedesigner objectid="1467">Frank W. Zenau</boardgamedesigner>
+															<boardgameartist objectid="1467">Frank W. Zenau</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>55</usersrated>
+					<average>5.61455</average>
+					<bayesaverage>5.49849</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12758" bayesaverage="5.49849" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2631" bayesaverage="5.46545" />
+												
+											</ranks>
+					
+					<stddev>1.60447</stddev>
+					<median>0</median>
+					<owned>122</owned>
+					<trading>10</trading>
+					<wanting>1</wanting>
+					<wishing>6</wishing>
+					<numcomments>30</numcomments>
+					<numweights>11</numweights>
+					<averageweight>3.2727</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

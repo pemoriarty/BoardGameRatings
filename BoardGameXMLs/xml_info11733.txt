@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11733">
+			<yearpublished>1800</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Brisca</name>
+							<name primary="true" sortindex="1">Briscola</name>
+							<name  sortindex="1">Briškula</name>
+									
+			<description>Briscola is a traditional Mediterranean points-based trick taking game for 2 to 6 players. It uses a 40-card deck Ace through 2 minus the 8,9 and 10 with the Ace being the high and worth the most (11 points), followed by the 3 (10 points), King (4 points), Knight/Queen (3 points) and Infantry/Jack (2 points). All other cards do not score any points.&lt;br/&gt;Each player is dealt 3 cards with one turned up as the trump suit. Play does not need to follow suit and the winner of each trick replenishes their hand first. The total points in each game are 120 and whoever has the higher scoring wins a manche of the game.&lt;br/&gt;Play with 3-6 players just takes a few minor adjustments to the rules or cards and the versions for 4-6 are played with partnerships.&lt;br/&gt;Usually this game allows speaking between teammates, but no gestures (or only over-table gestures).&lt;br/&gt;Two interesting variants are:&lt;br/&gt;- &amp;quot;Briscola scoperta&amp;quot; in which all the cards are face up and visible by all players.&lt;br/&gt;- &amp;quot;chiamata&amp;quot;, played with 5 players (3 vs 2). It has an initial bet on the expected final scoring. Who bets the highest amount calls a card, whose owner becomes (secretly) his partner and play with the caller against the other 3 players. So the players (except the called one) do not know exactly who are the opponents and the partners.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7iRVopusf3aRW6q6bFUuc6U5D30=/fit-in/200x150/pic71809.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1zy7nKaiqnIowxaAYl7tN97B31E=/0x0/pic71809.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="184818">Public Domain edition</boardgameversion>
+															<boardgamecompilation objectid="9587">Punto</boardgamecompilation>
+																						<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>290</usersrated>
+					<average>6.35908</average>
+					<bayesaverage>5.66848</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4489" bayesaverage="5.66848" />
+												
+											</ranks>
+					
+					<stddev>1.50323</stddev>
+					<median>0</median>
+					<owned>273</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>11</wishing>
+					<numcomments>108</numcomments>
+					<numweights>31</numweights>
+					<averageweight>1.6129</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

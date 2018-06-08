@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2873">
+			<yearpublished>1966</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>13</age>
+
+							<name  sortindex="1">Belagerung</name>
+							<name primary="true" sortindex="1">Siege</name>
+									
+			<description>A two-player abstract strategy game, vaguely inspired by ancient Chess-like games such as Chinese Chess.  Four knights (which move like Chess knights) attack a castle guarded by four footmen (like Kings) and a Commander (like Bishops but with a special Rook-like move).  The terrain is divided into the Castle, lawn and moat (for lack of better terminology) and restricts the movement of pieces in various ways.&lt;br/&gt;&lt;br/&gt;Attacker wins by taking the Commander, defender wins by taking all attackers.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/G-GOjMS3cbCtnVlEJyThbJZVLFM=/fit-in/200x150/pic30962.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/E1Ks3gCtPtBvrSX9xv8K7u46mYk=/0x0/pic30962.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="116005">English edition</boardgameversion>
+															<boardgameversion objectid="70592">German edition</boardgameversion>
+																						<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamefamily objectid="39912">Tower Defense</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>17</usersrated>
+					<average>4.85294</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.43245</stddev>
+					<median>0</median>
+					<owned>69</owned>
+					<trading>7</trading>
+					<wanting>1</wanting>
+					<wishing>11</wishing>
+					<numcomments>13</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

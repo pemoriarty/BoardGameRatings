@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8461">
+			<yearpublished>1986</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">First Team: Vietnam</name>
+									
+			<description>A solitaire game of the 1st Air Cavalry's campaign in the Ia Drang Valley in October 1965. The NVA forces had been building up all year for the first major strike intended to cut South Vietnam in half, and on October 19th the plan went into effect. &lt;br/&gt;The player controls the American forces and the game system controls the NVA.&lt;br/&gt;&lt;br/&gt;Scale: the game map covers 400 square miles (point to point distances vary), two day turns, each combat strength equals from one to three hundred men.&lt;br/&gt;&lt;br/&gt;Published in The Wargamer Magazine number 56.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tHDAu5ZApR4onlSANy3lCnLAcZ4=/fit-in/200x150/pic35172.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UgAdA3jALuk00XfZFBcvLdsLmP8=/0x0/pic35172.jpg</image>
+						
+												<boardgamepublisher objectid="489">3W (World Wide Wargames)</boardgamepublisher>
+															<boardgamefamily objectid="10618">Country: Vietnam</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="89793">First edition</boardgameversion>
+																						<boardgamedesigner objectid="898">Mike Joslyn</boardgamedesigner>
+															<boardgamefamily objectid="6207">Magazine: Wargamer</boardgamefamily>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="8164">Solitaire Wargames</boardgamefamily>
+																						<boardgamecategory objectid="1109">Vietnam War</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>57</usersrated>
+					<average>6.36228</average>
+					<bayesaverage>5.54128</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9004" bayesaverage="5.54128" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1848" bayesaverage="5.74255" />
+												
+											</ranks>
+					
+					<stddev>1.72088</stddev>
+					<median>0</median>
+					<owned>280</owned>
+					<trading>10</trading>
+					<wanting>19</wanting>
+					<wishing>55</wishing>
+					<numcomments>38</numcomments>
+					<numweights>11</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="406">
+			<yearpublished>1989</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Meteo</name>
+							<name  sortindex="1">Météo Business</name>
+							<name primary="true" sortindex="1">Weer en wind</name>
+							<name  sortindex="1">Wind &amp; Wetter</name>
+									
+			<description>An unusual game based on the theme of building hotels and cruise ships and trying to ensure that they get idyllic weather. The weather is controlled by clear tiles that overlay the squares on the board, and can be moved - but the wind can only change by a very limited amount each turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/A6zMvBNVfyr7Rk6tMPq11yH9YRo=/fit-in/200x150/pic292719.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/D73oPkoCn3VE3IIZejxnONxg6sM=/0x0/pic292719.jpg</image>
+						
+												<boardgamedesigner objectid="199">Wil Dijkstra</boardgamedesigner>
+															<boardgameversion objectid="74640">Dutch first edition</boardgameversion>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="73765">German edition</boardgameversion>
+																													<boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+																													<boardgameversion objectid="266847">Spanish/Italian edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamedesigner objectid="200">Ben van Dijk</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>88</usersrated>
+					<average>5.60966</average>
+					<bayesaverage>5.50702</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12040" bayesaverage="5.50702" />
+												
+											</ranks>
+					
+					<stddev>1.26901</stddev>
+					<median>0</median>
+					<owned>229</owned>
+					<trading>15</trading>
+					<wanting>8</wanting>
+					<wishing>15</wishing>
+					<numcomments>24</numcomments>
+					<numweights>10</numweights>
+					<averageweight>2.3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1185">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Casablanca</name>
+									
+			<description>Players move around the board, trying to reach a symbol that corresponds with the symbol on the currently revealed card. If a player reaches that symbol, he gains the card. The bigger the amount of cards with the same symbol the player has, the more money is gained.&lt;br/&gt;&lt;br/&gt;The twist: movement is done by selecting chit, checking the back for a number, and moving however far you want to move, without revealing the actual number to the opponents. The opponents then have to accept your move or challenge the number on your chit.&lt;br/&gt;&lt;br/&gt;If they challenge the number, the player may either confess to cheating and pay a nominal fine or start a poker like bidding system in which the challenger must match his bid before he can see the chit.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lkTwpxeBNXrBjYHtq97OVSar41I=/fit-in/200x150/pic2539707.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JchZ352j58XDfjn_Nr6dsuVkUvk=/0x0/pic2539707.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+															<boardgameversion objectid="110284">First edition</boardgameversion>
+															<boardgamedesigner objectid="24">Alex Randolph</boardgamedesigner>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>4.96875</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.15202</stddev>
+					<median>0</median>
+					<owned>43</owned>
+					<trading>4</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

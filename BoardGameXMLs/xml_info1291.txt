@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1291">
+			<yearpublished>1984</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Entrée</name>
+							<name primary="true" sortindex="1">Input</name>
+							<name  sortindex="1">Input/Entrée</name>
+									
+			<description>Input is a two player game by Milton Bradley.  Each player gets the same set of pieces, and must deploy them to eliminate the opposing side.  Each piece has a movement track printed on it, and can only move from one space to the next in the program.  Used pieces can either exit the playfield, or repeat the path.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VzE1dVN54xzzxVS4TFnXX3FZ8IM=/fit-in/200x150/pic409904.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G72qCISPEv0qTko4MLr0sgS4JL0=/0x0/pic409904.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgameversion objectid="32840">Canadian Bilingual edition</boardgameversion>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="50460">Milton Bradley US edition</boardgameversion>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>128</usersrated>
+					<average>5.56641</average>
+					<bayesaverage>5.50751</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11993" bayesaverage="5.50751" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="705" bayesaverage="5.50595" />
+												
+											</ranks>
+					
+					<stddev>1.2946</stddev>
+					<median>0</median>
+					<owned>316</owned>
+					<trading>27</trading>
+					<wanting>4</wanting>
+					<wishing>22</wishing>
+					<numcomments>72</numcomments>
+					<numweights>19</numweights>
+					<averageweight>1.8421</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

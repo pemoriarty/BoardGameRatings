@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9385">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Yoté</name>
+									
+			<description>Yote is a traditional African capturing game in the Checkers family. It's played on a 5x6 board with 12 pieces per player and no standard setup, instead the players take turns placing their stones. Captures are made by jumping. In addition one can have the ability to jump multiple pieces. (A player that has just captured a opponents piece can capture another piece for each piece jumped.)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0jiDH0u2Yifl0o6_QBGmIeGNrdE=/fit-in/200x150/pic160855.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dljMs7Wnp8QLf9hzgVmdWG4_yyY=/0x0/pic160855.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="24782">Baolin</boardgamepublisher>
+															<boardgameversion objectid="205175">Baolin French edition</boardgameversion>
+															<boardgamepublisher objectid="5231">Carrom Art</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="13248">Country: Mali</boardgamefamily>
+															<boardgamefamily objectid="19453">Country: Senegal</boardgamefamily>
+															<boardgameversion objectid="124452">English Print and Play edition</boardgameversion>
+																						<boardgamepublisher objectid="5085">Geoludie</boardgamepublisher>
+															<boardgameversion objectid="242268">Geoludie French edition</boardgameversion>
+															<boardgamepublisher objectid="124">Great American Trading Company</boardgamepublisher>
+															<boardgameversion objectid="155190">Great American Trading Company English edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="395719">Guild English edition</boardgameversion>
+															<boardgamepublisher objectid="38726">Guild Publishing</boardgamepublisher>
+															<boardgamepublisher objectid="7938">Ludens Spirit</boardgamepublisher>
+															<boardgamepublisher objectid="24407">LuduScience</boardgamepublisher>
+															<boardgameversion objectid="227317">LuduScience Portuguese edition</boardgameversion>
+															<boardgamepublisher objectid="793">La Mèche Rebelle Editions</boardgamepublisher>
+															<boardgameversion objectid="242270">La Mèche Rebelle French edition</boardgameversion>
+															<boardgamepublisher objectid="6261">Mitra</boardgamepublisher>
+															<boardgameversion objectid="242269">Mitra Brazilian edition</boardgameversion>
+															<boardgamepublisher objectid="3244">Nyt Nordisk Forlag</boardgamepublisher>
+															<boardgamepublisher objectid="3174">Oak Games</boardgamepublisher>
+															<boardgamecompilation objectid="160000">Wali, Yoté, Le Furet</boardgamecompilation>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>34</usersrated>
+					<average>5.73529</average>
+					<bayesaverage>5.50045</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12590" bayesaverage="5.50045" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="687" bayesaverage="5.52268" />
+												
+											</ranks>
+					
+					<stddev>1.69773</stddev>
+					<median>0</median>
+					<owned>108</owned>
+					<trading>9</trading>
+					<wanting>3</wanting>
+					<wishing>11</wishing>
+					<numcomments>22</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

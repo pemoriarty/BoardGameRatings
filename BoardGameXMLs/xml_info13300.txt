@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="13300">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Carcassonne: Die Katharer</name>
+							<name  sortindex="1">Carcassonne: I Catari</name>
+							<name  sortindex="1">Carcassonne: The Cathars</name>
+									
+			<description>This is an 4 tile expansion for Carcassonne.  The tiles allow you to lay siege on a city. A besieged city that is completed only yields 1 point per tile (2 if it includes a cathedral). Peasants supply the city as well as its besiegers, so every completed besieged city counts twice for them.&lt;br/&gt;&lt;br/&gt;Availability:&lt;br/&gt;&lt;br/&gt;     The Siege tiles with the original art ('Die Katharer') are exclusive to German magazine Spielbox.  They were included in issue 5/2004 (October/November) and the August 2005 'Der Carcassonne Almanach'.  (Artist is Doris Matth&amp;auml;us.)&lt;br/&gt;     The Siege has been re-released with new art by Rio Grande Games in October 2008 as part of the Mini Compilation Cult, Siege &amp; Creativity.  (Some have expressed concern with the new artwork as it is harder to see that a city is under siege.)&lt;br/&gt;     A 6 tiles version of The Siege called 'Die Belagerer' (again with new art but similar to the Rio Grande edition) is part of the Carcassonne Müller Exklusiv-Edition released in 2013 and sold by the German trade company M&amp;uuml;ller. It's also available now through Cundco.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Part of the Carcassonne series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/H7AkLCmmJiw_thc_miEoS1fDp7o=/fit-in/200x150/pic56574.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/A9TTpmadJg9-PrZfzEegwGMMADI=/0x0/pic56574.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="2">Carcassonne</boardgamefamily>
+																						<boardgamecompilation objectid="35666">Carcassonne: Cult, Siege and Creativity</boardgamecompilation>
+															<boardgameimplementation objectid="166518">Carcassonne: Die Belagerer</boardgameimplementation>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamedesigner objectid="91">Christwart Conrad</boardgamedesigner>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgameversion objectid="21646">First edition</boardgameversion>
+																																																		<boardgamepublisher objectid="133">Hans im Glück</boardgamepublisher>
+															<boardgameartist objectid="74">Doris Matthäus</boardgameartist>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																													<boardgamefamily objectid="135">Spielbox</boardgamefamily>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepublisher objectid="3001">W. Nostheide Verlag GmbH</boardgamepublisher>
+															<boardgamedesigner objectid="398">Klaus-Jürgen Wrede</boardgamedesigner>
+															<boardgameexpansion objectid="822" inbound="true">Carcassonne</boardgameexpansion>
+															<boardgameexpansion objectid="45748" inbound="true">Carcassonne: Wheel of Fortune</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>555</usersrated>
+					<average>6.91788</average>
+					<bayesaverage>5.94896</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.94896" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="6.08227" />
+												
+											</ranks>
+					
+					<stddev>1.38851</stddev>
+					<median>0</median>
+					<owned>1413</owned>
+					<trading>22</trading>
+					<wanting>116</wanting>
+					<wishing>273</wishing>
+					<numcomments>232</numcomments>
+					<numweights>57</numweights>
+					<averageweight>1.9123</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

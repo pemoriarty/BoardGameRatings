@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1004">
+			<yearpublished>1988</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="5">Der Feuer-Salamander</name>
+							<name primary="true" sortindex="5">Der Feuersalamander</name>
+							<name  sortindex="1">Η Σαλαμάνδρα της Φωτιάς</name>
+									
+			<description>Der Feuersalamander is a deduction game with a fantasy theme. The game board shows four distinct areas associated with the four elements (air, water, fire, earth). Each area has 7 rows and three columns, showing 1,2, or 3 stones.&lt;br/&gt;&lt;br/&gt;The players try to deduce a set of 3 cards (1 element, 1 row number, 1 number of stones) in play from their own and other players' cards. A player can have a maximum of two cards in their hands, and they have to be different types (e.g., no 2 element cards). On their turn, a player rolls the special dice, showing both a symbol and a number. If the salamander is rolled as the symbol, the player gets to pick up a card. If the stone symbol is rolled, the player &lt;br/&gt;marks one of the possible positions on the board represented by their cards on the board. In any case, the player moves their pawn according to the number rolled.&lt;br/&gt;&lt;br/&gt;If another player reaches a space with another player's marker, they can ask that player for a specific card. The player has to show the questioner a Yes/No card to indicate their answer.&lt;br/&gt;&lt;br/&gt;Once a player knows a set of cards, they move their pawn back to their own starting location. Upon arrival, the player states the set of cards and who has the missing card(s). If the statement is true, the player receives a number of points; if not, they end up in the dungeon. The game ends after a player reaches a certain number of points.&lt;br/&gt;&lt;br/&gt;Der Feuersalamander is the third game in Noris' Fantasy trilogy, with Die Drei Magier and Das Blaue Amulett being the first and second.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2U_FBTdwlE_ieT9gXttjTmH8clA=/fit-in/200x150/pic1289246.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WjIVdSlXCfSK03n5Tn-q25Y6BFw=/0x0/pic1289246.jpg</image>
+						
+												<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="24954">Dourios</boardgamepublisher>
+															<boardgameversion objectid="245524">Dourios Greek edition</boardgameversion>
+																																				<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																																																		<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgameversion objectid="73088">Noris German first edition</boardgameversion>
+															<boardgameversion objectid="340015">Noris German second edition</boardgameversion>
+															<boardgamepublisher objectid="304">Noris Spiele</boardgamepublisher>
+															<boardgamefamily objectid="13488">Noris&#039; Fantasy trilogy</boardgamefamily>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamedesigner objectid="233">Johann Rüttinger</boardgamedesigner>
+															<boardgameartist objectid="233">Johann Rüttinger</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>82</usersrated>
+					<average>5.875</average>
+					<bayesaverage>5.52655</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10275" bayesaverage="5.52655" />
+												
+											</ranks>
+					
+					<stddev>1.24097</stddev>
+					<median>0</median>
+					<owned>288</owned>
+					<trading>9</trading>
+					<wanting>4</wanting>
+					<wishing>18</wishing>
+					<numcomments>23</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

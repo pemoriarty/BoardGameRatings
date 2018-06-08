@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20090">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>9</age>
+
+							<name  sortindex="1">Agent Double</name>
+							<name  sortindex="1">Agents Doubles</name>
+							<name  sortindex="1">Doppelagent</name>
+							<name primary="true" sortindex="1">Double Agent</name>
+									
+			<description>From the author's homepage:&lt;br/&gt;&lt;br/&gt;Double Agents is published as an insert in the french boardgame magazine &amp;quot;Des Jeux sur un Plateau&amp;quot;, in the October 2005 issue (#20). In this card game, each player is trying to manipulate five double agents with ambiguous loyalty, and to guess which ones are working for him and which one for his opponent. Hidden information, face down cards... it's a two player game, but it's also a classical Ludo or Bruno game, where you don't know what is sophisticated bluffing and what it just global chaos.&lt;br/&gt;&lt;br/&gt;From an earlier description on Bruno Faidutti's website:&lt;br/&gt;Double Agent is based on a simple idea : each player knows each agent's loyalty to him, but doesn't know his loyalty to his opponent. In such an ambiguous situation, it's hard to decide who you can trust with your precious top-secret documents, which must not end in enemy hands. Each player plays cards face down on his side of the gameboard. It is therefore a bluffing game, but it is also, as one can expect from a collaboration between Ludovic and me, a deliberately chaotic and often uncontrollable game&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W0Hkeu_-JKlUGnA5oly6HfsWNQQ=/fit-in/200x150/pic1037207.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kyA0EOOfrco3gz60mo6k_gkCllg=/0x0/pic1037207.jpg</image>
+						
+												<boardgamepublisher objectid="5400">Matagot</boardgamepublisher>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+																						<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamedesigner objectid="125">Bruno Faidutti</boardgamedesigner>
+																						<boardgamepublisher objectid="3146">Jeux sur un Plateau</boardgamepublisher>
+															<boardgameversion objectid="232858">Jeux sur un Plateau edition</boardgameversion>
+															<boardgamefamily objectid="20788">Matagot Duo Collection</boardgamefamily>
+															<boardgameversion objectid="104122">Matagot English edition 2010</boardgameversion>
+															<boardgameversion objectid="59274">Matagot French edition 2010</boardgameversion>
+															<boardgameversion objectid="168515">Matagot German edition 2010</boardgameversion>
+															<boardgamedesigner objectid="4337">Ludovic Maublanc</boardgamedesigner>
+															<boardgameartist objectid="12383">Pierô</boardgameartist>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>211</usersrated>
+					<average>5.85122</average>
+					<bayesaverage>5.55542</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8012" bayesaverage="5.55542" />
+												
+											</ranks>
+					
+					<stddev>1.35129</stddev>
+					<median>0</median>
+					<owned>427</owned>
+					<trading>33</trading>
+					<wanting>25</wanting>
+					<wishing>110</wishing>
+					<numcomments>74</numcomments>
+					<numweights>12</numweights>
+					<averageweight>1.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

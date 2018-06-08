@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="190">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Dolce Vita</name>
+									
+			<description>Players are socialites who are trying to take as many high-value luxuries as they can manage.  A number of luxuries (boats, mansions, watches, boats, etc.) of values varying from one million to seven million are laid out in a matrix.  Players take turn placing power cards in the columns, and after five of the six cards have been played, the highest bid takes the first luxury in the column, the second highest gets the next one up, and so on.  However, if you collect a second luxury item you already own, then the newest one replaces the older one, which could mean exchanging a lavish seven million dollar car for a paltry one million dollar one!  After the specified number of rounds, the highest valued collection is deemed the best.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/N4O357-Kp1Bkt8YjfZo7YlASttk=/fit-in/200x150/pic290421.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nvJDZ7s0j4crr2jPj673LZeUVcg=/0x0/pic290421.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="26647">First edition</boardgameversion>
+																																																									<boardgamepublisher objectid="133">Hans im Glück</boardgamepublisher>
+															<boardgameartist objectid="74">Doris Matthäus</boardgameartist>
+																						<boardgamedesigner objectid="158">Reiner Stockhausen</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>190</usersrated>
+					<average>6.16632</average>
+					<bayesaverage>5.59261</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6255" bayesaverage="5.59261" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1230" bayesaverage="5.63875" />
+												
+											</ranks>
+					
+					<stddev>1.16023</stddev>
+					<median>0</median>
+					<owned>358</owned>
+					<trading>21</trading>
+					<wanting>7</wanting>
+					<wishing>11</wishing>
+					<numcomments>63</numcomments>
+					<numweights>16</numweights>
+					<averageweight>1.6875</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

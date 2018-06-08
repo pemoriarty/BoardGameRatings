@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23266">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Ranged Fun</name>
+									
+			<description>Ranged Fun is a simple game of vehicular urban shootyness.&lt;br/&gt;&lt;br/&gt;The core of the game is based around the four statistics which each unit has. These are reduced as the unit is damaged, so they gradually loose effectiveness before being destroyed. This means there is some bookkeeping involved, but it means the rules a great for quick skirmish games.&lt;br/&gt;&lt;br/&gt;The statistics themselves are generalized: each is the combination of many factors the unit may have. For example, all the guns, ammo, rate of fire, targeting efficiency and range are represented by a single number. As the number is reduced through damage, it can represent individual guns being disabled, hampered aiming, ammo destroyed etc.&lt;br/&gt;&lt;br/&gt;This may not be that realistic but it speeds gameplay and reduces bookkeeping. This is after all a game of fun - at different ranges&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamepublisher objectid="5403">Amazing Ideas, Inc.</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamedesigner objectid="6999">Duncan Timiney</boardgamedesigner>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

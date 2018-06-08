@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7956">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Formel 1 Nürburgring</name>
+									
+			<description>This is the second game in Kramer's Formel 1 (Formula 1) series of racing games.  This is the essentially same game as Niki Lauda's Formel 1 produced about 5 years earlier but with a different board (the actual Nurburgring track in Germany.)&lt;br/&gt;&lt;br/&gt;The later games in the series include Detroit-Cleveland Grand Prix, Daytona 500, and Top Race. The basic mechanism of auctioning the cars and then playing race is there. This game also includes the infamous &amp;quot;White 10&amp;quot; which was considered too unbalancing to use.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/x-MjPhlUAHp3NWo6eTGQ9fWQ_2E=/fit-in/200x150/pic172026.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-DJL0EM00F4QmPJW4o-mayLHdhM=/0x0/pic172026.jpg</image>
+						
+												<boardgamepublisher objectid="74">ASS Altenburger Spielkarten</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamefamily objectid="9862">Auto Racing: Wolfgang Kramer card system</boardgamefamily>
+															<boardgamefamily objectid="10643">Country: Germany</boardgamefamily>
+																						<boardgameversion objectid="105761">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgamefamily objectid="6206">Sports: Auto Racing</boardgamefamily>
+															<boardgameimplementation objectid="932">Top Race</boardgameimplementation>
+															<boardgameimplementation objectid="5389" inbound="true">Niki Lauda&#039;s Formel 1</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>6.45484</average>
+					<bayesaverage>5.52674</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10254" bayesaverage="5.52674" />
+												
+											</ranks>
+					
+					<stddev>1.29012</stddev>
+					<median>0</median>
+					<owned>68</owned>
+					<trading>4</trading>
+					<wanting>9</wanting>
+					<wishing>10</wishing>
+					<numcomments>10</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

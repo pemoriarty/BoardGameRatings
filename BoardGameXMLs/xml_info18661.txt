@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18661">
+			<yearpublished>1982</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Alapo</name>
+									
+			<description>Alapo is a strategy game. Each player owns twelve abstract pieces, two each of six different kinds. Round pieces move in any of the eight directions on the 6 by 6 board; square pieces move only orthogonally and triangular pieces only diagonally. Large pieces move any distance, small pieces only one field per turn. &lt;br/&gt;Opponent pieces can be eliminated by moving onto their position. The goal is to reach the opponent's base line with one of your pieces without the opponent being able to eliminate your piece in his/her next move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Q_EjFDvv3n-GH-Cha-wcRaGNkMc=/fit-in/200x150/pic395703.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zRufvDiYoYjpMJJC61o-5_4GR9w=/0x0/pic395703.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="402">Edition Perlhuhn (Göttinger Spiele)</boardgamepublisher>
+															<boardgameversion objectid="205165">First edition</boardgameversion>
+															<boardgamedesigner objectid="1791">Johannes Tranelis</boardgamedesigner>
+															<boardgameartist objectid="94">Reinhold Wittig</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>6.9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.09087</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>11</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

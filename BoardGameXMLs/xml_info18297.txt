@@ -1,0 +1,139 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18297">
+			<yearpublished>2006</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Experiment</name>
+							<name  sortindex="1">Эксперимент</name>
+							<name  sortindex="1">Эксперимент</name>
+									
+			<description>Microbadge: &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;You are working in a lab where you are trying to get hold of the right colored fluids to mix them and fulfill the tasks that your professor assigned to you.&lt;br/&gt;&lt;br/&gt;After 12 rounds make sure that you have the most &amp;quot;orders&amp;quot; (tasks) accomplished. Depending on the &amp;quot;order&amp;quot; you will gain points ranging from 1 to 5. Add them together and the one with the most points wins the game!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/31QyA7I7wV1e67IDSKLkcNuURUU=/fit-in/200x150/pic147676.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8uiZu-hqCzwRgzf0KjE1qTQKGmI=/0x0/pic147676.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="5459">Tim De Rycke</boardgamedesigner>
+															<boardgameexpansion objectid="56386">Empty Erlenmeyer Experiment Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="85174">Exchange Explosion Evaporation Experiment Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="58381">Experiment Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="58382">Extra Experiment Expansion</boardgameexpansion>
+																																											<boardgamepublisher objectid="23031">Magellan</boardgamepublisher>
+															<boardgameversion objectid="208102">Russian edition</boardgameversion>
+															<boardgamepublisher objectid="5647">SandTimer</boardgamepublisher>
+															<boardgameversion objectid="25825">Sandtimer Second Edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameartist objectid="12598">Kenneth Van Bogget</boardgameartist>
+															<boardgamedesigner objectid="5458">Sander Vernyns</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>256</usersrated>
+					<average>6.1123</average>
+					<bayesaverage>5.59661</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6103" bayesaverage="5.59661" />
+												
+											</ranks>
+					
+					<stddev>1.30563</stddev>
+					<median>0</median>
+					<owned>399</owned>
+					<trading>25</trading>
+					<wanting>10</wanting>
+					<wishing>40</wishing>
+					<numcomments>103</numcomments>
+					<numweights>39</numweights>
+					<averageweight>1.8205</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

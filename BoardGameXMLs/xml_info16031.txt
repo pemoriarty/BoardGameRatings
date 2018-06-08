@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="16031">
+			<yearpublished>1966</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>75</playingtime>
+			<minplaytime>75</minplaytime>
+			<maxplaytime>75</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Consensus</name>
+									
+			<description>The gameboard is a map of the United States with many scales for record keeping around its perimeter. Each state shows how many electoral votes it is worth, how many phases must be spent to capture it and which demographics it represents.&lt;br/&gt;&lt;br/&gt;The game turn begins with each player plotting their campaigns. When all the players have recorded their moves, the players campaign simultaneously.  The campaign round consists of twenty-two phases. Players who have plotted identical campaigns in a state cancel each other.&lt;br/&gt;&lt;br/&gt;After the third campaign phase and at the end of every campaign phase thereafter, each of the ten demographics catagories are calculated. Players who have the majority of the available electoral votes receive six extra phases to campaign in the states represented by the demographic won.&lt;br/&gt;&lt;br/&gt;The game continues until forty electoral votes have been locked in as uncontested victories by all the players or until a target number of game turns have been played. Players total electoral votes won and the player who has 270 is the winner. If no one has 270, the last place finisher is eliminated and that player's electoral votes are doled out to whoever finished second in those states. This process is repeated until someone has enough to win the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5D1xo7QFcwx2lay3iXN6izRvJSA=/fit-in/200x150/pic66280.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SvtvPJ4HTKJlNbG3JAmMKiRBNig=/0x0/pic66280.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamedesigner objectid="4826">John Reed Koza</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamefamily objectid="34116">Political: Elections</boardgamefamily>
+															<boardgamepublisher objectid="3602">Scientific Games Development Corp.</boardgamepublisher>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>7.61111</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.74649</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>1</trading>
+					<wanting>5</wanting>
+					<wishing>14</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

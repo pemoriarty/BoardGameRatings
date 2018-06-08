@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15209">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Linja</name>
+									
+			<description>Both players start with six pawns in their base and with one pawn in each of the six spaces between both bases. The goal of the game is to place your pawns in the opponent's home base or as near as possible to it.&lt;br/&gt;&lt;br/&gt;During a turn, a player has one move that consists of first moving one pawn one space towards the other player's base. Then, he can choose to move any of his pawns as many spaces as the number of pawns in the space that the first pawn was moved into.&lt;br/&gt;&lt;br/&gt;Game components are red and black wooden pawns and seven bamboo sticks to create the playing field.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wqNfRWy2fqanSPzUSlYUijqiIvU=/fit-in/200x150/pic835805.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SGJksY4rO4Blwag_lmUnfLlAAUk=/0x0/pic835805.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="62887">Dutch Version</boardgameversion>
+																													<boardgamepublisher objectid="1280">FoxMind</boardgamepublisher>
+															<boardgameversion objectid="69224">FoxMind edition</boardgameversion>
+																																																																							<boardgamepublisher objectid="5787">Morapiaf</boardgamepublisher>
+															<boardgameversion objectid="158076">Morapiaf Edition</boardgameversion>
+															<boardgamedesigner objectid="4677">Steffen Mühlhäuser</boardgamedesigner>
+															<boardgameartist objectid="4677">Steffen Mühlhäuser</boardgameartist>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+																						<boardgamepublisher objectid="14368">Productief BV</boardgamepublisher>
+																																				<boardgameversion objectid="62108">Steffen Spiele first edition</boardgameversion>
+															<boardgamepublisher objectid="4666">Steffen-Spiele</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>251</usersrated>
+					<average>6.64024</average>
+					<bayesaverage>5.70136</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4014" bayesaverage="5.70136" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="171" bayesaverage="6.15489" />
+												
+											</ranks>
+					
+					<stddev>1.2084</stddev>
+					<median>0</median>
+					<owned>442</owned>
+					<trading>7</trading>
+					<wanting>5</wanting>
+					<wishing>59</wishing>
+					<numcomments>87</numcomments>
+					<numweights>18</numweights>
+					<averageweight>1.8889</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

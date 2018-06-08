@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15874">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Bushi Shogi</name>
+							<name  sortindex="1">Bushishogi</name>
+									
+			<description>Bushi Shogi is a Shogi variant played by two opponents on a field of two cells, with two pieces called Samurai. The pieces are cubes with kanji in red for 'samurai' and kanji in black for 'sword' on each face.&lt;br/&gt;&lt;br/&gt;The playing field starts empty. Each player receives one Samurai and, beginning with Black, drops them onto their respective cells in turn. Such placement must be so that the upward face of the cube does NOT present a 'sword' kanji toward the opponent.&lt;br/&gt;&lt;br/&gt;Movement consists of either rotating the cube one face clockwise, rolling it forward one face toward the opponent, rolling it    left one face or rolling it right one face.&lt;br/&gt;&lt;br/&gt;The upward face of each cube controls the play of the game. If an opponent cube presents an upward face which has a forward 'sword' and the upward face of the player's cube does NOT present a forward 'sword', the player must rotate only. If an opponent cube presents a 'sword' forward, and the player presents a 'sword' forward, the player must roll the cube directly away from the 'samurai' kanji on its upward face.&lt;br/&gt;&lt;br/&gt;The game is won by the player who is able to present an upward face with a forward 'sword' and a rearward 'samurai' when the opponent cube also presents a forward 'sword' with a rearward 'samurai'. The 'samurai' are considered to be facing each other with their 'swords' met.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6k0VtzHIUI3xxWjneRrewTo-4Xc=/fit-in/200x150/pic65815.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nhnEuC1jg_aOOXv49kFnNuuLuno=/0x0/pic65815.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamedesigner objectid="4806">Georg Dunkel</boardgamedesigner>
+															<boardgameversion objectid="189647">First edition</boardgameversion>
+																						<boardgamefamily objectid="11305">Shogi</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>5.97857</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.46589</stddev>
+					<median>0</median>
+					<owned>21</owned>
+					<trading>0</trading>
+					<wanting>7</wanting>
+					<wishing>33</wishing>
+					<numcomments>9</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

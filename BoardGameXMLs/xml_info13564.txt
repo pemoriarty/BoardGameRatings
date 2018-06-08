@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="13564">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Eishockey: Die Simulation</name>
+									
+			<description>An ice hockey simulation game.  Each player controls a team of hockey players, consisting of three 5-player lines.&lt;br/&gt;&lt;br/&gt;Forty-four player cards are included with the game.  The players have all different values for play-relevant abilities, such as checking, passing, or puck control.  The different player characteristics visibly affect the play, and lead to goals scored, missed passes, and trips to the penalty box.&lt;br/&gt;&lt;br/&gt;Nearly every action is accompanied by a die roll, so a bit of good luck is necessary to win.&lt;br/&gt;&lt;br/&gt;There are also league rules for up to sixteen players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dvILYKybpMFkdxrhoz_hydABH2A=/fit-in/200x150/pic62496.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yhR2uzfnTcov2VWuo6bUEMNjjlY=/0x0/pic62496.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamepublisher objectid="3052">Greyhound Games</boardgamepublisher>
+															<boardgamedesigner objectid="4227">Juergen Scheiven</boardgamedesigner>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5628">Sports: Ice Hockey</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>7.84</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.427083</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>2</trading>
+					<wanting>4</wanting>
+					<wishing>8</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

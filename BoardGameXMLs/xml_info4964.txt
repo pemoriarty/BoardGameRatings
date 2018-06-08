@@ -1,0 +1,88 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4964">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Close Assault</name>
+									
+			<description>A detailed tactical infantry and AFV game set during World War II.  Counters represent individual soldiers and vehicles.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yvGSt9OJxrXImHJA9lEa1d4cnco=/fit-in/200x150/pic3636530.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NnKQC2DkfaniLVpMfxj9GjxVqAQ=/0x0/pic3636530.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgameversion objectid="109463">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgamepublisher objectid="154">Yaquinto</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>50</usersrated>
+					<average>7.214</average>
+					<bayesaverage>5.56696</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7379" bayesaverage="5.56696" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1390" bayesaverage="5.88227" />
+												
+											</ranks>
+					
+					<stddev>1.60624</stddev>
+					<median>0</median>
+					<owned>169</owned>
+					<trading>11</trading>
+					<wanting>13</wanting>
+					<wishing>29</wishing>
+					<numcomments>37</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.875</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

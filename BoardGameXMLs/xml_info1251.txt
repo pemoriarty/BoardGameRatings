@@ -1,0 +1,137 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1251">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">New World</name>
+									
+			<description>Multi-player game about the discovery, colonization and exploitation of the Americas.  Players explore the Americas while discovering gold, encountering native uprisings and even battling pirates.  Players win by gaining control of five regions in the New World at the end of any turn OR by having the most money after several turns of play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Mfh2cp7zpF1_hGwbIRLIXbEpfmA=/fit-in/200x150/pic264935.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SLUust6_KRbX97EekleaFtzzaXk=/0x0/pic264935.jpg</image>
+						
+												<boardgamefamily objectid="5549">Age of Discovery</boardgamefamily>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamedesigner objectid="128">Derek Carver</boardgamedesigner>
+															<boardgameartist objectid="18858">Dave Dobyski</boardgameartist>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="140454">First edition</boardgameversion>
+															<boardgamedesigner objectid="76">Don Greenwood</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="2652">Charles Kibler</boardgameartist>
+															<boardgameartist objectid="12422">George I. Parrish, Jr.</boardgameartist>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>330</usersrated>
+					<average>6.02727</average>
+					<bayesaverage>5.61478</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5588" bayesaverage="5.61478" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1521" bayesaverage="5.65121" />
+												
+											</ranks>
+					
+					<stddev>1.27789</stddev>
+					<median>0</median>
+					<owned>808</owned>
+					<trading>77</trading>
+					<wanting>17</wanting>
+					<wishing>38</wishing>
+					<numcomments>124</numcomments>
+					<numweights>40</numweights>
+					<averageweight>2.575</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

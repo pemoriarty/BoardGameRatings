@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3538">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Gnome Tribes</name>
+							<name  sortindex="1">Gnome&#039;s War</name>
+							<name  sortindex="1">Gnomes de guerre</name>
+									
+			<description>The four great gnome tribes (forest, swamp, mountain and plains) are at war.  These gnomes are small, itching for a fight, very ingenious but terribly avaricious.  From their castles, they invent the war machines that will guarantee victory.  Since the victory condition is unknown until the very end, you must balance all three domains of achievement (wealth, power and invention) to have a chance of being declared Great Gnome.&lt;br/&gt;&lt;br/&gt;The box contains: a board, a 44 card deck, 64 gnome pawns, 4 victory point pawns, 4 six-sided dice and 100 &amp;quot;GnomGold&amp;quot; bills (paper money).&lt;br/&gt;&lt;br/&gt;Oddly, the game isn't displayed anywhere on Tilsit's web site.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4v9wog0vaeD1DmQg7wzeChue8rs=/fit-in/200x150/pic14974.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/air1XmzDBgIgyKMFgdNj6ipITHA=/0x0/pic14974.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamedesigner objectid="1442">François Bachelard</boardgamedesigner>
+															<boardgamepublisher objectid="94">Clash of Arms Games</boardgamepublisher>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																						<boardgameversion objectid="42940">French edition</boardgameversion>
+															<boardgameversion objectid="40521">German First edition</boardgameversion>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamepublisher objectid="42">Tilsit</boardgamepublisher>
+															<boardgameversion objectid="40363">Tilsit English edition</boardgameversion>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>44</usersrated>
+					<average>4.16932</average>
+					<bayesaverage>5.45422</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14668" bayesaverage="5.45422" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2721" bayesaverage="5.35151" />
+												
+											</ranks>
+					
+					<stddev>1.93615</stddev>
+					<median>0</median>
+					<owned>147</owned>
+					<trading>12</trading>
+					<wanting>2</wanting>
+					<wishing>7</wishing>
+					<numcomments>29</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

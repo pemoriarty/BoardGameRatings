@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11138">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Tank Command</name>
+									
+			<description>The board is a large plastic base with a movable center slide and movement markers printed on the base.  Each of the players 4 tanks fit into notches on the sliding base.  The land mines (pegs that move up and down through the base) are activated by pulling a lanyard that runs under the base and behind your command bunker.  Shells numbered 1 through 10 are hidden in your command bunker with higher numbered shells having more firepower.  Players simultaneously select one of their ten shells then both players lower the bunker to reveal the value of the fired shell.  The player with the higher value shell totals the value of both shells and moves the slide that number of spaces towards his opponent.  If the shells are of the same value, both are discarded and the tanks are not moved.  If the opponents tanks are moved back over the land mines, the player that had the higher total can pull on the lanyard.  If the opponents tank is moved, it is destroyed and is out of the game.  Both of the fired shells are then removed from the game.  The game is played in two rounds but tanks destroyed in the first round are not replaced for the second round.  The winner is the player with the most tanks on the battlefield after two rounds.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/E0WS0Ctu2KMBFoUlvhU5ki5Eej4=/fit-in/200x150/pic45397.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7GqRQjkWcragbJ_enGU_0Q2f6yM=/0x0/pic45397.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgameversion objectid="91600">First edition</boardgameversion>
+															<boardgamepublisher objectid="153">Ideal</boardgamepublisher>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>24</usersrated>
+					<average>4.875</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.47373</stddev>
+					<median>0</median>
+					<owned>49</owned>
+					<trading>1</trading>
+					<wanting>4</wanting>
+					<wishing>6</wishing>
+					<numcomments>16</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

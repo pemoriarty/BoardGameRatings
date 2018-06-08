@@ -1,0 +1,143 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3083">
+			<yearpublished>1976</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Submarine</name>
+									
+			<description>Submarine is a tactical game of World War II submarine warfare. One player assumes the role of a submarine captain, while others are escort and/or convoy commanders. The submarine location is kept secret with the submarine player using plotted movement for the submarine and any torpedoes. The escort/convoy players move their ships on the board. When sighted or picked up by Sonar/Asdic the submarine will then be placed in full view on the map board as well. The game includes rules for different nationalities, various anti-submarine warfare systems, historical scenarios, night-fighting, and Design Your Own scenarios etc.&lt;br/&gt;&lt;br/&gt;Avalon Hill Complexity rating - 8&lt;br/&gt;&lt;br/&gt;Game Scale:&lt;br/&gt;Turn: 30 seconds&lt;br/&gt;Hex: 100 yards&lt;br/&gt;Unit: Individual submarines / ships&lt;br/&gt;&lt;br/&gt;Game Inventory:&lt;br/&gt;Three 11&amp;quot; x 28&amp;quot; mounted mapboards&lt;br/&gt;One countersheet (218 1/2&amp;quot; x 14/16&amp;quot; and 96 1/2&amp;quot; counters)&lt;br/&gt;One 32 page Rulebook&lt;br/&gt;One Submarine - Convoy/Escort Log Sheet pad&lt;br/&gt;Four Submarine/Surface Ship Data Cards&lt;br/&gt;One Player Aid Card&lt;br/&gt;Two six-sided dice&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zNvtZztnbMqwTos7Y0Hh9PFtgAc=/fit-in/200x150/pic39818.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eKJKQhLA1NOowrw8GXEpv20hNgM=/0x0/pic39818.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgameversion objectid="74783">Avalon Hill first edition</boardgameversion>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgameversion objectid="40427">Avalon Hill second edition</boardgameversion>
+															<boardgameartist objectid="12261">Jean Baer</boardgameartist>
+															<boardgamepublisher objectid="1634">Battleline</boardgamepublisher>
+															<boardgameversion objectid="126089">Battleline English first edition</boardgameversion>
+															<boardgameartist objectid="12253">Joe DeMarco</boardgameartist>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+																						<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgameartist objectid="12259">W. Scott Moores</boardgameartist>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamedesigner objectid="733">J. Stephen Peek</boardgamedesigner>
+																						<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+																						<boardgamefamily objectid="7969">Underwater War</boardgamefamily>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>449</usersrated>
+					<average>6.44207</average>
+					<bayesaverage>5.74948</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3534" bayesaverage="5.74948" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="761" bayesaverage="6.17066" />
+												
+											</ranks>
+					
+					<stddev>1.4069</stddev>
+					<median>0</median>
+					<owned>1313</owned>
+					<trading>98</trading>
+					<wanting>17</wanting>
+					<wishing>65</wishing>
+					<numcomments>186</numcomments>
+					<numweights>68</numweights>
+					<averageweight>3.2206</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

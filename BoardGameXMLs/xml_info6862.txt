@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6862">
+			<yearpublished>1911</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Lasca</name>
+							<name primary="true" sortindex="1">Laska</name>
+							<name  sortindex="1">Laskers</name>
+									
+			<description>World Chess Champion Emanuel Lasker developed Laska (a.k.a. Lasca), a variant of the Checkers Family, in 1911. The game board and play resembles that of Checkers, but captured pieces remain on the board and can possibly be freed later in the game.&lt;br/&gt;&lt;br/&gt;Each player starts the game on the 7x7 board with eleven soldiers. On a turn, a player moves one soldier diagonally forward one space. If a capture is available, then the player must make that capture, trapping the captured piece underneath the capturing one; if the newly captured piece had previously had one or more pieces underneath it, then those pieces are now free to move in future turns. If a soldier reaches the opponent's back row, it's flipped and promoted to an officer, which can move diagonally in all directions. The game continues until either a player can't move or a player has no pieces remaining on the board. In both cases, this player loses the game.&lt;br/&gt;&lt;br/&gt;Laska was influenced by Bashni.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ws1k3sJB3KBQQa2FH6nneR9XOw8=/fit-in/200x150/pic495819.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ovWFJxbL_ft_MHePM57zra4mcmM=/0x0/pic495819.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgameversion objectid="202518">Block House edition</boardgameversion>
+															<boardgamepublisher objectid="24703">Block House Inc</boardgamepublisher>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+															<boardgameversion objectid="31055">F.X. Schmid first edition</boardgameversion>
+															<boardgameversion objectid="143586">F.X. Schmid second edition</boardgameversion>
+															<boardgameversion objectid="217830">Game Crafter edition</boardgameversion>
+															<boardgameversion objectid="249028">Game Crafter edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+																													<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="82680">Hans Joseph edition</boardgameversion>
+															<boardgamepublisher objectid="9222">Hans Joseph GmbH</boardgamepublisher>
+																													<boardgamepublisher objectid="6266">L. P. Septímio</boardgamepublisher>
+																						<boardgamedesigner objectid="2448">Emanuel Lasker</boardgamedesigner>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="217875">nestorgames deluxe edition</boardgameversion>
+															<boardgameversion objectid="403705">nestorgames standard edition</boardgameversion>
+																																				<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>78</usersrated>
+					<average>6.74936</average>
+					<bayesaverage>5.57138</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7144" bayesaverage="5.57138" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="291" bayesaverage="5.89806" />
+												
+											</ranks>
+					
+					<stddev>1.49316</stddev>
+					<median>0</median>
+					<owned>132</owned>
+					<trading>6</trading>
+					<wanting>8</wanting>
+					<wishing>28</wishing>
+					<numcomments>35</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.6154</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

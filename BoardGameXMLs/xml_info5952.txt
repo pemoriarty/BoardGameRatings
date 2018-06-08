@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5952">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Xena: Warrior Princess CCG</name>
+									
+			<description>A resource-management collectible card game.  Cards feature popular characters, settings and episodes from the television series with actual screen captures.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5ki6qvVVJD1UH-UNb0ZRJFZrE18=/fit-in/200x150/pic89039.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WeEaFcqMvpoJ-svGPvPvpBCZN08=/0x0/pic89039.jpg</image>
+						
+												<boardgamefamily objectid="4503">ARC System</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="5585">Charlie Catino</boardgamedesigner>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamedesigner objectid="38540">Mike Davis</boardgamedesigner>
+															<boardgamedesigner objectid="118">Skaff Elias</boardgamedesigner>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamedesigner objectid="14">Richard Garfield</boardgamedesigner>
+															<boardgamedesigner objectid="38541">Joe Grace</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="119">Jim Lin</boardgamedesigner>
+															<boardgamedesigner objectid="38542">Joel Mick</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamepublisher objectid="13">Wizards of the Coast</boardgamepublisher>
+															<boardgamepublisher objectid="574">Wolfgang Joker Spiele</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>84</usersrated>
+					<average>5.08512</average>
+					<bayesaverage>5.4594</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14545" bayesaverage="5.4594" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="252" bayesaverage="5.08883" />
+												
+											</ranks>
+					
+					<stddev>1.97111</stddev>
+					<median>0</median>
+					<owned>154</owned>
+					<trading>14</trading>
+					<wanting>6</wanting>
+					<wishing>6</wishing>
+					<numcomments>48</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.1667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

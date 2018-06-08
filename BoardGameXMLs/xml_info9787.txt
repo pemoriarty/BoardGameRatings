@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9787">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Beer Money</name>
+									
+			<description>From the publisher's website:&lt;br/&gt;&lt;br/&gt;Recess is over. Now you're fighting for something more ...&lt;br/&gt;&lt;br/&gt;Beer Money is the long-anticipated 110-card sequel to the frenetic Lunch Money card game. Beer Money is a stand-alone game that can also be mixed in with a Lunch Money or Lunch Money: Sticks and Stones deck to accommodate up to 8 players. Like Lunch Money, Beer Money combines evocative images with the raw dynamics of a merciless street fight. But Beer Money ups the ante with weapons like Beer Bottle, basic attacks such as Knuckle Sammitch, defenses like Suck It Up, and specialty cards including Pound of Flesh and Pile Driver. The pain just keeps on coming when you're playing with Beer Money!&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Lunch Money&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    Lunch Money&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/f1FPNoHNLWhvtK1qplx_bE6buvk=/fit-in/200x150/pic49228.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/F6WZXskTcF768asA8m-xywYJVXY=/0x0/pic49228.jpg</image>
+						
+												<boardgamepublisher objectid="78">Atlas Games</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="47872">First edition</boardgameversion>
+																						<boardgameintegration objectid="228">Lunch Money</boardgameintegration>
+															<boardgameexpansion objectid="9665">Lunch Money: Sticks and Stones</boardgameexpansion>
+																																																									<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamedesigner objectid="3260">Charlie Wiedman</boardgamedesigner>
+															<boardgameartist objectid="28039">Andrew Yates</boardgameartist>
+															<boardgameintegration objectid="228" inbound="true">Lunch Money</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>385</usersrated>
+					<average>5.80818</average>
+					<bayesaverage>5.56273</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7612" bayesaverage="5.56273" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="823" bayesaverage="5.5562" />
+												
+											</ranks>
+					
+					<stddev>1.66884</stddev>
+					<median>0</median>
+					<owned>868</owned>
+					<trading>54</trading>
+					<wanting>7</wanting>
+					<wishing>37</wishing>
+					<numcomments>137</numcomments>
+					<numweights>27</numweights>
+					<averageweight>1.8148</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

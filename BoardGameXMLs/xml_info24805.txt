@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24805">
+			<yearpublished>1795</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Tori Shogi</name>
+									
+			<description>Tori (Bird) Shogi is a delightful variant played on a 7&amp;times;7 board that dates from the late 18th century.  It is thought to have been the first Shogi variant to utilize drops (a mechanic in the modern version of 9&amp;times;9 Shogi and absent from the original 9&amp;times;9 Sho Shogi).  Each piece is named after a type of bird.  The royal piece (King) is the Phoenix.  Other pieces include the Swallow (promotes to Wild Goose), Falcon (promotes to Eagle), Crane, Pheasant, and Quail.  The goal of the game is to capture the opposing Phoenix.&lt;br/&gt;&lt;br/&gt;Somewhat of an oddity is the fact that a player's two Quail pieces are actually asymmetrical, being designated as the Left Quail and the Right Quail, with their movement capabilities mirrored.  Drops are handled in a manner very similar to modern Shogi.  A third swallow cannot be dropped in a file that contains two others, nor can one be dropped on the last rank, where it would not be able to move.  In addition, a swallow cannot be dropped so as to give immediate mate.&lt;br/&gt;&lt;br/&gt;The promotion zone for Swallows and the Falcon consists of the opponent's back two ranks.  Promoted pieces revert to their un-promoted value when they are captured (for purposes of dropping back into play).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Uh9jzUybdia9iOeTCcCHCxk_mcM=/fit-in/200x150/pic2891651.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6Iea0CeQ-6v3vE-xyEYatGxQsb8=/0x0/pic2891651.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="162994">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamefamily objectid="11305">Shogi</boardgamefamily>
+															<boardgamepublisher objectid="8564">The Shogi Association</boardgamepublisher>
+																						<boardgamefamily objectid="6363">Tube Games</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>6.72222</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.7258</stddev>
+					<median>0</median>
+					<owned>31</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>10</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

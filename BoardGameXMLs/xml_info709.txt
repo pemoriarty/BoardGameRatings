@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="709">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Dragons of Glory</name>
+									
+			<description>Dragons of Glory is a simple wargame set in the fantasy world of the Dragonlance fantasy series.  Players take the roles of the the evil Dragon Highlords who try to conquer the nations of Ansalon, or the Whitestone forces, who try to stop the Dragon Highlords.  Game consists of four scenarios and a campaign game.&lt;br/&gt;&lt;br/&gt;The game system is built around the standard wargame, with a hexgrid overlaid mapsheet, counters representing the armies and fleets of both sides and the leaders who led them, combat charts.  The turn sequence is the standard you-move-I-move kind.  One interesting thing about the game is that both players start with minimal forces (The Whitestone player actually starts with none!), and try to activate allied nations as the game progresses.&lt;br/&gt;&lt;br/&gt;Game component consists of one mapsheet depicting the continent of Ansalon in the fantasy world of Krynn, counters,  rules and numerous charts.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-5plPEAyQy4kz9e8S4S7lm21Wes=/fit-in/200x150/pic19690.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EaT4molDcaoc80BKd8nldlBjf0k=/0x0/pic19690.jpg</image>
+						
+												<boardgamefamily objectid="7005">Animals: Dragons</boardgamefamily>
+															<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgamefamily objectid="19346">Dragonlance</boardgamefamily>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="29200">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="341">Tracy Hickman</boardgamedesigner>
+															<boardgamedesigner objectid="342">Douglas Niles</boardgamedesigner>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+																						<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>64</usersrated>
+					<average>6.14328</average>
+					<bayesaverage>5.53222</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9767" bayesaverage="5.53222" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2058" bayesaverage="5.68005" />
+												
+											</ranks>
+					
+					<stddev>1.17865</stddev>
+					<median>0</median>
+					<owned>153</owned>
+					<trading>6</trading>
+					<wanting>25</wanting>
+					<wishing>36</wishing>
+					<numcomments>31</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.5714</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,139 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2833">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Haut les mains !</name>
+							<name  sortindex="1">Not Guilty!</name>
+							<name  sortindex="1">Soy Inocente!</name>
+							<name primary="true" sortindex="1">Wanted!</name>
+							<name  sortindex="1">全面通緝</name>
+									
+			<description>Players are given speed-based tasks to perform when certain cards are laid on the table, with the slowest player penalized by taking the discard pile. Players race to empty their hands for the win. The game may best be described as card-driven &amp;quot;Simon Says.&amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/80f1RIgCwIqte-XthsoIFDEl5UY=/fit-in/200x150/pic941583.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AJgrnVoMBWJEbxvaira_yzWQSJ8=/0x0/pic941583.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamehonor objectid="13291">2003 Tric Trac Nominee</boardgamehonor>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamepublisher objectid="553">Cadaco</boardgamepublisher>
+															<boardgameversion objectid="34446">Cadaco English edition</boardgameversion>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+																													<boardgameversion objectid="174079">French edition</boardgameversion>
+																																																																<boardgameversion objectid="133787">Ravensburger Chinese edition</boardgameversion>
+															<boardgameversion objectid="89765">Ravensburger edition 2001</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="275384">Swan Panasia Chinese edition</boardgameversion>
+															<boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+															<boardgamepublisher objectid="1052">The Toy Company Argentina S.R.L.</boardgamepublisher>
+															<boardgameversion objectid="156071">ToyCo Argentinian Edition</boardgameversion>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>222</usersrated>
+					<average>5.70968</average>
+					<bayesaverage>5.51795</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11065" bayesaverage="5.51795" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="296" bayesaverage="5.58351" />
+												
+											</ranks>
+					
+					<stddev>1.51682</stddev>
+					<median>0</median>
+					<owned>466</owned>
+					<trading>21</trading>
+					<wanting>3</wanting>
+					<wishing>12</wishing>
+					<numcomments>62</numcomments>
+					<numweights>19</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

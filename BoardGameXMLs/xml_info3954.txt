@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3954">
+			<yearpublished>1960</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Baseball Strategy</name>
+									
+			<description>The two players select their lineups from imaginary players or actual players by converting their stats to the game's parameters. (This is easily done from mlb.com on the net.)&lt;br/&gt;&lt;br/&gt;The Defensive team is the manager and catcher, selecting pitch types (Fast Ball, Off Speed, Pitch out, etc. )to get batters out.&lt;br/&gt;&lt;br/&gt;Offensive managers and batters must then select a type of offense/ball in play strategy (Steal, Bunt, Hit and Run, Long Ball, etc.)The defensive team commits first with a &amp;quot;Pitch&amp;quot; card.  The offensive team then orally calls its strategy. The results of the two choices are found by cross indexing them on a result matrix table. This is classic matrix game theory where one player is trying to minimize his opponent's results while maximizing his own.&lt;br/&gt;&lt;br/&gt;Players can decide on the size of ballpark before the game.&lt;br/&gt;There are rules for series play in order to give proper rest to pitchers.  The game even has injury possibilities.&lt;br/&gt;&lt;br/&gt;Great baseball action.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Yio-LMgFIUHeO-Q8WyIgHHlX7yM=/fit-in/200x150/pic156996.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_hKNOoI1C6iBsseBy3axZbnzR9k=/0x0/pic156996.jpg</image>
+						
+												<boardgameversion objectid="39877">Avalon Hill edition 1973</boardgameversion>
+															<boardgameversion objectid="258499">Avalon Hill flat box edition 1962</boardgameversion>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgameversion objectid="84568">Avalon Hill third edition</boardgameversion>
+															<videogamebg objectid="106243">Computer Baseball Strategy</videogamebg>
+																						<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgameversion objectid="144238">First tube edition</boardgameversion>
+															<boardgamedesigner objectid="76">Don Greenwood</boardgamedesigner>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamedesigner objectid="589">Thomas N. Shaw</boardgamedesigner>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameversion objectid="204355">Third &#039;orange box&#039; Edition</boardgameversion>
+															<boardgamefamily objectid="6363">Tube Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>204</usersrated>
+					<average>5.73971</average>
+					<bayesaverage>5.52516</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10397" bayesaverage="5.52516" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1729" bayesaverage="5.50423" />
+												
+											</ranks>
+					
+					<stddev>1.67348</stddev>
+					<median>0</median>
+					<owned>436</owned>
+					<trading>49</trading>
+					<wanting>4</wanting>
+					<wishing>11</wishing>
+					<numcomments>99</numcomments>
+					<numweights>19</numweights>
+					<averageweight>1.7895</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

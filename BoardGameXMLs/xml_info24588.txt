@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24588">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Las Vegas</name>
+									
+			<description>This game is like Roulette with dice. Each turn, 3 dice of different colors are thrown and before that, 2-3 players can bet on the outcome of this dice throw.&lt;br/&gt;&lt;br/&gt;The board is showing all possible bets for all 3 dice colors, from Even, Uneven, Lower, Higher and so on. &lt;br/&gt;Each player starts with 20 chips of a chosen color and he must try to be the first who wins all 108 chips of that color.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yJerSAz1f5FYvnXUN3HZWS0xxPI=/fit-in/200x150/pic135320.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sBNNLNzRcZ7dH9ku30xuHDf2n4I=/0x0/pic135320.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="109085">First edition</boardgameversion>
+															<boardgamedesigner objectid="5742">Jürgen Heidorn</boardgamedesigner>
+															<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6.8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.8</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

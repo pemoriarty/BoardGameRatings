@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="155">
+			<yearpublished>1993</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Democracy</name>
+							<name primary="true" sortindex="1">Was sticht?</name>
+							<name  sortindex="1">ヴァス・シュティッヒ</name>
+									
+			<description>This is a two-trump, trick-taking card game, with several twists.  At the beginning of the game, players draft tasks they intend to complete in order to win the game.  (Tasks include things like &amp;quot;Take no tricks&amp;quot;, &amp;quot;Take 1 Trick&amp;quot;, or &amp;quot;Take No Red Cards&amp;quot;.)  Then, all of the cards are dealt out in front of the players before each hand.  Row by row, the players draft cards, and the dealer declares who would have won each row's trick, if it had been played that way.  Players use this information to deduce what the trump number and suit are.  After all the cards are drafted, each player - except the dealer - selects one of the task tiles she drafted, which will be her mission for the hand.  The dealer is stuck trying to uniquely accomplish someone else's task for the round - but at least doesn't have to preselect which person's goal he is trying to &amp;quot;steal&amp;quot;.  The hand is then played in the traditional fashion, with each player trying to take tricks or not, based on the goal she selected.  The first player to complete five tasks wins the game.&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Mü &amp; Lots More&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vkdrNu7hnIlSNbFqTWUQWMmYbVI=/fit-in/200x150/pic274047.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/C9cFA6evofVOnEABhrzGxYZWWzo=/0x0/pic274047.jpg</image>
+						
+												<boardgamehonor objectid="8954">1994 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamehonor objectid="8681">1994 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																																				<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="30707">German edition</boardgameversion>
+																																											<boardgameversion objectid="274696">Japanese edition</boardgameversion>
+															<boardgameartist objectid="1586">Ralf E. Kahlert</boardgameartist>
+																						<boardgamepublisher objectid="2">Moskito Spiele</boardgamepublisher>
+															<boardgamecompilation objectid="32928">Mü &amp; Lots More</boardgamecompilation>
+															<boardgamepublisher objectid="9881">New Games Order, LLC</boardgamepublisher>
+																																											<boardgamedesigner objectid="1">Karl-Heinz Schmiel</boardgamedesigner>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>583</usersrated>
+					<average>6.95212</average>
+					<bayesaverage>6.00873</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2042" bayesaverage="6.00873" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="909" bayesaverage="6.14473" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="501" bayesaverage="6.17028" />
+												
+											</ranks>
+					
+					<stddev>1.22636</stddev>
+					<median>0</median>
+					<owned>810</owned>
+					<trading>29</trading>
+					<wanting>28</wanting>
+					<wishing>77</wishing>
+					<numcomments>218</numcomments>
+					<numweights>57</numweights>
+					<averageweight>2.4211</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

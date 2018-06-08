@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20269">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Pikemen</name>
+									
+			<description>Pikemen is a game that uses Icehouse Pieces and a standard 8&amp;times;8 board.&lt;br/&gt;&lt;br/&gt;Pieces are warriors with long spears known as &amp;quot;Pikes.&amp;quot; Each turn a Pikeman may charge in the direction he is pointing (move any number of spaces in a straight line) and then reorient his pike in a different direction, including straight up for defense. When in defense, a piece can only be captured by a larger piece.  When pointing, a piece may be captured by any other piece.&lt;br/&gt;&lt;br/&gt;Captured pieces are worth different points depending on their size: 1 for small, 2 for medium, 3 for large.  The player who captures a number of enemy Pikemen worth a given amount first wins-- usually 12 points.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Super Duper Games&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Re-implemented by Star Fleet Scramble&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/h2N8dWbhKlPJ1tINgweLhDEITaI=/fit-in/200x150/pic945259.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XwkeglTzeMLLO_uFg032S_xg62o=/0x0/pic945259.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="6134">Jacob Davenport</boardgamedesigner>
+															<boardgamepublisher objectid="76">Looney Labs</boardgamepublisher>
+															<boardgamefamily objectid="20">Looney Pyramids</boardgamefamily>
+															<boardgameaccessory objectid="214172">Looney Pyramids</boardgameaccessory>
+																						<boardgamecompilation objectid="13454">Playing With Pyramids</boardgamecompilation>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="26677">Print and Play edition</boardgameversion>
+																						<boardgameimplementation objectid="68063">Star Fleet Scramble</boardgameimplementation>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>78</usersrated>
+					<average>6.91167</average>
+					<bayesaverage>5.59297</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6239" bayesaverage="5.59297" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="245" bayesaverage="5.98091" />
+												
+											</ranks>
+					
+					<stddev>1.06253</stddev>
+					<median>0</median>
+					<owned>97</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>26</wishing>
+					<numcomments>45</numcomments>
+					<numweights>18</numweights>
+					<averageweight>2.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

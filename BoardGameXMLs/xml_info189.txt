@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="189">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="5">Die Siedler von Nürnberg</name>
+									
+			<description>Based on the well-known Settlers of Catan, this stand-alone game published in commemoration of the anniversary of the founding of the city of N&amp;uuml;rnberg gives players some new twists to the familiar experience.  Unlike standard Settlers, the game layout is not modular.  Instead the board features a split map, half of which has the goods-producing hexes of a conventional Settlers game where settlements will be built and the other half showing a closeup of N&amp;uuml;rnberg where &amp;quot;workshops&amp;quot; will be built (in lieu of promoting settlements to cities as in the original Settlers).  The players also get currency for manufactured goods which in turn they spend on walls and towers to surround the city, which earn prestige points which ultimately count toward victory points.  Probably the most interesting other detail is that instead of rolling dice, a special deck of cards is used to reveal the production number -- and possibly an event -- at the beginning of each player's turn.&lt;br/&gt;&lt;br/&gt;Belongs to the Catan Series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mpW5xrX5Mo6Ip8EInGirBkTxILo=/fit-in/200x150/pic289674.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uvvHZhB9uZLtWnR4kqloDLnRECo=/0x0/pic289674.jpg</image>
+						
+												<boardgamefamily objectid="3">Catan</boardgamefamily>
+															<boardgamefamily objectid="18592">Cities: Nürnberg</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameartist objectid="12382">Tanja Donner</boardgameartist>
+																																				<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="31854">First edition</boardgameversion>
+															<boardgameversion objectid="393901">German 950th anniversary first edition</boardgameversion>
+															<boardgameversion objectid="337547">German 950th anniversary second edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+																													<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamedesigner objectid="11">Klaus Teuber</boardgamedesigner>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+															<boardgameimplementation objectid="13" inbound="true">Catan</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>853</usersrated>
+					<average>6.96204</average>
+					<bayesaverage>6.13219</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1652" bayesaverage="6.13219" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="779" bayesaverage="6.27457" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="393" bayesaverage="6.29469" />
+												
+											</ranks>
+					
+					<stddev>1.32336</stddev>
+					<median>0</median>
+					<owned>1549</owned>
+					<trading>76</trading>
+					<wanting>25</wanting>
+					<wishing>78</wishing>
+					<numcomments>252</numcomments>
+					<numweights>72</numweights>
+					<averageweight>2.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

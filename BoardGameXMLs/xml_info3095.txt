@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3095">
+			<yearpublished>1985</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Star Trek: The Adventure Game</name>
+									
+			<description>In Star Trek: The Adventure Game, you send forth a starship, exploring unknown planets across the immense distances of space.  One player represents the mighty United Federation of Planets; the other, the powerful and mysterious Klingon Empire.  Solo play is also possible.&lt;br/&gt;&lt;br/&gt;With outright war between the two interstellar powers forbidden by the Organian Treaty, both are constantly striving to increase their prestige and size.  This is done by discovering, exploring and then persuading - or forcing - new worlds to join your federation or empire.&lt;br/&gt;&lt;br/&gt;Play is simple, but successful exploration does not come easily.  Upon reaching a planet, you choose a course of action, and learn from a special booklet how the planet and its inhabitants react to you.  You might conquer a new world - or you could lose a starship.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JzS3cn6b9qaI9F_3aKN5XK6zXLY=/fit-in/200x150/pic669897.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/d1Z14wNb4F3heVI17kTdccYJiPs=/0x0/pic669897.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgameartist objectid="16468">Larry Catalano</boardgameartist>
+															<boardgamedesigner objectid="498">Greg Costikyan</boardgamedesigner>
+																						<boardgameversion objectid="108325">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="11998">James Holloway</boardgameartist>
+															<boardgamedesigner objectid="47">Doug Kaufman</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamefamily objectid="7392">Star Trek</boardgamefamily>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgameartist objectid="12898">Boris Vallejo</boardgameartist>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamepublisher objectid="40">West End Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>282</usersrated>
+					<average>6.90019</average>
+					<bayesaverage>5.76414</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3411" bayesaverage="5.76414" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="485" bayesaverage="5.94829" />
+												
+											</ranks>
+					
+					<stddev>1.39854</stddev>
+					<median>0</median>
+					<owned>709</owned>
+					<trading>31</trading>
+					<wanting>82</wanting>
+					<wishing>184</wishing>
+					<numcomments>138</numcomments>
+					<numweights>29</numweights>
+					<averageweight>2.1379</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

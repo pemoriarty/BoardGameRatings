@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12608">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Chess 960</name>
+							<name  sortindex="1">Chess960</name>
+							<name  sortindex="1">Fischer Random Chess</name>
+									
+			<description>Like the standard game of chess, but the pieces behind the pawns on the white side are arranged at random, with the proviso that bishops must end up on opposite colors, and the king dwell somewhere between the two rooks. The black pieces are lined up to mirror the white.&lt;br/&gt;&lt;br/&gt;This results in 960 different possible positions, hence the name Chess 960.  The original name, Fischer Random Chess, is also frequently used.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZPev0F8nFWJYNyTj_IW7rU2LPqg=/fit-in/200x150/pic94137.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QOMdRWNCWaE5pKsY3c0QC0kmM0o=/0x0/pic94137.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+																													<boardgameversion objectid="189821">First edition</boardgameversion>
+															<boardgamedesigner objectid="3967">Bobby Fischer</boardgamedesigner>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>85</usersrated>
+					<average>7.63141</average>
+					<bayesaverage>5.62992</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5217" bayesaverage="5.62992" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="214" bayesaverage="6.04271" />
+												
+											</ranks>
+					
+					<stddev>1.73182</stddev>
+					<median>0</median>
+					<owned>74</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>13</wishing>
+					<numcomments>42</numcomments>
+					<numweights>11</numweights>
+					<averageweight>3.8182</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

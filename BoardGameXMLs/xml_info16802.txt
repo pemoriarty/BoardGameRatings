@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="16802">
+			<yearpublished>1970</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Code-Scanner</name>
+							<name primary="true" sortindex="1">Mastermind Challenge</name>
+							<name  sortindex="1">Mastermind Tridimensionale</name>
+							<name  sortindex="4">Le plus malin</name>
+									
+			<description>A further variation on the popular Mastermind Series of games first introduced by Invicta Games in the seventies.&lt;br/&gt;&lt;br/&gt;In the original Mastermind once the code setter has set his secret code, other than put pegs in the board to confirm how close the code breaker is getting to solving the code, he has nothing to do, other than sit there watching his opponent struggling to find the hidden code in the least number of goes.&lt;br/&gt;&lt;br/&gt;In Mastermind Challenge, using the specially designed board, both players simultaneously try and solve the other players secret code.&lt;br/&gt;&lt;br/&gt;Each player hides a secret code of 5 out of a possible 8 colors. His opponent then has to guess this combination, colors and position. Each player places 5 colored beads onto the board. Each code setter then users marker pegs to denote how close the code breaker is with this combination of colors.&lt;br/&gt;&lt;br/&gt;Players carry on in this way using different combinations of colored beads until one of the players guesses the correct combination.&lt;br/&gt;&lt;br/&gt;The player that guesses his opponent's secret code in the least number of attempts wins the game.&lt;br/&gt;&lt;br/&gt;The simplified version of this game is Kleur Bekennen that uses three columns of information instead of five.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/MtRP15fvalgSAbZfoEvePJE5SFo=/fit-in/200x150/pic174347.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0hWjrC_6EEGzeyH_ScZG8e5_b3U=/0x0/pic174347.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="2074">Capiépa - Jeux Éducatifs</boardgamepublisher>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="145012">Dutch edition</boardgameversion>
+																						<boardgameversion objectid="111333">English edition 1995</boardgameversion>
+															<boardgameversion objectid="70469">French edition</boardgameversion>
+															<boardgameversion objectid="326255">Greek edition</boardgameversion>
+															<boardgameversion objectid="237272">Italian edition</boardgameversion>
+															<boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+															<boardgamefamily objectid="142">Mastermind</boardgamefamily>
+															<boardgamedesigner objectid="1060">Mordecai Meirowitz</boardgamedesigner>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgameimplementation objectid="2392" inbound="true">Mastermind</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>39</usersrated>
+					<average>5.75256</average>
+					<bayesaverage>5.50883</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11869" bayesaverage="5.50883" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="715" bayesaverage="5.50063" />
+												
+											</ranks>
+					
+					<stddev>1.6709</stddev>
+					<median>0</median>
+					<owned>80</owned>
+					<trading>3</trading>
+					<wanting>3</wanting>
+					<wishing>7</wishing>
+					<numcomments>14</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

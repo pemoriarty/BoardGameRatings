@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20098">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Fleet Attack</name>
+									
+			<description>This is a quick-playing abstract fleet science fiction fleet combat game.  Each ship (or fighter squadron) is represented by a card, which details attack strength, shields, armor, mass, etc.  Each ship is deployed in one of 3 ranks (with rank 1 being the closest to the enemy).  Ships with a given total mass can protect a ship whose mass is less than theirs making that ship harder to hit.&lt;br/&gt;&lt;br/&gt;The game system is downloadable (PDF) and includes the rules, board and cards.  There are a number of optional weapon systems so that custom designed ships can be developed to fit a particular sci-fi genre.&lt;br/&gt;&lt;br/&gt;From the publisher's Web site:&lt;br/&gt;&lt;br/&gt;Each player has a control sheet which has 3 rows on it (Ranks) each rank also has a protected area.&lt;br/&gt;&lt;br/&gt;Each ship is placed in a rank 1, 2 or 3 dependant on the setup conditions of the scenario.&lt;br/&gt;&lt;br/&gt;Each turn the players roll for initiative ( for their side not individual ships), and then alternate activating ships.  Activation consists of moving (if you want to) and firing (again if you want to), you can fire and move or move and fire.&lt;br/&gt;&lt;br/&gt;Firing procedure is very easy and is based on the ranks you and your target are in (add them +1 if the target is protected) + bonuses for special abilities.  You declare how much damage you wish to do and roll to hit , the defender applies defenses and marks any remaining damage.&lt;br/&gt;&lt;br/&gt;Once all ships have been activated (or all players defer twice consecutively) the turn is finished and any end of turn effects are applied.  Then a new turn starts....&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/j6iuJ17iOmF-pkF6iWEsSyPjV4I=/fit-in/200x150/pic160375.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DZOR5OrWZg-JXEj0SqnaiS2uFZg=/0x0/pic160375.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="6086">Max Blagg</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamepublisher objectid="4636">LPK Design</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

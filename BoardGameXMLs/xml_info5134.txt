@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5134">
+			<yearpublished>1993</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Peg Poker</name>
+									
+			<description>Yahtzee meets Poker meets Tic-Tac-Toe.&lt;br/&gt;&lt;br/&gt;The game board is a 4x4 grid and in each cell lies a record-keeping area noting eight possible poker hands and one hole for each card from 2 through ace.&lt;br/&gt;&lt;br/&gt;Players take turns rolling 13 6-sided dice to generate five-card poker hands (choose the best &amp;quot;cards&amp;quot;).  They also roll a randomizer die which tells them how many re-rolls they are allowed.  Once they're finished, they construct a hand (e.g. flush: 1-2-5-9-K) and mark one of the 16 tracking cells on the board with their color pegs.  They may also usurp someone else's claimed cell if their poker hand is of higher rank (hence the need to meticulously mark exact hands with the pegs).&lt;br/&gt;&lt;br/&gt;Once someone claims four cells in a row (horizontal, vertical, or diagonal), they win. If a player cannot peg into a new cell because they can't beat a hand on the board, that player is eliminated.&lt;br/&gt;&lt;br/&gt;Games Magazine's Best New Family Game for 1994&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hxbCJlfWuuVksm_gumRf8yks4Dk=/fit-in/200x150/pic194657.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/REhFWUvZrDs7gP3qu6mJ1GRdwpo=/0x0/pic194657.jpg</image>
+						
+												<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="114637">First edition</boardgameversion>
+															<boardgamefamily objectid="9313">Poker</boardgamefamily>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+																						<boardgamedesigner objectid="50282">Ted Wheeler</boardgamedesigner>
+															<boardgamepublisher objectid="1180">Wheeler Games (Board Game)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.04675</average>
+					<bayesaverage>5.51381</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11432" bayesaverage="5.51381" />
+												
+											</ranks>
+					
+					<stddev>1.84207</stddev>
+					<median>0</median>
+					<owned>81</owned>
+					<trading>12</trading>
+					<wanting>5</wanting>
+					<wishing>14</wishing>
+					<numcomments>23</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

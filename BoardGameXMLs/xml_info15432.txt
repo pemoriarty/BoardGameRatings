@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15432">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Pour Dieu et pour le Roy</name>
+									
+			<description>Pour Dieu et Pour le Roy (For God and the King) simulates the war in the Vend&amp;eacute;e, France 1793, a period poorly covered in games in general.&lt;br/&gt;&lt;br/&gt;A game turn is one month (March 1793 to October 1793).&lt;br/&gt;One point of combat represents 500 to 1500 men.&lt;br/&gt;The map represents the Vend&amp;eacute;e (West coast of France, under the Loire river) and is divided in areas of roughly 10 x 10 kms.&lt;br/&gt;&lt;br/&gt;One player controls the republican troops, while the other controls the revolting people of the Vend&amp;eacute;e.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P3-nCpV9iDTxXZypSFwGZqVQmLA=/fit-in/200x150/pic193034.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mFBEVf01mdlVcS1gHPee-m0Lsuw=/0x0/pic193034.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameartist objectid="42958">Didier Bourgeois</boardgameartist>
+															<boardgameartist objectid="42946">Christophe Camilotte</boardgameartist>
+															<boardgamedesigner objectid="3295">Jean-Philippe Imbach</boardgamedesigner>
+															<boardgamefamily objectid="9825">Magazine: Vae Victis</boardgamefamily>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+															<boardgamedesigner objectid="1010">Nicolas Stratigos</boardgamedesigner>
+															<boardgamepublisher objectid="540">Vae Victis</boardgamepublisher>
+															<boardgameversion objectid="30813">Vae Victis magazine edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>30</usersrated>
+					<average>7.06667</average>
+					<bayesaverage>5.53846</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9252" bayesaverage="5.53846" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1806" bayesaverage="5.75399" />
+												
+											</ranks>
+					
+					<stddev>1.33375</stddev>
+					<median>0</median>
+					<owned>171</owned>
+					<trading>5</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>20</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

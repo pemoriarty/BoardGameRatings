@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="308">
+			<yearpublished>1992</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>70</playingtime>
+			<minplaytime>70</minplaytime>
+			<maxplaytime>70</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Santa Fe</name>
+									
+			<description>Each game is made up of rounds. A round begins with all players playing one card from their hands and placing it face down on the table. Then, all cards are exposed simultaneously.&lt;br/&gt;&lt;br/&gt;There are 66 City Cards and each carry a name of a city along with a number value (ranging from 2 to 7). Since the trains begin their expansion from the easternmost part of the board, the farther west the city, the higher its number value. Players score points only for City Cards that are played and placed face up. Cards that remain unplayed in hands have no value. The numerical value of a City Card is multiplied by the number of railroads connected to it.&lt;br/&gt;&lt;br/&gt;Players may also play a Double turn Card, a combination of a City Card with a Branch Line card or a combination of a Double Turn Card and a Branch Line Card.&lt;br/&gt;&lt;br/&gt;A Double Turn Card allows a player to place two pieces of track in both track phases of a turn (although only one piece of track may be placed if desired). Furthermore, all bonuses are doubled during the round that card is played.&lt;br/&gt;&lt;br/&gt;Each Railroad has two Branch Line Cards and a player may pay $1 and draw one of them. (Players may only hold one Branch Line Card in their hands at any one time.) If held, the Branch Line Card must be played immediately on the next round in conjunction with either a City or Double Turn Card.&lt;br/&gt;&lt;br/&gt;Play of a Branch Line Card allows a player to start a new route of track for the named railroad from any city that railroad connects, thereby extending the railroad.&lt;br/&gt;&lt;br/&gt;After exposing a card, the round continues with two turns of laying track. Players do not control any specific rail line. Each player can place track on any color provided that the played track connects to an existing corresponding rail network on the board. Once all track is placed, all players replenish their hands (up to five cards). The First Player passes the First Player Train to the player on the left (who becomes the First Player for the subsequent round) and the next round begins.&lt;br/&gt;&lt;br/&gt;The first player to connect the first railroad to any city earns $2. Certain cities are marked with colored squares (matching the colors of certain railroads). Should a corresponding color railroad enter that city, the player making that connection gets a bonus of $4. Double Turn Cards double all bonuses in a round.&lt;br/&gt;&lt;br/&gt;When all track pieces of all the railroads have been played or if a player is unable to play any piece of track because all playable railroads are &amp;quot;dead-ended&amp;quot;, the game ends and points are tallied.&lt;br/&gt;&lt;br/&gt;Points are received in two ways. First, players receive 1 point for each $1 they have. Second, each City Card is worth its value times the number of different rail lines connected to it. The player with the highest total wins! (In case of a tie, the player with the most City Cards valued at &amp;quot;7&amp;quot; is declared the victor.)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WC7JSe4Ad-Z_pZsacMfoQnBAMj8=/fit-in/200x150/pic86174.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0Qcu8zIWW6oeCVJvpMcbsFcFlRs=/0x0/pic86174.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgameimplementation objectid="3128">Clippers</boardgameimplementation>
+																																				<boardgameversion objectid="26491">First edition</boardgameversion>
+																													<boardgameartist objectid="1586">Ralf E. Kahlert</boardgameartist>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgameimplementation objectid="3348">Santa Fe Rails</boardgameimplementation>
+															<boardgamefamily objectid="28907">Santa Fe System</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamepublisher objectid="60">White Wind</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>219</usersrated>
+					<average>6.94254</average>
+					<bayesaverage>5.73178</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3702" bayesaverage="5.73178" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1258" bayesaverage="5.82194" />
+												
+											</ranks>
+					
+					<stddev>1.33964</stddev>
+					<median>0</median>
+					<owned>278</owned>
+					<trading>8</trading>
+					<wanting>21</wanting>
+					<wishing>57</wishing>
+					<numcomments>66</numcomments>
+					<numweights>14</numweights>
+					<averageweight>2.2143</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5740">
+			<yearpublished>1968</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>11</age>
+
+							<name  sortindex="1">Strat-o-Matic Football</name>
+							<name primary="true" sortindex="1">Strat-O-Matic Pro Football</name>
+									
+			<description>One of the several statistically-based sports simulations produced by the Strat-O-Matic Game Company.  The game consists of player cards and team defensive cards that accurately reproduce play outcomes and player, team, and league statistics of the National Football League for the season on which the cards are based.  Play progresses with the gamer on offense calling his play (run or pass, where the play is directed, the ball carrier or primary receiver, etc.) and the gamer on defense setting a defensive configuration (blitzes, double coverage of receivers, stacking the line, etc.).  In the cards and dice version, three dice are then rolled, with one die determining whether the play result comes from the offensive or defensive cards and the other two determining the result from the speciifed card.  Play takes place on a game board that resembles a football field, and the gamers keep track of the ball position, the down, and the time remaining in the quarter being played.  Penalties and injuries are part of the game.  Gamers play from the perspective of a head coach and/or general manager.&lt;br/&gt;&lt;br/&gt;The game also comes in a computer version that automatically determines play outcomes and compiles and reports player, team and league statistics.  The computer version grapically portrays the plays using X's and O's to depict player movement.  The computer version also features a sophisticated computer coach that faciltates solitaire play.&lt;br/&gt;&lt;br/&gt;Each year the Strat-O-Matic Game Company issues a new set of player and team cards (or computer disk) based upon the most recent NFL season.  The company also issues from time to time sets of players and teams from past seasons.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/q9kR_VRfV8FTxJ4kS71Nm-V_jZE=/fit-in/200x150/pic1087425.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ulD2OkbgeWAttk2GIH84ErJXvXU=/0x0/pic1087425.jpg</image>
+						
+												<boardgamedesigner objectid="1649">Hal Richman</boardgamedesigner>
+																						<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5640">Sports: American Football / Gridiron</boardgamefamily>
+															<boardgameversion objectid="45995">Strat-o-Matic 1984 Season edition</boardgameversion>
+															<boardgameversion objectid="125237">Strat-o-Matic edition 2002</boardgameversion>
+															<boardgamepublisher objectid="488">Strat-O-Matic Game Company</boardgamepublisher>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameversion objectid="26529">Super Deluxe 1982 Edition</boardgameversion>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>317</usersrated>
+					<average>7.06339</average>
+					<bayesaverage>5.80828</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3075" bayesaverage="5.80828" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="484" bayesaverage="5.94994" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1261" bayesaverage="5.82028" />
+												
+											</ranks>
+					
+					<stddev>1.89173</stddev>
+					<median>0</median>
+					<owned>553</owned>
+					<trading>33</trading>
+					<wanting>14</wanting>
+					<wishing>33</wishing>
+					<numcomments>153</numcomments>
+					<numweights>36</numweights>
+					<averageweight>2.8056</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

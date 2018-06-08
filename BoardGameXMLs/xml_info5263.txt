@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5263">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Hex-Meister</name>
+									
+			<description>The board shows a series of concentric hex-gridded spaces, of varying colors. The two white rings (&amp;quot;lanes&amp;quot;) allow movement limited only by the presence of other pieces. The three blue rings (&amp;quot;moats&amp;quot;) cannot be crossed in one go; you must stop on them. The lone exceptions are the four blue hexes on your side of the board --you may cross them freely, but your opponent cannot. The thirteen red hexes (&amp;quot;gates&amp;quot;), finally, are the game goals; you win by occupying five of these in a straight line. To enter a gate, you must start adjacent to it (except for the two gates adjacent to your base). Entering a gate (other than the two base ones) gives you a bonus move. Occupied gates are the only occupied spaces that can be jumped.&lt;br/&gt;&lt;br/&gt;A hex is &amp;quot;secured&amp;quot; (the opponent cannot enter it) if surrounded by three or more of your pieces. Securing a hex captures any piece that happens to lie there (it is removed from the game and you get a bonus move). Finally, the fifth gate of any triangular set is secured if you occupy the first four. This is called &amp;quot;triangulation&amp;quot;.&lt;br/&gt;&lt;br/&gt;The rulebook also supplies handicapping suggestions, optional rules for a more challenging game, and explains how to support team play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_TUhkN4mBT7rs_4PJvOqKU7GkRY=/fit-in/200x150/pic524360.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vVgWkx1U7oYxfXzc6uo6RCl3JHQ=/0x0/pic524360.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="161247">First edition</boardgameversion>
+															<boardgamedesigner objectid="1983">Edward L. Helvey</boardgamedesigner>
+															<boardgamedesigner objectid="1984">William M. Helvey</boardgamedesigner>
+															<boardgamepublisher objectid="1218">Hex-Meister Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="291">John N. Hansen Co., Inc.</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>5.63462</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.78297</stddev>
+					<median>0</median>
+					<owned>62</owned>
+					<trading>8</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>5</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

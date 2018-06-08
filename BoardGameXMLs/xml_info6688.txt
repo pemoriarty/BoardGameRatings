@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6688">
+			<yearpublished>1967</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">99</name>
+							<name primary="true" sortindex="1">Ninety-Nine</name>
+							<name  sortindex="1">Sphinx</name>
+									
+			<description>Trick-taking card game for three in which players must sacrifice cards from their hands to bid the number of tricks they will take.  It uses a standard deck of cards, shorted to 6 through Ace in each suit, plus one Joker. (A more recent version of play omits the joker.)&lt;br/&gt;&lt;br/&gt;To bid, lay aside three cards from your hand; the suit of those cards determines how many tricks you must take (each club is three tricks, heart two tricks, spade one trick, diamond zero tricks). Score one point per trick you take plus a bonus if you make your bid exactly.&lt;br/&gt;&lt;br/&gt;For an additional bonus, you may offer to declare by turning your bidcards face up at start of play, thus declaring your target and revealing more information about the lie of cards.&lt;br/&gt;&lt;br/&gt;For a higher bonus, you may also offer to reveal. This involves not only turning your bid-cards up but also then playing with your hand of cards exposed on the table before the opening lead.&lt;br/&gt;&lt;br/&gt;While designed for three players, the four-player version is faithful to the original but played with a standard 52-card deck. Two- and five-player variants also exists, but they employ a dummy hand and a 500 deck, respectively.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bwuXmhhsKUpgpDMJNjhGhcaCD3k=/fit-in/200x150/pic318149.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TXE9v54eQe7fKVrTfXFEoagGGOU=/0x0/pic318149.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgameimplementation objectid="213304">4 Seasons</boardgameimplementation>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="24431">Card Games: Adding Games</boardgamefamily>
+															<boardgamefamily objectid="24434">Card Games: Outplay Games</boardgamefamily>
+															<boardgameimplementation objectid="64843">Counterpoint</boardgameimplementation>
+																						<boardgameversion objectid="109341">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="166">David Parlett</boardgamedesigner>
+															<boardgamecompilation objectid="18272">Play Winning Card Games For Three</boardgamecompilation>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>284</usersrated>
+					<average>7.3314</average>
+					<bayesaverage>5.8679</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2699" bayesaverage="5.8679" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="61" bayesaverage="6.62906" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1074" bayesaverage="5.9851" />
+												
+											</ranks>
+					
+					<stddev>1.53236</stddev>
+					<median>0</median>
+					<owned>159</owned>
+					<trading>0</trading>
+					<wanting>5</wanting>
+					<wishing>50</wishing>
+					<numcomments>140</numcomments>
+					<numweights>26</numweights>
+					<averageweight>2.1538</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

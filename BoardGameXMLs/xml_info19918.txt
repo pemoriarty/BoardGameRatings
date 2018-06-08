@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19918">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">No Stress Chess</name>
+							<name  sortindex="1">쉽게 배우는 체스</name>
+									
+			<description>From the Publisher:&lt;br/&gt;&lt;br/&gt;You're guaranteed to be playing chess instantly.  Unlike any other chess teacher, No Stress Chess teaches you how to play using illustrated cards and an illustrated 2-sided board.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;No Stress Chess is a chess board with pieces and a deck of cards displaying how the chess pieces can move.  Designed to teach how the pieces moved, in the learning versions of the game, players play cards from their hand of either 3 or 5 cards in order to move the chess pieces on the playing field.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/udJEou7mvMG8LARFhVdqImgI4EQ=/fit-in/200x150/pic475420.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/A3ABOhzPgPPIKiqs7yojaZIvAM8=/0x0/pic475420.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="8291">Korea Boardgames co., Ltd.</boardgamepublisher>
+															<boardgamedesigner objectid="9137">Todd Kurtzer</boardgamedesigner>
+																						<boardgameversion objectid="38433">Winning Moves English first edition</boardgameversion>
+															<boardgameversion objectid="371603">Winning Moves English second edition</boardgameversion>
+															<boardgamepublisher objectid="59">Winning Moves Games (USA)</boardgamepublisher>
+															<boardgamedesigner objectid="9775">John Zaruba</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>127</usersrated>
+					<average>6.40669</average>
+					<bayesaverage>5.5875</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6447" bayesaverage="5.5875" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="425" bayesaverage="5.74113" />
+												
+											</ranks>
+					
+					<stddev>1.53709</stddev>
+					<median>0</median>
+					<owned>395</owned>
+					<trading>17</trading>
+					<wanting>2</wanting>
+					<wishing>13</wishing>
+					<numcomments>56</numcomments>
+					<numweights>12</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

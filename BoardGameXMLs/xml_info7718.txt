@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7718">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="5">The Penguin Ultimatum</name>
+									
+			<description>A card-laying game (like a tile-laying game, but with cards) in which players are throwing a party for penguins.&lt;br/&gt;&lt;br/&gt;Cards are either Penguin Guests or the Entertainers that perform for them.  Each turn, a player must add one penguin to the party grid and may also claim any penguin as his own.  As Entertainer Cards become sufficiently surrounded, the Entertainers perform, and there is a scoring round.  Players who own penguins that enjoyed the performance get points.&lt;br/&gt;&lt;br/&gt;Importantly, the player who scored -- but scored the fewest points -- gets to keep the Entertainer Card.  This card can be turned in to break a Penguin Placement rule during the game, or saved for potential bonus points at the end.&lt;br/&gt;&lt;br/&gt;The game ends when the Entertainers run out, which takes about 45 minutes at most.  It is designed to work equally well for 2, 3, or 4 players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2zmpy_kxM_GusVqtc5-Du6D9he8=/fit-in/200x150/pic668494.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/usuosrUYgyVulgWBiOT5FkSetkE=/0x0/pic668494.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7488">Animals: Penguins</boardgamefamily>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameartist objectid="48619">Rick Chamberlain</boardgameartist>
+															<boardgamefamily objectid="5743">Circus</boardgamefamily>
+															<boardgamedesigner objectid="1738">Jim Doherty</boardgamedesigner>
+															<boardgamepublisher objectid="227">Eight Foot Llama</boardgamepublisher>
+																						<boardgameversion objectid="34157">First edition</boardgameversion>
+																													<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameartist objectid="2499">Scott Starkey</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>258</usersrated>
+					<average>6.2155</average>
+					<bayesaverage>5.6326</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5152" bayesaverage="5.6326" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="281" bayesaverage="5.91759" />
+												
+											</ranks>
+					
+					<stddev>1.07984</stddev>
+					<median>0</median>
+					<owned>430</owned>
+					<trading>36</trading>
+					<wanting>10</wanting>
+					<wishing>39</wishing>
+					<numcomments>117</numcomments>
+					<numweights>42</numweights>
+					<averageweight>1.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

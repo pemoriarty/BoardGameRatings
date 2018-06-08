@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1431">
+			<yearpublished>1976</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">War at Sea (second edition)</name>
+									
+			<description>War at Sea is a simple strategic wargame covering the Battle of the Atlantic and naval warfare of the Mediterranean in WW2.&lt;br/&gt;&lt;br/&gt;The game divides the Atlantic into 6 sea areas.  Each turn the players move their ships from port countries to one of the areas.&lt;br/&gt;&lt;br/&gt;After all ships have been moved, a battle occurs.  After a number of rounds, until one side or the other retreats or loses all of his ships, the player with ships left takes control of the area and a scores a number of &amp;quot;Points of Control&amp;quot;.  (Exception:  German U-boats only have to survive one round anti-submarine combat and may stay in the area, even if the area has Allied ships.  The Allies cannot score if a U-Boat occupies the area.)&lt;br/&gt;&lt;br/&gt;Additional points are also earned for convoys successfully crossing the Atlantic to England or Russia (for a BIG three POC).&lt;br/&gt;&lt;br/&gt;Avalon Hill Complexity rating - 1&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/MV8zxEZJOdejWf3ENPhlrIRqor0=/fit-in/200x150/pic497221.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tANnX3_C96Kz8-bsedkggmlf2A0=/0x0/pic497221.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="600">John Edwards</boardgamedesigner>
+															<boardgameartist objectid="600">John Edwards</boardgameartist>
+															<boardgameversion objectid="29269">First edition</boardgameversion>
+															<boardgamepodcastepisode objectid="209779">GrogCast Season 5 – Premiere Episode</boardgamepodcastepisode>
+															<boardgameartist objectid="3095">Art Lupinacci</boardgameartist>
+															<boardgameartist objectid="12259">W. Scott Moores</boardgameartist>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+																													<boardgameintegration objectid="21369">The Two Ocean War</boardgameintegration>
+																						<boardgameexpansion objectid="38951">Victory at Sea</boardgameexpansion>
+															<boardgamefamily objectid="6379">War at Sea</boardgamefamily>
+															<boardgameimplementation objectid="31198">War at Sea (third edition)</boardgameimplementation>
+															<boardgameexpansion objectid="4686">War at Sea 2</boardgameexpansion>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+																						<boardgameartist objectid="42884">Robert D. Watts</boardgameartist>
+																						<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgameintegration objectid="21369" inbound="true">The Two Ocean War</boardgameintegration>
+															<boardgameimplementation objectid="32234" inbound="true">The War At Sea (first edition)</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>891</usersrated>
+					<average>6.46072</average>
+					<bayesaverage>5.90454</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2507" bayesaverage="5.90454" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="606" bayesaverage="6.29803" />
+												
+											</ranks>
+					
+					<stddev>1.41492</stddev>
+					<median>0</median>
+					<owned>1838</owned>
+					<trading>98</trading>
+					<wanting>26</wanting>
+					<wishing>51</wishing>
+					<numcomments>400</numcomments>
+					<numweights>129</numweights>
+					<averageweight>1.9767</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8017">
+			<yearpublished>2003</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Feurio!</name>
+									
+			<description>The game mechanism simulates a spreading forest fire which the players try to bring under control. They place firefighters in different parts of the forest and try to achieve two objectives:&lt;br/&gt;&lt;br/&gt;     to fight the most dangerous fires to earn points (adding up high numbers) and &lt;br/&gt;     to occupy at least one water source (player's points are divided by the lowest number they occupy).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The fire limits the spaces where people can be placed and eliminates water sources. The direction of the fire's spread is determined by the current situation and can be guessed quite accurately by watching the game closely. It is a highly territorial game with lots of blocking and chasing.&lt;br/&gt;&lt;br/&gt;The game also includes a solitaire and a cooperative variant.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5_GevnsiIh19h8pNElafRxQEYpk=/fit-in/200x150/pic32854.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ciy1V5UeBeFqyBiudl9EiFa33pM=/0x0/pic32854.jpg</image>
+						
+												<boardgamepodcastepisode objectid="76013">1P 015 - Feurio!</boardgamepodcastepisode>
+															<boardgameimplementation objectid="65516">Ablaze!</boardgameimplementation>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="252">Edition Erlkönig</boardgamepublisher>
+															<boardgameversion objectid="29055">Edition Erlkönig second edition</boardgameversion>
+															<boardgameversion objectid="182421">English edition</boardgameversion>
+																						<boardgamecategory objectid="1084">Environmental</boardgamecategory>
+															<boardgameversion objectid="28858">Erlkönig First edition; Essen October 2003 limited release</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgamefamily objectid="11767">Firefighting</boardgamefamily>
+																																																																														<boardgamedesigner objectid="1575">Heinrich Glumpler</boardgamedesigner>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+															<boardgameimplementation objectid="13832">Vulkan!</boardgameimplementation>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>560</usersrated>
+					<average>6.14358</average>
+					<bayesaverage>5.71606</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3858" bayesaverage="5.71606" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="230" bayesaverage="6.01116" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="961" bayesaverage="5.78601" />
+												
+											</ranks>
+					
+					<stddev>1.14003</stddev>
+					<median>0</median>
+					<owned>683</owned>
+					<trading>57</trading>
+					<wanting>24</wanting>
+					<wishing>67</wishing>
+					<numcomments>226</numcomments>
+					<numweights>65</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

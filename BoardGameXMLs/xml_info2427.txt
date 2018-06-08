@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2427">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">American Heritage Skirmish</name>
+							<name primary="true" sortindex="1">Skirmish</name>
+									
+			<description>One of the American Heritage Command Decision Strategy Games, highly prized by collectors.&lt;br/&gt;&lt;br/&gt;This one is the American War of Independence game. The British have four armies of 5 units each, 3 warships and a troop carrier with 2 reinforcements on board. The Americans have 16 units spread all over the board (including a special &amp;quot;Continental Army&amp;quot; unit), 1 warship and a troop carrier with 4 reinforcements on board.&lt;br/&gt;&lt;br/&gt;The Americans use two dice for movement (unless down to just one unit), the British one. All three dice are 0-1-1-1-2-3. Both players roll their dice using shakers and peek at them. The British player designates the unit he'll move, then the American reveals his throw and moves. Finally, the Bristish reveals his throw and moves.&lt;br/&gt;&lt;br/&gt;A single unit is moved by each die --the grid is square and no diagonals are allowed. Units that end up on the same spot stack to form an army (which cannot be split), but each army is limited to 6 units. Naval moves are harbour to harbour except for the troop carriers (and any warship attempting to intercept them).&lt;br/&gt;&lt;br/&gt;A Skirmish occurs when opposing units are adjacent. A card is drawn to resolve the Skirmish. This can result in a unit loss for either side (sometimes two), a major battle being triggered, or one or both armies moving a space or two. Major battles normally occur when an army lands on an enemy army by exact count; numerical superiority is added to the stronger side's throw, and the adjusted throw difference indicates how many units the losing side lost (however, that loss is limited to the number of units in the winning army).&lt;br/&gt;&lt;br/&gt;Once the British have lost an army, they can call for Reinforcements. The Americans can do this once they've won a Major Battle. Reinforcement play is resolved separately from normal play. Two dice are used by both sides, one player trying to bring in his troop carrier whilst the other attempts to intercept with a warship (if the opponent has no warships left, the reinforcements automatically succeed). If the troop carrier makes it to a harbor, the reinforcements land (triggering a major battle if the harbor is enemy-held) and the troop carrier remains as a normal warship henceforth.&lt;br/&gt;&lt;br/&gt;The British win by eliminating the Continental Army, whilst the American wins by eliminating all four British armies. To keep the game from dragging on, if there is no skirmish nor major battle in 10 moves, the weaker side surrenders.&lt;br/&gt;&lt;br/&gt;The asymmetrical mechanics work surprisingly well; the British lacks mobility and try to force Major Battles on the Americans, whilst the latter skirmish as much as possible until they can muster a large enough army together to win a major battle and call in their reinforcements.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aA15Qd_3bAadJnWtHl15scCaKgw=/fit-in/200x150/pic110576.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4SlsXxGccoY7lD-aJyHKDAMhzaE=/0x0/pic110576.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+															<boardgamefamily objectid="3161">American Heritage Games</boardgamefamily>
+															<boardgamecategory objectid="1075">American Revolutionary War</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="108302">First edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+																						<boardgameartist objectid="40817">John Trumbull</boardgameartist>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>162</usersrated>
+					<average>6.0679</average>
+					<bayesaverage>5.55329</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8163" bayesaverage="5.55329" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1871" bayesaverage="5.73556" />
+												
+											</ranks>
+					
+					<stddev>1.44259</stddev>
+					<median>0</median>
+					<owned>409</owned>
+					<trading>34</trading>
+					<wanting>22</wanting>
+					<wishing>52</wishing>
+					<numcomments>89</numcomments>
+					<numweights>27</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

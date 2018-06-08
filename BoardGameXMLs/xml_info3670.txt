@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3670">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Battlewagon</name>
+									
+			<description>Battlewagon is a tactical game of combat at sea.  Hexes are 2000 yards and turns are 10 minutes.  Each player controls one or more ships, each of which have a &amp;quot;Ship Systems Display&amp;quot; (a la Star Fleet Battles or Car Wars).  The game contains statistics for most major classes of ships from Destroyer to Battleship from 1901 through WWII for several navies worldwide.  Ships are moved in impulses and may fire one or more weapons each impulse.  Hits are determined by dice, followed by checking armor penetration (which falls off by range).  If a hit penetrates, random ship systems are destroyed (rolled on a Damage Allocation Table).  Victory is by scenario.&lt;br/&gt;&lt;br/&gt;Battlewagon was originally released as a &amp;quot;Pocket Game&amp;quot; in 1981.  It was later released in a &amp;quot;Folio&amp;quot; Second Edition in 1984.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kXxQL-Knjyypvz3Bs0rSoUnkPYI=/fit-in/200x150/pic69018.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wLmMyim1cZqSGJ2g7Gs75UTgHTY=/0x0/pic69018.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgameartist objectid="1247">R. Vance Buck</boardgameartist>
+															<boardgameartist objectid="23647">Rick Buck</boardgameartist>
+															<boardgameartist objectid="1498">Allen D. Eldridge</boardgameartist>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgameversion objectid="26188">Second edition (folio)</boardgameversion>
+															<boardgamepublisher objectid="352">Task Force Games</boardgamepublisher>
+															<boardgameversion objectid="88607">Task Force Games first  pocket game edition</boardgameversion>
+															<boardgamefamily objectid="21630">Task Force Games: Pocket Games series</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamedesigner objectid="678">Stephen G. Wilcox</boardgamedesigner>
+															<boardgameartist objectid="678">Stephen G. Wilcox</boardgameartist>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>108</usersrated>
+					<average>6.3588</average>
+					<bayesaverage>5.56308</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7592" bayesaverage="5.56308" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1636" bayesaverage="5.81024" />
+												
+											</ranks>
+					
+					<stddev>1.38747</stddev>
+					<median>0</median>
+					<owned>271</owned>
+					<trading>12</trading>
+					<wanting>9</wanting>
+					<wishing>22</wishing>
+					<numcomments>67</numcomments>
+					<numweights>18</numweights>
+					<averageweight>2.4444</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

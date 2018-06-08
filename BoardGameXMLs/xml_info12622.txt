@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12622">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Hour of Glory</name>
+							<name primary="true" sortindex="1">Hour of Glory: Stronghold Kit</name>
+									
+			<description>Hour of Glory is a game for 2 to 4 players. The boxed set contains everything you need to wage war in the shadows: including two rulebooks, a colorful multi-part playing area, play markers and movers (metal miniatures are optional but recommended) and a mission timer.&lt;br/&gt;&lt;br/&gt;Up to three players play individual Allied agents while the other takes on the role of Stronghold Commander, with a garrison of troops at his disposal.&lt;br/&gt;&lt;br/&gt;As an elite Allied agent you must infiltrate the enemy Stronghold, obtain vital intelligence on the Axis secret weapon and escape to report your findings to HQ.  You have two distinct tactical options: raiding (stealthy movement and silent killing) and assault (speed, aggression and liberal use of firepower). Whichever way you decide to tackle your mission, you have just 60 minutes to accomplish it before the Stronghold is locked down &amp;ndash; after which, escape will be impossible.&lt;br/&gt;&lt;br/&gt;Playing the Stronghold Commander offers a strategic as well as tactical challenge. You take control of the Axis war base, deploy your Sentries to create defensive zones and send out a senior Officer to investigate reports of intruder activity.  When you have identified the threat and located the agents, raise the alarm and mobilise your Guards. Don&amp;rsquo;t let them leave your Stronghold alive!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/EQHtR24NF0rW9IKyuRlR59SsXrU=/fit-in/200x150/pic310801.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OfXZXjhCiP1SNPRiEOhOZb8PE3U=/0x0/pic310801.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="48804">First edition</boardgameversion>
+															<boardgamedesigner objectid="3971">Richard Wolfrik Galland</boardgamedesigner>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgameexpansion objectid="22253">Hour of Glory: Bunkerstorm</boardgameexpansion>
+															<boardgameexpansion objectid="133841">Hour of Glory: Die Zombies!</boardgameexpansion>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="55169">Print &amp; Play version</boardgameversion>
+																						<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+															<boardgameimplementation objectid="138682">Spy or Die Trying</boardgameimplementation>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2663">Time Track</boardgamemechanic>
+															<boardgamedesigner objectid="3972">Gav Tyler</boardgamedesigner>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamepublisher objectid="2824">Warm Acre</boardgamepublisher>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>112</usersrated>
+					<average>7.32411</average>
+					<bayesaverage>5.63989</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5002" bayesaverage="5.63989" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="631" bayesaverage="5.7526" />
+												
+											</ranks>
+					
+					<stddev>1.57527</stddev>
+					<median>0</median>
+					<owned>296</owned>
+					<trading>18</trading>
+					<wanting>70</wanting>
+					<wishing>188</wishing>
+					<numcomments>82</numcomments>
+					<numweights>19</numweights>
+					<averageweight>2.6316</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1721">
+			<yearpublished>1973</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Business Strategy</name>
+									
+			<description>Business Strategy is a management game where players have to compete for the resources needed to produce their finished goods.  They then compete in the marketplace to sell their goods.  The winner is the last player to be in business.&lt;br/&gt;&lt;br/&gt;Games can also end by player agreement, as it is possible for all players to establish stable companies, particularly if everyone plays a cautious game.&lt;br/&gt;&lt;br/&gt;Reimplements: Tycoon: Business Game&lt;br/&gt;&lt;br/&gt;Components:&lt;br/&gt;&lt;br/&gt;     Family Game Rules card&lt;br/&gt;     Rules of Play folder&lt;br/&gt;     16&amp;quot; x 16&amp;quot; Playing Board&lt;br/&gt;     One Running Record Pad&lt;br/&gt;     One set of 18 Climate situation cards&lt;br/&gt;     4 sets of 4-colored Pawns (16 total)&lt;br/&gt;     Paper money&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GUxcce23hOGUfoDSMX0HpMnEVY8=/fit-in/200x150/pic140282.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XT_I5oSrf52V0_WdD_9sz42X4rA=/0x0/pic140282.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgameversion objectid="85191">Bookcase edition</boardgameversion>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgameversion objectid="372402">Slipcase edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+															<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+															<boardgameimplementation objectid="7006" inbound="true">Management</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>122</usersrated>
+					<average>6.04754</average>
+					<bayesaverage>5.54643</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8630" bayesaverage="5.54643" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1673" bayesaverage="5.5616" />
+												
+											</ranks>
+					
+					<stddev>1.36245</stddev>
+					<median>0</median>
+					<owned>417</owned>
+					<trading>29</trading>
+					<wanting>8</wanting>
+					<wishing>21</wishing>
+					<numcomments>69</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.5625</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

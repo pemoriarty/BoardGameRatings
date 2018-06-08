@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11015">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">7-4-1</name>
+									
+			<description>Easiest description is likely that this game plays similar to Spades.  It uses a regular deck of 52 playing cards, it is about taking tricks to match a 'bid' (assigned in 7-4-1 versus bidding in Spades), with Aces high and a trump suit (declared in 7-4-1 versus always spades in Spades).&lt;br/&gt;&lt;br/&gt;In 7-4-1, 12 cards are dealt to each of the 4 players; this leaves a 4-card kitty.  The dealer MUST try to take 7 tricks, but she gets to declare which suit is trump AFTER looking at her hand.  She then gets to pick up the 4 middle cards, and discard 4 face-down (could be from the kitty, or not).  Player 2 must get 4 tricks, player 3 for 1 trick, and player 4 need not take any.&lt;br/&gt;&lt;br/&gt;After round 1, figure out how many cards more or less players got.  YOu get one point for every trick you make above your required tricks, and lose one for every trick you fail to make.  For the next round, a player who had MORE in the previous round can then pass one card per amount more to a player who had less; that lesser player must then pass their HIGHEST card in each requested suit.  Some pre-defined ordering for this is necessary; the player needing to make the most tricks has precedence over the player needing less.&lt;br/&gt;&lt;br/&gt;For example, in round 1, the players take 6-2-3-1 tricks.&lt;br/&gt;So, the position 2 is now the new dealer.  Player in position 3 was +2 in round 1 (took 3, needed 1), and would ask position 1 for 1 suit, and position 2 for 1 suit.  Player in position 4 would then ask position 2 for 1 suit.  We've played where if the numbers over/under match (position 3&amp;amp;2, 4&amp;amp;1 in this example), then they could simply swap cards too.&lt;br/&gt;&lt;br/&gt;Play then proceeds as described above.  Trump is declared AFTER the card-swapping is done.  And if the player who needed 4 in the previous round took NONE, then they can also look at the kitty too before declaring a trump!  However, they'd also have just given up 4 good cards to other players...\&lt;br/&gt;Game ends after either 2 or 3 rounds, with everyone getting a chance at each position an equal number of times.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="24434">Card Games: Outplay Games</boardgamefamily>
+																						<boardgameversion objectid="184775">Public Domain edition</boardgameversion>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>28</usersrated>
+					<average>6.33929</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.33666</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>14</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

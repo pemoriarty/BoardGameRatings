@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7835">
+			<yearpublished>1965</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Space Checkers</name>
+									
+			<description>Space Checkers adapts traditional checkers to the 3rd dimension.  Instead of 12 men on an 8x8 square, each side has 8 men on a 4x4x4 cube.  The adaptation is straight-forward: Black sets up near the south lower edge and can only move north and up; Red sets up near the north upper edge and can only move south and down.  Captures and crowning are 3D analogs to the 2D case.&lt;br/&gt;&lt;br/&gt;Rather than having 4 large levels, the board is split into 4 towers of 2x2 portions.  This allows one to more easily reach the pieces at the interiors of each level, without interfering with the visualization of the complete cube.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mXr0XZxxLneq_qtb7asepUeQJOU=/fit-in/200x150/pic102256.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kP1oDmMqtLR1IpsB5bYhn0hi_PU=/0x0/pic102256.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="74190">Richard F. Hirsch</boardgamedesigner>
+															<boardgamepublisher objectid="1781">Pacific Game Company</boardgamepublisher>
+															<boardgameversion objectid="170463">Pacific Game Company first edition 1965</boardgameversion>
+															<boardgameversion objectid="124336">Pacific Game edition 1971</boardgameversion>
+															<boardgameversion objectid="124335">Pacific Game second edition 1965</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>4.92308</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.31334</stddev>
+					<median>0</median>
+					<owned>43</owned>
+					<trading>4</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

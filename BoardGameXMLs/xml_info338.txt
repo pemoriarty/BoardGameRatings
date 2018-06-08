@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="338">
+			<yearpublished>1998</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Bargain Hunter</name>
+							<name  sortindex="1">Schnäppchen Jagd</name>
+									
+			<description>This game illustrates Herr Rosenberg's talent for unique card games.  The deck is one through nine in six suits, with two of each card (two 1s, two 2s, etc.).  After the initial hand of eight is dealt, players select one card value to collect, which is placed face-up in front of each player.  A fairly standard trick-taking game takes place with the remaining cards, with players following suit if they can.  If you cannot, the card you play can be trump, if you desire.  If two cards of the same suit/value appear, the second can be declared as either high or low.  When a player wins a trick, the cards of the same value he's collecting are placed in his 'good' pile, with each worth one point.  All the rest are put in the 'bad' pile, with each worth minus one point.  However at the end of each hand, you can convert one value of cards from your 'bad' pile onto the 'good' pile.  Of course, if you had enough of them, you'll be collecting that value for the next hand...&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/l20iJGxoJvqzH1lgtx3c0x1EG6c=/fit-in/200x150/pic681363.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-dmCpQEZFVKHAlegCWJ-yR2q3gU=/0x0/pic681363.jpg</image>
+						
+												<boardgamehonor objectid="8949">1998 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgameversion objectid="21794">German first edition</boardgameversion>
+																																																									<boardgameartist objectid="11800">Reinhard Horst</boardgameartist>
+															<boardgameartist objectid="32564">Patrick LaMontagne</boardgameartist>
+																						<boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+																													<boardgamedesigner objectid="10">Uwe Rosenberg</boardgamedesigner>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+																						<boardgameversion objectid="28368">Valley edition</boardgameversion>
+															<boardgamepublisher objectid="5382">Valley Games, Inc.</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>685</usersrated>
+					<average>6.79788</average>
+					<bayesaverage>5.99914</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2090" bayesaverage="5.99914" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="923" bayesaverage="6.12926" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="513" bayesaverage="6.15419" />
+												
+											</ranks>
+					
+					<stddev>1.27424</stddev>
+					<median>0</median>
+					<owned>976</owned>
+					<trading>57</trading>
+					<wanting>79</wanting>
+					<wishing>150</wishing>
+					<numcomments>303</numcomments>
+					<numweights>59</numweights>
+					<averageweight>1.8644</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

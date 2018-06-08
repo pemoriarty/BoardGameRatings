@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1331">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Challenge Yahtzee</name>
+							<name  sortindex="1">Experten Yahtzee</name>
+							<name primary="true" sortindex="1">Showdown Yahtzee</name>
+							<name  sortindex="1">Yahtzee</name>
+									
+			<description>Yahtzee meets a board game.  Players move pawns around a board with 12 open spaces and 4 'wild' spaces.  If you land on an open space, you can try to complete one of the 12 standard Yahtzee combinations (not counting the 'Yahtzee' -- more on that later).  If successful, you place the card for that combination on the space and a certain number of your chips to signify ownership.  If another player lands on that space later, they have to match or beat your roll to steal ownership of the board space.  Once a combination has been assigned to a space, it stays there -- so the number of combinations available to fill a blank space on the board decreases throughout the game.  If a player lands on a 'Wild' space, they can try for any combination, then move their piece to the appropriate space and steal ownership.  Also, if a player gets a Yahtzee, they can ignore the space they're on and claim ownership of any space on the board.  Once all combinations have been claimed, each player gets one more turn in which they're allowed to keep playing as long as they keep stealing ownership of a card.  Whoever has the most chips on the board at the end of the game wins.  A very interesting twist on the classic Yahtzee mechanism.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tRAhqXwb3pqMafGA5sqCcdUSKEI=/fit-in/200x150/pic268016.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Pse5emDOTx8N6KJ32aVDKrRz7Ug=/0x0/pic268016.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameversion objectid="333500">MB Spanish edition</boardgameversion>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgameversion objectid="162498">MB Spiele first edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="162497">Milton Bradley British edition</boardgameversion>
+															<boardgameversion objectid="66731">Milton Bradley first edition</boardgameversion>
+																													<boardgamefamily objectid="5066">Yahtzee</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>156</usersrated>
+					<average>5.725</average>
+					<bayesaverage>5.52258</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10637" bayesaverage="5.52258" />
+												
+											</ranks>
+					
+					<stddev>1.2499</stddev>
+					<median>0</median>
+					<owned>470</owned>
+					<trading>35</trading>
+					<wanting>2</wanting>
+					<wishing>13</wishing>
+					<numcomments>71</numcomments>
+					<numweights>13</numweights>
+					<averageweight>1.2308</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2868">
+			<yearpublished>1987</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Eye</name>
+									
+			<description>Players attempt to capture colors on a board by having their pieces occupy matching colored spaces on the board. The board is made up of two rotating overlays over a six colored board layout. There are always four spaces of each color showing. The player gains movement points according to how many spaces of one type they occupy; each movement point may be used to move a piece one place, or rotate an overlay one step. Players may be eliminated by having their chosen color occupied by another player. Winner is either last man standing, or the player who occupies a set number of spaces, depending on starting number of players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/igkrOD0BvUAryFiIQyjxYfGfvbo=/fit-in/200x150/pic438386.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FPWDRNSSCCbVVR6fLYNg88sbvrs=/0x0/pic438386.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="85781">APEX German edition</boardgameversion>
+															<boardgamepublisher objectid="16140">APEX Spiel und Hobby</boardgamepublisher>
+															<boardgamedesigner objectid="1167">Billy Barry</boardgamedesigner>
+															<boardgamedesigner objectid="54193">Martin Colbourne</boardgamedesigner>
+															<boardgameversion objectid="85648">Finger Products English edition</boardgameversion>
+															<boardgamepublisher objectid="628">Finger Products Limited</boardgamepublisher>
+																						<boardgamedesigner objectid="1169">Kerry Kevill</boardgamedesigner>
+															<boardgamedesigner objectid="1168">Iris Lüttring</boardgamedesigner>
+															<boardgamepublisher objectid="779">Paradigm Games Ltd</boardgamepublisher>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>53</usersrated>
+					<average>4.13774</average>
+					<bayesaverage>5.44333</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14870" bayesaverage="5.44333" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="893" bayesaverage="5.15731" />
+												
+											</ranks>
+					
+					<stddev>1.78339</stddev>
+					<median>0</median>
+					<owned>124</owned>
+					<trading>17</trading>
+					<wanting>5</wanting>
+					<wishing>9</wishing>
+					<numcomments>29</numcomments>
+					<numweights>6</numweights>
+					<averageweight>2.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

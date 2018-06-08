@@ -1,0 +1,88 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23361">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">BS Chess (Bluffing Style Chess)</name>
+									
+			<description>Played on a 6X6 square board BS Chess uses similar pieces and movement patterns to chess. however the identity of a piece is only know to it's controller. This allows players make normally illegal moves. Like a knight's leap with a pawn or a pawn's capture with a knight. After each move the opposing player may or may not call BS (short for bluffing style) in that case the moving piece is revealed, and a penalty is given to moving player if they cheated or to the calling player if the move was legal.&lt;br/&gt;&lt;br/&gt;One other big change to chess is that the players pieces start in stacks along the back row of the board. This allows for a bit of meta gaming and reduces the number of choices each round even though a standard 16 man chess army is used.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/O0cV-2LyuqBDsSPIlsfUHnPj9Jg=/fit-in/200x150/pic185573.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ERymdwPUuMDO8Oe1nXTAP4rTHjc=/0x0/pic185573.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2073">Acting</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamepublisher objectid="4368">D3 Games</boardgamepublisher>
+															<boardgameversion objectid="116332">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamedesigner objectid="5383">Tyler Tinsley</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.4</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>8</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

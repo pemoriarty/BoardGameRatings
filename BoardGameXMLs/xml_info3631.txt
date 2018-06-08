@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3631">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>4</age>
+
+							<name  sortindex="5">Les bolides</name>
+							<name  sortindex="3">l bolidi</name>
+							<name  sortindex="5">Los coches voladores</name>
+							<name primary="true" sortindex="1">Flinke Flitzer</name>
+							<name  sortindex="1">Zippy Cars</name>
+							<name  sortindex="1">Zoek een plaatsje</name>
+									
+			<description>A traffic game set in the rush hour. Everybody is on their way home, but rush hour means traffic jams. The players need to get six different colored cars home to his or her parking lot. Moving  cars is done by rolling the special color die. If you roll a color of a car that you don't have, you simply take this car from the traffic jam area and places it on your parking lot. But if you already have a car of this color you must drive the car from your parking lot and give to the player on your left. If all the other players have a car of this color, you place it back in the traffic jam. The game goes back and forth until one player gets all six cars.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5ws9iXOUpHmACDHN7PXYdl8DQSw=/fit-in/200x150/pic413215.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SBsUCiESvEB0QN1kIt3ioutz85o=/0x0/pic413215.jpg</image>
+						
+												<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgameversion objectid="89985">First edition</boardgameversion>
+																						<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+															<boardgamefamily objectid="16840">HABA Mitbringspiele series</boardgamefamily>
+																						<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgameartist objectid="15773">Sabine Lohf</boardgameartist>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="2" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>54</usersrated>
+					<average>5.38889</average>
+					<bayesaverage>5.49247</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13155" bayesaverage="5.49247" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="393" bayesaverage="5.4305" />
+												
+											</ranks>
+					
+					<stddev>1.64042</stddev>
+					<median>0</median>
+					<owned>120</owned>
+					<trading>3</trading>
+					<wanting>2</wanting>
+					<wishing>10</wishing>
+					<numcomments>20</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

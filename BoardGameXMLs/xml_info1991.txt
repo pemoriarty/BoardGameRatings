@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1991">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Ace of Aces: Jet Eagles</name>
+									
+			<description>From the makers of Ace of Aces, the WWI dogfighting game, comes Jet Eagles, the Modern Air Combat Game. Gameplay is very similar to Ace of Aces (two books each depicting the view from your fighter jet) with rules for advanced weapons such as missiles. Players each choose their maneuvers, and then using a formula, turn to a new page in their book to see the outcome.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/p9AqgYSk4_RVLyFUk9zmsdI8Rzw=/fit-in/200x150/pic158025.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-9HmTWvpjdhmqXgBbNKwSRf2Y-c=/0x0/pic158025.jpg</image>
+						
+												<boardgamefamily objectid="66">Ace of Aces</boardgamefamily>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgameartist objectid="13577">Rosaria Baldari</boardgameartist>
+															<boardgameversion objectid="233586">Desert Storm Limited Edition</boardgameversion>
+															<boardgameversion objectid="49653">English first edition</boardgameversion>
+															<boardgamedesigner objectid="591">Alfred Leonardi</boardgamedesigner>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamepublisher objectid="275">Nova Game Designs</boardgamepublisher>
+															<boardgameartist objectid="36803">Jim Peters</boardgameartist>
+															<boardgamefamily objectid="6509">Picture Book Games</boardgamefamily>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>101</usersrated>
+					<average>6.20792</average>
+					<bayesaverage>5.54491</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8728" bayesaverage="5.54491" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1984" bayesaverage="5.70324" />
+												
+											</ranks>
+					
+					<stddev>1.39296</stddev>
+					<median>0</median>
+					<owned>264</owned>
+					<trading>16</trading>
+					<wanting>11</wanting>
+					<wishing>22</wishing>
+					<numcomments>42</numcomments>
+					<numweights>15</numweights>
+					<averageweight>1.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

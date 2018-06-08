@@ -1,0 +1,77 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3792">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Countermoves Generic Microgame Engine</name>
+									
+			<description>The CGME Core Rules are the basic building blocks that could be used to make a Microgame. Think of them as atoms. With just these core rules you will not be able to play much. What you can do with them though is build up Gameworlds that take the CGME Core Rules and fill in the details of the game setting you want to play.&lt;br/&gt;&lt;br/&gt;The Gameworlds are the source documents that will add the detail to the Core Rule's atomic structure. They will describe things like a worlds terrain, the units available, their strengths and weaknesses, the climate, special rules that modify combat resolution, new rules that cover things like horse back ridding, vector space ship movement, and just how to handle a Vogon star destroyer that has wandered into your Medieval Fantasy realm.&lt;br/&gt;&lt;br/&gt;By building off the same Core Rules and by using the Gameworlds you have created, or have been created by others, you can then build up Gamesets to cover the specific events to play out. For example, by using the CGME Core Rules coupled with the CGME Space Gameworld you could build a Gameset to play interstellar battles, trade wars across colonial star systems, early 1970's Soviet vs. US orbital conflicts, and many more.&lt;br/&gt;&lt;br/&gt;If a Gameworld does not cover all the details you need to play out your event, you are free to haul off and add in what you need, modify what is there and hopefully make it available so others can use it.&lt;br/&gt;&lt;br/&gt;CGME is freely available in Volume 1 Issue 1 of Countermoves&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/69rmzSngWY1UYIjgsxnbc8n3grg=/fit-in/200x150/pic69075.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/11yz0Q29lU0IgTq5YX45Pk8E9vQ=/0x0/pic69075.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="1530">Stephan Beal</boardgamedesigner>
+															<boardgamedesigner objectid="1527">Trevor Blake</boardgamedesigner>
+															<boardgamepublisher objectid="872">Countermoves</boardgamepublisher>
+															<boardgamedesigner objectid="1529">Devlyn Davis</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+																						<boardgamecategory objectid="1119">Game System</boardgamecategory>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

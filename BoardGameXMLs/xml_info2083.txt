@@ -1,0 +1,509 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2083">
+			<yearpublished>1150</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">American Checkers</name>
+							<name  sortindex="1">American Pool Checkers</name>
+							<name  sortindex="1">Arbonite Draughtsmen</name>
+							<name  sortindex="1">Bee Brand Checkers</name>
+							<name  sortindex="1">Beer Checkers</name>
+							<name  sortindex="1">Betty Boop Checkers</name>
+							<name  sortindex="1">Care Bear Checkers</name>
+							<name  sortindex="1">Cars Checkers &amp; Tic Tac Toe</name>
+							<name  sortindex="1">Championship Draughts</name>
+							<name  sortindex="1">Checker</name>
+							<name  sortindex="1">Checker Board and Checkers</name>
+							<name  sortindex="1">Checker Game</name>
+							<name  sortindex="1">Checker Game Set</name>
+							<name  sortindex="1">Checker Set</name>
+							<name primary="true" sortindex="1">Checkers</name>
+							<name  sortindex="1">Checkers (Draughts)</name>
+							<name  sortindex="1">Checkers Scooby-Doo!</name>
+							<name  sortindex="1">Classic Wooden Checkers</name>
+							<name  sortindex="1">Clown Checkers</name>
+							<name  sortindex="1">Comet Checkers</name>
+							<name  sortindex="1">Comet Special Checkers</name>
+							<name  sortindex="1">Complete Draughts</name>
+							<name  sortindex="3">A Complete Game of Checkers</name>
+							<name  sortindex="1">Composition Checkers</name>
+							<name  sortindex="1">Corona</name>
+							<name  sortindex="1">Dam</name>
+							<name  sortindex="1">dáma</name>
+							<name  sortindex="1">Dama</name>
+							<name  sortindex="1">Damas</name>
+							<name  sortindex="1">Damas Inglesas</name>
+							<name  sortindex="1">Dame</name>
+							<name  sortindex="1">Dame Mühle</name>
+							<name  sortindex="1">Dames</name>
+							<name  sortindex="1">Damesteine</name>
+							<name  sortindex="1">Dammen</name>
+							<name  sortindex="1">Damoj</name>
+							<name  sortindex="1">Damschijven</name>
+							<name  sortindex="1">Damspel</name>
+							<name  sortindex="1">Dan Dare Draughts</name>
+							<name  sortindex="1">Diagonal Checkers</name>
+							<name  sortindex="1">Dino Checkers</name>
+							<name  sortindex="1">Draughtmen</name>
+							<name  sortindex="1">Draughts</name>
+							<name  sortindex="1">Draughts Men</name>
+							<name  sortindex="1">Draughtsman</name>
+							<name  sortindex="1">Draughtsmen</name>
+							<name  sortindex="1">Fierges</name>
+							<name  sortindex="1">Flag-Stones</name>
+							<name  sortindex="1">FridgeCheckers</name>
+							<name  sortindex="1">Hardwood Draughts</name>
+							<name  sortindex="1">Hershey&#039;s Chockers</name>
+							<name  sortindex="1">Interlocking Checkers</name>
+							<name  sortindex="1">Interlocking Draughtsmen</name>
+							<name  sortindex="1">Jeu de Dames</name>
+							<name  sortindex="4">Le Jeu de Dames</name>
+							<name  sortindex="1">Jeu forcé</name>
+							<name  sortindex="1">Jeu plaisant</name>
+							<name  sortindex="1">John Deere Checkers</name>
+							<name  sortindex="1">Kabe</name>
+							<name  sortindex="1">Kings&#039; Row</name>
+							<name  sortindex="5">The Lord of the Rings Checkers</name>
+							<name  sortindex="5">The Lord of the Rings Checkers Collector&#039;s Edition</name>
+							<name  sortindex="1">Magnetic Checkers</name>
+							<name  sortindex="1">Magnetic Dame</name>
+							<name  sortindex="1">Magnetic Draughts</name>
+							<name  sortindex="1">NFL Checkers</name>
+							<name  sortindex="1">Ntama</name>
+							<name  sortindex="1">Nuka-Cola Checkers</name>
+							<name  sortindex="1">Oer Hoek</name>
+							<name  sortindex="1">Perfection Checkers</name>
+							<name  sortindex="1">Pocket Draughts</name>
+							<name  sortindex="1">Polish Draughts</name>
+							<name  sortindex="1">Pool Checkers</name>
+							<name  sortindex="1">Šaškės</name>
+							<name  sortindex="1">Shotglass Checkers</name>
+							<name  sortindex="1">Standard Oil Checkers</name>
+							<name  sortindex="1">Super Heroes Checker Set</name>
+							<name  sortindex="1">Super Mario Checkers</name>
+							<name  sortindex="1">Sylon Draughtsmen</name>
+							<name  sortindex="1">Tammi</name>
+							<name  sortindex="1">Tournament Checker Set</name>
+							<name  sortindex="1">Tournament Checkers</name>
+							<name  sortindex="1">Transformers Animated Checkers</name>
+							<name  sortindex="5">The Travellers Set of Ivory Draughts</name>
+							<name  sortindex="1">Vest Pocket Complete Checker Set</name>
+							<name  sortindex="1">Warcaby</name>
+							<name  sortindex="5">The World of Beatrix Potter Draughts</name>
+							<name  sortindex="1">Ντάμα</name>
+							<name  sortindex="1">Шашки</name>
+							<name  sortindex="1">דמקה</name>
+							<name  sortindex="1">西洋跳棋</name>
+									
+			<description>Abstract strategy game where players move disc-shaped pieces across an 8 by 8 cross-hatched (&amp;quot;checker&amp;quot;) board. &lt;br/&gt;Pieces only move diagonally, and only one space at a time.  If a player can move one of his pieces so that it jumps over an adjacent piece of their opponent and into an empty space, that player captures the opponent's disc.  Jumping moves must be taken when possible, thereby creating a strategy game where players offer up jumps in exchange for setting up the board so that they jump even more pieces on their turn.  A player wins by removing all of his opponent's pieces from the board or by blocking the opponent so that he has no more moves.&lt;br/&gt;This game, also known as Draughts, is part of the Checkers family.&lt;br/&gt;&lt;br/&gt;The Official Checker Board to be used in tournaments and official matches of associations like international WCDF, ACF, and APCA usually shall be colored of green and off-white (buff). Board squares shall be not less than 2 inches nor more than 2&amp;frac12; inches wide. Tournament pieces are Red and White, but called Black and White in game related literature.&lt;br/&gt;&lt;br/&gt;Sources:&lt;br/&gt;&lt;br/&gt;     American Pool Checker Association (APCA)&lt;br/&gt;     World Checkers and Draughts Federations (WCDF)&lt;br/&gt;     &amp;quot;The Standard Laws of Checkers&amp;quot;, with comments by Jim Loy&lt;br/&gt;     Tournament Rules for Checkers, &lt;a target='_blank' href=&quot;http://www.ehow.com&quot; rel=&quot;nofollow&quot;&gt;www.ehow.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/p_jLsmawNItaB-xKNw6K4fzVxX4=/fit-in/200x150/pic113720.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5INKkK5YJOZyT5eO7wzRuexCgXI=/0x0/pic113720.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamecompilation objectid="35863">The 15 Greatest Board Games in the World</boardgamecompilation>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamecompilation objectid="195274">Ancient Conflict Treasure Chest</boardgamecompilation>
+															<boardgamefamily objectid="7559">Animals: Dinosaurs</boardgamefamily>
+															<boardgamefamily objectid="7760">Animals: Hedgehogs/Porcupines</boardgamefamily>
+															<boardgamefamily objectid="6507">Animals: Rabbits</boardgamefamily>
+															<boardgamecompilation objectid="169776">Apocalypse Pack</boardgamecompilation>
+															<videogamebg objectid="134506">Argo Checkers</videogamebg>
+															<boardgamepublisher objectid="4922">Barnes &amp; Noble</boardgamepublisher>
+															<boardgameversion objectid="191801">Barnes &amp; Noble edition</boardgameversion>
+																						<boardgamepublisher objectid="16355">Bello Games New York, Inc.</boardgamepublisher>
+															<boardgameversion objectid="145354">Berwick edition</boardgameversion>
+															<boardgamepublisher objectid="690">Berwick&#039;s Toy Co. Ltd.</boardgamepublisher>
+															<boardgameversion objectid="289035">Big League Betty Boop edition</boardgameversion>
+															<boardgamepublisher objectid="4371">Big League Promotions Corp.</boardgamepublisher>
+															<boardgameversion objectid="196235">Big League Promotions Lions vs. Bears edition</boardgameversion>
+															<videogamebg objectid="111104">Board Game Classics</videogamebg>
+															<boardgamecompilation objectid="7159">The Boardgame Book</boardgamecompilation>
+															<boardgamecompilation objectid="2883">The Book of Classic Board Games</boardgamecompilation>
+															<boardgamepublisher objectid="4680">Borras Plana S.A.</boardgamepublisher>
+															<boardgameversion objectid="112354">Borras Spanish edition</boardgameversion>
+															<boardgamepublisher objectid="2028">Built-Rite</boardgamepublisher>
+															<boardgameversion objectid="130004">Built-Rite Red American Edition</boardgameversion>
+															<boardgameversion objectid="132596">Built-Rite Red Interlocking Edition</boardgameversion>
+															<boardgamepublisher objectid="225">Cardinal</boardgamepublisher>
+															<boardgameversion objectid="158075">Cardinal English edition</boardgameversion>
+															<boardgameversion objectid="205503">Cardinal English edition</boardgameversion>
+															<boardgamefamily objectid="10144">Care Bears</boardgamefamily>
+															<boardgamepublisher objectid="1935">Carlit</boardgamepublisher>
+															<boardgamefamily objectid="28519">Cartoons: Hanna-Barbera</boardgamefamily>
+															<boardgamepublisher objectid="5314">Cayro Juegos</boardgamepublisher>
+															<boardgamefamily objectid="5597">Celebrities: Walt Disney</boardgamefamily>
+															<boardgamepublisher objectid="27966">CES</boardgamepublisher>
+															<boardgameversion objectid="259981">CES Danish edition</boardgameversion>
+															<boardgameversion objectid="160786">Chad Valley Animals Box</boardgameversion>
+															<boardgamepublisher objectid="507">Chad Valley Co Ltd.</boardgamepublisher>
+															<boardgameversion objectid="162894">Chad Valley English Blue Box</boardgameversion>
+															<boardgameversion objectid="133659">Chad Valley English Draughts Association Edition</boardgameversion>
+															<boardgameversion objectid="143073">Chad Valley English edition</boardgameversion>
+															<boardgameversion objectid="136812">Chad Valley Moulded in Plastic Edition</boardgameversion>
+															<boardgamefamily objectid="28678">Characters: Betty Boop</boardgamefamily>
+															<boardgamefamily objectid="11572">Characters: Peter Rabbit</boardgamefamily>
+															<boardgameexpansion objectid="187185">The Check Deck</boardgameexpansion>
+															<videogamebg objectid="96752">Checker King</videogamebg>
+															<boardgamepodcastepisode objectid="22802">Checkers</boardgamepodcastepisode>
+															<videogamebg objectid="101489">Checkers (1980)</videogamebg>
+															<videogamebg objectid="140891">Checkers (2011)</videogamebg>
+															<videogamebg objectid="120575">Checkers (Intellivision)</videogamebg>
+															<videogamebg objectid="133486">Checkers Online</videogamebg>
+																						<boardgamepublisher objectid="2401">CHH Games</boardgamepublisher>
+															<boardgamepublisher objectid="18726">Coca-Cola</boardgamepublisher>
+															<boardgameversion objectid="144792">Coca-Cola Early Promotion Edition</boardgameversion>
+															<boardgamecategory objectid="1116">Comic Book / Strip</boardgamecategory>
+															<boardgamefamily objectid="28534">Comics: King Features Syndicate</boardgamefamily>
+															<boardgameversion objectid="134311">Copp Clark Canadian edition</boardgameversion>
+															<boardgamepublisher objectid="586">Copp Clark Publishing Company</boardgamepublisher>
+															<boardgamepublisher objectid="17388">Creative Crafthouse</boardgamepublisher>
+															<boardgamepublisher objectid="193">Crisloid</boardgamepublisher>
+															<boardgameversion objectid="151021">Crisloid Interlocking Edition</boardgameversion>
+															<boardgamepublisher objectid="783">Crown Games</boardgamepublisher>
+															<boardgameversion objectid="128272">Crown Games Disney Cars 2 Edition</boardgameversion>
+															<boardgamepublisher objectid="11947">Deuce</boardgamepublisher>
+															<boardgamepublisher objectid="11320">Dilemma Games</boardgamepublisher>
+															<boardgamepublisher objectid="22186">Distribuzione Associata Giocattoli</boardgamepublisher>
+															<boardgameversion objectid="160193">Distribuzione Associata Giocattoli magnetic edition</boardgameversion>
+															<boardgamecompilation objectid="143590">Donald Duck Big Game Box</boardgamecompilation>
+																						<videogamebg objectid="121563">Draughts/Checkers</videogamebg>
+															<boardgamepublisher objectid="7762">Ducale</boardgamepublisher>
+															<boardgameversion objectid="164496">Ducale multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="3082">Dujardin</boardgamepublisher>
+															<boardgameversion objectid="166023">Dujardin Série Noire Edition</boardgameversion>
+															<boardgamepublisher objectid="64">E.S. Lowe</boardgamepublisher>
+															<boardgameversion objectid="133366">E.S. Lowe edition</boardgameversion>
+															<boardgamepublisher objectid="18719">East Hull Press</boardgamepublisher>
+															<boardgameversion objectid="367728">East Hull Press edition</boardgameversion>
+															<boardgamepublisher objectid="765">Educational Insights</boardgamepublisher>
+															<boardgamepublisher objectid="1690">The Embossing Company</boardgamepublisher>
+															<boardgameversion objectid="137217">Embossing Company Flowers Edition</boardgameversion>
+															<boardgameversion objectid="161768">Embossing first edition</boardgameversion>
+															<boardgameversion objectid="130106">Embossing Knights &amp; Castle Edition</boardgameversion>
+																						<boardgamepublisher objectid="2699">Executive Games</boardgamepublisher>
+															<boardgameversion objectid="138439">Executive Games King-Size Edition</boardgameversion>
+															<boardgameversion objectid="51424">Fifth Avenue Crystal 3-in-1 Edition</boardgameversion>
+															<boardgamepublisher objectid="13397">Fifth Avenue Crystal Ltd.</boardgamepublisher>
+															<boardgamecompilation objectid="186430">Five Famous Favorites</boardgamecompilation>
+																						<boardgamepublisher objectid="4955">FridgePlay</boardgamepublisher>
+															<boardgameversion objectid="78049">FridgePlay edition</boardgameversion>
+															<boardgameversion objectid="67967">Friendly Games edition</boardgameversion>
+															<boardgameversion objectid="112356">Friendly Games first edition</boardgameversion>
+															<boardgamepublisher objectid="2033">Friendly Games, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="200">Fundex</boardgamepublisher>
+															<boardgamepublisher objectid="5622">G. J. Hayter &amp; Co, Ltd.</boardgamepublisher>
+															<boardgameversion objectid="367724">G.J. Hayter edition</boardgameversion>
+															<boardgameversion objectid="128140">Galt edition</boardgameversion>
+															<boardgamepublisher objectid="607">Galt Toys</boardgamepublisher>
+																						<boardgameversion objectid="367726">German-Made English edition</boardgameversion>
+															<boardgamecompilation objectid="149072">Giant 30 Game Cube</boardgamecompilation>
+															<boardgameversion objectid="135920">Globe English Red Lettering Edition</boardgameversion>
+															<boardgamepublisher objectid="17078">Globe Series of Games</boardgamepublisher>
+															<boardgamefamily objectid="10267">GoPlay</boardgamefamily>
+															<boardgamepublisher objectid="5350">Granna</boardgamepublisher>
+															<boardgameversion objectid="164233">Granna Polish edition 2001</boardgameversion>
+															<boardgamepublisher objectid="124">Great American Trading Company</boardgamepublisher>
+															<boardgameversion objectid="256387">Great American Trading Company edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="395713">Guild English edition</boardgameversion>
+															<boardgameversion objectid="395714">Guild English edition</boardgameversion>
+															<boardgamepublisher objectid="38726">Guild Publishing</boardgamepublisher>
+															<boardgameversion objectid="163693">H P Gibson Chequered Box Edition</boardgameversion>
+															<boardgamepublisher objectid="22399">H. Baron</boardgamepublisher>
+															<boardgamepublisher objectid="1425">H. P. Gibson &amp; Sons</boardgamepublisher>
+															<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+															<boardgamefamily objectid="21540">HABA Game in a Tin series</boardgamefamily>
+															<boardgameversion objectid="76401">HABA tin box edition</boardgameversion>
+															<boardgameversion objectid="168018">HABA wooden edition 1987</boardgameversion>
+															<boardgamepublisher objectid="9938">Halsall</boardgamepublisher>
+															<boardgamepublisher objectid="7206">Halsam</boardgamepublisher>
+															<boardgameversion objectid="133363">Halsam Airplane Box edition</boardgameversion>
+															<boardgameversion objectid="128521">Halsam Alternate Black/Red Lettering Edition</boardgameversion>
+															<boardgameversion objectid="172909">Halsam edition</boardgameversion>
+															<boardgameversion objectid="133364">Halsam Embossed Wood Edition</boardgameversion>
+															<boardgameversion objectid="141022">Halsam plastic edition</boardgameversion>
+															<boardgameversion objectid="141019">Halsam red edition</boardgameversion>
+															<boardgameversion objectid="133371">Halsam Red Globe Edition</boardgameversion>
+															<boardgameversion objectid="133365">Halsam Red/Yellow Title Edition</boardgameversion>
+															<boardgameversion objectid="162482">Halsam special edition</boardgameversion>
+															<boardgameversion objectid="136080">Halsam yellow edition</boardgameversion>
+															<boardgameartist objectid="51640">Frank Hampson</boardgameartist>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgameversion objectid="236673">Hasbro English edition 1974</boardgameversion>
+															<boardgameversion objectid="236743">Hasbro Family Fun edition 1974</boardgameversion>
+															<boardgameversion objectid="112346">Hasbro U.S. edition 1978</boardgameversion>
+															<boardgamepublisher objectid="17717">Hershey</boardgamepublisher>
+															<boardgameversion objectid="84173">Hershey promotional edition</boardgameversion>
+															<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+															<boardgameversion objectid="323780">Hexagames cassette box edition</boardgameversion>
+															<boardgamepublisher objectid="4721">Holdson</boardgamepublisher>
+															<boardgameversion objectid="128511">Holdson classic edition</boardgameversion>
+															<boardgameversion objectid="141023">Homas Dutch Edition</boardgameversion>
+															<boardgamepublisher objectid="897">Homas Spelen</boardgamepublisher>
+																						<boardgamepublisher objectid="19013">Horn</boardgamepublisher>
+															<boardgameversion objectid="133629">Horn edition</boardgameversion>
+															<boardgameversion objectid="172908">Horn edition</boardgameversion>
+															<boardgamepublisher objectid="1758">House Martin</boardgamepublisher>
+															<boardgameversion objectid="242206">House Martin edition</boardgameversion>
+															<videogamebg objectid="141659">Infrared Checkers</videogamebg>
+															<videogamebg objectid="106412">Internet Checkers</videogamebg>
+															<boardgameversion objectid="400095">Invicta English edition</boardgameversion>
+															<boardgamepublisher objectid="233">Invicta Games</boardgamepublisher>
+															<boardgameversion objectid="242210">J &amp; L Randall edition</boardgameversion>
+															<boardgamepublisher objectid="3789">J &amp; L Randall, Ltd.</boardgamepublisher>
+															<boardgamepublisher objectid="7438">John Deere</boardgamepublisher>
+															<boardgamefamily objectid="22664">John Deere</boardgamefamily>
+															<boardgameversion objectid="144635">John Deere promotional edition</boardgameversion>
+															<boardgamepublisher objectid="19238">John Player &amp; Sons</boardgamepublisher>
+															<boardgameversion objectid="143082">John Player Promotional Edition</boardgameversion>
+															<boardgameversion objectid="242202">John Sands blue surround edition</boardgameversion>
+															<boardgamepublisher objectid="661">John Sands Pty Ltd</boardgamepublisher>
+															<boardgameversion objectid="156953">K &amp; C British edition</boardgameversion>
+															<boardgameversion objectid="242222">K &amp; C British red edition</boardgameversion>
+															<boardgamepublisher objectid="3277">K &amp; C Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="24041">The Kennedy Co.</boardgamepublisher>
+															<boardgamepublisher objectid="24852">Kentheon Corporation</boardgamepublisher>
+															<boardgamepublisher objectid="8565">King International</boardgamepublisher>
+															<boardgameversion objectid="125509">King International wood edition</boardgameversion>
+															<boardgameversion objectid="247403">King multi lanugage edition</boardgameversion>
+															<boardgamepublisher objectid="11944">Klopffleisch</boardgamepublisher>
+															<boardgamepublisher objectid="6266">L. P. Septímio</boardgamepublisher>
+															<boardgamepublisher objectid="1670">Magnetic Poetry Inc</boardgamepublisher>
+															<boardgamepublisher objectid="2627">Majora</boardgamepublisher>
+															<boardgamepublisher objectid="19129">Marchant</boardgamepublisher>
+															<boardgameversion objectid="242207">Marchant English edition</boardgameversion>
+															<boardgamepublisher objectid="19205">Marigó</boardgamepublisher>
+															<boardgamepublisher objectid="2547">Masters Games</boardgamepublisher>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgameversion objectid="161126">MB Spiele Travel Edition 1985</boardgameversion>
+															<boardgamepublisher objectid="21393">McCormick &amp; Co</boardgamepublisher>
+															<boardgameversion objectid="145025">McCormick &amp; Co Spice Edition</boardgameversion>
+															<videogamebg objectid="141173">Mean Checkers Machine II</videogamebg>
+															<boardgamepublisher objectid="8760">Melissa &amp; Doug</boardgamepublisher>
+															<boardgameversion objectid="187606">Merit Blue Background Edition</boardgameversion>
+															<boardgameversion objectid="153380">Merit One Set Edition</boardgameversion>
+															<videogamebg objectid="141174">Micro Checkers</videogamebg>
+															<boardgamepublisher objectid="1645">Miko</boardgamepublisher>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="138390">Milton Bradley edition</boardgameversion>
+															<boardgameversion objectid="142520">Milton Bradley Greek travel edition</boardgameversion>
+															<boardgameversion objectid="133367">Milton Bradley Red Circle Edition</boardgameversion>
+															<boardgamecompilation objectid="96628">Miscellaneous Game Compilation</boardgamecompilation>
+															<boardgamepublisher objectid="6261">Mitra</boardgamepublisher>
+															<boardgameversion objectid="259942">Mitra Portuguese edition</boardgameversion>
+															<videogamebg objectid="141649">Mobile Checkers</videogamebg>
+															<boardgamepublisher objectid="2368">Murfett Australia</boardgamepublisher>
+															<boardgameversion objectid="145477">Murfett Australian edition</boardgameversion>
+															<boardgamepublisher objectid="2168">Nathan</boardgamepublisher>
+															<boardgamepublisher objectid="5874">National Game Company</boardgamepublisher>
+															<boardgameversion objectid="138957">National Game Company Australian edition</boardgameversion>
+															<boardgameversion objectid="155609">National Game Company Australian edition</boardgameversion>
+															<boardgamepublisher objectid="304">Noris Spiele</boardgamepublisher>
+															<boardgamepublisher objectid="10852">Old Time Games</boardgamepublisher>
+																																																																																					<boardgamepublisher objectid="11187">Oriental Trading Company</boardgamepublisher>
+															<boardgamepublisher objectid="2924">Papita</boardgamepublisher>
+															<boardgameversion objectid="141020">Papita Dutch/French edition</boardgameversion>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgameversion objectid="133372">Parker Brothers special edition</boardgameversion>
+															<boardgameversion objectid="133369">Parker Brothers Yellow and Green Edition</boardgameversion>
+															<boardgameversion objectid="154330">Parker Classic Games Range Edition</boardgameversion>
+															<boardgamepublisher objectid="209">Patch Products</boardgamepublisher>
+															<boardgameversion objectid="185211">Patch Products Take &#039;N&#039; Play Anywhere edition</boardgameversion>
+															<boardgamepublisher objectid="486">Paul Lamond Games Ltd</boardgamepublisher>
+															<boardgameversion objectid="142687">Paul Lamond magnetic travel edition</boardgameversion>
+															<boardgameversion objectid="125132">Paul Lamond Traditional Wood Edition</boardgameversion>
+															<boardgamepublisher objectid="2188">Pavilion</boardgamepublisher>
+															<boardgameversion objectid="250530">Pavilion edition 1992</boardgameversion>
+															<boardgameversion objectid="387001">Peri edition</boardgameversion>
+															<boardgameversion objectid="395577">Peri English edition</boardgameversion>
+															<boardgameversion objectid="387381">Peri German edition</boardgameversion>
+															<boardgamepublisher objectid="648">Peri Spiele</boardgamepublisher>
+															<boardgamepublisher objectid="782">Peter Pan Playthings</boardgamepublisher>
+															<boardgameversion objectid="248421">Peter Pan Playthings QED edition</boardgameversion>
+															<boardgamepublisher objectid="272">Philmar</boardgamepublisher>
+															<boardgameversion objectid="133936">Philmar British edition</boardgameversion>
+															<boardgamepublisher objectid="22">Piatnik</boardgamepublisher>
+															<boardgameversion objectid="245680">Piatnik Massivem Holz Edition</boardgameversion>
+															<boardgamepublisher objectid="1087">Pin International</boardgamepublisher>
+															<boardgamecompilation objectid="157432">Pirates of the Caribbean Dead Man&#039;s Chest: 3 in 1 Pirate Games Collector&#039;s Edition</boardgamecompilation>
+															<boardgamepublisher objectid="8989">Plasticart</boardgamepublisher>
+															<boardgameversion objectid="407540">Plasticart edition</boardgameversion>
+															<boardgameversion objectid="138967">Playing in a Train Edition</boardgameversion>
+															<boardgamepublisher objectid="2256">Pleasantime Games</boardgamepublisher>
+															<boardgameversion objectid="141963">Pleasantime Games Plain Box Edition</boardgameversion>
+															<boardgameartist objectid="6646">Beatrix Potter</boardgameartist>
+															<boardgameversion objectid="112359">Pressman red box edition</boardgameversion>
+															<boardgamepublisher objectid="115">Pressman Toy Corp.</boardgamepublisher>
+																						<boardgamefamily objectid="11505">Promotional Board Games</boardgamefamily>
+															<boardgamepublisher objectid="2574">Puremco</boardgamepublisher>
+															<boardgameversion objectid="282850">Puremco Deluxe Marblelike Edition</boardgameversion>
+															<boardgamepublisher objectid="21401">Quaker Oats</boardgamepublisher>
+															<boardgameversion objectid="151106">Quaker Oats promotional edition</boardgameversion>
+															<boardgamepublisher objectid="24436">Regionalia Verlag GmbH</boardgamepublisher>
+															<boardgamepublisher objectid="11946">Rico Industries</boardgamepublisher>
+															<boardgameversion objectid="289222">Schmidt multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="38">Schmidt Spiele</boardgamepublisher>
+															<boardgamecompilation objectid="12499">Schöne alte Spiele</boardgamecompilation>
+															<boardgamepublisher objectid="359">Selchow &amp; Righter</boardgamepublisher>
+															<boardgameversion objectid="171915">Selchow &amp; Righter ACF edition</boardgameversion>
+															<boardgameversion objectid="112352">Selchow &amp; Righter Interlocking Plastic Edition</boardgameversion>
+															<boardgameversion objectid="150759">Simba German edition</boardgameversion>
+															<boardgamepublisher objectid="777">Simba Toys</boardgamepublisher>
+															<videogamebg objectid="146722">Simutek Package Two</videogamebg>
+															<boardgameversion objectid="161129">Siso Green Front Edition</boardgameversion>
+															<boardgamepublisher objectid="6629">Siso Trend</boardgamepublisher>
+															<boardgameversion objectid="144023">Smethport Hip Hugger Edition</boardgameversion>
+															<boardgamepublisher objectid="3080">Smethport Specialty Co.</boardgamepublisher>
+															<boardgameversion objectid="137009">Spear&#039;s English red edition</boardgameversion>
+															<boardgamepublisher objectid="288">Spear&#039;s Games</boardgamepublisher>
+															<boardgameversion objectid="167873">Spear&#039;s German red edition</boardgameversion>
+															<boardgameversion objectid="163692">Spears Chequered Box Edition</boardgameversion>
+															<boardgameversion objectid="155765">Spears Crown Brand Edition</boardgameversion>
+															<boardgameversion objectid="163694">Spears Highly Polished Edition</boardgameversion>
+															<boardgamepublisher objectid="30733">Spencer Gifts</boardgamepublisher>
+															<boardgameversion objectid="287749">Spencer Gifts Shotglass Edition</boardgameversion>
+															<boardgamepublisher objectid="3104">SPIKA GmbH</boardgamepublisher>
+															<boardgamepublisher objectid="21411">Standard Oil</boardgamepublisher>
+															<boardgameversion objectid="145374">Standard Oil promotional edition</boardgameversion>
+															<boardgamepublisher objectid="36742">Sunrise Chess &amp; Games</boardgamepublisher>
+															<boardgamepublisher objectid="6088">Super Accord</boardgamepublisher>
+															<boardgamefamily objectid="19291">Super Mario Bros.</boardgamefamily>
+															<videogamebg objectid="172077">Tabletop Simulator</videogamebg>
+															<boardgamefamily objectid="20390">Take &#039;N&#039; Play Anywhere</boardgamefamily>
+															<boardgamepodcastepisode objectid="214962">TGT 060: Ancient Games</boardgamepodcastepisode>
+																						<boardgameversion objectid="145947">The Traditional Games Co. Ltd.  French edition</boardgameversion>
+															<boardgameversion objectid="163688">Thomas Salter Dark Blue Box</boardgameversion>
+															<boardgamepublisher objectid="2942">Thomas Salter Ltd</boardgamepublisher>
+															<boardgameversion objectid="139529">Thomas Salter Ltd edition</boardgameversion>
+															<boardgameversion objectid="130167">Thomas Salter yellow edition</boardgameversion>
+															<boardgamefamily objectid="4263">Tolkien Games</boardgamefamily>
+															<boardgamepublisher objectid="4916">Toysmith</boardgamepublisher>
+															<boardgameversion objectid="112358">Toysmith Keychain Edition</boardgameversion>
+															<boardgamepublisher objectid="3189">The Traditional Games Co. Ltd.</boardgamepublisher>
+															<boardgameversion objectid="167184">Traditional Games First Edition</boardgameversion>
+															<boardgamefamily objectid="5619">Transformers</boardgamefamily>
+															<boardgameversion objectid="112351">Transgram Bakelite Edition</boardgameversion>
+															<boardgamepublisher objectid="1025">Transogram</boardgamepublisher>
+															<boardgamepublisher objectid="1782">Tri-ang</boardgamepublisher>
+															<boardgamefamily objectid="5714">TV Series: Scooby-doo</boardgamefamily>
+															<boardgamepublisher objectid="254">University Games</boardgamepublisher>
+															<boardgameversion objectid="112353">University Games Lego/Duplo Edition</boardgameversion>
+															<boardgamepublisher objectid="634">USAopoly</boardgamepublisher>
+															<boardgameversion objectid="197269">USAopoly edition</boardgameversion>
+															<boardgameversion objectid="397665">USAopoly Fallout  edition</boardgameversion>
+																						<boardgamecompilation objectid="130775">Verkade spel</boardgamecompilation>
+															<videogamebg objectid="114179">Video Checkers</videogamebg>
+															<videogamebg objectid="98271">Videocart-19: Checkers</videogamebg>
+															<boardgamepublisher objectid="11954">Vilac</boardgamepublisher>
+															<boardgameversion objectid="256474">Waddington&#039;s Canadian English/French edition</boardgameversion>
+															<boardgameversion objectid="317788">Waddington&#039;s English edition 1985</boardgameversion>
+															<boardgamepublisher objectid="95">Waddington&#039;s Games, Inc.</boardgamepublisher>
+																						<boardgamepublisher objectid="21420">Wee Folks</boardgamepublisher>
+															<boardgameversion objectid="145873">Wee Folks Australian edition</boardgameversion>
+															<boardgamepublisher objectid="23115">Węgiel</boardgamepublisher>
+															<boardgamepublisher objectid="329">Whitman</boardgamepublisher>
+															<boardgameversion objectid="133587">Whitman Children Learning Edition</boardgameversion>
+															<boardgameversion objectid="135917">Whitman red edition</boardgameversion>
+															<boardgameversion objectid="151229">Whitman travel edition</boardgameversion>
+															<boardgameversion objectid="112355">Whitman White Second English Edition</boardgameversion>
+															<boardgamepublisher objectid="16793">Wicked Vision</boardgamepublisher>
+															<boardgameversion objectid="112343">Wicked Vision edition</boardgameversion>
+																																				<boardgamepublisher objectid="3245">Wm F. Drueke &amp; Sons, Inc.</boardgamepublisher>
+															<boardgameversion objectid="132643">Wm F. Drueke Travel Edition</boardgameversion>
+															<boardgamepublisher objectid="7506">Wood Expressions</boardgamepublisher>
+															<boardgameversion objectid="367727">Wooden box edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="72" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="35">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="35" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="42">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="4" />
+					<result value="5" numvotes="12" />
+					<result value="6" numvotes="20" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5753</usersrated>
+					<average>4.85243</average>
+					<bayesaverage>4.92191</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15505" bayesaverage="4.92191" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="907" bayesaverage="4.77275" />
+												
+											</ranks>
+					
+					<stddev>1.50152</stddev>
+					<median>0</median>
+					<owned>6705</owned>
+					<trading>32</trading>
+					<wanting>1</wanting>
+					<wishing>54</wishing>
+					<numcomments>1586</numcomments>
+					<numweights>517</numweights>
+					<averageweight>1.795</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

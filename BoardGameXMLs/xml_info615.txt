@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="615">
+			<yearpublished>1968</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Cube Fusion</name>
+							<name  sortindex="1">Double Decker</name>
+							<name  sortindex="1">Mini Cube Fusion</name>
+									
+			<description>The game includes a playing board with a 3x3 grid and 12 playing pieces.  Each piece consists of two cubes, each with marbles in the center - one red, one green.  Players take turns placing pieces on the board, trying to make a specified pattern in his color but not his opponent's -- all the while having to play both his color and his opponent's color each turn.  There are several different games explained in the rules: make 3, 4, or 5 in a row (in 3D) before your opponent, form a square in your color, form more three-in-a-row alignments than your opponent, etc.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0LX92QxemZDUu7cbKJl8I-s0qfE=/fit-in/200x150/pic970302.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/d50VbNcTclMjZqAqsyb2Co6tFfc=/0x0/pic970302.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="21">Canada Games</boardgamepublisher>
+															<boardgameversion objectid="87028">Canada Games edition</boardgameversion>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="87025">Pressman edition</boardgameversion>
+															<boardgamepublisher objectid="115">Pressman Toy Corp.</boardgamepublisher>
+															<boardgamepublisher objectid="12354">Renwal</boardgamepublisher>
+															<boardgameversion objectid="87026">Renwal edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameversion objectid="87023">Waddington&#039;s edition</boardgameversion>
+															<boardgameversion objectid="130173">Waddington&#039;s edition</boardgameversion>
+															<boardgamepublisher objectid="95">Waddington&#039;s Games, Inc.</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>15</usersrated>
+					<average>5.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>74</owned>
+					<trading>10</trading>
+					<wanting>2</wanting>
+					<wishing>7</wishing>
+					<numcomments>8</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

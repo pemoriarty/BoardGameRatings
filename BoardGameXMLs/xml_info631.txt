@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="631">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>70</playingtime>
+			<minplaytime>70</minplaytime>
+			<maxplaytime>70</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Daytona 500</name>
+									
+			<description>Six little plastic cars race around the big Daytona track.  The track is three spaces wide except for a sweeping curve at either end.  In the curves, the track narrows to two lanes.  The outer lane is a passing lane, requiring twice as many movement points to use and in which a car may not end its turn.  Movement points come from play of the special deck of cards.  Selecting a card from your hand, you move each of the cars on the card the prescribed number of spaces, trying to position your own car or cars most advantageously while leaving your opponents blocked.  Before each race, the six cars are auctioned off, and you bid for them based on the cards in your hand.  Payout is based on where your car(s) finished in the race.  Most money wins.&lt;br/&gt;&lt;br/&gt;Suggested game length is three races (each race lasts about 20 minutes), enough to give the luck of the draw a chance to even out.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UTh8OrAC2bGQsSfgL2v5A9VK7WM=/fit-in/200x150/pic235297.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6C3zg71IMamnLzKlJ051vuqthcU=/0x0/pic235297.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamefamily objectid="9862">Auto Racing: Wolfgang Kramer card system</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="28868">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																																				<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="6206">Sports: Auto Racing</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameimplementation objectid="5389" inbound="true">Niki Lauda&#039;s Formel 1</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>975</usersrated>
+					<average>7.14433</average>
+					<bayesaverage>6.25121</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1354" bayesaverage="6.25121" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="673" bayesaverage="6.39833" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="293" bayesaverage="6.42535" />
+												
+											</ranks>
+					
+					<stddev>1.27252</stddev>
+					<median>0</median>
+					<owned>1055</owned>
+					<trading>91</trading>
+					<wanting>90</wanting>
+					<wishing>204</wishing>
+					<numcomments>417</numcomments>
+					<numweights>101</numweights>
+					<averageweight>1.7723</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

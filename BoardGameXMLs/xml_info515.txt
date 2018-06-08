@@ -1,0 +1,145 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="515">
+			<yearpublished>1986</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">6-Tage Rennen</name>
+									
+			<description>A bicycle race game. On their turn, a player can play any card in their hand and move their rider forward the corresponding number of spaces. If they land on a unoccupied space, their move ends there. If they land on a space occupied by one other rider, they double their move. If they lands on a space occupied by two other riders, they triple their move. And so on.&lt;br/&gt;&lt;br/&gt;Example: A player plays a 3 card and lands on a space occupied by three other riders. He moves nine more spaces for a total move of twelve spaces.&lt;br/&gt;&lt;br/&gt;The object of the game is to cross the finish line first.&lt;br/&gt;&lt;br/&gt;Not to be confused with Internationales 6 Tage Rennen.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GOQvPjA5LjfOF6GcrXQHew7RzmY=/fit-in/200x150/pic125292.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rMROaokVDbBG_7azSRyBatNLyBc=/0x0/pic125292.jpg</image>
+						
+																			<boardgameimplementation objectid="159513">Auf geht&#039;s!</boardgameimplementation>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="31515">First edition</boardgameversion>
+															<boardgamepublisher objectid="136">Holtmann VIP</boardgamepublisher>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5663">Sports: Bicycle / Cycling</boardgamefamily>
+															<boardgamedesigner objectid="243">Walter Toncar</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>239</usersrated>
+					<average>6.88135</average>
+					<bayesaverage>5.72951</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3724" bayesaverage="5.72951" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="922" bayesaverage="5.8144" />
+												
+											</ranks>
+					
+					<stddev>1.43779</stddev>
+					<median>0</median>
+					<owned>227</owned>
+					<trading>12</trading>
+					<wanting>29</wanting>
+					<wishing>40</wishing>
+					<numcomments>114</numcomments>
+					<numweights>25</numweights>
+					<averageweight>1.76</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

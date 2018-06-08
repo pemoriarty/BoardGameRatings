@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23550">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Word Spot</name>
+							<name primary="true" sortindex="1">WordSpot</name>
+									
+			<description>A fast-paced word game for two players. The game consists of wooden letter tiles, each with four letters (the Discovery Edition contains 28 tiles and the Wooden Box edition has 32 tiles).  The board starts with 16 tiles and more are added during the game. On a turn, players find words (at least three letters long) on the board. Words can be situated vertically, horizontally, or diagonally. When a player finds a word, they use transparent tokens to highlight the letters in the word.&lt;br/&gt;&lt;br/&gt;Over the course of the game, the board expands beyond the inital 4 x 4 layout, as players earn new letter tiles and add them to the wordsearch field. The first player to use up all of their tokens wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CQ8IT8-m3NnHJlvSvq4GF79uEBA=/fit-in/200x150/pic126344.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/fztj22ubZJcSpg7JS9OIiuQeQt8=/0x0/pic126344.jpg</image>
+						
+												<boardgameversion objectid="28537">Discovery Edition</boardgameversion>
+																						<boardgamepublisher objectid="1270">Front Porch Classics</boardgamepublisher>
+															<boardgameversion objectid="49486">Front Porch Classics Wooden Box edition</boardgameversion>
+															<boardgamedesigner objectid="5089">Russell Ginns</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>163</usersrated>
+					<average>6.1362</average>
+					<bayesaverage>5.54509</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8722" bayesaverage="5.54509" />
+												
+											</ranks>
+					
+					<stddev>1.56593</stddev>
+					<median>0</median>
+					<owned>377</owned>
+					<trading>42</trading>
+					<wanting>1</wanting>
+					<wishing>15</wishing>
+					<numcomments>93</numcomments>
+					<numweights>17</numweights>
+					<averageweight>1.2941</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

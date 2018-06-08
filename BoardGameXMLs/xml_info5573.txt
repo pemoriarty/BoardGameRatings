@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5573">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Outremer</name>
+									
+			<description>Outremer is a man-to-man small scale combat game set in the time of the 3rd Crusade (1146).&lt;br/&gt;&lt;br/&gt;The game is both a game by itself or can be played as an expansion to Cry Havoc and/or Siege.&lt;br/&gt;&lt;br/&gt;As a stand-alone game it has 3 scenarios as well as a scenario generation system and 2 maps. There are rules covering a character advancement system that allows for a campaign game using the included campaign mapboard depicting the region of Palestine. It is well suited for play-by-email format and can be adapted for decent solitaire play as well.&lt;br/&gt;&lt;br/&gt;The unit scale is one man to one counter. Each man (or woman! They are here too!) is generally represented by multiple counters or both sides of a single counter to portray healthy and wounded combatants as well as mounted and unmounted (including the horses) where applicable. Each counter has a nicely colored picture of each man with attack defense and movement values in addition to the name of the person depicted.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    Cry Havoc&lt;br/&gt;    Siege. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OYqCT0UtzpMzQwvrZy8A7E7uMD8=/fit-in/200x150/pic3656559.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/T25ArkqXDxspJ1T4cFUIOeQ18kY=/0x0/pic3656559.jpg</image>
+						
+												<boardgameimplementation objectid="200111">Ager Sanguinis</boardgameimplementation>
+															<boardgameintegration objectid="200111">Ager Sanguinis</boardgameintegration>
+															<boardgamecategory objectid="1052">Arabian</boardgamecategory>
+																						<boardgameexpansion objectid="23926">Cry Havoc Scenario Book 2</boardgameexpansion>
+																						<boardgamefamily objectid="3273">Cry Havoc System</boardgamefamily>
+																						<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+															<boardgameintegration objectid="164190">Diex Aïe</boardgameintegration>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="110825">First edition</boardgameversion>
+															<boardgameintegration objectid="147919">Guiscard</boardgameintegration>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamepublisher objectid="1211">Standard Games and Publications, Ltd.</boardgamepublisher>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameintegration objectid="200111" inbound="true">Ager Sanguinis</boardgameintegration>
+															<boardgameintegration objectid="164190" inbound="true">Diex Aïe</boardgameintegration>
+															<boardgameintegration objectid="147919" inbound="true">Guiscard</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>87</usersrated>
+					<average>6.92299</average>
+					<bayesaverage>5.59948</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6019" bayesaverage="5.59948" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1172" bayesaverage="5.9561" />
+												
+											</ranks>
+					
+					<stddev>1.31732</stddev>
+					<median>0</median>
+					<owned>252</owned>
+					<trading>8</trading>
+					<wanting>20</wanting>
+					<wishing>31</wishing>
+					<numcomments>34</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.625</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

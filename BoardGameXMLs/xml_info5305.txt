@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5305">
+			<yearpublished>1974</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Face Off</name>
+							<name primary="true" sortindex="1">Face-Off Pro Hockey Game</name>
+									
+			<description>A stat-based hockey game, with cards representing individual NHL players.&lt;br/&gt;&lt;br/&gt;From the rules:&lt;br/&gt;&lt;br/&gt;Face-Off is a complete simulation of the game of professional ice hockey. It does not cut corners with detail, and includes every facet of the fastest team sport in the world.&lt;br/&gt;&lt;br/&gt;Face-Off revolves around the use of four dice, the Game Chart and the player cards. A roll of the dice on either the Game Chart or a player card will lead to an instruction or code, with that action to be taken immediately.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/79605x-Q3dD6UA0p6HkFWVLlVh8=/fit-in/200x150/pic1690680.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iXx4uou4ATl3QXAgE_x-S_bkaW0=/0x0/pic1690680.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="200942">Confro first edition</boardgameversion>
+															<boardgamepublisher objectid="3463">Confro Inc</boardgamepublisher>
+															<boardgamedesigner objectid="59712">Bob Frost</boardgamedesigner>
+															<boardgameversion objectid="162278">Land-Sports edition 1990</boardgameversion>
+															<boardgamepublisher objectid="1227">Land-Sports, Inc.</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5628">Sports: Ice Hockey</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>26</usersrated>
+					<average>7.15</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.10535</stddev>
+					<median>0</median>
+					<owned>35</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>8</wishing>
+					<numcomments>15</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.7143</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21829">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>9</age>
+
+							<name  sortindex="1">Merry Men of Sherwood</name>
+							<name  sortindex="1">Robin des bois</name>
+							<name primary="true" sortindex="1">Sherwood</name>
+							<name  sortindex="1">Робин Гуд</name>
+									
+			<description>Each player has a group of forest robbers from Sherwood.  In each round players simultaneously attack three travelers with a hidden count of robbers.  According to the robbers, properties for each traveler is determined by which group attacked him.  Successful groups take some reward.  Victory points are earned from a range of one's own villages.  Some rewards allow the player gain a village and score points from them.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/d6GDRHEILIA-07BtddcvEAbc7Uw=/fit-in/200x150/pic145630.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/H3XVR8eNJ-dbxiEfPAf2MNXUmGg=/0x0/pic145630.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamefamily objectid="5660">Characters: Robin Hood</boardgamefamily>
+															<boardgamedesigner objectid="789">Vlaada Chvátil</boardgamedesigner>
+															<boardgameartist objectid="12692">David Cochard</boardgameartist>
+															<boardgameversion objectid="370347">Czech edition</boardgameversion>
+															<boardgameversion objectid="123704">English edition</boardgameversion>
+															<boardgameversion objectid="32427">French edition</boardgameversion>
+															<boardgamepublisher objectid="5053">Hofyland community</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgameversion objectid="178556">Russian edition</boardgameversion>
+																						<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamepublisher objectid="42">Tilsit</boardgamepublisher>
+															<boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>176</usersrated>
+					<average>6.30455</average>
+					<bayesaverage>5.59686</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6094" bayesaverage="5.59686" />
+												
+											</ranks>
+					
+					<stddev>1.4869</stddev>
+					<median>0</median>
+					<owned>237</owned>
+					<trading>13</trading>
+					<wanting>33</wanting>
+					<wishing>73</wishing>
+					<numcomments>52</numcomments>
+					<numweights>26</numweights>
+					<averageweight>2.2692</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

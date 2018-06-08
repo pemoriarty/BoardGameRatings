@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="226">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Isi</name>
+									
+			<description>Isi is a colorful abstract strategy game played on two levels.  On a basic level, each player is moving a pawn around the island of Isi, picking up tokens - there's a little strategy here, because which tokens you pick up are important, and one player's pawn can interfere with the other's.  But on another level, players are spending those tokens to build 'trade routes' between cities on the same island.  Cities grow as they become connected by trade routes, and at the end of the game whichever city's grown the most becomes the capital city; whoever is connected the most to the capital wins the game.&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Morisi&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2EvmsiLRwD23lPI2mSXjCdpNgL8=/fit-in/200x150/pic296559.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mm9qLpLm7z4UBsmiyymr4maZiQE=/0x0/pic296559.jpg</image>
+						
+												<boardgamehonor objectid="12959">2000 International Gamers Awards - General Strategy; Two-players</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="77">Cwali</boardgamepublisher>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgameimplementation objectid="867">Morisi</boardgameimplementation>
+															<boardgameimplementation objectid="37379">Netzwerk</boardgameimplementation>
+																						<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamefamily objectid="6363">Tube Games</boardgamefamily>
+															<boardgamedesigner objectid="124">Corné van Moorsel</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.54375</average>
+					<bayesaverage>5.5361</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9446" bayesaverage="5.5361" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="441" bayesaverage="5.71931" />
+												
+											</ranks>
+					
+					<stddev>1.13728</stddev>
+					<median>0</median>
+					<owned>74</owned>
+					<trading>4</trading>
+					<wanting>10</wanting>
+					<wishing>14</wishing>
+					<numcomments>18</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

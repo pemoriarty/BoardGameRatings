@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1150">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Échec au Roi</name>
+							<name  sortindex="1">Lion Heart</name>
+							<name primary="true" sortindex="1">Lionheart</name>
+									
+			<description>Lionheart is a simple wargame that is like chess but with dice rolls that determine the success or failure of a capture move.  There are seven different units: King, Knight, Archer, Heavy Infantry, Infantry, Mercenary, and Peasant.  Each turn players can perform any 2 actions: move, turn, or attack.  Foot units move one square forward per action.  Mounted units move as many unblocked squares in front of them as they like.  Units attack the square they are facing (archers attack an area of squares in front of them).  Attacks are resolved by rolling the combat dice.  Each appropriate symbol rolled (axes or arrows) counts as a &amp;quot;hit&amp;quot;.  Scoring more hits than the target has hit points removes some of the units (miniatures) from the target army.  The winner is the player who eliminates his opponent's King or eliminates every other warrior in his opponent's army leaving the King standing alone on the field of battle.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vORg3zKkg41c0ExCZu_rZCU4MME=/fit-in/200x150/pic406713.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eycTWhnGpYO0U0Dz8nHbQ3NIOEs=/0x0/pic406713.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameversion objectid="116407">Dutch edition</boardgameversion>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="29278">First edition</boardgameversion>
+																						<boardgameversion objectid="144264">German edition</boardgameversion>
+																						<boardgamedesigner objectid="575">Larry Harris, Jr.</boardgamedesigner>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+																						<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgameversion objectid="131721">Parker French edition</boardgameversion>
+																													<boardgameversion objectid="144263">Spanish edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>817</usersrated>
+					<average>5.63272</average>
+					<bayesaverage>5.5301</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9949" bayesaverage="5.5301" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1487" bayesaverage="5.51287" />
+												
+											</ranks>
+					
+					<stddev>1.50123</stddev>
+					<median>0</median>
+					<owned>1893</owned>
+					<trading>198</trading>
+					<wanting>11</wanting>
+					<wishing>38</wishing>
+					<numcomments>372</numcomments>
+					<numweights>71</numweights>
+					<averageweight>1.7746</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

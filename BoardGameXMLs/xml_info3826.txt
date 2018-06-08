@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3826">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Hex on hexagonal board</name>
+							<name primary="true" sortindex="1">Unlur</name>
+									
+			<description>Unlur, the winner of the 2002 Unequal Forces Game Design Competition (sponsored by About Board Games, Abstract Games Magazine, and the Strategy Gaming Society), is an abstract strategy game played on a hexagon-shaped tessellation of hexagons with eight hexagons on each side. Unlur is also a game of unequal forces -- each player has a different objective.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LwWIbTq3zz1ZNAMKQ1Oklt1LZM8=/fit-in/200x150/pic67049.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/S0457vTTc5m6K2ZQPe2Ft-QB-Aw=/0x0/pic67049.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="1544">Jorge Gomez Arrausi</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgamepublisher objectid="8568">Consorci de Biblioteques Universitàries de Catalunya</boardgamepublisher>
+															<boardgameversion objectid="77610">Consorci de Biblioteques Universitàries de Catalunya edition</boardgameversion>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																													<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="29435">Print and Play edition</boardgameversion>
+																																									
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>33</usersrated>
+					<average>7.71667</average>
+					<bayesaverage>5.56066</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7724" bayesaverage="5.56066" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="310" bayesaverage="5.8582" />
+												
+											</ranks>
+					
+					<stddev>1.26399</stddev>
+					<median>0</median>
+					<owned>54</owned>
+					<trading>0</trading>
+					<wanting>6</wanting>
+					<wishing>34</wishing>
+					<numcomments>27</numcomments>
+					<numweights>8</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

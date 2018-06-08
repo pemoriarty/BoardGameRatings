@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3057">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Pair-of-Dice Dice Combo</name>
+							<name primary="true" sortindex="1">Warp 6</name>
+							<name  sortindex="1">Гипер-6</name>
+									
+			<description>Warp 6 is a mostly abstract race game where players have a fleet of starships (which are represented 4-, 6-, and 8-sided dice) trying to go down a spiral path to the center wormhole. During a turn a player moves one of his or her ships along the the spiral exactly the number on the die.  A player can choose to change the number on a die up or down by one instead of moving.&lt;br/&gt;&lt;br/&gt;The game revolves around attempting to land on other ships (friendly or otherwise) which allows sliding down at least one loop of spiral until it reaches an unoccupied spot, thus cutting out a lot of transit time.  When this happens, the die is rolled before it is placed in its landing spot to receive a new number. Typically, long chains are formed which can be taken advantage of by all players. Knowing when to form, break, take advantage of, and foil the use of these chains is the key to winning.&lt;br/&gt;&lt;br/&gt;In the three-player version, the first player to get 4 of their 6 ships out wins.  In the two-player version, the first player to get 6 of their 9 ships out wins.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Boardspace.net (real-time, AI option)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Zf66TYvXprE_bJ9LDPQ64WTgjDE=/fit-in/200x150/pic9228.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uRrvr3x4b148sf5jPzXAd0Aq5C0=/0x0/pic9228.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+																						<boardgamedesigner objectid="1263">Greg Lam</boardgamedesigner>
+															<boardgamepublisher objectid="23031">Magellan</boardgamepublisher>
+															<boardgameversion objectid="213657">Magellan Russian edition</boardgameversion>
+															<boardgamedesigner objectid="1265">Luke Weisman Miratrix</boardgamedesigner>
+																						<boardgamepublisher objectid="696">Pair-of-Dice Games</boardgamepublisher>
+															<boardgameversion objectid="169164">Pair-of-Dice Games plastic box edition</boardgameversion>
+															<boardgameversion objectid="104803">Pair-of-Dice Knockabout / Warp 6 combo edition</boardgameversion>
+																																				<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamepodcastepisode objectid="6972">The Vintage Gamer Special #04: Origins 2008 Interviews</boardgamepodcastepisode>
+															<boardgamedesigner objectid="1264">Brian Tivol</boardgamedesigner>
+															<boardgamefamily objectid="6363">Tube Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>111</usersrated>
+					<average>6.48873</average>
+					<bayesaverage>5.58551</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6518" bayesaverage="5.58551" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="282" bayesaverage="5.91643" />
+												
+											</ranks>
+					
+					<stddev>1.36027</stddev>
+					<median>0</median>
+					<owned>156</owned>
+					<trading>11</trading>
+					<wanting>12</wanting>
+					<wishing>29</wishing>
+					<numcomments>59</numcomments>
+					<numweights>19</numweights>
+					<averageweight>1.7895</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

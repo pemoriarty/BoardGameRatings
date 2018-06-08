@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10500">
+			<yearpublished>1972</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Mad Mate</name>
+							<name primary="true" sortindex="1">Neo-Chess</name>
+									
+			<description>Neo Chess is an absorbing Chess variation inspired by Shogi, the Japanese chess game which is a distant relative of western chess.  In Neo chess, any captured piece becomes a turncoat which may be re-entered on the board to fight for its captor.&lt;br/&gt;&lt;br/&gt;This game is part of the Abacus wood box series.&lt;br/&gt;&lt;br/&gt;This game was intended to be published in the 3M Bookshelf Series as Mad Mate but was never published in that series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/b89B6ogdF6LiTl1C61RoL9lv3UY=/fit-in/200x150/pic106380.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9vXyh1LwyimKxLvHZlNFVYd9Ee8=/0x0/pic106380.jpg</image>
+						
+												<boardgamepublisher objectid="92">3M</boardgamepublisher>
+															<boardgameversion objectid="40253">3M Edition</boardgameversion>
+															<boardgamefamily objectid="72">Abacus wood box</boardgamefamily>
+															<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgameversion objectid="109699">Abacusspiele wooden version 1997</boardgameversion>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamedesigner objectid="24">Alex Randolph</boardgamedesigner>
+															<boardgamefamily objectid="11305">Shogi</boardgamefamily>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>6.40909</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.08695</stddev>
+					<median>0</median>
+					<owned>69</owned>
+					<trading>5</trading>
+					<wanting>11</wanting>
+					<wishing>15</wishing>
+					<numcomments>10</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20441">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Battleground World War II</name>
+									
+			<description>A comprehensive, well-presented set of skirmish rules for WWII, resolving action at the individual soldier and vehicle crew member level. The designers' intent is to provide fast-playing rules which capture the spirit of ground combat.&lt;br/&gt;Units of both sides move in random order (determined by playing of cards), with each person able to perform two Actions per turn. Morale rules allow for fanatics, cowards and heroes, and Gut Checks are required before characters can perform highly risky acts. Rules cover artillery, engineers, armored and infantry combat.&lt;br/&gt;A generic squad organization is provided, and generic hit locations for tanks and halftracks. Seven scenarios are designed to allow players to gradually learn the rules.  Later supplements added new unit types, nationalities, and scenarios.&lt;br/&gt;The rules are written to use Easy Eight's 28mm miniature line, but conversion charts are included for playing with 20mm and 15mm figures.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/se8eiA4ugPZJCOuJ0sS2N4H2vU8=/fit-in/200x150/pic101753.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1ODWOT0KReGPPtwLyVbQtNDpBF8=/0x0/pic101753.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamedesigner objectid="6161">Bob Brodeur</boardgamedesigner>
+															<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgamedesigner objectid="6162">Devin Cooley</boardgamedesigner>
+															<boardgamepublisher objectid="4714">Easy Eight</boardgamepublisher>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamedesigner objectid="6163">Brad Sanders</boardgamedesigner>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgameexpansion objectid="122706">SkirmishElite: Screaming Eagles at Hamburger Hill</boardgameexpansion>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>56</usersrated>
+					<average>7.16964</average>
+					<bayesaverage>5.56044</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7734" bayesaverage="5.56044" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1705" bayesaverage="5.78551" />
+												
+											</ranks>
+					
+					<stddev>1.50486</stddev>
+					<median>0</median>
+					<owned>93</owned>
+					<trading>5</trading>
+					<wanting>1</wanting>
+					<wishing>12</wishing>
+					<numcomments>23</numcomments>
+					<numweights>11</numweights>
+					<averageweight>3.6364</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

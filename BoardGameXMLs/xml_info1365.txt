@@ -1,0 +1,99 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1365">
+			<yearpublished>1994</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Olix</name>
+									
+			<description>2 Player Abstract strategy game.&lt;br/&gt;&lt;br/&gt;Each player places one piece of their color on the board per turn.  Pieces once placed are never moved nor captured.  The board is simple 11 x 11 square grid.&lt;br/&gt;&lt;br/&gt;The players are attempting to form the largest formation in each of four different types:&lt;br/&gt;- O = a rectangle occupying all exterior spaces of the rectangle (that means there can be a hole or even filled with an friendly or opposing piece) &lt;br/&gt;- L = a L shaped formation (horizontal and vertical--not diagonal) with each leg having at least 3 spaces.&lt;br/&gt;- I = Any horizontal or vertical line of spaces of at least four spaces long.&lt;br/&gt;- X = Any diagonal line of at least four spaces long.&lt;br/&gt;&lt;br/&gt;Adjacent to the board is scoreboard showing the lowest possible values for each formation:&lt;br/&gt;O = 4,6,8,9;  L = 5,6,7,8;  I and X = 4,5,6,7&lt;br/&gt;&lt;br/&gt;The player with the largest O, L, I or X, marks its value on the scoreboard.  (If both players have are tied for the largest formation of the same type, both mark their scores on the scoreboard.)&lt;br/&gt;&lt;br/&gt;The game ends when either one player has an automatic win or they concede no further higher scoring formations can be made.  (The board should be about 2/3 full at this point--there simply won't be room for any higher scoring formations to be placed.)&lt;br/&gt;&lt;br/&gt;The winner is the first player to form a formation larger than the score board can handle (automatic win), or at the end of game, the player having won more scoring columns than his opponent.  (Ties broken by the player with the furthest advanced scoring marker.)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xZjRa7U-exR02GbsAfrB9uC2meo=/fit-in/200x150/pic22676.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/anA-69KR19nuYgSwUdxGEwBgqlc=/0x0/pic22676.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																																				<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="302">Spiel Spass</boardgamepublisher>
+															<boardgamefamily objectid="135">Spielbox</boardgamefamily>
+															<boardgameversion objectid="21699">Spielbox Der Knizia Almanach edition</boardgameversion>
+															<boardgameversion objectid="21520">Spielbox edition</boardgameversion>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+															<boardgamepublisher objectid="3001">W. Nostheide Verlag GmbH</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>39</usersrated>
+					<average>6.01026</average>
+					<bayesaverage>5.5184</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11018" bayesaverage="5.5184" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="581" bayesaverage="5.60226" />
+												
+											</ranks>
+					
+					<stddev>1.31516</stddev>
+					<median>0</median>
+					<owned>107</owned>
+					<trading>5</trading>
+					<wanting>4</wanting>
+					<wishing>16</wishing>
+					<numcomments>22</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

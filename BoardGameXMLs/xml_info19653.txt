@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19653">
+			<yearpublished>2005</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Helden in der Unterwelt</name>
+									
+			<description>Translation : &amp;quot;Heroes in the Underworld&amp;quot;&lt;br/&gt;&lt;br/&gt;This is the third release in the Return of the Heroes series. This time the journey goes into the Underworld, with characters and treasure from classical Greek mythology.  Several new gameplay elements are introduced, particularly the concept of corruption and direct player to player conflict.  This is a standalone game, but can optionally be combined with the other Return of the Heroes sets.&lt;br/&gt;&lt;br/&gt;Other games in the series:&lt;br/&gt;&lt;br/&gt;    Return of the Heroes&lt;br/&gt;    Under the Shadow of the Dragon&lt;br/&gt;    Die Rückkehr der Helden: Die Gralssuche&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ifz2TZMpi3a4V9pc63Sd2fKPRZs=/fit-in/200x150/pic256965.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6G5h2ERo73FbUX5iqQXLcrh35jo=/0x0/pic256965.jpg</image>
+						
+																			<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="28247">First edition</boardgameversion>
+																																				<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgameintegration objectid="8170">Return of the Heroes</boardgameintegration>
+															<boardgameartist objectid="12674">Hans-Georg Schneider</boardgameartist>
+															<boardgamedesigner objectid="2805">Lutz Stepponat</boardgamedesigner>
+															<boardgameartist objectid="16910">Tom Thiel</boardgameartist>
+															<boardgameintegration objectid="13751">Under the Shadow of the Dragon</boardgameintegration>
+															<boardgameintegration objectid="8170" inbound="true">Return of the Heroes</boardgameintegration>
+															<boardgameintegration objectid="13751" inbound="true">Under the Shadow of the Dragon</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>119</usersrated>
+					<average>6.39765</average>
+					<bayesaverage>5.58618</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6492" bayesaverage="5.58618" />
+												
+											</ranks>
+					
+					<stddev>1.40703</stddev>
+					<median>0</median>
+					<owned>348</owned>
+					<trading>17</trading>
+					<wanting>43</wanting>
+					<wishing>76</wishing>
+					<numcomments>50</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

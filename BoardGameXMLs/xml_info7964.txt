@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7964">
+			<yearpublished>1984</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">West Wall</name>
+									
+			<description>A double-blind wargame published in The Wargamer Magazine #35. This Corps/Divisional/Brigade scale game covers the advance into Germany following the Normandy invasion.&lt;br/&gt;&lt;br/&gt;The double-blind system uses two maps so neither player can see the units of his opponent. Movement is handled by calling out hex numbers when a unit enters into &amp;quot;enemy territory&amp;quot;. Players use markers to show the line beyond which enemy territory begins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WaSTdE4vcOUf0ELAIdsVPBUGvgU=/fit-in/200x150/pic33532.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Ep4wWZHgifyWP7XrcDLw5jHHDgY=/0x0/pic33532.jpg</image>
+						
+												<boardgamepublisher objectid="489">3W (World Wide Wargames)</boardgamepublisher>
+															<boardgamedesigner objectid="1747">Ty Bomba</boardgamedesigner>
+															<boardgameversion objectid="106942">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamefamily objectid="6207">Magazine: Wargamer</boardgamefamily>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>4.83065</average>
+					<bayesaverage>5.47441</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14112" bayesaverage="5.47441" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2735" bayesaverage="5.33016" />
+												
+											</ranks>
+					
+					<stddev>1.96685</stddev>
+					<median>0</median>
+					<owned>193</owned>
+					<trading>21</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>29</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

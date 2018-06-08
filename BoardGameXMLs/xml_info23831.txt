@@ -1,0 +1,143 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23831">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Battibaleno</name>
+							<name primary="true" sortindex="1">Ruck Zuck</name>
+							<name  sortindex="1">Rucki Zucki</name>
+							<name  sortindex="1">Rucki Zucki Kartenblitz</name>
+							<name  sortindex="1">Weg er mee!</name>
+									
+			<description>Ruck Zuck, the quick cardgame.&lt;br/&gt;Try to get rid of the cards in your hand by placing them on a board. The one that first has an empty hand wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ONSGg59nrrmq6IrjItXKP_k_Bmk=/fit-in/200x150/pic128302.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LAkZ659al-facfV9odwAbG_DnlE=/0x0/pic128302.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamepublisher objectid="3138">Espenlaub</boardgamepublisher>
+															<boardgameversion objectid="135946">Espenlaub edition</boardgameversion>
+															<boardgameversion objectid="136219">Espenlaub edition</boardgameversion>
+															<boardgameversion objectid="226350">Espenlaub yellow edition</boardgameversion>
+															<boardgamepublisher objectid="7623">Georg Appl</boardgamepublisher>
+															<boardgameversion objectid="355509">Georg Appl edition</boardgameversion>
+																																				<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgameversion objectid="147847">Ravensburger Dutch edition</boardgameversion>
+															<boardgameversion objectid="159237">Ravensburger German edition</boardgameversion>
+															<boardgameversion objectid="183866">Ravensburger Italian edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamedesigner objectid="7206">Manfred Schreiber</boardgamedesigner>
+															<boardgameversion objectid="73233">Self-published first edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>17</usersrated>
+					<average>6.05882</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.998268</stddev>
+					<median>0</median>
+					<owned>80</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>6</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

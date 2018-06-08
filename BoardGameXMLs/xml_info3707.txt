@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3707">
+			<yearpublished>1989</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Red Storm Rising</name>
+									
+			<description>Red Storm Rising is a turn based game covering a theoretical Warsaw Pact invasion of Germany.  Units are upright and specific information about them is hidden from the other player.  Army groups are made up of 5-6 different units; each unit is roughly division sized.  Map areas are irregular, and the board covers basically from the Soviet Union to France.  Time scale is unspecified, but appears to be in the days per turn range.  Advanced rules add air combat, airborne units, and chemical weapons.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Io-hupQZn-Le71eFcLEoyrgakdk=/fit-in/200x150/pic428507.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/83U9fJfI1JLm892COEKS1_waGKA=/0x0/pic428507.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameversion objectid="30324">First edition</boardgameversion>
+															<boardgameartist objectid="13816">Dennis Kauth</boardgameartist>
+															<boardgameartist objectid="3034">Dave LaForce</boardgameartist>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamedesigner objectid="342">Douglas Niles</boardgamedesigner>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameartist objectid="7271">David C. Sutherland, III</boardgameartist>
+															<boardgameartist objectid="15200">Stephanie Tabat</boardgameartist>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>296</usersrated>
+					<average>6.19998</average>
+					<bayesaverage>5.61564</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5569" bayesaverage="5.61564" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1437" bayesaverage="5.86703" />
+												
+											</ranks>
+					
+					<stddev>1.51544</stddev>
+					<median>0</median>
+					<owned>792</owned>
+					<trading>70</trading>
+					<wanting>17</wanting>
+					<wishing>46</wishing>
+					<numcomments>126</numcomments>
+					<numweights>50</numweights>
+					<averageweight>2.56</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

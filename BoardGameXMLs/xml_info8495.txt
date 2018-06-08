@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8495">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="4">De Bellis Multitudinis</name>
+							<name  sortindex="1">DBM</name>
+									
+			<description>A moderately abstract set of Ancient and Medieval miniatures rules.  This ruleset is the bigger brother of De Bellis Antiquitatis.  It covers the same time period (3000 BC - 1500 AD) through four volumes of army list books.&lt;br/&gt;&lt;br/&gt;Armies are typically built to 300-500 points, and can encompass anywhere between 150 and 400 figures grouped onto individual elements.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9jOSPFdG-qBXSyZm4TvXWg7IFIY=/fit-in/200x150/pic152923.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KCow8cE2kPzCLk8BSf5MyAbA5SE=/0x0/pic152923.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamedesigner objectid="1668">Philip C. Barker</boardgamedesigner>
+															<boardgameexpansion objectid="28317">De Bellis Fantasticus: Here There Be Dragons</boardgameexpansion>
+															<boardgameimplementation objectid="28096">De Bellis Magistrorum Militum</boardgameimplementation>
+															<boardgameimplementation objectid="12715">De Bellis Renationis</boardgameimplementation>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+															<boardgameexpansion objectid="26862">DBM Army Lists Book 1: 3000 BC to 500 BC</boardgameexpansion>
+															<boardgameexpansion objectid="26863">DBM Army Lists Book 2: 500 BC to 476 AD</boardgameexpansion>
+															<boardgameexpansion objectid="26864">DBM Army Lists Book 3: 476 AD to 1071 AD</boardgameexpansion>
+															<boardgameexpansion objectid="26865">DBM Army Lists Book 4: 1071 AD to 1500 AD</boardgameexpansion>
+															<boardgamefamily objectid="6324">DBx</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameimplementation objectid="5369">Hordes of the Things</boardgameimplementation>
+															<boardgameimplementation objectid="31167">Horse, Foot and Guns</boardgameimplementation>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamedesigner objectid="1669">Richard Bodley Scott</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="938">Wargames Research Group</boardgamepublisher>
+															<boardgameversion objectid="106287">Wargames Research Group edition 1993</boardgameversion>
+															<boardgameversion objectid="41935">Wargames Research Group Version 3.0</boardgameversion>
+															<boardgameimplementation objectid="299" inbound="true">De Bellis Antiquitatis</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>243</usersrated>
+					<average>6.54053</average>
+					<bayesaverage>5.68201</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4261" bayesaverage="5.68201" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="914" bayesaverage="6.08091" />
+												
+											</ranks>
+					
+					<stddev>1.99749</stddev>
+					<median>0</median>
+					<owned>437</owned>
+					<trading>8</trading>
+					<wanting>3</wanting>
+					<wishing>7</wishing>
+					<numcomments>92</numcomments>
+					<numweights>35</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

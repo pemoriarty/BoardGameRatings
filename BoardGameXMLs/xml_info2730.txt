@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2730">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Quadwrangle</name>
+									
+			<description>Quadwrangle is dice game played with a board with 9 columns.  Each column has a counter that starts in the middle and you attempt to move a counter by rolling certain dice combinations to your scoring area.  (It is a bit like playing 9 games of tug of war simultaneously.)  The winner is the first to get 3 counters in their scoring area.&lt;br/&gt;&lt;br/&gt;The dice are rolled in a manner similar to Yahtzee:  Roll 5 dice.  Keep the ones and reroll the rest.  You may reroll up to three times.&lt;br/&gt;&lt;br/&gt;The nine columns are marked:&lt;br/&gt;-  Number (from 1-6):  Roll a pair of those numbers move the counter 1 space in the column, triple 2 spaces, etc.&lt;br/&gt;-  Run:  You are trying to roll a straight (12345 for 2 spaces, or 23456 for 3 spaces)&lt;br/&gt;-  High/Low:  You are trying to roll a total over 23 or under 12.  There are bonuses for rolling more extreme totals.&lt;br/&gt;&lt;br/&gt;1996 Mensa Select&lt;br/&gt;&lt;br/&gt;Reimplemented as:&lt;br/&gt;&lt;br/&gt;    Kniffel Duell / Cosmic Cows&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VcI_Z5DTkPIs7YNyE5I68TT_to8=/fit-in/200x150/pic55821.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qJvsFpar4YjTzpn2c2NE7dwICKs=/0x0/pic55821.jpg</image>
+						
+												<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamehonor objectid="12343">1996 Mensa Select Winner</boardgamehonor>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgameversion objectid="183674">Great American Mensa Edition</boardgameversion>
+															<boardgamepublisher objectid="124">Great American Trading Company</boardgamepublisher>
+															<boardgamedesigner objectid="617">Maureen Hiron</boardgamedesigner>
+															<boardgameversion objectid="183659">Hiron first edition</boardgameversion>
+															<boardgamepublisher objectid="3114">Hiron Games</boardgamepublisher>
+															<boardgamepublisher objectid="327">Lagoon Games</boardgamepublisher>
+															<boardgameversion objectid="27252">Lagoon Games Inventors&#039; Collection Edition</boardgameversion>
+															<boardgamefamily objectid="6485">Mensa Select</boardgamefamily>
+															<boardgameversion objectid="199316">Peri first edition</boardgameversion>
+															<boardgamepublisher objectid="648">Peri Spiele</boardgamepublisher>
+															<boardgamefamily objectid="135">Spielbox</boardgamefamily>
+															<boardgameversion objectid="21498">Spielbox edition</boardgameversion>
+															<boardgamepublisher objectid="3001">W. Nostheide Verlag GmbH</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>35</usersrated>
+					<average>5.59714</average>
+					<bayesaverage>5.50441</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12260" bayesaverage="5.50441" />
+												
+											</ranks>
+					
+					<stddev>1.31181</stddev>
+					<median>0</median>
+					<owned>84</owned>
+					<trading>5</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>12</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

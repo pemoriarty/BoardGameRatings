@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="22379">
+			<yearpublished>2006</yearpublished>
+			<minplayers>4</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Abridged</name>
+							<name primary="true" sortindex="1">aBRIDGEd</name>
+									
+			<description>&amp;quot;A Revolution in Bridge! aBRIDGEd is a streamlined version of the classic Bridge card game. This engaging and easy-to-learn game [20 minutes to learn] plays just like Bridge &amp;mdash; but without the complex bidding.&amp;quot; Two decks are included, each with colored cards numbered 2-14. Teams are chosen and 13 cards dealt to each player. Then each player declares Pass or Play, depending on whether they think their team can win at least 10 of the tricks. If a player says Play in Round 1, they are the &amp;quot;dummy.&amp;quot; They lay all their cards down and declare which color will be trump (or no-trump). Each player then declares their hand's pip strength (small dots on some cards) and color count (largest quantity of one color in their hand). Starting on the dummy's left, cards are played. You must follow suit if you can; highest card  of the 4 wins. [Note: if no one calls play in Round 1, players will bid on how many tricks their team can win.] After 13 tricks, one team scores points as indicated on a chart. If the declaring team fails to make their bid, the opposing team scores. Play ends after four rounds.   &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Z6ejeN6fSeopUdG-t5GMTjEI6Ic=/fit-in/200x150/pic365302.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EdDMa0is8YnpmBMJXJiJT4woi1Y=/0x0/pic365302.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamefamily objectid="10438">Bridge</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="221980">First edition</boardgameversion>
+															<boardgamedesigner objectid="617">Maureen Hiron</boardgamedesigner>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+															<boardgamepublisher objectid="48">Out of the Box Publishing</boardgamepublisher>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>60</usersrated>
+					<average>5.31</average>
+					<bayesaverage>5.49171</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13212" bayesaverage="5.49171" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1517" bayesaverage="5.49253" />
+												
+											</ranks>
+					
+					<stddev>1.49273</stddev>
+					<median>0</median>
+					<owned>178</owned>
+					<trading>31</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>47</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.625</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

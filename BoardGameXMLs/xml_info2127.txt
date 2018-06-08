@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2127">
+			<yearpublished>1995</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Overpower</name>
+									
+			<description>This defunct CCG is primarily based on characters from Marvel comics, with DC and Image comics represented in later expansions.&lt;br/&gt;&lt;br/&gt;Each player has a team of 4 characters, each rated in 3 or 4 skill types. At the beginning of each hand, each player makes a wager of some of their 7 mission cards based on how confident they are that they can &amp;quot;win&amp;quot; the hand by causing the most damage. Players then take turns playing a card from their hand or cards set aside from previous hands. Cards include Power cards (basic attack or defense in a skill type), Universe cards (e.g., a city bus, which adds value to a Strength attack), Special cards (usually character specific with varying effects), and more in later expansions. At the end of each hand, the damage from that hand is totaled; the player who caused the most &amp;quot;completes&amp;quot; their wagered missions, while the other player is &amp;quot;defeated&amp;quot; with those missions. Players may concede a hand instead of playing a card, losing their missions but avoiding further damage&lt;br/&gt;&lt;br/&gt;A player wins when they have knocked out all 4 opposing characters, &amp;quot;completed&amp;quot; all of their missions, or their opponent is &amp;quot;defeated&amp;quot; in all missions. (There is also a basic game option without the use of missions or conceding, in which the sole victory condition is knocking out the opposing team.)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GTg9QHsprcD6fcZ0cnINlqZNtK8=/fit-in/200x150/pic135901.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RCXK3R65AAc6NIl_SwHop88R8XI=/0x0/pic135901.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamecategory objectid="1116">Comic Book / Strip</boardgamecategory>
+															<boardgamefamily objectid="5427">Comics: DC Universe</boardgamefamily>
+															<boardgamefamily objectid="5338">Comics: Marvel Universe</boardgamefamily>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamepublisher objectid="460">Fleer/Skybox</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																													<boardgamedesigner objectid="803">Michael Stern</boardgamedesigner>
+															<boardgamedesigner objectid="881">Theodore Stern</boardgamedesigner>
+															<boardgamefamily objectid="17935">Superheroes</boardgamefamily>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>404</usersrated>
+					<average>5.56094</average>
+					<bayesaverage>5.50145</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12505" bayesaverage="5.50145" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="242" bayesaverage="5.21985" />
+												
+											</ranks>
+					
+					<stddev>1.878</stddev>
+					<median>0</median>
+					<owned>634</owned>
+					<trading>74</trading>
+					<wanting>17</wanting>
+					<wishing>30</wishing>
+					<numcomments>162</numcomments>
+					<numweights>30</numweights>
+					<averageweight>1.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

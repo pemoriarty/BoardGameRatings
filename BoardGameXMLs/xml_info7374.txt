@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7374">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Veptheca</name>
+									
+			<description>Veptheca is an abstract strategy game for two or more players, which is played with pen and paper.&lt;br/&gt;The board of Veptheca is a arbitrary quad-board with dots. The minimal size is 3x3 points, but bigger is better, for more strategy. Of course, for more than two players, a bigger field must be used.&lt;br/&gt;Every player draws a vector on the field, with the following rules :&lt;br/&gt;&lt;br/&gt;1. Orthogonal vector with length 1 (the distance between two neighbor dots in same line or column) with arbitrary direction, if the vector doesn't intersect any existing one.&lt;br/&gt;&lt;br/&gt;2. Vector, which is a sum of two existing connected vectors with joint vertex in case :&lt;br/&gt;&lt;br/&gt;* is discreet (i.e. lies on two dots from the field);&lt;br/&gt;    * doesn't intersect existing vector;&lt;br/&gt;    * the joint vertex of the vectors, which sum is, is its vertex too;&lt;br/&gt;    * lies in the sub-plane defined by the non-obtuse angle defined by the two vectors, which sum is it;&lt;br/&gt;    * is not a result of two collinear vectors;&lt;br/&gt;&lt;br/&gt;The winner of the game is the player who makes the last possible move.&lt;br/&gt;&lt;br/&gt;The official game site (for rules and examples) is &lt;a target='_blank' href=&quot;http://veptheca.tuzsuzov.com/&quot; rel=&quot;nofollow&quot;&gt;http://veptheca.tuzsuzov.com/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/AvhzD0_GFQFz1YZCioBmpFapNCk=/fit-in/200x150/pic82473.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GsGknaPKlbg7tfWSbNc_loDEuH8=/0x0/pic82473.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="2557">Jordan Tuzsuzov</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,153 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3756">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Croisades</name>
+									
+			<description>This game  is the re-edition of Outremer by Standard games (but with a lot more rules and 2 entirely new playing modes : Strategical and Roleplaying, this is in fact a nearly totally different game, just sharing the included maps and counter (except strategical ones)).&lt;br/&gt;&lt;br/&gt;The  game is from the series Cry Havoc with the same flavor of skirmish battle plus a grand strategical game&lt;br/&gt;On the strategical game , you move your armies(not always known) on the map of Palestine and the resolve combat and siege on the cry havoc boards .&lt;br/&gt;&lt;br/&gt;There is also a roleplaying system included where you create your character (crusader or sarracen), start with a small castle and try to fight, negociate or wed your way through thoses dangerous time. The roleplaying system use Cry Havoc for battle and siege but add hit points, several attribute (diplomacy, honor, charms) and the possibility to advance all members of your trooups by experience from a tiny peasant to a strong sergent or even be adoubed knight. A very interesting addition to the standard game.&lt;br/&gt;&lt;br/&gt;You require Cry Havoc, Siege, The Templars Castle and The Fortified Town if you want to play the strategical game.&lt;br/&gt;&lt;br/&gt;Part of the Cry Havoc series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bM5_jt7PR07ILdy8MBsvHqu51uc=/fit-in/200x150/pic361349.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DUzO7PGLeBLm13KS_rRVvtS9iYQ=/0x0/pic361349.jpg</image>
+						
+												<boardgameintegration objectid="200111">Ager Sanguinis</boardgameintegration>
+															<boardgamecategory objectid="1052">Arabian</boardgamecategory>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamefamily objectid="3273">Cry Havoc System</boardgamefamily>
+																						<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+															<boardgamepublisher objectid="116">Eurogames</boardgamepublisher>
+															<boardgameversion objectid="31410">First edition</boardgameversion>
+															<boardgameintegration objectid="147919">Guiscard</boardgameintegration>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="1605">Jeux Rexton</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamedesigner objectid="80">Duccio Vitale</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameintegration objectid="200111" inbound="true">Ager Sanguinis</boardgameintegration>
+															<boardgameexpansion objectid="1323" inbound="true">Cry Havoc</boardgameexpansion>
+															<boardgameexpansion objectid="14278" inbound="true">The Fortified Town</boardgameexpansion>
+															<boardgameintegration objectid="147919" inbound="true">Guiscard</boardgameintegration>
+															<boardgameexpansion objectid="5571" inbound="true">Siege</boardgameexpansion>
+															<boardgameexpansion objectid="14263" inbound="true">The Templars Castle</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>69</usersrated>
+					<average>7.15942</average>
+					<bayesaverage>5.59333</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59333" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.98412" />
+												
+											</ranks>
+					
+					<stddev>1.26116</stddev>
+					<median>0</median>
+					<owned>219</owned>
+					<trading>3</trading>
+					<wanting>19</wanting>
+					<wishing>26</wishing>
+					<numcomments>24</numcomments>
+					<numweights>11</numweights>
+					<averageweight>2.8182</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

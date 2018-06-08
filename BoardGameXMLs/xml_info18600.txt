@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18600">
+			<yearpublished>1971</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Ball Park Baseball</name>
+									
+			<description>Ball Park Baseball was developed by Professor Charles Sidman from the University of Kansas in the early 1960s. Each team from 1894 up to the present (2006 season) is available and includes every pitcher with 29.3 IP or hitter/position player with a significant contribution to the team's performance.&lt;br/&gt;&lt;br/&gt;The game is played according to the rules of baseball. The action of the game is based upon random numbers between 1 and 50. Numbers 1 through 25 determine the strength of the batter; numbers 26 through 50 provide the capability of the pitcher. Batters have ratings for arm (catchers/outfielders), fielding (by position) and running (catchers have and additional rating for handling pitchers). Pitchers have ratings for fielding and holding runners on base.&lt;br/&gt;&lt;br/&gt;The game also has very detailed (and essential to game play) unique ball park charts (capturing the dimensions and effect of each field) for several historic baseball stadiums.&lt;br/&gt;&lt;br/&gt;Each card and ball park chart is based on actual statistic performances of the players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jXgsmmb1R7zKuh0ua_Gl_ORr_Y4=/fit-in/200x150/pic229972.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hyZks25ASMphPkt4ukzSffaNwfw=/0x0/pic229972.jpg</image>
+						
+												<boardgamepublisher objectid="4228">Ball Park, Inc.</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="107904">First edition</boardgameversion>
+																						<boardgamedesigner objectid="60453">Prof. Charles Sidman</boardgamedesigner>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>32</usersrated>
+					<average>7.48438</average>
+					<bayesaverage>5.53737</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9339" bayesaverage="5.53737" />
+												
+											</ranks>
+					
+					<stddev>2.56016</stddev>
+					<median>0</median>
+					<owned>34</owned>
+					<trading>0</trading>
+					<wanting>6</wanting>
+					<wishing>7</wishing>
+					<numcomments>15</numcomments>
+					<numweights>8</numweights>
+					<averageweight>3.125</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

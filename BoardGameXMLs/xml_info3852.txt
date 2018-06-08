@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3852">
+			<yearpublished>1994</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Star Trek Customizable Card Game</name>
+							<name primary="true" sortindex="1">Star Trek: Customizable Card Game (first edition)</name>
+							<name  sortindex="1">Star Trek: The Next Generation Customizable Card Game</name>
+									
+			<description>A customizable card game (CCG) set in the Star Trek universe. Players play ships and crewmembers and attempt to &amp;quot;solve&amp;quot; or complete missions at discrete &amp;quot;locations&amp;quot; while preventing their opponent from completing them. First player to 100 points, or with the most points when one player's deck runs out, wins.&lt;br/&gt;&lt;br/&gt;Spinoffs include Tribbles Customizable Card Game&lt;br/&gt;&lt;br/&gt;See also the 1996 release from Fleer/Skybox: Star Trek: The Card Game in The Original Series setting.&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Star Trek Customizable Card Game (Second Edition)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/95lz1jypRzTThq9Dnw07Q1dmMMw=/fit-in/200x150/pic92060.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FULeqOBS2oanFNbnXy4XyMpqicc=/0x0/pic92060.jpg</image>
+						
+												<boardgamedesigner objectid="1554">Tom Braunlich</boardgamedesigner>
+															<boardgameartist objectid="23998">Dan Burns</boardgameartist>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+																						<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamepublisher objectid="229">Decipher</boardgamepublisher>
+															<boardgameversion objectid="23998">Decipher edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgameversion objectid="299306">Limited collectors edition</boardgameversion>
+															<boardgamedesigner objectid="2969">Evan Lorentz</boardgamedesigner>
+															<boardgamedesigner objectid="3214">Bill Martinson</boardgamedesigner>
+																						<boardgamepodcastepisode objectid="122910">MN 0005 Our Origin Story and Our 7 Most Played Games</boardgamepodcastepisode>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+																						<boardgamedesigner objectid="7057">Jason Robinette</boardgamedesigner>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="7392">Star Trek</boardgamefamily>
+															<boardgameimplementation objectid="40550">Star Trek Customizable Card Game (Second Edition)</boardgameimplementation>
+																						<boardgamepodcastepisode objectid="192082">Strange Assembly 201 - Rescue Run</boardgamepodcastepisode>
+															<boardgamedesigner objectid="10387">Roland L. Tesh</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>931</usersrated>
+					<average>6.0268</average>
+					<bayesaverage>5.67743</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4332" bayesaverage="5.67743" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="168" bayesaverage="5.67751" />
+												
+											</ranks>
+					
+					<stddev>1.83783</stddev>
+					<median>0</median>
+					<owned>1651</owned>
+					<trading>197</trading>
+					<wanting>27</wanting>
+					<wishing>21</wishing>
+					<numcomments>378</numcomments>
+					<numweights>84</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

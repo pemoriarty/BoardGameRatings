@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1677">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Knightmare Chess 2</name>
+							<name  sortindex="1">Tempête sur l&#039;échiquier 2</name>
+									
+			<description>Knightmare Chess 2 plays as a stand-alone game or as an expansion to the original release.  Knightmare Chess 2 adds even more unpredictability to the game of chess or to the original Knightmare Chess modified game by giving players 80 more cards that they can play before, after, or sometimes instead of their turns. Big fun for an evening of relaxed chess play, but not recommended for purists.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    Knightmare Chess&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Aky-uqxgQziLToJaPE_Z1MdzqQ0=/fit-in/200x150/pic98630.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UxPJzvzcuryYoV3gGKF-F63tI0s=/0x0/pic98630.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamedesigner objectid="126">Pierre Cléquin</boardgamedesigner>
+															<boardgameversion objectid="26309">English edition</boardgameversion>
+															<boardgamedesigner objectid="125">Bruno Faidutti</boardgamedesigner>
+															<boardgameversion objectid="120571">French edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamecompilation objectid="155192">Knightmare Chess (third edition)</boardgamecompilation>
+																													<boardgameartist objectid="14089">Jeff Koke</boardgameartist>
+															<boardgameartist objectid="684">Gérard Mathieu</boardgameartist>
+																													<boardgameartist objectid="19980">Anthony Rezendes</boardgameartist>
+															<boardgamepublisher objectid="19">Steve Jackson Games</boardgamepublisher>
+															<boardgamecompilation objectid="30966">Tempête sur l&#039;Échiquier</boardgamecompilation>
+															<boardgamepublisher objectid="2647">Variantes</boardgamepublisher>
+															<boardgameartist objectid="12269">Rogério Vilela</boardgameartist>
+															<boardgameexpansion objectid="171" inbound="true">Chess</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>591</usersrated>
+					<average>6.72817</average>
+					<bayesaverage>5.90167</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.90167" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="6.3113" />
+												
+											</ranks>
+					
+					<stddev>1.39152</stddev>
+					<median>0</median>
+					<owned>1216</owned>
+					<trading>61</trading>
+					<wanting>21</wanting>
+					<wishing>49</wishing>
+					<numcomments>195</numcomments>
+					<numweights>41</numweights>
+					<averageweight>2.7805</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

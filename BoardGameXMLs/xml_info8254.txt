@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8254">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Balance</name>
+									
+			<description>Simple dexterity game for clever children or drunken adults. Roll the dice and play a piece on the same-colored sphere. You keep what falls. First one to play all your pieces wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CZs0rZmwnRmBHdidTXH7gEfYbDc=/fit-in/200x150/pic199277.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Ew4zaFDwo5heVtXEaAD2IVjnAWA=/0x0/pic199277.jpg</image>
+						
+												<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																											<boardgameartist objectid="3897">Barbara Kinzebach</boardgameartist>
+															<boardgamedesigner objectid="256">Heinz Meister</boardgamedesigner>
+															<boardgamepublisher objectid="99">Otto Maier Verlag</boardgamepublisher>
+															<boardgameversion objectid="121320">Ravensburger English edition</boardgameversion>
+															<boardgameversion objectid="236461">Ravensburger French edition</boardgameversion>
+															<boardgameversion objectid="121717">Ravensburger German first edition</boardgameversion>
+															<boardgameversion objectid="387067">Ravensburger German second edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="22560">Selecta multilingual first edition</boardgameversion>
+															<boardgameversion objectid="115839">Selecta multilingual second edition</boardgameversion>
+															<boardgamepublisher objectid="1917">Selecta Spielzeug</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>54</usersrated>
+					<average>5.07778</average>
+					<bayesaverage>5.48202</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13752" bayesaverage="5.48202" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="480" bayesaverage="5.29486" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1539" bayesaverage="5.47247" />
+												
+											</ranks>
+					
+					<stddev>1.33883</stddev>
+					<median>0</median>
+					<owned>111</owned>
+					<trading>4</trading>
+					<wanting>5</wanting>
+					<wishing>14</wishing>
+					<numcomments>35</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10527">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Gyges</name>
+							<name  sortindex="1">Gygès</name>
+									
+			<description>The object of Gyg&amp;egrave;s is to move a piece to your opponent's last row. The catch is that no one owns the pieces. You can only move a piece in the row nearest you. Pieces are made up of 1, 2, or 3 rings; this number is also the number of spaces it must move. If it lands on another piece, it can move the number of spaces equal to that piece's number of rings. It can also displace that piece to another space. Played with tournament rules, you cannot win on an opponent's mistake, but rather only by creating a situation in which your opponent cannot block multiple winning combinations.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hmwsxDGnqWvfSHilQ-M_m8Qm3E8=/fit-in/200x150/pic1316284.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zoATqETPUjbK1aj1eMCpYJLlQfg=/0x0/pic1316284.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepodcastepisode objectid="86284">BGTG 27 - SR: Gygés, Geschenkt, M, Raceway 57, Tower of Babel, Exxtra, Medici</boardgamepodcastepisode>
+															<boardgamepublisher objectid="5022">Blue Orange (EU)</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																																				<boardgameversion objectid="79037">French first edition (wood)</boardgameversion>
+																													<boardgameversion objectid="79038">French second edition (leather)</boardgameversion>
+																						<boardgamepublisher objectid="155">Gigamic</boardgamepublisher>
+															<boardgamefamily objectid="19100">Gigamic Classic</boardgamefamily>
+															<boardgameversion objectid="86319">Gigamic multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="4826">Giseh Verlag</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																													<boardgameimplementation objectid="241486">Kang</boardgameimplementation>
+															<boardgamedesigner objectid="3187">Claude Leroy</boardgamedesigner>
+																																				<boardgamepublisher objectid="2321">Swiss Games</boardgamepublisher>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>279</usersrated>
+					<average>6.78925</average>
+					<bayesaverage>5.73933</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3628" bayesaverage="5.73933" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="137" bayesaverage="6.25816" />
+												
+											</ranks>
+					
+					<stddev>1.61704</stddev>
+					<median>0</median>
+					<owned>323</owned>
+					<trading>4</trading>
+					<wanting>37</wanting>
+					<wishing>126</wishing>
+					<numcomments>98</numcomments>
+					<numweights>19</numweights>
+					<averageweight>2.5789</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

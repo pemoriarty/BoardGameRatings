@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4657">
+			<yearpublished>1973</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Replay Baseball</name>
+									
+			<description>The new version of the simulation of professional baseball. Players select lineups and pitchers, and rolling 3 dice, get a numerical column and result number. Results are read off of play chart to get play result, which can be impacted by fielders, running speed, or pitcher's ability. Players may steal, bunt, or hit and run. Season Sets available range from 1894 to the present day.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/z695D5ucnCosAVUutttEnZVtVIM=/fit-in/200x150/pic31432.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OOvRJvYla2_0Nwdq4W9Z-fVhZlk=/0x0/pic31432.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="192626">First edition</boardgameversion>
+																						<boardgamepublisher objectid="1095">Replay Publishing</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+															<boardgamedesigner objectid="1841">Peter Ventura</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>89</usersrated>
+					<average>7.91404</average>
+					<bayesaverage>5.64577</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4877" bayesaverage="5.64577" />
+												
+											</ranks>
+					
+					<stddev>1.76656</stddev>
+					<median>0</median>
+					<owned>169</owned>
+					<trading>8</trading>
+					<wanting>16</wanting>
+					<wishing>16</wishing>
+					<numcomments>52</numcomments>
+					<numweights>11</numweights>
+					<averageweight>2.5455</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,79 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21993">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Die! Die! Bang!</name>
+							<name  sortindex="1">大大阪</name>
+									
+			<description>Each player is one of five Alliances (a criminal organization) and undertakes various crimes in order to receive a reward.&lt;br/&gt;&lt;br/&gt;Each player has a scoreboard (which records their 'crime', 'information', 'battle' and 'reward'), Alliance card and Karma table.  A Boss is selected (the player with the most criminal convictions!).  The Boss selects three Karma cards, takes one and passes two to the player on the left.  The process is repeated until all players have two cards.  All players roll the dice and place a mission card in the corresponding numbered area.&lt;br/&gt;&lt;br/&gt;Players place Alliance cards next to the missions they select.  Where more than one player attempts a mission they simultaneously show a thumbs up/thumbs down sign to declare whether they will co-operate or fight.  If players co-operate they divide the reward.  If players fight they divide into the groups, all who voted to co-operate (if any) are one group, fighters become separate groups of one.  Battles are determines by dice roll plus Battle influence.  The winner takes the reward.  The first player to collect ten rewards wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mzmN9bN9WsciE_8F1rvm1-MUgls=/fit-in/200x150/pic113213.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iYqfFAs2PGVvGTEBNBWzy-O_PRc=/0x0/pic113213.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameartist objectid="18529">Rasenjin Hayami</boardgameartist>
+															<boardgamepublisher objectid="5095">Hobby Base</boardgamepublisher>
+															<boardgamecategory objectid="1033">Mafia</boardgamecategory>
+															<boardgamedesigner objectid="6625">Macoto Nakamura</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.1</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.33238</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

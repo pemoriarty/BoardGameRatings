@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23735">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Suffren aux Indes</name>
+									
+			<description>Suffren in India is a wargame (for 2 players) published in French magazine Vae Victis #34.&lt;br/&gt;&lt;br/&gt;It is dedicated to the incredible naval campaign in India (1782-1783), where two equally able admirals fought each other: Hugues for the English side, Suffren for the French side.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P6rt5XYumK7_ye6HgJIhZqZ-AFg=/fit-in/200x150/pic127274.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LSGVB8-XpeeQff8_Nshb1QNBXKY=/0x0/pic127274.jpg</image>
+						
+												<boardgamefamily objectid="9793">Age of Kings</boardgamefamily>
+															<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="1358">Frédéric Bey</boardgamedesigner>
+															<boardgameartist objectid="42958">Didier Bourgeois</boardgameartist>
+															<boardgameartist objectid="42946">Christophe Camilotte</boardgameartist>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamefamily objectid="9825">Magazine: Vae Victis</boardgamefamily>
+															<boardgamepublisher objectid="540">Vae Victis</boardgamepublisher>
+															<boardgameversion objectid="31037">Vae Victis magazine edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>6.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.71847</stddev>
+					<median>0</median>
+					<owned>106</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>9</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

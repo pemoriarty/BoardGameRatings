@@ -1,0 +1,100 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="14447">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Gothic Chess</name>
+									
+			<description>In 1874, Henry Bird proposed a chess variant on an 10x8 board with additional pieces; one with the combined movements of the rook and the knight, and the other with the movements of the bishop and the knight. In the first half of the twentieth century, world chess champion Jose Raul Capablanca (1888-1942) apparently improved on Bird's variant by rearranging the order of the major pieces. This variant became known as Capablanca Chess. And finally, in 1998, Ed Trice, founder of the Gothic Chess Federation, researched a setup which made a final improvement to Capablanca's arrangement, much as Capa had done for Bird.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/8Yy50O7jM_5Dxcf9jIXe6UoXsok=/fit-in/200x150/pic2040776.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DvaEXkegeMz0Zjj5Spi3mQOyYbw=/0x0/pic2040776.png</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="3273">Gothic Chess Federation</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamedesigner objectid="4477">Ed Trice</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>22</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.21051</stddev>
+					<median>0</median>
+					<owned>18</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>6</wishing>
+					<numcomments>15</numcomments>
+					<numweights>2</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

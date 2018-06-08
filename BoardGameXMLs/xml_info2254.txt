@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2254">
+			<yearpublished>1979</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Title Bout</name>
+									
+			<description>Avalon Hill's card-driven sports game of Professional Boxing. Play with over 500 current (as of 1979 and up to 1990) and all time great Boxers for each weight division. Create tournaments, arrange fantasy matchups and title bouts. Ali vs Marciano? That can happen in this game. The game can simulate a bout of 10,12, or 15 rounds. There are TKO's, injuries, and KO's. Different card strategies can be employed to influence each bout as well. Each fighter card gives a brief history on the back of the card to give you an idea of why they are notable fighters in the world of professional boxing. The game supports solitaire play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UM5C0iY0S7IUkaMqKkuacDp3TDI=/fit-in/200x150/pic56261.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jYcqiQzq5xv8MkfByrf_UQ0xDLg=/0x0/pic56261.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="28423">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5839">Sports: Boxing</boardgamefamily>
+															<boardgamefamily objectid="5786">Sports: Combat Sports / Martial Arts</boardgamefamily>
+																						<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgameimplementation objectid="250822">Title Bout 2</boardgameimplementation>
+																						<boardgamepublisher objectid="24821">TJ Publishing Company</boardgamepublisher>
+															<boardgamedesigner objectid="1989">James Trunzo</boardgamedesigner>
+															<boardgamedesigner objectid="1990">Tom Trunzo</boardgamedesigner>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>253</usersrated>
+					<average>6.6436</average>
+					<bayesaverage>5.68393</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4239" bayesaverage="5.68393" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="621" bayesaverage="5.75972" />
+												
+											</ranks>
+					
+					<stddev>1.76227</stddev>
+					<median>0</median>
+					<owned>473</owned>
+					<trading>31</trading>
+					<wanting>24</wanting>
+					<wishing>35</wishing>
+					<numcomments>129</numcomments>
+					<numweights>39</numweights>
+					<averageweight>2.1795</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

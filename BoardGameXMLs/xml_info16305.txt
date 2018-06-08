@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="16305">
+			<yearpublished>1984</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Sun Tzu</name>
+							<name  sortindex="1">孫子</name>
+									
+			<description>Sun Zi, Japanese multi players game of Chinese Chunjiu Zhanguo era. Published by Epoch.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/n8skXeZsldsgmPz28q3FTjwyfxY=/fit-in/200x150/pic67507.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hDC96RPGY8wa6u12SILuMVjjNdI=/0x0/pic67507.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="1392">Epoch</boardgamepublisher>
+															<boardgamedesigner objectid="4608">Yukihiro Kuroda</boardgamedesigner>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamefamily objectid="10794">World War Game series</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>6.625</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.649519</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

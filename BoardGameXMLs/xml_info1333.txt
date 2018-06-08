@@ -1,0 +1,140 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1333">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Boom-O</name>
+							<name  sortindex="1">Uno Boom-O +</name>
+							<name  sortindex="1">Uno Boomo</name>
+									
+			<description>Boom-O is a simple elimination card game from the makers of Uno. Each player gets 7 cards in hand and three time bomb cards in front of them. Most of the cards in the deck either increase or decrease the timer total. Other cards include familiar commands such as Skip, Reverse, Draw 1 (or 2) and Trade Hands. Player discard one card per turn trying to clear their hand while keeping the timer total under 60. If a player can't play a valid card, they must flip over one of their three time bombs. If a player clears their hand, all other players flip one of their time bombs. Whoever flips all three of their bombs is out of the game. Survivor wins.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;5 Alive&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aWGUYAtT9IiZVgCp96U-_QcCkJ8=/fit-in/200x150/pic186255.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vy0dkJkRNNW2Uv_3ZsqDcPSmOts=/0x0/pic186255.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+																																				<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="23789">English edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="93">Mattel</boardgamepublisher>
+															<boardgameversion objectid="90756">Mattel Bonus Wristwatch Edition</boardgameversion>
+															<boardgameversion objectid="101055">Mattel D/FR/I edition</boardgameversion>
+															<boardgameversion objectid="30120">Mattel Dutch/French/German edition</boardgameversion>
+															<boardgameversion objectid="42807">Mattel Nordic edition</boardgameversion>
+															<boardgameversion objectid="117688">Mattel second edition</boardgameversion>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamefamily objectid="4890">UNO</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>551</usersrated>
+					<average>5.30592</average>
+					<bayesaverage>5.4375</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14940" bayesaverage="5.4375" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1590" bayesaverage="5.40629" />
+												
+											</ranks>
+					
+					<stddev>1.5765</stddev>
+					<median>0</median>
+					<owned>1099</owned>
+					<trading>59</trading>
+					<wanting>5</wanting>
+					<wishing>11</wishing>
+					<numcomments>225</numcomments>
+					<numweights>44</numweights>
+					<averageweight>1.1818</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

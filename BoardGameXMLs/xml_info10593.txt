@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10593">
+			<yearpublished>1974</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">7 Up</name>
+							<name  sortindex="1">Cover-Up</name>
+							<name primary="true" sortindex="1">Hepta</name>
+							<name  sortindex="1">Magic 7</name>
+							<name  sortindex="1">Magiczna 7</name>
+							<name  sortindex="1">Magiczna Siódemka</name>
+							<name  sortindex="1">Seven Up</name>
+							<name  sortindex="1">セブンアップ</name>
+									
+			<description>OBJECT&lt;br/&gt;To place your game pieces on the board so that they do not cover any of the designated color on the board. The winner is the player who plays the most game pieces.&lt;br/&gt;&lt;br/&gt;From the box: A pleasing combination of puzzle and strategic game. On one side of the board, the idea is to place 14 tiles so as to cover all but one of the 7 colors. There are 7 colors and therefore 7 different problems. On the other side of the board, the game consists in seeing who of the two players is able to play more tiles.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BVQmRejV6UpwmH_fLfqZcdIWA9o=/fit-in/200x150/pic46713.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/lX_cx-dwgXKiI1UmZPazTMAqSf4=/0x0/pic46713.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="1997">Arxon</boardgamepublisher>
+															<boardgamepublisher objectid="27177">Clover</boardgamepublisher>
+																						<boardgameversion objectid="298014">English edition</boardgameversion>
+																						<boardgamepublisher objectid="153">Ideal</boardgamepublisher>
+															<boardgameversion objectid="230391">Japanese edition</boardgameversion>
+															<boardgameversion objectid="77533">Multilingual edition 1974</boardgameversion>
+															<boardgameversion objectid="219342">Polish edition</boardgameversion>
+															<boardgamefamily objectid="24571">Polyominoes</boardgamefamily>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamedesigner objectid="24">Alex Randolph</boardgamedesigner>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamefamily objectid="7336">Ravensburger Traveller Series</boardgamefamily>
+															<boardgamepublisher objectid="25861">Spółdzielnia Rzemieślnicza Spójnia</boardgamepublisher>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>5.49459</average>
+					<bayesaverage>5.49982</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12642" bayesaverage="5.49982" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="725" bayesaverage="5.48995" />
+												
+											</ranks>
+					
+					<stddev>1.41554</stddev>
+					<median>0</median>
+					<owned>94</owned>
+					<trading>5</trading>
+					<wanting>6</wanting>
+					<wishing>13</wishing>
+					<numcomments>22</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

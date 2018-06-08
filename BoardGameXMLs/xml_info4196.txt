@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4196">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Fantasy Forest</name>
+									
+			<description>A children's fantasy game from the makers of Dungeons &amp; Dragons Adventure Game.  Each player is a young elf traveling through Fantasy Forest.  In the middle of the forest is the Magic Mountain where Morley the Wizard lives.  The first player to reach Morley's castle wins.&lt;br/&gt;&lt;br/&gt;Players are dealt a hand of three cards.  Cards show a monster type and a number.  They are used to move your elf ahead on the path or to challenge another player to a duel.  Playing the right color cards at certain points on the board allows a player to take shortcuts.&lt;br/&gt;&lt;br/&gt;Red spots on the board are ambush spaces.  Players landing there must play a card face-up from their hand and then draw the top card off the deck.  If the player's card is higher than the drawn card, they move forward the number of spaces equal to their card's number.  If their card is lower than the drawn card, they move backwards the number of spaces equal to the drawn card's number.&lt;br/&gt;&lt;br/&gt;Duels are handled the same way, only they are between players and the winner gets to move to the space in front of the losing player (assuming it is forward movement along the path).  In this way players are never really out of the running because they can challenge the leader anytime they draw a strong card.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/o5QLpA8gFiPcI_WfjHWYzS-ofNU=/fit-in/200x150/pic13158.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kjEGZAFSgqh9lfamnry9WUBvOT0=/0x0/pic13158.jpg</image>
+						
+												<boardgamefamily objectid="42078">Animals: Unicorns</boardgamefamily>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgameartist objectid="1038">Larry Elmore</boardgameartist>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="86726">First edition</boardgameversion>
+															<boardgamedesigner objectid="287">Michael Gray</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="86727">Second Edition with Play Figures</boardgameversion>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>91</usersrated>
+					<average>5.82527</average>
+					<bayesaverage>5.51603</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11231" bayesaverage="5.51603" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="324" bayesaverage="5.53208" />
+												
+											</ranks>
+					
+					<stddev>1.67605</stddev>
+					<median>0</median>
+					<owned>167</owned>
+					<trading>8</trading>
+					<wanting>21</wanting>
+					<wishing>41</wishing>
+					<numcomments>63</numcomments>
+					<numweights>16</numweights>
+					<averageweight>1.125</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="22660">
+			<yearpublished>2006</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Hoffman-Singleton</name>
+									
+			<description>A card game based on the Hoffman-Singleton graph, one of the most symmetrical objects in mathematics.  Each card is connected to exactly 7 other cards by simple rules.  Any two non-joined cards are connected by a unique card.  The smallest cycles of connections are pentagons.   With these connections, people must find sets of connected cards, much like Set.  Whoever collects the most cards wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/feDbWpI_DN1aP59iT8jRFjNTKaA=/fit-in/200x150/pic156646.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KXfZYBV2ZR0h8yf5smmMS4MQy-0=/0x0/pic156646.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamepublisher objectid="5262">mathpuzzle.com</boardgamepublisher>
+															<boardgamedesigner objectid="1016">Ed Pegg, Jr.</boardgamedesigner>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="7+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>4.98</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.54454</stddev>
+					<median>0</median>
+					<owned>12</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

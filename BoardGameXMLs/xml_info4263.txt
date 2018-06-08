@@ -1,0 +1,82 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4263">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>9</age>
+
+							<name  sortindex="1">Troja Chess Game</name>
+							<name primary="true" sortindex="5">Das Trojanische Spiel</name>
+									
+			<description>Commercially-published variant of Chess. The major change is that pieces, apart from the king, can be attached to other pieces of the same player. The highest piece is called the Trojan figure and it is the one whose movement mode controls the movement of the conglomerate. Once attached, pieces may later be detached. As you might expect, there are also some special rules around pawn promotion, e.g. only queen per side is permitted.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sWS4U-0cVmpnrBQps6hrbIJwslc=/fit-in/200x150/pic69578.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/E3zgu0kxbEvbM8ULriv5OJIGxac=/0x0/pic69578.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="259">Martin Arnold</boardgamedesigner>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="124595">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="143">M + A Spiele</boardgamepublisher>
+															<boardgamedesigner objectid="5204">Rita Merkwitz</boardgamedesigner>
+															<boardgamedesigner objectid="260">Armin Müller</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.942809</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9346">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Daimyo</name>
+							<name  sortindex="1">Queens</name>
+									
+			<description>It's a board game. It's a war between ancient Japan Daimyos. Each player is the Daimyo of a clan and has to create and control his warriors trying to capture an enemy Daimyo. It's a game of pure strategy. Easy to learn, but very difficult to master. You have big hexagons that show the territory. Cards control the game flow. You also have wooden pieces to represent your forces.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-FJEbxNmCSHkEzdhaC1MG_tPFXU=/fit-in/200x150/pic97974.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dBt-US99Mzj955LAO7EyOQzq9Mc=/0x0/pic97974.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameartist objectid="28201">Barbara Chies</boardgameartist>
+															<boardgamedesigner objectid="2752">Piero Cioni</boardgamedesigner>
+															<boardgameversion objectid="24927">First edition</boardgameversion>
+																																											<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamepublisher objectid="1843">Red Omega Studio</boardgamepublisher>
+																						<boardgameartist objectid="10052">Gianluca Santopietro</boardgameartist>
+															<boardgameartist objectid="16909">Demis Savini</boardgameartist>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="4522">TENKIGAMES</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>212</usersrated>
+					<average>6.40505</average>
+					<bayesaverage>5.64303</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4932" bayesaverage="5.64303" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="268" bayesaverage="5.93964" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1448" bayesaverage="5.69377" />
+												
+											</ranks>
+					
+					<stddev>1.33902</stddev>
+					<median>0</median>
+					<owned>326</owned>
+					<trading>29</trading>
+					<wanting>25</wanting>
+					<wishing>65</wishing>
+					<numcomments>93</numcomments>
+					<numweights>27</numweights>
+					<averageweight>2.5185</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

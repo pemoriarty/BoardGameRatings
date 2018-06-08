@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20022">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Terra Nova</name>
+									
+			<description>In Terra Nova, players try to claim areas of land by moving control markers and placing fences. Each turn, a player must take three actions, first moving a control marker, then taking two further actions from these possibilities: &lt;br/&gt;&lt;br/&gt;     moving a control marker (whether the same one or a different one) and/or&lt;br/&gt;     placing a fence next to a control marker that moved this turn.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Areas are scored once they're enclosed and contain no more than three types of landscape. Whoever has the majority of pieces in an area scores points based on the number of spaces and the number of types of landscape in the area, with fewer types scoring more points. Points are split in case of a tie. The game ends once all areas have been scored.&lt;br/&gt;&lt;br/&gt;Winner of Premio Archimede 2004.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/G_-XReKQc_fE6wfuEfGHCjufxd0=/fit-in/200x150/pic696514.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_vW_o87TL1rQsAbeYCIOvrRg0K0=/0x0/pic696514.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="4335">Competo / Marektoy</boardgamepublisher>
+																																																																<boardgameversion objectid="25114">English Winning Moves edition</boardgameversion>
+															<boardgamedesigner objectid="2623">Gaetano Evola</boardgamedesigner>
+															<boardgameversion objectid="33930">German edition</boardgameversion>
+																																																																																												<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="5367">Immortal Eyes Games</boardgamepublisher>
+															<boardgamefamily objectid="13449">Immortal Eyes Games Collection</boardgamefamily>
+															<boardgamedesigner objectid="2622">Rosanna Leocata</boardgamedesigner>
+															<boardgameversion objectid="136691">Marektoy Finnish edition</boardgameversion>
+															<boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+																																																																							<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamepublisher objectid="59">Winning Moves Games (USA)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="35">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="14" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1535</usersrated>
+					<average>6.42235</average>
+					<bayesaverage>6.03054</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1979" bayesaverage="6.03054" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="124" bayesaverage="6.29619" />
+												
+											</ranks>
+					
+					<stddev>1.2582</stddev>
+					<median>0</median>
+					<owned>2243</owned>
+					<trading>159</trading>
+					<wanting>41</wanting>
+					<wishing>152</wishing>
+					<numcomments>537</numcomments>
+					<numweights>154</numweights>
+					<averageweight>2.2597</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

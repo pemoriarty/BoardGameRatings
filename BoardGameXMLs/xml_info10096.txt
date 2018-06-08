@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10096">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Crôa!</name>
+							<name primary="true" sortindex="1">Splotch!</name>
+									
+			<description>Splotch! is a stand alone expansion for the base game Croak!.&lt;br/&gt;&lt;br/&gt;In the base game, players move pieces around a board attempting to land on pieces of the opposing player while trying to protect one's own queen frog. As players move across tiles, they are flipped over, revealing different items that affect gameplay.&lt;br/&gt;&lt;br/&gt;Splotch! follows the same rules as Croak! except for the addition of cards.&lt;br/&gt;&lt;br/&gt;Each player draws to 3 cards in his/her hand and may play one card during his/her turn and any number during an opponent's. These cards serve to modify the game by manipulating playing piece positions, cards in a player's hand or in the deck or the mechanics of a turn.&lt;br/&gt;&lt;br/&gt;This game also optionally extends the original Croak! to 5 or 6 players.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    Croak!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/plSawVdtgB5yQVG5_E0FRg7j9Q8=/fit-in/200x150/pic679638.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xIBVCDkcaM8Sy8p9WT4dOECigSM=/0x0/pic679638.jpg</image>
+						
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="6994">Animals: Frogs</boardgamefamily>
+															<boardgameintegration objectid="3093">Croak!</boardgameintegration>
+															<boardgamepublisher objectid="2239">Darwin Project</boardgamepublisher>
+															<boardgameversion objectid="88356">French edition</boardgameversion>
+															<boardgameversion objectid="398111">French edition</boardgameversion>
+																						<boardgamepublisher objectid="706">Halloween Concept</boardgamepublisher>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="1279">Igor Polouchine</boardgamedesigner>
+																						<boardgameintegration objectid="3093" inbound="true">Croak!</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>57</usersrated>
+					<average>6.44561</average>
+					<bayesaverage>5.54364</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8812" bayesaverage="5.54364" />
+												
+											</ranks>
+					
+					<stddev>1.39134</stddev>
+					<median>0</median>
+					<owned>146</owned>
+					<trading>6</trading>
+					<wanting>2</wanting>
+					<wishing>10</wishing>
+					<numcomments>11</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

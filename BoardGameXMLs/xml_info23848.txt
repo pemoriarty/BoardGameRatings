@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23848">
+			<yearpublished>2006</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Hameln</name>
+									
+			<description>Welcome to the 13th Century town of Hameln (Hamlyn). Townspeople go about the business of living - buying houses, having children, marrying, earning an honest coin and trying to get one up on their neighbors.&lt;br/&gt;&lt;br/&gt;However, their way of life is under threat...a plague of rats has arrived. As the number of rats rise the levels of food and romantic thoughts dwindle.... where is the Pied Piper when you need him ? Beware though, the Pied Piper plays his music at a price and his talents stretch beyond simply charming rats.&lt;br/&gt;&lt;br/&gt;Players score points for houses, influence, money and possession of the cat. Losing children to the Pied Piper is considered bad form and will lose you points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9Lj7VYGHVPnVdXvEaXS0W8eOdGs=/fit-in/200x150/pic156544.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/psUwrtvptdGrWdgfvZgCR-eohck=/0x0/pic156544.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7520">Animals: Rats</boardgamefamily>
+															<boardgamefamily objectid="27467">Cities: Hameln</boardgamefamily>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="26028">First edition</boardgameversion>
+															<boardgamepublisher objectid="3013">Fragor Games</boardgamepublisher>
+																													<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamedesigner objectid="4168">Gordon Lamont</boardgamedesigner>
+															<boardgamedesigner objectid="4169">Fraser Lamont</boardgamedesigner>
+															<boardgameartist objectid="4168">Gordon Lamont</boardgameartist>
+															<boardgameartist objectid="4169">Fraser Lamont</boardgameartist>
+															<boardgameartist objectid="27997">Judith Lamont</boardgameartist>
+																																				<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>310</usersrated>
+					<average>5.84575</average>
+					<bayesaverage>5.5831</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6602" bayesaverage="5.5831" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1582" bayesaverage="5.61279" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1272" bayesaverage="5.6146" />
+												
+											</ranks>
+					
+					<stddev>1.43208</stddev>
+					<median>0</median>
+					<owned>464</owned>
+					<trading>39</trading>
+					<wanting>27</wanting>
+					<wishing>81</wishing>
+					<numcomments>177</numcomments>
+					<numweights>47</numweights>
+					<averageweight>2.8936</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

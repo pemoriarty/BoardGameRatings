@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20553">
+			<yearpublished>1951</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Ato-Blitz War Games</name>
+									
+			<description>This is a Stratego-like game that's actually two games, an army game and a navy game.  Pieces are set up on a board in a manner similar to Stratego, but rather than being linear (numerical values), the units have a rock-paper-scissors relationship.  i.e. the tank unit is superior to infantry and engineers but is inferior to aircraft, artillery, and mine units.&lt;br/&gt;&lt;br/&gt;For those who want to recreate the (army) game, the pieces are as follows:  Private, corporal, sergeant, staff sergeant = 3 each.  Second lieutenant, first lieutenant, captain, major, lieutenant colonel, colonel, 1, 2, 3, and 4 star generals = 1 each. Tanks=2, plane=1, Anti-aircraft/anti-tank=5. Mines=6, Engineers=6. A-Bomb=1.&lt;br/&gt;&lt;br/&gt;Infantry take each other according to rank; infantry also takes anti-aircraft/anti-tank and engineers.  Tanks and planes take infantry and engineers. Plane takes tank, anti-aircraft/anti-tank takes planes and tanks, engineers take mines without damage.  Mines are stationary pieces that explode and destroy anything that triggers it except an engineer. The A-Bomb is essentially a movable mine that destroys every piece in a surrounding square when it explodes.&lt;br/&gt;&lt;br/&gt;The pieces are like mah jongg tiles arranged so that the opponent cannot see what kind they are -- he just sees blank pieces advancing toward him. When a piece is attacked or attacks, it is turned over so that the face is visible.  It then becomes a known piece for the rest of the game.&lt;br/&gt;&lt;br/&gt;We played the game in Hawaii in elementary school in the late 1950s.  There were two blank pieces included, presumably in case a piece got lost.  We sometimes used these to create two additional pieces, the brainwasher and the kamikaze.  The kamikaze was simply a flying bomb.  The brainwasher changed an opponent's piece into one of your own.  It was not possible to brainwash the A-Bomb.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BDcdZzYUT20bYqosGi17ogARqwQ=/fit-in/200x150/pic101526.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wqhSXH8-s4Nu9Aa6_iMOIn7pd7Y=/0x0/pic101526.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamedesigner objectid="6180">Mack Seso Akamine</boardgamedesigner>
+															<boardgameartist objectid="6180">Mack Seso Akamine</boardgameartist>
+															<boardgamefamily objectid="6137">Block wargames</boardgamefamily>
+															<boardgameversion objectid="113648">First edition</boardgameversion>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

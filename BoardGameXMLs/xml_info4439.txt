@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4439">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tic Tac Dice</name>
+									
+			<description>Players roll two dice, and may keep none, one, or both of them.  After two rolls, the number must be entered on the scoresheet in one of sixteen cells.  A &amp;quot;7&amp;quot; is entered as an &amp;quot;X&amp;quot; and prohibits scoring in that row or column.  A &amp;quot;2&amp;quot; OR &amp;quot;12&amp;quot; is a wild roll, and any number may be entered.  After all the cells are filled, points are scored according to the combination of numbers in each roll, column, and diagonal.  The player with the most points wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DONjfxkuWyyEROKvXf-J8X_u0TY=/fit-in/200x150/pic145069.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mo6U4t_idn4qyWAYcUavzT3RhhM=/0x0/pic145069.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="64">E.S. Lowe</boardgamepublisher>
+															<boardgameversion objectid="102418">First edition</boardgameversion>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamefamily objectid="10764">Roll and Score</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>4.2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.72047</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

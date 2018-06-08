@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5054">
+			<yearpublished>1982</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">War in the Falklands</name>
+									
+			<description>This is really two games in one.&lt;br/&gt;&lt;br/&gt;The first covers the British fleet hunting down the German cruisers commanded by Admiral Graf Spee in 1914. The German ships use hidden movement, attempting to sink merchant ships and escape off the map edge while avoiding the superior number of British warships.&lt;br/&gt;&lt;br/&gt;The second covers the Falkland War fought between the British and the Argentinians in 1982. This one uses land, sea, and air units to recreate the entire war.&lt;br/&gt;&lt;br/&gt;The same map is used for both games and covers the South Atlantic from Argentina to South Georgia and is divided into land and sea zones to regulate movement.&lt;br/&gt;&lt;br/&gt;150 counters&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4yk9voSPQ3YSYEvOAlIEjFjIPEI=/fit-in/200x150/pic17544.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FAibTIS_QQ7v1Fe0HPdAkZZjb7Q=/0x0/pic17544.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																						<boardgamedesigner objectid="106">Bill Fawcett</boardgamedesigner>
+															<boardgameversion objectid="161444">First edition</boardgameversion>
+															<boardgamedesigner objectid="1613">Jim Griffin</boardgamedesigner>
+															<boardgamefamily objectid="27575">Islands: Falkland Islands</boardgamefamily>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>63</usersrated>
+					<average>5.77302</average>
+					<bayesaverage>5.50678</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12064" bayesaverage="5.50678" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2495" bayesaverage="5.53882" />
+												
+											</ranks>
+					
+					<stddev>1.6999</stddev>
+					<median>0</median>
+					<owned>170</owned>
+					<trading>14</trading>
+					<wanting>2</wanting>
+					<wishing>11</wishing>
+					<numcomments>37</numcomments>
+					<numweights>10</numweights>
+					<averageweight>2.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

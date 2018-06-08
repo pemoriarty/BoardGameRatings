@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6186">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">HexaGame</name>
+							<name primary="true" sortindex="1">Hexago</name>
+							<name  sortindex="1">Lance Final</name>
+							<name  sortindex="1">Sik Sak</name>
+							<name  sortindex="1">Zick Zack</name>
+							<name  sortindex="1">Zig Zag</name>
+							<name  sortindex="1">Zig Zago</name>
+									
+			<description>Each player has a set of 13 tiles - each tile is formed of 1 to 4 hexagons (5 single, 4 double, 3 triple and 1 quadruple piece).&lt;br/&gt;&lt;br/&gt;The board has 8 areas, ranging in size from 3 hexes to 10 hexes large.&lt;br/&gt;&lt;br/&gt;Player alternate turns by placing one of their pieces on the board. When you place the last piece necessary to fill in an area of the board, you get a number of points equal to the size of the filled area.&lt;br/&gt;&lt;br/&gt;Play finishes when no tiles can be placed anymore. Player with the highest total wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/h_-tNjHtJ2CS5MD1SC8-tMII_t0=/fit-in/200x150/pic495736.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EeOvhilcEPdRziz8dbloFr5UKes=/0x0/pic495736.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="1576">Theo Coster</boardgamedesigner>
+															<boardgamedesigner objectid="1577">Ora Coster</boardgamedesigner>
+															<boardgamepublisher objectid="1731">Estrela</boardgamepublisher>
+															<boardgameversion objectid="209717">Estrela Portuguese edition</boardgameversion>
+															<boardgameversion objectid="43207">German edition</boardgameversion>
+																						<boardgameversion objectid="198693">John Sands Australian edition</boardgameversion>
+															<boardgameversion objectid="198703">John Sands Australian edition</boardgameversion>
+															<boardgamepublisher objectid="661">John Sands Pty Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="8931">MB Jeux</boardgamepublisher>
+															<boardgamepublisher objectid="4554">MB Spellen</boardgamepublisher>
+															<boardgameversion objectid="97529">MB spellen Dutch edition 1977</boardgameversion>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="126494">Milton Bradley English edition</boardgameversion>
+															<boardgameversion objectid="106251">Milton Bradley French edition 1977</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="1411">Regev Games</boardgamepublisher>
+																						<boardgamedesigner objectid="1786">Theora Design</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>19</usersrated>
+					<average>5.15789</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.63878</stddev>
+					<median>0</median>
+					<owned>65</owned>
+					<trading>5</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>12</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

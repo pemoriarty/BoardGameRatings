@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8863">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Horus Heresy (2003)</name>
+									
+			<description>Horus Heresy is the 2nd edition of the Warhammer 40,000 CCG. It has updated rules and focuses on the time of the Horus Heresy, one of the greatest events to ever happen in the Warhammer 40,000 universe. You take command in one of the bloodiest times of the Imperium, when brother has turned against brother. The Warmaster Horus has turned against the Emperor of Mankind and seeks to destroy him and all who follow him. You MUST choose which side you will fight for, and go to war.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LqH2mGDw9mFs5yDG_aBFMD_7ojk=/fit-in/200x150/pic341040.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/K-oaore562VlkIidV8EjgQTzVBw=/0x0/pic341040.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+																						<boardgameversion objectid="174501">First edition</boardgameversion>
+															<boardgamepublisher objectid="26">Games Workshop Ltd.</boardgamepublisher>
+															<boardgamedesigner objectid="2276">Ryan Miller</boardgamedesigner>
+															<boardgamedesigner objectid="644">Luke Peterschmidt</boardgamedesigner>
+															<boardgamepublisher objectid="1462">Sabertooth Games</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamecategory objectid="1113">Space Exploration</boardgamecategory>
+															<videogamebg objectid="197213">Talisman: The Horus Heresy</videogamebg>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamefamily objectid="4943">Warhammer 40,000 Card Games</boardgamefamily>
+															<boardgameimplementation objectid="7164" inbound="true">Warhammer 40,000 Collectible Card Game</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>45</usersrated>
+					<average>5.96667</average>
+					<bayesaverage>5.51837</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11021" bayesaverage="5.51837" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2358" bayesaverage="5.58367" />
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="191" bayesaverage="5.56901" />
+												
+											</ranks>
+					
+					<stddev>1.89561</stddev>
+					<median>0</median>
+					<owned>117</owned>
+					<trading>11</trading>
+					<wanting>11</wanting>
+					<wishing>17</wishing>
+					<numcomments>25</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

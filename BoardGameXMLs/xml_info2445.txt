@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2445">
+			<yearpublished>1962</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Chaseback</name>
+									
+			<description>This is an unusual two-player strategy game.  The board consists of five columns, within each of which a &amp;quot;man&amp;quot; moves back and forth.  The men are moved by both players.  At the ends of each column are the players' goals (one end belongs to one player, the other end to his opponent).  Each player tries to reach his goals by exact count, scoring a point every time this is achieved.  First player to reach 15 points wins.&lt;br/&gt;   The spaces within the columns are numbered in seemingly random fashion, except for the centre row, which is all numbered 4.  The game starts with all men in the centre.  One player calls out a number from 1 to 5.  His opponent then moves a man that number of spaces in either direction (no back-and-forthing allowed).  The number on the space onto which the man lands gives the move for the next man --and this mechanism applies throughout the game, so the only random element is the initial call of 1 to 5.&lt;br/&gt;   Each player moves three different men, then his opponent does the same (the first man he moves cannot be the last one you moved), and so on.  Every time a man reaches a goal (by exact count), a point is scored and the man teleports back to the centre.  To complicate matters slightly, there are two &amp;quot;safe spaces&amp;quot; in each column, those on one side of the centre belonging to one player, those on the other to his opponent.  A player may not move more than two men onto safe spaces at once.  You cannot move a man from your opponent's safe spaces, so this is used to constrain the opponent's possible moves.&lt;br/&gt;   A software version of this would be very interesting, particularly if the board could be randomised...&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CPj5EFv-hpr8BFIrWyGFZIQXiOY=/fit-in/200x150/pic6030.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aokBn03cgddUC6kyh4ZEVObRdn4=/0x0/pic6030.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="116762">First edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>4.83333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.34371</stddev>
+					<median>0</median>
+					<owned>28</owned>
+					<trading>5</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>8</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

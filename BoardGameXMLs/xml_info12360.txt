@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12360">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Kanto</name>
+									
+			<description>You have a board of 5*8 and each player has 20 pieces numbered from 1 to 19 (20= kanto) and are placed randomly and upside down on the board. &lt;br/&gt;In your turn you can turn a piece (so that you see what number is on it) and take a lower numbered piece. The 'kanto' wins from every piece except the number one piece. The 15 wins from the 14 but loses from the 16 and so on. The pieces that are already won, are placed upside down next to the board. So you have to remember which pieces are out of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ISd3gH1tgODUzwnXcUOM_ujGiMU=/fit-in/200x150/pic52617.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_TJ2FSeiaeuSjTZEerScyaJ_e58=/0x0/pic52617.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameversion objectid="146847">French edition</boardgameversion>
+																						<boardgamepublisher objectid="8931">MB Jeux</boardgamepublisher>
+															<boardgamepublisher objectid="4554">MB Spellen</boardgamepublisher>
+															<boardgameversion objectid="97505">MB spellen Dutch Edition 1975</boardgameversion>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgameversion objectid="269803">MB Spiele German edition</boardgameversion>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="96780">Milton Bradley Edition 1975</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>5.525</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.83179</stddev>
+					<median>0</median>
+					<owned>28</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>4</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

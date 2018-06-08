@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="644">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Shipwrecked</name>
+									
+			<description>You are Shipwrecked... to survive, you must compete head-to-head in a bid for food, shelter, water, and friends. These entertaining contests require strategy, intuition, and nerve to determine who survives and who doesn't.&lt;br/&gt;   &lt;br/&gt;This is an auction bidding game. Each round, the lead off player flips over a card from the deck which will then be auctioned off. There are also Hidden Resource cards in the deck. When one comes up, players bid for the next card in the deck without knowing what it is!  Each player has 6 bid markers: 3 Pass, 2 Stop, and 1 Strike. Each round of each auction, a player must place one of these markers face down. The first round, the markers are placed in the '5 position'. This means if the auction is stopped at this position, the winner pays 5 for the item. If no one stops the auction, players place a marker in the '4 position'. Once again, if the auction is stopped, the winner pays 4 for the item. These rounds continue until the auction is stopped, or until the auction moved to the last '0 position'. Once the auction for that item is complete, the deck passes to the next player. Each time the deck comes to a player, he collects income as listed on each item card he owns. He may then choose to place an item sold back to the bank up for auction, or draw one from the deck to be auctioned. One thing that makes Shipwrecked stand out from other auction games is that you can't 'not bid'. You must participate in the auction, even if you really don't want the item.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aep7klqdEv5dJiYckISwZogKNfM=/fit-in/200x150/pic207291.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/V1JZXObdzya3ZAWQUJbnB4SF5VI=/0x0/pic207291.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="34722">First edition</boardgameversion>
+															<boardgamedesigner objectid="7034">Matthew Kirby</boardgamedesigner>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+															<boardgamedesigner objectid="294">Mark Alan Osterhaus</boardgamedesigner>
+															<boardgamepublisher objectid="48">Out of the Box Publishing</boardgamepublisher>
+																						<boardgameversion objectid="40450">Second edition</boardgameversion>
+															<boardgameimplementation objectid="232635">Shipwrecked</boardgameimplementation>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>413</usersrated>
+					<average>5.68736</average>
+					<bayesaverage>5.55532</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8017" bayesaverage="5.55532" />
+												
+											</ranks>
+					
+					<stddev>1.39628</stddev>
+					<median>0</median>
+					<owned>727</owned>
+					<trading>103</trading>
+					<wanting>9</wanting>
+					<wishing>35</wishing>
+					<numcomments>169</numcomments>
+					<numweights>47</numweights>
+					<averageweight>1.4681</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

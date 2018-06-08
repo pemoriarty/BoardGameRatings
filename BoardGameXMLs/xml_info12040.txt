@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12040">
+			<yearpublished>1992</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Omega Chess</name>
+									
+			<description>Omega Chess is a variant of Chess, played on an expanded board with two new types of pieces.&lt;br/&gt;It mostly follows the rules of traditional chess.&lt;br/&gt;&lt;br/&gt;The whole chessboard has 10x10+4 squares: it consists of one large expanded 10x10 square with ten rows and ten columns of squares, as well as four additional squares which are located diagonally to each corner.&lt;br/&gt;&lt;br/&gt;Those outmost corners are the opening position for the Wizards, one new kind of piece in Omega Chess. The other new kind of piece are the Champions, which are located in the corners of the 10x10 square, with a Pawn in front of them (there are ten in total) and a Tower to their side. The remaining pieces - that are also found on a traditional 8x8 square - are between the Champions and their Pawn, arranged as usual.&lt;br/&gt;&lt;br/&gt;Similarly to the Knight, the new pieces are classified as leapers, which allows them to jump over pieces. A Champion can jump two squares in all eight directions. The Wizard can either jump three squares straight and then one square to either side, or move one square diagonally. Except for Pawns, standard pieces move as usual. Pawns are also allowed to move three squares from their initial position. As with moving two squares at once, they can be captured en passant when doing so.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XmcLKmMuBwZOd3jgBjFSv0D5tnA=/fit-in/200x150/pic48469.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DUtjGPj18QDig_6X-pUTFXcG61s=/0x0/pic48469.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="74361">Michael Escobar</boardgamedesigner>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="9252">Daniel Macdonald</boardgamedesigner>
+																																				<boardgamepublisher objectid="2660">Somac Inc.</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>43</usersrated>
+					<average>7.53488</average>
+					<bayesaverage>5.56025</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7745" bayesaverage="5.56025" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="352" bayesaverage="5.81073" />
+												
+											</ranks>
+					
+					<stddev>1.33989</stddev>
+					<median>0</median>
+					<owned>66</owned>
+					<trading>0</trading>
+					<wanting>9</wanting>
+					<wishing>28</wishing>
+					<numcomments>24</numcomments>
+					<numweights>8</numweights>
+					<averageweight>3.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

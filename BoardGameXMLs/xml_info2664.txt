@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2664">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Push Over</name>
+							<name  sortindex="1">Pushover</name>
+									
+			<description>The players race around a circular track to accumulate points.  The player pieces are mounted piggyback on neutral &amp;quot;carriers&amp;quot;.  On your turn, you roll up to three dice (1, 1, 2, 2, 3, 3), aiming for 4 or less --one die at a time.  If you get 4 or less on two dice, you move twice the amount, if you get it on three, you move thrice.  If you total more than 4, you're busted and your piece goes off board, plus a chip is added to the pot (initially seeded with 1 chip).  As pieces move, they push those in front of them on the track.  There are two exit tracks where you get to push pieces over the side.  Whenever this happens, you also add a chip to the pot.  You can get back on track only if there is a carrier piece available.&lt;br/&gt;&lt;br/&gt;As you pass the pot, you grab the chips there (and seed it again with a chip).  First player to 10 chips wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZnXj7jNDmUcCQPwA_2hWjbF2BHo=/fit-in/200x150/pic259931.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xdKnWosXmKqG16v8A_KNcA1QrXs=/0x0/pic259931.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="108269">First edition</boardgameversion>
+																						<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamedesigner objectid="24">Alex Randolph</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>30</usersrated>
+					<average>4.85</average>
+					<bayesaverage>5.48237</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13742" bayesaverage="5.48237" />
+												
+											</ranks>
+					
+					<stddev>1.2984</stddev>
+					<median>0</median>
+					<owned>70</owned>
+					<trading>8</trading>
+					<wanting>1</wanting>
+					<wishing>9</wishing>
+					<numcomments>19</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

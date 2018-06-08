@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3719">
+			<yearpublished>1978</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">British Square</name>
+									
+			<description>The object of British Square is to place the greatest number of your pieces on the 5x5 board. On your turn you may place your piece anywhere on the board except orthogonally next to any of your opponents pieces. (Diagonally adjacent is acceptable) Play continues until both players are unable to place pieces. Winner is the player with the most pieces on the board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4jBcgBL43BNtG3RZmr29dTDuO20=/fit-in/200x150/pic9466.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ks7df2yc4yEA3Kh4Lkbl7O4JjO4=/0x0/pic9466.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamefamily objectid="39749">5x5 grid</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="91858">First edition</boardgameversion>
+															<boardgamepublisher objectid="354">Gabriel</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>41</usersrated>
+					<average>4.64634</average>
+					<bayesaverage>5.46909</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14282" bayesaverage="5.46909" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="846" bayesaverage="5.34424" />
+												
+											</ranks>
+					
+					<stddev>1.63141</stddev>
+					<median>0</median>
+					<owned>84</owned>
+					<trading>10</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>22</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2283">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Flip</name>
+									
+			<description>Flip is a strategic change-making game for two players using ten six-sided dice.  Each turn, a player may either flip or play.  If they choose to flip, they simply turn one of their dice over (making a one into a six, a two into a five, etc.).  If they choose to play, they force their opponent to put one die of their choice into the pot, taking back other dice totalling less than the value of the die played.  The last player holding dice wins.&lt;br/&gt;&lt;br/&gt;Flip was invented as a dice-based variant of Pennywise.  It was published in two very small-run magazines and inlcuded in Chief Herman's Holiday Fun Pack.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/eta4lmOWb8v-SXKy5QtQg6VDJFw=/fit-in/200x150/pic2386797.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YJxPBRFBRFe54RYI0w_rqpEAPDA=/0x0/pic2386797.jpg</image>
+						
+												<boardgameversion objectid="32189">Blue card edition</boardgameversion>
+															<boardgamepublisher objectid="12">Cheapass Games</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamedesigner objectid="61">James Ernest</boardgamedesigner>
+																						<boardgameversion objectid="256798">Playing Card edition</boardgameversion>
+															<boardgameversion objectid="32190">Print and Play edition</boardgameversion>
+															<boardgameimplementation objectid="2284" inbound="true">Fight!</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>36</usersrated>
+					<average>4.865</average>
+					<bayesaverage>5.4758</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14052" bayesaverage="5.4758" />
+												
+											</ranks>
+					
+					<stddev>1.68674</stddev>
+					<median>0</median>
+					<owned>151</owned>
+					<trading>4</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>30</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

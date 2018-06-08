@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10989">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">ConHex</name>
+									
+			<description>Conhex is a 2-player abstract game in which the winner is the first player to connect his or her assigned sides of a square board (thus the goal is similar to the goal in Twixt.)  The board is a pattern of non-regular hexagons with a few non-hexagonal polygons.  Players alternate turns placing pieces of their own color on a vertex, and a player can claim a space after placing pieces on at least half the vertices of that space.  A description can be found at &lt;a target='_blank' href=&quot;http://www.gamerz.net&quot; rel=&quot;nofollow&quot;&gt;www.gamerz.net&lt;/a&gt; and the game can be played face-to-face or over the internet.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VYSZ8K6uQ_uyhQbkT80JcXsDZ2w=/fit-in/200x150/pic1017539.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZEEJ0XdZHN3FdNahzrFS32W8MPI=/0x0/pic1017539.jpg</image>
+						
+												<boardgamehonor objectid="12966">2007 International Gamers Award - General Strategy: Two-players</boardgamehonor>
+															<boardgamepublisher objectid="4244">3-Hirn-Verlag</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="3573">Michail Antonow</boardgamedesigner>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamepublisher objectid="2407">Clemens Gerhards</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+																						<boardgameversion objectid="53637">German first edition</boardgameversion>
+																																																									<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="162030">nestorgames edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>267</usersrated>
+					<average>6.87393</average>
+					<bayesaverage>5.76</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3448" bayesaverage="5.76" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="104" bayesaverage="6.36293" />
+												
+											</ranks>
+					
+					<stddev>1.66838</stddev>
+					<median>0</median>
+					<owned>166</owned>
+					<trading>4</trading>
+					<wanting>29</wanting>
+					<wishing>94</wishing>
+					<numcomments>98</numcomments>
+					<numweights>28</numweights>
+					<averageweight>2.3571</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

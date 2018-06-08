@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3935">
+			<yearpublished>1978</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Art of Siege</name>
+									
+			<description>From the publisher:&lt;br/&gt;&lt;br/&gt;Four great siege battles:&lt;br/&gt;&lt;br/&gt;    Acre - Richard the Lionhearted's arrival signals the end of the two year defense by Saracens in the Third Crusade. &lt;br/&gt;    Tyre - Alexander the Great undertakes the first large-scale amphibious assault in history. &lt;br/&gt;    Lille - the greatest star fortress in France is taken by the Anglo-Dutch-German Confederation. &lt;br/&gt;    Sevastopol - Ingenious Russian fortifications in the Crimean War require one year of continuous bombardment before the city is taken. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Each battle in The Art of Siege is simulated on its own comprehensively illustrated map portraying the actual siege areas and fortifications. Colorful cardboard playing pieces move, position, and engage according to the nuances of each game's system of movement. Simple probability charts reveal each combat's outcome.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Strategy &amp;amp; Tactics magazine game The Siege of Constantinople is considered by some to be the &amp;quot;fifth quad&amp;quot; game of this set.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VkbHbIoQpbo_mdSbOz1cAK21EFU=/fit-in/200x150/pic509847.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/R_v3lXrnjZ1VX5e20-jzNq2HG6A=/0x0/pic509847.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamefamily objectid="10640">Country: Greece</boardgamefamily>
+															<boardgameversion objectid="106961">First edition</boardgameversion>
+															<boardgamedesigner objectid="152">Mark Herman</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="4800">Philip S. Kosnett</boardgamedesigner>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamedesigner objectid="1136">Rob Mosca</boardgamedesigner>
+															<boardgameartist objectid="1030">Redmond A. Simonsen</boardgameartist>
+															<boardgamepublisher objectid="120">SPI (Simulations Publications, Inc.)</boardgamepublisher>
+															<boardgamefamily objectid="17838">SPI Quads</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamedesigner objectid="1579">David Werden</boardgamedesigner>
+															<boardgamecompilation objectid="12230" inbound="true">Acre</boardgamecompilation>
+															<boardgamecompilation objectid="12218" inbound="true">Lille</boardgamecompilation>
+															<boardgamecompilation objectid="11846" inbound="true">Sevastopol</boardgamecompilation>
+															<boardgamecompilation objectid="12219" inbound="true">Tyre</boardgamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>81</usersrated>
+					<average>6.73827</average>
+					<bayesaverage>5.58055</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58055" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.94258" />
+												
+											</ranks>
+					
+					<stddev>1.68908</stddev>
+					<median>0</median>
+					<owned>308</owned>
+					<trading>15</trading>
+					<wanting>45</wanting>
+					<wishing>64</wishing>
+					<numcomments>58</numcomments>
+					<numweights>11</numweights>
+					<averageweight>3.2727</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

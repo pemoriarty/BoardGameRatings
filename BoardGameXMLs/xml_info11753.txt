@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11753">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Nim</name>
+									
+			<description>Generally, the game of Nim is a two-player game of perfect information in which there are some number of rows or &amp;quot;heaps&amp;quot; of objects, and a legal move consists of removing any number of objects from a single heap. (For a non-trivial game, we should start with at least three heaps.) In &amp;quot;standard play&amp;quot;, the player who cannot make a move on his turn (because no objects remain) is the loser. A very general and far-reaching theory of such games is developed in Berlekamp, Conway, and Guy's Winning Ways for Your Mathematical Plays.&lt;br/&gt;&lt;br/&gt;In the commercial version pictured, the players take turns removing 1, 2, 3, or 4 pegs together in a row. It would appear from the picture that &amp;quot;rows&amp;quot; can run in any direction, which means that the &amp;quot;heaps&amp;quot; intersect. This is not what most people know as Nim. Also, according to the original description, in this version the loser is the player who has to remove the last peg. This is so-called &amp;quot;misere play&amp;quot;, rather than the standard winning condition. Many combinatorial games allow mis&amp;egrave;re play as a variation.&lt;br/&gt;&lt;br/&gt;Nim is solved, which means that from any initial configuration, one can readily determine whether the next player or the previous player has a winning strategy, and identify a good next move in the former case. For Nim, this can be determined surprisingly readily no matter the size of the heaps, but you're not going to get the secret from me.&lt;br/&gt;&lt;br/&gt;As most who would be interested in Nim know the solution, there isn't much of a game here. But Nim plays a central role in the theory of combinatorial games, as any two-player finite impartial game is in some sense Nim in disguise: any position in such a game corresponds to a unique Nim-heap, and one can play the disguised game perfectly by making the moves that correspond to winning moves in Nim. Sprouts is one example. This however does not mean that Sprouts itself is solved, as the &amp;quot;disguise&amp;quot; is only partially revealed.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/HH3RxbSGhMsEJNifp1l0fREgQFk=/fit-in/200x150/pic47616.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nEKn786iN-kHLtyZKopwHGBDfj4=/0x0/pic47616.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<videogamebg objectid="135756">Android Nim</videogamebg>
+															<boardgamepublisher objectid="2594">Bartl</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgamecompilation objectid="18096">Winning Ways for Your Mathematical Plays</boardgamecompilation>
+															<boardgamepublisher objectid="23226">XVIe</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>52</usersrated>
+					<average>3.93462</average>
+					<bayesaverage>5.42733</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15035" bayesaverage="5.42733" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="899" bayesaverage="5.06841" />
+												
+											</ranks>
+					
+					<stddev>1.75323</stddev>
+					<median>0</median>
+					<owned>28</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>21</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1.5714</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

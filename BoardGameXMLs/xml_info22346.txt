@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="22346">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Great Play Baseball</name>
+									
+			<description>A baseball simulation game (not using actual players) with a 100-card deck for randomization. Defensive player positions players on the field and declares pitch to throw; offensive player turns over top card on deck; players match the batters hitting ability (lefty-righty; .100, .200, or .300 hitter) with pitch. Can be strike, ball, or ball hit into play to a particular square on the gameboard. The amount of squares closest to a positioned fielder and the type of hit determine the result of that batted ball, according to a Results Chart. Result changes on the back of the next card can change the first result (and provide unusual results). Pitch choices include fast, curve, knuckle, screw, off speed, splitter, and slider. Players can decide how many of each type of hitter they want, and can designate a starter, 3 relievers, and a closer to have certain pitcher advantages.&lt;br/&gt;&lt;br/&gt;Players can also elect to steal, try a pickoff, hit-and-run, or take an extra base on a hit. Certain pitchers can have a ball-strike advantage, and in two-strike situations, batters can try to outguess the pitcher by taking a pitch. Using a wind direction factor also is optional. When all 100 cards are played, players reshuffle the deck and start over.&lt;br/&gt;&lt;br/&gt;Game comes with 4-color game board, 100 result cards, Results Chart, Guidelines, one Hit Ball marker, four pitch-count markers, 14 wooden player pieces for each team including 5 pieces with colored tops representing pinch-hitters, and scoresheets.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/c6r8Ner-GeXua0WamJuy_jVIGuo=/fit-in/200x150/pic135090.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RcShV1m_BcxY5I-RFu9Lgygvetw=/0x0/pic135090.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamedesigner objectid="6737">Dave Clasky</boardgamedesigner>
+															<boardgamedesigner objectid="6738">Ron Clasky</boardgamedesigner>
+															<boardgamepublisher objectid="5188">Clasky, Inc.</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>6.85714</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.27375</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>3</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2179">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Musketeers</name>
+							<name  sortindex="1">Musketiere</name>
+									
+			<description>From the rules overview: &amp;quot;In the Queen&amp;rsquo;s service, the Musketeers are trying to acquire three valuable gems. However, the Cardinal and his dreaded Guards are out to sabotage the Musketeers&amp;rsquo; mission. Many skirmishes between the Musketeers and the Guards ensue. The most successful Musketeers will be awarded gems. Those who fail will be sent to prison and will remain empty handed.&amp;quot;&lt;br/&gt;&lt;br/&gt;Setup: remove some specific cards depending on the number of players. Shuffle and place all Guard cards in the center, along with the Gem and Prison cards. Shuffle the Musketeer cards and deal 12 each.&lt;br/&gt;&lt;br/&gt;Play: players select 3 cards to place face down; these are their potential rewards (Pay cards) this fight. Reveal the top Guard. Players simultaneously select a card, then reveal. If the sum is lower than the Guard strength, the player playing the lowest card places a Prison card on one of his Pay cards. Otherwise, the player with the highest card either places a Gem card on one of his Pay cards, or returns one of his Prison cards to the center. If center area doesn't have a card you need, take it from another player. If all you have 3 Prison cards, your played card doesn't add to the other players' cards.&lt;br/&gt;&lt;br/&gt;The round ends after 9 fights. Players earn silver for their Pay cards, doubled if a Gem is on top and reduced to 0 if a Prison is on top. The player with the most coins wins. Alternatively, keep playing rounds till someone gets 100 or more points, and the player with the most points wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/S1ate8wjXTlFZZLPJYkClig8jTI=/fit-in/200x150/pic1090191.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SGYK-ZkvEwqqqYGZVYXz1eW0W-s=/0x0/pic1090191.jpg</image>
+						
+												<boardgamehonor objectid="8951">1991 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamepublisher objectid="597">Eagle-Gryphon Games</boardgamepublisher>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																																																							<boardgameversion objectid="63248">German tin box edition</boardgameversion>
+															<boardgameversion objectid="253267">Gryphon Games English Set-up edition</boardgameversion>
+															<boardgameversion objectid="34463">Gryphon Games English Tin Box edition</boardgameversion>
+															<boardgamefamily objectid="8179">Gryphon Tin Box Games series</boardgamefamily>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+															<boardgameversion objectid="63249">Hexagames German/English first edition</boardgameversion>
+															<boardgamedesigner objectid="261">Franz Josef Lamminger</boardgamedesigner>
+															<boardgameartist objectid="12484">Dennis Lohausen</boardgameartist>
+																													<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>382</usersrated>
+					<average>6.05026</average>
+					<bayesaverage>5.6409</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4983" bayesaverage="5.6409" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1140" bayesaverage="5.68781" />
+												
+											</ranks>
+					
+					<stddev>1.22176</stddev>
+					<median>0</median>
+					<owned>940</owned>
+					<trading>80</trading>
+					<wanting>12</wanting>
+					<wishing>56</wishing>
+					<numcomments>137</numcomments>
+					<numweights>27</numweights>
+					<averageweight>1.1111</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

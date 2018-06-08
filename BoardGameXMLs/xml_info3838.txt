@@ -1,0 +1,143 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3838">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Firestorm</name>
+									
+			<description>A collectible card game (CCG) of galactic conquest and exploration.  Players can win by capturing all other Home worlds or by achieving a Tech Level of 30 or more.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ui2UkYZmDvpT_hT5udSBTQbzOfM=/fit-in/200x150/pic3041264.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dlsp7Vwt6dBYyCJnLcMOlTQLAvs=/0x0/pic3041264.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamedesigner objectid="1549">Frank Bustamante</boardgamedesigner>
+															<boardgameartist objectid="13307">Dennis Calero</boardgameartist>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgameartist objectid="17153">Daerick Gross</boardgameartist>
+															<boardgameartist objectid="3786">Mike Hernandez</boardgameartist>
+															<boardgameartist objectid="31671">Aaron Hill</boardgameartist>
+															<boardgamedesigner objectid="2311">Michael Nickoloff</boardgamedesigner>
+															<boardgameartist objectid="14106">Jim Pavelec</boardgameartist>
+															<boardgameartist objectid="1548">Ben Peck</boardgameartist>
+															<boardgameartist objectid="17771">Mark Pennington</boardgameartist>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameartist objectid="15402">Stephen Snyder</boardgameartist>
+															<boardgamepublisher objectid="884">Third World Games</boardgamepublisher>
+															<boardgameartist objectid="26840">Luis Vasquez</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>55</usersrated>
+					<average>6.35782</average>
+					<bayesaverage>5.54273</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8886" bayesaverage="5.54273" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="132" bayesaverage="5.87773" />
+												
+											</ranks>
+					
+					<stddev>2.03369</stddev>
+					<median>0</median>
+					<owned>222</owned>
+					<trading>40</trading>
+					<wanting>14</wanting>
+					<wishing>24</wishing>
+					<numcomments>40</numcomments>
+					<numweights>12</numweights>
+					<averageweight>3.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

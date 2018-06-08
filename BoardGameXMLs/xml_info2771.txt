@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2771">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Maginor</name>
+									
+			<description>This is a re-working of Reiner Knizia's Vegas. Maginor adds some cards, spells, and a different &amp;quot;dueling&amp;quot; mechanic.&lt;br/&gt;&lt;br/&gt;The theme is that players are trying to gain votes from various oracles. Maginor visits each one in turn. The player with the most influence counters at an oracle can take either the points for the oracle or the spell card there. The player with the second most influence gets whichever the first player didn't take. Spells have one-time effects that alter different aspects of the game.&lt;br/&gt;&lt;br/&gt;Influence is gained at the oracles both by playing cards and rolling a die. This gives a mix of random chance and control over the game.  If a player tries to get influence in a position occupied by another player's influence counter, they must duel. This is a RPS mechanic with a twist. If both players choose an &amp;quot;earthbeast&amp;quot; in the duel, the defender wins.&lt;br/&gt;&lt;br/&gt;When all oracles are scored, the player with the most total votes wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/82W_KUlcmVhPSY9P5wW2s2Pgv2k=/fit-in/200x150/pic149819.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3zYfIdpPrSB59JjX0wEDPxbP9Ig=/0x0/pic149819.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamepublisher objectid="17">Fantasy Flight Games</boardgamepublisher>
+															<boardgameversion objectid="74123">First edition</boardgameversion>
+																						<boardgameartist objectid="13302">Scott James</boardgameartist>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+																						<boardgameartist objectid="11989">Brian Schomburg</boardgameartist>
+															<boardgameimplementation objectid="1255" inbound="true">Vegas</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>326</usersrated>
+					<average>5.49141</average>
+					<bayesaverage>5.49546</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12969" bayesaverage="5.49546" />
+												
+											</ranks>
+					
+					<stddev>1.33717</stddev>
+					<median>0</median>
+					<owned>761</owned>
+					<trading>73</trading>
+					<wanting>4</wanting>
+					<wishing>22</wishing>
+					<numcomments>150</numcomments>
+					<numweights>39</numweights>
+					<averageweight>1.8718</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="870">
+			<yearpublished>2000</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Empires of the Ancient World</name>
+									
+			<description>Going back to the age of Alexander the Great and Julius Caesar, you control the destiny of your empire--building armies, annexing neutral provinces, trading across the Mediterranean, and fighting battles. The heart of the game is its innovative card combat system. The full-color cards allow the use of pikes, swords, war bands, elephants, heavy cavalry, foot skirmishers, light horse, siege towers, artillery, and galleys. Special cards allow you to develop better military leaders, diplomats, traders, and engineers. However, winning the game is not just about having the largest empire. The player with the largest army will also lose the most victory points, so he had better use his forces well. If warfare is not to your taste then you can trade your way to victory, by having the largest trading empire.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LE2gDabrpNlIJjo8KdUJr3Uq7Jw=/fit-in/200x150/pic176812.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nu7Aqy74V8D4pDXHXngGLnZjp20=/0x0/pic176812.jpg</image>
+						
+																			<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamefamily objectid="5606">Ancient Rome</boardgamefamily>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+																						<boardgamefamily objectid="10640">Country: Greece</boardgamefamily>
+															<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+																													<boardgameversion objectid="21357">First edition</boardgameversion>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+															<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
+															<boardgamepublisher objectid="7">Warfrog Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>515</usersrated>
+					<average>6.6174</average>
+					<bayesaverage>5.84026</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2867" bayesaverage="5.84026" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1130" bayesaverage="5.92614" />
+												
+											</ranks>
+					
+					<stddev>1.36368</stddev>
+					<median>0</median>
+					<owned>822</owned>
+					<trading>33</trading>
+					<wanting>75</wanting>
+					<wishing>130</wishing>
+					<numcomments>239</numcomments>
+					<numweights>83</numweights>
+					<averageweight>2.9759</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24697">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">HexDame</name>
+									
+			<description>HexDame translates International Draughts onto a hexagonal grid (or, alternatively, onto the vertices' of a triangular grid). Pieces move either straight ahead or in either forward-oblique direction.&lt;br/&gt;&lt;br/&gt;Board of HexDame&lt;br/&gt;&lt;br/&gt;          .&lt;br/&gt;        .   .&lt;br/&gt;      .   .   .&lt;br/&gt;    .   .   .   .&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 9  .   .   .   .  i&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 8  .   .   .   .  h&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 7  .   .   .   .  g&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 6  .   .   .   .  f&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 5  .   .   .   .  e&lt;br/&gt;   4  .   .   .  d&lt;br/&gt;     3  .   .  c&lt;br/&gt;       2  .  b&lt;br/&gt;         1 a&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Initial setting with sixteen red men (r) and sixteen white men (w)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;          r&lt;br/&gt;        r   r&lt;br/&gt;      r   r   r&lt;br/&gt;    r   r   r   r&lt;br/&gt;  .   r   r   r   .&lt;br/&gt; 9  .   r   r   .  i&lt;br/&gt;  .   .   r   .   .&lt;br/&gt; 8  .   .   .   .  h&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 7  .   .   .   .  g&lt;br/&gt;  .   .   w   .   .&lt;br/&gt; 6  .   w   w   .  f&lt;br/&gt;  .   w   w   w   .&lt;br/&gt; 5  w   w   w   w  e&lt;br/&gt;   4  w   w   w  d&lt;br/&gt;     3  w   w  c&lt;br/&gt;       2  w  b&lt;br/&gt;         1 a&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Game play alternates between player white and player red.&lt;br/&gt;     Player white begins.&lt;br/&gt;     Players are not allowed to skip a turn.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Objective&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A player wins by capturing all opponent's pieces or if the opponent can not perform a legal move on his turn.&lt;br/&gt;     On agreement or if the same game situation repeats three times the game is draw.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Moving&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Men move forward only. Thus following the algebraic notation of the diagram&lt;br/&gt;         red men move either&lt;br/&gt;             in direction of smaller numbers or&lt;br/&gt;             preceeding letters (alphabetical order) or&lt;br/&gt;             both at once, while&lt;br/&gt;        &lt;br/&gt;         white men move either&lt;br/&gt;             in direction of higher numbers or&lt;br/&gt;             suceeding letters or&lt;br/&gt;             both at once.&lt;br/&gt;        &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Sample moves: Red man can move to positions indicated by '#', while white man can move to '+'&lt;br/&gt;&lt;br/&gt;          .&lt;br/&gt;        .   .&lt;br/&gt;      .   .   .&lt;br/&gt;    .   .   .   .&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 9  .   .   .   .  i&lt;br/&gt;  .   r   .   .   .&lt;br/&gt; 8  #   #   .   .  h&lt;br/&gt;  .   #   .   .   .&lt;br/&gt; 7  .   .   +   .  g&lt;br/&gt;  .   .   +   +   .&lt;br/&gt; 6  .   .   w   .  f&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 5  .   .   .   .  e&lt;br/&gt;   4  .   .   .  d&lt;br/&gt;     3  .   .  c&lt;br/&gt;       2  .  b&lt;br/&gt;         1 a&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Promotion to King&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     On reaching the rows at the opposite edge of the board at conclusion of a move it promotes to king. This is indicated by stacking a second checker of same color on top.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Red men get promoted when reaching any of the nine positions indicated '#' at conclusion of red's move.&lt;br/&gt;White men get promoted when reaching any of the nine positions indicated '+' at conclusion of white's move.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;          +&lt;br/&gt;        +   +&lt;br/&gt;      +   .   +&lt;br/&gt;    +   .   .   +&lt;br/&gt;  +   .   .   .   +&lt;br/&gt; 9  .   .   .   .  i&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 8  .   .   .   .  h&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 7  .   .   .   .  g&lt;br/&gt;  .   .   .   .   .&lt;br/&gt; 6  .   .   .   .  f&lt;br/&gt;  #   .   .   .   #&lt;br/&gt; 5  #   .   .   #  e&lt;br/&gt;   4  #   .   #  d&lt;br/&gt;     3  #   #  c&lt;br/&gt;       2  #  b&lt;br/&gt;         1 a&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Thus&lt;br/&gt;         the last rows at the edge of the board for white consists of fields from e9 to i9 followed by i9 to i5, while&lt;br/&gt;         the last rows at the edge of the board for red consists of fields from a5 to a1 followed by a1 to e1.&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Capturing&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Men can capture an adjacent opponent's piece (man or king) by jumping over it following a straight line onto the empty field directly behind the opponent's piece.&lt;br/&gt;     Capturing is compulsory, including making chained jumps if available. Thus men's turn may consist in chained jumps. &lt;br/&gt;     If more than one capture move is available in a player's turn then it is obligatory to select the capturing move resulting in capturing the maximum amount of the opponent's pieces (men or kings).&lt;br/&gt;     If optional chained capturing might capture same amount, the player may choose.&lt;br/&gt;     Men are non flying. Thus they can only capture an opponent's piece adjacent to their own position. &lt;br/&gt;     Kings are flying. They may move over any amount of empty fields or capture a piece in any amount of empty fields' distance away as long as the adjacent field behind the captured piece is empty. Anyway if a king captures, it may land on any empty field immediately behind or following empty fields in straight line of the captured piece unless it is required to stop on a specific field in order to continue jumping according to the rule of capturing maximum amount of opponent's pieces.&lt;br/&gt;     Any capture move may be performed by men or kings in any direction - forwards or backwards.&lt;br/&gt;     Each jump is performed in a straight line over any single opponent's piece. The adjacent field behind the pieces captured must be free.&lt;br/&gt;     A possible chained jump can consist of single jumps having a combination of same or even different directions.&lt;br/&gt;     In a chained capture move opponent's pieces are removed only after capturing is complete.&lt;br/&gt;     During a chained capture a piece may not be jumped more than once. But it is allowed to revisit or jump over any empty field multiple times then.&lt;br/&gt;     There is no breezing as a penalty for captures that are not performed.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uKfp0mernNR7pWzqiHBSWrF1P-M=/fit-in/200x150/pic168375.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TRWoJdM8O20eFaJezlPDIlYJYM8=/0x0/pic168375.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="1126">Christian Freeling</boardgamedesigner>
+																						<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="28228">Print and Play edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>6.24444</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.5777</stddev>
+					<median>0</median>
+					<owned>13</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>7</wishing>
+					<numcomments>8</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

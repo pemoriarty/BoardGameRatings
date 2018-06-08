@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2444">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Carrier Strike!</name>
+									
+			<description>This game pits two aircraft carrier task forces against each other; each player has two carriers loaded with 6 torpedoes and 4 aircraft.  Pilots are represented by ratings which are embarked on the aircraft when launched.  The carriers move with a special die which gives each carrier a 50-50 chance of either moving forward one or turning 60 degrees.  The aircraft move with a normal d6.  If they manage to manoeuvre at torpedo run distance from an enemy carrier (6 hexes), drop their torpedoes.  These move inexorably one space per turn so the only defence is manoeuvring.  If the aircraft get within dogfight distance of each other (4 hexes), they may engage in a dogfight, which uses cards (a better pilot rating gives you extra cards) --it also forces the torpedoes to be dropped, so sacrifice dogfights are a viable tactic.  If you run out of torpedoes, you may kamikaze your aircraft.&lt;br/&gt;&lt;br/&gt;An amusing tactical simulation, very simple and fast-playing, with nice bits to boot.&lt;br/&gt;&lt;br/&gt;Remade in to Mission Command Sea.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tKr5uRQzTgKknthT7Zow8kVOpTQ=/fit-in/200x150/pic772645.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ChIutGHeEOGjGYzJ-n4t2LIciSI=/0x0/pic772645.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="91500">First edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>257</usersrated>
+					<average>5.96988</average>
+					<bayesaverage>5.57184</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7115" bayesaverage="5.57184" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1967" bayesaverage="5.70649" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1375" bayesaverage="5.57397" />
+												
+											</ranks>
+					
+					<stddev>1.31774</stddev>
+					<median>0</median>
+					<owned>495</owned>
+					<trading>42</trading>
+					<wanting>31</wanting>
+					<wishing>77</wishing>
+					<numcomments>160</numcomments>
+					<numweights>33</numweights>
+					<averageweight>1.4545</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

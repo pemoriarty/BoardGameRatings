@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7976">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Fantasy Pub</name>
+									
+			<description>-from the back of the box:&lt;br/&gt;&lt;br/&gt;&amp;quot;Welcome to Fantasy Pub !!&lt;br/&gt;In this special - ill fame - Pub you will direct Hobbits, Dwarves, Warriors and Orcs in a very hot night-party!&lt;br/&gt;Everyone has money to spend and wants to drink really good beer! You will move around tables, have a stop at the bar, meet friends and dangerous guys. Drink beers and try to leave before you have wasted all your money, or the bouncer will immediately throw you out of the Pub!&amp;quot;&lt;br/&gt;&lt;br/&gt;The goal of the game is for your Fantasy Characters to move from table to table, drink beer (collecting points for doing so) and leave the Pub before they are either completely drunk or lose all their money!&lt;br/&gt;&lt;br/&gt;The 4 types of characters each have Special Character Skills (except the Warrior), and are ranked in strength. Stronger characters get beers bought for them by weaker ones.&lt;br/&gt;&lt;br/&gt;Hobbit - weakest, but filches coins from the tables.&lt;br/&gt;&lt;br/&gt;Dwarf - The 3rd strongest, can move either direction around the Pub.&lt;br/&gt;&lt;br/&gt;Warrior - No special skill, but almost as strong as the Orc.&lt;br/&gt;&lt;br/&gt;Orc - His skill is a disadvantage. He leaves a coin each time he leaves a table. But he's  &lt;br/&gt;      the strongest, so he always gets beers from the weaker characters. And never has to&lt;br/&gt;      buy them any beers!&lt;br/&gt;&lt;br/&gt;Whichever player collects the most points (beer tokens) wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-KJzQ_tV1UJaBbB0eEN5r7Y7cLA=/fit-in/200x150/pic202313.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AIwYfwS0oHRoGqUNSICev6DWThU=/0x0/pic202313.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameartist objectid="28007">Daniele Basso</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameartist objectid="28228">Olivier Frot</boardgameartist>
+																																																																																																			<boardgamepublisher objectid="1850">Mind the Move</boardgamepublisher>
+															<boardgameversion objectid="37977">Mind the Move version with Barman</boardgameversion>
+															<boardgamedesigner objectid="2762">Emanuele Ornella</boardgamedesigner>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgameversion objectid="21226">Second edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="42">Tilsit</boardgamepublisher>
+															<boardgamefamily objectid="44340">Tilsit Poche</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>368</usersrated>
+					<average>6.13438</average>
+					<bayesaverage>5.64451</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4896" bayesaverage="5.64451" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1482" bayesaverage="5.67442" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1131" bayesaverage="5.69157" />
+												
+											</ranks>
+					
+					<stddev>1.27109</stddev>
+					<median>0</median>
+					<owned>564</owned>
+					<trading>25</trading>
+					<wanting>11</wanting>
+					<wishing>33</wishing>
+					<numcomments>113</numcomments>
+					<numweights>39</numweights>
+					<averageweight>1.6154</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

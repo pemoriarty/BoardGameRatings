@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1018">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Galaxis</name>
+									
+			<description>There are 18 Planet cards, 15 Multiplier cards and 24 Value cards. Players start the game with six Value cards (values one to six) which they use to bid on the other cards. Each turn, three cards are auctioned. Each player can bid a number of face-down Value cards. It is allowed to make two or three seperate bids. After everyone has bid, the bids are turned face-up, and the three highest bidders receive a card, with the highest bidder choosing first. The winner can keep the card, or, if it is a negative one, give it to an opponent.&lt;br/&gt;&lt;br/&gt;The Planets and Multipliers may be placed alone, but they may also be added to a single card that is already in play to create a scoring Multiplier-Planet pair. Planets have a value from -3 to 3, Multipliers are x0, x1 or x2, with a pair scoring the Value of the planet times the value of the Multiplier.&lt;br/&gt;&lt;br/&gt;After the cards have been auctioned off, all bids are passed to the left, so each player gains those Value cards bid by their right-hand opponent.&lt;br/&gt;&lt;br/&gt;The auctions continue until all but three cards have been auctioned. Now, each player's final score is calculated. The pairs are separated by Planet colour (red, green or yellow). For each colour, the player scores a number of points equal to the number of pairs of that colour times the total score of the pairs of that colour. The scores for the separate colours are added. The player with the highest score wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XCyptTWE8QQcWX3haoVR9VFr78I=/fit-in/200x150/pic49682.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Zk5tkvIr_S5x0Wyw-h8y6GTDV40=/0x0/pic49682.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="31320">First edition</boardgameversion>
+																						<boardgamepublisher objectid="503">Glücksritter Spiele</boardgamepublisher>
+															<boardgamedesigner objectid="961">Oliver Igelhaut</boardgamedesigner>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>22</usersrated>
+					<average>5.84091</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.20025</stddev>
+					<median>0</median>
+					<owned>60</owned>
+					<trading>7</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>10</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

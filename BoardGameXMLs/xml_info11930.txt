@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11930">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Omok</name>
+							<name primary="true" sortindex="1">Renju</name>
+									
+			<description>Renju is the adult/tournament version of the Japanese game Go-Moku.  Renju is played on a 15x15 Go board, with Go pieces.&lt;br/&gt;&lt;br/&gt;The goal is the same: to get five stones in a row.  Renju has evolved rules to balance the game however: Go-Moku heavily favors the first player.&lt;br/&gt;&lt;br/&gt;Renju counters this with two important rules:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Setup: one player places two black stones and one white stone on the board.  The other player chooses which side to play.  White places one stone, then Black places two more stones.  White removes one of these last two Black stones, then the game proceeds normally.&lt;br/&gt;     Restrictions: Black may not create a three-three or four-four.  (That is, a move that creates two open-ended threes at once, or two fours at once.)  Black may not create an &amp;quot;overline&amp;quot; - six or more stones in a row.  White is NOT thus restricted, and can win by any of those moves, OR by forcing Black to make such a move to block White.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Renju lacks the depth of Go, but the strategies are far easier to understand, and mere mortals can become quite good at it.&lt;br/&gt;&lt;br/&gt;Similar to:&lt;br/&gt;&lt;br/&gt;    5ive Straight&lt;br/&gt;    Take 5&lt;br/&gt;    5 in a Row&lt;br/&gt;    Go-Moku&lt;br/&gt;    Pente&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RSXRlBGF-oeejcpfmM0z8WwsRTk=/fit-in/200x150/pic48012.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CyG9mi59DaO85nCEq1-FbwaS084=/0x0/pic48012.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>74</usersrated>
+					<average>6.25865</average>
+					<bayesaverage>5.54676</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8606" bayesaverage="5.54676" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="484" bayesaverage="5.68217" />
+												
+											</ranks>
+					
+					<stddev>2.08801</stddev>
+					<median>0</median>
+					<owned>82</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>12</wishing>
+					<numcomments>38</numcomments>
+					<numweights>14</numweights>
+					<averageweight>2.8571</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

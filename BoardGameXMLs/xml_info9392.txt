@@ -1,0 +1,142 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9392">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Finans</name>
+							<name  sortindex="1">Nya Finans</name>
+							<name primary="true" sortindex="1">Uusi Finanssi</name>
+									
+			<description>Uusi Finanssi is a real-estate game, where player starts with low capital and collects sets of properties and invests to industry. Player visits the bank for gathering fortune by buying bonds and shares, building houses, hotels and factories.&lt;br/&gt;&lt;br/&gt;The wealthier player wins, so players can beforehand decide how rich player should become to win, and that affects the gaming time.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4VCrCtMZ3ikUGNBbYJg43pMCgjM=/fit-in/200x150/pic39228.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/M6kA6V5tpH_GUnL64GUS-JYK5gQ=/0x0/pic39228.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="404">Alga</boardgamepublisher>
+															<boardgameversion objectid="271137">Danish edition</boardgameversion>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="141818">Finnish first edition</boardgameversion>
+															<boardgameversion objectid="136688">Finnish second edition</boardgameversion>
+															<boardgameversion objectid="141819">Finnish third edition</boardgameversion>
+															<boardgameartist objectid="33954">Barbro Hennius</boardgameartist>
+															<boardgamepublisher objectid="2120">Oy Fenno-Alga Ab</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamepublisher objectid="498">Sesam</boardgamepublisher>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgameversion objectid="370004">Swedish first blue box alternate edition</boardgameversion>
+															<boardgameversion objectid="244242">Swedish first blue box edition</boardgameversion>
+															<boardgameversion objectid="31764">Swedish maroon box edition</boardgameversion>
+															<boardgameversion objectid="141820">Swedish second blue box edition</boardgameversion>
+															<boardgameimplementation objectid="6614" inbound="true">Finans</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>120</usersrated>
+					<average>4.69792</average>
+					<bayesaverage>5.41899</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15114" bayesaverage="5.41899" />
+												
+											</ranks>
+					
+					<stddev>1.64239</stddev>
+					<median>0</median>
+					<owned>129</owned>
+					<trading>5</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>35</numcomments>
+					<numweights>10</numweights>
+					<averageweight>1.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

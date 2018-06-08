@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="13717">
+			<yearpublished>1978</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Comp IV</name>
+							<name  sortindex="1">Logic 5</name>
+									
+			<description>This is an electronic deduction game similar to &amp;quot;Mastermind&amp;quot;. The comp has a number pad and a readout area with two columns: a number column and a sequence column. To play, the comp selects a random number and the players try to determine what it is. For example, if the comp generated the number 436, and your first guess was 423, the comp's number column would light the 2 (meaning you have 2 numbers correct), and would light the 1 in the sequence column (telling you you have 1 number in the correct sequence). Players get one guess and must then pass the unit to the next player. The first player to enter the correct number wins. The game can generate 3, 4 or 5 digit numbers to increase the difficulty.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ap0sl9G-sKzuwWgUZobTs7-ShJ4=/fit-in/200x150/pic59525.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-ze0ui5AvwFQv4RoSJ7xYNyKpME=/0x0/pic59525.jpg</image>
+						
+												<boardgamepublisher objectid="404">Alga</boardgamepublisher>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamecategory objectid="1072">Electronic</boardgamecategory>
+															<boardgameversion objectid="403428">English first edition</boardgameversion>
+															<boardgameversion objectid="403429">English second edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgamedesigner objectid="6869">Eric Schneider</boardgamedesigner>
+															<boardgameversion objectid="403424">Swedish edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>6.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.73951</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

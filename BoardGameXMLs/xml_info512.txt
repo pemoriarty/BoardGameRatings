@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="512">
+			<yearpublished>1973</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Holiday!</name>
+									
+			<description>In this game, players attempt to guide an airplane around the world as the calendar progresses from day to day.  Players hold a hand of cards, each stating a city and day-of-the-week combination.  Their goal is to have the plane reach their destination as close to their card's day as possible.  (E.g. if I hold &amp;quot;Paris - Tuesday&amp;quot; then I'd like the plane to reach Paris on Tuesday, not on Saturday--it's worth more points that way).&lt;br/&gt;&lt;br/&gt;The method by which the plane moves is based on an auction.  Each round, players bid for the right to choose the plane's next destination (each player starts with a fixed amount of money and cannot earn any money during the game).  Movement is restricted to only adjacent cities.  Sometimes a player will receive a windfall when an opponent pays for the privilege of moving the plane but moves it to a place where it beneficial to both players.  At other times, a player will see the plane start moving away from the area of the world preferred.&lt;br/&gt;&lt;br/&gt;Play continues until all players are out of money or one player has played all of his or her cards.  Most victory points earned (as the cards are played) determines the victor.&lt;br/&gt;&lt;br/&gt;Re-implemented as:&lt;br/&gt;&lt;br/&gt;    Shanghai&lt;br/&gt;    Maloney's Inheritance&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rak2jXgnGQ50hNeyXvOqJPCq5HU=/fit-in/200x150/pic2459592.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zC8TU1afw6wr5-NHXKaQqmHDjeo=/0x0/pic2459592.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+																						<boardgameversion objectid="108088">First edition</boardgameversion>
+																						<boardgameimplementation objectid="1924">Maloney&#039;s Inheritance</boardgameimplementation>
+															<boardgamepublisher objectid="134">Research Games, Inc. / Athol / RGI / ARC</boardgamepublisher>
+															<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgameimplementation objectid="400">Shanghai</boardgameimplementation>
+															<boardgamecategory objectid="1097">Travel</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>38</usersrated>
+					<average>6.66605</average>
+					<bayesaverage>5.53846</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9251" bayesaverage="5.53846" />
+												
+											</ranks>
+					
+					<stddev>1.28266</stddev>
+					<median>0</median>
+					<owned>27</owned>
+					<trading>1</trading>
+					<wanting>14</wanting>
+					<wishing>27</wishing>
+					<numcomments>23</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

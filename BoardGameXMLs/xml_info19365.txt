@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19365">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Naftowa Gorączka</name>
+							<name primary="true" sortindex="1">Oil Rush</name>
+									
+			<description>I spot this game as a published one in about 1980 under the name &amp;quot;Naftowa Gor&amp;amp;#261;czka&amp;quot; (Polish: &amp;quot;Oil Rush&amp;quot;), but then I used to play it using only pencil, paper and 2 six-sided dice.&lt;br/&gt;&lt;br/&gt;Players act as oil companies. The board is 8x8 for 2 players, 9x9 for three ones and 10x10 for four players. Each player has 6 money units at the beginning.&lt;br/&gt;&lt;br/&gt;TURN ORDER:&lt;br/&gt;&lt;br/&gt;1) The active player points at a spot on a map and puts the bid he wishes to pay for it (often it's just 0). The players in clockwise order may overbid each other. When the high bid stands - the winner loses the declared amount of money and becomes the active player since then. (It is possible to take a few turns in a row if one has enough money!)&lt;br/&gt;&lt;br/&gt;2) Dice are rolled to determine if oil is present. A sum of 9 or more is required. But if there is some oil on any of the fields with a common border line with the one the check is performed for, the number is reduced by 1 for each such field. If the oil is present on the fields with common corner with the chosen one, 1 is subtracted from the required number for each 2 such fields. Thus to find oil on a field completely surrounded by other oil fields (very rare situation!) a player needs only to throw 3 or more.&lt;br/&gt;&lt;br/&gt;3) If the oil is not present, the field is marked as an empty one. If it is peresent it is marked as an oil field belonging to the active player, and the active player receives 1 money unit for each point he rolled over the required minimum. Thus if there was 1 fileld nearby, and a sum of 8 was required but 10 was rolled, the active player receives 2 money units. Note that it is possible to find oil and get no instant reward!&lt;br/&gt;&lt;br/&gt;4) The clokwise neighbor of the active player becomes one. Go to 1. :-) Game ends when all the fields are checked.&lt;br/&gt;&lt;br/&gt;5) Each player receives 10 points for each oil field he owns and one point for each money unit he has got at the end of the game. The player with most points wins. (It is possible to end in a draw).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="113357">First edition</boardgameversion>
+															<boardgamefamily objectid="11519">Oil, Gas, and Petroleum</boardgamefamily>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

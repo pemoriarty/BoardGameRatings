@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1875">
+			<yearpublished>1972</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Isola</name>
+							<name primary="true" sortindex="1">Isolation</name>
+							<name  sortindex="1">Stranded</name>
+									
+			<description>In Isolation, the &amp;quot;Don't Get Stranded&amp;quot; game, the board is a 6x8 grid of removable squares. On your turn, you move your pawn one space, then remove a square. The object is isolate the opponent so they cannot move.&lt;br/&gt;&lt;br/&gt;This game is one of a series of 2 player strategy games by Lakeside from the 1970s, also including Overboard, Trespass and Blockade.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/H9q1Q09JetjK-PEwqWmD3JA_lnw=/fit-in/200x150/pic371158.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/84UsTgi5WTQw45erxYwLQqFy05c=/0x0/pic371158.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																																				<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="1192">Hallmark Games</boardgamepublisher>
+															<boardgameversion objectid="57486">Hallmark Games edition</boardgameversion>
+															<boardgamedesigner objectid="4089">Bernd Kienitz</boardgamedesigner>
+															<boardgameartist objectid="4089">Bernd Kienitz</boardgameartist>
+															<boardgamepublisher objectid="152">Lakeside</boardgamepublisher>
+															<boardgamefamily objectid="5880">Lakeside Abstract Series</boardgamefamily>
+															<boardgameversion objectid="51451">Lakeside US edition</boardgameversion>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamepublisher objectid="99">Otto Maier Verlag</boardgamepublisher>
+																						<boardgameversion objectid="70232">Ravensburger edition 1972</boardgameversion>
+															<boardgameversion objectid="223480">Ravensburger Nordic first edition</boardgameversion>
+															<boardgameversion objectid="327387">Ravensburger Nordic second edition</boardgameversion>
+															<boardgameversion objectid="72905">Ravensburger second edition in rectangle box</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="211650">Ravensburger Traveller serie edition</boardgameversion>
+															<boardgamefamily objectid="7336">Ravensburger Traveller Series</boardgamefamily>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>198</usersrated>
+					<average>5.67576</average>
+					<bayesaverage>5.52504</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10408" bayesaverage="5.52504" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="678" bayesaverage="5.53475" />
+												
+											</ranks>
+					
+					<stddev>1.39086</stddev>
+					<median>0</median>
+					<owned>399</owned>
+					<trading>32</trading>
+					<wanting>6</wanting>
+					<wishing>16</wishing>
+					<numcomments>90</numcomments>
+					<numweights>21</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

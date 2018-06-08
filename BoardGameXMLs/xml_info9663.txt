@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9663">
+			<yearpublished>1992</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>600</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>600</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Napoleon on the Danube</name>
+									
+			<description>NES 1st game of Napoleonic Warfare on grand tactical scale. A simulation of the 1809 battle of (Deutsch-) Wagram, which was fought on July 5th-6th, 1809.&lt;br/&gt;&lt;br/&gt;The game is a Napoleon's Last Battles(NLB) scale and rule descendant:&lt;br/&gt;&lt;br/&gt;- scale = 480 m/ hex&lt;br/&gt;- time = 60 min/ Game Turn &lt;br/&gt;- strength = 450-650 men/ Strength Point&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ba3KnnM1m56JtgjJfG03s0-YI38=/fit-in/200x150/pic63442.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dWLF8tOake0pfmTRkMRnpROZdX0=/0x0/pic63442.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgameartist objectid="43187">Jean Baptiste Édouard Detaille</boardgameartist>
+																						<boardgameversion objectid="265013">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="2523">Mark Hinkle</boardgamedesigner>
+															<boardgameartist objectid="2523">Mark Hinkle</boardgameartist>
+															<boardgameexpansion objectid="36756">Last Battles of Napoleon</boardgameexpansion>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+															<boardgamepublisher objectid="1665">New England Simulations</boardgamepublisher>
+															<boardgamefamily objectid="27490">Rivers: Danube</boardgamefamily>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>66</usersrated>
+					<average>7.15455</average>
+					<bayesaverage>5.59228</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6268" bayesaverage="5.59228" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1027" bayesaverage="6.01994" />
+												
+											</ranks>
+					
+					<stddev>1.03051</stddev>
+					<median>0</median>
+					<owned>170</owned>
+					<trading>6</trading>
+					<wanting>11</wanting>
+					<wishing>23</wishing>
+					<numcomments>36</numcomments>
+					<numweights>12</numweights>
+					<averageweight>2.4167</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

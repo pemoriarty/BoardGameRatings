@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7338">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Epaminondas</name>
+									
+			<description>Epaminondas is one of Bob Abbott's masterpieces, sadly poorly known. It's a pure abstract 2 player game, white versus black, the board is somewhat similar to the one in Brain Trainer or Othello.&lt;br/&gt;&lt;br/&gt;Epaminondas is named after the Theban general who invented the phalanx formation he used to defeat the Spartans in 371 B.C. The term &amp;quot;phalanx&amp;quot; is used in the game to describe a connected group of two or more pieces in a straight line, either orthogonally or diagonally.&lt;br/&gt;&lt;br/&gt;Epaminondas is played on a 14 x 12 checkered board with 28 black pieces and 28 white pieces. The objective is to move your pieces across the board onto your opponent's back rank, the row closest to him, by moving your phalanxes and capturing enemy pieces.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;Crossings that is on a 8x8 board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jJCSFwApRdblSTmkq8j72MWdilM=/fit-in/200x150/pic50719.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qYkCHjfy2sJPaAcF4j9AGxo-XK8=/0x0/pic50719.jpg</image>
+						
+												<boardgamehonor objectid="8791">1980 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamedesigner objectid="221">Robert Abbott</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="362">Ariel</boardgamepublisher>
+															<boardgameversion objectid="78847">Ariel English edition</boardgameversion>
+																						<boardgameversion objectid="30181">Butehorn German Edition</boardgameversion>
+															<boardgamepublisher objectid="1531">Bütehorn Spiele</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="10640">Country: Greece</boardgamefamily>
+																																																		<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+															<boardgameversion objectid="102214">Hexagames edition</boardgameversion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="348160">nestorgames deluxe edition</boardgameversion>
+															<boardgameversion objectid="39155">nestorgames edition</boardgameversion>
+															<boardgameversion objectid="396187">nestorgames mini edition</boardgameversion>
+															<boardgameissuearticle objectid="26528">Particle Accelerators</boardgameissuearticle>
+															<boardgamepublisher objectid="272">Philmar</boardgamepublisher>
+															<boardgamepublisher objectid="8660">Robert Abbott</boardgamepublisher>
+															<boardgameversion objectid="147855">Robert Abbott edition</boardgameversion>
+																						<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgameimplementation objectid="21845" inbound="true">Crossings</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>116</usersrated>
+					<average>7.15259</average>
+					<bayesaverage>5.65155</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4773" bayesaverage="5.65155" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="164" bayesaverage="6.18078" />
+												
+											</ranks>
+					
+					<stddev>1.4864</stddev>
+					<median>0</median>
+					<owned>203</owned>
+					<trading>11</trading>
+					<wanting>19</wanting>
+					<wishing>62</wishing>
+					<numcomments>70</numcomments>
+					<numweights>20</numweights>
+					<averageweight>2.85</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

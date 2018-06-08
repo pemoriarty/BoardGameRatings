@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5221">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Quantum</name>
+									
+			<description>Quantum is an abstract strategy game, played on a simple squared board, with three different types of pieces. A quick game may be played on the central 60 squares of the board, or the full game on the entire 96 squares.&lt;br/&gt;&lt;br/&gt;Initially, all pieces move just one square. A square piece moves horizontally and vertically, a circle moves diagonally and a cross combines the two moves.  Opposing pieces are captured by landing on top of them to form towers. A tower may move as many squares as pieces it contains. &amp;quot;Power&amp;quot; squares in each corner allow unrestricted movement. Once a tower reaches the height of six pieces, it can no longer move or be captured.  The game is won when black or white owns three towers of 6 pieces.&lt;br/&gt;&lt;br/&gt;Both offensive and defensive strategies are possible and players should remember that a tower of 6 cannot move or be captured, but it can still block!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/m0Juxcd2mIJO1h6gR2pGG9tLdtM=/fit-in/200x150/pic2013629.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xkwCSCHAYDXrkbuAKZclbdOkB10=/0x0/pic2013629.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="155267">First edition</boardgameversion>
+															<boardgamepublisher objectid="559">Lazy Days (I)</boardgamepublisher>
+																													<boardgamedesigner objectid="11505">Philip Slater</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>26</usersrated>
+					<average>6.13462</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.70157</stddev>
+					<median>0</median>
+					<owned>68</owned>
+					<trading>5</trading>
+					<wanting>2</wanting>
+					<wishing>10</wishing>
+					<numcomments>17</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.6</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

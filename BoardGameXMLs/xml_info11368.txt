@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11368">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Scala</name>
+									
+			<description>Object: to advance a stone into the opposite goal.&lt;br/&gt;&lt;br/&gt;Blue (stones marked 'O') moves first with a goal square of f14.&lt;br/&gt;Red (stones marked 'X') moves second with a goal square of f1.&lt;br/&gt;Turns alternate.&lt;br/&gt;&lt;br/&gt;A stone may either move to any adjacent (orthogonal or diagonal) empty space or may make a jump or a series of jumps.&lt;br/&gt;A jump is over any stone (friend or foe, orthogonal or diagonal) landing on the opposite empty space.&lt;br/&gt;A player may make multiple jumps on the same turn,  may change direction after each jump,&lt;br/&gt;and may mix jumping enemy and friendly stones but may not move or jump into the goal the player is defending. &lt;br/&gt;If after a move is completed the set of ALL stones consists of two or more disconnected &lt;br/&gt;groups then some stones will be eliminated as follows:&lt;br/&gt;1 - First the monochrome groups will be eliminated; &lt;br/&gt;2 - If this leaves no stones on the board, then the moving player loses;&lt;br/&gt;3 - From the remaining (mixed) groups, all groups apart from the biggest group will be eliminated;&lt;br/&gt;4 - If that leaves two or more biggest groups of same size the moving player loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SGxNBsqLdSUH6LcvQ0OUQPiytBg=/fit-in/200x150/pic46545.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/I7uEqC6mSQ-YKW9xOU8uj0ceZn0=/0x0/pic46545.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="3653">Jose W. Diaz</boardgamedesigner>
+															<boardgamepublisher objectid="2525">Skill Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

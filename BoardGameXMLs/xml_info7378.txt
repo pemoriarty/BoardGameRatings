@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7378">
+			<yearpublished>1967</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Sprouts</name>
+									
+			<description>Sprouts is a two-player game, invented by John Conway (the creator of the game of Life) and Michael Paterson, while they were at the University of Cambridge (United Kingdom).&lt;br/&gt;The rules are:&lt;br/&gt;&lt;br/&gt;     In the beginning - a few spots are drawn on the paper;&lt;br/&gt;     On every move, the player must connect two spots (or one spot to itself) with a curve, which doesn't intersect other curves. After that, the player must set a new spot on just-drawn curve. To every spot can be attached maximum 3 curves.&lt;br/&gt;     The player who on his/her turn doesn't have a valid move, loses the game.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In the image shown, the two black spots each have only two curves coming out of them, but nonetheless cannot be used because no curve can be drawn between them without crossing another already-drawn curve. Thus this game is over. The two black spots are called &amp;quot;survivors&amp;quot;, and the number of survivors is what can effectively be controlled in the game.&lt;br/&gt;&lt;br/&gt;Sprouts is one of many combinatorial games analyzed in Winning Ways for Your Mathematical Plays as well as other math books on the subject of combinatorial games.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hsyQwjPQCv79yPCv2VImb-nmiOY=/fit-in/200x150/pic74705.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HOT3AUwIKdjwBIPjR6NcvkoKViw=/0x0/pic74705.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamepublisher objectid="3258">A. K. Peters, Ltd.</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="2590">John Conway</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="2591">Michael Stewart Paterson</boardgamedesigner>
+															<boardgamecompilation objectid="18096">Winning Ways for Your Mathematical Plays</boardgamecompilation>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>78</usersrated>
+					<average>5.78291</average>
+					<bayesaverage>5.51784</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11078" bayesaverage="5.51784" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="608" bayesaverage="5.582" />
+												
+											</ranks>
+					
+					<stddev>1.40662</stddev>
+					<median>0</median>
+					<owned>55</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>14</wishing>
+					<numcomments>48</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1.4545</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

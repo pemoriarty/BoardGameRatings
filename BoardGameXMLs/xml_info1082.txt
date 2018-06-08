@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1082">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Invers</name>
+									
+			<description>Invers is a two-player abstract game in which players alternately slide tiles out of a 6x6 grid and flip them over. One face is plain red or yellow, the other is a red or yellow dot. On your next turn you push the inverted tile into the grid, forcing another tile out. You only invert the tiles once to show the dot side and you cannot slide out the opponent's dot. Gradually the board locks up, unless you start sliding out your own flipped tiles. Winner is the first to invert all their tiles, or have the most flipped when no further moves are possible.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uYPBULsN2GtUqos8xAlzDrNcCgs=/fit-in/200x150/pic299158.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OMDnUxEaOI_5kS53jrLu9PE6eTk=/0x0/pic299158.jpg</image>
+						
+												<boardgamehonor objectid="8688">1991 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+																													<boardgameversion objectid="24312">German first edition</boardgameversion>
+																																											<boardgameversion objectid="24332">German second edition</boardgameversion>
+															<boardgamepublisher objectid="648">Peri Spiele</boardgamepublisher>
+															<boardgamepublisher objectid="649">Perner Produktions GmbH</boardgamepublisher>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>96</usersrated>
+					<average>5.99844</average>
+					<bayesaverage>5.53833</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9265" bayesaverage="5.53833" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="490" bayesaverage="5.67701" />
+												
+											</ranks>
+					
+					<stddev>1.43324</stddev>
+					<median>0</median>
+					<owned>210</owned>
+					<trading>10</trading>
+					<wanting>5</wanting>
+					<wishing>11</wishing>
+					<numcomments>36</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

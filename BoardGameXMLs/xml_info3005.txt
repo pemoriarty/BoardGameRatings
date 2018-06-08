@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3005">
+			<yearpublished>1992</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Chess for Three</name>
+							<name  sortindex="1">Yalta</name>
+									
+			<description>Chess for three people utilizing a unique 3-way board. Each player plays against the other two players. The player who checkmates first is the winner. The player who has been checkmated loses and the third player loses as well, no matter whether this player only passively assisted or even consciously or unconsciously helped the checkmating player. Each player must concentrate not only on their own attack and defense, but also on preventing either of the two opponents from checkmating the other.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vPxdZaI76cpoOxclZRKfqSqmbeE=/fit-in/200x150/pic54886.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/X529savJl0eBf_yCI3zaUweTE6s=/0x0/pic54886.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+																						<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamedesigner objectid="71666">Dr. Jacek Filek</boardgamedesigner>
+															<boardgameversion objectid="191634">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="1235">Jerzy Luberda</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>75</usersrated>
+					<average>5.96667</average>
+					<bayesaverage>5.51572</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11250" bayesaverage="5.51572" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="660" bayesaverage="5.54642" />
+												
+											</ranks>
+					
+					<stddev>1.91724</stddev>
+					<median>0</median>
+					<owned>119</owned>
+					<trading>4</trading>
+					<wanting>5</wanting>
+					<wishing>20</wishing>
+					<numcomments>31</numcomments>
+					<numweights>4</numweights>
+					<averageweight>3.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

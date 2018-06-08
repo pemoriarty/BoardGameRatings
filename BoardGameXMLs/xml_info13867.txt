@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="13867">
+			<yearpublished>1971</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Ninetyseven</name>
+									
+			<description>Each player has a number board, a die cup, a die and 6 chips. The boards have squares numbered 1 - 96 in a regular but non-sequential pattern. There are 6 blank squares at the top and bottom of the boards. Each board is identical. Each player starts with 1 chip on each of the 6 bottom squares of their board. The object is to be the first player to get all your chips to the top 6 squares. On your turn, you roll your die. You can then move one of your chips in one of three ways: 1) Move the chip to the corresponding number on your board or 2)  Move the chip orthogonally the number of squares indicated on the die or 3) Add or subtract the number on the die from the number on the square the chip is currently on. Then move the chip to the square with the corresponding total. One one chip can occupy a square.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nAV5nsdfGRojMoa9H6h-PvcHCa0=/fit-in/200x150/pic84121.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LRfUQuvLT5V6RYebdOqVv-poFEk=/0x0/pic84121.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="111910">First edition</boardgameversion>
+															<boardgamedesigner objectid="4948">Walter Konigstein</boardgamedesigner>
+															<boardgamepublisher objectid="165">Kontrell Industries</boardgamepublisher>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>5.52286</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24453</stddev>
+					<median>0</median>
+					<owned>29</owned>
+					<trading>6</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

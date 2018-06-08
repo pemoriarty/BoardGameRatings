@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3676">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Global Pursuit</name>
+							<name  sortindex="1">National Geographic Global Pursuit</name>
+									
+			<description>Trivia game about geographic knowledge.  Each player starts with some 5 sided map tiles made from several different types of maps and places them in a correct location, followed by answering a trivia question.  Points are scored both for playing the tiles and for correctly answering the trivia quesiton.  If the question is asked correctly, the player may play again if possible.  At the end of the player's turn he draws replacements equal to the number played.  Game ends when all tiles are played or no tiles may be played correctly.  Winner is the player with the most points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iBxkzuH-wRh-iF-wOVnMS-dHfCs=/fit-in/200x150/pic473222.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/onoOn3_okriWeQgbIUiED3-kW1o=/0x0/pic473222.jpg</image>
+						
+																			<boardgameversion objectid="80354">First edition</boardgameversion>
+															<boardgameexpansion objectid="51285">Global Pursuit: Set Two</boardgameexpansion>
+															<boardgamepublisher objectid="845">National Geographic Society</boardgamepublisher>
+															<boardgamedesigner objectid="1493">Howard E. Paine</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>221</usersrated>
+					<average>5.23145</average>
+					<bayesaverage>5.43962</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14911" bayesaverage="5.43962" />
+												
+											</ranks>
+					
+					<stddev>1.60508</stddev>
+					<median>0</median>
+					<owned>710</owned>
+					<trading>78</trading>
+					<wanting>2</wanting>
+					<wishing>8</wishing>
+					<numcomments>136</numcomments>
+					<numweights>19</numweights>
+					<averageweight>1.8421</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

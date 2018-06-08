@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3080">
+			<yearpublished>1958</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">R.S.V.P.</name>
+							<name primary="true" sortindex="1">RSVP</name>
+							<name  sortindex="1">RSVP: Three Dimensional Crossword Game</name>
+							<name  sortindex="1">Sanaset</name>
+									
+			<description>RSVP is a word game played on both sides of an upright game board. The object of the game is to form horizontal and vertical words by placing letter blocks in crossword fashion on your side of the board, while blocking the formation of words on the opposite side.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hEYh1CptLxxS6IEqMVjpW43gESg=/fit-in/200x150/pic1065631.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/k3t8yO5wcgKqtwRuvEZEBuq1glE=/0x0/pic1065631.png</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="11063">Nelostuote Oy</boardgamepublisher>
+															<boardgameversion objectid="245128">Nelostuote plastic cubes edition</boardgameversion>
+															<boardgameversion objectid="245127">Nelostuote wooden cubes edition</boardgameversion>
+																						<boardgamefamily objectid="4711">Scrabble</boardgamefamily>
+															<boardgamepublisher objectid="359">Selchow &amp; Righter</boardgamepublisher>
+															<boardgameversion objectid="29274">Selchow &amp; Righter red edition</boardgameversion>
+															<boardgameversion objectid="123960">Spear&#039;s first edition</boardgameversion>
+															<boardgamepublisher objectid="288">Spear&#039;s Games</boardgamepublisher>
+															<boardgamepublisher objectid="27431">Stillmark Oy</boardgamepublisher>
+															<boardgameversion objectid="245126">Stillmark Oy Finnish edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>75</usersrated>
+					<average>5.28267</average>
+					<bayesaverage>5.48581</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13556" bayesaverage="5.48581" />
+												
+											</ranks>
+					
+					<stddev>1.68858</stddev>
+					<median>0</median>
+					<owned>370</owned>
+					<trading>38</trading>
+					<wanting>1</wanting>
+					<wishing>9</wishing>
+					<numcomments>60</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="22020">
+			<yearpublished>1975</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>35</playingtime>
+			<minplaytime>35</minplaytime>
+			<maxplaytime>35</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">APBA Baseball Master Game</name>
+							<name primary="true" sortindex="1">APBA Major League Baseball Master Game</name>
+							<name  sortindex="1">APBA Pro Baseball 66! Master Addition</name>
+							<name  sortindex="1">Sixty-Six</name>
+									
+			<description>A baseball simulation game, which includes dice, markers, and a booklet with charts for each of 8 base situations (bases empty to bases loaded), rare plays, base stealing, base advancement. Players roll dice and refer to charts for results.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wDOvyq89RT9SgIiz_-iNW7UKw58=/fit-in/200x150/pic52501.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oiCSEySVyP9CrFawPZuM6AVTtIM=/0x0/pic52501.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgameversion objectid="200850">APBA English Expansion Edition</boardgameversion>
+															<boardgameversion objectid="200847">APBA English First Edition</boardgameversion>
+															<boardgameversion objectid="200848">APBA English Professional Edition</boardgameversion>
+															<boardgamepublisher objectid="228">APBA International</boardgamepublisher>
+															<boardgameversion objectid="200851">APBA Legends Edition</boardgameversion>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+															<boardgameexpansion objectid="895" inbound="true">APBA Pro Baseball</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>85</usersrated>
+					<average>7.37529</average>
+					<bayesaverage>5.6087</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.6087" />
+												
+											</ranks>
+					
+					<stddev>1.89289</stddev>
+					<median>0</median>
+					<owned>130</owned>
+					<trading>6</trading>
+					<wanting>5</wanting>
+					<wishing>7</wishing>
+					<numcomments>38</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

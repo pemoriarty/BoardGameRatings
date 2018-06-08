@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12182">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Brett Ball</name>
+									
+			<description>Rather than being a plate-appearance-by-plate-appearance statistical simulation using real players' statistics, like Strat-O-Matic, Brett Ball is a pitch-by-pitch tactical simulation using archetypal players for each team's lineup.&lt;br/&gt;&lt;br/&gt;Each team's lineup consists of an identical selection of 9 batters falling into one of five broad categories: high average, low power, extra speed; high average, high power; decent average, decent power; low average, low power; and (optional) pitcher.  There's also a selection of pinch hitters, one from each category (except pitcher), and a pinch runner.&lt;br/&gt;&lt;br/&gt;The player on defense starts the action by rolling a pair of dice; if the total is between 2 and 5, it's a 'hittable' strike (the lower the number, the easier it is to hit); 6 or 8 (except 4-4) are foul strikes; 7 is an unhittable strike; 8 (4-4 only), 9, and 10 are hittable balls; and 11 and 12 are unhittable balls.  If it's a hittable pitch, the offensive player decides whether to swing; if they do, they roll the pair of dice, and consult a chart to determine the results.  Base runners can attempts steals and (sometimes) advancing an extra base on a hit; the defensive player can call pitch-outs if a runner is on base; and the batter can be made to hit-and-run, sacrifice bunt, or even suicide squeeze.  The usual rules of baseball apply (3 outs to an inning, 9 innings to a game, etc.).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yzVmmvY-WSd3_UiBAQoklaXXEN8=/fit-in/200x150/pic49193.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gnbPN7CzHxqvEOMCOKXBuLqKpuM=/0x0/pic49193.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="112259">First edition</boardgameversion>
+															<boardgamedesigner objectid="3837">Raymond O. Keltner, M.D.</boardgamedesigner>
+															<boardgamepublisher objectid="11932">R.O.Keltner</boardgamepublisher>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>4.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.745356</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

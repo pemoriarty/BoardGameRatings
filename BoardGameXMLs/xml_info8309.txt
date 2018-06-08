@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8309">
+			<yearpublished>1972</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Cubulus</name>
+							<name primary="true" sortindex="1">Die-Check</name>
+									
+			<description>Cubulus / Die-Check is similar to chess on a 9x9 board except that for pieces each player has eight strategic cubes (dice), two shields (unmarked pieces the size of two cubes) and a master (king).  The game ends with a checkmate.&lt;br/&gt;&lt;br/&gt;The strategic cubes move the number of squares shown on their top face, and each step of the move rolls the die to its adjacent face (thus the new top side is determined be the sequence of horizontal and vertical steps).  Shields move so that one of their two covered squares stays the same.  The master moves one spot orthogonally.  (Additional moves for shields and strategic cubes exist in the advanced version.)&lt;br/&gt;&lt;br/&gt;Captures are made by moving onto other pieces, except that shields require one half to be put in check and the other half to be moved onto.  If the master moves to the far end of the board it can be returned to its original position and replaced with a captured piece.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-eW_1L6Vn-5GfB45S3HARAPX0m0=/fit-in/200x150/pic321562.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IeyiXA0GlALdxA4Wkh4jYUoz8JA=/0x0/pic321562.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="11346">BFM</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamedesigner objectid="8719">Benedict Einstein</boardgamedesigner>
+															<boardgameversion objectid="224591">First edition</boardgameversion>
+																																				<boardgamedesigner objectid="2844">Benoit Launier</boardgamedesigner>
+															<boardgamepublisher objectid="10410">Liberty Distribution International Ltd</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.912871</stddev>
+					<median>0</median>
+					<owned>39</owned>
+					<trading>6</trading>
+					<wanting>7</wanting>
+					<wishing>8</wishing>
+					<numcomments>8</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

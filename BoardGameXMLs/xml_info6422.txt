@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6422">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Troll Knuckles</name>
+									
+			<description>Troll Knuckles is a dice rolling game, consisting of three dice:&lt;br/&gt;&lt;br/&gt;- The &amp;quot;Knuckle&amp;quot;, a green die with even numbers (2, 4, 6, 8, 10, 12)&lt;br/&gt;- The &amp;quot;Toe&amp;quot;, a purple die with odd numbers (1, 3, 5, 7, 9, 11)&lt;br/&gt;- The &amp;quot;Eye&amp;quot;, a red die with the troll-primes (1, 2, 3, 5, 7, 9)&lt;br/&gt;&lt;br/&gt;A turn consists of three &amp;quot;slices&amp;quot;, consisting of rolling particular dice.  After the rolls, the player will have gathered three numbers, which are then matched up to particular &amp;quot;gut&amp;quot; (ie, combination).  A couple are poker-like (two of a kind, three of a kind), while a few other guts are preset (for example, 6-9-2 is called Aphrodite's Smile).&lt;br/&gt;&lt;br/&gt;The first slice consists of rolling all three dice, keeping two and throwing one away.  You must remember the two numbers AND remember which number came from which die.  As an example (to assist in describing the next slices), you roll green-2 purple-9 red-7 and decide to keep the purple and red dice.&lt;br/&gt;&lt;br/&gt;The second slice consists of re-rolling the two kept dice.  You must then throw out of of those two dice, and keep the two numbers from the kept die.  To continue the example, you re-roll the purple and red dice and get purple-1 red-3.  You decide to keep the purple, which means your two numbers are 9 (from the first slice) and 1 (from this slice).&lt;br/&gt;&lt;br/&gt;The third slice consists of rerolling the die chosen for your third number. To continue the example, you reroll purple and get 5, making your three numbers 9, 1 and 5.  These can now be arranged in any order and compared against the scoring table to determine poker-like ranking against other players in the same round.  Highest gut wins.&lt;br/&gt;&lt;br/&gt;One minor exception are &amp;quot;The Loads&amp;quot;, which are guts that must be matched against all three dice in the first slice only.  Rolling one of those is an automatic win.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bfI7qfI7efa0Svzz6WH4vk9LDjg=/fit-in/200x150/pic58653.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JkQb0fip65E59Ss8Bg6ttaGWKqk=/0x0/pic58653.jpg</image>
+						
+												<boardgamedesigner objectid="4894">Davis Chenault</boardgamedesigner>
+															<boardgamedesigner objectid="10734">Kathy Chenault</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="153940">First edition</boardgameversion>
+															<boardgamepublisher objectid="1477">Troll Lord Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>2</trading>
+					<wanting>1</wanting>
+					<wishing>2</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

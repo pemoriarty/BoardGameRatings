@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="14350">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Space Chess</name>
+									
+			<description>A somewhat restrictive 3 dimensional chess game, with 3 8x8 chess boards stacked one atop the other.  For the most part, changing levels is only allowed as part of a piece's first move, or if ending on a &amp;quot;star&amp;quot; square (c3, c6, d4, d5, e4, e5, f3, and f6).  Kings may also change level though a special king space (f1 and f8).  Captures must be made by pieces starting the turn on the same level, although level changes are allowed after capturing.  Similarly, checkmates must be made by pieces all on the same level with no possibility of the king escaping through level changing.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9-V84zWUTpllxXloyPwUhU99v_Q=/fit-in/200x150/pic58557.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zsZYr16dVx-SO2gNpNa0dKIS7_U=/0x0/pic58557.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamepublisher objectid="150">Chessex</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="265780">Pacific Game Co English Edition 1970</boardgameversion>
+															<boardgameversion objectid="27356">Pacific Game Co English Edition 1981</boardgameversion>
+															<boardgamepublisher objectid="1781">Pacific Game Company</boardgamepublisher>
+															<boardgameversion objectid="126729">Pacific Game Company Edition 1969</boardgameversion>
+															<boardgamepublisher objectid="2256">Pleasantime Games</boardgamepublisher>
+																						<boardgamefamily objectid="5061">Three Dimensional Chess Variants</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>17</usersrated>
+					<average>5.29412</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.60017</stddev>
+					<median>0</median>
+					<owned>71</owned>
+					<trading>6</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>12</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1379">
+			<yearpublished>2000</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Ebb and Flow</name>
+							<name primary="true" sortindex="1">Ebbe &amp; Flut</name>
+							<name  sortindex="1">Marée haute/Marée basse</name>
+									
+			<description>In this card game players build up cascades of moving cards across the playfield in order to get their cards to reach the final destination in the opposite corner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/52KgEZjuNFqPGC_rt39upaL3btM=/fit-in/200x150/pic249347.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/P8010gBY8p6tZbcDcdMEYqq0EOM=/0x0/pic249347.jpg</image>
+						
+												<boardgamehonor objectid="8946">2001 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamehonor objectid="8665">2001 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="46">Adlung-Spiele</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="10643">Country: Germany</boardgamefamily>
+																													<boardgameversion objectid="29632">First edition</boardgameversion>
+																																																																																																			<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameartist objectid="12623">Thomas Hammer</boardgameartist>
+															<boardgameversion objectid="29631">SdJ edition</boardgameversion>
+																						<boardgamedesigner objectid="331">Wolfgang Werner</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>485</usersrated>
+					<average>6.49921</average>
+					<bayesaverage>5.79685</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3154" bayesaverage="5.79685" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="165" bayesaverage="6.18023" />
+												
+											</ranks>
+					
+					<stddev>1.25174</stddev>
+					<median>0</median>
+					<owned>1004</owned>
+					<trading>41</trading>
+					<wanting>16</wanting>
+					<wishing>62</wishing>
+					<numcomments>173</numcomments>
+					<numweights>43</numweights>
+					<averageweight>1.907</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

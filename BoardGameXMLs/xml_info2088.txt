@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2088">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Coup</name>
+							<name  sortindex="1">Holiday AG</name>
+							<name  sortindex="1">Τουριστικές Επιχειρήσεις</name>
+									
+			<description>Players attempt to acquire shares in the most valuable companies. Companies work to build valuable blocks of adjacent properties and see that they are booked full of tourists. Players maneuver to boost the value of companies in which they own stock.&lt;br/&gt;&lt;br/&gt;The gaming board consists of 6 columns of different colors with fields numbered from 1-20, so 120 fields. Then there are wooden bits with the corresponding colors and numbers to the columns, and chips of the different colors of the columns. Every player secretly draws the wooden bits and tries to make series of numbers in the different columns. The longer the series, the more points it will generate at the end. At each players turn, beside putting the wooden bits, they can buy the colored chips. The more colored chips of the column with the longest series you have the better are your chances of winning. Players can also change unwanted wooden bits with new ones during their turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jvh2GlpQRGa6u-660eG8twoAh9w=/fit-in/200x150/pic312636.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/r0SZ-ERB10az6RFc_Hq-kqaLWNI=/0x0/pic312636.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="74">ASS Altenburger Spielkarten</boardgamepublisher>
+															<boardgameversion objectid="110294">ASS German edition</boardgameversion>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+															<boardgameversion objectid="72892">F.X. Schmid German edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																													<boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+															<boardgamepublisher objectid="5193">Krone Spiele (ASS)</boardgamepublisher>
+															<boardgamefamily objectid="37878">Krone Spiele für Erwachsene</boardgamefamily>
+																						<boardgamepublisher objectid="6892">MIKA</boardgamepublisher>
+															<boardgameversion objectid="197880">MIKA Greek edition</boardgameversion>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>132</usersrated>
+					<average>6.27955</average>
+					<bayesaverage>5.58332</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6593" bayesaverage="5.58332" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1580" bayesaverage="5.61525" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1264" bayesaverage="5.61887" />
+												
+											</ranks>
+					
+					<stddev>1.30204</stddev>
+					<median>0</median>
+					<owned>238</owned>
+					<trading>16</trading>
+					<wanting>8</wanting>
+					<wishing>17</wishing>
+					<numcomments>45</numcomments>
+					<numweights>17</numweights>
+					<averageweight>1.8235</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

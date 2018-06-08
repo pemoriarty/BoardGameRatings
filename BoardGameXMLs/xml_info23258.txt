@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23258">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Expédition Altiplano</name>
+							<name primary="true" sortindex="1">Expedition Altiplano</name>
+									
+			<description>This is a game for two treasure hunters in ancient Inca ruins. You are both looking for the same relics. But first you put together your exploration team out of archaeologists and soldiers of fortune by drafting cards from the central pile.&lt;br/&gt;During the game you can poach staff members off your adversary or salvage a staffer from deadly traps.&lt;br/&gt;You do all this to meet the required conditions to find those rare treasures. And because they're rare you'd better not miss them.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OUUzgNWIZqJZeNZ6k4E775R6oxY=/fit-in/200x150/pic539865.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sVEmkNjXUhriWFLD01XnO0JcJVU=/0x0/pic539865.jpg</image>
+						
+												<boardgamepublisher objectid="5400">Matagot</boardgamepublisher>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamefamily objectid="21940">Archaeology</boardgamefamily>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="104123">English edition 2011</boardgameversion>
+																						<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="85951">French first edition</boardgameversion>
+															<boardgameversion objectid="194214">French second edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="6997">Christian Martinez</boardgamedesigner>
+															<boardgamefamily objectid="20788">Matagot Duo Collection</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>153</usersrated>
+					<average>6.11716</average>
+					<bayesaverage>5.56775</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7339" bayesaverage="5.56775" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="775" bayesaverage="5.59991" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1642" bayesaverage="5.58111" />
+												
+											</ranks>
+					
+					<stddev>1.40399</stddev>
+					<median>0</median>
+					<owned>437</owned>
+					<trading>32</trading>
+					<wanting>9</wanting>
+					<wishing>36</wishing>
+					<numcomments>57</numcomments>
+					<numweights>18</numweights>
+					<averageweight>1.9444</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

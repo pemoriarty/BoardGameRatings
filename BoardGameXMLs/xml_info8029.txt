@@ -1,0 +1,80 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8029">
+			<yearpublished>1996</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Medieval Empires</name>
+									
+			<description>In Medieval Empires each player controls three different empires which attempt to control as much valuable territory as possible. The game is driven by cards, which are used to acquire troops and to fight battles. Players each have a piece which moves around a track by die roll; the space landed on determines how many cards the player draws and how many troops are auctioned off (bidding is conducted with cards). Sets of cards can be turned in for troops in addition to those auctioned off. The track is also the game clock: there is a neutral piece which moves around it and determines when scoring occurs and when the game ends.&lt;br/&gt;&lt;br/&gt;The game was produced in an edition of 100 copies.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Jqcp2eFYA_uAMeMxW2RGp5FFDgE=/fit-in/200x150/pic44644.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bRVG7LylMTLqYcq2vZwxKD8-Dvs=/0x0/pic44644.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
+															<boardgamepublisher objectid="7">Warfrog Games</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>6.4375</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.949918</stddev>
+					<median>0</median>
+					<owned>40</owned>
+					<trading>0</trading>
+					<wanting>18</wanting>
+					<wishing>34</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

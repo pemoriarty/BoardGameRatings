@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3081">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Heads &amp; Tails</name>
+							<name  sortindex="4">Le jeu des Caesars</name>
+							<name  sortindex="1">Kopf oder Zahl</name>
+							<name  sortindex="1">Pile et Face</name>
+							<name  sortindex="1">Rubik&#039;s Eclipse</name>
+							<name  sortindex="1">Rubik&#039;s Flip</name>
+							<name  sortindex="1">Rubik&#039;s Magic Strategie-Spiel</name>
+							<name  sortindex="1">Rubik&#039;s Magic Strategy Game</name>
+							<name  sortindex="1">Rubik&#039;s Morpion</name>
+							<name primary="true" sortindex="1">Rubik&#039;s Tac Toe</name>
+									
+			<description>Abstract strategy game on a 4x4 board.&lt;br/&gt;&lt;br/&gt;One player takes the moon pieces (8 purple pieces with a gold moon on one side and a silver moon on the other side) and the second player takes the sun pieces (8 magenta pieces with a gold sun on one side and a silver sun on the other side).&lt;br/&gt;&lt;br/&gt;The board begins empty. The move (except the very first one, in which you can only place a piece of yours) consists of:&lt;br/&gt;1) move an already placed opponent's piece one square in any orthogonal direction, flipping its side&lt;br/&gt;2) putting one of your piece in any vacant square, whatever side up.&lt;br/&gt;&lt;br/&gt;The winner is the first player to get 3 of his game pieces of the same color (gold or silver) in a &amp;quot;locked&amp;quot; row, either horizontally, vertically or diagonally. A row of 3 is &amp;quot;locked&amp;quot; when none of the pieces in it can be flipped into an adjacent square because all the adjacent squares aren't empty.&lt;br/&gt;&lt;br/&gt;Previously published as Rubik's Magic and Rubik's Eclipse.  The versions vary in how the pieces are marked, but the rules are the same.  The name &amp;quot;Rubik's Magic&amp;quot; was also used for a puzzle unrelated to this game.&lt;br/&gt;&lt;br/&gt;Here's how the various games are related:&lt;br/&gt;&lt;br/&gt;    Head  &amp;amp; Tails - Two colors of coins and front/back to each coin.&lt;br/&gt;    Rubik's Eclipse - Tiles either colored red/blue and the icon on the tile is either gold/silver. &lt;br/&gt;    Rubik's Magic - Tiles have circle/square and either black/silver background)&lt;br/&gt;    Rubik's Tac Toe - 8 blue/green &amp;quot;O&amp;quot;s and 8 yellow/white &amp;quot;X&amp;quot;s &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XXiZMVqsmu-k0ZXt0W6kbFAkbzU=/fit-in/200x150/pic276684.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Omzh7_Eig69gME6VKRcqeyCzDjE=/0x0/pic276684.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="1997">Arxon</boardgamepublisher>
+															<boardgameversion objectid="305584">Arxon German edition</boardgameversion>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgamepublisher objectid="153">Ideal</boardgamepublisher>
+															<boardgameversion objectid="123700">Ideal English edition</boardgameversion>
+															<boardgameversion objectid="111889">Ideal French edition 1981</boardgameversion>
+															<boardgamepublisher objectid="930">Matchbox</boardgamepublisher>
+															<boardgameversion objectid="111892">Matchbox English edition</boardgameversion>
+															<boardgameversion objectid="147350">Matchbox French/Dutch edition 1987</boardgameversion>
+															<boardgameversion objectid="111893">Matchbox German edition</boardgameversion>
+															<boardgamepublisher objectid="2234">oddz on</boardgamepublisher>
+															<boardgameversion objectid="123287">oddz on English edition</boardgameversion>
+																													<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgamedesigner objectid="1272">Erno Rubik</boardgamedesigner>
+															<boardgamefamily objectid="11192">Rubik&#039;s Cube</boardgamefamily>
+																																				<boardgameversion objectid="301311">Toy Brokers English edition</boardgameversion>
+															<boardgamepublisher objectid="627">Toy Brokers Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="254">University Games</boardgamepublisher>
+															<boardgameversion objectid="377811">University Games English edition</boardgameversion>
+															<boardgameversion objectid="111890">Winning Moves English edition</boardgameversion>
+															<boardgamepublisher objectid="59">Winning Moves Games (USA)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>85</usersrated>
+					<average>6.07035</average>
+					<bayesaverage>5.53395</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9602" bayesaverage="5.53395" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="494" bayesaverage="5.67541" />
+												
+											</ranks>
+					
+					<stddev>1.2672</stddev>
+					<median>0</median>
+					<owned>304</owned>
+					<trading>27</trading>
+					<wanting>2</wanting>
+					<wishing>8</wishing>
+					<numcomments>62</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

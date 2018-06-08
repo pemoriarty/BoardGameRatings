@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18657">
+			<yearpublished>1955</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Test Match</name>
+									
+			<description>This is not so much of a game as a device for simulating a test match. The board holds a score board and two rotating randomizers. The bowler rotates his handle to first ball of the over and back to the start, revealing a type of ball (leg break, bouncer, etc). The batsman rotates his handle to the type of ball bowled, and back again, revealing a batsman scoring runs or being dismissed. If you know the rules of cricket, it's obvious how to simulate a test match given these rules.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QIP50Uz2I-w_waBqfX8Kv2IqREo=/fit-in/200x150/pic85478.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0BsJIspyJzFXDATsq57bCOY0mMY=/0x0/pic85478.jpg</image>
+						
+												<boardgamepublisher objectid="2701">Croner</boardgamepublisher>
+															<boardgameversion objectid="244369">Croner First edition</boardgameversion>
+															<boardgamedesigner objectid="42886">William Hansen</boardgamedesigner>
+															<boardgamepublisher objectid="30150">Hunter Leisure</boardgamepublisher>
+															<boardgameversion objectid="278558">Hunter Leisure edition</boardgameversion>
+															<boardgameversion objectid="161757">John Sands First edition</boardgameversion>
+															<boardgamepublisher objectid="661">John Sands Pty Ltd</boardgamepublisher>
+															<boardgameversion objectid="106268">John Waddington edition</boardgameversion>
+															<boardgamepublisher objectid="3922">John Waddington Ltd.</boardgamepublisher>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5706">Sports: Cricket</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>35</usersrated>
+					<average>4.36777</average>
+					<bayesaverage>5.46337</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14436" bayesaverage="5.46337" />
+												
+											</ranks>
+					
+					<stddev>1.43211</stddev>
+					<median>0</median>
+					<owned>38</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>22</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

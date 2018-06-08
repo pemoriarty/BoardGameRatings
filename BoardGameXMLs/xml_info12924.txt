@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12924">
+			<yearpublished>1984</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Dark Crusade:  The War in the East 1941-45</name>
+									
+			<description>Dark Crusade simulates the eastern front conflict between the Soviet Union and Germany from 1941 through 1945.  It uses simple mechanics and a point to point movement system.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vOFmH96KizyC3C3VQsHNzCMngPM=/fit-in/200x150/pic803185.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MPMmuz8Pea2381e0AGylT-PdEh0=/0x0/pic803185.jpg</image>
+						
+												<boardgamepublisher objectid="489">3W (World Wide Wargames)</boardgamepublisher>
+															<boardgamedesigner objectid="1570">Lou Coatney</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="106805">First edition</boardgameversion>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>38</usersrated>
+					<average>4.86842</average>
+					<bayesaverage>5.46892</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14288" bayesaverage="5.46892" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2745" bayesaverage="5.2998" />
+												
+											</ranks>
+					
+					<stddev>2.61746</stddev>
+					<median>0</median>
+					<owned>113</owned>
+					<trading>19</trading>
+					<wanting>4</wanting>
+					<wishing>4</wishing>
+					<numcomments>29</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

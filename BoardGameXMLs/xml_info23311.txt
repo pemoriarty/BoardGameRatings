@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23311">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Carrousel</name>
+									
+			<description>Carrousel is a game without turns. The board shows a carrousel with seven spaces in a circle. Placed on this (on five adjacent spaces) are five different-colored horses. The game also contains a deck of cards, each showing three horses in different colors.&lt;br/&gt;&lt;br/&gt;At the start of the game, each player is dealt nine cards and lays them out in front of herself. The object is then to make the three horses at the front of the carrousel be in the same order as on one of one's cards. When this happens, you get a point for that card (put it upside-down in a private score pile) and get to draw a new one.&lt;br/&gt;&lt;br/&gt;There are a number of legal moves to make, like swapping the places of two horses, placing the last one first and so on. To score a card, you must perform a move to make the first three horses match one of your cards. If you make a move and they don't fit, you lose one point. If you're not fast enough, someone else will move something, messing up your plans.&lt;br/&gt;&lt;br/&gt;The game has been illustrated by Stéphane Poinsot.&lt;br/&gt;&lt;br/&gt;From the publisher's website:&lt;br/&gt;&lt;br/&gt;Here's a strange merry go round!  Its wooden horses, joking and mocking, have come to life and nothing can stop them for turning in any direction!  If you want to ride, you'll have to catch them!&lt;br/&gt;&lt;br/&gt;To play Carrousel, you don't have to be a knight, jockey or a cossack.  A little speed and observation will do.  Find the right color combinations and move your horses quickly before your opponents do it for you!&lt;br/&gt;&lt;br/&gt;Carrousel is a game of speed and observation by Max Gerchambeaux who, when he's not cooking one of the best cassoulets in Paris in his restaurant, invents smart games for the whole family!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/C3nDk_hnGeqrl1bXjRg6nA4sOZU=/fit-in/200x150/pic144655.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XJKsydnqIt0pFB8cBJAu17X2xTI=/0x0/pic144655.jpg</image>
+						
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7523">Animals: Horses</boardgamefamily>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="25621">First edition</boardgameversion>
+																						<boardgamedesigner objectid="3397">Max Gerchambeau</boardgamedesigner>
+															<boardgameartist objectid="12386">Stéphane Poinsot</boardgameartist>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>222</usersrated>
+					<average>6.27866</average>
+					<bayesaverage>5.63</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5212" bayesaverage="5.63" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1127" bayesaverage="5.6926" />
+												
+											</ranks>
+					
+					<stddev>1.23378</stddev>
+					<median>0</median>
+					<owned>226</owned>
+					<trading>17</trading>
+					<wanting>21</wanting>
+					<wishing>47</wishing>
+					<numcomments>104</numcomments>
+					<numweights>24</numweights>
+					<averageweight>1.2917</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

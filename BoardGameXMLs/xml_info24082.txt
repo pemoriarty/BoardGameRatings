@@ -1,0 +1,100 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24082">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Voltage</name>
+									
+			<description>Simple 2-player card game. The board has 4 colored areas with plastic terminals on it. The terminals are 2 sided, either plus or minus. Players play color specific cards to their corresponding terminals, on either their side or their opponent's side of the board.&lt;br/&gt;&lt;br/&gt;Players can do 1 of 3 things on their turn:&lt;br/&gt;&lt;br/&gt;Play a card and draw a card (in that order)&lt;br/&gt;Play 2 cards to 2 different colors&lt;br/&gt;Draw 2 cards&lt;br/&gt;&lt;br/&gt;When a colored terminal has a total of 5 cards played to it, that terminal is scored depending on the orientation of the terminal. If the terminal is plus side up, then the player with the highest numerical value wins the point. If the terminal is minus side up, then the player with the lowest numerical value wins the point. First player to score 4 points wins!&lt;br/&gt;&lt;br/&gt;From the back of the box:&lt;br/&gt;&lt;br/&gt;Within the crumbling walls of a forgotten power plant, ancient turbines continue to spin out their high voltage current. Your job as engineer is to make sure the power gets where it needs to go - but that won't be easy. A rival engineer is tinkering with the circuits and breakers as well, trying to funnel that juice in different directions. You'll need skill and a little bit of luck to keep the power flowing your way, but if you play your cards right, you'll have a bright future while you leave your adversary sitting in the dark.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ujatyD0xdCDj-Nxrog3PHR4LMeg=/fit-in/200x150/pic131264.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AZ2e8t67nNdUMKuBLT6cK_JBimQ=/0x0/pic131264.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="32943">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="93">Mattel</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgamedesigner objectid="1496">Brian Yu</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>208</usersrated>
+					<average>6.01942</average>
+					<bayesaverage>5.58193</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6658" bayesaverage="5.58193" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1270" bayesaverage="5.61554" />
+												
+											</ranks>
+					
+					<stddev>1.21294</stddev>
+					<median>0</median>
+					<owned>300</owned>
+					<trading>31</trading>
+					<wanting>13</wanting>
+					<wishing>42</wishing>
+					<numcomments>119</numcomments>
+					<numweights>17</numweights>
+					<averageweight>1.3529</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

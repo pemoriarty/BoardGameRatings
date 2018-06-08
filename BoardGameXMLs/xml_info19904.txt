@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19904">
+			<yearpublished>2000</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">4th Street Pro Football</name>
+									
+			<description>4th Street Software Pro Football is a dice, chart and card simulation of NFL football. The game combines detailed individualized players cards for every player position with specific offensive and defensive play calls to generate action.&lt;br/&gt;&lt;br/&gt;Here is a brief description of play from the manufacturer's web-site:&lt;br/&gt;&lt;br/&gt;First, let&amp;rsquo;s set the scene. It&amp;rsquo;s the first round of the playoffs, with Miami hosting New England. Miami&amp;rsquo;s got the ball on the New England 37 yard line with 4:23 to go in the fourth quarter. They&amp;rsquo;re down by a touchdown.&lt;br/&gt;&lt;br/&gt;The Miami coach selects a passing play, &amp;ldquo;F1 Cross&amp;rdquo; (F1 is the flanker, and he&amp;rsquo;s running a crossing pattern over the middle of the field).&lt;br/&gt;&lt;br/&gt;The play card is essentially a 3&amp;rdquo; x 5&amp;rdquo; card filled with information about the ensuing play. The larger letters (s, T, G, C, Q, etc.) represent offensive players. The boxes and ovals represent defensive zones which may or may not be occupied by one or more defensive players. The lines represent the routes each of the offensive players takes after the snap. The red line represents the route taken by the intended receiver. Blue lines represent secondary receivers, while black lines represent the motion taken by blockers.&lt;br/&gt;&lt;br/&gt;The smaller letters are the player ratings, which are followed by a number or range of numbers, which correspond to a 20-sided (d20) die.&lt;br/&gt;&lt;br/&gt;So let&amp;rsquo;s roll the dice and see what happens&amp;hellip;&lt;br/&gt;&lt;br/&gt;20 sided die = 2 &lt;br/&gt;12 sided die = 6&lt;br/&gt;2 six sided die roll = 1+3 = 4&lt;br/&gt;&lt;br/&gt;The d20 roll (2) tells us what the matchup is. In this case, the left guard is matched up against the defender in the zone opposite him (in this case, the right defensive tackle).&lt;br/&gt;&lt;br/&gt;Here are the two players involved on the play:&lt;br/&gt;&lt;br/&gt;J. Buckley [G - Miami 97]&lt;br/&gt;Hen. Thomas [DT - New England 97]&lt;br/&gt;&lt;br/&gt;The offensive player&amp;rsquo;s &amp;ldquo;D&amp;rdquo; rating (pass blocking) is now compared to the &amp;ldquo;B&amp;rdquo; rating (pass rush) of the defensive player&amp;rsquo;s. These two ratings are subtracted (6 &amp;ndash; 4 = 2) and compared to the d10 (in this case, a 6 was rolled). Since 6 is larger than 2, the defensive player wins the matchup.&lt;br/&gt;&lt;br/&gt;Now, the two d6 are added together (1 + 3 = 4). Since Thomas won the matchup, we look under his &amp;ldquo;B&amp;rdquo; column across from &amp;ldquo;4&amp;rdquo; and find the result code of &amp;ldquo;47&amp;rdquo;. This is a sack! (Result codes are listed on the field&amp;hellip;there are approximately 90 of them.)&lt;br/&gt;&lt;br/&gt;That&amp;rsquo;s it! All other plays are completed in a similar fashion.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GbujvFqlD_D4baBSBM0pBOhaC1g=/fit-in/200x150/pic94902.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5HYdL8ZMLJNQw_WfdlCpx0il3-0=/0x0/pic94902.jpg</image>
+						
+																			<boardgamepublisher objectid="4584">4th Street Software</boardgamepublisher>
+															<boardgamedesigner objectid="3945">Bryan Aldrich</boardgamedesigner>
+															<boardgameversion objectid="126326">First edition</boardgameversion>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5640">Sports: American Football / Gridiron</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>27</usersrated>
+					<average>7.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.69422</stddev>
+					<median>0</median>
+					<owned>36</owned>
+					<trading>3</trading>
+					<wanting>8</wanting>
+					<wishing>19</wishing>
+					<numcomments>12</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

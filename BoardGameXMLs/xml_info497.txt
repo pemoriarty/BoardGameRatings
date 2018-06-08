@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="497">
+			<yearpublished>2000</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Vampir</name>
+							<name primary="true" sortindex="1">Vampire</name>
+									
+			<description>The goal of this game is to meld sets of vampires from the six different suits.  Once either all the cards are drawn or one player has melds in all six suits, the game is over.  The player (or players) with the weakest meld in each of the suits, and non-existent zero-melds count here, is discarded.  However, all remaining cards contribute their value (either one or two) to each player's total.&lt;br/&gt;&lt;br/&gt;Some have described this game as a multi-player version of Lost Cities, which isn't a terrible comparison.&lt;br/&gt;&lt;br/&gt;Part of the Goldsieber à la Carte line of games.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-fGmVZaUR6_7cWykFoUyhk2nDOk=/fit-in/200x150/pic6134.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/59V05H1tk6aDMeNLrGADJX6t-DY=/0x0/pic6134.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																																																							<boardgameversion objectid="26642">Goldsieber &quot;a la carte&quot; edition</boardgameversion>
+															<boardgamefamily objectid="132">Goldsieber à la Carte</boardgamefamily>
+															<boardgamepublisher objectid="44">Goldsieber Spiele</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameimplementation objectid="113503">Invasion of the Garden Gnomes</boardgameimplementation>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+																																				<boardgameversion objectid="21118">Rio Grande edition</boardgameversion>
+															<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="6428">Vampires</boardgamefamily>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>574</usersrated>
+					<average>5.9078</average>
+					<bayesaverage>5.63264</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5151" bayesaverage="5.63264" />
+												
+											</ranks>
+					
+					<stddev>1.25316</stddev>
+					<median>0</median>
+					<owned>819</owned>
+					<trading>41</trading>
+					<wanting>14</wanting>
+					<wishing>37</wishing>
+					<numcomments>215</numcomments>
+					<numweights>69</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

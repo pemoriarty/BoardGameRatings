@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12243">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Ziff Zoff</name>
+									
+			<description>This is a race. Every player plays a card simultaneously. The higher card is allowed to move the difference between the lower and the higher card.&lt;br/&gt;&lt;br/&gt;Ages 6 and up.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BUvzb_wWl-ndVBUqT7IpOrOAgUI=/fit-in/200x150/pic496787.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/m7LISG62Mk2W3beasnUA1TwMwJQ=/0x0/pic496787.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamepublisher objectid="265">Drei Magier Spiele</boardgamepublisher>
+																													<boardgameversion objectid="86947">First edition</boardgameversion>
+																																																		<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgameversion objectid="86948">Second edition</boardgameversion>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgameartist objectid="7387">Rolf Vogt</boardgameartist>
+															<boardgamedesigner objectid="144">Jacques Zeimet</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>4.64054</average>
+					<bayesaverage>5.47143</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14208" bayesaverage="5.47143" />
+												
+											</ranks>
+					
+					<stddev>1.62339</stddev>
+					<median>0</median>
+					<owned>54</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>2</wishing>
+					<numcomments>18</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

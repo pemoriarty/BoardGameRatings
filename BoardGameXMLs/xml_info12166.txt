@@ -1,0 +1,143 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12166">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Funkenschlag</name>
+									
+			<description>Players draw electrical networks on the board connecting various cities and then power them by purchasing power plants and the resources to run the plants.&lt;br/&gt;&lt;br/&gt;This is the first edition of the game, published only by 2F Spiele.  Several changes were made (payout schedule, fixed board, etc.) to create Funkenschlag Second Edition (aka Power Grid).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WwFGK24I-9C-a9jbHwWGQLveWc8=/fit-in/200x150/pic186713.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/VWdn3G0FYhRxkEicBoVtoCGajv0=/0x0/pic186713.jpg</image>
+						
+												<boardgamepublisher objectid="58">2F-Spiele</boardgamepublisher>
+															<boardgamehonor objectid="12817">2002 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+															<boardgamehonor objectid="13159">2006 Hra roku Nominee</boardgamehonor>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2010">Crayon Rail System</boardgamemechanic>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="26784">First edition</boardgameversion>
+															<boardgamedesigner objectid="141">Friedemann Friese</boardgamedesigner>
+															<boardgameimplementation objectid="33434">Funkenschlag: EnBW</boardgameimplementation>
+																																				<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+																						<boardgameimplementation objectid="39336">Mégawatts</boardgameimplementation>
+															<boardgameartist objectid="41559">PeKa</boardgameartist>
+															<boardgamefamily objectid="150">Power Grid</boardgamefamily>
+															<boardgameimplementation objectid="2651">Power Grid</boardgameimplementation>
+															<boardgameartist objectid="39777">Maren Rache</boardgameartist>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamepodcastepisode objectid="7706">Spiele-Podcast Nr. 35: Funkenschlag von 2F-Spiele</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>752</usersrated>
+					<average>7.57425</average>
+					<bayesaverage>6.30716</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1237" bayesaverage="6.30716" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="591" bayesaverage="6.50104" />
+												
+											</ranks>
+					
+					<stddev>1.5462</stddev>
+					<median>0</median>
+					<owned>1029</owned>
+					<trading>34</trading>
+					<wanting>28</wanting>
+					<wishing>113</wishing>
+					<numcomments>228</numcomments>
+					<numweights>62</numweights>
+					<averageweight>3.5806</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10214">
+			<yearpublished>1995</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Hundred Years War</name>
+									
+			<description>Strategy &amp;amp; Tactics magazine #177.&lt;br/&gt;&lt;br/&gt;The game recreates the wars fought between England and France between 1337 and 1453. Each game turn represents 1 year. Each unit represents leaders or 1-2000 soldiers. The units are either English (red), French (blue) or independent (white). The map is divided into areas not hexes and comes with 280 counters.&lt;br/&gt;&lt;br/&gt;Victory is determined by comparing each major powers victory point total with its initial resource value. Victory points are awarded for occupation of capital cities, the total treasury value of occupied areas and in its own treasury. Areas with shared ownership have shared treasury points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6YjuyJkVv7RE-Uikhes0eBl1rcQ=/fit-in/200x150/pic123726.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6mjol92lE5f4R3zXRkt_Akeyuvw=/0x0/pic123726.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamefamily objectid="26568">Cities: Orléans (France)</boardgamefamily>
+															<boardgamepublisher objectid="102">Decision Games (I)</boardgamepublisher>
+															<boardgameversion objectid="169627">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamefamily objectid="3231">Magazine: Strategy &amp; Tactics</boardgamefamily>
+															<boardgameartist objectid="1256">David McElhannon</boardgameartist>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamedesigner objectid="337">Joseph Miranda</boardgamedesigner>
+															<boardgameartist objectid="3347">Beth Queman</boardgameartist>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamefamily objectid="7545">Successors</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>43</usersrated>
+					<average>5.86744</average>
+					<bayesaverage>5.50609</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12120" bayesaverage="5.50609" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2496" bayesaverage="5.53792" />
+												
+											</ranks>
+					
+					<stddev>1.5487</stddev>
+					<median>0</median>
+					<owned>254</owned>
+					<trading>13</trading>
+					<wanting>14</wanting>
+					<wishing>19</wishing>
+					<numcomments>42</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

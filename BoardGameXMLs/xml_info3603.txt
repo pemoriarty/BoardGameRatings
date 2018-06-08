@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3603">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Normandy Campaign</name>
+									
+			<description>The Normandy Campaign is a two-player game on the fighting in Normandy which occurred after the Allied D-Day landings of June 6, 1944.  There are two identical maps, one for each player each hidden from the other.  Hexes are 10km, each turn 3 days, counters are from regiments to divisions.  Each turn consists of multiple movement and combat phases for each player.  Movement into enemy territory is done by stating the hex you wish to enter.  The opposing player must state if he has a unit in that hex, if not movement succeeds and may continue.  If so, an attack may take place if desired, and may involve multiple units on both sides with the attacker coming from one or more hexes.  Units are only revealed during combat.  Combat losses are in steps (7-8 becomes 5-8, then 3-8, then 1-8, then elim, etc) and determined by dice on a CRT.  Supply, fortifications and air power rules are included.  Victory is determined per scenario and is based on liberating cities or for exiting the west edge of the map.&lt;br/&gt;&lt;br/&gt;This is in the same series with Operation Market Garden&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aOjPyDcCmnh3ZZrnUcZcC9OeEhI=/fit-in/200x150/pic781890.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qfaJAByTD7UuHBHOmluLPuKrcXY=/0x0/pic781890.jpg</image>
+						
+												<boardgamefamily objectid="11006">Country: France</boardgamefamily>
+															<boardgameartist objectid="13589">David R. Deitrick</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="64345">First edition</boardgameversion>
+															<boardgamepublisher objectid="181">GDW Games</boardgamepublisher>
+															<boardgamefamily objectid="3213">GDW&#039;s Double Blind Series</boardgamefamily>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="181">Ben Knight</boardgamedesigner>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamedesigner objectid="721">B. Dennis Sustare</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>81</usersrated>
+					<average>6.46685</average>
+					<bayesaverage>5.56569</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7456" bayesaverage="5.56569" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1491" bayesaverage="5.85441" />
+												
+											</ranks>
+					
+					<stddev>1.56887</stddev>
+					<median>0</median>
+					<owned>286</owned>
+					<trading>22</trading>
+					<wanting>5</wanting>
+					<wishing>11</wishing>
+					<numcomments>56</numcomments>
+					<numweights>18</numweights>
+					<averageweight>2.9444</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

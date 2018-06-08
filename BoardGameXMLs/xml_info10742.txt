@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10742">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Foxy</name>
+							<name  sortindex="1">Ladino</name>
+									
+			<description>An early abstract 2 player game from Alex Randolph, players move a pipe of chips across the board, which fall into the available spaces. The board is a plastic table with 6x6 depressions, but the 4 corners are blocked so there are only 32 playing spaces. One player seeds the board with 11 grey discs.&lt;br/&gt;&lt;br/&gt;Then each player fills a plastic tube with wooden discs, one with blue, the other with yellow discs. One player starts in the corner and moves the tube. If it goes over an empty space, the disc falls and occupies the place. The other player can choose to then take this tube, or start with the other, so removing the starting advantage. The players then continue to move their tubes around, until one gets 11 discs down for the win. The tubes can be moved orthogonally or diagonally any distance, but not jump or turn corners.&lt;br/&gt;&lt;br/&gt;Reportedly a good abstract game and a clever physical mechanism.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/G89J00BjfXnwZWfwqFAEApIcoAk=/fit-in/200x150/pic1289071.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kt3COS8Dk6AzXhd8KIwpRo0or3E=/0x0/pic1289071.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="21239">Brinquedos Rei</boardgamepublisher>
+															<boardgameversion objectid="141958">Brinquedos Rei first edition</boardgameversion>
+															<boardgameimplementation objectid="236009">Drop Everything</boardgameimplementation>
+																						<boardgameversion objectid="202665">John Sands Australian Edition</boardgameversion>
+															<boardgamepublisher objectid="661">John Sands Pty Ltd</boardgamepublisher>
+															<boardgamepublisher objectid="4554">MB Spellen</boardgamepublisher>
+															<boardgameversion objectid="97540">MB spellen Dutch Edition 1977</boardgameversion>
+															<boardgamepublisher objectid="6290">MB Spiele</boardgamepublisher>
+															<boardgameversion objectid="30874">MB Spiele German First Edition</boardgameversion>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgameversion objectid="97542">Milton Bradley Edition 1977</boardgameversion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="24">Alex Randolph</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>38</usersrated>
+					<average>5.38947</average>
+					<bayesaverage>5.49441</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13035" bayesaverage="5.49441" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="777" bayesaverage="5.43674" />
+												
+											</ranks>
+					
+					<stddev>1.70198</stddev>
+					<median>0</median>
+					<owned>108</owned>
+					<trading>5</trading>
+					<wanting>6</wanting>
+					<wishing>14</wishing>
+					<numcomments>14</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2810">
+			<yearpublished>1978</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Checkpoint: Danger!</name>
+									
+			<description>This is a distant relative of Battleship.  Each player deploys four agents over a world map.  Then, using probes you try to deduce the position of the enemy agents before he deduces the positions of yours.  Basically, when you probe a grid location, the opponent announces how many of his agents can be reached in a straight line (including diagonals) from the probed location --excluding any of his agents which may be hidden behind others.&lt;br/&gt;&lt;br/&gt;Some extra complications occur because both are playing on the same map: for example, you may not probe where the opponent has probed, which opens up strategic opportunities...  &amp;quot;Checkpoint: Danger!&amp;quot; is what you call out when you're convinced one of his agents is in the same location as one of yours.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mJxJPUb7sLuAwxRdxNQRGbltUE4=/fit-in/200x150/pic7246.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HliEdN86WU8kkSlyfl6z0ZptWeE=/0x0/pic7246.jpg</image>
+						
+												<boardgamefamily objectid="7127">Battleship</boardgamefamily>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="109744">First edition</boardgameversion>
+															<boardgameimplementation objectid="17784">Galaxis</boardgameimplementation>
+															<boardgamepublisher objectid="153">Ideal</boardgamepublisher>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamedesigner objectid="2819">David Wells</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21</usersrated>
+					<average>6.04762</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.21405</stddev>
+					<median>0</median>
+					<owned>61</owned>
+					<trading>3</trading>
+					<wanting>4</wanting>
+					<wishing>6</wishing>
+					<numcomments>13</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

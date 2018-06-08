@@ -1,0 +1,142 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3518">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>7</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Napoleon in Europe</name>
+									
+			<description>Players take the role of a Napoleonic-era power and move miniature plastic infantry, cavalry and artillery to simulate the campaigns of Napoleon.  Several difficulty levels and scenarios included in the box.  Standard game has a map that offers a grand strategic view of the action, and separate board for battles to reflect tactical realities of the period such as combined arms, infantry square formations, and reserves.  Standard game also includes diplomacy, fleets, and economic system.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QB4vp45pKDh-bgDhWzD9DFCiWJg=/fit-in/200x150/pic522933.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JVXKtx86gQ_6Lx0_w2Nr_pGK6Y8=/0x0/pic522933.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																						<boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="1115">Glenn Drover</boardgamedesigner>
+															<boardgamepublisher objectid="597">Eagle-Gryphon Games</boardgamepublisher>
+																						<boardgameversion objectid="53223">First edition</boardgameversion>
+																													<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+																						<boardgamecategory objectid="1001">Political</boardgamecategory>
+																						<boardgameartist objectid="20470">Keith Rocco</boardgameartist>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>629</usersrated>
+					<average>6.6321</average>
+					<bayesaverage>5.82374</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2979" bayesaverage="5.82374" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="707" bayesaverage="6.21183" />
+												
+											</ranks>
+					
+					<stddev>1.76087</stddev>
+					<median>0</median>
+					<owned>1097</owned>
+					<trading>68</trading>
+					<wanting>61</wanting>
+					<wishing>142</wishing>
+					<numcomments>281</numcomments>
+					<numweights>88</numweights>
+					<averageweight>3.4432</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

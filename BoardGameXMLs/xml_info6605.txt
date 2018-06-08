@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6605">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Power Game</name>
+							<name  sortindex="5">The Power Game</name>
+							<name primary="true" sortindex="1">Track</name>
+							<name  sortindex="1">Turn</name>
+									
+			<description>Track is a two-player abstract game played on array of 6 by 8 spindles. Each player starts with eight gear wheels, one of which is the master and has rotational direction arrows on it. These wheels start on the row nearest each player with the master wheel being the fourth spindle from the left. The spindle spacing is such that any wheels on orthogonally adjacent spindles engage, but diagonally adjacent wheels do not.&lt;br/&gt;&lt;br/&gt;On a turn, a player may move any one of their wheels one space orthogonally or diagonally onto an unoccupied space. At any stage in the game after moving, the player may elect to turn their own master wheel in any direction. If this succeeds in turning the opponent's master wheel in the direction of the arrow marked on it, then the active player wins; if the opponent's master wheel fails to move or goes in the wrong direction, the active player loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/u-wZ88loKciYc2F3mLLayz9wJrY=/fit-in/200x150/pic1265395.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G8zvOqXsDLdFJEryC4uLCFfYFqs=/0x0/pic1265395.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="1531">Bütehorn Spiele</boardgamepublisher>
+															<boardgameversion objectid="109318">Bütehorn Spiele German edition</boardgameversion>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="3082">Dujardin</boardgamepublisher>
+															<boardgameversion objectid="159393">Dujardin English/French edition</boardgameversion>
+																						<boardgamedesigner objectid="2367">J. B. McCarthy</boardgamedesigner>
+																						<boardgameversion objectid="279534">Smurfit English edition</boardgameversion>
+															<boardgamepublisher objectid="1328">Smurfit Games</boardgamepublisher>
+															<boardgamepublisher objectid="1647">Snafoo Games, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="3529">Tactica</boardgamepublisher>
+															<boardgameversion objectid="92355">Tactica multilingual edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>42</usersrated>
+					<average>4.37119</average>
+					<bayesaverage>5.4589</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14561" bayesaverage="5.4589" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="864" bayesaverage="5.29721" />
+												
+											</ranks>
+					
+					<stddev>1.63147</stddev>
+					<median>0</median>
+					<owned>143</owned>
+					<trading>11</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>24</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

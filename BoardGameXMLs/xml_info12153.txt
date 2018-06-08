@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12153">
+			<yearpublished>1984</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Alak</name>
+									
+			<description>A one-dimensional (played on a line) variation of Go that was first described by A.K. Dewdney in his book The_Planiverse. In 2001, Alan Baljeu modified the game into its present form.&lt;br/&gt;&lt;br/&gt;The rules (from Wikipedia):&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Black and white take turns placing stones on the line. Unlike Go, this placement is compulsory if a move is available; if no move is possible, the game is over.&lt;br/&gt;     No stone may be placed in a location occupied by another stone, or in a location where a stone of your own colour has just been removed. The latter condition keeps the game from entering a neverending loop of stone placement and capture, known in Go as ko.&lt;br/&gt;     If placing a stone causes one or two groups of enemy stones to no longer have any adjacent empty spaces--liberties, as in Go--then those stones are removed. As the above rule states, the opponent may not play in those locations on their following turn.&lt;br/&gt;     If placing a stone causes one or two groups of your own colour to no longer have any liberties, the stones are not suicided, but instead are safe and not removed from play.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play continues until a player cannot place a stone on their turn. At this point, the number of stones on the board is counted; the winner is the one with the most stones.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Super Duper Games&lt;br/&gt;     Richard PBeM server&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pB3fH061AO2ZG4qmxh4ZFNWho9U=/fit-in/200x150/pic71197.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OmecepmT3baWV9k81W1EM28s8I8=/0x0/pic71197.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamedesigner objectid="3832">Alan Baljeu</boardgamedesigner>
+															<boardgamedesigner objectid="3831">Alexander K. Dewdney</boardgamedesigner>
+															<boardgameversion objectid="189278">First edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>4.96875</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.60535</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>2</wishing>
+					<numcomments>9</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

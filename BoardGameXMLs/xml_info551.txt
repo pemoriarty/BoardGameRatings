@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="551">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Battle Cry</name>
+							<name  sortindex="1">Battlecry</name>
+									
+			<description>A low complexity game of a variety of civil war battles.  Modular terrain through the use of hexagonal tiles allows for the setup of several famous civil war battle fields and a plethora of plastic civil war miniatures are used to represent the various forces during the conflict (infantry, cavalry, artillery and leaders).  Players manage a hand of cards that provide different orders to your troops in the right flank, left flank and center position of the battlefield.&lt;br/&gt;&lt;br/&gt;This game is the first to use what would evolve into Richard Borg's Command and Colors system.&lt;br/&gt;&lt;br/&gt;The game rules include the following scenarios:&lt;br/&gt;First Bull Run--21st July, 1861&lt;br/&gt;Pea Ridge--7th March, 1862&lt;br/&gt;Kernstown--23rd March, 1862&lt;br/&gt;Shiloh--6th April, 1862&lt;br/&gt;Gaines Mill--27th June, 1862&lt;br/&gt;Brawner's Farm--28th August, 1862&lt;br/&gt;Antietam--17th September, 1862&lt;br/&gt;Fredericksburg--13th December, 1862&lt;br/&gt;Murfreesboro--31st December, 1862&lt;br/&gt;Chancellorsville--3rd May, 1863&lt;br/&gt;Gettysburg--2nd July, 1863&lt;br/&gt;Gettysburg--3rd July, 1863&lt;br/&gt;Chickamauga--20th September, 1863&lt;br/&gt;New Market--15th May, 1864&lt;br/&gt;New Hope Church--25th May, 1864&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rW_YOV2zW9GIqUxVArMgpP0_pYE=/fit-in/200x150/pic21060.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Kka6gXQqPvVlB5VzCy2dLHShCVA=/0x0/pic21060.jpg</image>
+						
+												<boardgamepublisher objectid="4871">Avalon Hill Games, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="13">Wizards of the Coast</boardgamepublisher>
+																						<boardgamehonor objectid="21570">2000 Charles S. Roberts Best Pre-World War II Boardgame Nominee</boardgamehonor>
+															<boardgamehonor objectid="12727">2001 International Gamers Awards - General Strategy; Two-players</boardgamehonor>
+																						<boardgamecategory objectid="1048">American Civil War</boardgamecategory>
+																																				<boardgameimplementation objectid="88827">Battle Cry: 150th Civil War Anniversary Edition</boardgameimplementation>
+																													<boardgamedesigner objectid="25">Richard Borg</boardgamedesigner>
+															<boardgameartist objectid="25">Richard Borg</boardgameartist>
+															<boardgamefamily objectid="50">Commands &amp; Colors</boardgamefamily>
+															<boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="26233">First edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameartist objectid="16431">Scott Hill (I)</boardgameartist>
+															<boardgamepodcastepisode objectid="137669">I&#039;ve Been Diced! episode 64: Richard Borg</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="116605">Ludology Episode 78 - Here We Are Now, Entertain Us</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																																																																																																			<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="47">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="18">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="11" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3285</usersrated>
+					<average>7.15657</average>
+					<bayesaverage>6.70177</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="632" bayesaverage="6.70177" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="146" bayesaverage="7.00155" />
+												
+											</ranks>
+					
+					<stddev>1.35604</stddev>
+					<median>0</median>
+					<owned>4013</owned>
+					<trading>219</trading>
+					<wanting>128</wanting>
+					<wishing>434</wishing>
+					<numcomments>1353</numcomments>
+					<numweights>411</numweights>
+					<averageweight>2.1046</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

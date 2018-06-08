@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6650">
+			<yearpublished>1995</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Nummerus Zahlus</name>
+							<name  sortindex="1">String of Pearls</name>
+									
+			<description>Disks bearing the numbers 1 through 48 and a green selection disk are shuffled and placed in an irregularly-shaped grid.  Players move the selection disk like a chess queen, capturing the first number disk along the selection disk's move.  If no such capture can be made the player may move the selection disk to any space containing a number disk.&lt;br/&gt;&lt;br/&gt;When all 48 number disks are captured the player with the longest chain of sequential numbers (i.e., 13-14-15-16) wins.  The game can also be played for points, where chains score points based upon their length.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qK_iSbPt89MpfkqqSfN2irry10w=/fit-in/200x150/pic108870.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WiCtgzeQl-BPr3PnXMLt1F46jZ8=/0x0/pic108870.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="74">ASS Altenburger Spielkarten</boardgamepublisher>
+																						<boardgameversion objectid="146908">First edition</boardgameversion>
+																						<boardgamepublisher objectid="752">GAMES Magazine</boardgamepublisher>
+																													<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>5.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.05409</stddev>
+					<median>0</median>
+					<owned>25</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>8</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

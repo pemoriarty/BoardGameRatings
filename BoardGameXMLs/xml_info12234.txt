@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12234">
+			<yearpublished>2004</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>14</age>
+
+							<name  sortindex="1">DAK II: The Campaign In North Africa, 1940-1942</name>
+							<name primary="true" sortindex="1">DAK2</name>
+									
+			<description>DAK II: The Campaign In North Africa, 1940-1942, is the 5th entry in The Gamer's/Multi-Man Publishing popular Operational Combat Series (OCS) and covers the entire campaign in the Western Desert theater in World War II at the regimental level, from Compass to El Alamein and beyond in 17 scenarios.&lt;br/&gt;&lt;br/&gt;Game Scale:&lt;br/&gt;Game Turn: Half Week&lt;br/&gt;Hex: 5 miles / 8 Km&lt;br/&gt;Units: Company to Division&lt;br/&gt;&lt;br/&gt;Game Inventory:&lt;br/&gt;Five 22 x 34&amp;quot; maps&lt;br/&gt;Six dual-side printed countersheets (1,540 1/2&amp;quot; counters)&lt;br/&gt;One 52-page OCS rules booklet&lt;br/&gt;One 64-page DAK II Vol. 1 game rules &amp;amp; scenario booklet&lt;br/&gt;One 40-page DAK II Vol. II game rules &amp;amp; scenario booklet&lt;br/&gt;Two 8-page DAK II Vol. III game rules &amp;amp; charts/tables booklets&lt;br/&gt;One Map E Abstract player aid card (1-sided) &lt;br/&gt;Two 6-sided dice&lt;br/&gt;&lt;br/&gt;Complexity: High &lt;br/&gt;Solitaire Suitability: Medium&lt;br/&gt;Playing Time: 3 to Hundreds of hours&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZBJyPN9lKUYJX7ZgjaTFpEgOk7k=/fit-in/200x150/pic120631.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nzwyV4bbm0coCM_Ft1Ri7XIo6u4=/0x0/pic120631.jpg</image>
+						
+																			<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="406">Dean Essig</boardgamedesigner>
+															<boardgameartist objectid="406">Dean Essig</boardgameartist>
+															<boardgamepodcastepisode objectid="214173">GrogCast Season 5 Episode 12 – A Cast of Many</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+																						<boardgamepublisher objectid="196">Multi-Man Publishing</boardgamepublisher>
+																						<boardgamefamily objectid="80">Operational Combat Series</boardgamefamily>
+																						<boardgameartist objectid="28351">David Pentland</boardgameartist>
+															<boardgameversion objectid="168974">Second Edition</boardgameversion>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="8164">Solitaire Wargames</boardgamefamily>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgameimplementation objectid="5452" inbound="true">DAK</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>260</usersrated>
+					<average>8.26129</average>
+					<bayesaverage>5.94683</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2301" bayesaverage="5.94683" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="95" bayesaverage="7.15158" />
+												
+											</ranks>
+					
+					<stddev>1.89448</stddev>
+					<median>0</median>
+					<owned>691</owned>
+					<trading>10</trading>
+					<wanting>95</wanting>
+					<wishing>257</wishing>
+					<numcomments>115</numcomments>
+					<numweights>60</numweights>
+					<averageweight>4.3667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

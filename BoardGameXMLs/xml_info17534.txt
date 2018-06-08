@@ -1,0 +1,143 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17534">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>9</age>
+
+							<name  sortindex="1">4</name>
+							<name  sortindex="1">Just 4 Fun</name>
+							<name primary="true" sortindex="1">Just4Fun</name>
+							<name  sortindex="1">Mach 4</name>
+							<name  sortindex="1">Τα 4 χαμόγελα</name>
+							<name  sortindex="1">저스트4펀</name>
+									
+			<description>Players have hands of four cards numbered 1 through 19. Play 1, 2, 3, or 4 cards to place a stone on the gameboard, which consists of 36 numbered squares in a non-obvious order. (The yucata implementation allows for alternate arrangements.) The goal is to claim four squares in a line, horizontally, vertically, or diagonally. But multiple stones can be placed on a square, and a square is only safe if a player has two more stones on it than any other player. If four-in-a-row is not achieved within 20 turns, the game ends in favor of the player with the most points.&lt;br/&gt;&lt;br/&gt;Fourmation is a version of the game with a modular board published by SimplyFun.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5zi4vHWTZVu_et_iuTttLGJswC4=/fit-in/200x150/pic594450.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6k6Z916-DKs7MwE--N8OK5vouyQ=/0x0/pic594450.jpg</image>
+						
+												<boardgamehonor objectid="19188">2006 Japan Boardgame Prize Best Foreign Game for Beginners Nominee</boardgamehonor>
+															<boardgamehonor objectid="21033">2006 Spiel der Spiele Hit für Familien Recommended</boardgamehonor>
+															<boardgamehonor objectid="8644">2006 Spiel des Jahres Nominee</boardgamehonor>
+															<boardgamehonor objectid="9280">2010 Årets Spill Best Family Game Nominee</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="4335">Competo / Marektoy</boardgamepublisher>
+															<boardgamepublisher objectid="496">danspil</boardgamepublisher>
+															<boardgameversion objectid="228485">Danspil Nordic edition</boardgameversion>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																																																																																																																													<boardgamedesigner objectid="272">Jürgen P. Grunau</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+															<boardgamepublisher objectid="8291">Korea Boardgames co., Ltd.</boardgamepublisher>
+															<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgameversion objectid="30663">Kosmos German edition</boardgameversion>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																																				<boardgamefamily objectid="135">Spielbox</boardgamefamily>
+															<boardgameversion objectid="21649">Spielbox edition</boardgameversion>
+															<boardgameartist objectid="11902">Claus Stephan</boardgameartist>
+															<boardgameartist objectid="12836">Mirko Suzuki</boardgameartist>
+															<boardgamepublisher objectid="3001">W. Nostheide Verlag GmbH</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>505</usersrated>
+					<average>5.80728</average>
+					<bayesaverage>5.59573</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6145" bayesaverage="5.59573" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="497" bayesaverage="5.6733" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1252" bayesaverage="5.62699" />
+												
+											</ranks>
+					
+					<stddev>1.41193</stddev>
+					<median>0</median>
+					<owned>474</owned>
+					<trading>14</trading>
+					<wanting>13</wanting>
+					<wishing>46</wishing>
+					<numcomments>146</numcomments>
+					<numweights>55</numweights>
+					<averageweight>1.2545</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7943">
+			<yearpublished>1989</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">BattleTech: Battletroops</name>
+									
+			<description>Battletroops is a game of man-to-man combat in the 31st century. Players can command up to 28 foot soldiers in city battles. Optional rules provide for integrating Battle Troops with FASA's Battle Tech and Mech Warrior games.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CQm90o8V2Ikrr6kUUvNWgI7BgUU=/fit-in/200x150/pic754495.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_kVJVM3tMeZ-oM5qexfM9NgKsms=/0x0/pic754495.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameartist objectid="13641">Dana Andrews</boardgameartist>
+															<boardgamedesigner objectid="927">L. Ross Babcock, III</boardgamedesigner>
+															<boardgamefamily objectid="5918">BattleTech</boardgamefamily>
+															<boardgameexpansion objectid="21312">BattleTech: ClanTroops</boardgameexpansion>
+															<boardgameexpansion objectid="92205">BattleTech: Hot Spots</boardgameexpansion>
+															<boardgamepublisher objectid="342">FASA</boardgamepublisher>
+															<boardgameversion objectid="65462">First edition</boardgameversion>
+															<boardgameartist objectid="11998">James Holloway</boardgameartist>
+															<boardgameartist objectid="13920">Jeff Laubenstein</boardgameartist>
+															<boardgamedesigner objectid="926">Sam Lewis</boardgamedesigner>
+															<boardgameartist objectid="21027">John Marcus</boardgameartist>
+															<boardgameartist objectid="16491">Thomas Miller (I)</boardgameartist>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameimplementation objectid="3476">Shadowrun: DMZ Downtown Militarized Zone</boardgameimplementation>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameartist objectid="16192">Michael Weaver</boardgameartist>
+															<boardgamedesigner objectid="411">Jordan Weisman</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>96</usersrated>
+					<average>5.99062</average>
+					<bayesaverage>5.53439</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9571" bayesaverage="5.53439" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2198" bayesaverage="5.63422" />
+												
+											</ranks>
+					
+					<stddev>1.39419</stddev>
+					<median>0</median>
+					<owned>255</owned>
+					<trading>11</trading>
+					<wanting>6</wanting>
+					<wishing>13</wishing>
+					<numcomments>27</numcomments>
+					<numweights>13</numweights>
+					<averageweight>3.0769</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

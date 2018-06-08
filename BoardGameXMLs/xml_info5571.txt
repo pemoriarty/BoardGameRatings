@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5571">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Siege</name>
+									
+			<description>Siege is a man-to-man small scale combat game set in medieval Europe (maybe around the 13th century).&lt;br/&gt;&lt;br/&gt;The game is both a game by itself or can be played as an expansion to Cry Havoc. As a stand-alone game it has 5 scenarios and 2 maps (a camp and a castle). There are rules that cover a range of siege warfare tactics such as siege weapons, fire, breaching walls and scaling ladders. It is well suited for play-by-email format and can be adapted for decent solitaire play as well.&lt;br/&gt;&lt;br/&gt;The unit scale is one man to one counter. Each man (or woman! They are here too!) is generally represented by multiple counters or both sides of a single counter to portray healthy and wounded combatants as well as mounted and unmounted (including the horses) where applicable. Each counter has a nicely colored picture of each man with attack defense and movement values in addition to the name of the person depicted.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    Outremer&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Cry Havoc series page contains information about the game system and history of the game including fan expansions.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/i4KBULhF-LRJrjOc4RS-A-YxTug=/fit-in/200x150/pic361392.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Y6o2H6RTqqNzYMGmJdPFP-9SmCk=/0x0/pic361392.jpg</image>
+						
+												<boardgameimplementation objectid="174996">The Anarchy</boardgameimplementation>
+															<boardgameexpansion objectid="3756">Croisades</boardgameexpansion>
+																						<boardgameexpansion objectid="23926">Cry Havoc Scenario Book 2</boardgameexpansion>
+																						<boardgamefamily objectid="3273">Cry Havoc System</boardgamefamily>
+																						<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+															<boardgamepublisher objectid="116">Eurogames</boardgamepublisher>
+															<boardgameversion objectid="40415">Eurogames French/Dutch second edition</boardgameversion>
+																						<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="29281">First edition</boardgameversion>
+															<boardgameexpansion objectid="14278">The Fortified Town</boardgameexpansion>
+															<boardgameintegration objectid="147919">Guiscard</boardgameintegration>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="1605">Jeux Rexton</boardgamepublisher>
+															<boardgameversion objectid="31412">Jeux Rexton edition</boardgameversion>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamedesigner objectid="2288">Alan Paull</boardgamedesigner>
+															<boardgamepublisher objectid="1211">Standard Games and Publications, Ltd.</boardgamepublisher>
+															<boardgameexpansion objectid="14263">The Templars Castle</boardgameexpansion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameexpansion objectid="1323" inbound="true">Cry Havoc</boardgameexpansion>
+															<boardgameintegration objectid="147919" inbound="true">Guiscard</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>280</usersrated>
+					<average>6.96006</average>
+					<bayesaverage>5.76987</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.76987" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.35192" />
+												
+											</ranks>
+					
+					<stddev>1.27287</stddev>
+					<median>0</median>
+					<owned>770</owned>
+					<trading>30</trading>
+					<wanting>19</wanting>
+					<wishing>50</wishing>
+					<numcomments>73</numcomments>
+					<numweights>31</numweights>
+					<averageweight>2.3871</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

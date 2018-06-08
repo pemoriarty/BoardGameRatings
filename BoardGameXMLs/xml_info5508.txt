@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5508">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="4">La Bataille de Mont Saint Jean</name>
+							<name  sortindex="4">La Bataille de Mont St Jean</name>
+									
+			<description>The Battle of Waterloo.&lt;br/&gt;&lt;br/&gt;This game came in 2 editions, an Expansion Kit edition and a Deluxe edition.&lt;br/&gt;&lt;br/&gt;For the expansion kit you must own La Bataille de Ligny and La Bataille des Quatre Bras as it only contains maps, special rules and background. The Deluxe Edition contains those items plus the counters and basic rules.&lt;br/&gt;&lt;br/&gt;The Deluxe edition contains:&lt;br/&gt;  4 34x22&amp;quot; maps&lt;br/&gt;  3 Organizational Displays&lt;br/&gt;  Standard Rules &amp;amp; Special Rulebook&lt;br/&gt;  6 Counter Sheets (2 Quatre Bras, 3 Ligny, 1 Informational markers)&lt;br/&gt;  Charts &amp;amp; Tables&lt;br/&gt;&lt;br/&gt;Mont St. Jean is the French name for the Battle of Waterloo, and the Prussians called this The battle of Belle Alliance.&lt;br/&gt;&lt;br/&gt;scale = 100 m/hex; &lt;br/&gt;time = 20 min/GT; &lt;br/&gt;strength = 50-100 men/SP (Regimental/Brigade Size)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/PtUzTH0aokfdmTCu0Q5BbZBwB2I=/fit-in/200x150/pic699627.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mWbtX69l4Tjj9MsgH_GjvINs1M8=/0x0/pic699627.jpg</image>
+						
+												<boardgameexpansion objectid="39908">Alexander at Waterloo</boardgameexpansion>
+															<boardgameartist objectid="3439">Rick Barber</boardgameartist>
+															<boardgamefamily objectid="109">La Bataille series</boardgamefamily>
+															<boardgamepublisher objectid="94">Clash of Arms Games</boardgamepublisher>
+															<boardgameversion objectid="370984">Deluxe first edition</boardgameversion>
+															<boardgameversion objectid="200438">Expansion Kit edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+															<boardgameexpansion objectid="157532">Règlement de l&#039;An XXX</boardgameexpansion>
+															<boardgameexpansion objectid="16115">Regulations of the Year XXII</boardgameexpansion>
+															<boardgameversion objectid="403286">Second deluxe edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamedesigner objectid="1710">Ed Wimble</boardgamedesigner>
+															<boardgameexpansion objectid="12897" inbound="true">La Bataille de Ligny</boardgameexpansion>
+															<boardgameexpansion objectid="12896" inbound="true">La Bataille des Quatre Bras</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>119</usersrated>
+					<average>7.84034</average>
+					<bayesaverage>5.71018</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.71018" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.50068" />
+												
+											</ranks>
+					
+					<stddev>1.34548</stddev>
+					<median>0</median>
+					<owned>470</owned>
+					<trading>18</trading>
+					<wanting>19</wanting>
+					<wishing>40</wishing>
+					<numcomments>51</numcomments>
+					<numweights>21</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

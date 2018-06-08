@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2812">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>15</age>
+
+							<name primary="true" sortindex="1">Platoon</name>
+									
+			<description>Platoon is a simple wargame on small squad combat in Vietnam.  The game is similar to AH's Smithsonian series games:  a single sheet with basic rules and a small booklet that contains advanced rules, additional scenarios and historical background information.  The combat system is also similar to other Smithsonian games.&lt;br/&gt;&lt;br/&gt;The scenarios and soldiers are based upon events and characters in the movie.&lt;br/&gt;&lt;br/&gt;The game uses two elements to create fog of war:&lt;br/&gt;-  the counters have small stands so the identity of each counter is unknown to the enemy.  Some of the counters are fakes and &amp;quot;substitutes&amp;quot; (these are used to combine several counters into a single group.  All counters are placed in an off board box and the matching substitute counter is placed on the map.)&lt;br/&gt;-  Random initiative draw.  Similar to Firepower, chits for each side are placed in a cup and each turn one is randomly drawn to determine which player may move.&lt;br/&gt;&lt;br/&gt;Platoon had a AH complexity rating of 3.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/EuxMpBd0ZSYtHFpMIR9J54n_yWA=/fit-in/200x150/pic335686.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ReNbYawknqK-0KeLEL44BKBAJZk=/0x0/pic335686.jpg</image>
+						
+												<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgameversion objectid="31836">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+																						<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+															<boardgamecategory objectid="1109">Vietnam War</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>210</usersrated>
+					<average>5.94557</average>
+					<bayesaverage>5.55194</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8256" bayesaverage="5.55194" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2109" bayesaverage="5.66209" />
+												
+											</ranks>
+					
+					<stddev>1.45123</stddev>
+					<median>0</median>
+					<owned>485</owned>
+					<trading>32</trading>
+					<wanting>12</wanting>
+					<wishing>34</wishing>
+					<numcomments>98</numcomments>
+					<numweights>34</numweights>
+					<averageweight>2.1471</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8935">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Shazamm!</name>
+									
+			<description>You are a mighty wizard. The mightiest in the realm.&lt;br/&gt;But out there, just across that bridge over the lava river, lives a guy who insists that HE is the mightiest wizard!&lt;br/&gt;&lt;br/&gt;SHAZAMM! is a game for two players at least 10 years old.&lt;br/&gt;The game takes roughly 30 minutes.&lt;br/&gt;&lt;br/&gt;Components :&lt;br/&gt;- A 42&amp;times;21cm game board, showing the bridge where the wizards duel, and the dragon (Mana scale).&lt;br/&gt;- Two 15-cards decks featuring the spells.&lt;br/&gt;- Two double wheels counter to bet your Mana.&lt;br/&gt;- 3 cardboard token with plastic stands: the wizards and the Fire Wall.&lt;br/&gt;- Two wooden token: the Mana markers.&lt;br/&gt;- 16 &amp;quot;broken flagstones&amp;quot;.&lt;br/&gt;- An 8 pages rules booklet.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Boîte à jeux (turn-based)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IEeTyYs2fP7Z6c290U8Fit0tVN0=/fit-in/200x150/pic37522.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FCOPKLf2-HFXqQhhc-zi_LHIGLA=/0x0/pic37522.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamedesigner objectid="3025">François Bruel</boardgamedesigner>
+															<boardgameartist objectid="3025">François Bruel</boardgameartist>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="219">Philippe des Pallières</boardgamedesigner>
+															<boardgameversion objectid="26551">English edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="1376">L. F. Enterprises</boardgamepublisher>
+															<boardgamepublisher objectid="2024">Lui-même</boardgamepublisher>
+															<boardgameversion objectid="25018">Lui-Même edition</boardgameversion>
+																																											<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>571</usersrated>
+					<average>6.20471</average>
+					<bayesaverage>5.73043</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3715" bayesaverage="5.73043" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1309" bayesaverage="5.78604" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="939" bayesaverage="5.80252" />
+												
+											</ranks>
+					
+					<stddev>1.43406</stddev>
+					<median>0</median>
+					<owned>963</owned>
+					<trading>123</trading>
+					<wanting>21</wanting>
+					<wishing>113</wishing>
+					<numcomments>262</numcomments>
+					<numweights>54</numweights>
+					<averageweight>1.8889</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

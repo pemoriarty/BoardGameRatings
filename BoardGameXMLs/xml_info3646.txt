@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3646">
+			<yearpublished>1971</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Luftwaffe</name>
+									
+			<description>&amp;quot;The game of Aerial Combat over Germany 1943-45&amp;quot;.  A turn based hex and counter wargame covering the strategic air war over Germany in WWII.  Turns are roughly 1 1/2 months, units are groups.  Hex size represents 20 miles. The board covers the Western Front from Belgium to Poland/Hungary.&lt;br/&gt;&lt;br/&gt;Avalon Hill Complexity Rating - 5&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/41zCWoe4IzMk8GqPsXh6aXvZMP4=/fit-in/200x150/pic48150.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MW0eeL4b1sHTvZeGxSXoS3weYj8=/0x0/pic48150.jpg</image>
+						
+												<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgameversion objectid="39572">Avalon Hill Second printing</boardgameversion>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgamefamily objectid="10643">Country: Germany</boardgamefamily>
+															<boardgamefamily objectid="14835">Country: USA</boardgamefamily>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameartist objectid="79560">Charles Harbaugh</boardgameartist>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameimplementation objectid="31067">Luftwaffe: Aerial Combat – Germany 1943-45</boardgameimplementation>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+																						<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgamedesigner objectid="1485">Lou Zocchi</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>777</usersrated>
+					<average>5.5478</average>
+					<bayesaverage>5.49328</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13113" bayesaverage="5.49328" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2617" bayesaverage="5.47714" />
+												
+											</ranks>
+					
+					<stddev>1.44787</stddev>
+					<median>0</median>
+					<owned>2367</owned>
+					<trading>274</trading>
+					<wanting>4</wanting>
+					<wishing>27</wishing>
+					<numcomments>386</numcomments>
+					<numweights>107</numweights>
+					<averageweight>2.6636</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2252">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">King of the Tabletop</name>
+									
+			<description>Each player controls a kingdom made up of land tiles of different terrains (mountains, forest, etc), castles, settlements, and people and creatures.&lt;br/&gt;&lt;br/&gt;The object of the game is to have a certain amount of prestige, judged based on the size of one's kingdom, treasury, and the number of special heroic characters inhabiting the kingdom, as well as having a Grand Muniment (very large castle).&lt;br/&gt;&lt;br/&gt;This game was originally published in Dragon #77. Errata appeared in Dragon #78.&lt;br/&gt;&lt;br/&gt;Re-Implemented by: Kings &amp; Things.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9mIcDHvRRdboY0IZ0QNHwy-b4NU=/fit-in/200x150/pic387635.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xmlrnk6BVZYThR-hp6oKvLxp1Q0=/0x0/pic387635.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgameversion objectid="25402">Dragon magazine edition</boardgameversion>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																						<boardgameimplementation objectid="58">Kings &amp; Things</boardgameimplementation>
+															<boardgamedesigner objectid="1188">Robert J. Kuntz</boardgamedesigner>
+															<boardgamefamily objectid="5713">Magazine: Dragon</boardgamefamily>
+																													<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgameartist objectid="98">David A. Trampier</boardgameartist>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgamedesigner objectid="46">Tom Wham</boardgamedesigner>
+															<boardgameartist objectid="46">Tom Wham</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>197</usersrated>
+					<average>6.87423</average>
+					<bayesaverage>5.68744</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4186" bayesaverage="5.68744" />
+												
+											</ranks>
+					
+					<stddev>1.40226</stddev>
+					<median>0</median>
+					<owned>375</owned>
+					<trading>12</trading>
+					<wanting>7</wanting>
+					<wishing>48</wishing>
+					<numcomments>117</numcomments>
+					<numweights>26</numweights>
+					<averageweight>1.9231</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

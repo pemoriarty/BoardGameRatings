@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5622">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>6000</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>6000</maxplaytime>
+			<age>16</age>
+
+							<name primary="true" sortindex="1">Pacific War</name>
+									
+			<description>Pacific War is a strategic wargame that takes players from the attack on Pearl Harbor through the climactic summer of 1945... from Australia to China, from Burma to Hawaii... from the defense of Wake Island to the Guadalcanal campaign to the massive actions fought in desperate defense of the Japanese homeland.&lt;br/&gt;&lt;br/&gt;For the first time in a Pacific Theater game, size, subtlety, and ease of play have come together in a game of sharp action and historical accuracy.  Players can become familiar with the layered Pacific War systems in the solitaire Engagement Scenarios, fighting their way through increasinly panoramic Battle, Campaign, and Strategic two-player and multi-player Scenarios.  Building on the game's basic maneuver and combat systems, players learn to conduct strategic bombing, merchant shipping attition, search and detection, amphibious assaults, and extensive Operations whose duration and cost they determine themselves.&lt;br/&gt;&lt;br/&gt;Pacific War is a source of limitless challenge and excitement for every gamer ever fascinated with the vastness and fury of the Pacific Campaigns.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5pwFTDJI4oY1y52w1G7Rz_gKolk=/fit-in/200x150/pic128087.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GMUpaCa7vH_BM7rrwjHRdYkFNBo=/0x0/pic128087.jpg</image>
+						
+																			<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="152">Mark Herman</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgameversion objectid="85452">Hobby Japan edition</boardgameversion>
+																						<boardgameartist objectid="15063">Ted Koller</boardgameartist>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+																						<boardgamepublisher objectid="123">Victory Games (I)</boardgamepublisher>
+															<boardgameversion objectid="32237">Victory Games edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="7" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>516</usersrated>
+					<average>7.55915</average>
+					<bayesaverage>6.09694</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1757" bayesaverage="6.09694" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="140" bayesaverage="7.02504" />
+												
+											</ranks>
+					
+					<stddev>1.67403</stddev>
+					<median>0</median>
+					<owned>1514</owned>
+					<trading>61</trading>
+					<wanting>45</wanting>
+					<wishing>190</wishing>
+					<numcomments>240</numcomments>
+					<numweights>90</numweights>
+					<averageweight>4.5111</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9710">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Ready to Take Off</name>
+							<name primary="true" sortindex="1">Take Off</name>
+									
+			<description>Basic bidding game in which each player is an airline.  Everyone receives route cards and plane cards.  In turn, each player puts a route card (which lists locations for 3 of the plane types) from their hand up for auction.   At the end players are rewarded for connectivity within their resulting network of cities.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1RCyai_j27uwmV-kWvhQ3iwNnHM=/fit-in/200x150/pic45138.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/BSkScyvLAjes6p6er2ru4FTGpcM=/0x0/pic45138.jpg</image>
+						
+												<boardgamepublisher objectid="46">Adlung-Spiele</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamedesigner objectid="312">Frank Brandt</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgameversion objectid="73213">First edition</boardgameversion>
+																													<boardgameartist objectid="12591">Jürgen Martens</boardgameartist>
+																						<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>88</usersrated>
+					<average>5.42273</average>
+					<bayesaverage>5.49416</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13049" bayesaverage="5.49416" />
+												
+											</ranks>
+					
+					<stddev>1.24606</stddev>
+					<median>0</median>
+					<owned>317</owned>
+					<trading>21</trading>
+					<wanting>5</wanting>
+					<wishing>9</wishing>
+					<numcomments>44</numcomments>
+					<numweights>13</numweights>
+					<averageweight>1.6154</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

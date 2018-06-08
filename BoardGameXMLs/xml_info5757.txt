@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5757">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Bakerstreet</name>
+									
+			<description>Two players race to try to solve a mysterious case by collecting 7 consecutively-lettered evidence cards.&lt;br/&gt;&lt;br/&gt;Every turn a player increases his influence by placing a card next to an evidence pile. After that he has to estimate the total of the values of both players' cards in hand.&lt;br/&gt;&lt;br/&gt;Instead of increasing influence a player may dispute the opponent's bid. If the bid was too high (higher than the card total) the player may choose one evidence pile which is evaluated. Influence on this pile is rewarded with an evidence card.&lt;br/&gt;&lt;br/&gt;Belongs to the Ravensburger Fun For 2 Series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aG_6XySaDNwPyrWH17UNw27S4RU=/fit-in/200x150/pic194107.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0Pzt3wqsHA0qEuaBeqi0kZjrbNY=/0x0/pic194107.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="7510">Characters: Sherlock Holmes</boardgamefamily>
+															<boardgamefamily objectid="14759">Country: England</boardgamefamily>
+																																											<boardgameversion objectid="103022">German edition</boardgameversion>
+																																																																																																										<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="59">Marcel-André Casasola Merkle</boardgamedesigner>
+															<boardgameartist objectid="59">Marcel-André Casasola Merkle</boardgameartist>
+															<boardgameversion objectid="281535">Multilingual edition</boardgameversion>
+															<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+															<boardgamefamily objectid="82">Ravensburger Fun For 2 Series</boardgamefamily>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+																						<boardgameartist objectid="51589">Claudia Riga</boardgameartist>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepodcastepisode objectid="43509">The Spiel #126 - London&#039;s Calling</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>256</usersrated>
+					<average>5.5718</average>
+					<bayesaverage>5.50921</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11834" bayesaverage="5.50921" />
+												
+											</ranks>
+					
+					<stddev>1.39044</stddev>
+					<median>0</median>
+					<owned>451</owned>
+					<trading>39</trading>
+					<wanting>8</wanting>
+					<wishing>27</wishing>
+					<numcomments>94</numcomments>
+					<numweights>18</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

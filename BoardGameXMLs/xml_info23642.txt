@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23642">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Storm of Steel</name>
+									
+			<description>Publishers blurb: &amp;quot;STORM OF STEEL is a complete simulation of World War One. The three maps cover Europe from the Pyrenees to the Urals, plus the Middle East. Fighting rages from St. Petersburg to Verdun to Baghdad and beyond. The maps can be combined for one grand game of the Great War, or they may be used separately for theater-level campaigns of the eastern front, the western front and the Middle East. The game rules use a modular approach, which allows players to employ the level of complexity they desire. Turns are quarterly, but players can use special campaign cards to provide additional move-fight impulses, recreating the intensive offensives of the war. There are scenarios for each year and each front of the war, as well as a grand game for the entire war. There is also a &amp;quot;what if&amp;quot; scenario for the war continuing into 1919.&lt;br/&gt;&lt;br/&gt;Units represent land, naval and air forces. Ground forces are portrayed at corps level. Each corps is rated for the number of divisions it includes; so players can concentrate for the offensive or disperse for the defense. Corps include infantry, shock troops, mountain infantry and cavalry. There are also specialized armored car and tank brigades, as well as tank corps for 1919, plus the planned-for American airborne division. Each country has its own unique order of battle so, for example, the Austro-Hungarians have mountain corps, and there are also additional units representing Bolshevik and independent nationalist forces.&lt;br/&gt;&lt;br/&gt;Naval units are at the squadron level for capital ships, and flotillas for cruisers and destroyers. There is also a complete submarine warfare module for attacks on merchant shipping. Air warfare is represented by strategic and tactical wings. A unique feature of the game is players can improve their aerial warfare capabilities by increasing their air doctrine level. As air doctrine improves, players can employ interception, aerial supply and aircraft carrier operations. On the subversive side, players can utilize agents to conduct propaganda and sabotage operations to undermine their foes from within.&lt;br/&gt;&lt;br/&gt;Land combat uses three different combat results tables to model different tactics. Tank and shock troop units can use the much more effective Infiltration CRT. Naval combat requires opposing fleets to first acquire each other, then engage in gunnery. Lighter fleet units become invaluable for recon and screening, while battleships and battlecruiser squadrons close in for the kill. In the air, players can execute a variety of missions, including air superiority and bombardment.&lt;br/&gt;&lt;br/&gt;An industrial production module gives players the capability to produce different types of forces. Production is tied to morale, and winning great battles will enhance your side's output while a disastrous defeat may lead to strikes on the home front. Storm of Steel uses a card system to generate major operations. Campaign cards give players additional move-fight impulses, combat bonuses and extra reinforcements. Players have to carefully choose which campaigns they will implement because some cards, such as the Schlieffen Plan, will provide for more maneuver, while others, such as Verdun, will enhance combat. There are also cards that will grant tactical innovations such as chemical warfare and armored doctrine, as well as bringing into play leaders such as Hindenburg, Brusilov and Lawrence of Arabia.&amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/B8T_oCYGBug442aP0s-qYWQkDwk=/fit-in/200x150/pic213623.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Jn4rVvQl8Nxh32gbXrqJfQEjOtk=/0x0/pic213623.jpg</image>
+						
+												<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamepublisher objectid="102">Decision Games (I)</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="244168">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="337">Joseph Miranda</boardgamedesigner>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgameexpansion objectid="41616">Storm of Steel: Expansion Kit</boardgameexpansion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>61</usersrated>
+					<average>6.18361</average>
+					<bayesaverage>5.52276</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10621" bayesaverage="5.52276" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2197" bayesaverage="5.63432" />
+												
+											</ranks>
+					
+					<stddev>2.24785</stddev>
+					<median>0</median>
+					<owned>232</owned>
+					<trading>14</trading>
+					<wanting>22</wanting>
+					<wishing>47</wishing>
+					<numcomments>53</numcomments>
+					<numweights>13</numweights>
+					<averageweight>3.6154</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

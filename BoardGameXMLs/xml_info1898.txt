@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1898">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Friesematenten</name>
+									
+			<description>Friesematenten is a card game.  The goal of the game is to collect enough of the right type of cards to score 40 victory points.  Cards are collected through auctions.  Each card either provides victory points, produces income or gives you actions to manipulate already played cards.  The game is semi collectible with 200+ cards in the whole game but each individual game coming with a subset of those 200 cards. The base game comes with two extension sets of 60 random cards and is enough for a two-player game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/x4qdbqcIhk8MVhAAZTMiXqLKN4M=/fit-in/200x150/pic130669.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SRUrJXiG6plBse5QbCt7Ip2E0Ic=/0x0/pic130669.jpg</image>
+						
+												<boardgamepublisher objectid="58">2F-Spiele</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgameversion objectid="61652">First edition</boardgameversion>
+															<boardgamedesigner objectid="141">Friedemann Friese</boardgamedesigner>
+															<boardgameimplementation objectid="82402">Friesematenten</boardgameimplementation>
+																																				<boardgameartist objectid="41558">Andreas Keiser</boardgameartist>
+															<boardgameartist objectid="41560">Holger Martens</boardgameartist>
+															<boardgameartist objectid="41559">PeKa</boardgameartist>
+															<boardgameartist objectid="41561">Gerrit Schwaner</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>135</usersrated>
+					<average>6.31704</average>
+					<bayesaverage>5.58358</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6586" bayesaverage="5.58358" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="138" bayesaverage="5.84319" />
+												
+											</ranks>
+					
+					<stddev>1.489</stddev>
+					<median>0</median>
+					<owned>288</owned>
+					<trading>13</trading>
+					<wanting>16</wanting>
+					<wishing>15</wishing>
+					<numcomments>41</numcomments>
+					<numweights>9</numweights>
+					<averageweight>2.1111</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3348">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Santa Fe Rails</name>
+									
+			<description>On a map showing the western portion of the United States each player in turn can build track to extend any of 5 major railroad lines westward from their separate origins.    Players may have conflicting goals for the route to be taken as each tries to gain rewards for connecting different cities. Some branching is allowed but each line has a limited number of track pieces.&lt;br/&gt; The particular cities which will reward individual players are accumulated throughout the game by drawing blind from a deck of identifying cards.  The more different lines arriving at a city, the higher the score will be for that city.  Later in the game 4 short lines  also become available.&lt;br/&gt;&lt;br/&gt;An updated version of Alan R. Moon's White Wind game Santa Fe.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Game Summary&lt;br/&gt;The deck is composed of city cards (with some short lines shuffled into the middle third). Players have a hand of 4 city cards to start the game. Each round, players simultaneously select a card to play, then reveal. City cards are added to your personal display -- essentially, you have a share in that city. There are also several special cards (2x, 3x, 4-in-one, Branch Line, Boomtown) that modify the basic game turn. These specials are on public display, and can be acquired at the end of each round (some cost $1; the 2x may be held, but the rest must be played immediately after acquiring them).&lt;br/&gt;&lt;br/&gt;Then, in turn order, going twice around, players add a single track to any of the railheads (each of the 5 lines has specific starting locations on the board). If the link is to a previously unconnected city, collect $2. In addition, if the city is one of the goal cities of that train line, collect $4.&lt;br/&gt;&lt;br/&gt;After all players have gone (twice), pass the start player marker to the left. THEN, in turn order, players bring their hand total back to 4 (draw from deck and/or from cards on display). If a Short Line card is revealed, discard the card and draw again; that Short Line is now in play. They choose a card to play, and repeat above.&lt;br/&gt;&lt;br/&gt;The game ends when 3 (or is it all?) track lines are completely used up. Each city's value is equal to its base value, printed on board, multiplied by the number of different train lines connected to it. The player with the most cash and city value wins!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ISvtE4Q_1RIlRl-sLroETet11O4=/fit-in/200x150/pic77590.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4TShj4lyL_5ARnhxMgcUfnN-Pi8=/0x0/pic77590.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamefamily objectid="19136">Cities: Santa Fe (New Mexico, USA)</boardgamefamily>
+																													<boardgameversion objectid="33057">First edition</boardgameversion>
+															<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamefamily objectid="28907">Santa Fe System</boardgamefamily>
+															<boardgameartist objectid="140">Mark Simonitch</boardgameartist>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgamecategory objectid="1034">Trains</boardgamecategory>
+																						<boardgameimplementation objectid="308" inbound="true">Santa Fe</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>826</usersrated>
+					<average>6.8159</average>
+					<bayesaverage>6.05731</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1885" bayesaverage="6.05731" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="864" bayesaverage="6.18479" />
+												
+											</ranks>
+					
+					<stddev>1.2599</stddev>
+					<median>0</median>
+					<owned>940</owned>
+					<trading>56</trading>
+					<wanting>69</wanting>
+					<wishing>117</wishing>
+					<numcomments>324</numcomments>
+					<numweights>99</numweights>
+					<averageweight>2.5051</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

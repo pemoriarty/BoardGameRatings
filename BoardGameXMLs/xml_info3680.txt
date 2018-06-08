@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3680">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Superiority</name>
+									
+			<description>An abstract game representing &amp;quot;modern&amp;quot; warfare between Soviet and American forces.  Both players set up their forces on the bottom of two hidden 15x14 grid maps which are identical.  The goal is to advance as many units as possible to the top of the map in 8 turns.  Each turn consists of players alternating launching missiles at map locations on the opposing board (E10, H13, etc) and after all missiles are launched and destroyed units removed both players move all surviving units.  Players never see the opposing map, and are only informed if their missile strikes &amp;quot;hit&amp;quot; or &amp;quot;miss&amp;quot;.&lt;br/&gt;&lt;br/&gt;A Yaquinto Album Game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BWb7y8sRQnGz2ex3QlhfXWt0sD4=/fit-in/200x150/pic3638314.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YGzCSLw2eFXYRBFdWLP0OfYEP74=/0x0/pic3638314.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="109491">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="1101">Michael S. Matheny</boardgamedesigner>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="154">Yaquinto</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>19</usersrated>
+					<average>4.37368</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.26401</stddev>
+					<median>0</median>
+					<owned>85</owned>
+					<trading>11</trading>
+					<wanting>2</wanting>
+					<wishing>2</wishing>
+					<numcomments>18</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

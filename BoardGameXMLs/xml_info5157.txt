@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5157">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">King&#039;s Court</name>
+							<name  sortindex="1">Supercheckers</name>
+									
+			<description>The board is 8x8 with the squares rotated 45 degrees.  The central 4x4 area forms the King's Court.  The starting setup places the green and orange pieces on the 48 squares surrounding the Court.  The opening moves have both players enter a piece onto the Court from opposing sides (no jumping yet).&lt;br/&gt;&lt;br/&gt;From that point on, a piece must be present on the Court at all times --otherwise the player loses.  Pieces move as in Checkers except they all move as Kings (no restrictions on direction).  Jumps are again as in Checkers, except that you can jump your own pieces as well (without capturing them, of course).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/U7oYfJlyd4W31l1rnQkbj6wQQ3c=/fit-in/200x150/pic318469.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9EK5pL-5RrbbtlvGmYOBfZvuspc=/0x0/pic318469.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="204089">English &quot;More fun than TV&quot; edition</boardgameversion>
+															<boardgamepublisher objectid="247">Golden</boardgamepublisher>
+															<boardgameversion objectid="204088">Golden Classic Games edition</boardgameversion>
+															<boardgameversion objectid="28053">Golden edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamepublisher objectid="25852">MW Games</boardgamepublisher>
+															<boardgameversion objectid="219023">MW Games edition</boardgameversion>
+																						<boardgamepublisher objectid="5700">Western Publishing Company</boardgamepublisher>
+															<boardgamedesigner objectid="2937">Christopher Wroth</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>151</usersrated>
+					<average>6.47861</average>
+					<bayesaverage>5.59173</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6288" bayesaverage="5.59173" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="321" bayesaverage="5.84653" />
+												
+											</ranks>
+					
+					<stddev>1.44686</stddev>
+					<median>0</median>
+					<owned>344</owned>
+					<trading>33</trading>
+					<wanting>13</wanting>
+					<wishing>32</wishing>
+					<numcomments>71</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1.9091</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

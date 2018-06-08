@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21351">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Freeze</name>
+									
+			<description>An entry in the 2001 About.com 8x8 Game Design Competition.&lt;br/&gt;&lt;br/&gt;Player 1 owns the black checkers, while player 2 owns the red checkers. Opponents alternate turns, as in most games. A 'king' is defined as in the game of Checkers: it is a stack of two checkers, of the same color. Kings cannot move but can be captured.&lt;br/&gt;&lt;br/&gt;On his turn, a player chooses one of his own checkers to move. Moves are made vertically or horizontally, but not diagonally. A single move consists of picking up the chosen checker, jumping it over an opponent's checker or king (the jumped checker or king must be directly above, below, left, or right of the moving checker), and landing on an unoccupied square on the other side of the jumped checker. The jumped checker or king is then captured (removed from the board). On the same turn, a player may (but is not required to) continue moving this chosen checker in this way, until that checker cannot capture any more. A checker can only move if in so doing it captures an opponent's checker or king.&lt;br/&gt;&lt;br/&gt;On his turn, after he has finished capturing, a player may use the checkers which he has just captured to transform some of his opponent's checkers into kings, by placing a single captured checker on top of a checker of the same color which is still on the board. The two checkers from a captured king can be used to make two new kings. A player can make as many kings on his turn as he has captured checkers.&lt;br/&gt;&lt;br/&gt;The loser is the first player not able to move on his turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nQPFHrUDKvtZMCgS4qIGoVM9wgo=/fit-in/200x150/pic175770.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Tj9eFn_2lB5pNNSmtmLShRjQL_0=/0x0/pic175770.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgameversion objectid="34739">Print and Play edition</boardgameversion>
+															<boardgamedesigner objectid="6456">Gregory K. Van Patten</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

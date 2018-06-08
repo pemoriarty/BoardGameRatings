@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6582">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Cannibalmania</name>
+							<name  sortindex="1">Kannibalen</name>
+							<name primary="true" sortindex="1">Let&#039;s Do Lunch!</name>
+							<name  sortindex="1">Morfals</name>
+									
+			<description>An abstract two-player game played on a 7x7 board with 12 cannibal pawns per player. The three six-sided dice show the numbers 1 to 3, twice each per die. A half-hearted attempt has been made to theme the game around two cannibal tribes trying to eat each other.&lt;br/&gt;&lt;br/&gt;The columns on the board are numbered 3 to 9. Down the center of the board (column 6) runs a stream. The board is initially empty. Each player in turn rolls the three dice and then places one of their cannibals anywhere on the column given by the total of the three dice. If a player rolls three of a kind, they place a pawn and then take another turn. If a player rolls 1,2,3 then they do not place a pawn. If you enclose a line of the opponent's pawns between two of your pawns (horizontally, vertically, or diagonally), then the opponent must take back their pawns except for those in column 6.  The enclosure may wrap around the top and bottom of the board, but not the sides.&lt;br/&gt;&lt;br/&gt;The first player to place their final pawn on the board wins.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Magestones &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DwxeHr3wlcGDjwlsP1o6wIOMqrY=/fit-in/200x150/pic177942.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EJbZG3YfgcbV2Qul-mPSziWCMZ0=/0x0/pic177942.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="89503">Dutch edition</boardgameversion>
+																						<boardgameversion objectid="89502">English edition</boardgameversion>
+															<boardgameversion objectid="282351">English/Portuguese edition</boardgameversion>
+															<boardgameversion objectid="89504">French edition</boardgameversion>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgameversion objectid="200020">Italian edition</boardgameversion>
+															<boardgamedesigner objectid="133">Tom Kruszewski</boardgamedesigner>
+															<boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+															<boardgamedesigner objectid="728">Steve Weiss</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>55</usersrated>
+					<average>5.48693</average>
+					<bayesaverage>5.49981</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12643" bayesaverage="5.49981" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="722" bayesaverage="5.49284" />
+												
+											</ranks>
+					
+					<stddev>1.36123</stddev>
+					<median>0</median>
+					<owned>146</owned>
+					<trading>12</trading>
+					<wanting>3</wanting>
+					<wishing>3</wishing>
+					<numcomments>25</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1.1429</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

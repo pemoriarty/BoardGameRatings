@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="13716">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Hasami Shogi</name>
+							<name  sortindex="1">Pincer Shogi</name>
+									
+			<description>Hasami shogi is a traditional Japanese game played on a shogi-ban, i.e., a 9&amp;times;9 grid of spaces, using the fhuyo (&amp;quot;pawns&amp;quot;) from a shogi set (and as such this game should not be considered a Shogi Variant as the capture rules differ greatly.  The pieces initially occupy the entire back row, i.e., the row of spaces nearest the controlling player.  As in shogi, the sides are called sente(&amp;quot;black&amp;quot;) and gote (&amp;quot;white&amp;quot;) with sente going first, but the colors associated with the names are purely conventional.&lt;br/&gt;&lt;br/&gt;The object of the game is to be the first player to capture either five or eight of an opponent's pieces, as agreed upon before starting the game.  An opponent's piece is taken by custodial capture, i.e., by being sandwiched horizontally or vertically (but not diagonally) between a player's own pieces.  A piece must be moved into such a postion immediately on either side of an opponent's piece to make a capture, but multiple captures can be made simultaneously.  This occurs only if a piece is moved so that it causes more than one enemy piece to be positioned between the piece moved and another of the player's own pieces.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tim1aRhra5yP1YXNMmQMiZzt7oo=/fit-in/200x150/pic662820.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JXF9Ld0AwMh_2-GLm536GIQWAn0=/0x0/pic662820.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecompilation objectid="2883">The Book of Classic Board Games</boardgamecompilation>
+																						<boardgamepublisher objectid="2407">Clemens Gerhards</boardgamepublisher>
+															<boardgamepublisher objectid="5085">Geoludie</boardgamepublisher>
+																						<boardgamepublisher objectid="1195">House of Marbles</boardgamepublisher>
+															<boardgamepublisher objectid="6266">L. P. Septímio</boardgamepublisher>
+															<boardgamepublisher objectid="2432">Origem</boardgamepublisher>
+															<boardgamefamily objectid="4055">Petteia</boardgamefamily>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>35</usersrated>
+					<average>5.51286</average>
+					<bayesaverage>5.49499</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13000" bayesaverage="5.49499" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="752" bayesaverage="5.46679" />
+												
+											</ranks>
+					
+					<stddev>1.91965</stddev>
+					<median>0</median>
+					<owned>72</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>7</wishing>
+					<numcomments>25</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

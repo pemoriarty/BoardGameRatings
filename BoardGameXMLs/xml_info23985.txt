@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23985">
+			<yearpublished>2007</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Midgard</name>
+									
+			<description>In this area-control boardgame with a mythic Scandinavian theme, players draft cards to place their viking warriors and leaders in the different realms found in Norse mythology. Beware! Some regions will suffer Ragnarok, sending your pieces to Valhalla.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Gudsh5_JM0dc5yA5hGONf2pPA6s=/fit-in/200x150/pic144601.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yk12DLW8e8vSysLdfm6pwxY4eFU=/0x0/pic144601.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamepodcastepisode objectid="15255">BGB Volume 38 - Gamex 2007 Wrap-Up Show with Matt Grimaldi</boardgamepodcastepisode>
+															<boardgameimplementation objectid="170216">Blood Rage</boardgameimplementation>
+																						<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+																																				<boardgameversion objectid="26302">First edition</boardgameversion>
+																													<boardgameartist objectid="12508">John Gravato</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="1533">Eric M. Lang</boardgamedesigner>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgamefamily objectid="5613">Vikings</boardgamefamily>
+															<boardgameartist objectid="12057">George Wu</boardgameartist>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>987</usersrated>
+					<average>6.60471</average>
+					<bayesaverage>6.02142</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2006" bayesaverage="6.02142" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="939" bayesaverage="6.11299" />
+												
+											</ranks>
+					
+					<stddev>1.14431</stddev>
+					<median>0</median>
+					<owned>1197</owned>
+					<trading>122</trading>
+					<wanting>27</wanting>
+					<wishing>165</wishing>
+					<numcomments>440</numcomments>
+					<numweights>117</numweights>
+					<averageweight>2.3761</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

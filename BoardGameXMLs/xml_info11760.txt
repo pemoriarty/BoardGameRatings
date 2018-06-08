@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11760">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>4</age>
+
+							<name  sortindex="5">Les Chevaliers Tumultueux</name>
+							<name primary="true" sortindex="1">Knuckling Knights</name>
+							<name  sortindex="1">Rumpel-Ritter</name>
+							<name  sortindex="1">Rumpelritter</name>
+							<name  sortindex="4">De stormloop</name>
+							<name  sortindex="4">La torre dei cavalieri</name>
+							<name  sortindex="1">Γενναίοι Ιππότες</name>
+									
+			<description>From the publisher...&lt;br/&gt;&lt;br/&gt;Everyone is talking about it all over the country! At the castle of King Benjamin, the bravest knights are taking part in the grandest tournament of all times. There is rumbling and thumping in every corner of the castle. One by one, the knights are thrown inside the castle. The die is thrown and whoever rolls the right symbol may open the door of the castle. The knights tumble out and some may fall into the deep pits, forcing this player's turn to end. Who will have the most knights at the end of the game?&lt;br/&gt;&lt;br/&gt;Ages 4 and up&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wJl8dHX0XotNkSoDF1S3g-1pHww=/fit-in/200x150/pic72181.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qso-Igd9r_ZbguQGtIZN3Xs3IFM=/0x0/pic72181.jpg</image>
+						
+												<boardgamedesigner objectid="173">Günter Burkhardt</boardgamedesigner>
+															<boardgamedesigner objectid="3733">Benjamin Burkhardt</boardgamedesigner>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="81799">Dutch edition</boardgameversion>
+															<boardgameversion objectid="47998">English edition</boardgameversion>
+															<boardgameversion objectid="117071">French edition</boardgameversion>
+																																											<boardgameversion objectid="175431">Greek edition</boardgameversion>
+															<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+															<boardgamefamily objectid="16840">HABA Mitbringspiele series</boardgamefamily>
+															<boardgameversion objectid="114998">Italian edition</boardgameversion>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgameversion objectid="81798">Multilingual first edition</boardgameversion>
+																													<boardgameartist objectid="12748">Thies Schwarz</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="4" />
+					<result value="3" numvotes="3" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>238</usersrated>
+					<average>5.65975</average>
+					<bayesaverage>5.52099</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10781" bayesaverage="5.52099" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="315" bayesaverage="5.54873" />
+												
+											</ranks>
+					
+					<stddev>1.38139</stddev>
+					<median>0</median>
+					<owned>483</owned>
+					<trading>19</trading>
+					<wanting>16</wanting>
+					<wishing>56</wishing>
+					<numcomments>99</numcomments>
+					<numweights>20</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

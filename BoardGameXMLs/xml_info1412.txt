@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1412">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Crazy Derby</name>
+							<name primary="true" sortindex="1">Trendy</name>
+									
+			<description>In Trendy, each player plays cards representing various fashion designers.&lt;br/&gt;&lt;br/&gt;Each turn, you lay a card face up to the table and draw a new card.  When as many cards for a designer have been laid face up as the number on that designer's cards, that designer has a &amp;quot;breakthrough&amp;quot; and players who played that number save those cards for scoring at the end of the hand.  (The deck is balanced: more 7-value cards than 6-value cards, etc.)   All other played cards are discarded.&lt;br/&gt;&lt;br/&gt;There are 2 special cards for each designer in the deck:&lt;br/&gt;-  A Super Model is worth 2 cards toward achieving a breakthrough.&lt;br/&gt;-  An Out card clears all of that designer's face up cards.&lt;br/&gt;&lt;br/&gt;The game is played over several hands until at least one player has scored more than 100.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UoUyJuOKhUodZYCv2ui3XCr-8SU=/fit-in/200x150/pic48652.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6yUMJOJpucbi7N15ClQ09tE9nQw=/0x0/pic48652.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																																																<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																											<boardgameimplementation objectid="31070">Horse Fair Card Game</boardgameimplementation>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgameversion objectid="31246">Ravensburger edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="302">Spiel Spass</boardgamepublisher>
+															<boardgameversion objectid="26835">Spiel Spass first edition</boardgameversion>
+															<boardgameartist objectid="12567">Atelier Wilinski</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>488</usersrated>
+					<average>6.19011</average>
+					<bayesaverage>5.71086</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3910" bayesaverage="5.71086" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="962" bayesaverage="5.7859" />
+												
+											</ranks>
+					
+					<stddev>1.20849</stddev>
+					<median>0</median>
+					<owned>530</owned>
+					<trading>24</trading>
+					<wanting>20</wanting>
+					<wishing>50</wishing>
+					<numcomments>214</numcomments>
+					<numweights>60</numweights>
+					<averageweight>1.1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

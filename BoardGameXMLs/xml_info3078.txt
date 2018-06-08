@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3078">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Knockabout</name>
+							<name  sortindex="1">Pair-of-Dice Dice Combo</name>
+									
+			<description>Knockabout is an abstract board game where players are trying to push the other players' pieces off the hexagonal board.  The pieces are 4-, 6-, and 8-sided dice which move in a straight line as far as the number on their top face.  Whenever a die gets hit by other pieces (friendly or otherwise), the last die to move as a result of the collision gets rerolled. Pieces knocked into the outer ring are eliminated from the game, but still can prevent future pieces from being knocked into the same spot.  The first player to knock five out of his opponent's nine pieces into the outer ring wins.&lt;br/&gt;&lt;br/&gt;The game is mostly a mixture of attempting to maneuver ones pieces into strong positions, gently bumping them to get high numbers, and sabotaging the opponents' positions so their pieces have more limited movement.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Boardspace.net (real-time, AI option)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2O9n-Erp_OOtyJtYX5tmzndAqAM=/fit-in/200x150/pic9226.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/H-gAdY7MZS1Q4v88nyv4oIcrugc=/0x0/pic9226.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="1263">Greg Lam</boardgamedesigner>
+																						<boardgamepublisher objectid="696">Pair-of-Dice Games</boardgamepublisher>
+															<boardgameversion objectid="169163">Pair-of-Dice Games plastic box edition</boardgameversion>
+															<boardgameversion objectid="104800">Pair-of-Dice Knockabout / Warp 6 combo edition</boardgameversion>
+																													<boardgamepodcastepisode objectid="5593">The Spiel #54 - The Short List</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="6972">The Vintage Gamer Special #04: Origins 2008 Interviews</boardgamepodcastepisode>
+															<boardgamefamily objectid="6363">Tube Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>86</usersrated>
+					<average>6.79012</average>
+					<bayesaverage>5.59341</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6221" bayesaverage="5.59341" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="246" bayesaverage="5.97884" />
+												
+											</ranks>
+					
+					<stddev>1.484</stddev>
+					<median>0</median>
+					<owned>141</owned>
+					<trading>16</trading>
+					<wanting>10</wanting>
+					<wishing>34</wishing>
+					<numcomments>52</numcomments>
+					<numweights>9</numweights>
+					<averageweight>2.5556</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8432">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">Sorry!</name>
+							<name  sortindex="1">Sorry! Spongebob Edition</name>
+							<name primary="true" sortindex="1">Sorry! The Disney Edition</name>
+									
+			<description>Sorry! The Disney Edition is a Walt Disney Licensed version of the original game of the same name.&lt;br/&gt;&lt;br/&gt;The basic premise is that players draw cards and move around the board based on the instructions shown. The first player to get all of his/her pieces into the his/her end spaces wins.&lt;br/&gt;&lt;br/&gt;However, there are some special instructions that must be followed. The most important is that the game is called Sorry because if you land on a space occupied by another player, that player's piece is returned to the start. You must also draw certain cards to start a new pawn and you must hit the end space by exact count. There are also some special cards that will affect gameplay and slides that can move you forward faster.&lt;br/&gt;&lt;br/&gt;The Disney version adds special cards that are only specific to certain players.&lt;br/&gt;&lt;br/&gt;In essence, this is the same Sorry as before but with a Disney theme.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dAGY4YTQO7-5ykB3MFN2y58T5ww=/fit-in/200x150/pic35666.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wtewNiE-jRUAqUQUxGJeGb9s41k=/0x0/pic35666.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="5597">Celebrities: Walt Disney</boardgamefamily>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgameversion objectid="154114">Dutch edition</boardgameversion>
+																						<boardgamedesigner objectid="11276">Michelle Duval</boardgamedesigner>
+															<boardgameversion objectid="26692">First edition</boardgameversion>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgameversion objectid="31288">Hasbro-Parker Brothers English Edition 2001</boardgameversion>
+																						<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamefamily objectid="4214">Pachisi-Ludo</boardgamefamily>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgamefamily objectid="4461">Sorry!</boardgamefamily>
+															<boardgamefamily objectid="5860">TV Series: Spongebob Squarepants</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>147</usersrated>
+					<average>4.79075</average>
+					<bayesaverage>5.40847</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15175" bayesaverage="5.40847" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="610" bayesaverage="4.97824" />
+												
+											</ranks>
+					
+					<stddev>1.54921</stddev>
+					<median>0</median>
+					<owned>341</owned>
+					<trading>13</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>51</numcomments>
+					<numweights>16</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12862">
+			<yearpublished>1994</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Gess</name>
+									
+			<description>Gess is a chess-like two-player abstract that is played with a Go-Ban (that is, a go set), although it uses the squares formed by the grid rather than the intersections of the grid, and the squares around the outside edge of the board are not used. Thus, you play the game on an 18&amp;times;18 grid.&lt;br/&gt;&lt;br/&gt;The 'pieces' are 3&amp;times;3 patterns of go stones, with each possible pattern of stones representing a different type of piece, each of which moves in a different way.  Rather than the pieces remaining the same throughout the game, however, a player can use any 3&amp;times;3 portion of the board that contains at least one of his stones and none of his opponent's stones.  This means that two pattern-pieces can move near each other, and then portions of each of the original pieces can be moved away together as a different piece, leaving behind the remainder of the original formations, which can, in turn, be used as other pieces.&lt;br/&gt;&lt;br/&gt;If a piece moves in such a way that it overlaps one or more stones (of either player), all stones that the piece moves onto are captured.&lt;br/&gt;&lt;br/&gt;Each player must maintain one piece that is a ring of eight stones around an empty square at all times.  If one player is in a position where he no longer has such a ring anywhere on the board for any reason, he loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QvM4AiCQoaj0mu6C3z1mv2FfMlg=/fit-in/200x150/pic100288.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yyMGrRMnpBfUlF5tRvroF4xhzVQ=/0x0/pic100288.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>6.20833</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.81955</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>13</numcomments>
+					<numweights>3</numweights>
+					<averageweight>4.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

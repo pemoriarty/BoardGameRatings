@@ -1,0 +1,137 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2978">
+			<yearpublished>1995</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Stratego 4</name>
+									
+			<description>Stratego 4 is a game for 3 or 4 armies. The board is double sided according to the number of players. Secretly deploy your troops for the best advantage, and capture the fortress at the center of the board by getting your flag and one of your pieces there first.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_l0jzq5LMaopoUsQRUxxAbtOdts=/fit-in/200x150/pic175340.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JVMbgZ8XIyVxqyl45bQjmTn89VE=/0x0/pic175340.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="14318">AS Company</boardgamepublisher>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="97384">Dutch edition 1996</boardgameversion>
+															<boardgameversion objectid="127049">Dutch edition 1998</boardgameversion>
+																						<boardgameversion objectid="173008">English edition 1996</boardgameversion>
+																						<boardgameversion objectid="137609">French edition</boardgameversion>
+															<boardgameversion objectid="227967">German edition with alternative napoleon cover</boardgameversion>
+															<boardgameversion objectid="24364">German first edition 1995</boardgameversion>
+																						<boardgameversion objectid="236244">Greek edition 1996</boardgameversion>
+															<boardgamedesigner objectid="645">Kai Haferkamp</boardgamedesigner>
+															<boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+															<boardgamedesigner objectid="6760">Ben Leijten</boardgamedesigner>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgameversion objectid="289051">Multilingual edition</boardgameversion>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamedesigner objectid="28067">Oliver Rauch</boardgamedesigner>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+																						<boardgamefamily objectid="153">Stratego Series</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>330</usersrated>
+					<average>6.02121</average>
+					<bayesaverage>5.60621</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5808" bayesaverage="5.60621" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="450" bayesaverage="5.71691" />
+												
+											</ranks>
+					
+					<stddev>1.41309</stddev>
+					<median>0</median>
+					<owned>632</owned>
+					<trading>34</trading>
+					<wanting>14</wanting>
+					<wishing>34</wishing>
+					<numcomments>94</numcomments>
+					<numweights>31</numweights>
+					<averageweight>1.871</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

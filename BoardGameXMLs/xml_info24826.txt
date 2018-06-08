@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24826">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Zatre: Das Kartenspiel</name>
+									
+			<description>This is the Card version of the Boardgame &amp;quot;Zatre&amp;quot;. The Boardgame is a 2-player game. The card game is for 2 to 4 players. There are some minor differences in the rules (i.e. no Zatre-fields) so it plays a bit lighter.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0qcr6Aq56hqWfERsN4FHLm9Azj8=/fit-in/200x150/pic362186.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-5e2PQCyBa-vICdEXtfEx9torPo=/0x0/pic362186.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+															<boardgameversion objectid="294044">Amigo 20th Anniversary Edition</boardgameversion>
+															<boardgameversion objectid="36638">Amigo First edition</boardgameversion>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamepodcastepisode objectid="9373">Episode 10 – Amigo Spiele – Neuheiten Frühjahr 2007</boardgamepodcastepisode>
+																																																																														<boardgamedesigner objectid="1205">Manfred Schuling</boardgamedesigner>
+															<boardgameartist objectid="11846">Barbara Spelger</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																						<boardgameimplementation objectid="2938" inbound="true">Zatre</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>77</usersrated>
+					<average>5.79779</average>
+					<bayesaverage>5.51645</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11197" bayesaverage="5.51645" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="637" bayesaverage="5.56212" />
+												
+											</ranks>
+					
+					<stddev>1.46801</stddev>
+					<median>0</median>
+					<owned>188</owned>
+					<trading>15</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>23</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

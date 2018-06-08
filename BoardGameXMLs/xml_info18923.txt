@@ -1,0 +1,100 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18923">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Malaka</name>
+							<name  sortindex="1">Moloko</name>
+									
+			<description>Malaka is a cross between Backgammon, Plakoto and Lines of Action.  Players race to move their pieces around the board, delaying their opponent while trying to connect their pieces to the far end of the board marked with their symbol.  Using a familiar (Backgammon type) roll-and-move mechanism, each player attempts to form an orthogonally connected group of their pieces (as in Lines of Action) at the opposite corner of the board from their starting location.  The board is designed with two &amp;quot;walls&amp;quot; that force the players to navigate an &amp;quot;S&amp;quot; type path to reach their goal in the opposite corner.  The board consists of nine subareas, each with a basic direction of forward movement (which is, of course, opposite for the two players).&lt;br/&gt;&lt;br/&gt;On their turn, each player rolls two dice (4-sided dice for the 9x9 board, 6-sided dice for the 12x12 board) and uses the resulting numbers to move their pieces.  Pieces may either step directly forwards, or jump over a wall.  If a piece steps directly forwards, then it must step in a straight line a number of spaces equal to the number of pips shown on one of the dice.  If the piece steps onto a single enemy piece, then that enemy piece is pinned (as in Plakoto) until the player moves off.  Players may stack as many pieces as they like onto any point, but cannot move to any point at which the enemy controls a block (a pile of two or more pieces).  Alternatively, a piece may jump over a wall (ignoring the movement restrictions of the moving piece's current sub-area) if that jump lands on a single enemy piece a number of spaces away equal to the number of pips shown on one of the dice.  The enemy piece is captured and removed from the game.  Players cannot jump backwards and cannot cross both walls with the same jump.  Jumping over a wall to capture an enemy piece is a double-edged sword: it allows the piece to push forward quickly by taking a shortcut, but also makes the opponent's task easier as they have one less piece to connect.&lt;br/&gt;&lt;br/&gt;After making any move, the same piece may take further steps or jumps, possibly changing direction if the first move resulted in a change in sub-area. If a double is rolled, then the player moves four times using the pip value shown (as in Backgammon).  The player must make a move that uses the maximum possible number of pips.&lt;br/&gt;&lt;br/&gt;A player wins by orthogonally connecting all of their remaining pieces to the far end of the board marked with their symbol (not necessarily in a single connected group, but all pieces orthogonally connected to a piece on the goal line).  A player may also win by pinning an opponent's piece on his own starting line.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/8bZi7-oVjoXIU6H6L3DJNAfLsaQ=/fit-in/200x150/pic463315.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vlnql7zhx5k48YghgR6PXQXpgM4=/0x0/pic463315.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

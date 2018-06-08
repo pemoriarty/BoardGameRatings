@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2759">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Havannah</name>
+									
+			<description>Havannah is a connection game (Hex, Twixt, etc.) with several interesting twists.  The board is a hexagonal grid shaped in the form of a hexagon--8 hexes per side.  (Expert players prefer larger 10 per side boards.)&lt;br/&gt;&lt;br/&gt;Each player places a stone of his color on the board attempting to form one of three possible winning positions:&lt;br/&gt;-  Fork:  Continuously connect any 3 sides (note:  the corners do NOT count as a side space.&lt;br/&gt;-  Bridge:  Continuously connect any 2 corners.&lt;br/&gt;-  Ring:  Form a continuous closed loop of pieces with at least one cell in the middle (the cell may be unoccupied or occupied by either player's piece).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/8mGDqXIg2YCVlvz-65OHufeXGrY=/fit-in/200x150/pic2646918.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/T_hOq0xxbctya1nrXcPhaIRjJvc=/0x0/pic2646918.jpg</image>
+						
+												<boardgamehonor objectid="8790">1981 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamehonor objectid="8789">1982 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamepublisher objectid="14318">AS Company</boardgamepublisher>
+															<boardgameversion objectid="283437">AS Company multilingual edition</boardgameversion>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+																													<boardgamedesigner objectid="1126">Christian Freeling</boardgamedesigner>
+																																				<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="201252">Ravensburger Edition with SdJ logo</boardgameversion>
+															<boardgameversion objectid="37409">Ravensburger first edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>167</usersrated>
+					<average>7.17635</average>
+					<bayesaverage>5.69954</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4035" bayesaverage="5.69954" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="112" bayesaverage="6.34275" />
+												
+											</ranks>
+					
+					<stddev>1.52186</stddev>
+					<median>0</median>
+					<owned>245</owned>
+					<trading>10</trading>
+					<wanting>33</wanting>
+					<wishing>70</wishing>
+					<numcomments>82</numcomments>
+					<numweights>17</numweights>
+					<averageweight>3.2941</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

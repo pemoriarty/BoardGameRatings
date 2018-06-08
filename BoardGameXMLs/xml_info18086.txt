@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18086">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Alphatian Roulette</name>
+									
+			<description>Aim of the game is to massacre your opponent inflicting him ten (dice) damages!&lt;br/&gt;&lt;br/&gt;Players swap each turn between attacker and defender.&lt;br/&gt;During his turn the first player is &amp;ldquo;attacking&amp;rdquo;; his opponent is &amp;ldquo;defending&amp;rdquo;. The attack is done as follows: the player rolls the five d6, after which he can re-roll the dice he wants (however, each time he must keep at least one die, so that the attack will be composed at most of five rolls).&lt;br/&gt;&lt;br/&gt;The goal is to try to damage the opponent, with each &amp;ldquo;6&amp;rdquo; being a possible damage.&lt;br/&gt;&lt;br/&gt;When the attacker has completed his throws, the defender must try to parry: he chooses one of the numbers shown by the dice and throws all the dice that show that number. But beware!: with a single roll now he has to obtain at least one die with a higher number, and he has only one possibility.&lt;br/&gt;&lt;br/&gt;If he fails, he suffers one damage for each &amp;ldquo;6&amp;rdquo; that the attacker has rolled, plus an additional damage. If he succeeds, instead, the attacker suffers as many damages as the difference between the thrown number and the lower among the attack dice.&lt;br/&gt;&lt;br/&gt;The Roulette is very simple and each game lasts from two to three minutes. Even though, attacker and defender have often strategy doubts.&lt;br/&gt;&lt;br/&gt;Also a more-than-two player version exists.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UJ1GWHMGS_ME3-T2YrYEhbx9nlM=/fit-in/200x150/pic100456.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Wurntq5LhL7mI0AJR9qMqSi9yvA=/0x0/pic100456.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamedesigner objectid="5391">Matteo Barnabè</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="35343">Print and Play edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.85</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.29583</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

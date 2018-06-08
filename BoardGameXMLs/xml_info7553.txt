@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7553">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Babylon</name>
+							<name  sortindex="1">Babylone</name>
+							<name  sortindex="1">Babylone Chocolat</name>
+							<name  sortindex="1">Pilade</name>
+									
+			<description>Babylon is a simple and fast-playing brain teaser for two players.&lt;br/&gt;&lt;br/&gt;The game consists of twelve tiles in four colors, and the tiles are scattered on the table at the start of play, creating twelve stacks that are each one tile high. On a turn, you take one stack and place it on another stack that is either (a) the same height or (b) topped by a tile of the same color. Stacks cannot be divided. Players take turns until one player cannot make a move; that player loses the game and the other player wins.&lt;br/&gt;&lt;br/&gt;Some versions of Babylon suggest playing a number of rounds, with the first player to win two out of three (three out of five, etc.) rounds winning the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/muQo02mId6v1Er3yT_y0qJ-dn3c=/fit-in/200x150/pic409335.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nInNeL4-h747KMIVydX8SfUKWcw=/0x0/pic409335.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="27524">Cities: Babylon</boardgamefamily>
+															<boardgamepublisher objectid="2691">Cocktail Games</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameartist objectid="1412">Stéphanie Czinober</boardgameartist>
+															<boardgameversion objectid="164324">Édition spéciale</boardgameversion>
+															<boardgameversion objectid="42225">English/French first edition</boardgameversion>
+															<boardgameversion objectid="32661">English/French second edition</boardgameversion>
+															<boardgamedesigner objectid="125">Bruno Faidutti</boardgamedesigner>
+															<boardgamepublisher objectid="1280">FoxMind</boardgamepublisher>
+															<boardgamepublisher objectid="1749">Interlude</boardgamepublisher>
+																													<boardgamepublisher objectid="793">La Mèche Rebelle Editions</boardgamepublisher>
+																																											<boardgamepodcastepisode objectid="102186">Show #27: Fillers, part 2</boardgamepodcastepisode>
+															<boardgameimplementation objectid="131199">Soluna</boardgameimplementation>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>260</usersrated>
+					<average>5.56173</average>
+					<bayesaverage>5.50833</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11918" bayesaverage="5.50833" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="641" bayesaverage="5.55836" />
+												
+											</ranks>
+					
+					<stddev>1.53647</stddev>
+					<median>0</median>
+					<owned>404</owned>
+					<trading>15</trading>
+					<wanting>24</wanting>
+					<wishing>49</wishing>
+					<numcomments>123</numcomments>
+					<numweights>25</numweights>
+					<averageweight>1.6</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

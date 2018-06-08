@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8560">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Make 5</name>
+							<name  sortindex="1">Make Five</name>
+									
+			<description>This game comes with a wooden gameboard and wooden chips. each player has a different goal. One should place the chips in chaos, the other one with system. The one who reaches his goal best wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/AHpLKoL1dyKNN2SS9v2vDbJpzoA=/fit-in/200x150/pic331664.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/peYEdDtA-gxH4L9O-GFN9Pq5ano=/0x0/pic331664.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																																				<boardgameversion objectid="144763">Familiy Games edition</boardgameversion>
+															<boardgamepublisher objectid="672">Family Games, Inc.</boardgamepublisher>
+															<boardgameversion objectid="80486">German first edition</boardgameversion>
+																																				<boardgamepublisher objectid="27883">Jenapharm</boardgamepublisher>
+															<boardgameversion objectid="248697">Jenapharm German edition</boardgameversion>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamedesigner objectid="144">Jacques Zeimet</boardgamedesigner>
+															<boardgamepublisher objectid="87">Zoch Verlag</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>35</usersrated>
+					<average>5.19857</average>
+					<bayesaverage>5.4905</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13284" bayesaverage="5.4905" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="776" bayesaverage="5.43835" />
+												
+											</ranks>
+					
+					<stddev>1.66838</stddev>
+					<median>0</median>
+					<owned>99</owned>
+					<trading>6</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>14</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

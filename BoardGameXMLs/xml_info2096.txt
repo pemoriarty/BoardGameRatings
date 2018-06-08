@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2096">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Caprice</name>
+									
+			<description>This is an abstract strategy game with very nice wooden components.  It is a part of the same series or games as Cabale and Siesta.  Players begin with four hidden tiles that have pictures on them matching block types (in two shapes and two colors).  Players take turns adding and possibly moving blocks on a board, each turn adding to one of six towers, to a maximum or four blocks per tower.  The players are trying to build towers with pieces that match their tiles.  When five towers reach their maximum height, players arrange their tiles so as to match as many towers and blocks as possible.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tpiYMolDxj7keTL3-ha_wKnef3U=/fit-in/200x150/pic66437.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/I9cGp_a41jx-tH_faLITUxSNbJs=/0x0/pic66437.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="4505">Oliver Bolten</boardgamedesigner>
+																						<boardgameversion objectid="28014">First edition</boardgameversion>
+																																				<boardgamefamily objectid="22712">Goldsieber Royal</boardgamefamily>
+															<boardgamepublisher objectid="44">Goldsieber Spiele</boardgamepublisher>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																													<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgamedesigner objectid="4506">Rolf Rötgers</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>129</usersrated>
+					<average>5.7965</average>
+					<bayesaverage>5.53174</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9819" bayesaverage="5.53174" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="549" bayesaverage="5.62757" />
+												
+											</ranks>
+					
+					<stddev>1.35475</stddev>
+					<median>0</median>
+					<owned>250</owned>
+					<trading>23</trading>
+					<wanting>7</wanting>
+					<wishing>18</wishing>
+					<numcomments>63</numcomments>
+					<numweights>15</numweights>
+					<averageweight>1.9333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

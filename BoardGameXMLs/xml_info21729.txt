@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="21729">
+			<yearpublished>2006</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Snake Lake</name>
+							<name  sortindex="1">Snakelake</name>
+									
+			<description>From the publisher: &amp;quot;The game is about a group of snakes wandering in the woods trying to eat the apples that fall down from the trees (and avoiding eating the poisonous mushrooms). The snakes' frenzy bring them to run between the trees and players must me able to &amp;quot;pilot&amp;quot; them to the apples, avoiding mushrooms, trees and the other snakes. The game is card driven (the cards are describe the possible movements).&amp;quot;&lt;br/&gt;&lt;br/&gt;SnakeLake is a cross between the old computer game Snake and the board game Robo Rally, but is much simpler and faster than RR. You have a simple board with a grid and place some apple trees around, then each player chooses a starting point.&lt;br/&gt;&lt;br/&gt;Each player uses cards to program their next three moves in secret on their own chart, with the 2nd and 3rd move sliding down each turn when the 1st card is used and a new card going in the 3rd slot. The cards simply show forward, left, right (twice each) and one stop card. They also tell you to draw an Event card, which add some randomness.&lt;br/&gt;&lt;br/&gt;If your snake runs into a tree, or off the board when incomplete, or into another snake's body, you start over again somewhere else, reprogramming your next three snake moves. If you hit another snake's head, they go off and you score a point for each segment of their body. If you get your whole snake on the board and then get your head off the board, you score points for the length of your snake.&lt;br/&gt;&lt;br/&gt;But the big points come from eating apples which fall from the apple trees. These have 8-12 points on them, and your snake runs over them to eat them and reveal the points scored. Likewise, there are some mushrooms which deduct points if eaten. The apples and mushrooms are placed when an Event card indicates. The other events include removing an apple, sending an opponent's snake to sleep (miss a turn), and make your snake's body longer or shorter.&lt;br/&gt;&lt;br/&gt;Snake Lake is a light, fast, fun game and will suit children more than adult's. The best strategy seems to be eat an apple then get knocked off the board to start somewhere else, near more apples. Getting your whole snake on and off is hard work, and scores few points in comparison.&lt;br/&gt;&lt;br/&gt;The components are nicely made, good shiny cards that should wear well. The rules need a little proof-reading but were clear enough. Snake Lake might be better for 3 or 4 players than 6 though, it got very crowded very quickly, even on the large side of the board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1MMMP-GhV422KS4_p1KtcwkmM1Y=/fit-in/200x150/pic177415.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OOIsmZdVck-yGufrmG3n7rU8FjQ=/0x0/pic177415.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamefamily objectid="7509">Animals: Snakes</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="2752">Piero Cioni</boardgamedesigner>
+																						<boardgameversion objectid="33775">First edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+																						<boardgameartist objectid="16909">Demis Savini</boardgameartist>
+															<boardgameartist objectid="48288">Gianni Sedioli</boardgameartist>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamepublisher objectid="4522">TENKIGAMES</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>103</usersrated>
+					<average>5.5165</average>
+					<bayesaverage>5.49507</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12994" bayesaverage="5.49507" />
+												
+											</ranks>
+					
+					<stddev>1.25103</stddev>
+					<median>0</median>
+					<owned>180</owned>
+					<trading>16</trading>
+					<wanting>6</wanting>
+					<wishing>10</wishing>
+					<numcomments>47</numcomments>
+					<numweights>17</numweights>
+					<averageweight>1.4706</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="507">
+			<yearpublished>1973</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Cartel</name>
+							<name  sortindex="3">O Jogo do Poder</name>
+							<name  sortindex="1">Juego del Poder</name>
+									
+			<description>A Cartel, as used in this game, is an international collection of companies whose collective value is greater than the individual companies making up the combination. Beginning with a single company valued at 10 million dollars, you can build a cartel whose final value may approach or surpass one billion dollars within ten years (ten rounds of play). You can acquire one or more new companies each year, increasing your profits and the value of your unsold stock, making it possible to buy bigger and bigger companies as the game proceeds. Special bonus profits are gained whenever you buy companies situated adjacent to one another on the board, further increasing your rate of growth. By skillfully buying the right companies (using your cash, selling stock, and borrowing money with bonds), you win by having the cartel of greatest value at the end of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IVCi6o6IZGYkEo3_wnQbbLleLqM=/fit-in/200x150/pic424305.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vazhgcynohubfuIXEPAMAWNKXS8=/0x0/pic424305.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameversion objectid="37157">Brazilian first edition</boardgameversion>
+															<boardgameversion objectid="203633">Brazilian second edition</boardgameversion>
+															<boardgameimplementation objectid="109601">Dallas</boardgameimplementation>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="36266">English first edition</boardgameversion>
+															<boardgameversion objectid="36267">English second edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameartist objectid="28485">Robert Fisher</boardgameartist>
+															<boardgamepublisher objectid="130">Gamut of Games</boardgamepublisher>
+															<boardgamepublisher objectid="858">Grow Jogos e Brinquedos</boardgamepublisher>
+															<boardgamedesigner objectid="206">Phil Orbanes Sr.</boardgamedesigner>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameversion objectid="37158">Spanish edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameartist objectid="37626">The Design Organization</boardgameartist>
+															<boardgameartist objectid="37625">Robert Zingmark</boardgameartist>
+															<boardgameartist objectid="12472">Al Zygier</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>163</usersrated>
+					<average>6.92972</average>
+					<bayesaverage>5.67564</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4360" bayesaverage="5.67564" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1402" bayesaverage="5.72531" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1019" bayesaverage="5.75515" />
+												
+											</ranks>
+					
+					<stddev>1.34264</stddev>
+					<median>0</median>
+					<owned>246</owned>
+					<trading>19</trading>
+					<wanting>23</wanting>
+					<wishing>41</wishing>
+					<numcomments>75</numcomments>
+					<numweights>20</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

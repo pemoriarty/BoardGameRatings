@@ -1,0 +1,101 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7248">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Zenix</name>
+									
+			<description>An abstract strategy game in which 2 or 3 players attempt to build the longest connected chain of their pieces.  The pieces are hexagonal logs that are built upwards into a pyramid shape.  Strategy comes in trying to leave yourself multiple paths within a very tight playing space, while taking advantage of tactical opportunities to cut your opponent(s) off.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OL2Z09QZ15kFuB8_qXNVjw-oV8M=/fit-in/200x150/pic152458.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PkFqPcGGuDMcraAoCkKTEc3rm8U=/0x0/pic152458.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgameversion objectid="104813">First edition</boardgameversion>
+																													<boardgamepublisher objectid="155">Gigamic</boardgamepublisher>
+															<boardgamefamily objectid="19100">Gigamic Classic</boardgamefamily>
+															<boardgamedesigner objectid="2558">Jürgen Heel</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>65</usersrated>
+					<average>5.61877</average>
+					<bayesaverage>5.50547</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12175" bayesaverage="5.50547" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="659" bayesaverage="5.54749" />
+												
+											</ranks>
+					
+					<stddev>1.26845</stddev>
+					<median>0</median>
+					<owned>155</owned>
+					<trading>16</trading>
+					<wanting>14</wanting>
+					<wishing>26</wishing>
+					<numcomments>38</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

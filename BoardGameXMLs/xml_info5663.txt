@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5663">
+			<yearpublished>1962</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">WFF</name>
+							<name primary="true" sortindex="1">WFF &#039;N PROOF</name>
+									
+			<description>The complete set of 21 games that started with the game of WFF (q.v.).&lt;br/&gt;&lt;br/&gt;The game includes 36 special dice, a timer, and a 184 page rules and examples manual.&lt;br/&gt;&lt;br/&gt;The games included in this set are actually a set of logic rules presented in a 'Programmed Instruction' order.  Each game adds to all prior games until Game 21, Frantic WFF 'N PROOF, is attained.&lt;br/&gt;&lt;br/&gt;As well as building WFFs (Well Formed Formulas), players must also try to reach a goal by using rules of inference.&lt;br/&gt;&lt;br/&gt;For example: If the goal is 'p', a player could use the 'Ko' (or Conjunction Out) rule and use 'Kpq' as a premise.  In other terms, if the following sentence is true: &amp;quot;The first games of WFF 'N PROOF are easy and the last games of WFF 'n PROOF are hard.&amp;quot;  Then it can be inferred that the following sentence is true: &amp;quot;The first games of WFF 'N PROOF are easy.&amp;quot;&lt;br/&gt;&lt;br/&gt;Up to 36 dice are rolled depending on the game being played.  One player sets a 'goal' by building a WFF in the goal area of the playing mat.  players then alternate playing dice to the &amp;quot;permitted&amp;quot; or &amp;quot;essential&amp;quot; sections of the play area.  If a die is placed in the essential area it MUST be used in either a premise or a rule.  If a player doesn't think that it can be used, he can challenge his opponent.&lt;br/&gt;&lt;br/&gt;To win, a player must make a successful challenge or be unsuccessfully challenged.&lt;br/&gt;&lt;br/&gt;Games 3 through 19 introduce the 11 Rules of Logical Inference in this order: Conjunction, Implication, Reiteration, Disjunction, Negation, and Equivalence.  Then 18 more derived rules are added to the mix for Game 20, the PC (Propositional Calculus) game.  The 21st and final game, Frantic WFF 'N PROOF, takes the PC game and adds timed moves for rapid and chaotic scoring.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4RX25rphtM4WDHejY_2ofMCJOBs=/fit-in/200x150/pic41736.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G39yoYbT6pau6xHzc_rnDFHIXrs=/0x0/pic41736.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="1403">Layman E. Allen</boardgamedesigner>
+															<boardgamedesigner objectid="2102">Robert W. Allen</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="108427">English edition 1963</boardgameversion>
+															<boardgameversion objectid="108426">English edition 1965</boardgameversion>
+															<boardgameversion objectid="108428">English edition 1968</boardgameversion>
+															<boardgameversion objectid="174044">English edition 1970</boardgameversion>
+															<boardgameversion objectid="108425">English edition 2005</boardgameversion>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamepublisher objectid="1316">WFF &#039;N PROOF Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>57</usersrated>
+					<average>4.79825</average>
+					<bayesaverage>5.46552</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14380" bayesaverage="5.46552" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="854" bayesaverage="5.32885" />
+												
+											</ranks>
+					
+					<stddev>1.81093</stddev>
+					<median>0</median>
+					<owned>238</owned>
+					<trading>21</trading>
+					<wanting>13</wanting>
+					<wishing>41</wishing>
+					<numcomments>59</numcomments>
+					<numweights>9</numweights>
+					<averageweight>3.8889</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

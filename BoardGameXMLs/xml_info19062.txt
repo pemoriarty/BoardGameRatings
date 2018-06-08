@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="19062">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Card Chess</name>
+							<name primary="true" sortindex="1">CardChess</name>
+							<name  sortindex="1">Hrókurinn</name>
+									
+			<description>In this chess variant for up to 4 players, the game is played on a 10x10 board with four suits of sixteen cards corresponding to traditional chess pieces.&lt;br/&gt;&lt;br/&gt;Four games can be played with this set.&lt;br/&gt;&lt;br/&gt;Cardchess: Players shuffle the 16 cards of their suit and place them randomly face down in eight pairs of two on the letters A, R, D, C, H, E, S and S. Each player has two moves each turn. They first turn over a card. Second, they pick any face up card and move it according to chess rules. To win the game, a player must capture all of his opponents' Kings by checkmate. Once a King is captured, all the pieces from his team are removed from the board.&lt;br/&gt;&lt;br/&gt;Positional Cardchess: The only difference between Cardchess and Positional Cardchess is the initial setup. In Positional Cardchess, the eight cards of highest value are placed face down on letters A, R, D, C, H, E, S and S in the same order as traditional chess.&lt;br/&gt;&lt;br/&gt;Memory Cardchess: All player cards are shuffled together and placed face down on the board in a configuration which depends on the number of players. On each turn, players have two moves. They first turn over a card. The card remains face up if it is in their suit. If it isn't, the card must be clearly shown to other players so they can memorize it. Second, players move the card they just turned over or any other previously exposed card according to chess rules. To win the game, a player must capture all of his opponents' Kings by checkmate.&lt;br/&gt;&lt;br/&gt;Traditional chess: The game board and cards allow to play a traditional game of chess.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ipT65ALIpXotOHl2xnCPFAvBQLw=/fit-in/200x150/pic86671.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/fZiF4h1ZbB9UNQFtWjXCEeCjAO0=/0x0/pic86671.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamepublisher objectid="956">CardChess International</boardgamepublisher>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="38673">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="5020">Ísöld ehf.</boardgamepublisher>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="1628">Jeff Widderich</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>25</usersrated>
+					<average>4.56</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.18321</stddev>
+					<median>0</median>
+					<owned>60</owned>
+					<trading>5</trading>
+					<wanting>1</wanting>
+					<wishing>9</wishing>
+					<numcomments>22</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

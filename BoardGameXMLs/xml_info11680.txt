@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11680">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Agora</name>
+									
+			<description>The board is a concave wooden block in 3 layers of height. The game pieces have a black and a white side. Each player starts at one end of the board, and the goal of the game is to capture or convert the pieces of your opponent.&lt;br/&gt;&lt;br/&gt;Tiles can be moved 1 place horizontally, vertically, or diagonally. You can move one level going up, there is no limitation going down. This means that you can jump on tiles of your opponent if they are at the same height or lower. In this way you convert tiles of your opponent to your own colour. Tiles always move individually: you do not move entire stacks, just the stack's top tile. When capturing, you capture the entire stack.&lt;br/&gt;&lt;br/&gt;You can surrender to tiles of your opponent if they are at the same height or higher. Instead of jumping on top of the stack, you slide underneath it. Your tile is not flipped, and it keeps its own colour. It is a prisoner of that stack. But if a stack holds a majority of prisoners (more than half), there is a revolution. The prisoners become free, and the top tile (and all other tiles of the stack) change to the colour of the prisoners.&lt;br/&gt;&lt;br/&gt;The game ends if one of the players can make no more moves.&lt;br/&gt;&lt;br/&gt;A winner of the 1995 Concours International de Créateurs de Jeux de Société.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zVWQyNT5NKlksxEDWXJM_V_Q8zg=/fit-in/200x150/pic121357.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_jR4vFvymFX64UkDSIocCt9IYIQ=/0x0/pic121357.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgameversion objectid="173476">First edition</boardgameversion>
+															<boardgamedesigner objectid="3584">Nicolas Halpern-Herla</boardgamedesigner>
+															<boardgamepublisher objectid="2581">Strate &amp; J</boardgamepublisher>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>27</usersrated>
+					<average>6.27481</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.54672</stddev>
+					<median>0</median>
+					<owned>64</owned>
+					<trading>3</trading>
+					<wanting>4</wanting>
+					<wishing>14</wishing>
+					<numcomments>6</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

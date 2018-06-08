@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2885">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">C.V.</name>
+							<name  sortindex="1">CV</name>
+									
+			<description>&amp;quot;C.V. recreates, in game form, the famous and decisive Battle of Midway in June, 1942.&amp;quot;  It is a refinement of Mr. Taylor's earlier &amp;quot;Flat Top&amp;quot;, using basically the mechanics set forth in that game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jusB8_wPUKYz2dyXLB1cMZemGj0=/fit-in/200x150/pic1165449.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/lRpxNJ4vX4_zILGfrqcyYMuLiXY=/0x0/pic1165449.jpg</image>
+						
+												<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgameversion objectid="93822">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgamepublisher objectid="154">Yaquinto</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>90</usersrated>
+					<average>7.19044</average>
+					<bayesaverage>5.60556</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5825" bayesaverage="5.60556" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="966" bayesaverage="6.0528" />
+												
+											</ranks>
+					
+					<stddev>1.44467</stddev>
+					<median>0</median>
+					<owned>300</owned>
+					<trading>13</trading>
+					<wanting>17</wanting>
+					<wishing>27</wishing>
+					<numcomments>57</numcomments>
+					<numweights>23</numweights>
+					<averageweight>3.7391</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

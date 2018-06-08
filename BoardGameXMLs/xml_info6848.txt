@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="6848">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Dinosaur Chess</name>
+									
+			<description>A not too &amp;quot;Chess-like&amp;quot; game with dice and shifting continents on a huge Hex map. Players place the continents first for a setup never be the same twice, then deploy their &amp;quot;Dino-armies&amp;quot; as they like and start the game.&lt;br/&gt;Each turn, both dice are rolled and determine a continent and the direction, to which it is moving one hex. Then, the player moves one of his pieces: Dino or &amp;quot;Time Traveler&amp;quot;, who is the most important, yet least mobile, piece of the game. Each species has a different type of movement, mostly considering land / sea or both, too.&lt;br/&gt;The winner is the player who manages to first capture the opponent`s Time Traveler or getting his own TT over the Equator into the opponent`s  hemisphere.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4_xPzlE1ddJqz3P622eKgqxr7RE=/fit-in/200x150/pic567076.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rjhKxkJCA_ErBZcNcfsvNH4ptBA=/0x0/pic567076.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="1588">American River Games</boardgamepublisher>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7559">Animals: Dinosaurs</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="21163">First edition</boardgameversion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="34939">Richard Oldham</boardgamedesigner>
+															<boardgameartist objectid="34939">Richard Oldham</boardgameartist>
+															<boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>36</usersrated>
+					<average>7.15833</average>
+					<bayesaverage>5.55058</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8347" bayesaverage="5.55058" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="404" bayesaverage="5.75703" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1677" bayesaverage="5.55883" />
+												
+											</ranks>
+					
+					<stddev>1.27135</stddev>
+					<median>0</median>
+					<owned>88</owned>
+					<trading>7</trading>
+					<wanting>31</wanting>
+					<wishing>78</wishing>
+					<numcomments>24</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

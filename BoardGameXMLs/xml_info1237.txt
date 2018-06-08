@@ -1,0 +1,145 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1237">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Autoscooter</name>
+									
+			<description>From the publisher:&lt;br/&gt;&lt;br/&gt;Crash as crash can...&lt;br/&gt;&lt;br/&gt;The object of the game is to crash the cars of the other players as often and as hard as possible.&lt;br/&gt;&lt;br/&gt;First all players choose simultaneously direction, speed and a turn number. Then they move one after another.&lt;br/&gt;&lt;br/&gt;The player who crashes loses points and - sometimes - his  orientation.&lt;br/&gt;&lt;br/&gt;4th Place 1992 Hippodice Spieleautorenwettbewerb.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_EKq9JJpXHTfRtMn2HqyF_9fpAw=/fit-in/200x150/pic510774.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bt-PqhV2LDoczJKhNzL9Skv7FiU=/0x0/pic510774.jpg</image>
+						
+												<boardgamepublisher objectid="81">Bambus Spieleverlag</boardgamepublisher>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamedesigner objectid="132">Günter Cornett</boardgamedesigner>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="24399">First wood board edition</boardgameversion>
+																																																		<boardgameversion objectid="24401">Second Edition (leatherette board)</boardgameversion>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgameartist objectid="11797">Christof Tisch</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>196</usersrated>
+					<average>6.18992</average>
+					<bayesaverage>5.60678</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5788" bayesaverage="5.60678" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1205" bayesaverage="5.6547" />
+												
+											</ranks>
+					
+					<stddev>1.42426</stddev>
+					<median>0</median>
+					<owned>175</owned>
+					<trading>4</trading>
+					<wanting>62</wanting>
+					<wishing>100</wishing>
+					<numcomments>104</numcomments>
+					<numweights>12</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8756">
+			<yearpublished>1986</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Eastern Front Solitaire</name>
+									
+			<description>Eastern Front Solitaire : Germany Campaign in Russia is a fast-paced single player wargame that reproduces the circumstances, the events, and the forces that fought the fiercest war in history. The game system simulates the various operations, battles, and conflicts of the war from June 1941 until Febuary 1945.&lt;br/&gt;&lt;br/&gt;The gameplay features monthly turns, with area movement, and there are 280 counters representing corps and armies. There's the Campaign game starting in 1941, with shorter scenarios starting in 1942 and 1943. Optional rules for the German 8th Army, Hitler's directives, evacuation by sea, and variable victory conditions. The player controls the Germans and the game system controls the Russian forces.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/e5Xs__FwSnSPHXR7qmzUbStteSU=/fit-in/200x150/pic51396.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZijkG51uIJf3qQSuDGoNE_ET-HE=/0x0/pic51396.jpg</image>
+						
+												<boardgamedesigner objectid="1646">Don Alexander</boardgamedesigner>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="2463">Bill Gibbs</boardgamedesigner>
+															<boardgamepublisher objectid="962">Omega Games (I)</boardgamepublisher>
+															<boardgameversion objectid="111869">Omega Games English First Edition</boardgameversion>
+															<boardgameversion objectid="111870">Omega Games English Second Edition</boardgameversion>
+															<boardgameversion objectid="83772">Omega Games English Third Edition</boardgameversion>
+																						<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="8164">Solitaire Wargames</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>78</usersrated>
+					<average>5.83269</average>
+					<bayesaverage>5.51867</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10984" bayesaverage="5.51867" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2298" bayesaverage="5.60436" />
+												
+											</ranks>
+					
+					<stddev>1.53012</stddev>
+					<median>0</median>
+					<owned>312</owned>
+					<trading>15</trading>
+					<wanting>19</wanting>
+					<wishing>38</wishing>
+					<numcomments>58</numcomments>
+					<numweights>15</numweights>
+					<averageweight>2.5333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

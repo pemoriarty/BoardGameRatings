@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3370">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Connections</name>
+							<name  sortindex="1">Gymkhana</name>
+							<name  sortindex="1">Gymkhana le Dragon</name>
+									
+			<description>Very large plastic board has alternating studs in red and white. Players place their colored tile with a line between the matching studs to form lines and boxes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UzodvduFRSYfhxO3zdGGGQFglpw=/fit-in/200x150/pic368340.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XvgvYroq8sAE8hk3EVBYA_3rlVM=/0x0/pic368340.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="74">ASS Altenburger Spielkarten</boardgamepublisher>
+															<boardgameversion objectid="293198">ASS German first edition</boardgameversion>
+															<boardgamepublisher objectid="2852">Blue Zebra</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgamepublisher objectid="778">Connections International (Europe) Ltd</boardgamepublisher>
+															<boardgameversion objectid="263636">Connections International Australian edition</boardgameversion>
+															<boardgameversion objectid="182664">Connections International edition</boardgameversion>
+															<boardgamepublisher objectid="14892">Connections International Ltd</boardgamepublisher>
+															<boardgameversion objectid="69184">Connections International travel edition 1992</boardgameversion>
+															<boardgamepublisher objectid="28422">Connections U.S.A. Inc.</boardgamepublisher>
+															<boardgameversion objectid="119037">Dutch edition</boardgameversion>
+															<boardgameversion objectid="119034">French edition 2009</boardgameversion>
+																																																		<boardgamedesigner objectid="1385">Tom McNamara</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamepublisher objectid="409">Sentosphère</boardgamepublisher>
+															<boardgameversion objectid="149390">Sentosphère French edition 1993</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameversion objectid="256692">US edition</boardgameversion>
+															<boardgameimplementation objectid="11052" inbound="true">BRIDG-IT</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>155</usersrated>
+					<average>5.73968</average>
+					<bayesaverage>5.52096</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10783" bayesaverage="5.52096" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="669" bayesaverage="5.53878" />
+												
+											</ranks>
+					
+					<stddev>1.49487</stddev>
+					<median>0</median>
+					<owned>304</owned>
+					<trading>28</trading>
+					<wanting>7</wanting>
+					<wishing>15</wishing>
+					<numcomments>74</numcomments>
+					<numweights>20</numweights>
+					<averageweight>1.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

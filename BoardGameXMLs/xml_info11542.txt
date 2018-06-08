@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11542">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="5">The Ball and Chain Game</name>
+							<name primary="true" sortindex="1">Eclipse</name>
+									
+			<description>The Ball and Chain Game is an abstract game for two. The oblong board contains hexagonal spaced holes for the ball-shaped pieces to rest. Each player has one large Guard and five pairs of smaller Prisoner pieces. Each pair of Prisoners is connected by a metal chain: two short chains and three long. A Prisoner may move as far as the chain will allow (1 or 2 spaces) while its partner stays put. The opponent's Prisoners may be temporarily immobilized by crossing one of your chains over theirs. The Guard moves one space at a time in any hex-axial direction. If, on your turn, you are unable to move your Guard, you lose.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5x7lPMCyk2xtp9k34wld66AC8TI=/fit-in/200x150/pic1316296.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AV8JJlF53m4BFB2d_96al1IDiRs=/0x0/pic1316296.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgameversion objectid="25119">First edition</boardgameversion>
+																													<boardgamepublisher objectid="155">Gigamic</boardgamepublisher>
+															<boardgamefamily objectid="19100">Gigamic Classic</boardgamefamily>
+																						<boardgamepublisher objectid="124">Great American Trading Company</boardgamepublisher>
+															<boardgamedesigner objectid="3690">Gerardo Iula</boardgamedesigner>
+															<boardgamedesigner objectid="281">Mirko Marchesi</boardgamedesigner>
+																						<boardgamepodcastepisode objectid="168854">Pap under juletræet</boardgamepodcastepisode>
+																													<boardgameversion objectid="25120">Second edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>144</usersrated>
+					<average>6.23438</average>
+					<bayesaverage>5.57934</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6766" bayesaverage="5.57934" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="369" bayesaverage="5.79525" />
+												
+											</ranks>
+					
+					<stddev>1.35765</stddev>
+					<median>0</median>
+					<owned>248</owned>
+					<trading>6</trading>
+					<wanting>15</wanting>
+					<wishing>49</wishing>
+					<numcomments>42</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.8889</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

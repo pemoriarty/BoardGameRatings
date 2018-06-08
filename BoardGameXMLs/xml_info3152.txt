@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3152">
+			<yearpublished>1989</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Star Wars: Starfighter Battle Books</name>
+									
+			<description>This Star Wars game is a version of the classic Ace of Aces pitting an X wing fighter vs. a TIE fighter.&lt;br/&gt;&lt;br/&gt;Book mechanic also featured in:&lt;br/&gt;&lt;br/&gt;     Ace of Aces: Handy Rotary Series&lt;br/&gt;     Bounty Hunter: Shootout at the Saloon&lt;br/&gt;     Dragonriders of Pern: The Book Game &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/x-zDytaCXxKJ9SSlkmC8CHsBeZ0=/fit-in/200x150/pic12132.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7wV4HSos9VC5g-YX41xTWnSDZdg=/0x0/pic12132.jpg</image>
+						
+												<boardgamefamily objectid="66">Ace of Aces</boardgamefamily>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgameartist objectid="13577">Rosaria Baldari</boardgameartist>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+															<boardgameartist objectid="13854">Bernadette G. Cahill</boardgameartist>
+															<boardgameartist objectid="2604">Stephen Crane</boardgameartist>
+															<boardgamepublisher objectid="41">Descartes Editeur</boardgamepublisher>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																						<boardgameartist objectid="13628">Cathleen Hunter</boardgameartist>
+															<boardgameversion objectid="39229">Jeux Descartes French edition</boardgameversion>
+															<boardgamedesigner objectid="591">Alfred Leonardi</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamefamily objectid="6509">Picture Book Games</boardgamefamily>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamefamily objectid="5602">Star Wars</boardgamefamily>
+																													<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameversion objectid="44451">West End English edition</boardgameversion>
+															<boardgamepublisher objectid="40">West End Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>107</usersrated>
+					<average>6.49159</average>
+					<bayesaverage>5.58844</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6416" bayesaverage="5.58844" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1504" bayesaverage="5.84971" />
+												
+											</ranks>
+					
+					<stddev>1.51288</stddev>
+					<median>0</median>
+					<owned>257</owned>
+					<trading>7</trading>
+					<wanting>38</wanting>
+					<wishing>52</wishing>
+					<numcomments>43</numcomments>
+					<numweights>16</numweights>
+					<averageweight>1.5625</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

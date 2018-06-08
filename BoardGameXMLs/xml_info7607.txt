@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7607">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Attakube</name>
+									
+			<description>In Attakube a player secretly places 7 of his 12 cubes on the last row of a 7x7 board. A pictogram indicating a special power is etched on one face of each cube. A cube is always placed on the board with the pictogram facing its owner.&lt;br/&gt;&lt;br/&gt;When it's his turn a player can either move a piece one space orthogonally, activate a piece's special power or introduce one of his spare pieces. When a special power is activated, the cube is turned so that the pictogram faces up.&lt;br/&gt;&lt;br/&gt;A player scores points by exiting the board through the first row of his opponent. Exiting in the middle of the board is worth 3 points, exiting elsewhere is worth 1 or 2 points. The first player to score 5 points wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0yhmntZNDV9whbyPKpQcTe82NdE=/fit-in/200x150/pic48515.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aWds9zIusnjy6LGZq7JGhzXkAgM=/0x0/pic48515.jpg</image>
+						
+												<boardgamehonor objectid="13296">2002 Tric Trac Nominee</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamepublisher objectid="3082">Dujardin</boardgamepublisher>
+															<boardgameversion objectid="98025">Dujardin edition</boardgameversion>
+															<boardgamedesigner objectid="1413">Valéry Fourcade</boardgamedesigner>
+																						<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameversion objectid="98024">TF1 edition</boardgameversion>
+															<boardgamepublisher objectid="1768">TF1 Games</boardgamepublisher>
+																						<boardgamepublisher objectid="1322">Tomy</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>49</usersrated>
+					<average>6.61939</average>
+					<bayesaverage>5.54875</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8472" bayesaverage="5.54875" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="399" bayesaverage="5.76167" />
+												
+											</ranks>
+					
+					<stddev>1.06593</stddev>
+					<median>0</median>
+					<owned>86</owned>
+					<trading>7</trading>
+					<wanting>7</wanting>
+					<wishing>18</wishing>
+					<numcomments>20</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

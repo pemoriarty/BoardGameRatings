@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2968">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Combit</name>
+							<name primary="true" sortindex="1">Ka-Ching!</name>
+							<name  sortindex="1">Быстрые деньги</name>
+									
+			<description>All cards are placed face up on the table. Both players alternate buying one of the five cards sitting on top - with the aim to form pairs of the same color to resell as lucratively as possible.&lt;br/&gt;&lt;br/&gt;During your turn you can either 1) buy one card or 2) sell two cards of the same color for an amount equal to multiplying their two values together. You also have one wild card which you may sell in place of another card once during the game.&lt;br/&gt;&lt;br/&gt;Whoever makes the most of his or her starting capital by skillful buying and selling wins. But that is not as easy as it seems. A big part of the game is also preventing your opponent from getting valuable pairs. Ka-Ching requires tactical skill, perspective, and good timing when selling.&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;    Trader&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/n_ncjsv9S-voed9y1b063NVku0Y=/fit-in/200x150/pic1558372.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QtQGGmUKUQx-1yBP_wq7TzLaZKg=/0x0/pic1558372.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepodcastepisode objectid="135836">BGA Ep 52 - 15 Predictions for 2015</boardgamepodcastepisode>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepublisher objectid="108">Gamewright</boardgamepublisher>
+															<boardgameversion objectid="31481">Gamewright English edition</boardgameversion>
+															<boardgameversion objectid="27329">German edition</boardgameversion>
+																																																									<boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
+																						<boardgameartist objectid="12037">Gary Locke</boardgameartist>
+																						<boardgamedesigner objectid="50">Klaus Palesch</boardgamedesigner>
+																																											<boardgamedesigner objectid="139">Horst-Rainer Rösner</boardgamedesigner>
+															<boardgameversion objectid="178554">Russian edition</boardgameversion>
+																						<boardgameversion objectid="67971">Second edition with Dr. Toy winner sticker</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameimplementation objectid="41875">Trader</boardgameimplementation>
+															<boardgamepublisher objectid="59">Winning Moves Games (USA)</boardgamepublisher>
+															<boardgamepublisher objectid="26208">Winning Moves Germany</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>488</usersrated>
+					<average>6.4064</average>
+					<bayesaverage>5.78159</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3261" bayesaverage="5.78159" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="834" bayesaverage="5.87721" />
+												
+											</ranks>
+					
+					<stddev>1.21523</stddev>
+					<median>0</median>
+					<owned>721</owned>
+					<trading>48</trading>
+					<wanting>25</wanting>
+					<wishing>98</wishing>
+					<numcomments>220</numcomments>
+					<numweights>52</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

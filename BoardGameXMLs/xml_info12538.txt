@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="12538">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Clocktowers</name>
+									
+			<description>Clocktowers is a game for 2-4 players in a competition to complete the most clocktowers in the city before time runs out. Players must complete the towers as cleanly as possible, making sure that mice and cats don't make the towers home. Of course there are other catches -- do you have the right height for the building and do you have the proper colored roof?&lt;br/&gt;&lt;br/&gt;Clocktowers plays in 20-30 minutes and can be played by ages 8 and up (although there's enough skill involved that kids shouldn't beat their parents too often!)&lt;br/&gt;&lt;br/&gt;This is based on the board game Capitol by the same designers.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/at9Bs9JQzg-_Ugq71sZ3gCYB0fE=/fit-in/200x150/pic72624.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZrxNX_YURaKc2k7SR6S4RI9qW3M=/0x0/pic72624.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="25089">First edition</boardgameversion>
+																						<boardgamepublisher objectid="206">Jolly Roger Games</boardgamepublisher>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameartist objectid="12627">Jacob Walker</boardgameartist>
+															<boardgamedesigner objectid="235">Aaron Weissblum</boardgamedesigner>
+															<boardgameimplementation objectid="1155" inbound="true">Capitol</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>546</usersrated>
+					<average>5.71604</average>
+					<bayesaverage>5.56801</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7325" bayesaverage="5.56801" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1342" bayesaverage="5.58983" />
+												
+											</ranks>
+					
+					<stddev>1.24439</stddev>
+					<median>0</median>
+					<owned>737</owned>
+					<trading>67</trading>
+					<wanting>14</wanting>
+					<wishing>73</wishing>
+					<numcomments>277</numcomments>
+					<numweights>89</numweights>
+					<averageweight>1.3933</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

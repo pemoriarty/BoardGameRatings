@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="24924">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Lingo</name>
+									
+			<description>Lingo is a boardless word game played with Scrabble tiles, for two or more players. It's like a relaxed version of Scrabble with free-flowing moves and high scores.&lt;br/&gt;&lt;br/&gt;Equipment: Lingo requires a set of Scrabble tiles (with the two blanks removed), a flat surface about the size of a game board, and some method for keeping track of players' scores.&lt;br/&gt;&lt;br/&gt;Start: Four tiles are chosen at random and placed into a pool shared by all players. Pool tiles are placed face up so that all players can see them. After each turn, new tiles are randomly selected to replenish the pool so that it always contains four tiles.&lt;br/&gt;&lt;br/&gt;Moving: The opening player starts by taking any number of tiles from the pool and making a valid word. Thereafter, players take turns forming new words by taking any number of tiles from the pool and placing them adjacent to or on top of existing tiles. Words can be made forwards, backwards, upwards or downwards. No tile can be placed to cover the same letter.&lt;br/&gt;&lt;br/&gt;All tiles placed per turn (if more than one) must form part of the same valid word. There are no other restrictions on placement; new tiles do not have to form valid words with tiles they are placed next to, but will score more points if they do.&lt;br/&gt;&lt;br/&gt;If no new word can be made, then a single tile can be played for 0 pts. Players may not pass.&lt;br/&gt;&lt;br/&gt;Scoring: After placing the tiles, new words formed that turn are counted to score points. Only the highest-valued word passing through each new tile along each axis (vertical and horizontal) is scored.&lt;br/&gt;&lt;br/&gt;Word-length multiplier: The score for each new word is given by (total letter value) x (word length - 1).&lt;br/&gt;&lt;br/&gt;Word-count multiplier: If more than one new word is formed, then the total word score is multiplied by the number of new words.&lt;br/&gt;&lt;br/&gt;Winning: The game ends when there are no more tiles to play. The player with the highest score wins.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Gamerz (turn-based, play by email or play by web)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/09r9Yv00gbGCo8Hp8eXYXbpBTaE=/fit-in/200x150/pic208317.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6yJkBvt7wUc1UllpIbKjSr4E4cg=/0x0/pic208317.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+																													<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.41421</stddev>
+					<median>0</median>
+					<owned>12</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

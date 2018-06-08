@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="606">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Pico 2</name>
+									
+			<description>from game review:&lt;br/&gt;&lt;br/&gt;The  game is composed of 11 cards. These are numbered 4 through 13 plus 16 and each also bears a number of &amp;quot;pips&amp;quot;. (From one on the 4 card to four on the 16 card.) A round is played as follows: each player is dealt 5 cards with the eleventh card discarded face-up. (Note that this means that you know exactly what cards your opponent holds.) Each turn both you and your opponent secretly select one of their respective cards and reveal them simultaneously. The higher card wins and that player sets that card aside scoring the number of pips on it. The loser retains his/her played card. However, if the higher card is more than twice the lower card then it's the lower card that is placed aside and scored. So the 13 will beat the 10 but lose to the 6. Play continues until one player is left with but a single card. Points are then scored and, here's the clever bit, players swap hands and do it again. This ensures that each game is exactly fair as both players will have equal opportunity to play a strong/weak hand. After these two rounds the points are totaled and a winner declared. There are, at most, fourteen card plays in a game and so the game is usually over in two or three minutes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OY1-x3LNZN1MQ-Mc6UT1IaYAxpc=/fit-in/200x150/pic618921.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7ONts92GK6yIRJ3ioxZheaIwUds=/0x0/pic618921.jpg</image>
+						
+												<boardgamefamily objectid="7760">Animals: Hedgehogs/Porcupines</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamepublisher objectid="54">Doris &amp; Frank</boardgamepublisher>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="74">Doris Matthäus</boardgamedesigner>
+															<boardgameartist objectid="74">Doris Matthäus</boardgameartist>
+															<boardgamedesigner objectid="75">Frank Nestel</boardgamedesigner>
+																						<boardgameversion objectid="29899">Purple edition</boardgameversion>
+															<boardgameversion objectid="29895">Red edition</boardgameversion>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+																						<boardgameimplementation objectid="2051" inbound="true">Pico</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>268</usersrated>
+					<average>5.92019</average>
+					<bayesaverage>5.5803</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6719" bayesaverage="5.5803" />
+												
+											</ranks>
+					
+					<stddev>1.31386</stddev>
+					<median>0</median>
+					<owned>397</owned>
+					<trading>21</trading>
+					<wanting>31</wanting>
+					<wishing>59</wishing>
+					<numcomments>150</numcomments>
+					<numweights>32</numweights>
+					<averageweight>1.1562</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

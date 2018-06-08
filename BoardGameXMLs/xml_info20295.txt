@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20295">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>3</age>
+
+							<name primary="true" sortindex="1">WeyKick</name>
+							<name  sortindex="1">WeyKick Fussball</name>
+									
+			<description>A fast paced soccer game for 2 players or two teams of players. Each player takes control of 1 or 2 footballers by moving magnets below the wooden playing table. The footballers themselves are magnetic and move in response. The players try to kick a small marble ball into their opponents goal. The first player to score ten goals wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ThZhCCNItvSCCEKuDso_3Xvrp0M=/fit-in/200x150/pic1209028.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DfflPCRGhbQWywBbYIrTNCdmj1g=/0x0/pic1209028.jpg</image>
+						
+												<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamepodcastepisode objectid="165287">Episode 16 : BGGcon 2015 Recap - Codenames - Favor of the Pharoah - Time Stories</boardgamepodcastepisode>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																				<boardgameversion objectid="351077">German Arena edition</boardgameversion>
+															<boardgameversion objectid="114664">German first edition</boardgameversion>
+																																				<boardgameversion objectid="148485">Mayday English edition</boardgameversion>
+															<boardgamepublisher objectid="9552">Mayday Games</boardgamepublisher>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamesubdomain objectid="5498">Party Games</boardgamesubdomain>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5551">Sports: Football / Soccer</boardgamefamily>
+															<boardgamedesigner objectid="6140">Ulrich Weyel</boardgamedesigner>
+																						<boardgameimplementation objectid="26315">WeyKick On Ice</boardgameimplementation>
+															<boardgamepublisher objectid="4693">Weykick.de</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>446</usersrated>
+					<average>6.98621</average>
+					<bayesaverage>5.9326</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2364" bayesaverage="5.9326" />
+												
+							
+														<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="89" bayesaverage="6.40324" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="576" bayesaverage="6.09155" />
+												
+											</ranks>
+					
+					<stddev>1.51052</stddev>
+					<median>0</median>
+					<owned>254</owned>
+					<trading>1</trading>
+					<wanting>79</wanting>
+					<wishing>167</wishing>
+					<numcomments>129</numcomments>
+					<numweights>39</numweights>
+					<averageweight>1.0256</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3594">
+			<yearpublished>1989</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Star Wars: Battle for Endor</name>
+									
+			<description>This game is a solo game that recreates the Star Wars Battle for Endor. The player plays Rebels and Ewoks in a card based movement system like the one used in Assault on Hoth: The Empire Strikes Back (also from West End Games).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6Q0lRJWH7JlwNN7bS6Kn7hJU1jI=/fit-in/200x150/pic2477167.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EVudWX-F_DQBCrlHXM1dbOpfL0s=/0x0/pic2477167.jpg</image>
+						
+												<boardgameartist objectid="13854">Bernadette G. Cahill</boardgameartist>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamedesigner objectid="1455">Peter Corless</boardgamedesigner>
+															<boardgameartist objectid="2604">Stephen Crane</boardgameartist>
+															<boardgameartist objectid="14071">Jacqueline Evans</boardgameartist>
+															<boardgameversion objectid="25000">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="13628">Cathleen Hunter</boardgameartist>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="8164">Solitaire Wargames</boardgamefamily>
+															<boardgamefamily objectid="5602">Star Wars</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="40">West End Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>144</usersrated>
+					<average>6.09896</average>
+					<bayesaverage>5.56965</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7235" bayesaverage="5.56965" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1864" bayesaverage="5.73744" />
+												
+											</ranks>
+					
+					<stddev>1.30691</stddev>
+					<median>0</median>
+					<owned>349</owned>
+					<trading>14</trading>
+					<wanting>53</wanting>
+					<wishing>90</wishing>
+					<numcomments>57</numcomments>
+					<numweights>19</numweights>
+					<averageweight>2.1053</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

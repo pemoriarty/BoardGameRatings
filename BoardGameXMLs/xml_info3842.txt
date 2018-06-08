@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3842">
+			<yearpublished>1995</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Wing Commander</name>
+									
+			<description>A collectible card game (CCG) set in the Wing Commander Universe.  Players are captains of space carriers attempting to destroy the opposing carrier.  Players use power points (starting with 30, gaining 2 more each turn) to launch fighters, play personnel, etc.  Fighters move and fight at 7 locations, the two carriers and 5 &amp;quot;nav points&amp;quot;.  A carrier can be destroyed by two successful bombing runs, or forced to retreat if the player runs out of power points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/MIWSo5vbX4WXgNXA5lWhzbU9v_M=/fit-in/200x150/pic56584.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_rCRUxvGfc61UYWN_YFX5hMpAc4=/0x0/pic56584.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+																						<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgameversion objectid="172709">First edition</boardgameversion>
+															<boardgamedesigner objectid="573">Jeff Grubb</boardgamedesigner>
+															<boardgameartist objectid="15102">Alan Gutierrez</boardgameartist>
+															<boardgameartist objectid="27243">W. J. Hodgson</boardgameartist>
+															<boardgameartist objectid="19629">Gary A. Kalin</boardgameartist>
+															<boardgamepublisher objectid="811">Mag Force 7</boardgamepublisher>
+															<boardgamedesigner objectid="908">Don Perrin</boardgamedesigner>
+															<boardgameartist objectid="17472">Alan Rabinowitz</boardgameartist>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameartist objectid="16286">Michael Scott</boardgameartist>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>36</usersrated>
+					<average>5.01869</average>
+					<bayesaverage>5.48442</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13631" bayesaverage="5.48442" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="231" bayesaverage="5.32374" />
+												
+											</ranks>
+					
+					<stddev>1.88064</stddev>
+					<median>0</median>
+					<owned>77</owned>
+					<trading>13</trading>
+					<wanting>7</wanting>
+					<wishing>7</wishing>
+					<numcomments>12</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

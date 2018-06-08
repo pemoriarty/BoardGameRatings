@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="108">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">TAMSK</name>
+									
+			<description>The hexagonal board has several holes in it for the unique playing pieces.  Each player uses sand timers as his pieces, and a turn is simply to move to an adjacent space, flipping the timer in the process.  The number of times that each space on the board can be occupied is limited, but the more central spaces can have more traffic.  The object of the game is simply to have any of your pieces movable when your opponent's pieces are either locked in place, or out of sand.&lt;br/&gt;&lt;br/&gt;This game was originally part of project GIPF.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ecv2nDF5E8mAfkYV9TKYmt4SvUY=/fit-in/200x150/pic54775.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xCyNw1DRy0jy0rxWPDeZcnp8Q_w=/0x0/pic54775.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+																						<boardgamepublisher objectid="137">Don &amp; Co.</boardgamepublisher>
+															<boardgameversion objectid="25062">Don &amp; Co. edition</boardgameversion>
+																																																																																					<boardgameintegration objectid="527">GIPF</boardgameintegration>
+															<boardgamefamily objectid="10">GIPF Project</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgameartist objectid="12605">lu&#039;cifer</boardgameartist>
+															<boardgamepodcastepisode objectid="137661">MN 0040 Two Player Games</boardgamepodcastepisode>
+																													<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+																																											<boardgameversion objectid="27527">Rio Grande edition</boardgameversion>
+															<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgameversion objectid="40397">Schmidt edition</boardgameversion>
+															<boardgamepublisher objectid="38">Schmidt Spiele</boardgamepublisher>
+																													<boardgameintegration objectid="31999">TZAAR</boardgameintegration>
+															<boardgameintegration objectid="7854">YINSH</boardgameintegration>
+															<boardgameintegration objectid="527" inbound="true">GIPF</boardgameintegration>
+															<boardgameintegration objectid="31999" inbound="true">TZAAR</boardgameintegration>
+															<boardgameintegration objectid="7854" inbound="true">YINSH</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1280</usersrated>
+					<average>6.78825</average>
+					<bayesaverage>6.18237</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1523" bayesaverage="6.18237" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="65" bayesaverage="6.61022" />
+												
+											</ranks>
+					
+					<stddev>1.41463</stddev>
+					<median>0</median>
+					<owned>1898</owned>
+					<trading>49</trading>
+					<wanting>204</wanting>
+					<wishing>499</wishing>
+					<numcomments>518</numcomments>
+					<numweights>151</numweights>
+					<averageweight>2.2914</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10898">
+			<yearpublished>1982</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="5">Les Doigts malins</name>
+							<name  sortindex="1">Fingertrips</name>
+							<name  sortindex="1">Pousse-Boules</name>
+							<name  sortindex="1">Rappe fingre</name>
+							<name primary="true" sortindex="1">Tricky Fingers</name>
+									
+			<description>A speed &amp;amp; finger dexterity game - each player has a small box filled with marbles. The top is clear, the bottom is a grid (where players are able to poke their fingers to move the marbles about). A card is turned over &amp;amp; players race to complete the pattern on the card.&lt;br/&gt;&lt;br/&gt;Extra sets allow more players to play at the same time.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9mxFOv4lXtu4-2EKlJV2rQqUQIY=/fit-in/200x150/pic145245.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UEzuLqIjcRWetX9J-O16GTB1UZI=/0x0/pic145245.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgameversion objectid="198894">dan-spil Danish Edition</boardgameversion>
+															<boardgamepublisher objectid="496">danspil</boardgamepublisher>
+															<boardgamepublisher objectid="420">Discovery Toys</boardgamepublisher>
+															<boardgameversion objectid="198892">Discovery Toys English Edition 1995</boardgameversion>
+															<boardgameversion objectid="198898">Discovery Toys English Edition 1996</boardgameversion>
+															<boardgameversion objectid="198902">Discovery Toys English Edition 2010</boardgameversion>
+															<boardgamepublisher objectid="13111">edushape</boardgamepublisher>
+															<boardgameversion objectid="46730">edushape edition</boardgameversion>
+															<boardgamepublisher objectid="2721">Kod Kod</boardgamepublisher>
+															<boardgameversion objectid="198891">Kod Kod French Yellow Edition</boardgameversion>
+															<boardgamepublisher objectid="10901">Magneto</boardgamepublisher>
+															<boardgameversion objectid="239428">Magneto edition 1982</boardgameversion>
+															<boardgamepublisher objectid="4482">Mako</boardgamepublisher>
+															<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+															<boardgamedesigner objectid="30247">J. Moschkowitz</boardgamedesigner>
+															<boardgamedesigner objectid="2709">Ivan Moscovich</boardgamedesigner>
+															<boardgameartist objectid="2709">Ivan Moscovich</boardgameartist>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgameversion objectid="198893">Regev English Edition 1982</boardgameversion>
+															<boardgamepublisher objectid="1411">Regev Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.05937</average>
+					<bayesaverage>5.51605</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11230" bayesaverage="5.51605" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="642" bayesaverage="5.55804" />
+												
+											</ranks>
+					
+					<stddev>1.84902</stddev>
+					<median>0</median>
+					<owned>90</owned>
+					<trading>0</trading>
+					<wanting>5</wanting>
+					<wishing>10</wishing>
+					<numcomments>22</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

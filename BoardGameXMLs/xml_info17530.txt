@@ -1,0 +1,146 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17530">
+			<yearpublished>1889</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Go Stop</name>
+							<name  sortindex="1">Go Stop: Cats</name>
+							<name  sortindex="1">Go Stop: Constellation</name>
+							<name  sortindex="1">Go Stop: Dogs</name>
+							<name  sortindex="1">Godori</name>
+							<name  sortindex="1">Hwatoo</name>
+							<name  sortindex="1">Hwatu</name>
+							<name  sortindex="1">五鳥</name>
+							<name  sortindex="1">화투</name>
+									
+			<description>GO STOP, also called Korean Poker, is a fast-paced card game played with beautifully illustrated Flower Cards named Hwatu (화투, 花闘).&lt;br/&gt;&lt;br/&gt;Each hand takes less than ten minutes to play. Players are trying to collect sets of flower cards worth varying numbers of points.&lt;br/&gt;&lt;br/&gt;GO STOP is advanced version of Japanese Koi-Koi.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Hanafuda&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TZyPdqA4meGrohWnA2O7e7GIPdo=/fit-in/200x150/pic956328.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/t-rMxjCy_T-TLNlrRUVJAdEQJV8=/0x0/pic956328.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="1439">Card Games: Card Fishing</boardgamefamily>
+															<boardgamefamily objectid="24434">Card Games: Outplay Games</boardgamefamily>
+															<boardgameversion objectid="358818">Cats edition</boardgameversion>
+															<boardgameversion objectid="358816">Constellation edition</boardgameversion>
+															<boardgameversion objectid="358819">Dogs edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepublisher objectid="3937">Go Stop Games</boardgamepublisher>
+																													<boardgamefamily objectid="18540">Hanafuda</boardgamefamily>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="362173">Hyeob-dong edition</boardgameversion>
+															<boardgameexpansion objectid="20193">King Of History</boardgameexpansion>
+																						<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamepodcastepisode objectid="130922">Printin’ and Playin’ Episode 22 – Hanafuda / Koi Koi / Go Stop</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="36920">협동플라스틱 (Hyeob-dong Plastic)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>142</usersrated>
+					<average>6.56944</average>
+					<bayesaverage>5.60543</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5829" bayesaverage="5.60543" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1242" bayesaverage="5.63211" />
+												
+											</ranks>
+					
+					<stddev>1.6142</stddev>
+					<median>0</median>
+					<owned>209</owned>
+					<trading>4</trading>
+					<wanting>6</wanting>
+					<wishing>21</wishing>
+					<numcomments>58</numcomments>
+					<numweights>18</numweights>
+					<averageweight>2.1667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9673">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Black Elephant</name>
+							<name  sortindex="1">White Elephant</name>
+									
+			<description>This &amp;lsquo;heavyweight&amp;rsquo; strategy game for two players was invented by Frank Czarnetzki, better known for illustrating the Cwali games Logistico and Subulata under the name of Czarne. A herd of 10 working elephants is hard to keep in check. Their job is to collect tree trunks, and the need to be carefully moved over the working area to accomplish this. To keep rival elephants from snatching trunks out from under their trunk or sending elephants off on the wrong path, two elephants have a special designation: Black Elephants, which have the ability to block spaces and can also capture rival elephants.&lt;br/&gt;&lt;br/&gt;[Text from a preview by Spielbox]&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vO9ZiH3eZ01lPivzdqHoC0H_J7Y=/fit-in/200x150/pic324975.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OssF0NobNAZc6AOTtjMityVG-mQ=/0x0/pic324975.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="6979">Animals: Elephants</boardgamefamily>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="3262">Czarnè</boardgamedesigner>
+															<boardgameartist objectid="3262">Czarnè</boardgameartist>
+															<boardgameversion objectid="44101">First &quot;limited&quot; edition</boardgameversion>
+																																				<boardgamepublisher objectid="2173">LudoArt Verlag</boardgamepublisher>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgameversion objectid="43681">Second edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>58</usersrated>
+					<average>7.67155</average>
+					<bayesaverage>5.60719</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5775" bayesaverage="5.60719" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="213" bayesaverage="6.04278" />
+												
+											</ranks>
+					
+					<stddev>1.29406</stddev>
+					<median>0</median>
+					<owned>126</owned>
+					<trading>1</trading>
+					<wanting>45</wanting>
+					<wishing>114</wishing>
+					<numcomments>19</numcomments>
+					<numweights>5</numweights>
+					<averageweight>3.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

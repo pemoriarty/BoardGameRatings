@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="820">
+			<yearpublished>1988</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Axiom</name>
+							<name  sortindex="1">Axiom 3000</name>
+									
+			<description>Axiom is a two player strategy game that is played in three dimensions.  The board is made up of twelve cubes, six of each color. Each player has two pawns which snap into the indentations on the cubes.  The object is to capture one of the other player's pawns.  On a turn, a player can move one of their pawns over the surfaces of the cubes, or move one of their cubes to change the playing surface.&lt;br/&gt;&lt;br/&gt;At Essen 2008, a new version was released with a new physical design: smooth curved pawns, held into the indentations by magnets.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jtZghUnN1P86aAhoQ2h_xKsKPlY=/fit-in/200x150/pic407827.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9DAdyADTofisszrgYMiXL7mPPMU=/0x0/pic407827.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgameversion objectid="21191">Abstract Planet English edition</boardgameversion>
+															<boardgamepublisher objectid="11065">Abstract Planet Ltd.</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgamepublisher objectid="568">Lumicube</boardgamepublisher>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamedesigner objectid="396">Michael Seal</boardgamedesigner>
+															<boardgameartist objectid="396">Michael Seal</boardgameartist>
+															<boardgamepublisher objectid="214">Seventh Seal</boardgamepublisher>
+															<boardgameversion objectid="21148">Seventh Seal English first edition</boardgameversion>
+															<boardgameversion objectid="21149">Seventh Seal English second edition</boardgameversion>
+															<boardgameversion objectid="391162">Seventh Seal multilingual edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>203</usersrated>
+					<average>6.9407</average>
+					<bayesaverage>5.71216</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3896" bayesaverage="5.71216" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="128" bayesaverage="6.27804" />
+												
+											</ranks>
+					
+					<stddev>1.4596</stddev>
+					<median>0</median>
+					<owned>294</owned>
+					<trading>11</trading>
+					<wanting>110</wanting>
+					<wishing>262</wishing>
+					<numcomments>109</numcomments>
+					<numweights>14</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

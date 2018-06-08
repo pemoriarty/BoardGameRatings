@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5096">
+			<yearpublished>1975</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Blockade</name>
+							<name primary="true" sortindex="1">Sly</name>
+									
+			<description>Sly isn't a single game but six different ones, sharing board and pieces.  The board is 12x12, divided in 16 fields of 3x3, with field centres specially marked.  The pieces come in four colours and each set consists of a cylinder, four triangles and six squares.&lt;br/&gt;&lt;br/&gt;All games but Line up use the whole 12x12 grid as a playing area. Line Up only uses the center positions of the 16 3x3 fields to effectively yield a 4x4 grid of playing positions.&lt;br/&gt;&lt;br/&gt;Solitaire Sly is for 1 player and is a variation on the old puzzle of removing pieces by selected jumps. The game starts in 6x6 grid of pieces, but pieces can jump outside the 6x6 area using the whole 12x12 board if desired.&lt;br/&gt;&lt;br/&gt;Sniggle is a racing game for 2-4 players.&lt;br/&gt;&lt;br/&gt;Line Up is an alignment two-player game played on a 4x4 grid with each player having two squares, two triangles and one cyclinder of his color.&lt;br/&gt;&lt;br/&gt;Empire is an abstract two-four player wargame of sorts.&lt;br/&gt;&lt;br/&gt;Blockade (two players) is a distant relative of Hnefatafl; each player tries to have his king escape whilst blocking the other's with his guards.&lt;br/&gt;&lt;br/&gt;Gateway, finally, is a 2-4 player game where each tries to enter all his pieces by forming alignments with opposing pieces.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/fkdOvcXw3X854GH48NeRu0M2pEA=/fit-in/200x150/pic17382.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9i_nsnkWtYwmHLgIZiAju7KybLQ=/0x0/pic17382.jpg</image>
+						
+												<boardgamehonor objectid="8792">1979 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="1167">Amway</boardgamepublisher>
+															<boardgameversion objectid="64538">Amway English/French edition</boardgameversion>
+															<boardgameversion objectid="49686">Amway U.S. edition</boardgameversion>
+																						<boardgameversion objectid="30178">Bütehorn German edition</boardgameversion>
+															<boardgamepublisher objectid="1531">Bütehorn Spiele</boardgamepublisher>
+															<boardgamecategory objectid="1119">Game System</boardgamecategory>
+																													<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+															<boardgameversion objectid="69033">Hexagames edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgamecompilation objectid="3024" inbound="true">Realm</boardgamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>6.34194</average>
+					<bayesaverage>5.52358</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.52358" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="5.6541" />
+												
+											</ranks>
+					
+					<stddev>1.04009</stddev>
+					<median>0</median>
+					<owned>173</owned>
+					<trading>12</trading>
+					<wanting>11</wanting>
+					<wishing>27</wishing>
+					<numcomments>32</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

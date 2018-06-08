@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4022">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Championnat!</name>
+							<name primary="true" sortindex="1">Diceball!</name>
+									
+			<description>Diceball! is a baseball board game that relies on the use of dice to play out a game between two players.&lt;br/&gt;&lt;br/&gt;On defense you use the dice to throw the ball, catch it and make relays.&lt;br/&gt;&lt;br/&gt;On offense you use the dice to hit the ball and run. You can order a player to steal a base or bunt.&lt;br/&gt;&lt;br/&gt;With all the decisions in the players hands, the dice determine your fate.&lt;br/&gt;&lt;br/&gt;This game can also be played solo, where you roll and make decisions for both teams.&lt;br/&gt;&lt;br/&gt;The best part is keeping track of the incredibly accurate stats.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P0Z-__Ea0kIYFrUwmN89kbiQscw=/fit-in/200x150/pic999291.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Vih4bDofJ5XqnmotTwMxEMnVJnQ=/0x0/pic999291.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamedesigner objectid="1603">Daniel Girard</boardgamedesigner>
+															<boardgamepublisher objectid="936">Intellijeux</boardgamepublisher>
+															<boardgameversion objectid="106595">Intellijeux edition</boardgameversion>
+															<boardgameversion objectid="143518">Intellijeux French edition</boardgameversion>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>5.68043</average>
+					<bayesaverage>5.5025</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12415" bayesaverage="5.5025" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="876" bayesaverage="5.48248" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1508" bayesaverage="5.49958" />
+												
+											</ranks>
+					
+					<stddev>1.97017</stddev>
+					<median>0</median>
+					<owned>91</owned>
+					<trading>7</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>19</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.5556</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

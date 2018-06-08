@@ -1,0 +1,138 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15121">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Exago</name>
+							<name  sortindex="1">Hextremity</name>
+									
+			<description>The game is played on a hexagonal board. Each player is given six hexagonal tiles of one color (twelve, in a two-player game). In turn, players put one of their tiles on the board, with the goal of getting four-in-a-row, in a straight line. Each new tile must be placed adjacent to another one (not necessarily of their own color).&lt;br/&gt;&lt;br/&gt;When a player has no more tiles, they can move a tile of their own color to another position.&lt;br/&gt;&lt;br/&gt;If a group of tiles is isolated due to moving a tile, all isolated tiles (of the smallest group) return to their respective owners, to be used again.&lt;br/&gt;&lt;br/&gt;The first to have four pieces in a straight line wins the game. (In this game, a player MUST block the player to their left if that player is in a position to win - even if more than one player is able to win on their next turn.)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UXUMlT3Sko9rYZXrx3vGvXJ9jvM=/fit-in/200x150/pic391658.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ST0nXTDlRJp7i0iuGHDdj4WF_Wc=/0x0/pic391658.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="496">danspil</boardgamepublisher>
+																																											<boardgameversion objectid="140422">English / German edition</boardgameversion>
+															<boardgamedesigner objectid="2764">Mark Forsyth</boardgamedesigner>
+															<boardgamepublisher objectid="454">Goliath B.V.</boardgamepublisher>
+															<boardgameversion objectid="29666">Goliath First Edition</boardgameversion>
+															<boardgameartist objectid="3030">Kinetic</boardgameartist>
+																																				<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepodcastepisode objectid="125036">TPGC - Episode #38 - Falling, Exago and Take it Easy</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>177</usersrated>
+					<average>5.58503</average>
+					<bayesaverage>5.49924</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12696" bayesaverage="5.49924" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="724" bayesaverage="5.49026" />
+												
+											</ranks>
+					
+					<stddev>1.41809</stddev>
+					<median>0</median>
+					<owned>414</owned>
+					<trading>29</trading>
+					<wanting>7</wanting>
+					<wishing>23</wishing>
+					<numcomments>74</numcomments>
+					<numweights>14</numweights>
+					<averageweight>1.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

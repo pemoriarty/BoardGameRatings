@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4025">
+			<yearpublished>1976</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Lankhmar</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Lankhmar is a game based on the characters in the Nehwon world created by Fritz Leiber.  It contains elements of both individual character adventures, army combat, and magic quests.&lt;br/&gt;Play involves the drawing and following of geas cards, moving units and weaponry, collecting rewards from the Reward Deck after completing quests, and resolving battles.  The map is made up of hexes of various land types with varying combat affecting statistics.  Units have a set number of action points with which they can move or carry out their other unit abilities such as changing or picking up weapons.&lt;br/&gt;&lt;br/&gt;The geas component is the most unique, forcing players to send their heroes off on perilous quests despite whatever plans had been previously made.&lt;br/&gt;&lt;br/&gt;Optional rules include the inclusion of healing, land sinking into the sea, and a more complicated combat system.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0PTJ0NIf6hUsU_KZ6jSVXfD6MEk=/fit-in/200x150/pic1146886.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EzkNlNSVPkHzt9boU526gnQYZgs=/0x0/pic1146886.jpg</image>
+						
+												<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamedesigner objectid="561">Gary Gygax</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepodcastepisode objectid="133151">I&#039;ve Been Diced! episode 61: Worthington Games</boardgamepodcastepisode>
+															<boardgamedesigner objectid="1188">Robert J. Kuntz</boardgamedesigner>
+															<boardgamedesigner objectid="1605">Fritz Leiber</boardgamedesigner>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+															<boardgamedesigner objectid="7064">Brad Stock</boardgamedesigner>
+															<boardgameartist objectid="7271">David C. Sutherland, III</boardgameartist>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgameversion objectid="162475">TSR first edition</boardgameversion>
+															<boardgameversion objectid="162476">TSR second edition</boardgameversion>
+															<boardgameversion objectid="26370">TSR third edition</boardgameversion>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>5.624</average>
+					<bayesaverage>5.50131</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12527" bayesaverage="5.50131" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2598" bayesaverage="5.49112" />
+												
+											</ranks>
+					
+					<stddev>1.39871</stddev>
+					<median>0</median>
+					<owned>134</owned>
+					<trading>8</trading>
+					<wanting>17</wanting>
+					<wishing>22</wishing>
+					<numcomments>26</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

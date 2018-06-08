@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2609">
+			<yearpublished>1999</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="5">Das Störrische Muli</name>
+									
+			<description>The game is quite simple and definitely family fare. Players race mules and men to the end of the track and back. However, it has some interesting features, particularly in the determination of the winner. Depending upon the number of players, in addition to the mules, there are either 1 or 2 men in the race, each of a unique color. Each player guides either a mule or a man. On a turn, two color dice are rolled and the appropriate tokens moved forward. If two of the same color are rolled, then that token moves backwards one space. Simple enough so far.&lt;br/&gt;&lt;br/&gt;The twist is that the next player may opt to keep intact one of the dice and only roll the remaining die. This subtle rules twist allows for some 'catch-up' ability, as well as some nice hoseage as it makes it possible to move one player's token on several consecutive turns if all players keep that die intact. This may sound like a good thing for the affected player, but in reality being the first to cross the finish line is NOT always the best occurrence. What? Well, the game has a very clever mechanism to determine the winner.&lt;br/&gt;&lt;br/&gt;If you are the first player to have your token cross the finish line, then you only win if the last piece remaining on the track is a man piece. Otherwise, if the final piece remaining is a mule, then that player is the winner! So, you have to make a judgment during the game as to whether you want to try to finish first or last, then attempt to move the other pieces accordingly.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wLSWNSnWV1w4SJUJGzq-O6hyqZE=/fit-in/200x150/pic150296.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/utXc0x41nfvx4x8t-6m1S1-R9GY=/0x0/pic150296.jpg</image>
+						
+												<boardgameartist objectid="29009">Bluguy</boardgameartist>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgameversion objectid="139817">First edition</boardgameversion>
+															<boardgamepublisher objectid="127">Klee</boardgamepublisher>
+															<boardgamedesigner objectid="230">Hartmut Kommerell</boardgamedesigner>
+															<boardgameartist objectid="22516">Anke Pohl</boardgameartist>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgameartist objectid="22515">Thilo Rick</boardgameartist>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgameartist objectid="56084">Dusan Senkerik</boardgameartist>
+															<boardgameimplementation objectid="5907">Trampelfanten</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>5.97297</average>
+					<bayesaverage>5.5153</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11291" bayesaverage="5.5153" />
+												
+											</ranks>
+					
+					<stddev>1.0704</stddev>
+					<median>0</median>
+					<owned>43</owned>
+					<trading>2</trading>
+					<wanting>6</wanting>
+					<wishing>7</wishing>
+					<numcomments>22</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

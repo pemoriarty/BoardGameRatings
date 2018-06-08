@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2836">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Magestones</name>
+									
+			<description>Very vaguely themed to the AD&amp;amp;D Dragonlance campaign background. The board is a grid 7 x 9, with columns numbered 3-9, columns representing planes of reality, rows representing schools of magic, though this has no effect on gameplay. The board &amp;quot;wraps&amp;quot; top to bottom, but not for the purposes of diagonal capture.&lt;br/&gt;&lt;br/&gt;Players roll 3d3 (six sided dice numbered 1-3 twice), and place their coloured tokens on a space in the column matching the dice total. The exception to this is where the three dice are all different, where the player misses a turn &amp;quot;distracted by events in the prime material plane.&amp;quot; When a player rolls all three dice the same, they get another turn after placing their stone.&lt;br/&gt;&lt;br/&gt;Capture of opposition stones is in the style of Othello/Reversi, but captured stones are removed from the board and returned to their owner. First player to place all their stones wins.&lt;br/&gt;&lt;br/&gt;Re-implemented by:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Let's Do Lunch! &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/loqJKOqJgruFtfBGYJAuvmXHCUE=/fit-in/200x150/pic2955210.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ojshL4U_CIPiYvFaGbNg5iOkLZI=/0x0/pic2955210.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamefamily objectid="19346">Dragonlance</boardgamefamily>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="110039">First edition</boardgameversion>
+															<boardgamedesigner objectid="133">Tom Kruszewski</boardgamedesigner>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgamedesigner objectid="728">Steve Weiss</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>109</usersrated>
+					<average>5.88991</average>
+					<bayesaverage>5.52458</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10447" bayesaverage="5.52458" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="706" bayesaverage="5.50492" />
+												
+											</ranks>
+					
+					<stddev>1.6012</stddev>
+					<median>0</median>
+					<owned>197</owned>
+					<trading>9</trading>
+					<wanting>10</wanting>
+					<wishing>19</wishing>
+					<numcomments>43</numcomments>
+					<numweights>10</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

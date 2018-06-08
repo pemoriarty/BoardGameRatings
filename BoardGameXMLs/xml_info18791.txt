@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="18791">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Star Wars Kartenspiel</name>
+							<name primary="true" sortindex="1">Star Wars: Attack of the Clones Card Game</name>
+							<name  sortindex="1">Star Wars: Der Angriff der Clonkrieger</name>
+							<name  sortindex="1">Star Wars: l&#039;Attaque des Clones</name>
+									
+			<description>The game is based on Reiner Knizia's Circus Flohcati but changes the special action cards and adds missions to be completed. It is played over three rounds.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Circus Flohcati&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RJ3L4IjXlR5BuL3xKdlALkUn5L4=/fit-in/200x150/pic84466.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Y1-2vYpCtuey20SUdIqJZEAF6dI=/0x0/pic84466.jpg</image>
+						
+												<boardgamepodcastepisode objectid="86304">BGTG - May 14, 2005 (SR: Crokinole, Schrille Stille, Star Wars Attack of the Clones, Puerto Rico, Traumfabrik)</boardgamepodcastepisode>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgameversion objectid="98026">First edition</boardgameversion>
+																																											<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="5602">Star Wars</boardgamefamily>
+															<boardgameimplementation objectid="337" inbound="true">Circus Flohcati</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>99</usersrated>
+					<average>5.78384</average>
+					<bayesaverage>5.53595</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9458" bayesaverage="5.53595" />
+												
+											</ranks>
+					
+					<stddev>1.49524</stddev>
+					<median>0</median>
+					<owned>244</owned>
+					<trading>16</trading>
+					<wanting>19</wanting>
+					<wishing>19</wishing>
+					<numcomments>45</numcomments>
+					<numweights>14</numweights>
+					<averageweight>1.2143</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

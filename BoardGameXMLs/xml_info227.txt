@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="227">
+			<yearpublished>1994</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Knightmare Chess</name>
+							<name  sortindex="1">Tempête sur l&#039;échiquier</name>
+							<name  sortindex="1">Tschach</name>
+							<name  sortindex="1">Шахматы хаоса</name>
+									
+			<description>Knightmare Chess adds a whole new element of unpredictability to the game of standard Chess by giving players cards that they can play before, after, or sometimes instead of their turns. Some cards affect only a single move, while others change the entire game. Each card is assigned a point value, so you can build custom decks based on an agreed point total or handicap the match so that the better player has fewer powerful cards. Multiple variants are included in the rules.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Knightmare Chess 2&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Number of Cards&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    French First Edition: 72 Cards&lt;br/&gt;    German First Edition: 51 Cards&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Vgdr2eTpzcp1X8d5MQR2D2LUMWQ=/fit-in/200x150/pic199970.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0MnEW_MjerartZ6MzWdb-4hB90I=/0x0/pic199970.jpg</image>
+						
+												<boardgamehonor objectid="8955">1995 Fairplay À la carte Winner</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamedesigner objectid="126">Pierre Cléquin</boardgamedesigner>
+															<boardgameversion objectid="60120">English first edition</boardgameversion>
+																						<boardgameversion objectid="72280">English second edition</boardgameversion>
+															<boardgamepodcastepisode objectid="120675">Episode 23 – We talk about the games we played</boardgamepodcastepisode>
+															<boardgamedesigner objectid="125">Bruno Faidutti</boardgamedesigner>
+															<boardgameversion objectid="27711">French first edition</boardgameversion>
+															<boardgameversion objectid="120569">French second edition</boardgameversion>
+																						<boardgameversion objectid="25107">German first edition</boardgameversion>
+																													<boardgameversion objectid="50762">German second edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+															<boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
+															<boardgamecompilation objectid="155192">Knightmare Chess (third edition)</boardgamecompilation>
+																						<boardgameartist objectid="14089">Jeff Koke</boardgameartist>
+															<boardgamepublisher objectid="14">Ludodélire</boardgamepublisher>
+															<boardgameartist objectid="684">Gérard Mathieu</boardgameartist>
+																													<boardgameartist objectid="19980">Anthony Rezendes</boardgameartist>
+																						<boardgamepublisher objectid="19">Steve Jackson Games</boardgamepublisher>
+															<boardgamecompilation objectid="30966">Tempête sur l&#039;Échiquier</boardgamecompilation>
+															<boardgamepublisher objectid="2647">Variantes</boardgamepublisher>
+															<boardgameartist objectid="12269">Rogério Vilela</boardgameartist>
+															<boardgameimplementation objectid="107551">Шахматы Хаоса</boardgameimplementation>
+															<boardgameexpansion objectid="171" inbound="true">Chess</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1275</usersrated>
+					<average>6.4384</average>
+					<bayesaverage>5.97884</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.97884" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="6.19609" />
+												
+											</ranks>
+					
+					<stddev>1.44381</stddev>
+					<median>0</median>
+					<owned>2346</owned>
+					<trading>111</trading>
+					<wanting>22</wanting>
+					<wishing>102</wishing>
+					<numcomments>463</numcomments>
+					<numweights>98</numweights>
+					<averageweight>2.5918</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

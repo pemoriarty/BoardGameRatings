@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3619">
+			<yearpublished>1989</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Chain Reaction</name>
+							<name  sortindex="1">Kettenreaktion</name>
+									
+			<description>This pure abstract strategy game is a relatively unknown work by Sid Sackson. Similar in some ways to his 1981 Spiel des Jahres winner, Focus, it is available commercially in a German edition, but can be played with materials improvised from a chessboard and checkers.&lt;br/&gt;&lt;br/&gt;From the translation: The players take alternate turns of up to five segments, trying to move game pieces from their home squares over the opposing goal line, in order to score points. After the first segment of a turn, only towers made of two game pieces may be moved. Each tower is broken down during its move, and one of its pieces may be used to build a new tower on another square. Intelligent use of this move technique can lead to &amp;quot;nuclear chain reactions&amp;quot;, in which up to five towers are involved. There must never be more than one tower on the board at one time. Any tower on the board must be moved during the following turn segment by the player whose piece is on top. The game ends with the achievement of an agreed-upon number of points.&lt;br/&gt;&lt;br/&gt;The game was originally published in 1989 in a tiny cardboard box by Ferdinand de Cassan. In 1990 it was published by Hexagames in their &amp;quot;Exklusiv&amp;quot; series, and later (1993?) by Abacus in their very similar Abacus wood box series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/__dc15hnvWIzVnUGMtJJBmPE5qE=/fit-in/200x150/pic1255624.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HxHhd3Jbv-1HaJA0L3Dx19_savU=/0x0/pic1255624.jpg</image>
+						
+												<boardgamefamily objectid="72">Abacus wood box</boardgamefamily>
+															<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgameversion objectid="109049">ABACUSSPIELE edition</boardgameversion>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgameversion objectid="109051">Europäische Spielesammler Free Gift Edition</boardgameversion>
+															<boardgamepublisher objectid="14696">Europäische Spielesammler Gilde e.V.</boardgamepublisher>
+															<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+															<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>23</usersrated>
+					<average>6.3087</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.926383</stddev>
+					<median>0</median>
+					<owned>65</owned>
+					<trading>0</trading>
+					<wanting>5</wanting>
+					<wishing>9</wishing>
+					<numcomments>15</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

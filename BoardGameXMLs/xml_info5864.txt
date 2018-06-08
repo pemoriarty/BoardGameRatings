@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5864">
+			<yearpublished>1970</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Flight of the Goeben</name>
+									
+			<description>This game simulates the actions of the German battlecruiser Goeben and lightcruiser Breslau in the Mediterranean during World War I.&lt;br/&gt;&lt;br/&gt;As well as the standard hex and counter version of the game, a set of larger ship counters and miniatures rules are also included.&lt;br/&gt;&lt;br/&gt;First published in Strategy &amp;amp; Tactics magazine #21, along with Chicago, Chicago!. Later published as a &amp;quot;Flat Box&amp;quot; game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2INcV1ptcc3xbWmlag3yDuW5G58=/fit-in/200x150/pic67085.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0ntC1sLi4SOti8npPB75tisIBZQ=/0x0/pic67085.jpg</image>
+						
+												<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamefamily objectid="3231">Magazine: Strategy &amp; Tactics</boardgamefamily>
+															<boardgamedesigner objectid="5267">Tony  Morale</boardgamedesigner>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameartist objectid="1030">Redmond A. Simonsen</boardgameartist>
+															<boardgamepublisher objectid="120">SPI (Simulations Publications, Inc.)</boardgamepublisher>
+															<boardgameversion objectid="107209">SPI flat box edition</boardgameversion>
+															<boardgameversion objectid="34564">SPI Strategy &amp; Tactics Edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamedesigner objectid="796">David Williams (I)</boardgamedesigner>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>39</usersrated>
+					<average>7.26923</average>
+					<bayesaverage>5.55261</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8208" bayesaverage="5.55261" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1558" bayesaverage="5.83557" />
+												
+											</ranks>
+					
+					<stddev>1.62846</stddev>
+					<median>0</median>
+					<owned>126</owned>
+					<trading>1</trading>
+					<wanting>27</wanting>
+					<wishing>41</wishing>
+					<numcomments>32</numcomments>
+					<numweights>6</numweights>
+					<averageweight>2.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

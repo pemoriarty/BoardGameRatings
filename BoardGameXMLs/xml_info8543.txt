@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8543">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Check</name>
+									
+			<description>Check - The Chess Card Game is an original card game which takes the classic Chess concept and packages it up in an original deck of 64 full-colour playing cards. There are sixteen cards in each of the four traditional suits: Spades, Hearts, Clubs and Diamonds. The goal is the same as Chess, to take the opponent's King, but gameplay is truly unique.&lt;br/&gt;&lt;br/&gt;Each player plays with the cards of one suit, which evens the playing field substantially over many card games which are based principally on the luck of the draw. Each card in the deck has a numerical attack strength and an attack pattern which will be familiar to Chess players. However, unlike Chess, the eight Pawn cards have different attack strengths. The number one pawn is called the Ace and can be used in special attacks.&lt;br/&gt;&lt;br/&gt;The game combines mainly strategic thinking with an element of luck, and some bluffing. In most turns, one card is taken from each player. Formulating an attack which takes more than one card, or a defence where no cards are lost, is a key strategic element of the game.&lt;br/&gt;&lt;br/&gt;There are four game modes for 2, 3 and 4 players, plus a collaborative Alliance mode where two pairs team up against each other.&lt;br/&gt;&lt;br/&gt;Unlike some other Chess variants which use cards to modify the traditional game of Chess, Check is a stand-alone card game. No board is required to play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/arfR2RY3dAQqb-W16FJxbXTRsmo=/fit-in/200x150/pic35606.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/idda7ukWOsTzkddQQ23dHxDGYRc=/0x0/pic35606.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="2915">Alan Biggs</boardgamedesigner>
+															<boardgamedesigner objectid="2916">Peter Biggs</boardgamedesigner>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamefamily objectid="4705">Games by the Game Artisans of Canada</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="1965">Red3 Games</boardgamepublisher>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>7.0625</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.37925</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>3</trading>
+					<wanting>7</wanting>
+					<wishing>12</wishing>
+					<numcomments>6</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

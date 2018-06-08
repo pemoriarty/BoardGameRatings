@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="450">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Octi</name>
+							<name  sortindex="1">Octi Extreme</name>
+									
+			<description>Octi is a unique abstract strategy game.   Its object is to move your pieces into your opponent's starting points.  Octi  allows for multiple jumping, capturing, and special movement of pieces.  On each move players decide whether to bring in new pieces, upgrade their existing pieces, or move a piece.  The choices in this game are staggering and each move presents and entire new way of thinking about the game.  There is a 4 player teams variant that is included in the rules.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Hdg1BpjFkZe2wk20nHlFieSNRy4=/fit-in/200x150/pic818066.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ea8d0QpRE4A8DCGJiA8_ImP9nr0=/0x0/pic818066.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgamepublisher objectid="1280">FoxMind</boardgamepublisher>
+															<boardgameversion objectid="68858">FoxMind edition</boardgameversion>
+																																				<boardgamepublisher objectid="124">Great American Trading Company</boardgamepublisher>
+															<boardgameversion objectid="27436">Great American Trading Company edition 1999</boardgameversion>
+															<boardgameversion objectid="290758">Great American Trading Company edition 2001</boardgameversion>
+															<boardgameversion objectid="28429">Great American Trading Company edition 2002</boardgameversion>
+															<boardgamedesigner objectid="229">Don Green</boardgamedesigner>
+															<boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+															<boardgameimplementation objectid="24213">Octi for Kids</boardgameimplementation>
+																																		
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>305</usersrated>
+					<average>6.76292</average>
+					<bayesaverage>5.74867</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3542" bayesaverage="5.74867" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="130" bayesaverage="6.27596" />
+												
+											</ranks>
+					
+					<stddev>1.51844</stddev>
+					<median>0</median>
+					<owned>577</owned>
+					<trading>38</trading>
+					<wanting>25</wanting>
+					<wishing>78</wishing>
+					<numcomments>140</numcomments>
+					<numweights>20</numweights>
+					<averageweight>3.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5900">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Aliens Predator</name>
+									
+			<description>A collectible card game set in the worlds of the Aliens and Predator films.  From the starter box: &amp;quot;Enjoy the deadly competition between three very dangerous species.  Defend humanity as the Colonial Marines, search for prey as the master hunter Predator, or live to breed as the Hive-building Alien.&amp;quot;&lt;br/&gt;&lt;br/&gt;The game was sold in starter decks (for Aliens, Predators, or Colonial Marines) which included 60 cards, one die, one token sheet, plus a rule book.  Cards were also sold in 15 card booster packs.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/muDSpJe2FbdnKEy0Doycg8DaYJY=/fit-in/200x150/pic52990.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kotqJ9qo7wU0nlrS2DDj-Dme9Do=/0x0/pic52990.jpg</image>
+						
+																			<boardgamedesigner objectid="1071">Ran Ackels</boardgamedesigner>
+															<boardgamefamily objectid="5679">Aliens</boardgamefamily>
+																						<boardgameexpansion objectid="175857">Aliens vs. Predator: Alien Resurrection Expansion Set</boardgameexpansion>
+															<boardgamedesigner objectid="1199">Paul Brown</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamepublisher objectid="1352">Harper Prism</boardgamepublisher>
+															<boardgamedesigner objectid="1198">David Hewitt</boardgamedesigner>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamedesigner objectid="1627">John Myler</boardgamedesigner>
+															<boardgamepublisher objectid="251">Precedence Publishing</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameintegration objectid="14471">The Terminator: CCG</boardgameintegration>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameintegration objectid="14471" inbound="true">The Terminator: CCG</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>179</usersrated>
+					<average>5.97291</average>
+					<bayesaverage>5.54791</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8533" bayesaverage="5.54791" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="177" bayesaverage="5.62241" />
+												
+											</ranks>
+					
+					<stddev>1.80631</stddev>
+					<median>0</median>
+					<owned>287</owned>
+					<trading>30</trading>
+					<wanting>32</wanting>
+					<wishing>31</wishing>
+					<numcomments>81</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.2308</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

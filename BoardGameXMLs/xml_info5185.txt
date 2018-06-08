@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5185">
+			<yearpublished>1976</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Field Marshal</name>
+									
+			<description>Field Marshal is a wargame between two fictional countries using world war two era technology. The game adds a level of uncertainty with a deck of event cards which could cause events such as some of your troops being withdrawn to another front which is off map and which you have no control over. Also included is a third minor country which could join the fighting on either side.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/REJh4Xdjo0gCLFjs8Lt35oUdBRA=/fit-in/200x150/pic17642.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AaMEi6NLek3hQZw2NwVcSYZMD9g=/0x0/pic17642.jpg</image>
+						
+												<boardgameversion objectid="39042">Command Magazine Japan Edition</boardgameversion>
+															<boardgamedesigner objectid="600">John Edwards</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameversion objectid="39041">Jedko first edition</boardgameversion>
+															<boardgamepublisher objectid="1338">Jedko Games</boardgamepublisher>
+															<boardgameversion objectid="39039">Jedko second edition</boardgameversion>
+															<boardgamepublisher objectid="3133">Kokusai-Tsushin Co., Ltd. (国際通信社)</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameartist objectid="23910">Sawshun Yamaguchi</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>61</usersrated>
+					<average>5.8</average>
+					<bayesaverage>5.5069</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12051" bayesaverage="5.5069" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2492" bayesaverage="5.53918" />
+												
+											</ranks>
+					
+					<stddev>1.46153</stddev>
+					<median>0</median>
+					<owned>226</owned>
+					<trading>22</trading>
+					<wanting>3</wanting>
+					<wishing>8</wishing>
+					<numcomments>46</numcomments>
+					<numweights>12</numweights>
+					<averageweight>2.0833</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

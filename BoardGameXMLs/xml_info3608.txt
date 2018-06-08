@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="3608">
+			<yearpublished>1976</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Air Force</name>
+							<name  sortindex="1">碧血長空</name>
+									
+			<description>A tactical simulation of air combat over the Europe during WWII.&lt;br/&gt;&lt;br/&gt;Each player controls one or more aircraft represented on the board with one counter per plane. A card contains all the relevant maneuverability, speed, and weaponry data. Each plane is also has a log column containing ammo records, damage records, moves, altitude, speed, and attitude. All movement is pre-plotted and then executed on the board simultaneously. Hits are determined based on relative facing, range, and gunnery factors and are rolled on a CRT. Damage is scored against various components (wing, fuselage, engine, etc).&lt;br/&gt;&lt;br/&gt;Rules are also included for air-to-ground combat. Victory is by scenario. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DtstawGxjLvJrPD2yuSYVuqclls=/fit-in/200x150/pic1065045.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9bnAgCZEuMHAFKNxLw96Udv4iH0=/0x0/pic1065045.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgameexpansion objectid="7390">Air Force Dauntless Expansion Kit</boardgameexpansion>
+																						<boardgameversion objectid="315726">Avalon Hill English first edition</boardgameversion>
+															<boardgameversion objectid="23881">Avalon Hill English second edition</boardgameversion>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgamepublisher objectid="1634">Battleline</boardgamepublisher>
+															<boardgameversion objectid="29340">Battleline English edition</boardgameversion>
+															<boardgameversion objectid="407656">Chinese edition</boardgameversion>
+															<boardgameexpansion objectid="3607">Dauntless</boardgameexpansion>
+															<boardgameartist objectid="12253">Joe DeMarco</boardgameartist>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgameversion objectid="197170">Japanese edition</boardgameversion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="3444">Wargames Research Centre Ltd.</boardgamepublisher>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>655</usersrated>
+					<average>6.39018</average>
+					<bayesaverage>5.79266</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3188" bayesaverage="5.79266" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="791" bayesaverage="6.152" />
+												
+											</ranks>
+					
+					<stddev>1.4284</stddev>
+					<median>0</median>
+					<owned>1520</owned>
+					<trading>99</trading>
+					<wanting>12</wanting>
+					<wishing>39</wishing>
+					<numcomments>326</numcomments>
+					<numweights>100</numweights>
+					<averageweight>3.21</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

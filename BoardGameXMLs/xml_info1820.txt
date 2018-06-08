@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1820">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Z-G</name>
+							<name  sortindex="1">Z-G</name>
+									
+			<description>Z-G is a combination miniatures wargame/collectible card game. The miniatures, which represent arena combat robots, are actually 5&amp;quot; action figures with 14 points of articulation and 8 pieces of removable armor. Each piece of armor has a corresponding collectible card giving its statistics and special powers. Each basic set includes a fixed 10 card set (1 card per piece of equipment, including the figure itself, plus a character card)&lt;br/&gt;&lt;br/&gt;The game is played in rounds, which start with all players choosing which 3 pieces of equipment to use this round. Each piece of equipment also has an impulse rating, and whoever has the highest impulse goes first. Players then use their cards to move their figure a number of card lengths and/or use attacks based on a color-matching system on the ends of each card. If your attack is successful, a piece of your opponent's armor is destroyed (and so is its corresponding card).&lt;br/&gt;&lt;br/&gt;One of the more innovative parts in all this is that the actual figure poses have bearing on gameplay. Movement points must be used to enter a stance, and each stance has certain advantages and disadvantages (Except lying down, which is universally bad)&lt;br/&gt;&lt;br/&gt;Z-G was first shown publicly for sale and demonstration at Origins 2001 in Columbus, Ohio, with the subtitle &amp;quot;Citizen.&amp;quot; Although planned as the first set in a series of sets, &amp;quot;Citizen Z-G&amp;quot; was ultimately the only published set.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DrDQDdV5MnjfCHLuala-XEIN7AI=/fit-in/200x150/pic54235.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EXwHFsyRdBRMbnL7DUugWPyM5z8=/0x0/pic54235.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamepublisher objectid="398">Atomoton</boardgamepublisher>
+															<boardgamefamily objectid="5914">CMGs (Collectible Miniatures Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+																																				<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="13707">Mark Rein•Hagen</boardgamedesigner>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>38</usersrated>
+					<average>6.54737</average>
+					<bayesaverage>5.53627</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9431" bayesaverage="5.53627" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2389" bayesaverage="5.57532" />
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="169" bayesaverage="5.67639" />
+												
+											</ranks>
+					
+					<stddev>1.77003</stddev>
+					<median>0</median>
+					<owned>84</owned>
+					<trading>11</trading>
+					<wanting>7</wanting>
+					<wishing>11</wishing>
+					<numcomments>22</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

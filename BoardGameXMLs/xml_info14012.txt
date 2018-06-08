@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="14012">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Boing!</name>
+									
+			<description>This game consists of a tin can with an interior rim. Each player has 10 marbles of the same colour. These are put on the rim and players use a rubber mallet to attempt to knock the other player's marbles into the can while keeping their own on the rim. The player with the last marble on the rim is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XSgZf9zui5yb56qF130_kF18R1s=/fit-in/200x150/pic120950.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xTpwLuumPCI8Kstg9siDmpKYvE4=/0x0/pic120950.jpg</image>
+						
+												<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamedesigner objectid="4333">Tom Espen</boardgamedesigner>
+															<boardgamepublisher objectid="3138">Espenlaub</boardgamepublisher>
+															<boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+															<boardgameversion objectid="56447">F.X. Schmid Purple edition</boardgameversion>
+															<boardgameversion objectid="56448">F.X. Schmid Red edition</boardgameversion>
+																																				<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>51</usersrated>
+					<average>6.57843</average>
+					<bayesaverage>5.5488</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8468" bayesaverage="5.5488" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="113" bayesaverage="5.98077" />
+												
+											</ranks>
+					
+					<stddev>1.69594</stddev>
+					<median>0</median>
+					<owned>55</owned>
+					<trading>0</trading>
+					<wanting>9</wanting>
+					<wishing>18</wishing>
+					<numcomments>16</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="15474">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Zombiaki</name>
+									
+			<description>Polish card game for two players. One of the players is the Zombies, the second one - humans. Objective of the Zombies is to eat the people, but people want to save their own lives, which is possible if they survive until the sunrise. Game with humor and strategy.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/KWKtWCWGLgO9ISq_wI9XC_nWjnA=/fit-in/200x150/pic1614754.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gIfmu_5VayZT4xoVjZcGLVRwnvs=/0x0/pic1614754.jpg</image>
+						
+												<boardgameartist objectid="32239">Agnieszka Bemke</boardgameartist>
+															<boardgameartist objectid="32240">Krystian Bemke</boardgameartist>
+															<boardgameartist objectid="38917">Mateusz Bielski</boardgameartist>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																																																		<boardgameversion objectid="35114">German second edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgameartist objectid="32238">Paweł Miedźwiński</boardgameartist>
+															<boardgamedesigner objectid="4736">Adam Mnich</boardgamedesigner>
+															<boardgameversion objectid="24151">Polish first edition</boardgameversion>
+															<boardgameversion objectid="204598">Polish fourth edition</boardgameversion>
+																																																																							<boardgameversion objectid="92568">Polish third edition</boardgameversion>
+															<boardgamepublisher objectid="2726">Portal Games</boardgamepublisher>
+																						<boardgameartist objectid="34863">Oliver Schlemmer</boardgameartist>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamepublisher objectid="89">Truant Spiele</boardgamepublisher>
+															<boardgamedesigner objectid="4735">Ignacy Trzewiczek</boardgamedesigner>
+															<boardgameimplementation objectid="56128">Zombiaki II: Attack on Moscow</boardgameimplementation>
+															<boardgameexpansion objectid="142392">Zombiaki: dodatkowe karty</boardgameexpansion>
+															<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>685</usersrated>
+					<average>6.16809</average>
+					<bayesaverage>5.72251</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3793" bayesaverage="5.72251" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="629" bayesaverage="5.75479" />
+												
+											</ranks>
+					
+					<stddev>1.3802</stddev>
+					<median>0</median>
+					<owned>897</owned>
+					<trading>31</trading>
+					<wanting>13</wanting>
+					<wishing>58</wishing>
+					<numcomments>102</numcomments>
+					<numweights>68</numweights>
+					<averageweight>1.6176</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

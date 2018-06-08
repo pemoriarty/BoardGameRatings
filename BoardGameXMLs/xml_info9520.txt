@@ -1,0 +1,88 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9520">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Z Game</name>
+							<name  sortindex="5">Die Z Strategie</name>
+							<name  sortindex="1">Zed</name>
+									
+			<description>Z game is a game for two players. It is played like a simplified version of chess/checkers. And it has the mechanism of hidden values for the pieces, just like Stratego.&lt;br/&gt;&lt;br/&gt;At the beginning of the game, each player places his pieces as he wishes. The value of each piece is hidden from the opponent. The 'Z' piece is placed on the fixed base point, and therefore known to the opponent. The goal is to capture the opponents&amp;rsquo; 'Z' piece.&lt;br/&gt;&lt;br/&gt;Each turn a player can move one of his pieces one place, either straight or diagonal. Or a player can use his turn to uncover the value of one of his pieces. He then turns the piece upside down and can play with it according to its true value.&lt;br/&gt;&lt;br/&gt;There are null-pieces, an arrow-piece, cross pieces and plus pieces. All have different movement behavior but until they are revealed they all move like the null-piece.&lt;br/&gt;&lt;br/&gt;The surprise of the game is that it can move slow and carefully or it has fast and open attacks.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9keUL0Scd6k8AcHSHDqFlStSR0Q=/fit-in/200x150/pic44387.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2wTifOcej2ao4sXmbH13WLWY7-g=/0x0/pic44387.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="109322">Bütehorn Edition</boardgameversion>
+															<boardgamepublisher objectid="1531">Bütehorn Spiele</boardgamepublisher>
+																						<boardgamedesigner objectid="2367">J. B. McCarthy</boardgamedesigner>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameversion objectid="47503">Smurfit Bilangual Edition</boardgameversion>
+															<boardgamepublisher objectid="1328">Smurfit Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>5.35</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.0583</stddev>
+					<median>0</median>
+					<owned>56</owned>
+					<trading>5</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>8</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

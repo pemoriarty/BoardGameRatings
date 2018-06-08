@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="48">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Charlemagne</name>
+							<name primary="true" sortindex="1">Krieg und Frieden</name>
+							<name  sortindex="4">La Spada e la Fede</name>
+									
+			<description>Taking on the roles of land-owners in a feudal society, players are charged with running their lands and accruing favor from the bishop by building his cathedral.  Each turn, players use their resources to bid for that year's agenda, and some resources have more or less value in the bid depending on what type of agenda is available.  Then players use their remaining resources to build their lands, sack others' lands, bribe others' knights away from defense, or help to build the bishop's cathedral.  Finally, players harvest new resources for the next turn.  After all the pieces of the cathedral have been built, the game is over with the victory going to the player with the most victory points.  This game was originally released as Charlemagne by Think Games at Essen 1998, and later slightly shortened as Krieg und Frieden.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Charlemagne&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kJHEv4mERGzFt0i5UYe149md_Dw=/fit-in/200x150/pic359365.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AwVw9R5jA_cy_KXLygXRPnDBDXw=/0x0/pic359365.jpg</image>
+						
+												<boardgameversion objectid="25902">999 edition 1999</boardgameversion>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+																																																		<boardgameversion objectid="24576">German edition</boardgameversion>
+																																																									<boardgamepublisher objectid="15258">La Tana dei Goblin</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamedesigner objectid="38">Gerard Mulder</boardgamedesigner>
+																						<boardgamecategory objectid="1001">Political</boardgamecategory>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="31">TM Spiele</boardgamepublisher>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+															<boardgameimplementation objectid="529" inbound="true">Charlemagne</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>670</usersrated>
+					<average>6.13395</average>
+					<bayesaverage>5.73404</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3674" bayesaverage="5.73404" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1298" bayesaverage="5.79041" />
+												
+											</ranks>
+					
+					<stddev>1.28948</stddev>
+					<median>0</median>
+					<owned>1309</owned>
+					<trading>131</trading>
+					<wanting>21</wanting>
+					<wishing>50</wishing>
+					<numcomments>223</numcomments>
+					<numweights>68</numweights>
+					<averageweight>2.4559</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

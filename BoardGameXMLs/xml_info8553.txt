@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8553">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Cannon</name>
+									
+			<description>Cannon is an abstract war game where each player first places a city on the back row, then pieces move trying to capture the opposing city or shoot it with a cannon, which is a special arrangement of three pieces in a row. The complete rules can be found at the publisher's web site.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/i_BfZo9_r5RT3vtqK8ddDC76NPY=/fit-in/200x150/pic737400.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CO6J6JollDawXcCip9oTL6Daix4=/0x0/pic737400.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="6060">Blue Panther</boardgamepublisher>
+															<boardgameversion objectid="166560">Blue Panther Wooden edition</boardgameversion>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="41293">nestorgames edition</boardgameversion>
+															<boardgameissuearticle objectid="26528">Particle Accelerators</boardgameissuearticle>
+															<boardgameversion objectid="35051">Print and Play edition</boardgameversion>
+															<boardgamepublisher objectid="1967">PyroMyth Games</boardgamepublisher>
+															<boardgameversion objectid="23754">PyroMyth Games Acrylic Edition</boardgameversion>
+																						<boardgamepublisher objectid="7386">RamalamaS</boardgamepublisher>
+															<boardgameversion objectid="166559">RamalamaS edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																																				<boardgameversion objectid="23741">VCR Edition</boardgameversion>
+															<boardgamefamily objectid="7395">Video Tape Box Games</boardgamefamily>
+															<boardgamedesigner objectid="2919">David E. Whitcher</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>131</usersrated>
+					<average>7.01069</average>
+					<bayesaverage>5.64824</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4835" bayesaverage="5.64824" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="182" bayesaverage="6.11754" />
+												
+											</ranks>
+					
+					<stddev>1.3883</stddev>
+					<median>0</median>
+					<owned>139</owned>
+					<trading>4</trading>
+					<wanting>18</wanting>
+					<wishing>93</wishing>
+					<numcomments>86</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

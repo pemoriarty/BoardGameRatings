@@ -1,0 +1,144 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="13682">
+			<yearpublished>1990</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Clue Fun on the Run</name>
+							<name  sortindex="1">Cluedo</name>
+							<name  sortindex="1">Cluedo: en route pour de nouveaux mystères</name>
+							<name primary="true" sortindex="1">Travel Clue</name>
+							<name  sortindex="1">Travel Cluedo</name>
+									
+			<description>Travel Clue is a simplified version of the game Clue.  Like Clue, the object of the game is to correctly accuse the suspect, weapon and room surrounding the death of Mr. Boddy.  There are 21 square Clue cards with a picture of the 9 rooms (blue), 6 weapons (red) and 6 suspects (yellow).  The detective sheet lists these 21 items and has a 3x3 grid representing the small gameboard of 9 rooms.&lt;br/&gt;&lt;br/&gt;One of each color Clue cards is set aside for the answer; the remaining are placed in each room, 2 cards in each, on the gameboard. Players take turns looking at the cards in one room and asking another player if they had seen one of the clues.  The winner is the first one to correctly identify the weapon, suspect and room.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Clue&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/KV9etlIiJdBx0-Gxo1g7xmTVBQc=/fit-in/200x150/pic1219460.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Ig5lBm8-1YazeaW6-EsvNhdFmsc=/0x0/pic1219460.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamefamily objectid="71">Cluedo</boardgamefamily>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="303736">French travel edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgameversion objectid="302206">Hasbro English edition</boardgameversion>
+															<boardgameversion objectid="302390">Hasbro Greek edition</boardgameversion>
+															<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgameversion objectid="132950">Parker Brothers English/Spanish edition</boardgameversion>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamecategory objectid="1097">Travel</boardgamecategory>
+															<boardgamepublisher objectid="95">Waddington&#039;s Games, Inc.</boardgamepublisher>
+															<boardgameversion objectid="291521">Waddingtons English edition</boardgameversion>
+															<boardgameimplementation objectid="1294" inbound="true">Clue</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>111</usersrated>
+					<average>5.30499</average>
+					<bayesaverage>5.48211</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13749" bayesaverage="5.48211" />
+												
+											</ranks>
+					
+					<stddev>1.37318</stddev>
+					<median>0</median>
+					<owned>438</owned>
+					<trading>19</trading>
+					<wanting>0</wanting>
+					<wishing>10</wishing>
+					<numcomments>38</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="10104">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Make 5</name>
+							<name primary="true" sortindex="1">Take 5</name>
+									
+			<description>The object of the game is to be the first player to place five pegs in a row in any direction. It is essentially Go-Moku played on a 10x10 board with a limited amount of stones (24 pegs per player).&lt;br/&gt;&lt;br/&gt;Similar to:&lt;br/&gt;&lt;br/&gt;    5 in a Row&lt;br/&gt;    Pegity&lt;br/&gt;    5ive Straight&lt;br/&gt;    Go-Moku&lt;br/&gt;    Renju&lt;br/&gt;    Pente&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-rvUA0Jx_nPmyU95zJAssJ37qj0=/fit-in/200x150/pic1515999.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YQD_M2n_aufbPuUaeKSIp4EcgEw=/0x0/pic1515999.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="103057">First edition</boardgameversion>
+															<boardgamepublisher objectid="354">Gabriel</boardgamepublisher>
+															<boardgamefamily objectid="10791">Hi-Q</boardgamefamily>
+															<boardgamepublisher objectid="153">Ideal</boardgamepublisher>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>51</usersrated>
+					<average>5.43333</average>
+					<bayesaverage>5.49342</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13105" bayesaverage="5.49342" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="828" bayesaverage="5.3721" />
+												
+											</ranks>
+					
+					<stddev>1.69459</stddev>
+					<median>0</median>
+					<owned>105</owned>
+					<trading>4</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>18</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

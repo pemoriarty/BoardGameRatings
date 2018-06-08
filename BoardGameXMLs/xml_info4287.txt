@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4287">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Onslaught</name>
+							<name  sortindex="1">Onslaught: D-Day to the Rhine</name>
+									
+			<description>Wargame based around the WW2 Western Allied campaign from just after the Normandy invasion to the crossing of the Rhine.&lt;br/&gt;&lt;br/&gt;First significant mechanic is the unpredictable turn order - players dice for each turn, with the highest taking the turn. However, ties end that month's play (players draw fresh supply points each month, and the game ends after 20 months).&lt;br/&gt;&lt;br/&gt;Second significant mechanic is the use of (limited) supply points to activate stacks of units when it's your turn. Like games such as We the People/Hannibal: Rome vs. Carthage/Rommel in the Desert/Napoleon, you don't have the resources to activate all of your units each turn, you need to decide what the current priority is in line with the current situation. Activation generally allows you to either move stacks or attack with stacks, but with an increased expenditure of supply points, you can take more powerful 'breakthrough' turns involving both movement and attack.&lt;br/&gt;&lt;br/&gt;These mechanics (unpredictable turn order, limited ability to activate units each turn) create a game of fluid tactical situations, where your planning has to be flexible - you never know who will get the next turn.&lt;br/&gt;&lt;br/&gt;The Allied player has to break out of the beach head and capture additional supply ports (which raise the number of supply points available to the Allies, and hence the number of activations possible) en route to Germany. The German player must contain the Allies in Normandy for as long as possible before falling back to the Rhine, while also denying the valuable supply ports to the Allies as long as possible. The Allies are up against a tight timetable; the Germans must work against as increasing disadvantage in supply points.&lt;br/&gt;&lt;br/&gt;Victory is generally determined by the difference in numbers between German units West of the Rhine and Allied units East of the Rhine at game end. Allied paratroops, the German Bulge offensive, reinforcements/replacements and strategic movement add to the game. The big mounted map with large hexes and counters remove the 'fiddle factor' which can blight wargames with lower production values.&lt;br/&gt;&lt;br/&gt;Republished in Command Magazine Japan #64 in 2005.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2W04MBQ9xXWavOboe6vwSNcR3Vc=/fit-in/200x150/pic19346.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/go2vEVjkqnHjqW5XZ-DtHy2lrZs=/0x0/pic19346.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameversion objectid="75032">Command Magazine Japanese edition</boardgameversion>
+															<boardgameversion objectid="110047">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="3133">Kokusai-Tsushin Co., Ltd. (国際通信社)</boardgamepublisher>
+															<boardgamedesigner objectid="342">Douglas Niles</boardgamedesigner>
+															<boardgamepublisher objectid="6670">Protocol Productions</boardgamepublisher>
+															<boardgamepublisher objectid="16">TSR</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgameartist objectid="23910">Sawshun Yamaguchi</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>185</usersrated>
+					<average>6.47054</average>
+					<bayesaverage>5.62764</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5267" bayesaverage="5.62764" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1066" bayesaverage="6.00295" />
+												
+											</ranks>
+					
+					<stddev>1.51677</stddev>
+					<median>0</median>
+					<owned>444</owned>
+					<trading>42</trading>
+					<wanting>8</wanting>
+					<wishing>19</wishing>
+					<numcomments>86</numcomments>
+					<numweights>36</numweights>
+					<averageweight>2.5278</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

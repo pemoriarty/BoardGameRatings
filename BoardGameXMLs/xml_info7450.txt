@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7450">
+			<yearpublished>1976</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">Crosscram</name>
+							<name  sortindex="1">Domineering</name>
+							<name primary="true" sortindex="1">Stop-Gate</name>
+									
+			<description>Stop-Gate is a two-player game of perfect information. It can be played on a board or as a paper and pencil game.  As a board game, the game uses a checkerboard and a set of dominoes.  As pencil and paper game, players can take turns coloring in squares on a grid (there is no capturing or movement, so there is no need to erase anything during the game).&lt;br/&gt;&lt;br/&gt;Stop-Gate is taken from the book On Numbers and Games by John Conway (Academic Press, 1976) and is attributed to Goran Andersson on page 74. In the book Conway doesn't really give the game any name.&lt;br/&gt;&lt;br/&gt;It appears in Berlekamp, Conway, and Guy's Winning Ways for Your Mathematical Plays, where it is called Domineering, or Crosscram. There it says that &amp;quot;[t]his game has been considered by Goran Andersson&amp;quot;, so it is not clear if the designer credit given here is accurate.&lt;br/&gt;&lt;br/&gt;Stop-Gate is played with the standard winning condition for combinatorial games, which is that the player who makes the last legal move wins. A legal move consists of placing a domino on two unoccupied spaces on the board (or coloring in two adjacent squares). One player can only place dominoes horizontally, and the other can only place vertically. Typically, the game decomposes into smaller open regions, which may be of benefit to one player or the other.&lt;br/&gt;&lt;br/&gt;An impartial variant exists where neither player has a restriction on the orientation of their dominoes. This is also called Cram.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SpRBIe85hPw1C_U-uDzMuxSFcz4=/fit-in/200x150/pic82372.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ATxyAcF7PI4i9bSxfah5a1riZ7c=/0x0/pic82372.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamepublisher objectid="3258">A. K. Peters, Ltd.</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="2590">John Conway</boardgamedesigner>
+															<boardgameversion objectid="239742">First edition</boardgameversion>
+															<boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																						<boardgamecompilation objectid="18096">Winning Ways for Your Mathematical Plays</boardgamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>6.52778</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.02856</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>10</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

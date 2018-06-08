@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2002">
+			<yearpublished>1994</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">Goblin&#039;s Gold</name>
+							<name  sortindex="1">Mag&#039;nus et la pièce d&#039;or</name>
+							<name primary="true" sortindex="1">Magical Maze</name>
+							<name  sortindex="1">Troldmandens Labyrint</name>
+									
+			<description>With the aid of the Wizard, you'll try to get the gold (a magnet underneath the labyrinth), to your own corner of the game board. You'll need to remember the way, except there are goblins trying to stop you.&lt;br/&gt;&lt;br/&gt;When the Wizard lowers his arm, you move back a square and the next player then tries to make it towards his corner instead.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SkepF0ePSzl2WTKBat1O0bTLfMI=/fit-in/200x150/pic41906.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Wk0_ZwB7zmFFJ9Ske9UzeWYj1hE=/0x0/pic41906.jpg</image>
+						
+												<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgameversion objectid="92795">Danish edition</boardgameversion>
+															<boardgameversion objectid="92794">Dutch edition</boardgameversion>
+																						<boardgameversion objectid="92793">English edition</boardgameversion>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="161161">French edition</boardgameversion>
+																						<boardgameversion objectid="393888">German edition</boardgameversion>
+																													<boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+															<boardgamedesigner objectid="1322">Gilbert Lévy</boardgamedesigner>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgameversion objectid="135757">Multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="2168">Nathan</boardgamepublisher>
+															<boardgamepublisher objectid="254">University Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>97</usersrated>
+					<average>5.11546</average>
+					<bayesaverage>5.46855</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14296" bayesaverage="5.46855" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="431" bayesaverage="5.38454" />
+												
+											</ranks>
+					
+					<stddev>1.56721</stddev>
+					<median>0</median>
+					<owned>208</owned>
+					<trading>14</trading>
+					<wanting>2</wanting>
+					<wishing>5</wishing>
+					<numcomments>51</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

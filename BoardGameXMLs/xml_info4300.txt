@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4300">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="5">The Barbarians</name>
+							<name primary="true" sortindex="5">The Barbarians</name>
+									
+			<description>This game includes two games.&lt;br/&gt;&lt;br/&gt;In &amp;quot;Sack Rome&amp;quot; two or three players takes turns seeing how long it takes to capture Rome.&lt;br/&gt;&lt;br/&gt;In &amp;quot;Mongol&amp;quot; two play and the Mongol attempts to occupy the civilized world in a set time.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ptgVqI7w-UrNQHurK4I7VzaTid4=/fit-in/200x150/pic3636526.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZwPxddE4ujVwU3sv2926qp3vY68=/0x0/pic3636526.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="24044">First edition</boardgameversion>
+																						<boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameartist objectid="1158">Chris White (I)</boardgameartist>
+															<boardgamepublisher objectid="154">Yaquinto</boardgamepublisher>
+															<boardgamedesigner objectid="661">Neil Zimmerer</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>75</usersrated>
+					<average>6.02</average>
+					<bayesaverage>5.52441</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10463" bayesaverage="5.52441" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2199" bayesaverage="5.63376" />
+												
+											</ranks>
+					
+					<stddev>1.52665</stddev>
+					<median>0</median>
+					<owned>188</owned>
+					<trading>11</trading>
+					<wanting>5</wanting>
+					<wishing>13</wishing>
+					<numcomments>43</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

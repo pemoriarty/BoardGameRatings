@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="5380">
+			<yearpublished>1985</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Esprit</name>
+							<name primary="true" sortindex="1">Lancelot</name>
+									
+			<description>In this abstract strategy game, players take turns placing a single piece of their own color on the board. When you have N+2 pieces than the number of pieces of other players in that row or column, you take them as prisoners.&lt;br/&gt;&lt;br/&gt;This systems is some what similar of the more recent Kahuna, as &amp;quot;chain reactions&amp;quot; are quite the same. The game is totally abstract, but it works fine with any number of players (2-5). A crazier advanced mode allows players to consider even diagonals!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/drN4820h0IR5h7ZCKmN3ICOLpzg=/fit-in/200x150/pic19010.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/l2o02eNq_W7r7U-8t05s_NpXoYY=/0x0/pic19010.jpg</image>
+						
+												<boardgamehonor objectid="8689">1990 Spiel des Jahres Recommended</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																																																									<boardgamepublisher objectid="62">Hexagames (I)</boardgamepublisher>
+															<boardgameversion objectid="137992">Hexagames German first edition</boardgameversion>
+															<boardgamefamily objectid="22839">The Legend of King Arthur and the Knights of the Round Table</boardgamefamily>
+															<boardgamepublisher objectid="93">Mattel</boardgamepublisher>
+															<boardgameversion objectid="39162">Mattel German second edition</boardgameversion>
+															<boardgameversion objectid="109084">Mattel Italian edition</boardgameversion>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamedesigner objectid="365">Roland Siegers</boardgamedesigner>
+															<boardgameartist objectid="27422">Studio Tapiro</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>58</usersrated>
+					<average>6.0069</average>
+					<bayesaverage>5.52244</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10646" bayesaverage="5.52244" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="585" bayesaverage="5.59993" />
+												
+											</ranks>
+					
+					<stddev>1.61276</stddev>
+					<median>0</median>
+					<owned>187</owned>
+					<trading>16</trading>
+					<wanting>2</wanting>
+					<wishing>12</wishing>
+					<numcomments>21</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

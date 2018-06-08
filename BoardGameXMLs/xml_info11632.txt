@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11632">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Good Neighbours</name>
+							<name primary="true" sortindex="1">Gute Nachbarn</name>
+							<name  sortindex="1">Nachbarn</name>
+							<name  sortindex="1">Veleno</name>
+									
+			<description>This abstract game consists of:&lt;br/&gt;-    One board with 37 &amp;ldquo;holes&amp;rdquo; in an hexagonal pattern&lt;br/&gt;-    37 pieces (similar to Go-stones) in following color distribution: 1 silver; 4 white; 8 red; 8 blue; 8 yellow; 8 green.&lt;br/&gt;&lt;br/&gt;The stones are randomly distributed in the holes of the board. Then players take their turns moving the silver stone in an adjacent not-empty hole and capturing the stones which is contained in that hole. White stones are worth 10 points each. Red, blue, yellow and green stones are worth the square of their number (e.g.: if you capture 3 red stones, you get 9 points; if you capture 5 green stones, you get 25 points, and so on&amp;hellip;).&lt;br/&gt;Play continues until the silver stone is isolated (e.g.: it is surrounded only by empty holes).&lt;br/&gt;&lt;br/&gt;In a game with 3 or more players, the final score of every player is given by the sum of the stones he/she captured, PLUS the sum of the stones captured by the following player. Hence the name Gute Nachbarn, which means &amp;ldquo;Good Neighbor&amp;rdquo;.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/swVJX1-hFwJFPQyMjRxYCjwt_A8=/fit-in/200x150/pic171584.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/v2DlafkLy3yFXjReESfu3czmKis=/0x0/pic171584.jpg</image>
+						
+												<boardgamepublisher objectid="1017">ABRA</boardgamepublisher>
+															<boardgameversion objectid="167054">Abra First Edition</boardgameversion>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="485">Dal Negro</boardgamepublisher>
+															<boardgameversion objectid="39860">Dal Negro First Edition</boardgameversion>
+																																																		<boardgamedesigner objectid="24">Alex Randolph</boardgamedesigner>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="2972">Das Spiel</boardgamepublisher>
+															<boardgameversion objectid="134523">Das Spiel wooden board edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>71</usersrated>
+					<average>6.50141</average>
+					<bayesaverage>5.56198</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7657" bayesaverage="5.56198" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="345" bayesaverage="5.82119" />
+												
+											</ranks>
+					
+					<stddev>1.14738</stddev>
+					<median>0</median>
+					<owned>124</owned>
+					<trading>5</trading>
+					<wanting>20</wanting>
+					<wishing>36</wishing>
+					<numcomments>36</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.1667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

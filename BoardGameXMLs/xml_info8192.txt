@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="8192">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Railroad Dice</name>
+							<name  sortindex="1">Railroad Dice: Die ersten Schienen</name>
+									
+			<description>Railroad Dice: The First Rails is the first game in a new series of railway games using dice as their main component.&lt;br/&gt;&lt;br/&gt;Each player is an investor who wants to take control of one or more of the 5 Railroad companies with the aim of constructing as many adjacent Railway Stations as possible in order to attract the most Passengers.&lt;br/&gt;&lt;br/&gt;The game is played simultaneously on two large tiles upon which the tracks and stations are built. In a fairly unique methodology, finished tiles are replaced by miniature tiles as the tracks grow.&lt;br/&gt;&lt;br/&gt;(Initially released in a cube box at Essen 2003 with a publication run of 300 copies)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZK1P0ihf-gHFWKmbZSe4uW9Itt0=/fit-in/200x150/pic220462.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MllJofyiEb0_fMsrtBqwL9JCo6k=/0x0/pic220462.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameartist objectid="28148">Oliver Fermer</boardgameartist>
+																																																																<boardgamedesigner objectid="2811">Jens Kappe</boardgamedesigner>
+																						<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamefamily objectid="8971">Railroad Dice</boardgamefamily>
+																						<boardgameimplementation objectid="20074">Railroad Dice 2</boardgameimplementation>
+															<boardgameaccessory objectid="139605">Railroad Dice Supplement</boardgameaccessory>
+															<boardgameexpansion objectid="13591">Railroad Dice: Crossing</boardgameexpansion>
+															<boardgameexpansion objectid="13463">Railroad Dice: Germany</boardgameexpansion>
+																						<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgameversion objectid="26323">Second edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameversion objectid="72062">Wassertal first edition in box cube</boardgameversion>
+															<boardgamepublisher objectid="1896">Wassertal Spieleverlag</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>500</usersrated>
+					<average>6.19402</average>
+					<bayesaverage>5.71957</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3817" bayesaverage="5.71957" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1315" bayesaverage="5.78452" />
+												
+											</ranks>
+					
+					<stddev>1.49038</stddev>
+					<median>0</median>
+					<owned>737</owned>
+					<trading>40</trading>
+					<wanting>41</wanting>
+					<wishing>73</wishing>
+					<numcomments>214</numcomments>
+					<numweights>41</numweights>
+					<averageweight>2.7073</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

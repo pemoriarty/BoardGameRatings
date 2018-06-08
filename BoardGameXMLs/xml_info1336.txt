@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="1336">
+			<yearpublished>2001</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Eden</name>
+									
+			<description>'Eden is the dream of making arid land fertile. At the outset, the board is a desert. Players play irrigation cards that allow them to place plant tiles in the desert, thus bringing life and fertility to it. As the desert grows, cultivation cards may develop the plant tiles further, making them more valuable and bringing players much manna. The player who first gets tiles valued at 20 &amp;quot;fertility points&amp;quot; on the board wins. But watch out! As the desert blooms competition for the land increases, and other players will try to take your most fertile land away.&lt;br/&gt;&lt;br/&gt;The game play in Eden is simple. Either play one or two irrigation cards to develop areas of desert (i.e. place tiles on the board), or play a cultivation card to increase the value of areas already on the board (i.e. replace existing tiles with more valuable ones, at a cost), or pass. Conflict enters the game when a player places a new tile on the board next to an opponent's existing tile. Then a challenge may be made by the player placing the tile. Manna, the currency in the game, is used in the challenge, which takes the form of a bidding war. Bids, which must be divisible by 5, are always increased. But what the winning bidder actually must pay is the bid MULTIPLIED by the value of the tiles that would be gained. In the case of the challenger, the winning bid would be the bid itself times the value of the tiles sought. In the case of the defender, the winning bid would be the bid itself times the value of the tiles the defender is using in what in effect is an attack. Bids keep rising until one player is unwilling, or unable, to meet the final cost of a bid. The loser forfeits all the tiles involved in the conflict, but gains the value of that land (according to the bid) in manna from the other player.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/efYu0XDylFli_MbIv8REzs9Jcpw=/fit-in/200x150/pic293846.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/s_qNVTsJjvI26SywtJw2-N0Tekc=/0x0/pic293846.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+															<boardgameversion objectid="31366">First edition</boardgameversion>
+																																																																																																			<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+																						<boardgamefamily objectid="11110">Spiele für viele</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameartist objectid="12380">Bernd Wagenfeld</boardgameartist>
+															<boardgamedesigner objectid="493">Gal Zuckerman</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>177</usersrated>
+					<average>5.6113</average>
+					<bayesaverage>5.51339</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11469" bayesaverage="5.51339" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1718" bayesaverage="5.51554" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1480" bayesaverage="5.517" />
+												
+											</ranks>
+					
+					<stddev>1.25062</stddev>
+					<median>0</median>
+					<owned>412</owned>
+					<trading>42</trading>
+					<wanting>3</wanting>
+					<wishing>9</wishing>
+					<numcomments>57</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

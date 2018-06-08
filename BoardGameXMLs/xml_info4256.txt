@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="4256">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Mäuse-Rallye</name>
+							<name  sortindex="1">Mice Rally</name>
+							<name  sortindex="4">Le Rallye des Souris</name>
+									
+			<description>A game of flicking mice around a race track, while avoiding falling in the holes.  Once a player falls in a hole though, they temporarily become the cat, who will interfere with the remaining players until the round ends.  The winner is the mouse which collects the most cheese (earned by completing a circuit of the racetrack).&lt;br/&gt;&lt;br/&gt;Ages 5 and up&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZoD-M-R9CWUPJjx5U0SULuZyEU8=/fit-in/200x150/pic71214.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HQiTeln5l4ILaKG3xRSjCkDWeqA=/0x0/pic71214.jpg</image>
+						
+												<boardgamefamily objectid="7269">Animals: Mice</boardgamefamily>
+															<boardgamedesigner objectid="491">Gunter Baars</boardgamedesigner>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+																						<boardgamefamily objectid="5552">Finger Flicking Games</boardgamefamily>
+															<boardgameversion objectid="29465">First edition</boardgameversion>
+																																				<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+															<boardgameartist objectid="27429">Haralds Klavinius</boardgameartist>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>58</usersrated>
+					<average>6.67241</average>
+					<bayesaverage>5.55172</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8266" bayesaverage="5.55172" />
+												
+											</ranks>
+					
+					<stddev>1.32467</stddev>
+					<median>0</median>
+					<owned>68</owned>
+					<trading>0</trading>
+					<wanting>33</wanting>
+					<wishing>69</wishing>
+					<numcomments>36</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,137 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="283">
+			<yearpublished>1992</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>2480</playingtime>
+			<minplaytime>2480</minplaytime>
+			<maxplaytime>2480</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Advanced Third Reich</name>
+									
+			<description>Advanced Third Reich is a board wargame published originally by The Avalon Hill Game Co. The game is a rewrite of Rise and Decline of the Third Reich,  and is a simulation of the European and African theaters of World War II. In 2003 GMT Games published A World at War, a substantially revamped and streamlined version of Advanced Third Reich, designed by Bruce Harper.  Designed to reflect the corps scale, a turn represents three months of movement and fighting.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ldjrajfIcgxM4NMr_EJDDVZACpA=/fit-in/200x150/pic194375.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/crs5a9GQm9KyHE09O5TKltBoSds=/0x0/pic194375.jpg</image>
+						
+												<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="24250">First edition</boardgameversion>
+															<boardgamedesigner objectid="361">Bruce Harper</boardgamedesigner>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="2652">Charles Kibler</boardgameartist>
+																													<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameimplementation objectid="7614">A World at War</boardgameimplementation>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgameimplementation objectid="1563" inbound="true">Rise and Decline of the Third Reich</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="23">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="5" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>663</usersrated>
+					<average>6.76422</average>
+					<bayesaverage>5.93031</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2375" bayesaverage="5.93031" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="448" bayesaverage="6.46897" />
+												
+											</ranks>
+					
+					<stddev>1.74191</stddev>
+					<median>0</median>
+					<owned>1417</owned>
+					<trading>94</trading>
+					<wanting>30</wanting>
+					<wishing>68</wishing>
+					<numcomments>328</numcomments>
+					<numweights>114</numweights>
+					<averageweight>4.5263</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

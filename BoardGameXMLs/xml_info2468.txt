@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2468">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Zero Zap</name>
+									
+			<description>The object of this game is to score Sets and Runs of cards and trying to go out first. First to score 50 wins.&lt;br/&gt;&lt;br/&gt;Each player is dealt 7 of the 108 cards. On your turn, you either draw 1 or 2 cards, or pick up one or more cards from the playing area (more on this later). Then you play your sets (3 or 4 cards of same color and value) and runs (3 to 7 consecutive cards of the same color) or increase already played sets and runs. Finally, you must discard a card; special cards are truly discarded once their effects are resolved; the other cards are discarded to the playing area, slightly overlapping each other in sequence. When you pick up a card from the playing area, it must be used to play a run or set and you must pick up any cards that follow it (were discarded after it).&lt;br/&gt;&lt;br/&gt;Going out scores a 5-point bonus and ends the round. All played sets and runs score (sets are worth 2 per card; runs are worth 1 per card); cards left in hand penalize you 1 point per card.&lt;br/&gt;&lt;br/&gt;The number cards (84) come in 3 colors and run from 1 to 7 (there are four of each). Wild cards (6) can replace any number card but cannot be played to form their own sets or runs. Double cards (3) are used to double the value of all of your sets and runs of a given color. The Special cards (14) do various things such as reshuffling the draw and discard decks, stealing a set, run or double, giving a card away, etc. The Zero Zap card (1), if left in your hand when someone goes out, zaps your score for that round to zero (Yikes!). However, if played as a Special to go out, it zaps someone else's (of your choosing) round score!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GJ-cKiyZXK9uCJqH5SGYRmZODQQ=/fit-in/200x150/pic6148.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UEZWDaVD-_jhvJkI3nLCaKmUnLw=/0x0/pic6148.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="81297">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+															<boardgamefamily objectid="12843">Milton Bradley Big Deal</boardgamefamily>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>15</usersrated>
+					<average>5.43333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.946338</stddev>
+					<median>0</median>
+					<owned>36</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

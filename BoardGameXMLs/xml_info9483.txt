@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="9483">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Syon</name>
+									
+			<description>The object of this abstract strategy game is to bring together 4 sun pieces (2 each of 2 different colors) into a connected chain.  Each player has a hidden goal card with his 2 colors.  This means that many times two players have a color in common, making it a challenge to help yourself without helping your opponent even more.&lt;br/&gt;&lt;br/&gt;The game is played on a 6x6 grid of points.  24 planets are placed at random on these points at the beginning of the game.  8 sun pieces are placed in the square spaces formed by the grid points.&lt;br/&gt;&lt;br/&gt;On your turn, you can move any one planet to any empty point on the grid, or, if a sun is surrounded by 4 planets, you can move that sun to an adjacent space.  The only restrictions are that you cannot undo the last player's move or move a planet away from a completely surrounded sun.&lt;br/&gt;&lt;br/&gt;You win immediately if your 4 suns are connected in a chain of any shape.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="2141">Arbeitsstelle für neues Spielen</boardgamepublisher>
+															<boardgamedesigner objectid="816">Hajo Bücken</boardgamedesigner>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>3.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

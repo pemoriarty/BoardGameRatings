@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7534">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Cabal</name>
+									
+			<description>Cabal is a two player asymmetric game.  One player is the Escaper and the other is the Trapper.  There is a main board which consists of a 9x9 grid of holes, and then each player has a board shaped to fit in the hand that represents the 8 spaces around the position of the Escaper's pawn on the main board.  The Escaper simply plots where they want to move.  The trapper has 3 colored pegs to put into his personal board.  If the Escaper moves to the position of the green peg, the move occurs but the green peg is placed on the board (anywhere except next to the Escaper); to the yellow peg, there is no move and the yellow peg is put down where it was pegged; and to the red peg. the move is blocked and the red and yellow peg are put on the board where they were pegged.&lt;br/&gt;&lt;br/&gt;The game has 3 molded plastic boards and about 60 pegs in 4 colors. 3 sets of rules with slightly different forms of play are included.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2FQoSmWw49tOndjJD9WdKgbYjtY=/fit-in/200x150/pic80615.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vgqgnAA9LA2FVhjAH9B0R3OD1tw=/0x0/pic80615.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamedesigner objectid="43863">Greg Duncan</boardgamedesigner>
+															<boardgameversion objectid="71151">First edition</boardgameversion>
+															<boardgamepublisher objectid="1743">Rimberry Limited, U.K.</boardgamepublisher>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>4.83333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.34371</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

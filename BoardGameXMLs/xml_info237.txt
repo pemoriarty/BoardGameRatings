@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="237">
+			<yearpublished>1974</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Wooden Ships &amp; Iron Men</name>
+									
+			<description>Fighting ships in the age of sail!  This classic title details military engagements in the golden age of sail with a plethora of historical scenarios.  Players take their groups of ships and form their ship lines and then go at it.  The game comes with a large generic ocean map overlaid with a hex grid.  The ship counters occupy two hexes and include special rules for moving and firing with this design.  Players can begin with the smaller scenarios and work up to whole fleets engaged in pitched battle.&lt;br/&gt;&lt;br/&gt;Avalon Hill Complexity Rating - 6&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xDg0WbFsFvxnZGxBcYRi_ssnG7s=/fit-in/200x150/pic3341.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NG-CrUq03rvjErTAc3FjFgEaKqI=/0x0/pic3341.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamefamily objectid="9793">Age of Kings</boardgamefamily>
+															<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+															<boardgamecategory objectid="1108">American Indian Wars</boardgamecategory>
+															<boardgamecategory objectid="1075">American Revolutionary War</boardgamecategory>
+																						<boardgameversion objectid="31451">Avalon Hill first edition</boardgameversion>
+															<boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+															<boardgameversion objectid="133881">Avalon Hill second edition</boardgameversion>
+															<boardgamepublisher objectid="1634">Battleline</boardgamepublisher>
+															<boardgameversion objectid="50031">Battleline edition</boardgameversion>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="42845">Edward Moran</boardgameartist>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamecategory objectid="1090">Pirates</boardgamecategory>
+																						<boardgamecategory objectid="2710">Post-Napoleonic</boardgamecategory>
+															<boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<videogamebg objectid="77937">Wooden Ships &amp; Iron Men</videogamebg>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="30">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="10" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1773</usersrated>
+					<average>7.01508</average>
+					<bayesaverage>6.39083</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1062" bayesaverage="6.39083" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="203" bayesaverage="6.85418" />
+												
+											</ranks>
+					
+					<stddev>1.33613</stddev>
+					<median>0</median>
+					<owned>3513</owned>
+					<trading>172</trading>
+					<wanting>70</wanting>
+					<wishing>286</wishing>
+					<numcomments>677</numcomments>
+					<numweights>234</numweights>
+					<averageweight>3.1282</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

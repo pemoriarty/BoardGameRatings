@@ -1,0 +1,138 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="23010">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Risk: 40th Anniversary Collector&#039;s Edition</name>
+									
+			<description>This 40th anniversary collector's edition was published in 1999 to mark the fortieth anniversary of the original game of Risk. Parker Bros describe it as a &amp;quot;deluxe&amp;quot; anniversary edition. It includes a redrawn world map and each gameboard carries a unique number denoting the &amp;quot;limited edition&amp;quot; status of each set. The &amp;quot;battle dice&amp;quot; are a special edition and the armies are die cast miniatures, each army being provided with a drawstring pouch for storage. Each set carries a special certificate of authenticity and there is little doubt that many sets have been purchased as collectors' items rather than for ordinary play.&lt;br/&gt;&lt;br/&gt;Re-Implements:&lt;br/&gt;&lt;br/&gt;    Risk&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7qVb4FMIirdKPIYaLXdf_sDOnGs=/fit-in/200x150/pic512832.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/loFDz2TI4BK_s6-FlpdxX2BVjac=/0x0/pic512832.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="28005">First edition</boardgameversion>
+															<boardgamedesigner objectid="116">Albert Lamorisse</boardgamedesigner>
+															<boardgamedesigner objectid="1047">Michael I. Levin</boardgamedesigner>
+															<boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+															<boardgameversion objectid="173368">Parker Brothers Canadian Edition</boardgameversion>
+															<boardgamefamily objectid="4218">Risk</boardgamefamily>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>586</usersrated>
+					<average>6.33598</average>
+					<bayesaverage>5.74472</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3573" bayesaverage="5.74472" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1732" bayesaverage="5.77756" />
+												
+											</ranks>
+					
+					<stddev>1.56369</stddev>
+					<median>0</median>
+					<owned>1267</owned>
+					<trading>55</trading>
+					<wanting>21</wanting>
+					<wishing>56</wishing>
+					<numcomments>183</numcomments>
+					<numweights>49</numweights>
+					<averageweight>2.2653</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,101 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="11648">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Pomiędzy Niebem a Ziemią</name>
+							<name primary="true" sortindex="1">Warmaster</name>
+									
+			<description>Originally published by Games Workshop in White Dwarf 161 and now available to download on GW's Spanish site, Warmaster (no relation to the 2000 miniatures game) is a two-player board game that recreates the Emperor's attack on Horus's battle barge at the end of the Battle for Earth.&lt;br/&gt;&lt;br/&gt;At the start of the game the Imperial player has no idea where Warmaster Horus is located and must search the ship to find him as quickly as possible.  Hidden perils confront the Imperial player, who will face traps and ambushes, as they search for the Warmaster.  As the game progresses, the Emperor's dwindling forces will face greater numbers of Traitors as they, the traitors, receive reinforcements.  The Emperor is in a race against time to defeat Horus or die trying.&lt;br/&gt;&lt;br/&gt;The Traitor player wins by killing the Emperor and the Imperial player wins by killing Horus, if both are killed at the same time, the game is a draw.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SMsRVzqjZBm4acN2y3TMYPIM4uU=/fit-in/200x150/pic542276.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/glaunlVQN6lXoB0UsCQNRNagbmM=/0x0/pic542276.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="111033">Games Workshop Edition</boardgameversion>
+															<boardgamepublisher objectid="26">Games Workshop Ltd.</boardgamepublisher>
+																						<boardgamedesigner objectid="712">Jervis Johnson</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="111034">Polish edition</boardgameversion>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamefamily objectid="4329">Warhammer 40,000 Board Games</boardgamefamily>
+															<boardgamepublisher objectid="7776">Wydawnictwo MAG</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>53</usersrated>
+					<average>6.54151</average>
+					<bayesaverage>5.55035</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8355" bayesaverage="5.55035" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1862" bayesaverage="5.73837" />
+												
+											</ranks>
+					
+					<stddev>1.74177</stddev>
+					<median>0</median>
+					<owned>100</owned>
+					<trading>5</trading>
+					<wanting>5</wanting>
+					<wishing>18</wishing>
+					<numcomments>27</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.1429</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

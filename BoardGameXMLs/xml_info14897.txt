@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="14897">
+			<yearpublished>2004</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Space Blast</name>
+									
+			<description>Space Blast is a fast paced gamed based on the selection of 0 to 3 actions simultaneously by all players.&lt;br/&gt;&lt;br/&gt;The board represents deep space with hexagons where up to 6 ships will be firing missiles or laying mines.&lt;br/&gt;&lt;br/&gt;Every player gets, at the beginning of the game, a fixed amount of limited resources:&lt;br/&gt;10 turns (left or right)&lt;br/&gt;8 missiles&lt;br/&gt;3 mines&lt;br/&gt;2 brakes&lt;br/&gt;4 ships (those tiles are stacked to represent the shield points of a ship)&lt;br/&gt;All of those resources are hidden behind a small screen.&lt;br/&gt;&lt;br/&gt;The goal of the game is simple : There can be only one left so you will have to eliminate all other ships with your missiles and mines.&lt;br/&gt;&lt;br/&gt;Possible actions:&lt;br/&gt;- turn right or left &lt;br/&gt;- brake (prevent the ship to move) &lt;br/&gt;- fire a missile &lt;br/&gt;- drop a mine &lt;br/&gt; Everybody then shows his selection of actions to be resolved in a specific order:&lt;br/&gt;&lt;br/&gt;1. Turns (the ship turn of 1/6 of hexagon).&lt;br/&gt;2. Every ship advances one hex (except if he chooses to brake).&lt;br/&gt;3. All previously fired missiles advance 3 hexes.&lt;br/&gt;4. Mine Layout. &lt;br/&gt;5. New missiles are fired and advance 3 hexes.&lt;br/&gt;&lt;br/&gt;All used action counters are then discarded and cannot be used again in the game.&lt;br/&gt;The &amp;quot;shield&amp;quot; points are won by the players via a missile hit or the explosion of player's mines. Some can be lost also in the case of collisions.&lt;br/&gt;If a player's ship goes off the board because he has no turn or brake left, he's eliminated but still can get points if the mines he had laid out explode.&lt;br/&gt;&lt;br/&gt;The winner is the one who has the most points when only one ship is left on the board.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1K1WjvpExSeXxaCWC3heQuphB3c=/fit-in/200x150/pic64955.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ig0EEtSUxHPLimV5KMB5Tn0cEuU=/0x0/pic64955.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="49">Philippe Keyaerts</boardgamedesigner>
+															<boardgamepublisher objectid="3373">NekoCorp</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>51</usersrated>
+					<average>5.58431</average>
+					<bayesaverage>5.50382</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12309" bayesaverage="5.50382" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2632" bayesaverage="5.46407" />
+												
+											</ranks>
+					
+					<stddev>1.56736</stddev>
+					<median>0</median>
+					<owned>85</owned>
+					<trading>9</trading>
+					<wanting>1</wanting>
+					<wishing>14</wishing>
+					<numcomments>18</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.6</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="2054">
+			<yearpublished>1978</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Interaction</name>
+									
+			<description>&amp;quot;The devious strategy game where each move generates a chain reaction.&amp;quot;&lt;br/&gt;&lt;br/&gt;The board is 9x9 with the corners clipped; the middle row is made out of deeper &amp;quot;pockets&amp;quot;.  Each player controls two cue balls; in addition, there are 10 neutral balls, moved by the cue balls.  The object is to maneuver five neutral balls into the pockets (once there, they are removed for score).&lt;br/&gt;&lt;br/&gt;On your turn, you pick a cue ball and launch it in one of eight possible directions.  Your cue ball may travel any distance in a straight line before hitting a neutral (or another cue ball); at that moment, its momentum is transferred and the ball hit moves the same distance.  Should you hit a row of balls, only the farthest one moves (as in a Newton's Cradle).  All balls bounce off the play area's walls, either straight back when hitting head on, or reflected when hitting at 45 degrees.  Note that a move that doesn't hit any balls is illegal.&lt;br/&gt;&lt;br/&gt;Includes solitaire problems where the object is to find the least number of moves required.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jSAyawSp9vOhlfuBviwyJei67Ls=/fit-in/200x150/pic949085.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RZ4D_0gt95ok4ojHhIaN1E4v3W0=/0x0/pic949085.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="133114">English sleeved box edition</boardgameversion>
+															<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+															<boardgamedesigner objectid="104">Eric Solomon</boardgamedesigner>
+															<boardgameversion objectid="104074">Waddington&#039;s first edition</boardgameversion>
+															<boardgamepublisher objectid="95">Waddington&#039;s Games, Inc.</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>22</usersrated>
+					<average>5.27273</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.35451</stddev>
+					<median>0</median>
+					<owned>50</owned>
+					<trading>2</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>14</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,141 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="282">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>300</playingtime>
+			<minplaytime>300</minplaytime>
+			<maxplaytime>300</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Vikingatid</name>
+									
+			<description>Viking era is a game for two to six players. The game describes the Viking era in, for common family games, untypical detail. The players play Danish, Norwegian or Swedish Vikings. They move their fleets around the known world to trade, plunder and conquer. Furthermore, it is possible to discover hitherto unknown land areas. The game is over when all players are Christianized. The player with the most points wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/e7QRMArRcx-iGZSI6mQEdCSQxsA=/fit-in/200x150/pic20780.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JqWbiWa_r4BIb60oH1Wjg0Cxw14=/0x0/pic20780.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="209">Kim Bergström</boardgamedesigner>
+															<boardgamefamily objectid="10315">Country: Denmark</boardgamefamily>
+															<boardgamefamily objectid="10312">Country: Norway</boardgamefamily>
+															<boardgamefamily objectid="10313">Country: Sweden</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="97928">First edition</boardgameversion>
+															<boardgamedesigner objectid="18594">Fabian Fridholm</boardgamedesigner>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamedesigner objectid="208">Johan Palén</boardgamedesigner>
+																						<boardgameartist objectid="3306">Carl Johan Ström</boardgameartist>
+																						<boardgamepublisher objectid="119">Trollspel</boardgamepublisher>
+															<boardgamefamily objectid="5613">Vikings</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>66</usersrated>
+					<average>6.11667</average>
+					<bayesaverage>5.53178</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9811" bayesaverage="5.53178" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2342" bayesaverage="5.58922" />
+												
+											</ranks>
+					
+					<stddev>1.69755</stddev>
+					<median>0</median>
+					<owned>118</owned>
+					<trading>3</trading>
+					<wanting>39</wanting>
+					<wishing>58</wishing>
+					<numcomments>31</numcomments>
+					<numweights>10</numweights>
+					<averageweight>3.3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>
