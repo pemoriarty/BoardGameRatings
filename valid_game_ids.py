@@ -12,12 +12,11 @@ import xmltodict
 import random
 import numpy
 import pickle
-import time
 import matplotlib.pyplot as plt
 
 from api_request import api_request
 
-game_ids = range(1000)
+game_ids = range(100)
 cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 ids_exist = []
 categories = []
@@ -29,6 +28,13 @@ for id in game_ids:
 
     game_tmp = api_request(game_xml_string, slp = 1)
     soup_tmp = bs(game_tmp.content, 'html5lib')
+    game_xml = xmltodict.parse(game_tmp.content)
+    file_name = "/media/pamela/Stuff/BoardGameXMLs/xml_info" + str(game_ids[id])# +".p"
+    fileObject = open(file_name,'wb') 
+    pickle.dump((soup_tmp, game_xml),fileObject)   
+    fileObject.close()    
+    
+    
     ncat = len(soup_tmp.find_all('boardgamecategory'))#check if the game is categorized
            
     if ncat > 0:
@@ -56,6 +62,7 @@ pickle.dump((game_info, ids_exist, name) ,fileObject)
 fileObject.close()
 
 fileObject = open(file_name,'rb')  
-games_test, ids_test, name_test = pickle.load(fileObject)  
+games_test, ids_test, name_test = pickle.load(fileObject) 
+soup_tmp, game_xml = pickle.load(fileObject) 
 #
 

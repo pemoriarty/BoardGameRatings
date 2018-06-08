@@ -8,7 +8,7 @@ Created on Thu Jun  7 17:29:58 2018
 """
 import time
 
-def api_request(msg, slp=1):
+def request(msg, slp=1):
     '''A wrapper to make robust https requests.'''
     status_code = 500  # Want to get a status-code of 200
     while status_code != 200:
