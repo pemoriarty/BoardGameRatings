@@ -8,13 +8,9 @@ Created on Fri Jun  8 08:41:45 2018
 """
 from bs4 import BeautifulSoup as bs
 import xmltodict
-import random
-import numpy
 import pickle
-import matplotlib.pyplot as plt
 
-
-game_ids = range(75000)
+game_ids = range(75000, 137000)
 cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 cat_ids = []
 categories = []
@@ -27,7 +23,9 @@ game_names = []
 #if so, parse it
 #save parsed version
 
-for id in game_ids:#game_ids:
+loop_range = 137000-75000
+
+for id in range(loop_range):#game_ids:
     file_name = "BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"
     fileObject = open(file_name,'rb')  
     xml_content_tmp = fileObject.read ()

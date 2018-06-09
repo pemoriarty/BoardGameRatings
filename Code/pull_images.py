@@ -10,7 +10,7 @@ import urllib
 
 image_dir = "/media/pamela/Stuff/game_images/"
 n_games = len(compiled_info)
-for n in range(1066,n_games):
+for n in range(3129,n_games):
     id_tmp = compiled_info[n]['id']
     file_name_tmp = image_dir + str(id_tmp) + ".jpg"
     try:

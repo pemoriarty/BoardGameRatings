@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun  9 15:55:11 2018
+
+@author: pamela
+"""
+
+def simplify_color(color_name):
+    if 'red' in color_name or 'sienna' in color_name or 'maroon' in color_name:
+        return 'red'
+    elif 'orange' in color_name:
+        return 'orange'
+    elif 'yellow' in color_name:
+        return 'yellow'
+    elif 'green' in color_name:
+        return 'green'
+    elif 'blue' in color_name:
+        return 'blue'
+    elif 'purple' in color_name or 'violet' in color_name:
+        return 'purple'
+    elif 'brown' in color_name or 'khaki' in color_name or 'tan' in color_name or 'peru':
+        return 'brown'
+    elif 'grey' in color_name or 'olivedrab':
+        return 'grey'
+    elif 'white' in color_name:
+        return 'white'
+    elif 'black' in color_name:
+        return 'black'
+    else:
+        return 'Name not listed'
