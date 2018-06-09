@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="26854">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Tactic Blue</name>
+									
+			<description>Tactic Blue is a compilation of 6 abstract games by 3 different authors.  All of the games are played on a two-sided board, using the hex-grid or square-grid side.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Accasta&lt;br/&gt;     Abande&lt;br/&gt;     Attangle&lt;br/&gt;     Attraktion&lt;br/&gt;     Alva&lt;br/&gt;     International Checkers&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Accasta, Abande, Attangle are games designed by Dieter Stein and are part of his stacking games trilogy. Attraktion, a game by Jaroslav Cichocki, uses pull force (attraction) in movement to form a winning condition.  Alva, designed by Alvydas Jakeliunas, is like a souped-up version of checkers.  The last game included is a classic International Checkers.  Apparently the gameboard and components happened to be compatible.  Some of the games were previously published on websites.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_7bS-EQBj7dFkg-GB7k7CrlV0bo=/fit-in/200x150/pic166819.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qi0VKMG0vdB9_ZSUcsmGVmZ7pSc=/0x0/pic166819.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="81">Bambus Spieleverlag</boardgamepublisher>
+															<boardgamedesigner objectid="8029">Jaroslaw Cichocki</boardgamedesigner>
+															<boardgameartist objectid="132">Günter Cornett</boardgameartist>
+															<boardgameversion objectid="323483">First edition</boardgameversion>
+																													<boardgamedesigner objectid="2815">Alvydas Jakeliunas</boardgamedesigner>
+																																				<boardgamedesigner objectid="3063">Dieter Stein</boardgamedesigner>
+															<boardgameartist objectid="3063">Dieter Stein</boardgameartist>
+															<boardgamecompilation objectid="21324" inbound="true">Abande</boardgamecompilation>
+															<boardgamecompilation objectid="9060" inbound="true">Accasta</boardgamecompilation>
+															<boardgamecompilation objectid="24785" inbound="true">Alva</boardgamecompilation>
+															<boardgamecompilation objectid="24525" inbound="true">Attangle</boardgamecompilation>
+															<boardgamecompilation objectid="27723" inbound="true">Attract</boardgamecompilation>
+															<boardgamecompilation objectid="26952" inbound="true">International Checkers</boardgamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>15</usersrated>
+					<average>6.93333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.48174</stddev>
+					<median>0</median>
+					<owned>46</owned>
+					<trading>2</trading>
+					<wanting>4</wanting>
+					<wishing>15</wishing>
+					<numcomments>12</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="63788">
+			<yearpublished>0</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Admirális</name>
+							<name primary="true" sortindex="1">Freecell</name>
+									
+			<description>Freecell is a soiltaire card game, using a standard deck of cards. It is widely known because its software version is usually included with Windows.&lt;br/&gt;&lt;br/&gt;Cards are dealt into eight cascades, where every card is visible. There are four foundations and four free cells. The free calls can contain only one card at a time. The top cards of the cascades and the cards in the free calls can be moved. In the cascades you can build down in alternating colors, i.e. put a card on an other one if its rank is smaller by one and their color is different. In the foundations you can build up in suit, starting from the ace. The goal is to move every card in the foundations.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TpkyYecwITPMMyC54ioP2u9iHlg=/fit-in/200x150/pic777033.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nRKrZm0-124xXa_XOGKwMKnKLuo=/0x0/pic777033.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																													<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>108</usersrated>
+					<average>5.59514</average>
+					<bayesaverage>5.49769</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12813" bayesaverage="5.49769" />
+												
+											</ranks>
+					
+					<stddev>1.95805</stddev>
+					<median>0</median>
+					<owned>58</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>29</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.8889</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

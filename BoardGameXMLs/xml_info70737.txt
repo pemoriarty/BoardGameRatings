@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="70737" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Berzerk</name>
+									
+			<description>&amp;quot;Berzerk is a multi-directional shooter video  arcade game, released in 1980 by Stern Electronics  of Chicago.&lt;br/&gt;&lt;br/&gt;The player controls a green stick-figure, representing a &amp;quot;humanoid.&amp;quot; Using a joystick (and a firing button to activate a laser-like weapon), the player navigates a simple maze filled with many robots, who fire lasers back at the player character. A player can be killed by being shot, by running into a robot or an exploding robot, coming into contact with the electrified walls of the maze itself, or by being touched by the player's nemesis, &amp;quot;Evil Otto.&amp;quot;&lt;br/&gt;&lt;br/&gt;The function of Evil Otto, represented by a bouncing smiley face, is to quicken the pace of the game. Otto is unusual with regard to games of the period, in that there is no way to kill him. Otto can go through walls with impunity, and is attracted to the player character. If robots remain in the maze Otto moves slowly, about half as fast as the humanoid, but he speeds up to match the humanoid's speed once all the robots are killed. Evil Otto moves exactly the same speed as the player going left and right but he can move faster than the player going up and down; thus, no matter how close Otto is, the player can escape as long as they can avoid moving straight up or down.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Berzerk,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/AnW3Ld6_FizfwKXGMlJ7OerdQgM=/fit-in/200x150/pic777431.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eQFhFF5wqpxkJoIQu7AJePeDiTk=/0x0/pic777431.jpg</image>
+						
+												<videogamegenre objectid="2147">Action</videogamegenre>
+															<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4417">Atari 5200</videogameplatform>
+															<videogameversion objectid="52224">Atari 5200 edition</videogameversion>
+															<videogameversion objectid="75684">Atari 8-bit edition</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogamedeveloper objectid="11465">Atari, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+																						<videogamegenre objectid="2407">Maze</videogamegenre>
+															<videogamepublisher objectid="20">Milton Bradley</videogamepublisher>
+															<videogameversion objectid="95538">North American Atari 2600 (Sears Tele-games) edition</videogameversion>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="13465">Stern Electronics</videogamedeveloper>
+															<videogamepublisher objectid="13465">Stern Electronics</videogamepublisher>
+																						<videogameversion objectid="52222">US Arcade edition</videogameversion>
+															<videogameversion objectid="52223">US Atari 2600 edition</videogameversion>
+															<videogameplatform objectid="5245">Vectrex</videogameplatform>
+															<videogameversion objectid="35270">Vectrex edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>58</usersrated>
+					<average>6.08448</average>
+					<bayesaverage>5.8694</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3195" bayesaverage="5.8694" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="61" bayesaverage="6.08634" />
+														<rank type="family" id="4417" name="atari5200" friendlyname="Atari 5200 Rank" value="33" bayesaverage="5.83442" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="159" bayesaverage="6.04308" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="72" bayesaverage="5.82787" />
+														<rank type="family" id="5245" name="vectrex" friendlyname="Vectrex Rank" value="1" bayesaverage="7.08809" />
+												
+											</ranks>
+					
+					<stddev>1.82131</stddev>
+					<median>0</median>
+					<owned>89</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>20</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

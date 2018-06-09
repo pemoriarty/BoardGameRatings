@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66952">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Who&#039;s who</name>
+									
+			<description>This game is played with a standard deck of cards, including two jokers but without twos, threes and fours. Each player is dealt 14 cards. The two players with the same numbers of cards are partners, the third player is the soloist. But players do not know this until enough jokers are played.&lt;br/&gt;&lt;br/&gt;The object of the soloist is either to win the middling number of tricks (for example, four if one partner wins five or more and the other three or fewer), or to force the partners to win the same number of tricks each. This means he can win with 14 tricks if they both win none, or with none if they both win seven.&lt;br/&gt;&lt;br/&gt;Tricks are played and the trick is normally taken by the second-highest card of the suit led, or by the leader if nobody follows suit.&lt;br/&gt;&lt;br/&gt;If a Joker is played, its player may decide who wins the trick. If both are played at the same trick, the soloist decide who takes the trick. Jokers cannot be led unless there are no other cards in hand.&lt;br/&gt;&lt;br/&gt;The score is always 10 points plus the number of tricks won by the soloist (making anything from 10 to 24 points). This amount is credited to the soloist if successful, otherwise to each partner.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="166">David Parlett</boardgamedesigner>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+																						<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

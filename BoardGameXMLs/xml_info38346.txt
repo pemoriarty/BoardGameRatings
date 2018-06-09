@@ -1,0 +1,97 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38346">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Hold that Line</name>
+									
+			<description>Hold that Line was published in A Gamut of Games, a word by Sid Sackson:&lt;br/&gt;&amp;quot;If all people who played Tic-Tac-Toe were laid end to end they would promptly fall asleep. That's is the kind of game it is. Yet put two people together with a pencil, a scrap of paper, and some time to kill and chances are they'll wind up playing endless games of Tic-Tac-Toe, with never a winner.&lt;br/&gt;&amp;quot;Hold that Line is a game I devised to fill just such an odd moment. It, too, is played with a pencil and a scrap of paper, but there is a chalange and a winner in each and every game.&amp;quot;&lt;br/&gt;&lt;br/&gt;This game is played in a dotted grid similar to that of Dots and Dashes, but the objective is not to control boxes inside the grid, but to not be the last player drawing a line in the grid. Each line must be straigh and each player must play on either end of the line draw. The entire line must be continuous, without branches, crossings or a dot being visited twice.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamepublisher objectid="660">Dover Publications</boardgamepublisher>
+															<boardgamepublisher objectid="5855">dtv (Deutscher Taschenbuch Verlag)</boardgamepublisher>
+																						<boardgamefamily objectid="8842">Gamut of Games</boardgamefamily>
+															<boardgamepublisher objectid="595">Hugendubel Verlag</boardgamepublisher>
+															<boardgamepublisher objectid="621">Hutchinson</boardgamepublisher>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamepublisher objectid="823">Random House, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="7474">RBA Libros S.A.</boardgamepublisher>
+															<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>4.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.92029</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

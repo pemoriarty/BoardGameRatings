@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33172">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Monastery</name>
+									
+			<description>From the publisher:&lt;br/&gt;&lt;br/&gt;Monastery is a tile laying game in which players construct different parts of a medieval monastery. The work is done by the monks of a player. The monks may move from tile to tile and in addition to building work they can also study, toil or pray. In the &amp;lsquo;icon&amp;rsquo; game monks can also make use of the special properties of some of the tiles.&lt;br/&gt;&lt;br/&gt;The tiles vary in value ranging from 1 point field and path tiles to 5 point Chapter House and Library. The higher the value of tile the more monks are needed to build it. Players can build independently, but often they are required to work collaboratively.&lt;br/&gt;&lt;br/&gt;The game spreads over two days of monastic life, with turns being allocated as time for study and toil or for services in the abbey. At each service a new abbot is elected and apart from going first in the turn the abbot also has some significant powers.&lt;br/&gt;&lt;br/&gt;In order to win the game players must collect the letters of the abbey&amp;rsquo;s motto &amp;lsquo;Libera Nos Quaesumus Ab Omnibus Malis Amen&amp;rsquo;. The letters become progressively more expensive and players must decide whether to buy letters or recruit extra monks.&lt;br/&gt;&lt;br/&gt;Points at game end are also awarded for the &amp;lsquo;blessings&amp;rsquo; which players can collect throughout the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/K8R3hwq82Ktx5PeaCblTpb8UYjI=/fit-in/200x150/pic338016.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-6DZ0pAcVK2IOonODeUuYoJjqKk=/0x0/pic338016.jpg</image>
+						
+												<boardgamedesigner objectid="120">Gary Dicken</boardgamedesigner>
+																													<boardgameversion objectid="28311">First edition</boardgameversion>
+																						<boardgameartist objectid="36698">Colin Jones</boardgameartist>
+															<boardgamedesigner objectid="121">Steve Kendall</boardgamedesigner>
+															<boardgamedesigner objectid="631">Phil Kendall</boardgamedesigner>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgameartist objectid="36699">Geraldine O&#039;Reilly</boardgameartist>
+																																				<boardgamepublisher objectid="75">Ragnar Brothers</boardgamepublisher>
+															<boardgamecategory objectid="1115">Religious</boardgamecategory>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>342</usersrated>
+					<average>6.29555</average>
+					<bayesaverage>5.67951</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4299" bayesaverage="5.67951" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1385" bayesaverage="5.7331" />
+												
+											</ranks>
+					
+					<stddev>1.39653</stddev>
+					<median>0</median>
+					<owned>505</owned>
+					<trading>52</trading>
+					<wanting>22</wanting>
+					<wishing>97</wishing>
+					<numcomments>165</numcomments>
+					<numweights>55</numweights>
+					<averageweight>2.8364</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

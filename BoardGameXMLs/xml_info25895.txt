@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="25895">
+			<yearpublished>1949</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Bulo</name>
+							<name primary="true" sortindex="1">TacTix</name>
+									
+			<description>Impartial game played with the 4x4 board full of one kind of pieces. A player may remove one or more adjacent pieces from a row or column. The loser is the person who takes the last piece off the board.&lt;br/&gt;&lt;br/&gt;Note that the person who makes the last move loses. Making the last move to lose is misere version for most games, but the &amp;quot;normal&amp;quot; goal for this game.&lt;br/&gt;&lt;br/&gt;A number of &amp;quot;folk art&amp;quot; versions of the game with a wooden board and marbles were found on the web. Computer program versions are also available.&lt;br/&gt;&lt;br/&gt;The 4x4 game has been completely solved and it is a second player win.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;History:&lt;br/&gt;&lt;br/&gt;The game was evidently invented by Piet Hein (also known for game Hex) in the late 1940's. It isn't clear if the game was originally conceived on an NxN board or a 4x4 board.  The game is in the public domain.&lt;br/&gt;&lt;br/&gt;The first major publicity for the game was probably in Martin Gardner's Scientific American column in the February 1958 issue. The column and reader's responses were later re-printed in his first book collection of columns, &amp;quot;Hexaflexagons and other Mathematical Diversions; The First Scientific American Book of Mathematical Puzzles and Diversions.&amp;quot; Mr. Gardner notes that reader's analysis left no doubt that the 4x4 game was a second player win even though no simply strategy was found.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uMADPNunu0VjbMIxpke3QSUM54s=/fit-in/200x150/pic202489.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Z_9mCQcu5mmIHiGM7Jkoy6x-iIc=/0x0/pic202489.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgamedesigner objectid="1629">Piet Hein</boardgamedesigner>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="5942">Piet Hein A/S</boardgamepublisher>
+															<boardgameversion objectid="123956">Piet Hein edition</boardgameversion>
+															<boardgameversion objectid="26680">Print and Play edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>5.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.48433</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>5</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

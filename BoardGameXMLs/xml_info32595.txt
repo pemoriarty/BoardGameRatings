@@ -1,0 +1,85 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32595">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Annuvin</name>
+									
+			<description>Annuvin is played on a hexagonal board (4 hexagons on a side) with 6 pieces per player arranged in opposite corners.&lt;br/&gt;&lt;br/&gt;A stone can move up to N spaces in any combination of directions (it may even move over intervening stones), where N varies depending on the number of stones he has remaining:&lt;br/&gt;&lt;br/&gt;* Six pieces: one space per turn&lt;br/&gt;    * Five pieces: two spaces per turn&lt;br/&gt;    * Four pieces: three spaces per turn&lt;br/&gt;    * Three pieces: four spaces per turn&lt;br/&gt;    * Two pieces: five spaces per turn&lt;br/&gt;    * One piece: six spaces per turn.&lt;br/&gt;&lt;br/&gt;A stone captures an opposing piece by moving onto it. If a stone makes a capture before it has used all of the spaces available to it that move, it may continue to make additional captures until it has moved its limit.&lt;br/&gt;&lt;br/&gt;The player who captures all of his opponent's stones wins. Also, if a player reduces his opponent to a single stone without losing any of his own he wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wDtZ9DHTd673kDopCh8vsc4edlg=/fit-in/200x150/pic330762.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3ibRQyaec6l9I0p0RlqSoeeXIMM=/0x0/pic330762.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="27207">Print and Play edition</boardgameversion>
+															<boardgamedesigner objectid="9566">Jeff Roy</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

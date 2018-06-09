@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="65201">
+			<yearpublished>0</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Penguin</name>
+									
+			<description>This game is played with a standard deck of cards. The first card is dealt face up as a bottom of a &amp;quot;column&amp;quot; and called the beak. Then seven &amp;quot;columns&amp;quot; of seven cards are formed, such that the cards in a column overlap slightly. If a card of the same rank as the beak is turned up, set them aside. They are the start of the so-called foundations.&lt;br/&gt;Also there are 7 empty spaces called the flipper.&lt;br/&gt;&lt;br/&gt;The goal is to build up 4 foundataions in suit, more precisely, put cards of the same suit and of higher rank by one to the top of a foundation pile. During the game you can&lt;br/&gt;&lt;br/&gt;1, move to top card of a column to a foundation, if it fits&lt;br/&gt;2, move the top card of a column to a flipper space&lt;br/&gt;3, move a card from the flipper to a foundation,&lt;br/&gt;4, move a card or a sequence of cards from the flipper or the top of the column to the top of another column if they, together with the earlier top of that column, form an unbroken decreasing sequence in one suit&lt;br/&gt;5, start a new foundation with the beak if it is the top of a column&lt;br/&gt;6, move a card or a sequence of cards, forming an unbroken decreasing sequence in one suit, from the top of a column or the flipper, to the place of an earlier emptied column, if the rank of the largest card in the sequence is smaller than the rank of the beak by one.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="166">David Parlett</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

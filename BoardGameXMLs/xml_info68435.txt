@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="68435" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">River Raid</name>
+									
+			<description>[User Summary]&lt;br/&gt;&lt;br/&gt;River Raid is a top-down, vertically scrolling shooter, originally released for the Atari 2600.  The player controls a small plane, flying over a river and between canyon walls.  Points are earned by shooting down enemy ships, planes, and helicopters.  The game also features a decreasing fuel gauge that must be frequently replenished by flying over fuel tanks.&lt;br/&gt;&lt;br/&gt;The game is widely considered one of the best games released for the Atari 2600, and one of the most technically sophisticated.  In addition to standard left-right movement, the game provided the ability to speed up and slow down, and the fuel gauge depleted at a corresponding rate.  Most significantly, the game featured a large number of non-randomly generated levels, something which was very rare at the time due to memory constraints.  The game achieved this by algorithmically (but not randomly) generating the terrain and location of enemies, rather than storing this information on the cartridge.&lt;br/&gt;&lt;br/&gt;River Raid was designed and programmed by Carol Shaw, believed to be the first female video game designer.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W7PfCO0GsjYlSZmEuVV27ofBwgc=/fit-in/200x150/pic783672.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rgWMfa4Yz4-kJBHWbVud55wPkps=/0x0/pic783672.jpg</image>
+						
+												<videogamedeveloper objectid="11786">Activision</videogamedeveloper>
+															<videogamepublisher objectid="11786">Activision</videogamepublisher>
+															<videogamecompilation objectid="105100">Activision Anthology</videogamecompilation>
+															<videogamecompilation objectid="142075">Activision Anthology (GBA)</videogamecompilation>
+															<videogamecompilation objectid="146095">Activision Anthology (iOS)</videogamecompilation>
+															<videogamecompilation objectid="182421">Activision Anthology Remix Edition</videogamecompilation>
+															<videogamecompilation objectid="102970">Activision Hits Remixed</videogamecompilation>
+															<videogamecompilation objectid="78903">Activision&#039;s Atari 2600 Action Pack</videogamecompilation>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4417">Atari 5200</videogameplatform>
+															<videogameversion objectid="98831">Atari 5200 edition</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4419">ColecoVision</videogameplatform>
+															<videogamecompilation objectid="95920">A Collection of Activision Classic Games for the Atari 2600</videogamecompilation>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogamegenre objectid="2723">Endless Runner</videogamegenre>
+															<videogameversion objectid="150696">English/European Atari 2600 (White Label) edition</videogameversion>
+															<videogameversion objectid="117652">IBM PC Booter Cartridge edition</videogameversion>
+															<videogameplatform objectid="4427">Intellivision</videogameplatform>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogameversion objectid="150695">North American Atari 2600 (Blue Label) edition</videogameversion>
+															<videogameversion objectid="22201">North American Atari 2600 (Marooon Label) edition</videogameversion>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamecompilation objectid="234527">The Speccy CD 1996</videogamecompilation>
+															<videogametheme objectid="2317">War - Modern</videogametheme>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogame objectid="105100" inbound="true">Activision Anthology</videogame>
+															<videogame objectid="102970" inbound="true">Activision Hits Remixed</videogame>
+															<videogame objectid="78903" inbound="true">Activision&#039;s Atari 2600 Action Pack</videogame>
+															<videogame objectid="95920" inbound="true">A Collection of Activision Classic Games for the Atari 2600</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>79</usersrated>
+					<average>7.2224</average>
+					<bayesaverage>6.64394</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="853" bayesaverage="6.64394" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="7" bayesaverage="7.05059" />
+														<rank type="family" id="4417" name="atari5200" friendlyname="Atari 5200 Rank" value="4" bayesaverage="7.03388" />
+														<rank type="family" id="4419" name="colecovision" friendlyname="ColecoVision Rank" value="4" bayesaverage="7.03713" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="35" bayesaverage="7.00755" />
+														<rank type="family" id="4427" name="intellivision" friendlyname="Intellivision Rank" value="6" bayesaverage="7.13067" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="145" bayesaverage="6.89163" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="10" bayesaverage="7.05221" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="19" bayesaverage="7.03859" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="18" bayesaverage="6.96462" />
+												
+											</ranks>
+					
+					<stddev>1.49501</stddev>
+					<median>0</median>
+					<owned>76</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>19</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

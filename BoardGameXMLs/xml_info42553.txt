@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="42553">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Trimok</name>
+									
+			<description>Trimok is a new board game for two, developed from the old Japanese game jan-ken-pon (scissors paper rock).&lt;br/&gt;The idea of the game&lt;br/&gt;&lt;br/&gt;Two players (White and Black) play against each others and they try to capture all opponent's pieces with their own pieces. There are three kinds of pieces: scissors, paper and rock. The capture-rules for White are as follows: white scissors take black paper, white paper take black rock and white rock take black scissors. Correspondingly the capture-rules for Black: black scissors take white paper, black paper take white rock and black rock take white scissors.&lt;br/&gt;&lt;br/&gt;In the beginning of the game each player has four pieces of each kind, i.e. 12 pieces in all. The board is divided into 6 by 6 squares and the pieces are set according to figure 1. The game is over, when other player wins the game or the players agree on a draw. The player wins the game, when he/she captures the other player's last piece or when the other player cannot move any piece.&lt;br/&gt;&lt;br/&gt;The moves&lt;br/&gt;Each player, in turns, moves one piece. The White player starts the game. Every piece can be moved in the same way: one square at a time in any direction on the board, i.e. forwards, backwards, to the sides and also diagonally forwards and backwards. If a piece does not capture another piece within a move, it can be moved only to an empty square.&lt;br/&gt;&lt;br/&gt;In the game is one special move, called return-move: When a piece has made it to the opponent's side to the last row, it can be moved back on some of the next turns, to its own side's first row, to the same column's or adjacent column's empty square. (There is at most three possible squares for a return-move.) When making a return-move, the piece can be exchanged for a piece that is not currently on the board. Making the return-move the piece can not capture other pieces. Examples of possible moves and return-moves are presented in figure 2.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="28493">J. Ollikainen</boardgamedesigner>
+															<boardgamedesigner objectid="28494">A. Ollikainen</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamedesigner objectid="28492">T. Saarinen</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

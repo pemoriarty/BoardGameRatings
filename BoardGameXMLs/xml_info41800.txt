@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="41800">
+			<yearpublished>2005</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Cell Management</name>
+									
+			<description>Cell Management is a solitaire game for a standard piecepack.  The player attempts to execute a jailbreak of sorts from an alien spaceship.  Their captors have abducted several species, and you may have to stage some escape attempts as diversions from the real jailbreak.&lt;br/&gt;&lt;br/&gt;Cell Management is based on the mechanisms in gene regulatory networks, which help a biological cell respond to changes in its environment dynamically.  The board setup is in essence a circular bacterial DNA strand, the guards are RNA polymerase, the captives are transcribed RNA sequences which become promoters and repressors for other transcription sites, and escaped captives actually become proteins in the cell.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mUzUHly62L1P5DsY7mMQewFIYAQ=/fit-in/200x150/pic460633.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AtySZ9ScktETv-suyS27fpV-360=/0x0/pic460633.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+																																				<boardgamedesigner objectid="7235">Mark Goadrich</boardgamedesigner>
+															<boardgamefamily objectid="136">Piecepack Games</boardgamefamily>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+																						<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7.83333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.0274</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

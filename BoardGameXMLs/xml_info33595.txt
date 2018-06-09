@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33595">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">9tka</name>
+							<name  sortindex="1">Dziewiątka</name>
+							<name  sortindex="1">nine</name>
+									
+			<description>9tka (&amp;quot;dziewiątka&amp;quot; = &amp;quot;nine&amp;quot; in Polish) is played on a 9x9 square grid, divided into nine 3x3 sections. Each of the sections starts with a neutral token placed at random in it, but not on any of the squares that comprise the outer ring of the game board.&lt;br/&gt;&lt;br/&gt;In the first phase of play, players take turns placing their tokens around the outside edge of the board until each board edge has nine tokens next to it (one per square), so that a total of 36 tokens have been placed around the board.&lt;br/&gt;&lt;br/&gt;In the second phase of play, players take turns moving their tokens into the board in a straight line until they stop due to another token blocking further forward movement. A token can become blocked from even entering the board.&lt;br/&gt;&lt;br/&gt;After all player tokens have moved onto the board (or blocked from entering), scoring takes place: For each of the nine 3x3 regions, the player with the most tokens in it earns a point. (In case of tie, no one earns the point for the region.) In case of a tie, the tied player who moved last wins.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;igGameCenter (real-time)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/S4kb6x6wEeLg15v1SLMnHgO7uO0=/fit-in/200x150/pic1055339.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-lNX6zIq06vgAIFuSaWxaLlTA1o=/0x0/pic1055339.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="119536">English edition</boardgameversion>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="7324">Adam Kałuża</boardgamedesigner>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="34394">Print-and-play edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>34</usersrated>
+					<average>7.28529</average>
+					<bayesaverage>5.5467</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8615" bayesaverage="5.5467" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="353" bayesaverage="5.80934" />
+												
+											</ranks>
+					
+					<stddev>0.877541</stddev>
+					<median>0</median>
+					<owned>35</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>21</wishing>
+					<numcomments>16</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.1429</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33159">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Middle Kingdom</name>
+									
+			<description>A fast card game where players blind bid for dynasty cards such as warriors, nobles, bureaucrats, peasants, and merchants. You must balance your claims to score well at the end. There are special cards gotten from having the most in a category that give you a bonus, often affecting the bidding process.  For example, the Palace lets you see all bids before placing yours and the Heir lets you claim an unclaimed dynasty card.&lt;br/&gt;&lt;br/&gt;From back of the box:&lt;br/&gt;&lt;br/&gt;Following the collapse of the Han Dynasty, warlords backed rival claimants to the Chinese Throne, while others sought influence among the merchants, nobles, farmers, and bureaucrats.&lt;br/&gt;&lt;br/&gt;Each round, players play Bid Cards to claim Dynasty Cards and take control of the Emperor, Heir, Palace, Market, and Harvest.  However, the heavens in the guise of a Celestial Dragon, can disrupt the best laid plans.  The game ends as the Emperor dies and whoever gains the most influence will ascen the throne.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6Nh3_P5-lLshXu4fOvk5-9z400A=/fit-in/200x150/pic300555.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1v1g-iJKBn9O2T1feAlQ95nMmqs=/0x0/pic300555.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameartist objectid="12059">Oliver Castañeda</boardgameartist>
+															<boardgamefamily objectid="11518">Country: China</boardgamefamily>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="24973">First edition</boardgameversion>
+															<boardgameartist objectid="9806">Paul Gerardi</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="150">Thomas Lehmann</boardgamedesigner>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>375</usersrated>
+					<average>5.9832</average>
+					<bayesaverage>5.61755</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5534" bayesaverage="5.61755" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1514" bayesaverage="5.65468" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1192" bayesaverage="5.6625" />
+												
+											</ranks>
+					
+					<stddev>1.33283</stddev>
+					<median>0</median>
+					<owned>748</owned>
+					<trading>105</trading>
+					<wanting>8</wanting>
+					<wishing>47</wishing>
+					<numcomments>177</numcomments>
+					<numweights>48</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

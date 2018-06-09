@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38499">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">11 Äpfel</name>
+							<name  sortindex="1">22 appels</name>
+							<name  sortindex="1">22 Apples</name>
+							<name  sortindex="1">22 manzanas</name>
+							<name primary="true" sortindex="1">22 Pommes</name>
+							<name  sortindex="1">22 תפוחים</name>
+									
+			<description>The two players must collect exactly 11 green apples and as many red apples to win. In order to do so they will move the gatherer who will then be able to collect markers representing 1 to 5 apples.&lt;br/&gt;&lt;br/&gt;The 24 apples markers and the gatherer are organized in a 5x5 square. On his turn, a player can take an apple marker on the same line or column as the gatherer. He then move the gatherer on the freed space.&lt;br/&gt;&lt;br/&gt;The game ends when a player managed to collect the right number of apples or when he forces his opponent to collect more than 11 apples.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wsEnFeqHzlO3R-J6f7PeeMj_M-0=/fit-in/200x150/pic544226.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YLQXH5-K_Ljboicn0ZqYNffxcbw=/0x0/pic544226.jpg</image>
+						
+																			<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamepublisher objectid="2691">Cocktail Games</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="39010">Dutch edition</boardgameversion>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+															<boardgamefamily objectid="5841">Food / Cooking</boardgamefamily>
+																						<boardgameversion objectid="41864">French Version</boardgameversion>
+																						<boardgameversion objectid="45898">German edition</boardgameversion>
+																																				<boardgameversion objectid="176422">Hebrew edition</boardgameversion>
+															<boardgamepublisher objectid="9382">Hutter Trade GmbH + Co KG</boardgamepublisher>
+															<boardgameartist objectid="29139">Chhuy-Ing Ia</boardgameartist>
+															<boardgamepublisher objectid="2721">Kod Kod</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamedesigner objectid="11156">Juan Carlos Pérez Pulido</boardgamedesigner>
+																																											<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>150</usersrated>
+					<average>6.07533</average>
+					<bayesaverage>5.56683</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7391" bayesaverage="5.56683" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="428" bayesaverage="5.73925" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1308" bayesaverage="5.60035" />
+												
+											</ranks>
+					
+					<stddev>1.10627</stddev>
+					<median>0</median>
+					<owned>224</owned>
+					<trading>4</trading>
+					<wanting>0</wanting>
+					<wishing>13</wishing>
+					<numcomments>47</numcomments>
+					<numweights>16</numweights>
+					<averageweight>1.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

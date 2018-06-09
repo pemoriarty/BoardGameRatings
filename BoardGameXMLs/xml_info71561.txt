@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="71561" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Battle Chess</name>
+							<name  sortindex="1">Battle Chess Enhanced CD-ROM</name>
+									
+			<description>&amp;quot;Battle Chess is a computer game version of chess in which the chess pieces come to life and battle one another when capturing. It was released for the Commodore Amiga and subsequently on the 3DO, MS-DOS, Apple IIgs, Commodore 64, Amiga CDTV, CD32, Atari ST, Apple Macintosh, Acorn Archimedes, FM Towns, Windows 3.x and Nintendo Entertainment System.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Battle_Chess,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/So5hOPCUwYlOrssSnsLWTpsA-8k=/fit-in/200x150/pic805078.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_2HJC1IRRd9_UTdpqPLgriPXw0c=/0x0/pic805078.jpg</image>
+						
+												<videogameplatform objectid="4414">3DO</videogameplatform>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameseries objectid="24627">Battle Chess</videogameseries>
+															<videogamedeveloper objectid="11812">Blizzard Entertainment</videogamedeveloper>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="125650">English/European Amiga edition</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogamedeveloper objectid="4105">Interplay (Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="4105">Interplay (Video Game)</videogamepublisher>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogamedeveloper objectid="13369">MacPlay</videogamedeveloper>
+															<videogamepublisher objectid="13369">MacPlay</videogamepublisher>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="37338">North American 3DO edition</videogameversion>
+															<videogameversion objectid="37339">North American Amiga edition</videogameversion>
+															<videogameversion objectid="37340">North American Apple II edition</videogameversion>
+															<videogameversion objectid="37341">North American Atari ST edition</videogameversion>
+															<videogameversion objectid="37342">North American Commodore 64 edition</videogameversion>
+															<videogameversion objectid="37343">North American DOS EGA edition</videogameversion>
+															<videogameversion objectid="127716">North American DOS VGA Dual Media edition</videogameversion>
+															<videogameversion objectid="64801">North American Macintosh edition</videogameversion>
+															<videogameversion objectid="170433">North American Macintosh edition</videogameversion>
+															<videogameversion objectid="37344">North American NES edition</videogameversion>
+															<videogameversion objectid="37345">North American Windows edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogamebg objectid="171" inbound="true">Chess</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>101</usersrated>
+					<average>6.05495</average>
+					<bayesaverage>5.88954</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3062" bayesaverage="5.88954" />
+												
+							
+														<rank type="family" id="4414" name="3do" friendlyname="3DO Rank" value="24" bayesaverage="5.87955" />
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="194" bayesaverage="6.05362" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="168" bayesaverage="5.99224" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="175" bayesaverage="5.95031" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="410" bayesaverage="5.98042" />
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="616" bayesaverage="5.93881" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="112" bayesaverage="5.99383" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1607" bayesaverage="5.91134" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="87" bayesaverage="5.9395" />
+												
+											</ranks>
+					
+					<stddev>1.65651</stddev>
+					<median>0</median>
+					<owned>90</owned>
+					<trading>2</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>21</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

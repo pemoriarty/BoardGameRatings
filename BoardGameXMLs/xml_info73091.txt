@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="73091">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Momentum</name>
+									
+			<description>Momentum is a dynamic abstract strategy board game in which the lead swings back and forth like the steel spheres of Newton&amp;rsquo;s cradle. Grabbing the lead and holding onto it is the challenge.&lt;br/&gt;&lt;br/&gt;The mechanics of the game simulate the game of marbles. Players take turns dropping one of their eight marbles (glass stones) onto a square 7 x 7 game board. The momentum of the dropped marble is transferred in up to eight (orthogonal and diagonal) directions through adjacent contiguous lines of marbles. The last marble at the end of each of these lines is pushed away one cell from the dropped marble. Some fall off the board and are returned to the owning players.&lt;br/&gt;&lt;br/&gt;When a player has only one marble left in hand, he or she is required to announce the last marble. At which point, his opponent is forced to knock at least one of his other seven marbles off the board, otherwise the opponent would lose the game.&lt;br/&gt;&lt;br/&gt;The first player to have all eight of his or her marbles on the board at the end of his or her turn wins the game.&lt;br/&gt;&lt;br/&gt;For beginners and perpetual games the following rule applies to the standard 7 x 7 game.&lt;br/&gt; 30-Rounds Rule (Optional, recommended for beginners): If a game lasts for 30 rounds (60 player turns), play stops and the outcome is determined. If either player has a majority of marbles on the board that player wins, if not, the game ends in a draw. Players can use a spare token to keep track of rounds by using the outside edge of the board. Once around is 28 steps. Two more rounds and the game ends.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dUdxRWoff951mehhme5n5lSnBCM=/fit-in/200x150/pic853503.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iOIipcIzJm3mX1Aiytu5Knr7voU=/0x0/pic853503.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="43100">First edition</boardgameversion>
+															<boardgamedesigner objectid="24978">Phil Leduc</boardgamedesigner>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.7475</average>
+					<bayesaverage>5.54161</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8977" bayesaverage="5.54161" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="410" bayesaverage="5.75211" />
+												
+											</ranks>
+					
+					<stddev>1.54919</stddev>
+					<median>0</median>
+					<owned>32</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>11</wishing>
+					<numcomments>22</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

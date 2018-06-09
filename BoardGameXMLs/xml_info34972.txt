@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34972">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Auktion</name>
+									
+			<description>In this game of auctions and dice the players try to amass the greatest fortune by buying cars in auctions, and then earning money on these by being lucky in their dice rolls.&lt;br/&gt;&lt;br/&gt;The game consists of: &lt;br/&gt;- Twenty cars: Eight blue, ten red, and two gold.&lt;br/&gt;- Money: In denominations from 100 to 5000.&lt;br/&gt;- A Gavel: For the auction master.&lt;br/&gt;- Bonds: Six for each player.&lt;br/&gt;&lt;br/&gt;The players are given 23.500 in cash and six bonds ranging from 1000 to 6000.&lt;br/&gt;&lt;br/&gt;The game consists of 20 rounds where the cars are sold to the players and money are earned or lost.&lt;br/&gt;&lt;br/&gt;First the eight blue cars and then the two gold cars are sold:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Auction the cars. The highest bidder takes the car and pays the bank. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Roll dice. Every player roll their two dice.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The players then either pay or get money from bank according to the roll:&lt;br/&gt;&lt;br/&gt;Series (N, N+1): The player adds the dice and times this with the added up value of the cars (100 and 200). The sum is paid from the bank to the player.&lt;br/&gt;&lt;br/&gt;Even (N, N): The player can sell the N bond to the bank. It is possible to trade with other players for this.&lt;br/&gt;&lt;br/&gt;Tax (Anything else): The player pays tax to the bank: Number of cars times times the value of the cars (100 and 200).&lt;br/&gt;&lt;br/&gt;Then the ten red cars are given away.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Each player rolls the dice, and the player with the highest roll is given a red car. Players also pay or recieve money as above.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When the last car has been given away, the players add up their cash, subtract their remaining bonds, and add up the value of their cars: 5.000 for blue and red, and 10.000 for gold.&lt;br/&gt;&lt;br/&gt;The winner is the player with the largest fortune.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/y-BY0AiRaq1m0BpJ_rSsdKbCuXw=/fit-in/200x150/pic305154.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RyW82mz4jNUyNpDHPt9ZEHegbCQ=/0x0/pic305154.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="8244">Arastryk</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="36366">
+			<yearpublished>2008</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Inside Pitch Baseball</name>
+									
+			<description>Inside Pitch Baseball Game:&lt;br/&gt;&lt;br/&gt;ISG is proud to announce Inside Pitch Baseball.&lt;br/&gt;&lt;br/&gt;This game is based upon the Defense Independent Pitching Statistics, developed by V&amp;ouml;r&amp;ouml;s McCracken.  This is a statistic that operates under the revolutionary and controversial theorem that a pitchers value comes from his strikeouts, walks, and home runs allowed (because these are the only events over which the pitcher has total control).&lt;br/&gt;&lt;br/&gt;Each at bat starts on the pitchers card and while one of the outcomes from above (K, BB or HR) may come into play each batter has the final say.  The game includes split LH/RH ratings for all pitchers and hitters with at least 40 BF/AB against each side. Defensive plays such as range plays and errors are interwoven into the game so as to make it seamless.  All action comes from the players cards so outside chart lookups to determine the outcome of at bats are a thing of the past.&lt;br/&gt;Hitters are not left out as they are rated for where they actually hit the ball in the year represented.  Base running, stealing and bunting can be handled by the game engine for the solitaire player as well.&lt;br/&gt;&lt;br/&gt;Ballparks play a big part in IP.  Now each park will have its own card (look just like a hitter card)  that is referenced during game play.  Ballparks will be represented on more than just HRs allowed.  All hits, strikeouts and walks will be affected by the place a game is being played.  Just by looking at the ballpark cards you will see that the Astrodome will yield few HR chances while Coors Field will earn its rep as the launching pad.&lt;br/&gt;These ballpark cards have been seamlessly added to the game as well by not requiring any outside lookups.  They have also give the opportunity to add rare plays and the &amp;quot;trying to stretch&amp;quot; hits in the game.&lt;br/&gt;&lt;br/&gt;We have completed a sample game run through that shows how the game plays along with pictures to guide you the IP game play.  It can be found at &lt;a target='_blank' href=&quot;http://forums.delphiforums.com/ISGF/messages?msg=214&quot; rel=&quot;nofollow&quot;&gt;http://forums.delphiforums.com/ISGF/messages?msg=214&lt;/a&gt;.1 .&lt;br/&gt;&lt;br/&gt;IP takes a unique approach to simulating the game of baseball.  From where you start with the pitchers card to how the defense gets involved the game just feels right.  So forget the 50/50 setup, forget the chart lookups and step inside the game of baseball with Inside Pitch.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YeUZQ2yGRu0EXF-gwAFRODH4kqo=/fit-in/200x150/pic564081.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5oqbc5beSqyt5paBqLh6fLBK2IA=/0x0/pic564081.jpg</image>
+						
+												<boardgamedesigner objectid="4016">Chris Davis</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="7352">Inside Sports Games</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5586">Sports: Baseball</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>19</usersrated>
+					<average>7.88947</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.13588</stddev>
+					<median>0</median>
+					<owned>30</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>4</wishing>
+					<numcomments>7</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

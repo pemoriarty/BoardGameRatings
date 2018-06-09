@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66332">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Seegover</name>
+									
+			<description>This game is played on an empty 5x5 square board. There are 24 white and 24 black game pieces. The game has two phase. Drop phase and move phase according to rules.The players try to capture, their opponent pieces.&lt;br/&gt;DROP PHASE  - In his turn, each player must place a game piace in his/her own color on an empty cell, except the central cell which should be empty until this first phase is over.&lt;br/&gt;When 24 stones are dropped, the game continues with the move phase.&lt;br/&gt;&lt;br/&gt;MOVE PHASE - At each turn, each player must do one of the following actions:&lt;br/&gt;Move a friendly stone to an orthogonally adjacent empty cell.&lt;br/&gt;There are custodian captures, i.e., every enemy stone between the moved stone and another friendly stone (over the same line) switches color.&lt;br/&gt;After a move with results in a capture, the moved stone may optionally move again into its initial cell (which may result in more custodian captures).&lt;br/&gt;If a player cannot move any stone, he should pick one of his/her game piece from any cell and place it on an empty cell, executing the eventual custodian captures.&lt;br/&gt;The player who has only four stones or less, loses the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="197014">First edition</boardgameversion>
+															<boardgamedesigner objectid="1797">Trevor Truran</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

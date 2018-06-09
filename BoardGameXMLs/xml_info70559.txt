@@ -1,0 +1,97 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="70559">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Midgard</name>
+									
+			<description>Midgard is a two player abstract strategy game of area enclosure and dominance. Players take on the role of Odin and his brothers in creating Midgard, the homeland of humanity from the remains of the vanquished ice giant Ymir. One player-god creates the seas and other the land masses.&lt;br/&gt;&lt;br/&gt;The board is composed of 124 equilateral triangles; a 10 x 10 regular grid with 24 additional triangles attached to the middle eight cells along each of its edges.&lt;br/&gt;&lt;br/&gt;Player turns alternate starting with the sea player. Each turn, players must place one of their tiles on an empty ice cell which may not share an edge with any other occupied cell and it may not be the center cell. The newly occupied cell is terraformed into a sea or land cell and influences the transformation of its adjacent cells. These adjacent cells are referred to as blizzard cells because what they will become is unclear. Later, sea and land tiles are also placed when regions of blizzard cells are completely enclosed. The blizzard cells are assigned to and terraformed by the player who exerts the most influence on the enclosed regions. A player&amp;rsquo;s influence is determined by counting owned edges around the enclosed region. In the case of a tie, half the cells are filled with sea tiles and the other half by land tiles. The gods have decreed that this will always be possible when a tie occurs!&lt;br/&gt;&lt;br/&gt;When the board is completely terraformed or a player has no more tiles in hand, the player with the most tiles on the board wins the game.  If the players tie for most tiles, the player occupying the most perimeter cells wins.&lt;br/&gt;&lt;br/&gt;Detailed rules, a Flash MX implementation and a print-and-play sheet can be found in the File section.&lt;br/&gt;&lt;br/&gt;Have fun.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1Ue5tDtlQad72vxXzDwBXvWsVC8=/fit-in/200x150/pic717225.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1yhM7BGPl2wr1Vn-3Fo0JmAYx6E=/0x0/pic717225.jpg</image>
+						
+												<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="34713">First edition</boardgameversion>
+															<boardgamedesigner objectid="24978">Phil Leduc</boardgamedesigner>
+															<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7.6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

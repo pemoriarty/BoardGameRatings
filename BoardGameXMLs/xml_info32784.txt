@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32784">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Crapette</name>
+							<name  sortindex="1">Crapot</name>
+							<name  sortindex="1">Garibaldka</name>
+							<name primary="true" sortindex="1">Russian Bank</name>
+							<name  sortindex="1">Stop</name>
+							<name  sortindex="1">Touch</name>
+									
+			<description>Russian Bank -- also known as Crapette -- is a game played by two players with two standard decks of playing cards.  Each player begins the game with a tableau four face up house cards, a 12 card reserve, and a &amp;quot;hand&amp;quot; consisting of the remainder of the cards.  The first player to clear their tableau, reserve, and hand of cards onto the foundation spaces in the middle of the board is the winner.  Although the rules of card placement and foundation building are similar to those of Klondike solitaire, Russian Bank allows equal access by both players to both layouts, thus adding player interaction.&lt;br/&gt;&lt;br/&gt;Foundation spaces are built up in suit from ace to king.  Houses are built down in alternating colors from king to ace.&lt;br/&gt;&lt;br/&gt;Some moves in the game are compulsory:&lt;br/&gt; -- if the top card of the reserve may be played to a foundation, that play must be made first.&lt;br/&gt; -- if an available card in the houses can be played to the foundations, that play must be made.&lt;br/&gt; -- if any house is empty, one must fill the space from the reserve if possible.&lt;br/&gt; -- whenever the top card from the reserve is played, the next reserve card must be turned face up.&lt;br/&gt;&lt;br/&gt;If none of the above moves are available, the player turns the top card of his hand face up and continues play.  The player may play the card legally as any other card.  Likewise, a player may play a cards to his opponent's waste pile if the card played matches in suit and is of a consecutive rank.  Once a player has no more legal moves, his face-up hand it is discarded into the player's waste pile and his turn ends.  If the hand is empty when the player needs to draw a hand card, the waste pile is turned face down to refresh the hand.&lt;br/&gt;&lt;br/&gt;If at any time a player makes an illegal play or ignores an opportunity to make one of the compulsory plays, his opponent may stop him, point out the error, and force the proper play.  The erring player then forfeits the remainder of that turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																						<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>19</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.31749</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>8</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

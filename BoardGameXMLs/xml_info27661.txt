@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="27661">
+			<yearpublished>1986</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Dornröschendame</name>
+									
+			<description>The name of the game is derived from the fairy-tale Sleeping Beauty (&amp;quot;Dornr&amp;ouml;schen&amp;quot; in German) which is well known in many parts of Europe, including Germany and Russia. Although the game may appear superficially as a variant of Anglo-American Checkers, it has many unusual features that are not known in any other Checkers game:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Men capture adjacent enemy ladies (the equivalent of kings in Checkers) by the short leap backwards, but never forwards. However, adjacent enemy men are captured by them in the usual way by leaping forwards.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     If a man reaches the opponent's back rank, he is promoted to a sleeping beauty (and turned upside down), if the player has already a lady. A player can never have two or more ladies at the same time. Sleeping beauties are inactive until they are woken up.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A lady captures by the short leap like the king in English Draughts / American Straight Checker. A lady can also capture in the Chess way by replacement like a Ferz in Shatranj, not just by jumping.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     It is not permitted to combine both ways of capturing in one move.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Capturing by replacement is not compulsory, whereas capturing by jumping is and the greatest number possible must be captured. Consequently, jumping always takes precedence over replacement, unless a lady can capture the opponent's lady. Then the lady that captures has the choice between both ways of capturing, which is called Royal Privilege&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A sleeping beauty may not move or capture, nor may she be captured. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     After a sleeping beauty is woken up, she is permitted to make a &amp;quot;jump of joy&amp;quot;, a rule that was was inspired by the Kurierspiel. However, a jump of joy is only permitted if the square crossed over is (1) vacant and (2) not &amp;quot;threatened&amp;quot; (or &amp;quot;guarded&amp;quot; in Chess terminology).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The object of the game is to leave the opponent without a valid move, either by capturing all his pieces, or by blocking them completely.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A game can never end in a draw, thus &amp;quot;vanquishing the curse of the Checkers draw&amp;quot; as Kerry Handscomb, the editor of the Abstract Games magazine put it. There are, however, rare positions very similar to jishogi, or impasse in Japanese Chess that need a special rule: In a continous sequence of moves in which only ladies are moved, a particular lady is not permitted to move onto the same square twice after the full board position has been repeated once (even if the lady occupied this square before the position was repeated).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A point scoring system is used to determine the margin of win. The winner gets as many points as there are still pieces on the board (of any kind and color). The loser gets zero points, even if he has still pieces left (in the case of a blockade).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The game has been extensively covered in the Abstract Games magazine whose Canadian editors described it as &amp;quot;fascinating&amp;quot; and &amp;quot;rather strange&amp;quot;.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamepublisher objectid="6469">Abstract Games (magazine)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamedesigner objectid="6874">Ralf Gering</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.77492</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

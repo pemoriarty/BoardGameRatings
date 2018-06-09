@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38462">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Lambo</name>
+							<name primary="true" sortindex="1">Palago</name>
+									
+			<description>Palago is a tile placement game in which players strive to form closed groups of their colour. Two players, White and Blue, share a common pool of 48 hexagonal arch tiles. Each tile contains a white arch and a blue arch, and may be oriented in three ways such that the corner colours are the same for each rotation.&lt;br/&gt;&lt;br/&gt;White starts by placing two adjacent tiles, then players then take turns adding two adjacent tiles such that edge colours match neighbouring tiles.&lt;br/&gt;&lt;br/&gt;The game is won by the player who forms a surrounded island of their colour containing at least one arch. If a move forms winning groups for both players, then the mover loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OYzYsBKfRhdTjcODf9psUY17SKw=/fit-in/200x150/pic2407343.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AEAWLGzm8ZQUZ5H2vLorh6BB4LA=/0x0/pic2407343.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamehonor objectid="21249">2010 NZGA New Game of the Year Winner</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+															<boardgameartist objectid="3541">Cameron Browne</boardgameartist>
+															<boardgameversion objectid="192525">Colour of Strategy World Of Shapes NZ Edition</boardgameversion>
+															<boardgamepublisher objectid="1042">Colour of Strategy, Ltd.</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="105358">German &quot;Spiel und Kunst&quot; edition</boardgameversion>
+															<boardgamepublisher objectid="16700">Grapet</boardgamepublisher>
+															<boardgameartist objectid="1789">Mike McManaway</boardgameartist>
+																																				<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="211012">Polish edition</boardgameversion>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="165760">Print and Play edition</boardgameversion>
+															<boardgamepublisher objectid="21043">quecke-verlag</boardgamepublisher>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="10" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>109</usersrated>
+					<average>6.65239</average>
+					<bayesaverage>5.5995</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6018" bayesaverage="5.5995" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="259" bayesaverage="5.95979" />
+												
+											</ranks>
+					
+					<stddev>1.19815</stddev>
+					<median>0</median>
+					<owned>133</owned>
+					<trading>6</trading>
+					<wanting>22</wanting>
+					<wishing>51</wishing>
+					<numcomments>46</numcomments>
+					<numweights>9</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

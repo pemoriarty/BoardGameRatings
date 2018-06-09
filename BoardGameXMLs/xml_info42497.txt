@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="42497">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>7</playingtime>
+			<minplaytime>7</minplaytime>
+			<maxplaytime>7</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Gothello</name>
+									
+			<description>Playable using Othello and Go pieces, Gothello involves capturing tiles but plays uniquely.&lt;br/&gt;&lt;br/&gt;The game is set up by placing 16 reversible tiles on an 8x8 board to form 8 separated pairs - each pair containing one white and one black tile.&lt;br/&gt;&lt;br/&gt;The first player places a stone of their colour on any free space and players then take turns to either place two stones or remove one enemy stone in any location. You may not undo the previous move (i.e. may not remove a stone placed in the previous turn or replace a stone removed in the previous turn).&lt;br/&gt;&lt;br/&gt;The reversible tiles are flipped over if entirely surrounded by the opposite colour horizontally and vertically. Two tiles can be flipped by using only one stone, others using 2, most need 3.&lt;br/&gt;&lt;br/&gt;The game ends either when all but one square is filled by either reversible tiles or stones OR when all but one pair of tiles has been claimed.&lt;br/&gt;&lt;br/&gt;The winner is the person who claimed the most pairs of tiles.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="112803">First Publication</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamedesigner objectid="75703">Behrooz Shahriari</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

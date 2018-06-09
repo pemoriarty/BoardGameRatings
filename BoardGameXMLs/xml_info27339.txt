@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="27339">
+			<yearpublished>2004</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">3 Man Chess</name>
+									
+			<description>3 Man Chess is a unique chess variant for three players, played on a non-standard board such as a hexagon or circle with differently shaped cells to create an even playing field. The traditional rules about how pieces can move and capture other pieces still apply, but the addition of another player means that the goal and strategy is varied slightly.&lt;br/&gt;&lt;br/&gt;The victory condition is different between versions, but the goal is usually to be the first player to checkmate another. In this case, the two remaining players both lose the game. This is designed to prevent two players from teaming up to defeat the third, and create a game of strategy rather than alliances.&lt;br/&gt;&lt;br/&gt;This variant introduces new possible situations, such as when a piece could be captured by both of the other players and therefore neither player will risk their piece to take it. Strategy requires anticipating not only how your opponents will behave, but how their pieces will interact and affect each other. Many traditional opening moves are also ineffective in the three player variant.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IrKH28ElQxe3hhaRg0ldgHMNVFQ=/fit-in/200x150/pic299557.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/pVCytSUzjwqfwRIUWhm4DD1zfvY=/0x0/pic299557.jpg</image>
+						
+												<boardgamepublisher objectid="6399">3 Man Chess</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="8161">Clif King</boardgamedesigner>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>28</usersrated>
+					<average>6.63929</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.0604</stddev>
+					<median>0</median>
+					<owned>78</owned>
+					<trading>2</trading>
+					<wanting>5</wanting>
+					<wishing>27</wishing>
+					<numcomments>16</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66712">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Web of Flies</name>
+									
+			<description>Web of Flies is an abstract strategy game played on a hexagonal web in which each player controls a team of 16 spiders, represented by counters with 1-8 legs to indicate their strength. (When playing with three or four players, each player has only one set of spiders numbered 1-8.)&lt;br/&gt;&lt;br/&gt;To start the game, neutral flies and the player pieces are placed randomly around the web. Everyone but the first player can then swap the position of two of her spiders. Each turn, a player must make a capture by moving one of her spiders onto an enemy piece (or a fly). Spiders can move over friendly spiders and empty spaces, but not enemy spiders.  A spider can capture an enemy spider that has the same number of legs or fewer legs. If a player can't capture, she passes for the turn, but take actions in the future if captures become possible.&lt;br/&gt;&lt;br/&gt;The game ends when only one player has 8-legged spiders, or neither player can move. The player with most 8-legged spiders wins; in the rare case of a tie, you look at the 7-legged spiders, and so on.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4d8rnvYekTu2Z4psNuGNEJgwsdc=/fit-in/200x150/pic1322911.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AlC_7xaPLCrLVuVzB7WAQeNVnW4=/0x0/pic1322911.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7589">Animals: Flies</boardgamefamily>
+															<boardgamefamily objectid="7519">Animals: Spiders</boardgamefamily>
+															<boardgameartist objectid="34992">Mark Campo</boardgameartist>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameartist objectid="51797">Heather Cornelius</boardgameartist>
+															<boardgameversion objectid="210550">English acrylic edition</boardgameversion>
+															<boardgameversion objectid="167369">English first edition</boardgameversion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																						<boardgamedesigner objectid="11301">Stephen Tavener</boardgamedesigner>
+															<boardgameexpansion objectid="126697">Web of Flies Extra Players Expansion</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>6.96429</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.5637</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>14</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

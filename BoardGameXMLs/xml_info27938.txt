@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="27938">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Tattoo Turtles</name>
+							<name primary="true" sortindex="1">Tortuga</name>
+							<name  sortindex="1">Тортуга</name>
+									
+			<description>This 2-player game is played on an hexagonal grid. Each player controls 8 turtles on his side of the board. The winner is the one who will send one of his turtles to the opponent's side.&lt;br/&gt;&lt;br/&gt;Turtles can be moved one step forwards, or jump over other turtles. Jumping over an opponent's turtle neutralizes it, while jumping over a neutralized turtle activates it again - on either side.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Die Papalapagos-Spring-Käfer&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RKGNK3kZ-DrOrTnDtcg4YD6jLBs=/fit-in/200x150/pic581831.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mDsSeupGz-VMIYeKFygtwuJYoFQ=/0x0/pic581831.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7366">Animals: Turtles</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="6083">Vincent Everaert</boardgamedesigner>
+																																																		<boardgamepublisher objectid="155">Gigamic</boardgamepublisher>
+															<boardgameversion objectid="69038">Gigamic deluxe wood-tube edition</boardgameversion>
+															<boardgameversion objectid="61563">Gigamic Multilingual Edition</boardgameversion>
+															<boardgamefamily objectid="10072">Halma</boardgamefamily>
+															<boardgameversion objectid="39435">Multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="125562">nestorgames edition</boardgameversion>
+																													<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																													<boardgamepodcastepisode objectid="73773">The Spiel #6 - Monkey Pirates</boardgamepodcastepisode>
+															<boardgamefamily objectid="6363">Tube Games</boardgamefamily>
+															<boardgameimplementation objectid="20113" inbound="true">Die Papalapagos-Spring-Käfer</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>272</usersrated>
+					<average>6.23493</average>
+					<bayesaverage>5.64369</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4918" bayesaverage="5.64369" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="283" bayesaverage="5.91527" />
+												
+											</ranks>
+					
+					<stddev>1.25537</stddev>
+					<median>0</median>
+					<owned>375</owned>
+					<trading>14</trading>
+					<wanting>12</wanting>
+					<wishing>53</wishing>
+					<numcomments>75</numcomments>
+					<numweights>22</numweights>
+					<averageweight>1.7727</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

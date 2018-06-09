@@ -1,0 +1,152 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66695">
+			<yearpublished>2010</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Sumoku</name>
+									
+			<description>Sumoku is a crossword-style game with colored number tiles that can be played five different ways. In all Sumoku games, game play starts with the roll of a die to create a &amp;quot;key number&amp;quot; &amp;ndash; either 3, 4 or 5. The digits in all groups of tiles placed in rows and columns must sum to a multiple of this key number. A tile is one of six colors, and a color cannot be repeated in a connected set of tiles.&lt;br/&gt;&lt;br/&gt;In the main game, players draw eight tiles to start the game. On a turn, a player adds a single row or column of tiles to the playing area to create valid plays &amp;ndash; that is, the sum of the tiles played and all rows or columns added to during that turn sum to a multiple of the key number. The player scores the sum of the tiles played, and the sum of tiles in any row or column added to during that turn. If you finished a row or column of six tiles &amp;ndash; that is, one with all six colors &amp;ndash; you take another turn immediately before refilling your hand to eight tiles. The game ends when no one can play, and numbers in hand count against a player's score. High score wins.&lt;br/&gt;&lt;br/&gt;Other games include &amp;quot;Speed Sumoku&amp;quot; in which players each have ten tiles and try to create a crossword-style grid in which all sets of tiles sum to a multiple of the key number before anyone else. &amp;quot;Team Sumoku&amp;quot; plays similarly, but with each team creating one grid. &amp;quot;Spot Sumoku&amp;quot; has players trying to spot four tiles that sum to a multiple of the key number rolled from a public array of ten tiles. &amp;quot;Solo Sumoku&amp;quot; tasks a player with drawing 16 tiles and creating a legal grid from them, then drawing ten more tiles and adding them to the existing grid in a legal manner, then doing this with another ten tiles, and so on through all 96 tiles.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JBvOkOQ2ArvkMMy_cL4W15NwimQ=/fit-in/200x150/pic992644.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6f5Yuj14vfl-Z_8k4-0TwHcOh94=/0x0/pic992644.jpg</image>
+						
+												<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+																						<boardgamepublisher objectid="491">Blue Orange Games</boardgamepublisher>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamedesigner objectid="942">Thierry Denoual</boardgamedesigner>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="89672">English edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="98995">French edition</boardgameversion>
+																						<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																													<videogamebg objectid="180054">Sumoku</videogamebg>
+																						<boardgamecategory objectid="1097">Travel</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>105</usersrated>
+					<average>6.03171</average>
+					<bayesaverage>5.54604</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8654" bayesaverage="5.54604" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1386" bayesaverage="5.57045" />
+												
+											</ranks>
+					
+					<stddev>1.33737</stddev>
+					<median>0</median>
+					<owned>294</owned>
+					<trading>13</trading>
+					<wanting>3</wanting>
+					<wishing>20</wishing>
+					<numcomments>31</numcomments>
+					<numweights>12</numweights>
+					<averageweight>1.4167</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32712">
+			<yearpublished>2000</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Controverse</name>
+							<name primary="true" sortindex="1">Controversia</name>
+									
+			<description>A mix between Scrabble and Othello.  The game is about creating words in a grid of 10x10; the players has the same tiles with letters, but one will play with the red side and the other player with the black side of the letters.  The idea is to make words using letters with the colour of your opponent.  That letters will now change to your colour, as in Othello. The player with the most letters of his own colour wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bOEmmEfkLyUPULrgy-rIe54nClM=/fit-in/200x150/pic265698.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/doOBX4D4JhmH2oPJFoa-sVIvsEg=/0x0/pic265698.jpg</image>
+						
+												<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="119109">French edition</boardgameversion>
+																						<boardgamedesigner objectid="9606">Nathalie Poynard</boardgamedesigner>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="119110">Spanish edition</boardgameversion>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.67498</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="42336">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">Tic-Tac-Ku</name>
+							<name  sortindex="1">Tic-Tac-Toe 10</name>
+							<name primary="true" sortindex="1">Ultimate Tic-Tac-Toe</name>
+									
+			<description>Tic Tac Ku is played on a game board which is a 3 x 3 grid of Tic-Tac-Toe boards.  In the simple game, the object is to get a Tic-Tac-Toe on any of the 9 boards.  In the advanced game, the object is to get 5 Tic-Tac-Toes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P44Byhz5UtJKS1RkpEB_5Bxx6FU=/fit-in/200x150/pic611294.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OY7hZNzriMmNix3mde8CoRHO52I=/0x0/pic611294.jpg</image>
+						
+												<boardgamehonor objectid="12301">2009 Mensa Select Winner</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="32655">Mark Asperheim</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="27855">Daft Concepts</boardgamepublisher>
+															<boardgameversion objectid="248109">Daft Concepts Kickstarter edition</boardgameversion>
+															<boardgamepublisher objectid="27806">LiveLoveLearn</boardgamepublisher>
+															<boardgameversion objectid="247466">LiveLoveLearn edition</boardgameversion>
+															<boardgamepublisher objectid="9436">Mad Cave Bird Games</boardgamepublisher>
+															<boardgameversion objectid="36894">Mad Cave Bird Games edition</boardgameversion>
+															<boardgamefamily objectid="6485">Mensa Select</boardgamefamily>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																																				<boardgamedesigner objectid="32656">Cris Van Oosterum</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>44</usersrated>
+					<average>6.15227</average>
+					<bayesaverage>5.51923</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10925" bayesaverage="5.51923" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="595" bayesaverage="5.59057" />
+												
+											</ranks>
+					
+					<stddev>1.71603</stddev>
+					<median>0</median>
+					<owned>49</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>12</wishing>
+					<numcomments>21</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

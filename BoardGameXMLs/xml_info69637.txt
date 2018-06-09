@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="69637">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Hermit</name>
+									
+			<description>In this Decktet trick-taking game, you're a hermit who tries to avoid having people follow you home. So are all of your opponents.&lt;br/&gt;&lt;br/&gt;The daily life of the hermits is represented by tricks of cards, and there will typically be more than one trick in play at a time. The goal is to avoid taking tricks with personality cards in them. Tricks that don't have personalities in them don't matter one way or the other.&lt;br/&gt;&lt;br/&gt;The above description is from the Decktet Book, where the game first appeared.&lt;br/&gt;&lt;br/&gt;Hermit is a game akin to Hearts where players are attempting to avoid taking cards that are worth points. Rather than a single suit being avoided, Hermit requires that you do not win tricks which contain &amp;quot;personality&amp;quot; cards, one of the three sub-types of cards in the Decktet, which represent a person following you home and thus ruining your perfect life of solitude.&lt;br/&gt;&lt;br/&gt;Regardless of the number of players, tricks are played open to the table. On a player's turn they must add a card from their hand to a trick with the requirement that the card being played shares at least one suit with the last played card on that trick. If they cannot meet that requirement they must use a card to start a new trick. If the card they play is the highest rank in the trick the entire trick moves in front of them. Thus any new tricks always start in front of the player opening them.&lt;br/&gt;&lt;br/&gt;When a fourth card is added to a trick it is &amp;quot;closed&amp;quot; and the cards are captured by whomever the trick is in front of. If on a player's turn there are no available tricks, including the first turn of the game, each player simultaneously starts a new trick and that player then takes their turn, in effect allowing them to play two cards in a row. When the last player places their last card any unclosed tricks are discarded and each personality card taken counts its rank for scoring with Crowns being rank 10.&lt;br/&gt;&lt;br/&gt;When one player reaches a predetermined score, typically 66 or 100, or a certain number of deals are completed the game is over and the player with the fewest points is the loneliest and thus the winner.&lt;br/&gt;&lt;br/&gt;Special rules exist regarding Aces and Crowns as well as a Shoot the Moons/Suns variant, a &amp;quot;House Party&amp;quot; variant, and rules for 2-player Hermit games which incorporates a &amp;quot;Cottage&amp;quot; and laying off throughout the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-jbIUGmQaiHVdDlRclo1QTVaP3o=/fit-in/200x150/pic2357788.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/B-SHuiV7A4dcYUxJvGZ6zYua-BM=/0x0/pic2357788.png</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="30351">Decktet Book</boardgameversion>
+															<boardgamefamily objectid="64">Decktet Games</boardgamefamily>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="3572">P. D. Magnus</boardgamedesigner>
+															<boardgameartist objectid="3572">P. D. Magnus</boardgameartist>
+																						<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>6.41667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.36677</stddev>
+					<median>0</median>
+					<owned>12</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>10</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

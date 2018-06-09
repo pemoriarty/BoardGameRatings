@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="70824" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">3D Imager</name>
+									
+			<description>The 3-D imager spins a disk which is half black and half colored bands that radiate from the center (usually red, green and blue) between the viewer's eyes and the Vectrex screen. The Vectrex is synchronized to the rotation of the disk (or vice versa) and draws vectors corresponding to a particular color and/or a particular eye. Therefore only one eye will see the vectrex screen and its associated images (or color) at any one time while the other will see nothing.&lt;br/&gt;&lt;br/&gt;A single object that does not lie on the plane of the monitor (i.e., in front of or into the monitor) is drawn at least twice to provide information for each eye. The distance between the duplicate images and whether the right eye image or the left eye image is drawn first will determine where the object will appear to &amp;quot;be&amp;quot; in 3-D space. The 3-D illusion is also enhanced by adjusting the brightness of the object (dimming objects in the background). Spinning the disk at a high enough speed will fool the viewer's eyes/brain into thinking that the multiple images it is seeing are two different views of the same object. This creates the impression of 3-D and color.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Vectrex&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwversion objectid="196335">3D Imager</videogamehwversion>
+															<videogamehardwarecategory objectid="2326">Add-On</videogamehardwarecategory>
+															<videogamehwmfg objectid="20">Milton Bradley</videogamehwmfg>
+															<videogamehardware objectid="5245" inbound="true">Vectrex</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="30382">
+			<yearpublished>1983</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Rubik&#039;s Brain Game</name>
+							<name  sortindex="1">Rubik&#039;s Code</name>
+									
+			<description>Rubik's Brain Game is more or less a 2-dimensional Mastermind. As in that game, players take turns setting up a pattern which the other player must deduce, with the player making the deduction in the fewest moves winning the game.&lt;br/&gt;&lt;br/&gt;In this game, a pattern is a 3x3 grid with each square being one of 6 colors, looking much like the side of a scrambled Rubik's Cube (the pattern is formed with 9 small cubes). On each turn, the guesser can either ask the setter if a given set of three colors are in a given row or column, or can ask if a given space is a specific color. In the former case the colors present and the colors not present are placed in different sections of the board for tracking purposes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VN4lL5J-QCjjG4szS1uKi3CNcQY=/fit-in/200x150/pic243794.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5_DRdZgWBXuPRY_UK1CbtjZ6x3E=/0x0/pic243794.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="138650">First edition</boardgameversion>
+																													<boardgamepublisher objectid="153">Ideal</boardgamepublisher>
+															<boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+															<boardgamefamily objectid="142">Mastermind</boardgamefamily>
+															<boardgamefamily objectid="11192">Rubik&#039;s Cube</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>4.85714</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.45686</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>2</trading>
+					<wanting>4</wanting>
+					<wishing>6</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

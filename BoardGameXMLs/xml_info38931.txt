@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38931">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Basilica</name>
+									
+			<description>Basilica, a game for 2 players, presents the duel of two medieval master masons who are ordered to build a medieval cathedral together. Players are planning cathedral layout and overseeing work at the construction site in tandem, in the same time trying to gain advantage over the opposite player.&lt;br/&gt;&lt;br/&gt;The temple is built by laying square tiles adjacent to the board or already built tiles. Tiles form the plan of the cathedral. These tiles, distinguished by four colors, represent different elements of the cathedral. The pool of tiles available to players is random. Later, the players place pawns on the tiles &amp;ndash; these pawns are the teams of builders: foremen, masons and carpenters, who will make the design a reality.&lt;br/&gt;&lt;br/&gt;The players strive to achieve two goals: to lay their cathedral tiles so as to create the largest possible areas representing a single color, and to have more pawns in these areas than their opponent.&lt;br/&gt;&lt;br/&gt;Every tile bears also one special action that could be played instead of adding a tile to the cathedral. Using these actions player may move pawns from tile to tile, promote them (increasing their value) or manipulate the tiles. Execution of specific order excludes the tile from being used as part of cathedral, so choice between expanding the edifice and making some action is strategic. Planning and optimal use of available resources is important, as both participants share the same selection of tiles. Thus, tiles and actions shown on them not used by the player in her or his turn become immediately available to his opponent.&lt;br/&gt;&lt;br/&gt;Some tiles trigger movement of a special King pawn, which moves along the scoring track. Every few moves, the King pawn comes to a space indicating a royal visit to the cathedral. During each royal visit, the progress of work is assessed and Victory Points are assigned to the players. The number of VPs each player is awarded depends on the size and number of the areas controlled by their pawns at the moment of scoring. The more areas the player controls, and the bigger these are, the greater the reward for the player. At the end of the game, the winner is the player who has claimed more Victory Points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WNxXGI9y_GISzzXqX_lBXh2YD_Y=/fit-in/200x150/pic818931.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/A7rWQdrEy5DKUzct3cDa_0Rag6o=/0x0/pic818931.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																													<boardgameexpansion objectid="123309">Basilica: Festum Fatuorum</boardgameexpansion>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+																																																		<boardgameversion objectid="81354">First edition</boardgameversion>
+															<boardgameartist objectid="18700">Mariusz Gandzel</boardgameartist>
+																													<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="11284">Łukasz M. Pogoda</boardgamedesigner>
+															<boardgameartist objectid="11284">Łukasz M. Pogoda</boardgameartist>
+																																																																														<boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+															<boardgamecategory objectid="1115">Religious</boardgamecategory>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="13" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>546</usersrated>
+					<average>6.6061</average>
+					<bayesaverage>5.85222</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2797" bayesaverage="5.85222" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1114" bayesaverage="5.94237" />
+												
+											</ranks>
+					
+					<stddev>1.22152</stddev>
+					<median>0</median>
+					<owned>655</owned>
+					<trading>40</trading>
+					<wanting>30</wanting>
+					<wishing>171</wishing>
+					<numcomments>172</numcomments>
+					<numweights>52</numweights>
+					<averageweight>2.3077</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

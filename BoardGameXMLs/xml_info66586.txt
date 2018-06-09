@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66586">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>18</age>
+
+							<name primary="true" sortindex="1">Batalj</name>
+							<name  sortindex="1">Taistelu</name>
+									
+			<description>Batalj. This Swedish Alga game is essentially a newer version of the old Alga game Attack, which probably is related to L'Attaque. Therefore Batalj could be considered a &amp;quot;cousin&amp;quot; of Stratego. Designed by Count Sigvard Bernadotte, an uncle of H M King Carl XVI Gustaf of Sweden, and illustrated by Lars-Olof Jerhammar.&lt;br/&gt;&lt;br/&gt;In the game you try to defeat your opponents army with your own. You only see the back of your opponents pieces so you don't know what piece is where. You try to use your stronger pieces to defeat your opponents weaker ones while protecting your weak ones. .&lt;br/&gt;&lt;br/&gt;Differences between Stratego and Batalj:&lt;br/&gt;&lt;br/&gt;-Batalj has 48 (2*24) pieces on a 64 square grid (8*8). Only the first 3 rows are filled in the initial setup.&lt;br/&gt;-Instead of 'Bombs' Batalj has 'Cannon'. Cannons can only be defeated by the value 3 piece (Corporal).&lt;br/&gt;-There are no 'Scouts' and the unit mix in general is slightly different.&lt;br/&gt;-There are no 'lakes' nor any other obstructions on the board. &lt;br/&gt;-Striking is mandatory and happens immediately when a player moves a piece to a square directly in front (but not on the sides or back) of an opposing piece. A victorious striking piece does not occupy the opponent's space.&lt;br/&gt;-There are no 'Flags'; winner is the first player to either eliminate or block all opposing pieces. In case of an impasse, the value of remaining pieces on both sides is counted and the higher total wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Kgjr-kVLK68_Wyf5mJFBd_pcXKM=/fit-in/200x150/pic660741.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rph-USDhefpFRUDfxR8cQV3RNTE=/0x0/pic660741.jpg</image>
+						
+												<boardgamepublisher objectid="404">Alga</boardgamepublisher>
+															<boardgameversion objectid="158697">Alga First Edition</boardgameversion>
+															<boardgamedesigner objectid="34535">Sigvard Bernadotte</boardgamedesigner>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgameversion objectid="158698">Fenno-Alga Finnish Edition</boardgameversion>
+															<boardgameartist objectid="34579">Lars-Olof Jerhammar</boardgameartist>
+															<boardgamepublisher objectid="2120">Oy Fenno-Alga Ab</boardgamepublisher>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameimplementation objectid="247944" inbound="true">Attack</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>4.42857</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.59079</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="61458">
+			<yearpublished>2009</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Inotaizu</name>
+							<name primary="true" sortindex="1">Kaigan</name>
+							<name  sortindex="1">伊能大図</name>
+									
+			<description>In 1800, at 55 years of age, Tadataka Ino started his journey to make the first scale map of Japan's coast (Kaigan) using modern surveying techniques.  His project lasted 21 years and resulted in a 1:36000 scale map that remained the definitive map of Japan for over a century.  Ino's work brought renown not only to himself, but to Japan as well.&lt;br/&gt;&lt;br/&gt;In Kaigan, the players, overseeing teams of surveyors, compete against each other to map the coast of Japan.  During the game, the players will generate income by improving their artistic skills and developing relationships with local governments.  Using this money, the players will dispatch their surveyors around the island of Japan in an effort to map its different regions.  After 5 rounds, representing the 21 years it took to complete Tadataka Ino's map, the player who has traveled the farthest and contributed the most to mapping Japan will gain the most honor and will win the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2hJeOD1SzFKhcvndPrBeH5supYs=/fit-in/200x150/pic805573.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3Swt3dP6-x68u9Wk1tSWabq4xI0=/0x0/pic805573.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="71619">Ascora edition</boardgameversion>
+															<boardgamepublisher objectid="14378">Ascora Games</boardgamepublisher>
+															<boardgamefamily objectid="9470">Asian Theme</boardgamefamily>
+															<boardgamefamily objectid="10634">Country: Japan</boardgamefamily>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepodcastepisode objectid="127197">Heavy Cardboard Episode 6 – Master of Economy</boardgamepodcastepisode>
+																													<boardgameartist objectid="67592">Alexandra Lake</boardgameartist>
+																						<boardgameartist objectid="40734">Peke</boardgameartist>
+															<boardgameartist objectid="67591">Wayne Porter</boardgameartist>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="10782">Takamagahara</boardgamepublisher>
+															<boardgameversion objectid="64081">Takamagahara edition</boardgameversion>
+															<boardgamedesigner objectid="28161">Kenichi Tanabe</boardgamedesigner>
+																						<boardgamecategory objectid="1097">Travel</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>426</usersrated>
+					<average>6.99235</average>
+					<bayesaverage>5.92325</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2416" bayesaverage="5.92325" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="998" bayesaverage="6.05743" />
+												
+											</ranks>
+					
+					<stddev>1.16032</stddev>
+					<median>0</median>
+					<owned>422</owned>
+					<trading>18</trading>
+					<wanting>69</wanting>
+					<wishing>190</wishing>
+					<numcomments>149</numcomments>
+					<numweights>48</numweights>
+					<averageweight>2.9375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

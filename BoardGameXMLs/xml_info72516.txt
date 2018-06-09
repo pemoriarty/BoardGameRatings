@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="72516" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Twin Famicom</name>
+							<name  sortindex="1">ツインファミコン</name>
+									
+			<description>User summary, details from Wikipedia&lt;br/&gt;&lt;br/&gt;The Twin Famicom, also called the Sharp Twin Famicom, is a game console licensed by Nintendo and built by Sharp combining the Family Computer and Family Computer Disk System into one product.&lt;br/&gt;&lt;br/&gt;The console will not allow both systems to be run simultaneously. The user must toggle a switch to choose between the Famicom and the Disk System. Like the Family Computer, the controllers are wired to the system and cannot be removed without taking the console apart. The Disk System inside the Twin Famicom is identical to that in the original Disk System and suffers from the same hardware problems, primarily rotting disk belts.&lt;br/&gt;&lt;br/&gt;There are several variations, ranging from minimal changes (color differences), to significant improvements (longer cords and turbo buttons for the controllers).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwmfg objectid="12689">Sharp</videogamehwmfg>
+															<videogamehwversion objectid="196315">Twin Famicom</videogamehwversion>
+															<videogamehardware objectid="4430" inbound="true">NES</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

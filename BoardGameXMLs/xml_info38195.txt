@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38195">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Herr der Ziegen</name>
+									
+			<description>Players move around a 7x7 grid of many sets of goat cards, milk can cards, and herding dog cards, picking up one card each turn from the row their goat token lands next to.&lt;br/&gt;&lt;br/&gt;Cards are spent from a hand of two cards, first as movement points to keep moving around the grid on a subsequent turn, and second as melds to try to collect 8 points from a set of five goat cards numbered 1-5.&lt;br/&gt;&lt;br/&gt;Once 8 points is achieved, the remaining cards in that set of five cards are marked on the grid as belonging to that player, and those are the main victory points in the game.  (There is a secondary way to score by collecting milk cans.)  Players try to get the 8 points in several different sets as the game progresses.&lt;br/&gt;&lt;br/&gt;Once a player has some goats on the grid, the herding dog cards become useful.  They are played to move his cards on the grid into a player's home scoring area -- the original &amp;quot;pen of goats&amp;quot; square he starts the game with, or any square contiguous to this gradually expanding area -- where the points are doubled.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2P37_NQP1hQRxHKUgE9VW8RS6pQ=/fit-in/200x150/pic366219.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Zrp2irG1TDePBvHipvneBZ1RkmU=/0x0/pic366219.jpg</image>
+						
+												<boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7349">Animals: Dogs</boardgamefamily>
+															<boardgamefamily objectid="7759">Animals: Goats</boardgamefamily>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamedesigner objectid="173">Günter Burkhardt</boardgamedesigner>
+																													<boardgameversion objectid="33933">First edition</boardgameversion>
+																																																																																												<boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameimplementation objectid="2533" inbound="true">Kupferkessel Co.</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>179</usersrated>
+					<average>6.0838</average>
+					<bayesaverage>5.58419</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6559" bayesaverage="5.58419" />
+												
+											</ranks>
+					
+					<stddev>1.07957</stddev>
+					<median>0</median>
+					<owned>239</owned>
+					<trading>9</trading>
+					<wanting>8</wanting>
+					<wishing>30</wishing>
+					<numcomments>54</numcomments>
+					<numweights>24</numweights>
+					<averageweight>1.9583</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

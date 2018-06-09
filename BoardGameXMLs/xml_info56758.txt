@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="56758">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>50</playingtime>
+			<minplaytime>50</minplaytime>
+			<maxplaytime>50</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Basket Boss</name>
+							<name primary="true" sortindex="1">BasketBoss</name>
+									
+			<description>Each player of this game is the manager of a basketball team.&lt;br/&gt;&lt;br/&gt;Draft good new basketball players. With each of these players you see what is his expected value in next 6 seasons. And you see his best field position, his height, and how popular he is which is good for your team funds.&lt;br/&gt;&lt;br/&gt;Get assistance from a trainer, player agent, banker or even the referee to win the trophies.&lt;br/&gt;The TRAINER can bring your players on the level they would normally reach next season.&lt;br/&gt;The PLAYER AGENT helps you for getting good prices at the transfer market.&lt;br/&gt;The BANKER gives you a good interest.&lt;br/&gt;The help of the REFEREE makes your team 'stronger'.&lt;br/&gt;&lt;br/&gt;Try to win the most valuable trophies during your manager period. That, and good perspectives for the current season, is all your team fans want!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7AEq_e4KhJMbNRC9Xlfvgpetzg4=/fit-in/200x150/pic561501.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gBpC9MlnE69qNlDcgP4ZFFWvD8I=/0x0/pic561501.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameissuearticle objectid="26562">BasketBoss</boardgameissuearticle>
+															<boardgamepublisher objectid="77">Cwali</boardgamepublisher>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="27913">First edition</boardgameversion>
+																																																																<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5574">Sports: Basketball</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameartist objectid="11797">Christof Tisch</boardgameartist>
+																						<boardgamedesigner objectid="124">Corné van Moorsel</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>528</usersrated>
+					<average>6.47132</average>
+					<bayesaverage>5.82229</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2989" bayesaverage="5.82229" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1147" bayesaverage="5.90764" />
+												
+											</ranks>
+					
+					<stddev>1.247</stddev>
+					<median>0</median>
+					<owned>576</owned>
+					<trading>36</trading>
+					<wanting>45</wanting>
+					<wishing>93</wishing>
+					<numcomments>202</numcomments>
+					<numweights>76</numweights>
+					<averageweight>2.1316</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39276">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Casino Hot Dog</name>
+									
+			<description>From Haba website:&lt;br/&gt;&lt;br/&gt;It&amp;rsquo;s betting time in the &amp;ldquo;Hot Dog&amp;rdquo; casino until hackles are raised! Who has lucky paws for pulling chips out of the bag and will muzzle ahead at the end of a round?&lt;br/&gt;&lt;br/&gt;A risky betting game for 2-4 players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/KrjZ23iGuiZCEnTY7HhjyzmxxFU=/fit-in/200x150/pic674432.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uo1ZD9GPLlQdewYhaO-ai1eKvrE=/0x0/pic674432.jpg</image>
+						
+												<boardgamefamily objectid="7349">Animals: Dogs</boardgamefamily>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgamedesigner objectid="3990">Wolfgang Dirscherl</boardgamedesigner>
+															<boardgameartist objectid="28260">Daniel Döbner</boardgameartist>
+																						<boardgameversion objectid="279744">First edition</boardgameversion>
+																						<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>42</usersrated>
+					<average>5.08571</average>
+					<bayesaverage>5.48444</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13630" bayesaverage="5.48444" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="434" bayesaverage="5.37546" />
+												
+											</ranks>
+					
+					<stddev>1.52559</stddev>
+					<median>0</median>
+					<owned>39</owned>
+					<trading>2</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>16</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="35160">
+			<yearpublished>1977</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Taktik</name>
+							<name primary="true" sortindex="1">Tankattack</name>
+									
+			<description>This game advertises itself as &amp;quot;the first computer based Tank game in the world&amp;quot;. It is a board game 'controlled' by an electronic handset which serves as a randomizer for combat actions. According to the instructions, the computer &amp;quot;has counters, gates, oscillator clock, programming, read out and execute functions. The 'brain' is made of three miniature TTL logic chips containing over 300 transistors, diodes, and many other components giving a vast computing capacity with a wide range of probabilities for conflict purposes.&amp;quot;&lt;br/&gt;&lt;br/&gt;In essence, this is a straightforward  hex-map based battle game for up to four players playing individually or as teams. It contains plastic miniatures and a rectangular game board with pre-marked battlefield features. There are no battle cards or other modifiers apart from the handset. The game depends entirely upon the handset to determine the amount of movement and the result of any attack. The handset therefore replaces dice, but serves much the same function. However, players have the freedom to select position, and direction of movement, and the miniatures are marked with values that determine their firing power, and this has a bearing on the result of combat actions (see below).&lt;br/&gt;&lt;br/&gt;Each team deploys a regiment of 8 of tanks (slow moving, high fire power) and 4 armoured cars (fast moving, low fire power) in a pre-mapped fictive country on the game board (Kazaldis, Armania, Sarapan and Calderon) separated by marked national borders (which are red) and terrain features such as a river (with bridges), forests, mountains, and buildings. Each country also has a major city marked by a blue border. Inside the blue border several buildings are marked, into which tanks cannot move, meaning they must navigate the city to get to the enemy HQ or get out of their service/repair area and back into combat.&lt;br/&gt;&lt;br/&gt;The objective is simple: to win by occupying the opponent or opponents' headquarters by moving a tank (or armoured car) into the HQ space (pre-marked on the board), or by destroying all enemy tanks.&lt;br/&gt;&lt;br/&gt;Though the mechanic is therefore a fairly standard hex and counter skirmish, the computer in the handset ultimately drives the game.&lt;br/&gt;&lt;br/&gt;The handset consists of six small red bulbs, two buttons and three switches. The lights appear over six icons indicating conditions of movement (the computer determines 'movement points' which may be spent according to terrain features - for example moving through a city costs one movement point per movement but armoured cars moving in open country may move two spaces per movement point), result of firing, repair status and range of attack.&lt;br/&gt;&lt;br/&gt;The bulbs have three states - on, off, and flashing, each of which has a different meaning (see below). Of the three switches, one is a power switch. The other two switches determine the conditions of the 'roll' on any given player's turn. One indicates whether the player has opted to attack or retreat (the selection becomes a variable in the computer's calculation of the result), the other on whether the tank is moving or being repaired (tanks under repair cannot move or fire, but if the handset indicates that the service has been successful, the tank can move and fire in that turn).&lt;br/&gt;&lt;br/&gt;The handset also has two buttons: one red, one black. The black button is pressed for between 2 and 5 seconds to command the computer to run a computation cycle that will determine movement and repair status (depending on the switches). It will also secretly determine a firing result that will be shown if and when the player presses the 'fire' button (firing is optional).&lt;br/&gt;&lt;br/&gt;The red button is for firing. When a player wishes to fire, they press this button and the computer indicates the result of the firing action. If the bulb is fully lit, the result is a hit and the tank with the lower fire power is destroyed. In the case of equal firepower, the attacking tank is considered to have the advantage and destroys the defender. If the bulb flashes, the tank with the lower fire power is damaged and must be placed on a service space for repair. If the bulb stays dark, the attack has failed. According to the instructions &amp;quot;When the computer is programmed for Assault the 'firing result' probability is expressed as a 50% chance of a Hit, 25% chance of Damage and 25% chance of a Miss, while the chance of a 'Service Ready' is 25%. When the computer is programmed for Retreat the 'firing result' probability is expressed as a 25% chance of a Hit, 25% chance of Damage and 50% chance of a Miss, while the chance of 'service ready' is 25%.&amp;quot;&lt;br/&gt;&lt;br/&gt;Firing is further complicated by the game board and player actions though. A tank in open country can only fire at an enemy tank in a directly adjacent hex in front of or behind it, and it must turn to face in the direction it wishes to fire. Within city boundaries a tank may fire at an enemy in any hex in contact with the one it occupies, though it must again turn to face the target. Ranged firing (two spaces) is possible in open country, but is again a random result from the handset. A tank which is allowed a ranged attack by the handset may fire across lakes and rivers, but not mountains.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0J2CPxlMtxQ49-uyEW15Cgl9gj8=/fit-in/200x150/pic425164.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oigVHkMbum-4PXISxoD_esNZ9Dk=/0x0/pic425164.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamepublisher objectid="404">Alga</boardgamepublisher>
+															<boardgamedesigner objectid="10293">Åke Andersson</boardgamedesigner>
+															<boardgamedesigner objectid="33736">Henrik Andersson</boardgamedesigner>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="10092">CDS Games</boardgamepublisher>
+															<boardgameversion objectid="147503">CDS Games High Tech  Edition</boardgameversion>
+															<boardgamecategory objectid="1072">Electronic</boardgamecategory>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="8140">Interactive Computer Operated Games Ltd.</boardgamepublisher>
+															<boardgamepublisher objectid="3581">IQ Games (Boardgames)</boardgamepublisher>
+															<boardgameversion objectid="155026">IQ Games edition</boardgameversion>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamepublisher objectid="2168">Nathan</boardgamepublisher>
+															<boardgameversion objectid="147501">Nathan French Edition</boardgameversion>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameversion objectid="147502">Swedish edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.93649</stddev>
+					<median>0</median>
+					<owned>33</owned>
+					<trading>3</trading>
+					<wanting>3</wanting>
+					<wishing>6</wishing>
+					<numcomments>8</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

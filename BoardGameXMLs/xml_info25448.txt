@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="25448">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Khan Tsin</name>
+									
+			<description>Khan Tsin is a two player game.  The board is a dragon without a head or tail.  Markers representing barons are placed along the dragon. Each turn the active player moves one of the four closest barons onto another baron. A stack of barons may contain at most three of one color the three colors of barons.  The player to complete a stack with three barons of each of the three colors is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vaLiadd94hpgo5Fn2uWrrXGd8a4=/fit-in/200x150/pic146436.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/V27bonHja3fH0KJPAKMzWNgxiDY=/0x0/pic146436.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="5022">Blue Orange (EU)</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="166311">French edition</boardgameversion>
+																						<boardgamedesigner objectid="3187">Claude Leroy</boardgamedesigner>
+															<boardgameversion objectid="206795">Multilingual edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>6.56613</average>
+					<bayesaverage>5.52629</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10293" bayesaverage="5.52629" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="491" bayesaverage="5.67592" />
+												
+											</ranks>
+					
+					<stddev>1.29474</stddev>
+					<median>0</median>
+					<owned>65</owned>
+					<trading>0</trading>
+					<wanting>7</wanting>
+					<wishing>21</wishing>
+					<numcomments>13</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

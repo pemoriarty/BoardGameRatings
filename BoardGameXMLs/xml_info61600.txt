@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="61600">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Avverso</name>
+							<name  sortindex="1">Perifero</name>
+									
+			<description>Avverso is a minimalist abstract-connection game with a game board comprising only 25 hexagons. (For comparison, Nobel laureate John Nash claimed 14x14 to be the optimal size for a Hex board.)&lt;br/&gt;&lt;br/&gt;In Avverso, each player is trying to connect opposite sides of the game board with a chain of stones in their color &amp;ndash; but when you add stones to the board, you add stones of the opponent's color, not your own! On a turn, you slide one of the opponent's stones into one of the outer hexagons of the board. If necessary, you push one or more stones already on the board to make room for the new one. By pushing stones into new positions, you can drastically change the situation on the board, hopefully to your advantage.&lt;br/&gt;&lt;br/&gt;The board is non-symmetric, and the shape balances the disadvantage of starting, making Avverso a well-balanced game in addition to being quick and dramatic and requiring deep thought.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jNtWBU9WO_cCAS6JszGtPW-ASoo=/fit-in/200x150/pic1255358.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-7XZaWL6TKX7pcmsJmYPLAcbfgs=/0x0/pic1255358.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameartist objectid="59061">Ludwig Clemens</boardgameartist>
+															<boardgamepublisher objectid="2407">Clemens Gerhards</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+																						<boardgameversion objectid="67178">English/German first edition</boardgameversion>
+															<boardgameversion objectid="158006">English/German second edition</boardgameversion>
+																													<boardgamedesigner objectid="9007">Henrik Morast</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+															<boardgameversion objectid="47654">Print-and-play edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>6.95833</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.875</stddev>
+					<median>0</median>
+					<owned>38</owned>
+					<trading>2</trading>
+					<wanting>11</wanting>
+					<wishing>22</wishing>
+					<numcomments>11</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,85 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32608">
+			<yearpublished>1981</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Atoms</name>
+									
+			<description>Split molecules into smaller atoms &amp;amp; stalemate your opponent in this 2-player abstract game.&lt;br/&gt;&lt;br/&gt;Equipment:&lt;br/&gt;&lt;br/&gt;* 8x8 square board&lt;br/&gt;    * 11 stones per player&lt;br/&gt;&lt;br/&gt;On the first turn White drops an atom on any cell; then players alternate placing atoms on any empty cell which is adjacent to exactly one other atom (of either color). After all atoms are placed they form one large molecule, which may split into several smaller molecules during the game.&lt;br/&gt;&lt;br/&gt;Each atom has a valence, which is the number of atoms (of either color) adjacent to it (include diagonal). Players must now move one of their atoms to any adjacent empty cell provided that its valence in the new position is exactly the same as its valence in the old position.&lt;br/&gt;&lt;br/&gt;Any atom which is not adjacent to an enemy atom is unstable. Immediately after each move, the players remove all unstable atoms from the board. This also occurs after Black makes his last drop.&lt;br/&gt;&lt;br/&gt;A player wins by stalemating his opponent, (leaving him with no legal moves). A player also wins by leaving an empty board (after the removal operation); in fact this is a special case of stalemate since his opponent would have no moves at all.&lt;br/&gt;&lt;br/&gt;R. Kraus defined two variants: Isotopes, where each atom can move any number of cells (instead of just being able to move to the adjacent cell); and Radioactive Atoms, where a stone may also commit suicide (if able to move to an isolated cell)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/07_GmDq_FiBk3J7cav6WQZMddW0=/fit-in/200x150/pic563019.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HnN-rtEoamPYkohBhvuCJVnW9ko=/0x0/pic563019.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="194863">First edition</boardgameversion>
+																						<boardgamedesigner objectid="92491">Robert A. Kraus (II)</boardgamedesigner>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>4.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

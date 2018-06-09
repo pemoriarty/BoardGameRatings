@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="37362">
+			<yearpublished>2008</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Robot Master</name>
+									
+			<description>A game of strategical placement as players have a deck of 36 robots with six cards each of values 0 to 5, and they want to maximize the value of their rows or columns of robots on a 5x5 grid.&lt;br/&gt;&lt;br/&gt;The value of a row is the sum of the robots in it, except that a pair of identical robots in a row is worth ten times the face value of a single robot (two 3s gives you 30 points, but of course two 0s is still worthless); place three robots of the same type in a row, however, and they're worth 100 points no matter which type they are. The goal isn't to max out your score, but rather to beat your opponent as whoever has the lowest-valued row or column at game's end loses. Since 11 of the cards don't come into play, you have to play the odds on which robots will shuffle your way.&lt;br/&gt;&lt;br/&gt;A reworking of Dragon Master. Main differences: in Dragon Master you had only 5 cards in hand; you had only 30 cards so just 5 were out of the game and instead of the ten times/100 points score rows were simply evaluated based on the number of similar cards in them. Robot Master also provides rules for 1 and 4 players.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Jijbent.nl (turn-based, Dutch)&lt;br/&gt;     YourTurnMyTurn.com (English - turn based)&lt;br/&gt;     Mindgames.com (solitaire version)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ykXihkiCL0g0PL_DY1cmcO5AVG0=/fit-in/200x150/pic530242.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6iEmzMQTxEGVYboC2V8Kklttkpw=/0x0/pic530242.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamepodcastepisode objectid="15212">BGB Volume 80 - Eurogames for the iPhone and iPad</boardgamepodcastepisode>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameartist objectid="41386">Patrick Cerf</boardgameartist>
+															<boardgamepublisher objectid="2691">Cocktail Games</boardgamepublisher>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="151892">French edition</boardgameversion>
+																																																		<boardgameversion objectid="31357">German tin version</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="9382">Hutter Trade GmbH + Co KG</boardgamepublisher>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<videogamebg objectid="78167">Robot Master</videogamebg>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																						<boardgameimplementation objectid="11396" inbound="true">Dragon Master</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>226</usersrated>
+					<average>6.35135</average>
+					<bayesaverage>5.64129</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4974" bayesaverage="5.64129" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="261" bayesaverage="5.95419" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1109" bayesaverage="5.70245" />
+												
+											</ranks>
+					
+					<stddev>1.14567</stddev>
+					<median>0</median>
+					<owned>322</owned>
+					<trading>13</trading>
+					<wanting>11</wanting>
+					<wishing>41</wishing>
+					<numcomments>71</numcomments>
+					<numweights>24</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

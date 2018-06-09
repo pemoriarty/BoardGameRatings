@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34462">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>1</playingtime>
+			<minplaytime>1</minplaytime>
+			<maxplaytime>1</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Matchstick Game</name>
+									
+			<description>This is a very simple game which can be played on a sheet of paper or with real matchstick. You draw (or lay) a random number of matchsticks (behind each other) on the sheet. Now one of the two players starts by taking one up to three (which can be choosen) matchsticks away. The other player does this as well and so on. The player who takes away the last matchstick loses the game.&lt;br/&gt;&lt;br/&gt;Winning strategy: The person who starts will be able to win the game, when the amount of the beginning isn't x * 4 + 1 (where x may be every natural number). When this is the fact and the person who plays second is smart, he'll win (read what to do). But what to do when you (person who starts) can build a winning strategy?&lt;br/&gt;&lt;br/&gt;Take away a specific amount of matchsticks (1 up to 3 of course), so the amount of matchstick still on the sheet is x * 4 + 1 (where x may be every natural number). Now make sure that in two steps (so one turn of you and one of your opponent) four matchsticks are taken away. Which means that when your opponent takes away 1, you take 3, when your opponent takes away 2 you take 2 as well and when your opponent takes away 3 you take 1. Now your opponent will always lose the game.&lt;br/&gt;&lt;br/&gt;To try this strategy out you can play the game online: &lt;a target='_blank' href=&quot;http://www.schoolbits.nl/extern-spel-13b.html&quot; rel=&quot;nofollow&quot;&gt;http://www.schoolbits.nl/extern-spel-13b.html&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;The computer starts, but doesn't directly take the winning strategy. When you make a mistake on your first turn, the computer will take the winning strategy after this turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

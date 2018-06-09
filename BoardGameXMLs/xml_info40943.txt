@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="40943">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">bOOLeO</name>
+									
+			<description>bOOleO is a card game which combines strategy card play with the concepts of Boolean logic.  Players must race to resolve an initial binary number to a single specific bit.  This is accomplished through the use of logical gates.&lt;br/&gt;&lt;br/&gt;Why is bOOleO fun?&lt;br/&gt;bOOleO stretches your brain by using the fundamental concepts of Boolean algebra, specifically teaching you the concepts of Boolean operators/logic gates.  Using the four different types of gate: AND, OR, XOR, and NOT; you strategically build your logic pyramid, carefully watching the movements of your opponent, anticipating how your next move could destroy their pyramid.  The pace can be lightning fast, the tension can blow your mind.&lt;br/&gt;&lt;br/&gt;Integrates with:&lt;br/&gt;&lt;br/&gt;    bOOLeO N-Edition&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0wV1FfxkP4mNC9RxWixjo3UMI3o=/fit-in/200x150/pic445914.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0JxUjlBsBN00iFt-Aoq_pBEOqjk=/0x0/pic445914.jpg</image>
+						
+												<boardgamedesigner objectid="11838">Jonathan Brandt</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="11840">Sean P. Dennis</boardgamedesigner>
+															<boardgameversion objectid="207554">First edition</boardgameversion>
+															<boardgamepublisher objectid="25079">GetDigital</boardgamepublisher>
+															<boardgamedesigner objectid="11839">Chris Kampf</boardgamedesigner>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamepublisher objectid="9487">Tessera Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>38</usersrated>
+					<average>5.71579</average>
+					<bayesaverage>5.50693</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12046" bayesaverage="5.50693" />
+												
+											</ranks>
+					
+					<stddev>1.46423</stddev>
+					<median>0</median>
+					<owned>104</owned>
+					<trading>3</trading>
+					<wanting>6</wanting>
+					<wishing>31</wishing>
+					<numcomments>16</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

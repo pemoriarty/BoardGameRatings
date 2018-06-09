@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="71559" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Chuckie Egg</name>
+									
+			<description>&amp;quot;A&amp;amp;F Software's Chuckie Egg is a home computer video game released in 1983, initially for the ZX Spectrum, the BBC Micro and the Dragon. Its subsequent popularity saw it released over the following years on a wide variety of computers, including the Commodore 64, Acorn Electron, MSX, Tatung Einstein, Amstrad CPC and Atari 8-bit family. It was later updated and released for the Commodore Amiga, Atari ST, and IBM PC compatibles.&lt;br/&gt;&lt;br/&gt;The original idea is generally attributed to the then 16 or 17 year old Nigel Alderton. After a month or two of development, Nigel took a pre-release version of his Spectrum code to the two year old software company A&amp;amp;F, co-founded by Mike Fitzgerald (the F in A&amp;amp;F) and Doug Anderson (the A in A&amp;amp;F). Doug took on the simultaneous development of the BBC Micro version, whilst Mike Webb, an A&amp;amp;F employee, completed the Dragon port. Chuckie Egg went on to sell over a million copies and remained a steady earner for A&amp;amp;F, who eventually went under in the latter half of the 1980s.&lt;br/&gt;&lt;br/&gt;The versions fall broadly into two groups &amp;mdash; those with realistic physics (e.g. the BBC Micro and Amstrad CPC versions) and those without (e.g. the ZX Spectrum version). Although there is a substantial difference in play between the two, levels remain largely the same and all the 8-bit versions have been cited as classics.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Chuckie_Egg,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DTHiyWZNhauFeno894Ktzui4btc=/fit-in/200x150/pic3681362.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mhs7M4-RJOHWvekth6CPpUfjuow=/0x0/pic3681362.jpg</image>
+						
+												<videogamecompilation objectid="95785">10 Computer Hits 1</videogamecompilation>
+															<videogamedeveloper objectid="12465">A&amp;F Software</videogamedeveloper>
+															<videogamepublisher objectid="12465">A&amp;F Software</videogamepublisher>
+															<videogameversion objectid="364482">Acorn Electron (Black and White Logo) edition</videogameversion>
+															<videogameversion objectid="364483">Acorn Electron (Yellow Logo) edition</videogameversion>
+															<videogamegenre objectid="2147">Action</videogamegenre>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameversion objectid="37324">Amstrad CPC edition</videogameversion>
+															<videogametheme objectid="2471">Animals</videogametheme>
+															<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameversion objectid="37325">Atari ST edition</videogameversion>
+															<videogameplatform objectid="5010">BBC Micro</videogameplatform>
+															<videogameversion objectid="37329">BBC Micro edition</videogameversion>
+															<videogameseries objectid="6844">Chuckie Egg</videogameseries>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="37326">Commodore 64 edition</videogameversion>
+															<videogameplatform objectid="5150">Dragon 32/64</videogameplatform>
+															<videogameversion objectid="37327">Dragon 32/64 edition</videogameversion>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogameversion objectid="37330">MSX edition</videogameversion>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="37328">ZX Spectrum edition</videogameversion>
+															<videogame objectid="95785" inbound="true">10 Computer Hits 1</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>6.45455</average>
+					<bayesaverage>5.75131</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4170" bayesaverage="5.75131" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="160" bayesaverage="6.05911" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="85" bayesaverage="6.11728" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="108" bayesaverage="6.07143" />
+														<rank type="family" id="5010" name="bbcmicro" friendlyname="BBC Micro Rank" value="20" bayesaverage="5.80769" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="36" bayesaverage="6.42091" />
+														<rank type="family" id="5150" name="dragon3264" friendlyname="Dragon 32/64 Rank" value="5" bayesaverage="6.58696" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="89" bayesaverage="6.11296" />
+												
+											</ranks>
+					
+					<stddev>1.30479</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

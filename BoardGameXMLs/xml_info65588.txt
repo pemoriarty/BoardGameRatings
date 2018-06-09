@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="65588">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Stucco</name>
+									
+			<description>This game is played with 32 cards from a standard deck of cards, with cyclic ranking AKQJ10987. Both players are dealt 16 cards (therefore they know the cards of the other player).&lt;br/&gt;&lt;br/&gt;To decide who starts, both players select a card from their hand and reveal them simultaneously. If both cards are the same colour (red or black) then non-dealer starts; if different, dealer starts. The starter's card is left face up on the table as the first card played and the other is returned to its player's hand. The non-starter then plays the second card to the spread, and play thereafter alternates.&lt;br/&gt;&lt;br/&gt;A player in his turn can play a card which is either the next higher card of the same suit, or the next lower card of the other suit of the same colour, or a card of the same rank but opposite colour. If the player does not have any of these, has to pass. The play continues until nobody can play any more cards. Whoever plays the last card scores 1 point for each card he played, multiplied by the number of cards he played consecutively on the last turn.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="166">David Parlett</boardgamedesigner>
+															<boardgameversion objectid="27829">Print and Play edition</boardgameversion>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgameimplementation objectid="221139">Sticko</boardgameimplementation>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

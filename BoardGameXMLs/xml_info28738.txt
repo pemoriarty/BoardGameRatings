@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28738">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Kamon</name>
+									
+			<description>In the two-player abstract strategy game, Kamon, a hexagonal board is filled randomly with 36 tokens.  Each token is valued 1-6, in each of 6 different symbols.  The black player starts by replacing one of the tokens with one of their 18 pawns.  The white player does the same thing, now constrained by black's choice:  The token she selects must be either the same symbol or the same number.&lt;br/&gt;&lt;br/&gt;The game ends immediately when one of three victory conditions are fulfilled:&lt;br/&gt;&lt;br/&gt;     A player connects two opposite edges with their pawns (as in Hex).&lt;br/&gt;     A player completely surrounds one or more spaces - those spaces could be either empty or occupied by the opponent's pawns.&lt;br/&gt;     A player has prevented their opponent from playing any more.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Reimplemented by&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Okiya&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tn7ypjuaqndNsKHQM2ly9rRI8WA=/fit-in/200x150/pic303260.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7BU2bkp95q1teDUK47daZsxRO1M=/0x0/pic303260.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamepublisher objectid="5022">Blue Orange (EU)</boardgamepublisher>
+															<boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+																						<boardgameversion objectid="166608">French edition</boardgameversion>
+																																				<boardgameversion objectid="166313">Multilingual edition</boardgameversion>
+															<boardgameimplementation objectid="125311">Okiya</boardgameimplementation>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>72</usersrated>
+					<average>6.32361</average>
+					<bayesaverage>5.55446</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8091" bayesaverage="5.55446" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="387" bayesaverage="5.78113" />
+												
+											</ranks>
+					
+					<stddev>1.58449</stddev>
+					<median>0</median>
+					<owned>85</owned>
+					<trading>0</trading>
+					<wanting>6</wanting>
+					<wishing>45</wishing>
+					<numcomments>23</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

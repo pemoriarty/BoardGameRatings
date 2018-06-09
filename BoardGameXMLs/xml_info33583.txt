@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33583">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Folko-Boks</name>
+									
+			<description>Folko-Boks is a boxing-themed abstract pure strategy game.  The game lasts 10 rounds in a ring of 36 squares, randomly initialized with numbered chits. In each round, players move their boxers like a chess knight, removing the numbered marker from the square they left.  The boxer who moves onto a higher numbered square wins that round.  Being unable to move causes a knockout loss.&lt;br/&gt;&lt;br/&gt;Folko-Boks was included as a free game in issue 4 of the Polish board gaming magazine Świat Gier Planszowych (&amp;quot;World of Boardgames&amp;quot;) published December 2007.&lt;br/&gt;&lt;br/&gt;The game acknowledges some inspiration from an earlier game by Sid Sackson, probably Paper Boxing.&lt;br/&gt;There is a somewhat similar game Joust on an 8x8 grid.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sfOqZu19pwt1Qrdo_tHArl7QHZY=/fit-in/200x150/pic281219.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FZfXD4tdme4rZ81rUfCl2Nu9lWI=/0x0/pic281219.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamedesigner objectid="7324">Adam Kałuża</boardgamedesigner>
+															<boardgamepublisher objectid="2726">Portal Games</boardgamepublisher>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5839">Sports: Boxing</boardgamefamily>
+															<boardgamefamily objectid="5786">Sports: Combat Sports / Martial Arts</boardgamefamily>
+															<boardgameartist objectid="12540">Michał J. Zieliński</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>27</usersrated>
+					<average>4.27778</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.45509</stddev>
+					<median>0</median>
+					<owned>57</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>6</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

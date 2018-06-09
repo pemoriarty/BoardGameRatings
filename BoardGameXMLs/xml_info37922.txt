@@ -1,0 +1,81 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="37922">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Kritzelmathe</name>
+							<name primary="true" sortindex="1">Skedoodle</name>
+									
+			<description>Skedoodle was published in Sid Sackson's A Gamut of Games.&lt;br/&gt;&lt;br/&gt;It is a mathematical game where a master number is chosen among the following: 3, 4, 5, 6, 7, 8 or 9 and, starting with a number from 1 to 30, players try to obtain the master number by the following operations: addition, subtraction, multiplication or division of the two digits of the chosen number. Players also score with a number that contains the master number written on it. The first player may not start the game with a scoring number. Then the next player must write another number using these same operations or by doubling, halving, squaring or taking the square root of the previous number. Each number from 1 to 30 may not be used more than once. The games ends when no further unused number between 1 to 30 can be derived from the actual number by the rules.&lt;br/&gt;&lt;br/&gt;This game was presented to Sid Sackson by it author Father Daniel, with whom Sid Sackson exchanged correspondence about games in general.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="660">Dover Publications</boardgamepublisher>
+															<boardgamepublisher objectid="5855">dtv (Deutscher Taschenbuch Verlag)</boardgamepublisher>
+															<boardgamedesigner objectid="11024">Father Daniel</boardgamedesigner>
+															<boardgamepublisher objectid="595">Hugendubel Verlag</boardgamepublisher>
+															<boardgamepublisher objectid="621">Hutchinson</boardgamepublisher>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="823">Random House, Inc.</boardgamepublisher>
+															<boardgamepublisher objectid="7474">RBA Libros S.A.</boardgamepublisher>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

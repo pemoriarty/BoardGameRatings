@@ -1,0 +1,101 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="72953" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Rogue</name>
+									
+			<description>&amp;quot;Rogue is a dungeon crawling video game first developed by Michael Toy and Glenn Wichman around 1980. It was a favorite on college Unix systems in the early to mid-1980s, in part due to the procedural generation of game content. Rogue popularized dungeon crawling as a video game trope, leading others to develop a class of derivatives known collectively as &amp;quot;roguelikes&amp;quot;. For example, it directly inspired Hack, which in turn led to NetHack. Roguelikes have since influenced commercial games outside the genre, such as Diablo.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Rogue_(computer_game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5OgHo6YxZhdWFiG5zo99VSdAKk4=/fit-in/200x150/pic2825445.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/If_j00AaGJXWy5kZZJz0QHUsZtk=/0x0/pic2825445.jpg</image>
+						
+												<videogamecharacter objectid="6840">@</videogamecharacter>
+															<vgcharacterversion objectid="54714">@</vgcharacterversion>
+															<videogamegenre objectid="2152">Adventure</videogamegenre>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="289559">English/European Atari New XE, 800 XL &amp; 130 XE Cassette edition</videogameversion>
+															<videogameversion objectid="289560">English/European Commodore 64 edition</videogameversion>
+															<videogameversion objectid="289558">English/European ZX Spectrum &amp; Amstrad CPC Cassette edition</videogameversion>
+															<videogamedeveloper objectid="1417">EPYX, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="1417">EPYX, Inc.</videogamepublisher>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamedeveloper objectid="12617">Icon Design</videogamedeveloper>
+															<videogameplatform objectid="5248">Linux</videogameplatform>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogamepublisher objectid="12607">Mastertronic</videogamepublisher>
+															<videogameversion objectid="117622">North American DOS edition</videogameversion>
+															<videogameversion objectid="65054">North American Macintosh edition</videogameversion>
+															<videogamegenre objectid="2413">Roguelike</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="10338">TRS-80 Color Computer</videogameplatform>
+															<videogameversion objectid="42734">Unix Edition</videogameversion>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>36</usersrated>
+					<average>7.31667</average>
+					<bayesaverage>6.29227</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1489" bayesaverage="6.29227" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="85" bayesaverage="6.74931" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="54" bayesaverage="6.80381" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="199" bayesaverage="6.69845" />
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="338" bayesaverage="6.51888" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="20" bayesaverage="6.74861" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="31" bayesaverage="6.83733" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="39" bayesaverage="6.81473" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="33" bayesaverage="6.78383" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="26" bayesaverage="6.83357" />
+														<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="147" bayesaverage="6.64286" />
+														<rank type="family" id="10338" name="trs80colorcomputer" friendlyname="TRS-80 Color Computer Rank" value="11" bayesaverage="6.23529" />
+												
+											</ranks>
+					
+					<stddev>1.63257</stddev>
+					<median>0</median>
+					<owned>25</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>2</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

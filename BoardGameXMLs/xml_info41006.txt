@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="41006">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Ordo</name>
+							<name  sortindex="1">Ordo pur</name>
+							<name  sortindex="1">Ordo X</name>
+									
+			<description>Ordo is a game in which players try to get to their opponent's home row but while crossing the board they must always keep their pieces connected. Pieces can move singly in orthogonal or diagonal directions, but also as a group in certain situations, which is called an &amp;quot;ordo move&amp;quot;.&lt;br/&gt;&lt;br/&gt;With a set of Ordo, you can play Ordo X, too.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iGKTQVqGopfSIYDMqKzoz03F5Rw=/fit-in/200x150/pic2805788.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eZ1qax2N3_qCDaTYrhSe76ntGHE=/0x0/pic2805788.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="2407">Clemens Gerhards</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgameartist objectid="73376">Ludwig Gerhards</boardgameartist>
+															<boardgameversion objectid="69460">Gerhards Spiel und Design wooden edition</boardgameversion>
+															<boardgameversion objectid="138270">Gerhards wooden edition (board w/o legs)</boardgameversion>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="23720">nestorgames first edition</boardgameversion>
+															<boardgameversion objectid="295739">nestorgames second edition</boardgameversion>
+																						<boardgameversion objectid="41787">Print and Play edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamedesigner objectid="3063">Dieter Stein</boardgamedesigner>
+															<boardgameartist objectid="3063">Dieter Stein</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>64</usersrated>
+					<average>7.22266</average>
+					<bayesaverage>5.59256</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6259" bayesaverage="5.59256" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="231" bayesaverage="6.0108" />
+												
+											</ranks>
+					
+					<stddev>1.37415</stddev>
+					<median>0</median>
+					<owned>86</owned>
+					<trading>0</trading>
+					<wanting>11</wanting>
+					<wishing>46</wishing>
+					<numcomments>27</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

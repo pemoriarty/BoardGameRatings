@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34001">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Beaugency</name>
+							<name primary="true" sortindex="1">Burgen Land</name>
+							<name  sortindex="1">BurgenLand</name>
+									
+			<description>A strategic dice game for 2 players offering a lot of interaction. Each player tries to build his own castle complexes. Wall piece by wall piece the castle buildings and towers have to be connected. Triggering a scoring at the right time is the first step on the road to victory.&lt;br/&gt;&lt;br/&gt;Part of the Schmidt Spiele Easy Play line.&lt;br/&gt;&lt;br/&gt;Not to be confused with Burgenland by Ravensburger.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xQKEOwDFWSCiYFELgml-p2fiw6I=/fit-in/200x150/pic289675.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jB3pwokrF2F9fd_-RxubpnuAEcE=/0x0/pic289675.jpg</image>
+						
+												<boardgamepodcastepisode objectid="86196">BGTG 110 - All About the Easy Play games (with David Arnott)</boardgamepodcastepisode>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																																																														<boardgamedesigner objectid="237">Wolfgang A. Lehmann</boardgamedesigner>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+																						<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+																						<boardgameversion objectid="79035">Schmidt French Edition</boardgameversion>
+															<boardgameversion objectid="25835">Schmidt German Edition</boardgameversion>
+															<boardgamepublisher objectid="38">Schmidt Spiele</boardgamepublisher>
+															<boardgamefamily objectid="128">Schmidt Spiele Easy Play Line</boardgamefamily>
+																						<boardgamepodcastepisode objectid="69216">The Spiel #142 - Easy Peasy</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>267</usersrated>
+					<average>6.16109</average>
+					<bayesaverage>5.62736</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5275" bayesaverage="5.62736" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1164" bayesaverage="5.67663" />
+												
+											</ranks>
+					
+					<stddev>1.27088</stddev>
+					<median>0</median>
+					<owned>423</owned>
+					<trading>22</trading>
+					<wanting>22</wanting>
+					<wishing>58</wishing>
+					<numcomments>100</numcomments>
+					<numweights>42</numweights>
+					<averageweight>1.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

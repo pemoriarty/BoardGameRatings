@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="59709">
+			<yearpublished>1860</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Bésigue</name>
+							<name  sortindex="1">Bésigue double</name>
+							<name  sortindex="1">Bésigue simple</name>
+									
+			<description>The player to the left of the dealer starts by leading a card and the other players can play any card they please as following suit doesn't apply until the stock is exhausted. The play starts from the player sitting directly left of the dealer. Any card higher than the original lead card and in the same suit will win the trick and any trump card will win unless the lead card was also a trump and valued higher. The winner of a trick leads to the next trick after first drawing the top card of the stock. The other players each draws one card from the stock. Play continues with nine cards to a hand until the stock is exhausted.&lt;br/&gt;&lt;br/&gt;Once the stock is finished, each player picks up his cards used to declare melds, and continue with the final stage of the game. The final eight tricks must follow suit and a player must play a winning card if he is able. If he has no cards of the particular suit he must play a trump, if he holds any, and attempt to win the trick. The cards played to each trick are gathered by the winner and placed face-down in a pile, from which tens and aces are counted as 'Brisques' and score ten points each at the end of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+																													<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="184799">Public Domain edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

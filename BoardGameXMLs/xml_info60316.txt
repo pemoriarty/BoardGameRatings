@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="60316">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Fröscheln</name>
+							<name primary="true" sortindex="1">Numeri</name>
+									
+			<description>Each player receives five figures of the same color, numbered from 1 to 5. A player rolls the dice and then may move figures that correspond to the total of the dice, e.g. rolling a 5 allows a player to move the 5 piece, or the 2 and the 3. The pieces are always moved to the next free space that is available on the board.&lt;br/&gt;If the player succeeds in making a chain of 3 or more pawns, he or she may roll the dice again.&lt;br/&gt;The game is finished when the last three, specially-marked squares are occupied. Each player receives the number of points achieved by multiplying the number of the square by the number of the occupying pawn.&lt;br/&gt;&lt;br/&gt;Summary&lt;br/&gt;&lt;br/&gt;* roll d6; may move your matching-numbered token (* is wild but moves only one token)&lt;br/&gt;    * move it to the next free space on the track&lt;br/&gt;    * after any player's token has crossed a line (varies with number of players playing), rolls of 3 4 or 5 may be split between 2 of your tokens (3-&amp;gt;1-2, 4-&amp;gt;1-3, 5-&amp;gt;1-4 or 2-3), but only if you can move both the other tokens&lt;br/&gt;    * if, with your move, you create 3 adjacent tokens of your color, go again (may do it repeatedly)&lt;br/&gt;    * game ends when last 3 spaces of the track are occupied&lt;br/&gt;    * final scores (for each token):&lt;br/&gt;          o (token number) x (number on that token's space)&lt;br/&gt;          o the multiplier for tokens never played to the board is -5&lt;br/&gt;          o highest sum wins&lt;br/&gt;&lt;br/&gt;The original version of the same-named game provided players with six tokens, and had different rules for gaining points from the board spaces.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Numeri&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wUgupOt8rbK-dIByB-iv1wU53ws=/fit-in/200x150/pic586429.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/407pJoQMjrV2sRIzfaM6okfIqf8=/0x0/pic586429.jpg</image>
+						
+												<boardgamepodcastepisode objectid="86206">BGTG 100 SR &amp;amp; Feedback (Tobago, Numeri, Polar Derby)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="86196">BGTG 110 - All About the Easy Play games (with David Arnott)</boardgamepodcastepisode>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecompilation objectid="218471">Easy Play XXL</boardgamecompilation>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																																																							<boardgamedesigner objectid="154">Rudi Hoffmann</boardgamedesigner>
+															<boardgamepublisher objectid="127">Klee</boardgamepublisher>
+															<boardgameversion objectid="76599">Klee edition</boardgameversion>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+																													<boardgameartist objectid="22516">Anke Pohl</boardgameartist>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgameartist objectid="22515">Thilo Rick</boardgameartist>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+																						<boardgameversion objectid="30168">Schmidt Easy Play First Edition</boardgameversion>
+															<boardgamepublisher objectid="38">Schmidt Spiele</boardgamepublisher>
+															<boardgamefamily objectid="128">Schmidt Spiele Easy Play Line</boardgamefamily>
+															<boardgameversion objectid="77808">Schmidt Spiele Easyplay XXL edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>282</usersrated>
+					<average>5.78493</average>
+					<bayesaverage>5.56534</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7477" bayesaverage="5.56534" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1313" bayesaverage="5.59834" />
+												
+											</ranks>
+					
+					<stddev>1.60213</stddev>
+					<median>0</median>
+					<owned>288</owned>
+					<trading>6</trading>
+					<wanting>16</wanting>
+					<wishing>39</wishing>
+					<numcomments>84</numcomments>
+					<numweights>24</numweights>
+					<averageweight>1.125</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

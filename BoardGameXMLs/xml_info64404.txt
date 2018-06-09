@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="64404">
+			<yearpublished>0</yearpublished>
+			<minplayers>8</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Couch of Power</name>
+							<name  sortindex="1">Four on a Couch</name>
+									
+			<description>Couch of Power is a multi-player game where the object is to get the players of your team to occupy all the positions of the Couch of Power.&lt;br/&gt;&lt;br/&gt;Setup:&lt;br/&gt;&lt;br/&gt;Gather players and define the seating arrangements.  You need 1 more seat than there are players.  Therefore, if you have 10 players, you will need  11 seats.  In this way, there will always be one empty seat during the game.  Define the target goal - usually a couch (aka the Couch of Power) with room for four people.  Starting with the Couch of Power, fill up all positions in the seating area except, of course, the empty seat.&lt;br/&gt;&lt;br/&gt;Hand out slips of paper to the players.  Each player writes their name on the slip.&lt;br/&gt;&lt;br/&gt;Gather the slips up, and randomly distribute them back to the players.  Make sure each player does not receive back their own name.&lt;br/&gt;&lt;br/&gt;Divide the players into two teams.  The easiest method is to take the current seating arrangement and alternately assign them to a team.  One effective method is simply having every other player roll up a pants leg or sleeve to indicate which team they are on.&lt;br/&gt;&lt;br/&gt;Game play:&lt;br/&gt;&lt;br/&gt;The game is played a number of rounds until the Couch of Power consists entirely of players from one team.&lt;br/&gt;&lt;br/&gt;Every round, the person sitting to the left of the empty seat is the caller.  They get to call out a name.  The person holding the slip of paper with that name on it moves from their current spot to the empty seat.  The player now to the left of the newly vacated empty seat is the new caller.  Play continues in this manner until the Couch of Power consists entirely of players from one team.&lt;br/&gt;&lt;br/&gt;The callers may not repeat the same name twice in a row.  This helps prevent a player from ping-ponging between two spots.&lt;br/&gt;&lt;br/&gt;It's important for players to remember who is holding which name.  The game is a combination of strategy, memory, and luck.  Strategy - is it better to pull an opposing team member off the couch or place one of your members on the team?  Memory - you need to remember who is holding what name.  Luck - in the beginning of the game, who is holding what name is unknown.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.71667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.12539</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33632">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Drop-Xianqi</name>
+							<name  sortindex="1">Shoqi</name>
+									
+			<description>In this game, one uses Shogi pieces to represent Xiangqi [or in a variant Changgi] pieces or a Xiangqi board. One then incorporates the drop-mechanism of Shogi into the game, with all the restrictions of that game. This makes the games quite different.&lt;br/&gt;&lt;br/&gt;Drop Xiangqi is a pure abstract game, basically a variant of Xiangqi played with the same equipment as the standard game and easily different enough to be considered a different game. Basically the pieces in Xiangqi just have the name of the piece written on it in Chinese. So there's a definitely up and down to the piece's orientation.&lt;br/&gt;&lt;br/&gt;Ownership of pieces is then marked by whoever has the writing &amp;quot;right-side up&amp;quot; from his point of view. In lieu of moving a piece on the board, a captured piece may be placed on the board instead with the restriction that the piece must have a legal move from its position when placed and that no two pawns owned by the same player can be on the same file.&lt;br/&gt;&lt;br/&gt;How this differs from the parent game:&lt;br/&gt;Both are of the chess family of games an they share the game goal. Like the original, it's a pure abstract where the object is to capture the opponent's jade general. The key difference is that the complexity of the board situation does not get reduced during play. All pieces are always in play throughout the game, and so one will never have an end-game with only a few pieces involved. Exchanges don't remove pieces but rather potentially hand of vital material to one's opponent to use against you. Thus, what will be a good move in xiangqi can often be disastrous in drop-xiangqi and vice-versa. (The inspiration here is drawn from shogi.)&lt;br/&gt;&lt;br/&gt;Capture the leader abstracts typically reduce to a simple end-game with the exception of shogi family of games. This game offers a complex end-game in a situation so that aplayer can't simply force exchanges to make a simple tactical game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="11064">Moshe Callen</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

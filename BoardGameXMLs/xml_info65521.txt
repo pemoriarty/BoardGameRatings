@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="65521">
+			<yearpublished>2010</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Chaos</name>
+									
+			<description>From the Publisher&lt;br/&gt;&lt;br/&gt;&amp;ldquo;You must have Chaos within you to give birth to a dancing star.&amp;rdquo; &amp;ndash; Friedrich Nietzsche&lt;br/&gt;&lt;br/&gt;&amp;ldquo;In all Chaos there is a cosmos, in all disorder a secret order.&amp;rdquo; &amp;ndash; Carl Gustav Jung&lt;br/&gt;&lt;br/&gt;In this card game, you need to collect sets of 3 identical Spectrum cards and place them on the table. Or collect the set of 3 Order cards and keep it in your hand until the end of the round.&lt;br/&gt;You need to avoid the 4th Spectrum card that matches a set you have placed on the table or the 4th Order card if you have the other 3. Also, avoid holding a Chaos card at the end of the round.&lt;br/&gt;&lt;br/&gt;On your turn you can seek a card, trade a card or declare a battle. You can't hold Order cards while holding a Chaos card. If you discard a Chaos card, all hands are rotated among players until the discarding player calls Stop! Well, the title does say &amp;quot;Chaos&amp;quot;.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qOoz9UzFH3Lf2gTPMzRzS9olAos=/fit-in/200x150/pic649507.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3aAanQi_TCCgM3ACl-vXw8Qqoys=/0x0/pic649507.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepodcastepisode objectid="5541">The Spiel #100 - Roll, Turn, Flip</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+															<boardgamedesigner objectid="34505">Pietro Valentyne</boardgamedesigner>
+															<boardgamedesigner objectid="35199">François Valentyne</boardgamedesigner>
+															<boardgamedesigner objectid="35212">Rant Valentyne</boardgamedesigner>
+															<boardgamedesigner objectid="35213">Sly Valentyne</boardgamedesigner>
+															<boardgameversion objectid="41236">Z-man First Edition</boardgameversion>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>162</usersrated>
+					<average>5.97599</average>
+					<bayesaverage>5.55492</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8052" bayesaverage="5.55492" />
+												
+											</ranks>
+					
+					<stddev>1.59597</stddev>
+					<median>0</median>
+					<owned>409</owned>
+					<trading>32</trading>
+					<wanting>3</wanting>
+					<wishing>35</wishing>
+					<numcomments>69</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.0769</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

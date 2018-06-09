@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="25423">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Looney Ludo</name>
+							<name primary="true" sortindex="1">Martian Coasters</name>
+									
+			<description>Martian Coasters is an Looney Pyramid game playable with a single Treehouse set, a set of Martian Coasters (each with a colored 3x3 maze printed on it), and a standard d6.&lt;br/&gt;&lt;br/&gt;The coasters are arranged in a square and the pieces are placed on differently-colored coasters.&lt;br/&gt;&lt;br/&gt;The objective is to move the pieces of your color through the maze printed on the coasters and onto a goal square at the center of your coaster.&lt;br/&gt;&lt;br/&gt;The game additionally makes use of the Treehouse die, allowing the players to reorient and move the coasters, creating a constantly changing maze.&lt;br/&gt;&lt;br/&gt;The game is also playable by 5, with an expansion coaster.  The coaster was sent to the Looney Labs Christmas Mailing List in 2006, and was later made available for sale on the Looney Labs web site.&lt;br/&gt;&lt;br/&gt;Also included in Pyramid Arcade as Looney Ludo.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/D6yKg3shnrle5OlcN9wZDf9VqBQ=/fit-in/200x150/pic166650.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EYV0xbJAVZbzD40GPTEz6imVuCw=/0x0/pic166650.jpg</image>
+						
+												<boardgameexpansion objectid="99207">5th Martian Coaster</boardgameexpansion>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="30962">First edition</boardgameversion>
+															<boardgamedesigner objectid="122">Andrew Looney</boardgamedesigner>
+															<boardgamepublisher objectid="76">Looney Labs</boardgamepublisher>
+															<boardgamefamily objectid="20">Looney Pyramids</boardgamefamily>
+																																				<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamecompilation objectid="187988">Pyramid Arcade</boardgamecompilation>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>202</usersrated>
+					<average>6.15198</average>
+					<bayesaverage>5.59567</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6151" bayesaverage="5.59567" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="379" bayesaverage="5.79066" />
+												
+											</ranks>
+					
+					<stddev>1.32368</stddev>
+					<median>0</median>
+					<owned>498</owned>
+					<trading>18</trading>
+					<wanting>3</wanting>
+					<wishing>26</wishing>
+					<numcomments>110</numcomments>
+					<numweights>27</numweights>
+					<averageweight>1.2593</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

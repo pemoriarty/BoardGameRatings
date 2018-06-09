@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="72683" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Demon Attack</name>
+									
+			<description>[Game Manual]&lt;br/&gt;&lt;br/&gt;Marooned on the ice planet Krybor, you watch legions of eerie creatures scream overhead. They hover ominously. They give you no quarter. Attack and destroy them, or be destroyed! Armed with your Laser Cannon, you confront the ultimate challenge: SURVIVE!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2ZxlJeCpH8w-1miqyKn-tiphQ5U=/fit-in/200x150/pic792953.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EHeTAfFhrcubvwtm2VMt8JB8gDE=/0x0/pic792953.jpg</image>
+						
+												<videogamecompilation objectid="105100">Activision Anthology</videogamecompilation>
+															<videogamecompilation objectid="146095">Activision Anthology (iOS)</videogamecompilation>
+															<videogamecompilation objectid="182421">Activision Anthology Remix Edition</videogamecompilation>
+															<videogamecompilation objectid="102970">Activision Hits Remixed</videogamecompilation>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogamefranchise objectid="27676">Better Description Needed</videogamefranchise>
+															<videogameversion objectid="297036">Brazilian Edition</videogameversion>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogamemode objectid="2313">Cooperative</videogamemode>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="42270">EU Atari 2600 edition</videogameversion>
+															<videogameversion objectid="117654">IBM PC Booter Cartridge edition</videogameversion>
+															<videogamedeveloper objectid="12730">Imagic</videogamedeveloper>
+															<videogamepublisher objectid="12730">Imagic</videogamepublisher>
+															<videogameplatform objectid="4427">Intellivision</videogameplatform>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameplatform objectid="5261">Odyssey²</videogameplatform>
+															<videogameplatform objectid="6550">PC Booter</videogameplatform>
+															<videogamepublisher objectid="2165">Radio Shack</videogamepublisher>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="117653">Tandy 1000 DOS Floppy edition</videogameversion>
+															<videogameplatform objectid="5812">TI-99</videogameplatform>
+															<videogameplatform objectid="10338">TRS-80 Color Computer</videogameplatform>
+															<videogameversion objectid="41964">US Atari 2600 blue label edition</videogameversion>
+															<videogameversion objectid="42267">US Atari 2600 picture label edition</videogameversion>
+															<videogameversion objectid="42266">US Atari 2600 text label edition</videogameversion>
+															<videogameversion objectid="42269">US Atari 2600 Xante edition</videogameversion>
+															<videogameversion objectid="42271">US Atari 8-bit Computer edition</videogameversion>
+															<videogameversion objectid="42272">US Intellivision edition</videogameversion>
+															<videogameplatform objectid="4949">VIC-20</videogameplatform>
+															<videogamepublisher objectid="12751">Xante</videogamepublisher>
+															<videogame objectid="105100" inbound="true">Activision Anthology</videogame>
+															<videogame objectid="102970" inbound="true">Activision Hits Remixed</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>7.29167</average>
+					<bayesaverage>5.96974</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2589" bayesaverage="5.96974" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="10" bayesaverage="6.99606" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="73" bayesaverage="6.70523" />
+														<rank type="family" id="4427" name="intellivision" friendlyname="Intellivision Rank" value="7" bayesaverage="6.79359" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="303" bayesaverage="6.39021" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="12" bayesaverage="6.95591" />
+														<rank type="family" id="4949" name="vic20" friendlyname="VIC-20 Rank" value="3" bayesaverage="6.80385" />
+														<rank type="family" id="5261" name="odyssey" friendlyname="Odyssey² Rank" value="1" bayesaverage="6.73457" />
+														<rank type="family" id="5812" name="ti99" friendlyname="TI-99 Rank" value="1" bayesaverage="6.80979" />
+														<rank type="family" id="6550" name="pcbooter" friendlyname="PC Booter Rank" value="6" bayesaverage="6.71723" />
+														<rank type="family" id="10338" name="trs80colorcomputer" friendlyname="TRS-80 Color Computer Rank" value="7" bayesaverage="6.67754" />
+												
+											</ranks>
+					
+					<stddev>0.923272</stddev>
+					<median>0</median>
+					<owned>52</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>6</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

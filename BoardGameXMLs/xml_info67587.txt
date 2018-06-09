@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="67587">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Progressive Mancala</name>
+									
+			<description>Progressive Mancala was invented by Ralf Gering on September 3, 2004, in Bad Breisig, Germany. The game uses a rule which reminds of Progressive Chess.&lt;br/&gt;&lt;br/&gt;The game was implemented for online play at games.wtanaka.com on January 28, 2010.&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;Progressive Mancala is played on a one-rank mancala board which numbers eleven holes. Initially there are five stones in each hole. There is also a common goal which is adjacent to the central hole of the board. Both players sit on the same side of the board in front of it. One player is called West, the other East.&lt;br/&gt;&lt;br/&gt;East starts to the game and plays from right to left. West sows from left to right.&lt;br/&gt;&lt;br/&gt;On each turn a player empties a hole and then distributes its contents into the following holes, one by one, in his direction. If he reaches the end of the board, he continues to distribute the stones by first dropping a stone into the Goal, then into the holes starting from the opposite end of the board. That is, he circles around the board.&lt;br/&gt;&lt;br/&gt;If the last stone is dropped into a non-empty hole, its contents (including the last distributed stone) are picked up and then distributed as usual in multi-lap games.&lt;br/&gt;&lt;br/&gt;The move ends if the last stone is dropped into an empty hole or the goal.&lt;br/&gt;&lt;br/&gt;For each move that a player has terminated in an empty hole, his enemy must make a bonus move (bonus moves are compulsory).&lt;br/&gt;&lt;br/&gt;If the last stone is dropped into the goal, the player captures its contents including the last distributed stone. The captured stones are stored. Dropping the last stone into the goal never results in a bonus move for the opponent.&lt;br/&gt;&lt;br/&gt;The player who captured most stones is declared the winner. Draws are impossible because the sum of all stones is odd.&lt;br/&gt;&lt;br/&gt;Expert Variant&lt;br/&gt;&lt;br/&gt;Good players may take a board which has 17 holes. Again, there are five stones in each hole at the start of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="6874">Ralf Gering</boardgamedesigner>
+															<boardgamefamily objectid="9">Mancala</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.74166</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

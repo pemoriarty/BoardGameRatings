@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="56195">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Galactico</name>
+							<name primary="true" sortindex="1">Galaktico</name>
+									
+			<description>A game of tactical space combat.&lt;br/&gt;&lt;br/&gt;Equip your spaceships with weapons and shielding and fight for dominion in this edge of the galaxy. Use the special abilities of your space ships to your advantage, fly through hyperspace, destroy an opponent's space station or capture his destroyers.&lt;br/&gt;&lt;br/&gt;Every game will be different, because of the enormous possibilty of combining your equipment.&lt;br/&gt;&lt;br/&gt;The proper use of the movement mechanism of hyperspace jumps is the key to victory.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VXiLzx7WmtadPRY6-cZuRVPDe1Y=/fit-in/200x150/pic582602.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jg2t1tkEuGn0_l8qfbB364W963o=/0x0/pic582602.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="50307">First edition</boardgameversion>
+																																				<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="4407">Helge Ostertag</boardgamedesigner>
+															<boardgameartist objectid="4375">Anselm Ostertag</boardgameartist>
+															<boardgamepublisher objectid="3177">Pfifficus Spiele</boardgamepublisher>
+																													<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+																						<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>43</usersrated>
+					<average>6.61628</average>
+					<bayesaverage>5.53939</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9172" bayesaverage="5.53939" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2231" bayesaverage="5.62565" />
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="486" bayesaverage="5.68141" />
+												
+											</ranks>
+					
+					<stddev>1.58069</stddev>
+					<median>0</median>
+					<owned>55</owned>
+					<trading>7</trading>
+					<wanting>6</wanting>
+					<wishing>39</wishing>
+					<numcomments>14</numcomments>
+					<numweights>11</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

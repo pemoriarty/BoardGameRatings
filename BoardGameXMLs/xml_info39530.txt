@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39530">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Element</name>
+									
+			<description>By using various elements (glass stones) and their corresponding properties, players try to surround their opponents wizard so that they are unable to make any further moves.&lt;br/&gt;&lt;br/&gt;At the beginning of each turn 4 dice are rolled that will tell you which elements you can add to the board. Special element properties correspond to placing the element stones. At any time during during their turn, a player can move their wizard. Players can only move their own Wizard piece but elements can be controlled by either player.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vBCFiRMvJ9pT_c2m8HCHCHr2C9g=/fit-in/200x150/pic405379.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/31YT0Z3nmKoKaLo2_e4lKlsQ_CQ=/0x0/pic405379.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameimplementation objectid="216403">Element</boardgameimplementation>
+																						<boardgameversion objectid="358767">First edition</boardgameversion>
+															<boardgamepublisher objectid="9348">Mindtwister USA</boardgamepublisher>
+															<boardgamedesigner objectid="11916">Mike Richie</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>41</usersrated>
+					<average>6.70029</average>
+					<bayesaverage>5.54185</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8950" bayesaverage="5.54185" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="520" bayesaverage="5.64964" />
+												
+											</ranks>
+					
+					<stddev>1.37452</stddev>
+					<median>0</median>
+					<owned>93</owned>
+					<trading>8</trading>
+					<wanting>2</wanting>
+					<wishing>12</wishing>
+					<numcomments>20</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

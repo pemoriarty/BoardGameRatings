@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="37739">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="4">La Ruée vers l&#039;Or</name>
+							<name primary="true" sortindex="1">Sutter&#039;s Mill</name>
+									
+			<description>In Sutter's Mill the players experience the sudden rise and decline of the Californian town of Coloma during the gold rush.&lt;br/&gt;&lt;br/&gt;They first build up the town, bring new citizens into it, and, last but not least, dig gold. However, when it is time and the gold vein is almost spent, they better take their belongings and get the hell out of Coloma!&lt;br/&gt;&lt;br/&gt;In the game, this is represented by a division in two phases: build up followed by tear down. At the beginning of the game, all players start in the build up phase. It is up to the players themselves to decide when there's no more profit to be had and to enter the tear down phase. Each player makes this choice for himself, so while some players are already tearing down the place, others will still be building up.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/beWKoz6igKcyKWWYX7X_XNNx8ao=/fit-in/200x150/pic378485.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eH6QbTISsVIwmhi5GC-NZfmeHoo=/0x0/pic378485.jpg</image>
+						
+																			<boardgamecategory objectid="1055">American West</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="35067">English edition</boardgameversion>
+															<boardgameversion objectid="83206">French edition</boardgameversion>
+															<boardgameversion objectid="29783">German edition</boardgameversion>
+																																																		<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameartist objectid="4959">Harald Lieske</boardgameartist>
+															<boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+															<boardgamepublisher objectid="3364">Millenium</boardgamepublisher>
+															<boardgamefamily objectid="21425">Mining</boardgamefamily>
+															<boardgamepodcastepisode objectid="86566">PGGK 027: Sutter&#039;s Mill</boardgamepodcastepisode>
+															<boardgamepublisher objectid="855">Phalanx Games B.V.</boardgamepublisher>
+															<boardgamepublisher objectid="8450">Phalanx Games Deutschland</boardgamepublisher>
+																																				<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgamedesigner objectid="4884">Marco Teubner</boardgamedesigner>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>406</usersrated>
+					<average>6.17502</average>
+					<bayesaverage>5.66476</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4553" bayesaverage="5.66476" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1419" bayesaverage="5.71468" />
+												
+											</ranks>
+					
+					<stddev>1.42357</stddev>
+					<median>0</median>
+					<owned>806</owned>
+					<trading>71</trading>
+					<wanting>30</wanting>
+					<wishing>87</wishing>
+					<numcomments>151</numcomments>
+					<numweights>41</numweights>
+					<averageweight>2.4878</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

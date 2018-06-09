@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="54422">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Pyramida</name>
+									
+			<description>TURNS&lt;br/&gt;At each turn, each player moves a friendly stone.:&lt;br/&gt;Stones move to one diagonally adjacent empty cell (forward or backward).&lt;br/&gt;A stone is removed if it reaches the pyramid top (cell k14).&lt;br/&gt;&lt;br/&gt;ATTACKS&lt;br/&gt;There are no captures, but enemy stones can be delayed in two ways:&lt;br/&gt;By contact: If a stone moves forwards to a cell adjacent to an enemy stone, then this stone moves diagonally backwards to an empty cell. If the enemy stone cannot retreat (because both cells are occupied) the actual player gets an extra move.&lt;br/&gt;By column: if there are exactly one black and one white stone at a column, the higher stone can be attacked. If the other player moves one stone forward to that column, the upper stone is placed in an empty cell on the lowest row of that column (which is accessible by a sequence of moves: in a chess-like board, the game only uses black squares). If the enemy stone cannot retreat (it was at the fifth row) the current player gets an extra move.&lt;br/&gt;If both attacks occur in a single move, column attacks takes precedence over contact attacks. That is, the player only executes the column retreat. If that retreat is not possible, he executes the contact retreat. If that retreat is also not possible, the player gets an extra move.&lt;br/&gt;&lt;br/&gt;LAST STONE&lt;br/&gt;If a player only has one stone, it may move one or two cells (mover's choice) and may retreat one or two cells after an attack by contact (attacker's choice).&lt;br/&gt;&lt;br/&gt;GOAL&lt;br/&gt;If a player repeats a position by the third time, he loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/HGVWilUVt2lpBW-c2c4GRS2mRUI=/fit-in/200x150/pic542150.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OAsg5VqcXKX4nhwuStq5E6bRv3o=/0x0/pic542150.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamefamily objectid="6471">Country: Egypt</boardgamefamily>
+																													<boardgamepublisher objectid="10463">V &amp; V - Zbyšek Vlasák</boardgamepublisher>
+															<boardgamedesigner objectid="24203">Zbyšek Vlasák</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

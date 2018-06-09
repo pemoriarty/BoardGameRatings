@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="68455" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Master Gear</name>
+							<name  sortindex="1">Master Gear Adaptor</name>
+							<name primary="true" sortindex="1">Master Gear Converter</name>
+									
+			<description>The Master Gear Converter is a peripheral for the Sega Game Gear.  One end plugs into the Game Gear's game cartridge slot.  Sega Master System games can then be plugged into the other end, allowing Master System games to be played on the Game Gear.  This adapter was possible because the hardware of the Master System and the Game Gear were extremely similar.&lt;br/&gt;&lt;br/&gt;Source: User summary (walkie).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2326">Add-On</videogamehardwarecategory>
+															<videogamehwversion objectid="196801">Master Gear Converter</videogamehwversion>
+															<videogamehwmfg objectid="5360">SEGA Corporation</videogamehwmfg>
+															<videogamehardware objectid="4740" inbound="true">SEGA Game Gear</videogamehardware>
+															<videogamehardware objectid="4438" inbound="true">SEGA Master System</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

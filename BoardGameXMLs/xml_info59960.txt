@@ -1,0 +1,139 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="59960">
+			<yearpublished>2010</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Dakota</name>
+							<name  sortindex="1">ダコタ</name>
+									
+			<description>a 60- to 90-minute game for three to five players ages 10 and up.  It&amp;rsquo;s inspired by the conquest of the American West, and employs linear mechanics.  Players take control of a group of settlers or a tribe of natives and then cooperate and compete with the other players for natural resources, which have different values for the different types of players.  The mechanic allows for unequal numbers of settlers and native players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DRFTcV6KH9wlWdFnZNo5ujqIew0=/fit-in/200x150/pic924088.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SCcHEmi-kDV9a8E1X8Abr8jDT1U=/0x0/pic924088.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgameartist objectid="12951">Giorgio Albertini</boardgameartist>
+															<boardgamecategory objectid="1055">American West</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																						<boardgamedesigner objectid="2752">Piero Cioni</boardgamedesigner>
+																						<boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+																																											<boardgameversion objectid="121904">English/German edition</boardgameversion>
+															<boardgameversion objectid="105359">French edition</boardgameversion>
+																													<boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgamepublisher objectid="8923">IELLO</boardgamepublisher>
+															<boardgameversion objectid="257335">Japanese edition</boardgameversion>
+															<boardgameartist objectid="20670">Fabio Maiorana</boardgameartist>
+															<boardgameversion objectid="356289">Multilingual edition</boardgameversion>
+															<boardgamefamily objectid="43639">Native American</boardgamefamily>
+															<boardgamepublisher objectid="504">Nexus</boardgamepublisher>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="4522">TENKIGAMES</boardgamepublisher>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>373</usersrated>
+					<average>5.96743</average>
+					<bayesaverage>5.61154</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5664" bayesaverage="5.61154" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1527" bayesaverage="5.64686" />
+												
+											</ranks>
+					
+					<stddev>1.52114</stddev>
+					<median>0</median>
+					<owned>814</owned>
+					<trading>95</trading>
+					<wanting>20</wanting>
+					<wishing>99</wishing>
+					<numcomments>148</numcomments>
+					<numweights>45</numweights>
+					<averageweight>2.6444</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

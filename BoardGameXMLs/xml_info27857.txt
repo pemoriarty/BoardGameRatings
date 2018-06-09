@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="27857">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Blindside</name>
+									
+			<description>Blindside is a pure strategy game for two players, with each trying to capture the opponent's movement arrows.&lt;br/&gt;&lt;br/&gt;Each player starts the game with seven hexagonal pieces, with 2-5 movement arrows on each piece (23 total movement arrows). On a turn, a player moves one piece in a direction matching one of the movement arrows on that piece, with the maximum distance moved being equal to the number of arrows on that piece.&lt;br/&gt;&lt;br/&gt;The blue pivot spaces on the game board allow for tricky plays. If a player moves a piece onto one of these spaces, he can rotate that piece, allowing it to move in any direction for the remainder of its movement. For example, if you're one space away from a pivot with a piece that has three arrows (and is pointing at the pivot), you can move one space onto the pivot, rotate your piece, then move the remaining one or two spaces in any direction now indicated by the piece's arrows.&lt;br/&gt;&lt;br/&gt;You capture movement arrows two ways:&lt;br/&gt;&lt;br/&gt;&amp;bull; Land on an opponent's piece, and you remove a movement arrow of your choice, then place that piece on an unoccupied blue pivot space in any direction you wish.&lt;br/&gt;&amp;bull; Jump an opponent's piece, then remove the one or two arrows on that piece that are parallel to your direction of movement.&lt;br/&gt;&lt;br/&gt;You win by being the first player to capture 17 of your opponent's movement arrows.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/he2uHMv2CWwPL8iVxydnxDWqKvY=/fit-in/200x150/pic1060218.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Y1jB7JR2s3Ian9194c__adpQAWI=/0x0/pic1060218.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="144710">English first edition</boardgameversion>
+																						<boardgameartist objectid="43060">Keith A. Gardner</boardgameartist>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="43059">James D. Muntz, Jr.</boardgamedesigner>
+															<boardgameversion objectid="144711">Prototype edition</boardgameversion>
+															<boardgamepublisher objectid="738">Talicor</boardgamepublisher>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>29</usersrated>
+					<average>5.95517</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.53636</stddev>
+					<median>0</median>
+					<owned>86</owned>
+					<trading>1</trading>
+					<wanting>5</wanting>
+					<wishing>28</wishing>
+					<numcomments>18</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

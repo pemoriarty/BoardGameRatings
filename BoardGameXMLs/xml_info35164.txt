@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="35164">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Quartetto</name>
+									
+			<description>The Quartetto is played on a common 8x8 checkerboard.&lt;br/&gt;&lt;br/&gt;Each player has four checkers, each initially placed at the middle four board positions of the opposite rows.&lt;br/&gt;&lt;br/&gt;Checkers are moved horizontally or vertically any number of unoccupied board positions. Game play alternates between the two players.&lt;br/&gt;&lt;br/&gt;The goal of the game is to place all own checkers in board positions, which middle points are vertices of some rotated square (being non-parallel towards board edges). The smallest surrounding box of this constellation being parallel to edges of the board must be greater or equal 5x5 board positions.&lt;br/&gt;&lt;br/&gt;Complete rules text in&lt;br/&gt;&lt;br/&gt;     English&lt;br/&gt;     German&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Quartetto is closely related to and implements similar concepts of Adrian Schacker's Mondrago (1992) and John Scarne's Teeko (1945).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;         Game&lt;br/&gt;&lt;br/&gt;         Board Size&lt;br/&gt;&lt;br/&gt;         Pawn moves like...&lt;br/&gt;&lt;br/&gt;         Winning Condition: Pawns form a...&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;         Quartetto&lt;br/&gt;&lt;br/&gt;         8x8&lt;br/&gt;&lt;br/&gt;         Rook in Chess&lt;br/&gt;&lt;br/&gt;         rotated square larger than defined minimum size&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;         Mondrago&lt;br/&gt;&lt;br/&gt;         5x5&lt;br/&gt;&lt;br/&gt;         King in Chess&lt;br/&gt;&lt;br/&gt;         rotated and non rotated square (any size)&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;         Teeko&lt;br/&gt;&lt;br/&gt;         5x5&lt;br/&gt;&lt;br/&gt;         King in Chess&lt;br/&gt;&lt;br/&gt;         straight line or non rotated square&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QnIymvVZKp_WVjRiLPek_NJjTXw=/fit-in/200x150/pic310023.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AZTYtsKNBBJS4_KAvHxw0Jy4_g8=/0x0/pic310023.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgameversion objectid="26681">Print and Play edition</boardgameversion>
+															<boardgamedesigner objectid="10297">Artyom Tchebotaryov</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>7.25</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.829156</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66948">
+			<yearpublished>2009</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tracktrick</name>
+									
+			<description>This game is played with parts of two standard deck of cards and 18 poker chips or other counters. One each of A, 2, 3, 4, 5, 6, 7, 8, and Queen from one of the deck is arranged in a 3x3 grid with the Queen in the middle but otherwise randomly. These &amp;quot;scorecards&amp;quot; form the board.&lt;br/&gt;The cards A-K-Q-J-10-9-8-7-6 from the other deck are shuffled and each player is dealt 12 cards. They reveal one of them simultaneously. If two or three are of the same suit then that suit is trump. If all three are different then the trump suit is the fourth one - that is, the suit that nobody chose. However, if any two are of the same rank then the hand is played at no trump.&lt;br/&gt;Then tricks are played, and at the end of the play players puts a counters on the scorecards representing the number of tricks they won (Queen represents 0). If it's occupied by an opponent's counter, return it to its owner and substitute one of your own, if two of you win the same number, and the appropriate scorecard is either blank or occupied by the third player, leave it unchanged.&lt;br/&gt;You win a game by finishing with three counters in a row, whether horizontally, vertically or diagonally, after everyone has recorded their score. If two or all three players achieve this simultaneously, the winner is the player whose line of three cards has the highest total face value.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="166">David Parlett</boardgamedesigner>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

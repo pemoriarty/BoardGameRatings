@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34583">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Set Cubed</name>
+							<name  sortindex="1">Set het Dobbelspel</name>
+							<name  sortindex="1">Set: Dobbelspel</name>
+							<name  sortindex="1">SET³</name>
+							<name  sortindex="1">SET³ Dobbelspel</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;Set Cubed is a curious game of clever connections, challenging a player's ability to identify SETs between the dice in their hand and those already on the board. Players can play up to 3 dice per turn making as many SETs as possible. Create SETs up, down and across the board, the more SETs you create, the higher your score. As the number of dice on the board increase so do the possible SET combinations. Rack up points by using BONUS SQUARES! Roll a WILD dice and unleash the possible number of SETs that can be made during your turn! How many SETs can you make?! The player with the most points wins!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yeJVLxOceB1u0hW4pB-S1k3h2TA=/fit-in/200x150/pic419532.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/viDTD6LF8B6EkRJUMKX6ULRzUig=/0x0/pic419532.jpg</image>
+						
+												<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="44244">Dutch edition</boardgameversion>
+																																				<boardgameversion objectid="24985">English edition</boardgameversion>
+															<boardgamedesigner objectid="620">Marsha J. Falco</boardgamedesigner>
+															<boardgameversion objectid="365174">German edition</boardgameversion>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																																				<boardgamecompilation objectid="160441">Set Dice</boardgamecompilation>
+															<boardgamepublisher objectid="109">Set Enterprises, Inc.</boardgamepublisher>
+															<boardgamefamily objectid="26829">Set games</boardgamefamily>
+																						<boardgameimplementation objectid="1198" inbound="true">SET</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>332</usersrated>
+					<average>5.25196</average>
+					<bayesaverage>5.44982</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14760" bayesaverage="5.44982" />
+												
+											</ranks>
+					
+					<stddev>1.52245</stddev>
+					<median>0</median>
+					<owned>813</owned>
+					<trading>69</trading>
+					<wanting>5</wanting>
+					<wishing>32</wishing>
+					<numcomments>134</numcomments>
+					<numweights>27</numweights>
+					<averageweight>1.963</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

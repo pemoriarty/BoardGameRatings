@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39145">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">GemBlo Pyramid</name>
+									
+			<description>The goal of the game is to get rid of your cubes before the other players. When a player has 2 or fewer cubes left, the game ends.&lt;br/&gt;Players draw a number of cubes from the pool of 50 coloured cubes (5 colours and numbered 0-9. The same number is displayed on all six faces of the die). This varies depending upon the number of players in the game.&lt;br/&gt;In turn, each player tries to place a higher valued pyramid on the board than the previous player. If a player is unable to do so, they pass their turn. Play continues with the next person able to place a higher value pyramid on the board unless it goes around to the last person who successfully place a pyramid. In this case, they may place a pyramid of any value. &lt;br/&gt;The board has inset spaces to take the cubes at an angle for stacking the number cubes. A player forms a pyramid by having using three dice on the same level to form a base. Add together the numbers on the bases of these three cubes. The cube placed on the apex of this pyramid must match the last digit of the sum of numbers on the bases. (example: the base is formed of the numbers 5,7,9. The sum is 21. The apex of the pyramid must be a 1). &lt;br/&gt;The value of pyramids played is similar to a poker hand and varies from High Value (different colours and values) to a 'Royal Straight Flush' (a 7,8,9,0 with a 7 at the apex of the same colour).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4nxK46w2sW4VExAZ1DfENh6TxaI=/fit-in/200x150/pic391184.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UXbeM7QarBQG2wZNJuka-wE43FU=/0x0/pic391184.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="4442">DG Games</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamefamily objectid="32949">Gemblo</boardgamefamily>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamedesigner objectid="9199">Justin Oh</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>4.92391</average>
+					<bayesaverage>5.47324</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14154" bayesaverage="5.47324" />
+												
+											</ranks>
+					
+					<stddev>1.70347</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>12</wishing>
+					<numcomments>29</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

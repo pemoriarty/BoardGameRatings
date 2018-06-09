@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38822">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Dai Hasami Shogi</name>
+									
+			<description>Dai Hasami Shogi is a variant of Hasami Shogi. It is played on a 9x9 grid, traditionally on a shogi board. The word dai mean large and the name is apt because this game uses twice as many pieces as Hasami Shogi, 18 per player placed initially on the two back rows nearest the player controlling those pieces. The two sides are called sente [&amp;quot;black&amp;quot;] and gote [&amp;quot;white&amp;quot;], as in shogi, with sente moving first. Traditionally, Go-stones are used for the pieces.&lt;br/&gt;&lt;br/&gt;The object of the game is to capture all of an opponents' pieces or to have captured more pieces than one's opponent if a situation arises in which additional captures are no longer possible. All pieces move like rooks is chess, i.e., in any uninterrupted vertical or horizontal line in any obstructed direction without jumping. Pieces are taken by custodial capture, i.e., when an enemy piece becomes horizontally or vertically sandwiches between two of a player's own pieces. One of the two pieces bracketing the captured piece must be moved in order to capture but multiple simultaneous captured are allowed.&lt;br/&gt;&lt;br/&gt;The game is a member of the petteia or lantruculorum family of games. A similar game is played in Thailand and in , where respectively it is called Mak-yes and Apit-sodok; this game differs only in that the second row of pieces starts on the third rather than the second row.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Q7lvZAkbnwf37mmFu59zQkRcGAU=/fit-in/200x150/pic381263.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Hc8YtyxKRqNGKsawVWPU4C_EdsQ=/0x0/pic381263.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="6266">L. P. Septímio</boardgamepublisher>
+															<boardgamefamily objectid="4055">Petteia</boardgamefamily>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="33371">Print and Play edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>5.65</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.73277</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>8</wishing>
+					<numcomments>5</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

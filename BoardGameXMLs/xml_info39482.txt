@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39482">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Kiela</name>
+									
+			<description>From Wikimanqala:&lt;br/&gt;&lt;br/&gt;&lt;a target='_blank' href=&quot;http://www.wikimanqala.org/wiki/Kiela&quot; rel=&quot;nofollow&quot;&gt;http://www.wikimanqala.org/wiki/Kiela&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Kiela is a mancala game played by Kimbundu (sometimes called Mbundu, Loanda or Luanda) speaking people in northern Angola. The game plays an important role in the oral literature and it is said to be a game of peace because &amp;quot;it can turn enemies into friends&amp;quot;. On the 5th of January, 1999, the Government of Angola instituted the Pr&amp;eacute;mio Kiela, a tournament which now offers prizes up to 1,500 US$ for the winner. &lt;br/&gt;The most important source on the game is a book by Bernardo Campos. Although he uses the name kiela (&amp;quot;puzzle&amp;quot;, &amp;quot;mind game&amp;quot;) both for the game itself and also for the kind of game (i.e., mancala) in a rather confusing manner, it was possible to extract the rules from it.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;Kiela is played on a board made by four rows of ten holes. Each player controls the two rows closest to him. &lt;br/&gt;At the beginning there are two stones in each hole of the outer rows and two stones in each of the four right holes of the inner row of each player. &lt;br/&gt;For a beginners game it is suggested to start playing with just one seed per hole, instead of two, in the same holes.&lt;br/&gt;&lt;br/&gt;At your turn you take all the stones from a hole belonging to your side of the board, which contains two or more seeds, and sow them anti-clockwise (i.e., you put one on each of the following holes, without skipping one, all around your two rows). For a beginners game, it is suggested that they can move even if there is a single stone. &lt;br/&gt;If the last stone lands in an empty hole, the turn ends. &lt;br/&gt;If the last stone lands in an occupied hole all these stones (the one just landed plus the ones that were already there) are picked up and you keep on sowing. &lt;br/&gt;     If this occupied hole is in the inner row and the opposite hole of the opponent is occupied, the stones of this hole are captured and you keep on sowing with them starting in the hole following the one that allowed you to capture. &lt;br/&gt;     If the outer hole of the opponent is also occupied, you capture also its stones, and sow with the stones from both opponent's holes. &lt;br/&gt;When a player cannot move (i.e., all his holes are empty or contain single stones), he has lost. For a beginners game, only if all his holes are empty, as they are allowed to move singletons. &lt;br/&gt;Expert players may, at their first turn, rearrange the stones on their side. &amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="9">Mancala</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50696" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="5.5543" />
+												
+											</ranks>
+					
+					<stddev>3.89444</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

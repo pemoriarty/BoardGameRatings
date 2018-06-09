@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66416">
+			<yearpublished>2010</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Crow and the Pitcher</name>
+									
+			<description>The Crow and the Pitcher is a trick-taking game based on the Aesop fable of the same name. Players must play off one another in order to gain points, but the highest suited card is not always the one that takes the trick, so one must be as clever as the Crow in Aesop's fable to score points and not perish from thirst.&lt;br/&gt;&lt;br/&gt;The deck consists of three colored suits of stone cards (numbered 2-10) and one set of black &amp;quot;thirst&amp;quot; cards (also numbered 2-10); a separate deck of pitcher cards has values from 6 to 13, with some duplicates, and one pitcher is revealed each trick. One player leads the first trick with a stone card, and other players must follow suit, if possible. If a player cannot follow suit, she can play a thirst card instead, and from the next round thirst cards can lead the trick. Whoever wins a trick leads the next trick, so winning tricks helps you dictate play.&lt;br/&gt;&lt;br/&gt;If the sum of the colored cards is less than the pitcher value, then the lowest card matching the lead wins; this player gets all cards played (positive points for colors, negative for thirst) and the Pitcher card (worth -5 points). If the sum of the colored cards is equal to or greater than the pitcher value, then the highest card matching the lead wins, and this player gets all cards played (again, positive points for colors, negative for thirst). In all cases, cards valued higher than the trick's pitcher card do not count toward determining whether the pitcher is full.&lt;br/&gt;&lt;br/&gt;If the trick is led by a thirst card, the highest thirst card wins, and that player takes all thirst cards played &amp;ndash; so make sure you hold onto your low value thirst cards to avoid winning a thirst-led trick!&lt;br/&gt;&lt;br/&gt;After three rounds, the player with the high score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/PRUiMeu7BCZg8LFIARcFiYoi5Pk=/fit-in/200x150/pic1137430.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3j6hHbWKJhRvGdsM1m9D8G5W20Q=/0x0/pic1137430.jpg</image>
+						
+												<boardgamepublisher objectid="17874">5th Street Games</boardgamepublisher>
+															<boardgamefamily objectid="7657">Animals: Crows</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="138035">English first edition</boardgameversion>
+															<boardgameversion objectid="138036">English second edition</boardgameversion>
+																						<boardgameartist objectid="54207">Phil Kilcrease</boardgameartist>
+															<boardgamedesigner objectid="10342">Sean MacDonald</boardgamedesigner>
+															<boardgameartist objectid="10342">Sean MacDonald</boardgameartist>
+															<boardgamepublisher objectid="8174">NoMADS GAMES (I)</boardgamepublisher>
+																													<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>62</usersrated>
+					<average>5.71592</average>
+					<bayesaverage>5.51397</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11415" bayesaverage="5.51397" />
+												
+											</ranks>
+					
+					<stddev>1.37484</stddev>
+					<median>0</median>
+					<owned>189</owned>
+					<trading>16</trading>
+					<wanting>4</wanting>
+					<wishing>11</wishing>
+					<numcomments>40</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

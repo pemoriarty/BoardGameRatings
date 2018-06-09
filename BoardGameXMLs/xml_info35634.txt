@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="35634">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Samurai: The Card Game</name>
+							<name  sortindex="1">サムライ・カードゲーム</name>
+							<name  sortindex="1">侍 卡牌版</name>
+									
+			<description>Samurai - the Card Game simulates the board game by placing cities on the board and then allowing each player to play one of their 5 cards from their hands. A city is considered surrounded when 4 cards surround the sides. A new city is placed when two different players cards create a location for it to be placed.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7D-11GWcCVC7PlhT4_AAAnQCG_M=/fit-in/200x150/pic552609.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_NlyC5P6XIH4jz7rHfxQ2vju5eQ=/0x0/pic552609.jpg</image>
+						
+												<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="9470">Asian Theme</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="80811">Chinese edition</boardgameversion>
+															<boardgamefamily objectid="10634">Country: Japan</boardgamefamily>
+															<boardgameversion objectid="29787">English/German edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgameversion objectid="380352">Japanese edition</boardgameversion>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+															<boardgamefamily objectid="28732">Samurai</boardgamefamily>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+															<boardgamepublisher objectid="8759">Wargames Club Publishing</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>409</usersrated>
+					<average>6.25406</average>
+					<bayesaverage>5.69864</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4045" bayesaverage="5.69864" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1350" bayesaverage="5.75606" />
+												
+											</ranks>
+					
+					<stddev>1.34755</stddev>
+					<median>0</median>
+					<owned>678</owned>
+					<trading>29</trading>
+					<wanting>28</wanting>
+					<wishing>90</wishing>
+					<numcomments>145</numcomments>
+					<numweights>28</numweights>
+					<averageweight>2.0357</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

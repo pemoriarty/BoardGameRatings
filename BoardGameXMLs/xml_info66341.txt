@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="66341">
+			<yearpublished>1980</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Frog Hop</name>
+							<name primary="true" sortindex="1">Toads and Frogs</name>
+									
+			<description>This game is played on an empty 1row x n coloumn board with m stones on each side. At each turn, each player must do one of the following actions. Move a stone forward (i.e., left to one player, right to the other) or jump over one enemy stone, landing on the immediate empty cell.&lt;br/&gt;The player who makes the last move, wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/N6sK1rrjbBli8Y8k9ZI9_OvN81k=/fit-in/200x150/pic1723250.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EG896SlDjmK7XLV0iXlbfK2yBsU=/0x0/pic1723250.png</image>
+						
+												<boardgamepublisher objectid="3258">A. K. Peters, Ltd.</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="6994">Animals: Frogs</boardgamefamily>
+															<boardgamefamily objectid="19021">Animals: Toads</boardgamefamily>
+															<boardgamedesigner objectid="5395">Elwyn R. Berlekamp</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="2590">John Conway</boardgamedesigner>
+															<boardgameversion objectid="192617">First edition</boardgameversion>
+															<boardgamedesigner objectid="5396">Richard K. Guy</boardgamedesigner>
+																						<boardgamecompilation objectid="18096">Winning Ways for Your Mathematical Plays</boardgamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>3.63333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.30988</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

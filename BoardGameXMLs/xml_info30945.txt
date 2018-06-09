@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="30945">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>600</playingtime>
+			<minplaytime>600</minplaytime>
+			<maxplaytime>600</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="4">La Bataille d&#039;Orël Octobre 1919</name>
+									
+			<description>The battle of Orel during the Russian Civil War, October 1919. Grand tactical simulation with 4 km/hex, daily turns, regiment scale with supporting tank, armored trains and armored cars units.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/N47gLuXHf3wRQC6AhxnhMhqNQ1Q=/fit-in/200x150/pic231704.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LP-Z9-MfOKyeLTPjcsDpIAI4lAs=/0x0/pic231704.jpg</image>
+						
+																			<boardgamedesigner objectid="9103">David Beaudlet</boardgamedesigner>
+															<boardgameartist objectid="42958">Didier Bourgeois</boardgameartist>
+															<boardgameartist objectid="42946">Christophe Camilotte</boardgameartist>
+															<boardgamecategory objectid="1102">Civil War</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepublisher objectid="2096">Histoire &amp; Collections</boardgamepublisher>
+															<boardgamefamily objectid="44377">Interwar</boardgamefamily>
+															<boardgamefamily objectid="9825">Magazine: Vae Victis</boardgamefamily>
+															<boardgameartist objectid="12062">Giuseppe Rava</boardgameartist>
+															<boardgamepublisher objectid="540">Vae Victis</boardgamepublisher>
+															<boardgameversion objectid="31005">Vae Victis magazine edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>24</usersrated>
+					<average>6.59583</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.31291</stddev>
+					<median>0</median>
+					<owned>162</owned>
+					<trading>2</trading>
+					<wanting>2</wanting>
+					<wishing>7</wishing>
+					<numcomments>15</numcomments>
+					<numweights>5</numweights>
+					<averageweight>3.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

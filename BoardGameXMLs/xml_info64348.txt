@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="64348">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tourney</name>
+									
+			<description>Tourney is played on a 8x8 square board.Each player starts with 16 pieces(called Chargers)8 on each of the two back rows.&lt;br/&gt;A Charger moves like a Chess Knight except:&lt;br/&gt;A Charger cannot jump over other pieces and can only move forward.&lt;br/&gt;A Charger lands on a cell with an opponent piece captures it.&lt;br/&gt;A Charger can make multiple captures in a single turn.&lt;br/&gt;Catpuring takes precedence over any move.&lt;br/&gt;A Charger reaching last row is promoted to a Champion.&lt;br/&gt;A Champion moves like the Charger, but it can also move backwards.&lt;br/&gt;The first player to satisfy one of the following conditions,wins:&lt;br/&gt;1.One of his Champions reaches his home row.&lt;br/&gt;2.Capture all opponent pieces.&lt;br/&gt;3.Stalemate the opponent.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ssn9yd5hakUxxVaRtSaErIE50Rw=/fit-in/200x150/pic1041562.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SUqodwzf0KRK4IpXD9mbQuq7OFI=/0x0/pic1041562.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamedesigner objectid="8259">Chris Huntoon</boardgamedesigner>
+															<boardgameversion objectid="36624">Print and Play edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.801784</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

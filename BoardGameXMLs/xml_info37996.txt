@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="37996">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Watubi</name>
+									
+			<description>Watubi, an African Strategy Game, is an abstract 2-player game played on a hexagonal board, in which players try to regroup their own scattered tribe-stones, using Halma style movement rules.&lt;br/&gt;&lt;br/&gt;Players each place their own set of 13 tribe-stones onto the predefined starting places. These tribe-stones have two sides: one side with a tribe-symbol, and one without. All stones start the game with the tribe-symbol face-up, but every time that a stone is jumped over, it flips over, either hiding the tribe-symbol, or revealing it again. A stone that jumps over another stone always ends its move with the tribe-symbol revealed.&lt;br/&gt;&lt;br/&gt;To win the game, a player must get at least 7 own stones into a single grouping. This can be anywhere on the board, with the catch that only stones that show the own tribe-symbol count, and all of them must touch.&lt;br/&gt;&lt;br/&gt;Movement rules are simple. A stone either moves to a free hexagon immediately next to the field it occupies, ending its movement with the same side face-up. Or it hops over a neighbouring stone, regardless of who it belongs to, flipping every stone it jumps over, and ending its movement with its own tribe-symbol face-up. Like Halma, hopping is only possible if the field directly behind the jumped stone is unoccupied, and you are allowed to keep hopping over other stones if the board allows it, as long as you never pass the same hexagon twice. You are not forced to jump over a piece if you don't want to, and you can stop jumping at any point that suits you.&lt;br/&gt;&lt;br/&gt;The board is made out of felt, the tribe-stones come in 2 colours and are made out of wood.&lt;br/&gt;&lt;br/&gt;ADDITIONAL INFO:&lt;br/&gt;&lt;br/&gt;     language skill needed: language neutral. Game comes with German rules.&lt;br/&gt;     english translation: None available.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nvN0_SjcOJ6bHJVU3ilvgQeJQm4=/fit-in/200x150/pic363350.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/slgKJ06C8ICO2uU-WakL-KFj-AE=/0x0/pic363350.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="127619">First edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="5300">Jürgen Reiche</boardgamedesigner>
+															<boardgamepublisher objectid="1770">Siebenstein Spiele</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.866025</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>5</wanting>
+					<wishing>7</wishing>
+					<numcomments>2</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28678">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">CamelQuest</name>
+							<name primary="true" sortindex="1">Grand Conquest</name>
+									
+			<description>Grand Conquest is very similar to earlier versions of Donald Benge's Conquest. However it adds some interesting features. Now there are camels, catapults, siege engines and a moat around the five home points. The tube package comes with a vinyl roll out map, pieces in more distinguishable colors than previous versions, and a separate puzzle book (The Conquest games have had collections of puzzles developed similar to chess puzzles that are quite entertaining and engaging for abstract strategy players).&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;&lt;br/&gt;    Conquest&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OFU5EE1UuqIXA4mbN4YQJYFzHWc=/fit-in/200x150/pic259781.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8NFcxk5vlHmaH0tfmjgBSC3Cc6M=/0x0/pic259781.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamedesigner objectid="55">Donald Benge</boardgamedesigner>
+															<boardgameartist objectid="49307">Nick Bonamy</boardgameartist>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgameversion objectid="72322">English/German second edition</boardgameversion>
+																						<boardgameversion objectid="140204">German first edition</boardgameversion>
+																													<boardgamedesigner objectid="30145">Dietmar Gottschick</boardgamedesigner>
+															<boardgameartist objectid="42310">Denis Michel</boardgameartist>
+															<boardgamepublisher objectid="8722">Numbskull Games</boardgamepublisher>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+																													<boardgamepublisher objectid="6695">Quest Games</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+																						<boardgameimplementation objectid="67" inbound="true">Conquest</boardgameimplementation>
+															<boardgameimplementation objectid="20467" inbound="true">Conquest</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>72</usersrated>
+					<average>7.69125</average>
+					<bayesaverage>5.61942</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5487" bayesaverage="5.61942" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="226" bayesaverage="6.02403" />
+												
+											</ranks>
+					
+					<stddev>1.53862</stddev>
+					<median>0</median>
+					<owned>226</owned>
+					<trading>15</trading>
+					<wanting>32</wanting>
+					<wishing>75</wishing>
+					<numcomments>36</numcomments>
+					<numweights>8</numweights>
+					<averageweight>3.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

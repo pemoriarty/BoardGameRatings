@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="43411">
+			<yearpublished>1969</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Pentomino</name>
+									
+			<description>Similar to Pan-Kai by Alex Randolph with two differences.&lt;br/&gt;&lt;br/&gt;Pentomino is played on a 8 x 8 grid and contains the 12 pentomino tiles plus 12 cards to distribute six pentominoes to each player before the game.&lt;br/&gt;Players now alternately place one piece per turn on the board, until no tile can be placed anymore. The player who placed more tiles than the other, wins.&lt;br/&gt;&lt;br/&gt;The original Pentominoes without the cards and tiles was solved by computers (&lt;a target='_blank' href=&quot;http://www.msri.org/publications/books/Book29/files/orman.pdf&quot; rel=&quot;nofollow&quot;&gt;http://www.msri.org/publications/books/Book29/files/orman.pd...&lt;/a&gt;); this version published by Zimpfer in 1969 contains 12 cards to randomly distribute the tiles between the players, making it an all new game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iQrAi-5itHyw9LDmikM9GktdSTI=/fit-in/200x150/pic496157.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XySo1KzPh9VQjrNivzz6Zd7KdPE=/0x0/pic496157.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="110653">German edition</boardgameversion>
+															<boardgamedesigner objectid="25715">Solomon W. Golomb</boardgamedesigner>
+															<boardgamepublisher objectid="5350">Granna</boardgamepublisher>
+															<boardgameversion objectid="293813">Polish edition</boardgameversion>
+																						<boardgamefamily objectid="24571">Polyominoes</boardgamefamily>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																						<boardgamepublisher objectid="4656">Zimpfer Metallwarenfabrik</boardgamepublisher>
+															<boardgameimplementation objectid="154934" inbound="true">Pentominoes</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.72047</stddev>
+					<median>0</median>
+					<owned>51</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

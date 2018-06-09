@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34009">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Loopit</name>
+									
+			<description>Players place numbered tiles with pipes on a Scrabble like board. The tiles only fit in one direction. On the board are multipliers in some places.&lt;br/&gt;&lt;br/&gt;On their turn, players may play up to 3 tiles from their rack onto the board, scoring for each tile. Played tiles must match up to the tiles next to them, being collected to at least one. The score for a tile is the sum of the tiles it is connected to plus the value of the tile itself, multiplied by the multiplier it is played on (if any).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/acZ0axZDFFTDXcppQYWbcEs-ojM=/fit-in/200x150/pic350960.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IMqY-V1kZgEon_8seMD7zOEWhZY=/0x0/pic350960.jpg</image>
+						
+												<boardgamehonor objectid="12755">2009 Kinderspielexperten &quot;8-to-13-year-olds&quot; Nominee</boardgamehonor>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgameversion objectid="119254">First edition</boardgameversion>
+																													<boardgamepublisher objectid="454">Goliath B.V.</boardgamepublisher>
+															<boardgamedesigner objectid="2330">David Mair</boardgamedesigner>
+															<boardgamepublisher objectid="11107">Nordic Games GmbH</boardgamepublisher>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>53</usersrated>
+					<average>5.90377</average>
+					<bayesaverage>5.51013</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11741" bayesaverage="5.51013" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="640" bayesaverage="5.56119" />
+												
+											</ranks>
+					
+					<stddev>1.62422</stddev>
+					<median>0</median>
+					<owned>92</owned>
+					<trading>7</trading>
+					<wanting>1</wanting>
+					<wishing>12</wishing>
+					<numcomments>18</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

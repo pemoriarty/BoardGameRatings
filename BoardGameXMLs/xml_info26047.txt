@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="26047">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Sid Meier&#039;s Civilization: The Card Game</name>
+									
+			<description>Civilization: The Card Game simulates the rise of empires as in the computer game Civilization.  Players will collect resources, obtain lands, construct Buildings and Wonders, discover Technologies, and fight enemies on their way to victory.  The game ends when the final Technology is bought, and the player with the most Victory Points (one each per Wonder, Technology, and Population) is declared the Winner. If Victory Points are tied, then the Winner is the player with the most Technologies. If Technologies are tied, then the Winner is the player with the most Population.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0yt4z7i-bteSLa4TnJfTqvn4wqs=/fit-in/200x150/pic191300.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uKN3UmpatyCGzYhIyojvTgsVgGs=/0x0/pic191300.jpg</image>
+						
+												<boardgamepublisher objectid="6108">2K Games, Inc.</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<videogamebg objectid="69188">Civilization</videogamebg>
+																						<boardgameversion objectid="24227">First edition</boardgameversion>
+															<boardgamepodcastepisode objectid="106233">Garrett&#039;s Games 379 - Civilization The Card Game, Little Prince, and Keythedral</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="7827">Soren Johnson</boardgamedesigner>
+															<boardgamedesigner objectid="7828">Sid Meier</boardgamedesigner>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>231</usersrated>
+					<average>6.00693</average>
+					<bayesaverage>5.57608</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6917" bayesaverage="5.57608" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="771" bayesaverage="5.60425" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1616" bayesaverage="5.59436" />
+												
+											</ranks>
+					
+					<stddev>1.5565</stddev>
+					<median>0</median>
+					<owned>549</owned>
+					<trading>20</trading>
+					<wanting>32</wanting>
+					<wishing>88</wishing>
+					<numcomments>108</numcomments>
+					<numweights>34</numweights>
+					<averageweight>2.0882</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

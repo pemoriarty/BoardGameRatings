@@ -1,0 +1,141 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="42971">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Snow Tails: De Dodensprong</name>
+							<name  sortindex="1">Snow Tails: Der Todessprung</name>
+							<name  sortindex="1">Snow Tails: El Salto de la Muerte</name>
+							<name  sortindex="1">Snow Tails: Le saut de la mort</name>
+							<name primary="true" sortindex="1">Snow Tails: The Leap of Death</name>
+									
+			<description>This is a special promo track, called The Leap of Death&amp;quot; for the game &amp;quot;Snow Tails&amp;quot;.&lt;br/&gt;&lt;br/&gt;Here are the rules for the special promo track:&lt;br/&gt;&lt;br/&gt;To clear this particularly dangerous obstacle, sleds must cross the purple line with a speed of at least 5.  A sled below this speed takes 1 dent card for each point of speed below 5.&lt;br/&gt;Furthermore, if a sled ends its movement on a crevasse square, the player doesn&amp;acute;t refill his hand (as if colliding with another sled).&lt;br/&gt;&lt;br/&gt;Of course, the effects described above can be cumulative.&lt;br/&gt;Example: a player whose sled passes the purple line at speed 3 and ends its move on the crevasse takes 2 dent cards and doesn&amp;acute;t refill his hand. Best of luck for the rest of the race!&lt;br/&gt;&lt;br/&gt;Enjoy the leap of death...&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mhLf1_RTvWkjQp1iDWnET-pzVbg=/fit-in/200x150/pic573850.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zAlihOL-4Tu9rWTQfgHd_Jg9eGM=/0x0/pic573850.jpg</image>
+						
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7349">Animals: Dogs</boardgamefamily>
+															<boardgamefamily objectid="12809">Arctic Theme</boardgamefamily>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamefamily objectid="8241">BoardGameGeek Promo Offerings</boardgamefamily>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="20649">First edition</boardgameversion>
+															<boardgamedesigner objectid="4168">Gordon Lamont</boardgamedesigner>
+															<boardgamedesigner objectid="4169">Fraser Lamont</boardgamedesigner>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+																						<boardgameimplementation objectid="216980">Snow Tails: Polar Plunge Track</boardgameimplementation>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5732">Sports: Winter Sports</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameexpansion objectid="38054" inbound="true">Snow Tails</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>289</usersrated>
+					<average>7.10008</average>
+					<bayesaverage>5.83289</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.83289" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="5.94991" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="5.96721" />
+												
+											</ranks>
+					
+					<stddev>1.14329</stddev>
+					<median>0</median>
+					<owned>883</owned>
+					<trading>32</trading>
+					<wanting>44</wanting>
+					<wishing>75</wishing>
+					<numcomments>144</numcomments>
+					<numweights>20</numweights>
+					<averageweight>1.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

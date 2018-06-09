@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="37751">
+			<yearpublished>1980</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tri-Chess</name>
+							<name  sortindex="1">Tri-Chess &amp; Chess</name>
+									
+			<description>Three player chess on a hexagonal board with two colors of hexagonal spaces (black and white).&lt;br/&gt;&lt;br/&gt;There are six bishops (one per color for each player). The pieces have normal starting positions. The standard plastic chess pieces are ivory white, black and gold. There are eight pawns each.&lt;br/&gt;&lt;br/&gt;Movement is somewhat complicated:&lt;br/&gt;&lt;br/&gt;     The king and rook can move in 6 directions - onto adjacent hexes that share a side.&lt;br/&gt;     The &amp;quot;diagonal&amp;quot; moves of the queen and bishop involve skipping over the two adjacent hexes of the other colours onto the hex beyond of the same colour. The bishop can thus move in 6 directions, the queen in 12.&lt;br/&gt;     The knight can also moves onto 12 possible hexes - it moves two hexes forward and one to the side, always onto adjacent hexes that share a side.&lt;br/&gt;     The pawn moves one diagonal hex forward and captures moving two adjacent hexes forward (these are the two hexes on either side of the one it could move to).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;There are a few other special rules to deal with castling, pawn promotion and whether a diagonal move can pass between two occupied hexes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YeMAQH_uGgqEWw8JRU8IMELy_V0=/fit-in/200x150/pic395509.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_qf1bqtTyu0tUR9LriAwywFzASQ=/0x0/pic395509.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="154199">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="10982">Anthony Patton</boardgamedesigner>
+															<boardgamepublisher objectid="8643">Tri-Chess</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>6.0625</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.6286</stddev>
+					<median>0</median>
+					<owned>22</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

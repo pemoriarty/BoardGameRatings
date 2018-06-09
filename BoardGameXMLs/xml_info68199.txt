@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="68199">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>13</playingtime>
+			<minplaytime>13</minplaytime>
+			<maxplaytime>13</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Catchup</name>
+							<name  sortindex="1">Ketchup</name>
+									
+			<description>Catchup is a simple abstract game with a devilish dynamic. The goal is to have the largest group of stones on the board when the board is full of stones, but as you get closer to winning, your opponent gets more powerful. Whereas most stone-placement games are about position, Catchup is about timing, position, and the interplay between them.&lt;br/&gt;&lt;br/&gt;Definitions:&lt;br/&gt;&lt;br/&gt;1. Group &amp;ndash; a set of connected, like-colored stones on the board. A single stone is also considered a group.&lt;br/&gt;&lt;br/&gt;2. Score - your score is the number of stones contained in your largest group. At the beginning of the game, both players' scores are set to 1&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;1. One player owns the white stones and the other owns the black. White begins by placing 1 stone on any empty space. &lt;br/&gt;&lt;br/&gt;2. From then on, starting with black, players take turns. On your turn, you may place 1 or 2 stones, or up to 3 if your opponent's score increased on their last turn and is, at the beginning of your turn, greater than or equal to your score.&lt;br/&gt;&lt;br/&gt;3. After taking your turn, if your score has changed, move your pawn to the corresponding spot on the scoring track.&lt;br/&gt;&lt;br/&gt;4. The game ends when the board is full. The player with the largest group wins. If the players&amp;rsquo; largest groups are the same size, compare their second-largest groups, and so on, until you come to a pair which aren&amp;rsquo;t the same size. Whoever owns the larger of the two wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iOoTKiCesyoXkGF6rVw1d890zN4=/fit-in/200x150/pic1129376.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tKfh3kn3y-BmMP0kSuJm6hqv_D0=/0x0/pic1129376.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamedesigner objectid="7958">Nick Bentley</boardgamedesigner>
+															<videogamebg objectid="164353">Catchup</videogamebg>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgameversion objectid="21831">First edition</boardgameversion>
+																													<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>92</usersrated>
+					<average>7.63261</average>
+					<bayesaverage>5.64524</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4888" bayesaverage="5.64524" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="142" bayesaverage="6.24581" />
+												
+											</ranks>
+					
+					<stddev>1.19235</stddev>
+					<median>0</median>
+					<owned>50</owned>
+					<trading>0</trading>
+					<wanting>9</wanting>
+					<wishing>48</wishing>
+					<numcomments>55</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.8</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

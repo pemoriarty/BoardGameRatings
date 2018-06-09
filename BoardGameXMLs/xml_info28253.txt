@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28253">
+			<yearpublished>2007</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>360</playingtime>
+			<minplaytime>360</minplaytime>
+			<maxplaytime>360</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">C.S.A. America&#039;s Civil War 1861-1865</name>
+									
+			<description>C.S.A. is a simulation game of the American Civil war. The USA player controls the Union side and the CSA player controls the Confederate side. The Game contains the rulebook, 288 counters, one color map and 10 sheets of charts and tables.&lt;br/&gt;&lt;br/&gt;The game uses Ben Madison and Wes Erni's &amp;quot;Charles S. Roberts Award&amp;quot; winning Death in the Trenches: The Great War, 1914-1918 system to simulate the American Civil War. Units represent Generals (their component brigades are represented off-map), elite units (Iron Brigade, Cobb's Legion), cavalry (Stuart, Stoneman), guerillas (Quantrill, Kirk), and Indians (Choctaws, Delawares, Stand Watie). Like Death in the Trenches: The Great War, 1914-1918 random events and &amp;quot;Special Event Coins&amp;quot; are crucial, and there are about 400 (yes, 400) of them.&lt;br/&gt;&lt;br/&gt;Forming stacks into 'Grand Armies' (e.g. Army of the Potomac, Army of Northern Virginia) enables the various commanders in the stack to coordinate their fighting powers. Cavalry have special abilities but also a habit of running away when you need them. Guerillas ravage the countryside (Quantrill, Price, Morgan -- and the less widely known Union barbarian, George Kirk). Generals do not always follow orders to move, and sometimes must be prodded by expending irreplaceable command chits. Special rules cover foreign intervention, the border states, as well as McClellan, Lee, Jackson and a few other characters. Naval warfare (Confederate commerce raiding) is handled by an extremely simple, elegant abstract model complete with a world map.&lt;br/&gt;&lt;br/&gt;The game is won by either capturing the government marker of either player or destroying his economy. Capturing cities and winning naval battles increases the enemy's inflation rate, which affects a lot of elements like national elections (there are three over the course of the game--one in the Confederacy!) and reinforcement rates.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UWc52W0BD-C7kAasSimIyLGm7y8=/fit-in/200x150/pic230789.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ElDnVEngbWDnEcev5AZW3BpHbAs=/0x0/pic230789.jpg</image>
+						
+												<boardgamecategory objectid="1048">American Civil War</boardgamecategory>
+															<boardgameartist objectid="14632">Ed Bourelle</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="8407">Wes Erni</boardgamedesigner>
+															<boardgamepublisher objectid="2537">Fiery Dragon Productions</boardgamepublisher>
+															<boardgameversion objectid="216815">First edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="4151">Ben Madison</boardgamedesigner>
+															<boardgameartist objectid="15291">Claudio Pozas</boardgameartist>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgameartist objectid="17864">David Sourwine</boardgameartist>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>6.79677</average>
+					<bayesaverage>5.5269</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10239" bayesaverage="5.5269" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2068" bayesaverage="5.67662" />
+												
+											</ranks>
+					
+					<stddev>1.42907</stddev>
+					<median>0</median>
+					<owned>121</owned>
+					<trading>10</trading>
+					<wanting>4</wanting>
+					<wishing>26</wishing>
+					<numcomments>22</numcomments>
+					<numweights>6</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

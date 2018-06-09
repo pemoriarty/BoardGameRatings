@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28762">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Hansa: Changing Winds</name>
+							<name  sortindex="1">Hansa: Wechselnde Winde</name>
+							<name  sortindex="1">ハンザ拡張：変化の風</name>
+									
+			<description>This expansion map to Hansa gives players new opportunities to ship goods among the Hanseatic League.  It also allows players to move the ship against the arrows on the board at a cost of 2 gold, and it adopts the additional endgame scoring mechanisms seen in Hansa Extrakarte.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9dyVz1YcF3dYnpqWCxNjFwqcL3c=/fit-in/200x150/pic156271.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aHR4J4KhUkZQ8nGsTJoqO9LUujE=/0x0/pic156271.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamefamily objectid="38692">Cities: Tallinn</boardgamefamily>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamepublisher objectid="25637">Game Field  (II)</boardgamepublisher>
+															<boardgameversion objectid="241489">GameField edition</boardgameversion>
+															<boardgamefamily objectid="24589">Hansa</boardgamefamily>
+																													<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+																						<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamedesigner objectid="86">Michael Schacht</boardgamedesigner>
+															<boardgameartist objectid="86">Michael Schacht</boardgameartist>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="296">Spiele aus Timbuktu</boardgamepublisher>
+															<boardgameversion objectid="100941">Spiele aus Timbuktu German first edition</boardgameversion>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameexpansion objectid="8989" inbound="true">Hansa</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>78</usersrated>
+					<average>7.12885</average>
+					<bayesaverage>5.60594</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.60594" />
+												
+											</ranks>
+					
+					<stddev>1.26647</stddev>
+					<median>0</median>
+					<owned>211</owned>
+					<trading>4</trading>
+					<wanting>48</wanting>
+					<wishing>68</wishing>
+					<numcomments>50</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="72595" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">3DO Blaster</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;The 3DO Blaster is an ISA add on card for DOS and Windows 3.1 PC's, which included the core chips of the 3DO console, allowing for play of that console's games on the PC.  It would only work when connected to a specific model of Panasonic CD-ROM drive, and utilized the PC's VGA card, along with a compatible SoundBlaster card for video and audio support.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwversion objectid="196107">3DO Blaster</videogamehwversion>
+															<videogamehardwarecategory objectid="2326">Add-On</videogamehardwarecategory>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwmfg objectid="12713">Creative Technology Limited</videogamehwmfg>
+															<videogamehardware objectid="4414" inbound="true">3DO</videogamehardware>
+															<videogamehardware objectid="4714" inbound="true">DOS</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

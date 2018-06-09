@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34496">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">World of Warcraft Miniatures Game</name>
+									
+			<description>The World of Warcraft Miniatures Game is Upper Deck Entertainments first venture into the collectible miniatures game market.  The game features characters from every class available in the World of WarCraft computer game, including signature heroes like Warchief Thrall, Leeroy Jenkins, High Priestess Tyrande Whisperwind, and Archmage Arugal.&lt;br/&gt;&lt;br/&gt;Various styles of play are available:&lt;br/&gt;Skirmishes - Combat between parties containing one to five characters.&lt;br/&gt;Dungeon Exploration - Co-operative or competitive play in an automated dungeon.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sb8IjPzHJnaLgqDwA3d5qERspdA=/fit-in/200x150/pic1237276.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AZoXF6HNb1PpQlOs4zZVLxwuUHk=/0x0/pic1237276.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="11812">Blizzard Entertainment</boardgamepublisher>
+																						<boardgamefamily objectid="5914">CMGs (Collectible Miniatures Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="13168">Episode 8: Road Trip</boardgamepodcastepisode>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamedesigner objectid="4371">Edward Fear</boardgamedesigner>
+															<boardgamedesigner objectid="10381">John Fiorillo</boardgamedesigner>
+															<boardgameversion objectid="72026">First edition</boardgameversion>
+																																																																																												<boardgamedesigner objectid="10138">Justin Gary</boardgamedesigner>
+															<boardgamepodcastepisode objectid="10833">Gencon &#039;08 Special</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="774">Matt Hyra</boardgamedesigner>
+															<boardgameartist objectid="11945">Mark Mcvey</boardgameartist>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+																																																									<boardgamedesigner objectid="10380">Anthony Shaheen</boardgamedesigner>
+															<boardgamedesigner objectid="49007">Patrick Sullivan (II)</boardgamedesigner>
+															<boardgamepublisher objectid="517">Upper Deck Entertainment</boardgamepublisher>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+															<boardgamefamily objectid="5013">Warcraft</boardgamefamily>
+															<videogamebg objectid="69309">World of Warcraft</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>695</usersrated>
+					<average>6.61791</average>
+					<bayesaverage>5.87208</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2676" bayesaverage="5.87208" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="91" bayesaverage="6.1951" />
+												
+											</ranks>
+					
+					<stddev>1.64529</stddev>
+					<median>0</median>
+					<owned>1371</owned>
+					<trading>102</trading>
+					<wanting>25</wanting>
+					<wishing>75</wishing>
+					<numcomments>217</numcomments>
+					<numweights>84</numweights>
+					<averageweight>2.3214</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="35499">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Fight Klub</name>
+									
+			<description>&amp;quot;Who would win in a fight between Hannibal Lecter and Dr. Evil?&amp;quot;&lt;br/&gt;&lt;br/&gt;Fight Klub is a classic battle of good and evil. Each expansion set features four heroes and four villains. The game pulls these heroes and villains from a pool of thousands of classic movies and TV shows. We have archive licenses to use characters from multiple film libraries. We are also in negotiations with many rightsholders to continuously add new licenses. Fight Klub is never static. It's always evolving. Players suggest licenses and vote on which characters they want to bring into Fight Klub. If we don't have a particular license, we will try to get it. The possibilities are endless.&lt;br/&gt;&lt;br/&gt;Fight Klub games play very quickly... in about fifteen minutes. Fight. Rinse. Repeat. Any deck can play any deck:&lt;br/&gt;&lt;br/&gt;* Good vs. Evil&lt;br/&gt;    * Evil vs. Evil&lt;br/&gt;    * Good vs. Good&lt;br/&gt;&lt;br/&gt;Fight Klub was created by members of the same team of award-winning designers who brought you Star Trek, Star Wars, and Lord of the Rings. Kendrick Summers, Gold Leader from our Star Wars CCG days, is back to be Players' Advocate and a tireless warrior for your causes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CN2prHDrjvh47Mo8R8GylnzHvjE=/fit-in/200x150/pic446466.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tVz_YhKuc0LLftrHG_lFihHw04s=/0x0/pic446466.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgamepublisher objectid="229">Decipher</boardgamepublisher>
+															<boardgamedesigner objectid="27732">Tim Ellington</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>43</usersrated>
+					<average>5.07209</average>
+					<bayesaverage>5.47482</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14092" bayesaverage="5.47482" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="243" bayesaverage="5.21924" />
+												
+											</ranks>
+					
+					<stddev>2.29776</stddev>
+					<median>0</median>
+					<owned>47</owned>
+					<trading>7</trading>
+					<wanting>4</wanting>
+					<wishing>7</wishing>
+					<numcomments>22</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.1538</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

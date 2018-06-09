@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="31722">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">18IR</name>
+							<name primary="true" sortindex="1">Steam over Holland</name>
+									
+			<description>1839, The Netherlands. The new railways are the way to get rich. Invest your money in the best railway companies. Become the President of one or more companies and lead them to become the best earning companies of the game. Build new track and stations, buy the right trains and push the stock value to new heights. Who will become the most successful investor?&lt;br/&gt;&lt;br/&gt;Steam over Holland is an economics game in which the players invest in and control railway companies. The game is part of the 18xx family of games.&lt;br/&gt;&lt;br/&gt;Microbadge: &lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aB292bZNPPp-SZVMXdFT3AJWOiQ=/fit-in/200x150/pic245670.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qPg5HV7bj-XhTMF40jEUHzxJsaY=/0x0/pic245670.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamefamily objectid="10309">Country: The Netherlands</boardgamefamily>
+																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																						<boardgameversion objectid="25158">First edition</boardgameversion>
+																																				<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+																																				<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamedesigner objectid="7472">Bart Van Dijk</boardgamedesigner>
+															<boardgamepublisher objectid="4675">Vendetta</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>465</usersrated>
+					<average>7.35503</average>
+					<bayesaverage>6.04834</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1921" bayesaverage="6.04834" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="826" bayesaverage="6.21724" />
+												
+											</ranks>
+					
+					<stddev>1.2918</stddev>
+					<median>0</median>
+					<owned>498</owned>
+					<trading>12</trading>
+					<wanting>98</wanting>
+					<wishing>181</wishing>
+					<numcomments>171</numcomments>
+					<numweights>52</numweights>
+					<averageweight>3.8077</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

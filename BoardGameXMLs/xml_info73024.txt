@@ -1,0 +1,77 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="73024" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Mijnenveger</name>
+							<name primary="true" sortindex="1">Minesweeper</name>
+							<name  sortindex="1">MS Röj</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Microsoft bundled a variant of the Minesweeper-type game in their Entertainment Pack in 1990.  In 1992 it was shipped with Windows 3.1.  It has since been included with every successive version of Windows.  As in other games of the type, the object is to expose all safe spots on the game grid (which can vary in size from 8&amp;times;8 to 30&amp;times;24).  Scattered throughout the grid are several mines (numbering from 10 to 667).  Clicking on a square exposes it, and if there are no adjacent mines, all adjacent safe squares are also exposed.  Clicking on a square hiding a mine ends the game.&lt;br/&gt;&lt;br/&gt;To aid in identifying unsafe squares, numbers appear on certain squares, showing how many mines are adjacent to them.  Therefore the game serves as a practice in deductive reasoning.&lt;br/&gt;&lt;br/&gt;The game has remained largely the same (save for cosmetic differences as Windows evolved), but for Windows 2000, the difficulty was slightly tweaked (the minimum size of the grid went up to 9&amp;times;9), and for Windows Vista, development was outsourced and the option to replace the mines with flowers was added in response to criticism from nations under threat from actual minefields.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Qd1Gp4EEYvU5ohuQHe2bxe9BNiQ=/fit-in/200x150/pic753023.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6xREM2tGUnARRMajZE-uz6UxJco=/0x0/pic753023.jpg</image>
+						
+																			<videogamedeveloper objectid="11453">Microsoft Game Studios</videogamedeveloper>
+															<videogamepublisher objectid="11453">Microsoft Game Studios</videogamepublisher>
+															<videogamecompilation objectid="91047">Microsoft Windows Entertainment Pack</videogamecompilation>
+															<videogamedeveloper objectid="804">Oberon Games</videogamedeveloper>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+																						<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="42923">Windows Integrated (3.x to XP) edition</videogameversion>
+															<videogameversion objectid="42924">Windows Integrated (Vista to 7) edition</videogameversion>
+															<videogame objectid="91047" inbound="true">Microsoft Windows Entertainment Pack</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>180</usersrated>
+					<average>5.22044</average>
+					<bayesaverage>5.21519</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6720" bayesaverage="5.21519" />
+												
+							
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="2109" bayesaverage="5.20353" />
+												
+											</ranks>
+					
+					<stddev>1.61594</stddev>
+					<median>0</median>
+					<owned>112</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>22</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.625</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

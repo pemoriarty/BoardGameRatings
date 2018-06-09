@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39604">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Mwambulula</name>
+									
+			<description>A mancala game. From &lt;a target='_blank' href=&quot;http://mancala.wikia.com/wiki/Mwambulula&quot; rel=&quot;nofollow&quot;&gt;http://mancala.wikia.com/wiki/Mwambulula&lt;/a&gt;:&lt;br/&gt;&lt;br/&gt;&amp;quot;Mwambulula of the Bemba near Kasama in northern Zambia. The game was first described in Europe in 1956 by J. H. Chaplin in the British journal Man.&lt;br/&gt;&lt;br/&gt;The boards are most commonly dug into the ground, the predominantly sandy soil making the excavation of holes quite easy. However, wooden boards are also carved.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;A board is used that consists of four rows, each one with eight holes. A player controls the two rows that are closer to him.&lt;br/&gt;&lt;br/&gt;At the start the holes in the outer rows contain two seeds, whereas the inner holes are empty. Each player also has 16 seeds in reserve.&lt;br/&gt;&lt;br/&gt;On his turn a player distributes the contents of one of his holes that contains at least two seeds anti-clockwise one by one into the following holes of his side.&lt;br/&gt;&lt;br/&gt;If the last seed is dropped into a non-empty hole, its contents (including the last seed) are picked up and then distributed in another lap, unless a capture is conducted.&lt;br/&gt;&lt;br/&gt;If the last seed falls into an occupied hole in the inner row and the enemy hole directly opposite is also occupied, the contents of both holes in the opponent's opposite file are captured. These enemy seeds are re-entered in a new lap, the sowing beginning at the hole from which the capture was initiated.&lt;br/&gt;&lt;br/&gt;A turn ends when the last seed is placed into an empty hole.&lt;br/&gt;&lt;br/&gt;Once in a game a player may distribute his reserve by placing in each of his holes one seed. Then, in the same turn, he continues by making an ordinary move as described.&lt;br/&gt;&lt;br/&gt;The game ends when a player cannot move.&lt;br/&gt;&lt;br/&gt;The player who could move last wins the game.&amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="9">Mancala</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

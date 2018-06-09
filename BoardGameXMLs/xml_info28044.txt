@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28044">
+			<yearpublished>2005</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Pocket Civ</name>
+									
+			<description>From the designer's website: &amp;quot;A Solitaire Civilization game that's compact enough to play on a plane.&amp;quot;&lt;br/&gt;&lt;br/&gt;PocketCiv is a print and play game that provides a solo or two-player civilization experience. PocketCiv comes in two flavors, Deluxe and Basic. Basic refers to the barest, stripped down version that you play with the deck of provided cards, and a pad of paper and a pencil. This version is very portable. However, if you want a more boardgame-like experience, you can download all the other artwork, and mount it on cardboard, illustration board (my new favorite mounting material) or foam core.&lt;br/&gt;&lt;br/&gt;The starting layout can be set up randomly, or for an additional challenge, one of the author's predefined Scenarios can be used.&lt;br/&gt;&lt;br/&gt;Using tribes to expand your civilization, create cities, buy advances, build wonders and go on expeditions, while preparing for the devastation that random events will bring.  Only with careful planning and a little luck will your empire stand the test of time.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/s1NPH2zrPV0-UxVOSKHmN-cNkk0=/fit-in/200x150/pic507528.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SFRIkoQCThcFmBC1mdh8nJTTGl4=/0x0/pic507528.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																													<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="22592">Print &amp; Play basic edition</boardgameversion>
+															<boardgameversion objectid="22593">Print &amp; Play deluxe edition</boardgameversion>
+															<boardgamepublisher objectid="14966">Print &amp; Play Productions</boardgamepublisher>
+																						<boardgamedesigner objectid="5524">Scott Slomiany</boardgamedesigner>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="10" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>513</usersrated>
+					<average>6.67097</average>
+					<bayesaverage>5.85226</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2796" bayesaverage="5.85226" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1144" bayesaverage="5.91357" />
+												
+											</ranks>
+					
+					<stddev>1.43673</stddev>
+					<median>0</median>
+					<owned>762</owned>
+					<trading>10</trading>
+					<wanting>44</wanting>
+					<wishing>446</wishing>
+					<numcomments>338</numcomments>
+					<numweights>92</numweights>
+					<averageweight>2.7391</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="63875">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Shax</name>
+									
+			<description>Shax is a traditional game from the Horn of Africa. It belongs to the Morris family. Like other games from that family, its origins date back to antiquity. The game is played by nomadic shepherds and city dwellers where a class of professional players has emerged.&lt;br/&gt;&lt;br/&gt;Shax is played on the same board as Nine Men's Morris, but with twelve pieces for each player. Play consists of two phases: the setup phase and the movement phase. In the setup phase, players take turns putting one piece on the board. Unlike in Nine Men's Morris, no pieces are removed when a jare (three-in-a-row, mill, literally: &amp;quot;cut&amp;quot;) is formed during the setup. It is only noted who formed the first jare.&lt;br/&gt;&lt;br/&gt;In the movement phase, the player who formed the first jare moves first (if no jare was formed in the setup phase, the second player starts). He does so by removing one arbitrary piece of the opponent in order to create space for movement. The opponent does the same. Then players take turns moving their stones as in the other Morris games.&lt;br/&gt;&lt;br/&gt;If a jare is formed in the movement phase, the player removes a piece of the opponent. Note that - again unlike other Morris games - pieces in a jare are never protected against capture. Another important difference is that blocking does not constitute a win. If a player is locked in, he may demand that the opponent moves his stones until the blockade is removed. No advantage may be taken from these extra moves. In particular, if a jare is formed during these moves, then no capture is performed. There is no &amp;quot;flying phase&amp;quot; when a player is reduced to three pieces or less. The player who loses all his pieces loses the game.&lt;br/&gt;&lt;br/&gt;Numerous references to Shax exist in proverbs and Somalian literature. Favorable patterns of stones have got their own names.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="4219">Morris</boardgamefamily>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6.9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

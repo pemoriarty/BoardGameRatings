@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="40213">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Nile</name>
+									
+			<description>Nile the card game consists of 92 cards. There are 5 suits each representing a resource type in Egypt. There are also specialty cards showing multiple resource types. Players draft cards into their hands and play them following simple rules. At the beginning of every turn a flood card is drawn showing one or more resource type. That resource type is harvested by the player currently growing it.&lt;br/&gt;&lt;br/&gt;Re-implemented by (with additional expansion):&lt;br/&gt;&lt;br/&gt;    Nile DeLuxor&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/L_Q52HVpDnQSJso9bYvMXm9dGFQ=/fit-in/200x150/pic688552.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SJxMeIomx33KKtVDPSuNOJmJLog=/0x0/pic688552.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+																													<boardgamedesigner objectid="10416">Daniel Callister</boardgamedesigner>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamefamily objectid="6471">Country: Egypt</boardgamefamily>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+																						<boardgameversion objectid="160543">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="12135">James Mathe</boardgamedesigner>
+															<boardgamepodcastepisode objectid="17677">Meeples &amp;amp; Miniatures - Episode #67</boardgamepodcastepisode>
+															<boardgamepublisher objectid="13433">Minion Games</boardgamepublisher>
+															<boardgameimplementation objectid="93971">Nile DeLuxor</boardgameimplementation>
+																						<boardgamefamily objectid="27500">Rivers: Nile</boardgamefamily>
+															<boardgamepodcastepisode objectid="14149">The Spiel #110 - A Bushel and a Deck</boardgamepodcastepisode>
+															<boardgameartist objectid="14927">Chuck Whelon</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>275</usersrated>
+					<average>6.23036</average>
+					<bayesaverage>5.63523</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5102" bayesaverage="5.63523" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1138" bayesaverage="5.69008" />
+												
+											</ranks>
+					
+					<stddev>1.47154</stddev>
+					<median>0</median>
+					<owned>356</owned>
+					<trading>27</trading>
+					<wanting>10</wanting>
+					<wishing>51</wishing>
+					<numcomments>97</numcomments>
+					<numweights>25</numweights>
+					<averageweight>1.56</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

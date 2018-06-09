@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="31235">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="5">The Witcher</name>
+							<name  sortindex="5">The Witcher Promo Card Game</name>
+									
+			<description>The game created for promotional purposes, available only with The Witcher PC RPG computer game.&lt;br/&gt;&lt;br/&gt;The game consist of one 55 cards deck, and concentrates on competition between two players. During the gameplay players will wander across the world of The Witcher and fight numerous beasts. The game features adventure and strategic elements, combining a typical computer-game character development with a tactical approach known from board games. This card game's rules have been designed under the supervision of CD Projekt RED, the creators of the computer version of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TF0HwmMUkI5FNJhP_a6beRkTbX0=/fit-in/200x150/pic250175.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Gb7Fkl_vihn6fMx9Rwi92vHNa_o=/0x0/pic250175.jpg</image>
+						
+												<boardgamepublisher objectid="6560">C and J Toys Inc</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameartist objectid="32241">CD Projekt</boardgameartist>
+															<boardgamepublisher objectid="7297">CD Projekt RED</boardgamepublisher>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamepublisher objectid="8351">Gen-X Games</boardgamepublisher>
+															<boardgamecategory objectid="1024">Horror</boardgamecategory>
+															<boardgamepublisher objectid="4466">Kuźnia Gier</boardgamepublisher>
+															<boardgamedesigner objectid="9104">Magdalena Madej-Reputakowska</boardgamedesigner>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+															<boardgamedesigner objectid="9105">Maciej Reputakowski</boardgamedesigner>
+															<boardgamedesigner objectid="4611">Michał Stachyra</boardgamedesigner>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+															<videogamebg objectid="74562">The Witcher</videogamebg>
+															<boardgamefamily objectid="28880">Witches</boardgamefamily>
+															<boardgamedesigner objectid="4613">Maciej Zasowski</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>5.18548</average>
+					<bayesaverage>5.483</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13704" bayesaverage="5.483" />
+												
+											</ranks>
+					
+					<stddev>2.004</stddev>
+					<median>0</median>
+					<owned>60</owned>
+					<trading>3</trading>
+					<wanting>2</wanting>
+					<wishing>10</wishing>
+					<numcomments>6</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

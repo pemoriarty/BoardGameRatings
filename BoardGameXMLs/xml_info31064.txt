@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="31064">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Invasion</name>
+									
+			<description>Described in the book Calculate!, Invasion is a game where players try to capture regions forming a path to the opponent's capital.&lt;br/&gt;&lt;br/&gt;Each region has a number on it, increasing in value the closer to the capital.  Play alternates between attacking and defending.  The attacker selects a region in the opponent's country that borders either the common border or one of the previously captured regions.  The attacker and the defender each secretly select a set of contiguous numbers from their grid of numbers.  The attacker selects from three to six and the defender selects one to three numbers.  The product of the attackers numbers is divided by the product of the defenders numbers.  If the resulting value is larger than the region number, the attacker colors the  region in.  If the  value is lower,  the defender colors the region in.  Once a region is colored in, it may not change hands again.  Numbers used in attack or defense may not be used again either.&lt;br/&gt;&lt;br/&gt;A player wins when the other capital is captured or when he seals off all paths to his own capital.  If a player does not have three contiguous numbers on his grid, he may no longer attack.  If neither player may attack, then the winner is determined by comparing the sum of the regions that each would need to take including capturing the capital - the lower sum wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ITL1CfmpcpvwytT8gKvGrRt7anY=/fit-in/200x150/pic276749.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/54ORhudnk7T-pa9oLv_Ubn0JPC8=/0x0/pic276749.jpg</image>
+						
+												<boardgamecompilation objectid="3939">Calculate!</boardgamecompilation>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamepublisher objectid="915">Pantheon Books</boardgamepublisher>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="4">Sid Sackson</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

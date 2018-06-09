@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="43264">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Pocket Rockets</name>
+									
+			<description>Each player is an astronaut who is building rockets. An &amp;quot;assembly plant&amp;quot; circle is formed from six special cards, and then the astronaut pawns move along the circle choosing different actions. At each location the player can perform a particular task, such as: draw the face-up card there (cards show a rocket base, fuselage or tip in one of three different colors), add a part to a rocket, take fuel tokens, change direction of rotation, etc. Some rocket tips grant special privileges, and the first fuel that's taken is more valuable than the last. When fuel reserves are exhausted, the winner is determined by comparing the astronauts' completed rockets - most fuselages wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/d1eVpO0dmfH2na2eU4kZ3eEhOK8=/fit-in/200x150/pic951671.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DzMdhgA2i8vAYlnKqwo6Nhv5KLM=/0x0/pic951671.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamedesigner objectid="9714">Antoine Bauza</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameartist objectid="12691">Marie Cardouat</boardgameartist>
+																						<boardgamepodcastepisode objectid="121411">Episode 78-- Star Studded Origins 2014 Wrap Up</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="24909">First edition</boardgameversion>
+																													<boardgameartist objectid="12935">Nicolas Fructus</boardgameartist>
+																																				<boardgamepublisher objectid="6488">Hazgaard Editions</boardgamepublisher>
+																						<boardgameartist objectid="12028">Christophe Madura</boardgameartist>
+															<boardgameexpansion objectid="76998">Pocket Rocket Bonus Cards</boardgameexpansion>
+																						<boardgameartist objectid="7488">David Rakoto</boardgameartist>
+																													<boardgameversion objectid="78390">Second edition</boardgameversion>
+															<boardgamecategory objectid="1113">Space Exploration</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="10" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>698</usersrated>
+					<average>6.34444</average>
+					<bayesaverage>5.82562</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2962" bayesaverage="5.82562" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="782" bayesaverage="5.91643" />
+												
+											</ranks>
+					
+					<stddev>1.15401</stddev>
+					<median>0</median>
+					<owned>1295</owned>
+					<trading>66</trading>
+					<wanting>43</wanting>
+					<wishing>167</wishing>
+					<numcomments>220</numcomments>
+					<numweights>52</numweights>
+					<averageweight>1.4423</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

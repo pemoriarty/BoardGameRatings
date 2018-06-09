@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="62244">
+			<yearpublished>2003</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">FOIL (Strategy)</name>
+									
+			<description>Foil is a board game primarily for two opponents. However, the board design allows configurations for more players.&lt;br/&gt;&lt;br/&gt;Each player has a source node from which his/her pieces originate. The object of the game is to remove the opponent's piece on his/her source node.&lt;br/&gt;&lt;br/&gt;Each piece is a six-sided dice, where each face represents a state. A turn consists of a player using a piece to &amp;quot;act&amp;quot; and then be removed from the board. Depending on the state, the piece can act on:&lt;br/&gt;&lt;br/&gt;a) An empty node&lt;br/&gt;b) One of his/her own pieces&lt;br/&gt;c) One of the opponent's pieces&lt;br/&gt;&lt;br/&gt;The remaining player's pieces then sequentially back-fill the empty node until the source node is left uncovered. The player can then add a piece of any state to the source node.&lt;br/&gt;&lt;br/&gt;There is one exception: the Thrust! In a &amp;quot;Thrust&amp;quot;, a player moves a piece from one node to another. The backfill process on proceeds to the baseline, whereby an empty node is left. In an &amp;quot;Thrust&amp;quot; move, the source node is left unchanged.&lt;br/&gt;&lt;br/&gt;The &amp;quot;states&amp;quot; of the pieces are as follows:&lt;br/&gt;&lt;br/&gt;1) Neutral&lt;br/&gt;2) Create  - adds a peice of Neutral State to the board&lt;br/&gt;3) Change  - changes the state of any of the players pieces to another state&lt;br/&gt;4) Recruit - changes opponent's pieces of State 4 or less to players own piece of Neutral State&lt;br/&gt;5) Eject   - removes opponents piece of State 5 or less&lt;br/&gt;6) Block   - acts as barrier to other states. Can sacrifice itself to remove other adjoacent opponent's piece of State 6&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9BRxgD9dBkBH4wLzxxZLZ8HNeh4=/fit-in/200x150/pic669539.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/262WXd0TXoy3pTBLdRsTyNF0tKg=/0x0/pic669539.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamedesigner objectid="32194">Paul Dowding</boardgamedesigner>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="47282">First edition</boardgameversion>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamepublisher objectid="11111">Putney Bridge Enterprises, LLC</boardgamepublisher>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

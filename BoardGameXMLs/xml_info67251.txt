@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="67251">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Terminator Salvation</name>
+							<name  sortindex="1">Терминатор: Да придет спаситель</name>
+									
+			<description>Tactical game based on Terminator Salvation movie. SkyNet and Resistance explore ruins of USA, rescue or destroy survivors and fight each other.&lt;br/&gt;&lt;br/&gt;One or two players lead Resistance. Their goal is either to gain 10 VP or to destroy all SkyNet units and factories. Victory points can be gained while exploring, by locating human survivors in pacticular.&lt;br/&gt;&lt;br/&gt;And one player takes control over SkyNet forces. They have to either destroy all resistance units or to find and kill all survivors (which are usually found by resistance itself). SkyNet can also explore territory just to find anything usefull for Resistance and destroy it for nothing.&lt;br/&gt;&lt;br/&gt;At the start of the game, one random map token is placed for every map area hidden. Later these tokens can be explored with different results. One SkyNet factory and a few units placed in one of six ruined cities. Resistance starts in 3 different random cities. Human units are generally weaker than SkyNets' (both sides have 4 types) but better for exploration and interception.&lt;br/&gt;&lt;br/&gt;Movement, exploration and other actions can be done by playing action cards from hand. Cards also can be traded for new cards.&lt;br/&gt;&lt;br/&gt;Combat can be initiated either using specific cards or when units of one side enter area with enemy forces (interception takes place if defender desires). In both cases initiator gets first shot using dice, then remaining units fire back once. Unlike such games as Nexus Ops, who makes hits here decides units to be killed.&lt;br/&gt;&lt;br/&gt;Box content:&lt;br/&gt;&lt;br/&gt;1 Gameboard&lt;br/&gt;135 cards for SkyNet and Resistance players&lt;br/&gt;50 map tokens&lt;br/&gt;8 unit stat cards&lt;br/&gt;36 miniatures&lt;br/&gt;5 d6&lt;br/&gt;1 rulebook&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7SUmbPOY3iqzG2C6kgLBMEXFTUA=/fit-in/200x150/pic671805.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oKQx_iFpjyE7LwBZRvV0dqwIIpQ=/0x0/pic671805.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="177415">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamedesigner objectid="36627">German Tikhomirov</boardgamedesigner>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>7.22432</average>
+					<bayesaverage>5.54802</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8524" bayesaverage="5.54802" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2349" bayesaverage="5.58609" />
+												
+											</ranks>
+					
+					<stddev>1.39776</stddev>
+					<median>0</median>
+					<owned>54</owned>
+					<trading>2</trading>
+					<wanting>8</wanting>
+					<wishing>21</wishing>
+					<numcomments>7</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

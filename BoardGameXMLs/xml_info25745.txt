@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="25745">
+			<yearpublished>2003</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Battle of Kasserine Pass</name>
+									
+			<description>The Battle of Kasserine pass is an expansion module to the original GMT game Kasserine by Vance von Borries. It was released in issue Nr15 of RBM's C3i Magazine and features a new map of the Kasserine Pass and 40 new counters (15 German, 5 Italian, 18 American and 2 British). All units are company size.&lt;br/&gt;&lt;br/&gt;The scale of the battle for Kasserine Pass differs from the original 2 miles/hex. The map is zoomed in on the pass itself and is scaled at 0.35 miles/hex. This also led to a change in time scale. Every turn is now 4 hours (instead of half a day in the original game).&lt;br/&gt;&lt;br/&gt;A few minor alterations in the original rules have been made to accommodate the change of scale.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bkIn3VBnbA-oQxhkUKfN1TMzNY0=/fit-in/200x150/pic150041.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0ZGRNJnAsZ2zTPSJurdg83U041E=/0x0/pic150041.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="216299">First edition</boardgameversion>
+															<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+															<boardgamefamily objectid="21567">Magazine: C3i</boardgamefamily>
+															<boardgamepublisher objectid="9367">RBM Studio</boardgamepublisher>
+															<boardgamedesigner objectid="671">Vance von Borries</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgameexpansion objectid="2298" inbound="true">Kasserine</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>29</usersrated>
+					<average>7.24655</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.25615</stddev>
+					<median>0</median>
+					<owned>194</owned>
+					<trading>3</trading>
+					<wanting>4</wanting>
+					<wishing>13</wishing>
+					<numcomments>14</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -29,7 +29,7 @@ game_info = []
 names = []
 for id in game_ids:
     game_xml_string = 'https://boardgamegeek.com/xmlapi/boardgame/' + str(game_ids[id]) + '?&stats=1'
-    game_tmp = request(game_xml_string, slp = 1)
+    game_tmp = request(game_xml_string, slp = 0.5)
     #soup_tmp = bs(game_tmp.content, 'html5lib')
     #game_xml = xmltodict.parse(game_tmp.content)
     file_name = "/media/pamela/Stuff/BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"

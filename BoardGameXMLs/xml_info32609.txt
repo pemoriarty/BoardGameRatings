@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32609">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Attraction</name>
+									
+			<description>Equipment:&lt;br/&gt;&lt;br/&gt;* 8x8 square board&lt;br/&gt;    * 8 stones for each player (16 stones in all)&lt;br/&gt;&lt;br/&gt;Each player sets up his pieces along his side of the board.&lt;br/&gt;&lt;br/&gt;Stones (or planets) may move in orbits around another (orthogonal) adjacent stone (the gravity center) of either color. This means that the moving stone can move to an empty cell which is orthogonally adjacent to the gravity center. This implies that isolated stones cannot move. Orbits are multiple, after one orbit, the moving stone can continue to move, if the direction of the orbit is smooth (e.g., if it began clockwise, it must continue counterclockwise, and so on...)&lt;br/&gt;&lt;br/&gt;Another moving possibility is that if there is a 3rd planet in front of a possible orbit, the orbiting stone can move to its place and push that stone to the immediate next empty cell (in the same direction of the orbit). If that next immediate cell is not empty, the gravity push is not possible.&lt;br/&gt;&lt;br/&gt;The first player that moves all of his stones into the initial adversary setup wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Kx60qwRNHiVG0RMv8HZJ1KmnAI4=/fit-in/200x150/pic760850.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/q8d1S2iGsb7VSg7_ZdBl2EPM7b0=/0x0/pic760850.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="3082">Dujardin</boardgamepublisher>
+															<boardgameversion objectid="48328">French edition</boardgameversion>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="36627">Print and Play edition</boardgameversion>
+															<boardgamedesigner objectid="9572">Mathieu Rivier</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.625</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.19242</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

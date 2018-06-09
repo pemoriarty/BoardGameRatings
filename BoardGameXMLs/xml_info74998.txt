@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="74998" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Rampart</name>
+							<name  sortindex="1">ランパート</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Defend your stronghold against a horde of invaders by building your walls and placing cannons.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/R3rqNjMWsgvszkJyLbQp5rk_woI=/fit-in/200x150/pic3556821.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PcM00yA1fVSU5LWOIGx7-S27mvk=/0x0/pic3556821.jpg</image>
+						
+												<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogamedeveloper objectid="11465">Atari, Inc.</videogamedeveloper>
+															<videogamedeveloper objectid="14238">Bitmasters Inc</videogamedeveloper>
+															<videogamepublisher objectid="2363">Domark</videogamepublisher>
+															<videogamepublisher objectid="11469">Electronic Arts Inc. (EA)</videogamepublisher>
+															<videogameversion objectid="355193">European Amiga edition</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogameplatform objectid="4422">Game Boy</videogameplatform>
+															<videogameplatform objectid="4424">Game Boy Color</videogameplatform>
+															<videogamecompilation objectid="120431">Gauntlet/Rampart</videogamecompilation>
+															<videogamepublisher objectid="12550">Jaleco Ltd</videogamepublisher>
+															<videogamedeveloper objectid="36399">The Kremlin</videogamedeveloper>
+															<videogamecompilation objectid="167735">Midway Arcade Origins</videogamecompilation>
+															<videogamecompilation objectid="77268">Midway Arcade Treasures</videogamecompilation>
+															<videogamecompilation objectid="100297">Midway Arcade Treasures: Extended Play</videogamecompilation>
+															<videogamepublisher objectid="11759">Midway Games Inc.</videogamepublisher>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="70225">North American Arcade edition</videogameversion>
+															<videogameversion objectid="47936">North American Game Boy Color edition</videogameversion>
+															<videogameversion objectid="184966">North American Game Boy edition</videogameversion>
+															<videogameversion objectid="84467">North American Genesis edition</videogameversion>
+															<videogameversion objectid="72285">North American NES edition</videogameversion>
+															<videogameversion objectid="84465">North American Sega Master System edition</videogameversion>
+															<videogameversion objectid="81782">North American SNES edition</videogameversion>
+															<videogamegenre objectid="2166">Real Time Strategy</videogamegenre>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4440">SNES</videogameplatform>
+															<videogamedeveloper objectid="12206">Tengen</videogamedeveloper>
+															<videogamepublisher objectid="12206">Tengen</videogamepublisher>
+															<videogamegenre objectid="2474">Tower Defense</videogamegenre>
+															<videogame objectid="120431" inbound="true">Gauntlet/Rampart</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>6.56087</average>
+					<bayesaverage>6.07606</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2118" bayesaverage="6.07606" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="147" bayesaverage="6.36471" />
+														<rank type="family" id="4422" name="gameboy" friendlyname="Game Boy Rank" value="54" bayesaverage="6.44177" />
+														<rank type="family" id="4424" name="gameboycolor" friendlyname="Game Boy Color Rank" value="28" bayesaverage="6.50838" />
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="102" bayesaverage="6.37762" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="93" bayesaverage="6.451" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="23" bayesaverage="6.45897" />
+														<rank type="family" id="4440" name="snes" friendlyname="SNES Rank" value="120" bayesaverage="6.37817" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="90" bayesaverage="6.49386" />
+												
+											</ranks>
+					
+					<stddev>1.49978</stddev>
+					<median>0</median>
+					<owned>43</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>8</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

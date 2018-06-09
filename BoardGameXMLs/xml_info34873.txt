@@ -1,0 +1,85 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="34873">
+			<yearpublished>1972</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Dodgem</name>
+									
+			<description>Dodgem is a simple abstract strategy game invented by Colin Vout and described in the book Winning Ways for Your Mathematical Plays. It is played on an n&amp;times;n board with n-1 cars for each player&amp;mdash;two cars each on a 3&amp;times;3 board is enough for an interesting game, but larger sizes are also possible.&lt;br/&gt;&lt;br/&gt;The board is initially set up with n-1 blue cars along the left edge and n-1 red cars along the bottom edge, the bottom left square remaining empty. Turns alternate: player 1 (&amp;quot;Left&amp;quot;)'s turn is to move any one of the blue cars one space forwards (right) or sideways (up or down). Player 2 (&amp;quot;Right&amp;quot;)'s turn is to move any one of the red cars one space forwards (up) or sideways (left or right).&lt;br/&gt;&lt;br/&gt;Cars may not move onto occupied spaces. They may leave the board, but only by a forward move. A car which leaves the board is out of the game.&lt;br/&gt;&lt;br/&gt;The winner is the player who first has no legal move on their turn because all their cars are either off the board or blocked in by their opponent.&lt;br/&gt;&lt;br/&gt;[From Wikipedia: &lt;a target='_blank' href=&quot;http://en.wikipedia.org/wiki/Dodgem&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Dodgem&lt;/a&gt;]&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/o9x37_YFrwWKgkw6bXvyuRQmFFc=/fit-in/200x150/pic304739.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6N9cEyc7LyVBIs33gRT9F_us3rU=/0x0/pic304739.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="32544">Print and Play edition</boardgameversion>
+															<boardgamedesigner objectid="7181">Colin Vout</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.67332</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

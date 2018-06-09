@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39488">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Lamlameta</name>
+									
+			<description>A mancala game.&lt;br/&gt;&lt;br/&gt;From Mancala World:&lt;br/&gt;&lt;br/&gt;&lt;a target='_blank' href=&quot;http://mancala.wikia.com/wiki/Lamlameta&quot; rel=&quot;nofollow&quot;&gt;http://mancala.wikia.com/wiki/Lamlameta&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&amp;quot;Lamlameta is a mancala game played by the Konso, a people living in Central Ethiopia near the village of Olanta. It is the recreation of adult males, and to a lesser extent boys and youths. The game is played on wooden boards with seeds in the open air or, during rains, in houses or just outside them in the shelter of the roof. The name of the game literally means &amp;quot;grouped in pairs&amp;quot;, a word related to lama, the numeral two in the Gallinya language. The game was first described by the ethnologue and renowned mancala games expert Richard Pankhurst in 1971.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;The board, called toma tag&amp;eacute;ga, has 2x12=24 pits (awa). Initially each pit contains two seeds known as tag&amp;eacute;ga.&lt;br/&gt;&lt;br/&gt;At his turn a player takes the contents of one of his pits which are then sown in a counter-clockwise direction into consecutive holes. Although Pankhurst stated that the opening move starts with the hole on the player's &amp;quot;extreme right or more preferably penultimate right&amp;quot;, these moves appear to be just common openings observed by him.&lt;br/&gt;&lt;br/&gt;If the last seed falls into a non-empty hole, its contents are picked up together with the last seed, and continued to be distributed.&lt;br/&gt;&lt;br/&gt;The move ends when the last seed is dropped into an empty hole.&lt;br/&gt;&lt;br/&gt;It is not permitted to drop a seed into opponent's holes which contain two seeds except in the very first move. Later these holes are jumped.&lt;br/&gt;&lt;br/&gt;If the last seed falls into an empty hole of your own facing an enemy hole containing two seeds he captures this pair, as well as any other groups of two seeds on his opponent's row.&lt;br/&gt;&lt;br/&gt;Play comes to an end when one of the players can no longer move. The remaining seeds are won by his opponent. The player who captured more pairs is declared winner.&amp;quot;&lt;br/&gt;&lt;br/&gt;Pankhurst, R. 1971. 'Gabata and Related Board Games of Ethiopia and the Horn of Africa', in Ethiopia Observer; 14 (3). Page 173.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="9">Mancala</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4.5</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39481">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Katra Gorobaka</name>
+							<name  sortindex="1">Katra mpantsaka</name>
+							<name primary="true" sortindex="1">Katro</name>
+									
+			<description>A mancala game.&lt;br/&gt;&lt;br/&gt;From Mancala World:&lt;br/&gt;&lt;a target='_blank' href=&quot;http://mancala.wikia.com/wiki/Katro&quot; rel=&quot;nofollow&quot;&gt;http://mancala.wikia.com/wiki/Katro&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&amp;quot;Katro is played by the Betsileo people in Fianarantsoa in the southern highlands of Madagascar. The game was described by the Dutch mancala researcher Alexander Johan de Voogt during an extensive field study in 1998. The board is usually dug in the earth and the players, mostly adult women and men, are often surrounded by a curious crowd of spectators.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;Katro is played on a 6x6-board, a very unusual size for a mancala game. Each player owns one half (upper or lower) of the board.&lt;br/&gt;&lt;br/&gt;Initially there are two stones in each hole.&lt;br/&gt;&lt;br/&gt;You must start your move in the outermost row of your side which has a non-empty hole. Singletons can also be moved.&lt;br/&gt;&lt;br/&gt;Moves are multi-lap. As in four-rank Mancala you only move on your side.&lt;br/&gt;&lt;br/&gt;If the last stone is dropped into a non-empty hole, all contents are picked up and are distributed one by one in the following holes by continuing in the same direction.&lt;br/&gt;&lt;br/&gt;If the last stone of a lap is dropped into a non-empty hole which is directly opposite to a non-empty hole of your opponent, all the contents of his hole are captured. His stones and the contents of your own hole are then distributed in a new lap starting in the next hole on your side. The following conditions must be met to effect a capture:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     As long as you have a non-empty hole in your innermost row, you may only capture from your innermost row. When your innermost row is empty you capture from your central row, if this row is also empty, you capture from your outermost row. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     You may only capture opponent's stones from his innermost row as long as there are still non-empty holes. If these holes are all empty you may capture stones from your opponent's central row. If this row is also empty you capture opponent's stones from his outermost row. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The game is played in a boustrophedon manner. The direction of play is either (see notation below) abcdefghijklmnopqrfedcbalkj or alkjihgrqponmabcdefgh.&lt;br/&gt;&lt;br/&gt;Notation&lt;br/&gt;&lt;br/&gt;a b c d e f&lt;br/&gt;l k j i h g&lt;br/&gt;m n o p q r&lt;br/&gt;M N O P Q R&lt;br/&gt;L K J I H G&lt;br/&gt;A B C D E F&lt;br/&gt;&lt;br/&gt;Players are not permitted to pass a move.&lt;br/&gt;&lt;br/&gt;The game ends when a player has no move. The player who moved last is declared winner.&amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="9">Mancala</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.77124</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="62207">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Russian Chess</name>
+							<name primary="true" sortindex="1">Tavreli</name>
+							<name  sortindex="1">Русские Шахматы</name>
+							<name  sortindex="1">Таврели</name>
+									
+			<description>Tavreli (Russian Chess) is a two-player abstract strategy board game in the same family as Western chess, Shatranj, Japanese Shogi or Chinese Xiangqi.  There was an ancient Russian Chess-like game called Tavreli but its rules have been lost over time. Today's Tavreli is a modern game that was recreated in the latest 1990s as a combination of standard Chess and Bashni (Russian Stacking Draughts).&lt;br/&gt;&lt;br/&gt;There are three main differences between Tavreli and standard Chess:&lt;br/&gt;&lt;br/&gt;- When a player captures an opponent's piece, the captured piece is not taken off the board. Instead of this the player puts his piece on top of the captured piece forming a stack.&lt;br/&gt;&lt;br/&gt;- A player can move his piece to a square occupied by another player's piece. In this case the player puts the moved piece on top of the &amp;quot;captured&amp;quot; one the same way as it happens with opponent's pieces.&lt;br/&gt;&lt;br/&gt;- A stack belongs to whoever owns its topmost piece, and moves as that piece does. However, a player is not obliged to move a stack as a whole: it is allowed to move just the top part of it leaving the bottom part on its place.&lt;br/&gt;&lt;br/&gt;The more detailed rules in English: &lt;a target='_blank' href=&quot;http://www.iggamecenter.com/info/en/tavreli.html&quot; rel=&quot;nofollow&quot;&gt;http://www.iggamecenter.com/info/en/tavreli.html&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0UzW9gcaEBSwcM3US3dMnWf88M0=/fit-in/200x150/pic606795.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5u3oNsFbf8-h1MUUBxAB8eO0bWI=/0x0/pic606795.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.52136</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

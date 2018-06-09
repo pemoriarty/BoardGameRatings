@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="27706">
+			<yearpublished>1970</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Bugs &amp; Looops</name>
+									
+			<description>Players program a simple Turing Machine, also known as a State Machine. One cube, called the pointer is positioned opposite a line of 7 other cubes, called the tape. For each state that the pointer/tape is in, a player writes an instruction changing the state, and moving the pointer. Points are scored for the number of times the pointer moves, unless the pointer moves past the end of the tape (a bug) or gets trapped in an endless cycle of instructions (a loop).&lt;br/&gt;&lt;br/&gt;The rulebook contains the instructions for a more complex version (Time-Sharing) and 4 simpler games, designed to introduce the concepts in the base game for younger players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Wn38cyy4Ggk2mrayFrz0XACsKzA=/fit-in/200x150/pic180802.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qqYi8CnDJUE1EknLmiC6fKcwvFI=/0x0/pic180802.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamepublisher objectid="6483">Creative Specialties, Inc.</boardgamepublisher>
+															<boardgameversion objectid="198928">First edition</boardgameversion>
+															<boardgamedesigner objectid="2550">Peter Kugel</boardgamedesigner>
+															<boardgamedesigner objectid="74273">Judy F. Kugel</boardgamedesigner>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>11</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

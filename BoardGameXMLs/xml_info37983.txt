@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="37983">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Affenlabor</name>
+							<name  sortindex="1">Labo de Singes</name>
+							<name primary="true" sortindex="1">Monkey Lab</name>
+									
+			<description>As former lab monkeys, players cooperate and compete to free imprisoned monkeys from a well-guarded testing facility. Of course, since the monkeys don&amp;rsquo;t have keys, they must use their creativity and the items found around the lab to pick, pry, and smash the cages open. The more monkeys you rescue, the more reward you receive.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/FuvAyglULbLOeR_gyvgrsRY8z4w=/fit-in/200x150/pic517933.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aKe3or3bQXJiqL5adUR2xW00fx0=/0x0/pic517933.jpg</image>
+						
+																			<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamepublisher objectid="396">Alderac Entertainment Group</boardgamepublisher>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7178">Animals: Apes / Monkeys</boardgamefamily>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="31852">First edition</boardgameversion>
+															<boardgameversion objectid="100559">German edition</boardgameversion>
+															<boardgameartist objectid="19981">Llyn Hunter</boardgameartist>
+															<boardgamedesigner objectid="9401">Dan Manfredini</boardgamedesigner>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamepodcastepisode objectid="106265">Monkey Lab</boardgamepodcastepisode>
+																																																																<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>269</usersrated>
+					<average>5.86071</average>
+					<bayesaverage>5.55853</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7834" bayesaverage="5.55853" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1357" bayesaverage="5.58368" />
+												
+											</ranks>
+					
+					<stddev>1.50253</stddev>
+					<median>0</median>
+					<owned>517</owned>
+					<trading>55</trading>
+					<wanting>13</wanting>
+					<wishing>55</wishing>
+					<numcomments>106</numcomments>
+					<numweights>26</numweights>
+					<averageweight>1.8462</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

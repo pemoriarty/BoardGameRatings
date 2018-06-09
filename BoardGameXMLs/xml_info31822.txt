@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="31822">
+			<yearpublished>2007</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Ali&#039;s Party</name>
+							<name primary="true" sortindex="1">Master of Rules</name>
+							<name  sortindex="1">ルールの達人</name>
+							<name  sortindex="1">阿狸大聚會</name>
+									
+			<description>At the same game table, each player independently plays his/her favorite rule. While one player is doing a trick-taking variant, another player wants to adjust the total number of cards' ranks of the trick under 24, and the third man plays a unique card about color and number. In this dizzying situation of total chaos, you must achieve success using the rules as much as possible!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/I7JLsMFUYSIoeUYFE9dfmolq_nw=/fit-in/200x150/pic353485.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NfGCUelF_Z8XWFnKzgIiyvTq7g4=/0x0/pic353485.jpg</image>
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="337041">Chinese edition</boardgameversion>
+																													<boardgameversion objectid="25984">English third edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="69482">Japanese first edition</boardgameversion>
+															<boardgamepublisher objectid="5885">Japon Brand</boardgamepublisher>
+															<boardgamedesigner objectid="4700">Susumu Kawasaki</boardgamedesigner>
+															<boardgameartist objectid="4700">Susumu Kawasaki</boardgameartist>
+															<boardgamepublisher objectid="3476">Kawasaki Factory</boardgamepublisher>
+																						<boardgameversion objectid="56837">Multilingual second edition</boardgameversion>
+															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>378</usersrated>
+					<average>5.9113</average>
+					<bayesaverage>5.59998</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5996" bayesaverage="5.59998" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1231" bayesaverage="5.63808" />
+												
+											</ranks>
+					
+					<stddev>1.51348</stddev>
+					<median>0</median>
+					<owned>711</owned>
+					<trading>64</trading>
+					<wanting>7</wanting>
+					<wishing>40</wishing>
+					<numcomments>164</numcomments>
+					<numweights>47</numweights>
+					<averageweight>1.5106</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,140 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="39382">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">18EZ</name>
+									
+			<description>18EZ is the first 18xx game designed from the ground-up to help players learn the 18xx system. The game uses a series of levels, which allow players play entire games quickly while learning the different phases of the game in bite-size pieces.&lt;br/&gt; For instance, In the first level, players learn how to build and manage routes. In the second, they are introduced to the stock market. Each level adds an element of interest for the new player, and keeps the game exciting.&lt;br/&gt; After completing all of the levels, players should be able to jump right into any 18xx game, without having to learn the entire complex system. They will just need to learn that specific variation, which will allow them to be competitive in what would otherwise be an hours long, painful session!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/__NaUYS0RDtHquC4d4Aq-aKUbmo=/fit-in/200x150/pic530622.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mu_2ATygTEGbdAyp3zRv5PfC4gc=/0x0/pic530622.jpg</image>
+						
+												<boardgamefamily objectid="19">18xx</boardgamefamily>
+															<boardgamepublisher objectid="9377">Andrew / Clay Games</boardgamepublisher>
+															<boardgamedesigner objectid="11297">Drew Dane</boardgamedesigner>
+															<boardgameartist objectid="11297">Drew Dane</boardgameartist>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamedesigner objectid="11298">Clay Murry</boardgamedesigner>
+															<boardgameversion objectid="28355">Quad-fold</boardgameversion>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameversion objectid="29929">Two-piece</boardgameversion>
+															<boardgameartist objectid="13696">Martin Tyman</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>77</usersrated>
+					<average>6.2159</average>
+					<bayesaverage>5.55175</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8264" bayesaverage="5.55175" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1653" bayesaverage="5.57559" />
+												
+											</ranks>
+					
+					<stddev>1.70673</stddev>
+					<median>0</median>
+					<owned>90</owned>
+					<trading>2</trading>
+					<wanting>36</wanting>
+					<wishing>83</wishing>
+					<numcomments>55</numcomments>
+					<numweights>13</numweights>
+					<averageweight>3.0769</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

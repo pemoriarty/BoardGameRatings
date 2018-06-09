@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="30929">
+			<yearpublished>2007</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Age of Steam Expansion: Barbados / St. Lucia</name>
+									
+			<description>These Age of Steam Expansions are compatible with Winsome's original Age of Steam and Steam. Both maps are tight and highly strategic, with Barbados as a single player map with great replayability, and St. Lucia as a two player map with fast playing time and unique features.&lt;br/&gt;&lt;br/&gt;Maps are not mounted.  They are printed on card stock and cut into 2 pieces.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/K8Bdct_nt07SEl3ABa9spKlxzxA=/fit-in/200x150/pic231653.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WMwWTWMvZ7ikexd08vFHYd2MVpQ=/0x0/pic231653.jpg</image>
+						
+												<boardgamepodcastepisode objectid="110646">1P 051 - Steam</boardgamepodcastepisode>
+															<boardgamefamily objectid="86">Age of Steam</boardgamefamily>
+															<boardgamedesigner objectid="6046">Ted Alspach</boardgamedesigner>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamepublisher objectid="5774">Bézier Games</boardgamepublisher>
+															<boardgameversion objectid="25291">Bezier Games edition 2007</boardgameversion>
+															<boardgameversion objectid="26519">Bezier Games second edition 2009</boardgameversion>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamefamily objectid="13504">Country: Barbados</boardgamefamily>
+															<boardgamefamily objectid="13505">Country: Saint Lucia</boardgamefamily>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgameversion objectid="242306">Quined White Goblin Dutch edition</boardgameversion>
+															<boardgamepublisher objectid="4696">Quined White Goblin Games</boardgamepublisher>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgameexpansion objectid="4098" inbound="true">Age of Steam</boardgameexpansion>
+															<boardgameexpansion objectid="27833" inbound="true">Steam</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>317</usersrated>
+					<average>7.2907</average>
+					<bayesaverage>5.90225</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.90225" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.03886" />
+												
+											</ranks>
+					
+					<stddev>1.2368</stddev>
+					<median>0</median>
+					<owned>917</owned>
+					<trading>18</trading>
+					<wanting>21</wanting>
+					<wishing>43</wishing>
+					<numcomments>188</numcomments>
+					<numweights>33</numweights>
+					<averageweight>3.0303</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

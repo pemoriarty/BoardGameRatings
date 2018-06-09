@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="70598" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Dr. Mario</name>
+							<name  sortindex="1">Dr. マリオ</name>
+									
+			<description>&amp;quot;Dr. Mario (Dr. マリオ) is an arcade-style puzzle video game produced by Nintendo. It was originally released for the Nintendo Entertainment System and Game Boy in 1990. Its play mechanics are compared to Tetris. In this game, Dr. Mario throws vitamins that the player must align in order to destroy the viruses that populate the playing field (designed to resemble a medicine bottle).&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Dr._Mario_(video_game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XUrf62LAnKI6DDK3WtjZA8MjnDQ=/fit-in/200x150/pic845072.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bnC4ixiBxCFLI_7GFGvOV63eUmY=/0x0/pic845072.jpg</image>
+						
+												<videogamefranchise objectid="27676">Better Description Needed</videogamefranchise>
+															<videogameseries objectid="5207">Dr. Mario</videogameseries>
+															<vgcharacterversion objectid="51839">Dr. Mario</vgcharacterversion>
+															<videogamecompilation objectid="84042">Dr. Mario &amp; Puzzle League</videogamecompilation>
+															<videogameversion objectid="34903">English/UK Game Boy Advance edition</videogameversion>
+															<videogameversion objectid="34900">English/UK Game Boy edition</videogameversion>
+															<videogameversion objectid="113523">eShop 3DS Downloadable edition</videogameversion>
+															<videogameversion objectid="232470">eShop Wii U Downloadable edition</videogameversion>
+															<videogameplatform objectid="4422">Game Boy</videogameplatform>
+															<videogameplatform objectid="4423">Game Boy Advance</videogameplatform>
+															<videogameversion objectid="283932">Japanese Famicom edition</videogameversion>
+															<videogameversion objectid="34901">Japanese Game Boy Advance edition</videogameversion>
+															<videogameversion objectid="34898">Japanese Game Boy edition</videogameversion>
+															<videogamefranchise objectid="4868">Mario</videogamefranchise>
+															<videogamecharacter objectid="4736">Mario</videogamecharacter>
+															<videogametheme objectid="2465">Medical</videogametheme>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogameplatform objectid="5857">Nintendo 3DS</videogameplatform>
+															<videogamedeveloper objectid="1326">Nintendo Co., Ltd.</videogamedeveloper>
+															<videogamepublisher objectid="1326">Nintendo Co., Ltd.</videogamepublisher>
+															<videogameversion objectid="34902">North American Game Boy Advance edition</videogameversion>
+															<videogameversion objectid="34899">North American Game Boy edition</videogameversion>
+															<videogameversion objectid="48886">North American NES edition</videogameversion>
+															<videogamefranchise objectid="6395">Player&#039;s Choice (Best Selling Nintendo Games, US &amp; EU)</videogamefranchise>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="56398">Spanish NES edition</videogameversion>
+															<videogamecompilation objectid="77963">Tetris &amp; Dr. Mario</videogamecompilation>
+															<videogameplatform objectid="10763">Wii U</videogameplatform>
+															<videogame objectid="84042" inbound="true">Dr. Mario &amp; Puzzle League</videogame>
+															<videogame objectid="77963" inbound="true">Tetris &amp; Dr. Mario</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>210</usersrated>
+					<average>6.84652</average>
+					<bayesaverage>6.61336</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="890" bayesaverage="6.61336" />
+												
+							
+														<rank type="family" id="4422" name="gameboy" friendlyname="Game Boy Rank" value="44" bayesaverage="6.58942" />
+														<rank type="family" id="4423" name="gameboyadvance" friendlyname="Game Boy Advance Rank" value="65" bayesaverage="6.71165" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="62" bayesaverage="6.70459" />
+														<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="94" bayesaverage="6.68634" />
+														<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="129" bayesaverage="6.69332" />
+												
+											</ranks>
+					
+					<stddev>1.48068</stddev>
+					<median>0</median>
+					<owned>234</owned>
+					<trading>3</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>31</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="30483">
+			<yearpublished>2007</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Antler Island</name>
+									
+			<description>Players take part in the stag rut on a Scottish island. Each player plays a stag interested in food, fighting and, of course, the opposite sex. The object of the game is to be the stag who has kissed the most doeples and outperformed  rivals in head-to-head combat!&lt;br/&gt;&lt;br/&gt;Who will finish as the dominant stag ?&lt;br/&gt;&lt;br/&gt;The game is medium-lightweight and comes with a quick start-up guide to allow easy play. It is deep enough to offer meaningful decisions and challenges to gamers while still being accessible to non-gamers.&lt;br/&gt;&lt;br/&gt;Fragor's Essen release for 2007.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/r_fMDmyUhY_SEH7gCiyc9YTcAYM=/fit-in/200x150/pic243997.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Co0F8JrPm70Tx7T-iE0VUlj2pKg=/0x0/pic243997.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7576">Animals: Deer</boardgamefamily>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+																																											<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="26720">First edition</boardgameversion>
+															<boardgamepublisher objectid="3013">Fragor Games</boardgamepublisher>
+																																				<boardgameartist objectid="27781">Clare Hewitt</boardgameartist>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamedesigner objectid="4168">Gordon Lamont</boardgamedesigner>
+															<boardgamedesigner objectid="4169">Fraser Lamont</boardgamedesigner>
+															<boardgameartist objectid="27997">Judith Lamont</boardgameartist>
+																													<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>502</usersrated>
+					<average>6.17187</average>
+					<bayesaverage>5.70343</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3995" bayesaverage="5.70343" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1355" bayesaverage="5.75399" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="985" bayesaverage="5.7744" />
+												
+											</ranks>
+					
+					<stddev>1.30963</stddev>
+					<median>0</median>
+					<owned>735</owned>
+					<trading>48</trading>
+					<wanting>38</wanting>
+					<wishing>120</wishing>
+					<numcomments>253</numcomments>
+					<numweights>71</numweights>
+					<averageweight>1.9577</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

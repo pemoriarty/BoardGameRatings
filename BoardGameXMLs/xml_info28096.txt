@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28096">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>11</age>
+
+							<name primary="true" sortindex="4">De Bellis Magistrorum Militum</name>
+							<name  sortindex="1">DBMM</name>
+									
+			<description>This is Phil Barker's significant reworking of the De Bellis Multitudinis system.&lt;br/&gt;&lt;br/&gt;Basic scale, size, and system remain in place, but significant differences in troop and army capabilities make it a  completely new game that plays very differently.&lt;br/&gt;&lt;br/&gt;Related games from the same family:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    De Bellis Antiquitatis&lt;br/&gt;    De Bellis Multitudinis&lt;br/&gt;    De Bellis Renationis&lt;br/&gt;    Hordes of the Things&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2RW8zUIfXPwje05Wtk-9DS9yYtA=/fit-in/200x150/pic760408.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/q4R9FFwv9BnUbRVjXsWUjHWVidE=/0x0/pic760408.jpg</image>
+						
+												<boardgameartist objectid="38652">The Alexander Mosaic</boardgameartist>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamedesigner objectid="1668">Philip C. Barker</boardgamedesigner>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+																						<boardgameexpansion objectid="50894">DBMM Army Lists Book 1: 3000 BC to 500 BC</boardgameexpansion>
+															<boardgameexpansion objectid="40506">DBMM Army Lists Book 2: 500 BC to 476 AD</boardgameexpansion>
+															<boardgameexpansion objectid="36397">DBMM Army Lists Book 3: 476 AD to 1071 AD</boardgameexpansion>
+															<boardgameexpansion objectid="93525">DBMM Army Lists Book 4: 1071 AD to 1515 AD</boardgameexpansion>
+															<boardgamefamily objectid="6324">DBx</boardgamefamily>
+															<boardgameversion objectid="51852">First edition</boardgameversion>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamepublisher objectid="2663">Partizan Press</boardgamepublisher>
+															<boardgameversion objectid="51855">Second Edition</boardgameversion>
+																						<boardgameversion objectid="328749">Third edition</boardgameversion>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="938">Wargames Research Group</boardgamepublisher>
+															<boardgameimplementation objectid="299" inbound="true">De Bellis Antiquitatis</boardgameimplementation>
+															<boardgameimplementation objectid="8495" inbound="true">De Bellis Multitudinis</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>59</usersrated>
+					<average>6.7678</average>
+					<bayesaverage>5.54773</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8546" bayesaverage="5.54773" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1911" bayesaverage="5.72405" />
+												
+											</ranks>
+					
+					<stddev>2.45643</stddev>
+					<median>0</median>
+					<owned>96</owned>
+					<trading>1</trading>
+					<wanting>4</wanting>
+					<wishing>10</wishing>
+					<numcomments>21</numcomments>
+					<numweights>9</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

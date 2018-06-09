@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33767">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Yavalath</name>
+									
+			<description>Yavalath is an abstract strategy game for two players. Players strive to make a straight line of 4 pieces of their colour, but lose if they make a line of 3 before doing so.&lt;br/&gt;&lt;br/&gt;The board (a hexagon 5 spaces on a side) is initially empty. Players take turns placing a piece of their colour on an empty cell.&lt;br/&gt;&lt;br/&gt;Yavalath was invented / discovered by a game-generating computer program developed by Cameron Browne as part of his Ph.D. research.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CrYXh2k2z-frDAKGiSfAqh1f0zQ=/fit-in/200x150/pic985141.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kI5bxDXBpWEmVIFcqT_n7vM4vpQ=/0x0/pic985141.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecompilation objectid="169776">Apocalypse Pack</boardgamecompilation>
+															<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="22566">Computer-generated games</boardgamefamily>
+															<boardgameversion objectid="169060">English deluxe second edition</boardgameversion>
+															<boardgameversion objectid="340296">English deluxe third edition</boardgameversion>
+															<boardgameversion objectid="23718">English first edition</boardgameversion>
+																													<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgameversion objectid="32446">Print-and-play edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>179</usersrated>
+					<average>7.11201</average>
+					<bayesaverage>5.70903</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3936" bayesaverage="5.70903" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="116" bayesaverage="6.33484" />
+												
+											</ranks>
+					
+					<stddev>1.39199</stddev>
+					<median>0</median>
+					<owned>157</owned>
+					<trading>0</trading>
+					<wanting>15</wanting>
+					<wishing>85</wishing>
+					<numcomments>79</numcomments>
+					<numweights>19</numweights>
+					<averageweight>2.3158</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

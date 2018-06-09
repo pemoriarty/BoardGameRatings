@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="41149">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Linkage</name>
+									
+			<description>This game is played on a 7x7 board with the center square blacked out. There are 24 pieces, 6 of 4 different colors. Each piece is a domino covering exactly two cells of the board. Both players choose pieces from a shared pool.&lt;br/&gt;&lt;br/&gt;There are two players in the game: the starting player is called &amp;quot;More&amp;quot; and the other player is called &amp;quot;Fewer&amp;quot;.&lt;br/&gt;&lt;br/&gt;The goals of the game are opposite for both players. The &amp;quot;Fewer&amp;quot; player wins a finished game if the number of distinct groups of cells of the same color is less than 12. Otherwise the &amp;quot;More&amp;quot; player wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Eq1-fis0-JHsaAVdxa0onpI8U9c=/fit-in/200x150/pic758839.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IwhcN0NtMrcH35cMtc6SFhpznqQ=/0x0/pic758839.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="215533">Deluxe edition</boardgameversion>
+															<boardgamedesigner objectid="11881">Ethan Larson</boardgamedesigner>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="47918">nestorgames edition</boardgameversion>
+															<boardgameversion objectid="43761">Print and Play edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>44</usersrated>
+					<average>7.33864</average>
+					<bayesaverage>5.54405</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8785" bayesaverage="5.54405" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="380" bayesaverage="5.78743" />
+												
+											</ranks>
+					
+					<stddev>1.24352</stddev>
+					<median>0</median>
+					<owned>36</owned>
+					<trading>0</trading>
+					<wanting>6</wanting>
+					<wishing>23</wishing>
+					<numcomments>17</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

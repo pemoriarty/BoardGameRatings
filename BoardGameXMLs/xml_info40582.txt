@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="40582">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Stacks</name>
+									
+			<description>This game is played on an empty 4x4 board. Each player starts with 24 pieces off board. On each turn, each player must do one of the following actions:&lt;br/&gt;- Drop a stack of 1, 2 or 3 stones into an empty cell.&lt;br/&gt;- Drop any number of stones on top of a friendly stack.&lt;br/&gt;- Move a stack into an adjacent (orthogonal or diagonal) empty cell. However, after the move the stack loses one stone (stacks of size 1 cannot move).&lt;br/&gt;- Move into and capture an adjacent enemy stack of smaller size (so stacks of size 1 cannot capture either). The attacking stack loses the number of stones equal to the captured stack plus one.&lt;br/&gt;&lt;br/&gt;All stones return to the players reserves. A player cannot make partial attacks, he must move all the stones of the attacking stack.&lt;br/&gt;&lt;br/&gt;Wins the player that makes a 4 in-a-row containing friendly stacks with the same size (like 4 stacks of size 3) or an equal, step-wise increment from start to end of the row (e.g., 1-2-3-4, 1-3-5-7, 2-5-8-11).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="9578">Derek Hohls</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																																		
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

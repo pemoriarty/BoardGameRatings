@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="61389">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">One-Time Path</name>
+									
+			<description>One-Time Path is a really simple 2-players dice game.&lt;br/&gt;&lt;br/&gt;You just need a die, 5 coasters, 12 coins (or chips or counters...) and a glass.&lt;br/&gt;&lt;br/&gt;Put the 5 coasters forming a path between both players and the glass over the middle coaster.&lt;br/&gt;&lt;br/&gt;In every turn, the two players (Up and Down) show at the same time several coins (from 1 to 6) and add them to obtain the 'threshold' (the 'threshold' should be a number between 1 and 6 so if the 'threshold' is greater than 6 you must subtract 6).&lt;br/&gt;&lt;br/&gt;Then, one of the players rolls a die and moves the glass following this instructions:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     If the die punctuation is greater than the 'threshold' the glass is moved one position towards the Up player.&lt;br/&gt;     If the die punctuation is less than the 'threshold' the glass is moved one position towards the Down player.&lt;br/&gt;     Is the die punctuation is equal to the 'threshold' the glass is not moved at all.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When the glass reaches one of the players the game is over and this player has lost.&lt;br/&gt;&lt;br/&gt;Obviously the Down player wants to have a 'threshold' of 1 or 2 and the Up players prefers a 'threshold' of 5 or 6 so both players are trying to guess what the other thinks to adjust their coins in consequence.&lt;br/&gt;&lt;br/&gt;If you can guess how many coins the adversary is going to show you can have better chances to win the game.&lt;br/&gt;&lt;br/&gt;One-Time Path it's a interesting drinking game. Just fill the glass with some liquor and force the loser to drink it ;-)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/A8ME-ze-E6dKVO1Z-raIq9ZGrtw=/fit-in/200x150/pic603916.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/81ky557rvqdrpmloIOBus3ZyY5I=/0x0/pic603916.jpg</image>
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="113371">First Publication</boardgameversion>
+															<boardgamedesigner objectid="31541">Carlos Luna Mota</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

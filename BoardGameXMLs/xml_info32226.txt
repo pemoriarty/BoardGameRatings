@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32226">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Liebe &amp; Intrige</name>
+									
+			<description>Each player represents a family trying to marry their three daughters. The daughters have three characteristics: Reputation, beauty, and education, all of which may increase and decrease in value during the course of the game. There are 14 gentlemen in the game, each of them demanding a minimum value in each characteristic. A daughter gets married immediately when she has collected three cards of the same gentleman, and meets the gentleman's standards in each of the three characteristics.&lt;br/&gt;&lt;br/&gt;The game ends when a family marries all of their daughters. Points are scored from husbands, action cards, and also from majorities in each characteristic.&lt;br/&gt;&lt;br/&gt;The game board depicts different parts of a town, each of them with a different number of available gentlemen cards.&lt;br/&gt;&lt;br/&gt;A player's turn consists of:&lt;br/&gt;1. Moving to a different region of the town.&lt;br/&gt;2. Doing a region-specific action, or trying to scheme against another daughter in the same region.&lt;br/&gt;3. Drawing an action card.&lt;br/&gt;&lt;br/&gt;Region-specific actions usually mean choosing a gentleman card from those available, but sometimes also cause changes in a daughter's characteristics. Scheming against another daughter means trying to steal a gentleman card from them, by rolling a die. Action cards can be played anytime during a player's turn, and sometimes also as a reaction to cards played by other players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/b40lhSx52xzRwX0ndMweAnZZ5Ns=/fit-in/200x150/pic257909.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Zmt6FCQre3Flp_ivXmgAYYsTEjw=/0x0/pic257909.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamedesigner objectid="9463">Ellen Maria Ernst</boardgamedesigner>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameartist objectid="6076">Christian Fiore</boardgameartist>
+															<boardgameversion objectid="58706">First edition</boardgameversion>
+																																																																																																																	<boardgamepublisher objectid="44">Goldsieber Spiele</boardgamepublisher>
+																													<boardgamedesigner objectid="9462">Kira Verena Samol</boardgamedesigner>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>252</usersrated>
+					<average>6.06766</average>
+					<bayesaverage>5.5931</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6229" bayesaverage="5.5931" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1247" bayesaverage="5.62943" />
+												
+											</ranks>
+					
+					<stddev>1.35315</stddev>
+					<median>0</median>
+					<owned>308</owned>
+					<trading>13</trading>
+					<wanting>14</wanting>
+					<wishing>52</wishing>
+					<numcomments>95</numcomments>
+					<numweights>38</numweights>
+					<averageweight>1.7632</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

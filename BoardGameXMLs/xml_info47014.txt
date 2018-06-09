@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="47014" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Munchkin Level Counter</name>
+									
+			<description>Part of the Munchkin series&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Manufacturer's Description&lt;br/&gt;&lt;br/&gt;Now all you iPhone-using munchkins can get an unfair, yet completely legal, advantage when you play Munchkin or Munchkin Quest!&lt;br/&gt;&lt;br/&gt;The Level Counter keeps track of your level (duh). It also rolls a six-sided die (and doesn't cheat). But best of all... once per game, you get a Boon... an in-game advantage to help you kill the monsters, steal the treasure, and stab your buddy. There are almost 150 different Boons, all illustrated by John Kovalic. The higher your level when you ask for your Boon, the better it's likely to be. And when you reach the winning level, it plays a fanfare. Your friends will hate you...&lt;br/&gt;&lt;br/&gt;Version 1.1 includes a digital version of the Kill-O-Meter, a battle counter to let you keep track of combat strength for both munchkins and monsters!&lt;br/&gt;&lt;br/&gt;Bonus features: counters for Chez Geek and SPANC (no Boons, though), and a very flexible interface for creating your own custom counters for other games.&lt;br/&gt;&lt;br/&gt;This app is NOT a stand-alone game! It is a game aid for Munchkin, Munchkin Quest, and pretty much anything else where you need to count.&lt;br/&gt;&lt;br/&gt;The level counter is available on the iPhone App Store!&lt;br/&gt;&lt;br/&gt;Also now available on the Android Market!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/U7Lpmpep6JODLZl6svcJ9ctoWCg=/fit-in/200x150/pic543581.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9a3Th1rwLRQIWo_9LKrNFDce4iM=/0x0/pic543581.jpg</image>
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameartist objectid="616">Phil Foglio</boardgameartist>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogameversion objectid="138877">iPhone edition</videogameversion>
+															<boardgamedesigner objectid="22">Steve Jackson (I)</boardgamedesigner>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+															<boardgamefamily objectid="24">Munchkin</boardgamefamily>
+																						<videogamegenre objectid="2482">Other</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<boardgamepublisher objectid="19">Steve Jackson Games</boardgamepublisher>
+															<videogamedeveloper objectid="19">Steve Jackson Games</videogamedeveloper>
+															<videogamepublisher objectid="19">Steve Jackson Games</videogamepublisher>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameexpansion objectid="553" inbound="true">Chez Geek</boardgameexpansion>
+															<boardgameexpansion objectid="1927" inbound="true">Munchkin</boardgameexpansion>
+															<boardgameexpansion objectid="29678" inbound="true">Munchkin Quest</boardgameexpansion>
+															<boardgameexpansion objectid="86955" inbound="true">Munchkin Zombies</boardgameexpansion>
+															<boardgameexpansion objectid="14535" inbound="true">SPANC: Space Pirate Amazon Ninja Catgirls</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>24</usersrated>
+					<average>6.5625</average>
+					<bayesaverage>5.48774</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6148" bayesaverage="5.48774" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="386" bayesaverage="5.26494" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="253" bayesaverage="5.21865" />
+												
+											</ranks>
+					
+					<stddev>2.78879</stddev>
+					<median>0</median>
+					<owned>151</owned>
+					<trading>3</trading>
+					<wanting>1</wanting>
+					<wishing>10</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

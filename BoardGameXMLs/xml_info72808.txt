@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="72808">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Saustall</name>
+							<name  sortindex="1">Saustall: Kommissar Kluftingers schwierigster Fall</name>
+							<name  sortindex="1">Το Τέλειο Άλλοθι</name>
+									
+			<description>A body was found in the picturesque mountain village. Players try to guess the murderer and the motive behind the murder as well, as completing their own tasks (see below).&lt;br/&gt;&lt;br/&gt;During the game players &amp;quot;bet&amp;quot; on the characteristics of the murderer. In their turn, they play an action that allows them to give a suspect an alibi. Some alibis can be made invalid through other actions. Its also possible to lower or rise the chances of a suspect being the murderer. It does also contain an deduction element, because the clues that identify the murder cannot be changed. Finding out the clues that are in the game is vital. In the end one of the clues in the game will be drawn to identify the murderer.&lt;br/&gt;&lt;br/&gt;The game also contains a take-that element: Players can hinder the player taking his turn by giving him a task that he is obliged to fulfill instead of taking his turn, or risk negative points.&lt;br/&gt;&lt;br/&gt;In the end, players score positive points for the correct suspect, motivation and clues and negative points for the unfulfilled private tasks.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/GfZRJf09fRLIw1uypNOgAD-4mdQ=/fit-in/200x150/pic742550.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/78p76maSnDa11_47QWN99foNpAs=/0x0/pic742550.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgameartist objectid="12587">Victor Boden</boardgameartist>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																																																																																												<boardgameversion objectid="101243">Greek Edition</boardgameversion>
+															<boardgameversion objectid="42355">Huch and Friend edition</boardgameversion>
+															<boardgamepublisher objectid="3490">HUCH!</boardgamepublisher>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+															<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+															<boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+															<boardgamedesigner objectid="142">Michael Rieneck</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>151</usersrated>
+					<average>6.25212</average>
+					<bayesaverage>5.5881</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6430" bayesaverage="5.5881" />
+												
+											</ranks>
+					
+					<stddev>1.53384</stddev>
+					<median>0</median>
+					<owned>217</owned>
+					<trading>16</trading>
+					<wanting>5</wanting>
+					<wishing>30</wishing>
+					<numcomments>26</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.2308</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,147 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="42206">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">7 Ate 9</name>
+							<name  sortindex="1">7 на 9</name>
+							<name  sortindex="1">Alto Voltaje</name>
+							<name  sortindex="1">Unter Spannung</name>
+							<name  sortindex="1">數字急轉彎</name>
+									
+			<description>7 Ate 9 is a quick-playing card game in everyone wants to rid themselves of cards as quickly as possible &amp;mdash; but you can't play just any card you want! Each card features a large numeral (1-10) as well as a smaller numeral in the corner (&amp;plusmn;1, &amp;plusmn;2, or &amp;plusmn;3).&lt;br/&gt;&lt;br/&gt;To play, place one card face down in the center of the table, deal the remaining cards out evenly among all the players, then reveal the central card. Players race to add the next card to the central pile. A card with a large 5 and a &amp;plusmn;2 in its corner, for example, could be covered by either a 3 or a 7 (since 5-2=3 and 5+2=7). The first player to get rid of all their cards wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tZ6ue9MHQeTmx_rv9yGx8JoLHw0=/fit-in/200x150/pic1659944.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uDUj7i1EelBVHg2ns86609AUQVA=/0x0/pic1659944.jpg</image>
+						
+												<boardgameimplementation objectid="241036">7 ate 9 multi</boardgameimplementation>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+															<boardgamepodcastepisode objectid="15214">BGB Volume 78 - Mystery Express, Days of Steam, Super Circles, 7 Ate 9 and Run Wild</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgameversion objectid="264387">Chinese edition</boardgameversion>
+															<boardgameversion objectid="149699">Dutch edition</boardgameversion>
+															<boardgameversion objectid="22383">English first edition (tin box)</boardgameversion>
+																																				<boardgameversion objectid="191793">English second edition (blister pack)</boardgameversion>
+															<boardgameversion objectid="326598">English second edition (blister pack)</boardgameversion>
+																						<boardgameversion objectid="209122">English third edition (tuckbox)</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="296118">German edition</boardgameversion>
+																																																																<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="617">Maureen Hiron</boardgamedesigner>
+															<boardgameartist objectid="79878">Christine Hoffmeyer</boardgameartist>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+															<boardgamepublisher objectid="23031">Magellan</boardgamepublisher>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamepublisher objectid="7772">Mercurio</boardgamepublisher>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+																						<boardgamepublisher objectid="48">Out of the Box Publishing</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameartist objectid="27336">Cathleen Quinn-Kinney</boardgameartist>
+																													<boardgameversion objectid="189775">Russian edition</boardgameversion>
+															<boardgameversion objectid="308983">Spanish edition</boardgameversion>
+															<boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+															<boardgamepodcastepisode objectid="5543">The Spiel #98 - Lighter Fare</boardgamepodcastepisode>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>321</usersrated>
+					<average>5.98673</average>
+					<bayesaverage>5.59796</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6059" bayesaverage="5.59796" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="195" bayesaverage="5.76376" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1226" bayesaverage="5.64078" />
+												
+											</ranks>
+					
+					<stddev>1.38666</stddev>
+					<median>0</median>
+					<owned>670</owned>
+					<trading>24</trading>
+					<wanting>7</wanting>
+					<wishing>38</wishing>
+					<numcomments>112</numcomments>
+					<numweights>21</numweights>
+					<averageweight>1.1429</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

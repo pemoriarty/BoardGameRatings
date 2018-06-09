@@ -1,0 +1,82 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="72255" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">VVVVVV</name>
+									
+			<description>&amp;quot;VVVVVV is a 2D puzzle platform video game, built using Adobe Flash for Microsoft Windows and Mac OS. Featuring a gravity flipping game mechanic, the game was developed by Terry Cavanagh and was released in 2010 alongside an online demo. A Linux version of the game was planned, but is on hold due to problems with Flash support on the operating system. However, the game is playable on Linux through Wine.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Vvvvvv,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/V9mJ6GQA6CeMrsUQDRofiyizl_Y=/fit-in/200x150/pic803204.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IQCcka3HDS725EqLVmEQioxqqmE=/0x0/pic803204.jpg</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="1001">(Web published)</videogamepublisher>
+															<videogameversion objectid="205290">eShop Nintendo 3DS edition</videogameversion>
+															<videogameplatform objectid="5248">Linux</videogameplatform>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogameversion objectid="40256">Macintosh Downloadable edition</videogameversion>
+															<videogamepublisher objectid="17087">Nicalis, Inc.</videogamepublisher>
+															<videogameplatform objectid="5857">Nintendo 3DS</videogameplatform>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+																						<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="40255">Windows Downloadable edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>117</usersrated>
+					<average>7.40727</average>
+					<bayesaverage>6.86688</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="564" bayesaverage="6.86688" />
+												
+							
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="169" bayesaverage="7.04511" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="334" bayesaverage="6.99332" />
+														<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="82" bayesaverage="7.10842" />
+														<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="56" bayesaverage="7.10582" />
+												
+											</ranks>
+					
+					<stddev>1.60535</stddev>
+					<median>0</median>
+					<owned>254</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>35</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

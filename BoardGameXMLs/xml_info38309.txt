@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="38309">
+			<yearpublished>2009</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">God&#039;s Playground</name>
+									
+			<description>The game is set in Poland and draws heavily from the book by Norman Davies. It covers the period from about 1400 to 1790, which is covered by vol 1 of the two books.&lt;br/&gt;&lt;br/&gt;Each player represents a Polish magnate. There are various ways of scoring victory points, owning land, religious activity, winning battles, etc. Surrounding Poland are her numerous enemies, who may or may not decide to attack Poland. It is up to the players how well they defend the country. The way the enemies work is that they change their strength to match historical changes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DtQMA-EeOvFn5wQJYtZ6yfBpp60=/fit-in/200x150/pic501309.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Wvvcc8iOkJWWJq-YDma-o00LPqU=/0x0/pic501309.jpg</image>
+						
+												<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameimplementation objectid="57998">Boże Igrzysko</boardgameimplementation>
+																						<boardgamefamily objectid="17053">Country: Lithuania</boardgamefamily>
+															<boardgamefamily objectid="10317">Country: Poland</boardgamefamily>
+															<boardgamefamily objectid="10635">Country: Ukraine</boardgamefamily>
+															<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgameversion objectid="20831">First edition</boardgameversion>
+																													<boardgamepodcastepisode objectid="73892">I&#039;ve Been Diced! episode 30: The games that got away</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="74796">I&#039;ve Been Diced! episode 31: Three player games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="83340">I&#039;ve Been Diced! episode 39: Martin Wallace</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamecategory objectid="2725">Pike and Shot</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="12275">Treefrog Games</boardgamepublisher>
+															<boardgamefamily objectid="99">Treefrog Line</boardgamefamily>
+															<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
+															<boardgamepublisher objectid="7">Warfrog Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>671</usersrated>
+					<average>7.45957</average>
+					<bayesaverage>6.23878</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1393" bayesaverage="6.23878" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="640" bayesaverage="6.43144" />
+												
+											</ranks>
+					
+					<stddev>1.38103</stddev>
+					<median>0</median>
+					<owned>884</owned>
+					<trading>18</trading>
+					<wanting>167</wanting>
+					<wishing>373</wishing>
+					<numcomments>279</numcomments>
+					<numweights>87</numweights>
+					<averageweight>3.6437</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

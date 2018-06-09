@@ -1,0 +1,133 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="56690">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="5">Das grosse Pentago</name>
+							<name  sortindex="1">Multi Joueurs Pentago</name>
+							<name primary="true" sortindex="1">Multiplayer Pentago</name>
+							<name  sortindex="1">Пентаго мультиплеер</name>
+									
+			<description>A four-player version of Pentago.&lt;br/&gt;&lt;br/&gt;The difference with Pentago XL is that all the boards can rotate, included the central board. The balls are replaced by chips with two colors each.&lt;br/&gt;&lt;br/&gt;Nice rotation mechanism.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/27zsSYwKbEMazb9mYM0cT902aZg=/fit-in/200x150/pic561440.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6AkJGJfqJZ5E6ZBzRwFbXXyuITg=/0x0/pic561440.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="9829">Pål Keller Carlquist</boardgamedesigner>
+																													<boardgameversion objectid="92492">English first edition</boardgameversion>
+																													<boardgamedesigner objectid="5993">Tomas Flodén</boardgamedesigner>
+															<boardgameversion objectid="111621">French first edition</boardgameversion>
+																						<boardgameversion objectid="111620">German first edition</boardgameversion>
+																						<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgamepublisher objectid="4561">Mindtwister AB</boardgamepublisher>
+															<boardgameversion objectid="147773">Mindtwister Multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="9348">Mindtwister USA</boardgamepublisher>
+																						<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamefamily objectid="18439">Pentago</boardgamefamily>
+																						<boardgameversion objectid="178557">Russian edition</boardgameversion>
+															<boardgamepublisher objectid="9466">Winning Moves France</boardgamepublisher>
+															<boardgameimplementation objectid="21012" inbound="true">Pentago XL</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>125</usersrated>
+					<average>6.39433</average>
+					<bayesaverage>5.5867</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6473" bayesaverage="5.5867" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="386" bayesaverage="5.78192" />
+												
+											</ranks>
+					
+					<stddev>1.24364</stddev>
+					<median>0</median>
+					<owned>282</owned>
+					<trading>23</trading>
+					<wanting>6</wanting>
+					<wishing>27</wishing>
+					<numcomments>29</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

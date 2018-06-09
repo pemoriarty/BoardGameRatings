@@ -1,0 +1,79 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="75055" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Test item for merge 1</name>
+							<name  sortindex="1">Test item for merge 2</name>
+							<name  sortindex="1">Test item for merge 3</name>
+							<name  sortindex="1">Test item for Merge 4</name>
+							<name  sortindex="1">Test item for merge 5</name>
+							<name  sortindex="1">Test item for merge 6</name>
+							<name primary="true" sortindex="1">Test item for merge 7</name>
+									
+			<description>test&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamemode objectid="2313">Cooperative</videogamemode>
+															<videogamemode objectid="2327">Massively Multiplayer</videogamemode>
+															<videogameversion objectid="47163">Mergetest1 version</videogameversion>
+															<videogameversion objectid="47281">mergetest3</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4350">Test Platform</videogameplatform>
+															<videogameversion objectid="47165">Testmerge 2 version</videogameversion>
+															<videogameversion objectid="47287">testmerge4</videogameversion>
+															<videogameversion objectid="48042">Testmerge5</videogameversion>
+															<videogameversion objectid="48046">Testmerge6</videogameversion>
+															<videogameversion objectid="48048">testmerge7</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4350" name="testplatform" friendlyname="Test Platform Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

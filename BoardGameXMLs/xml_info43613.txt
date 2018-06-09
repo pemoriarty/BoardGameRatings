@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="43613">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">World at War: Battles within Battles</name>
+									
+			<description>(from LnL website:)&lt;br/&gt;&lt;br/&gt;The first downloadable expansion in the World at War system.&lt;br/&gt;&lt;br/&gt;For those new to World at War, the game simulates, on a platoon-level. The expansion contains 14 scenarios, an 8.5&amp;rdquo; x 11&amp;rdquo; map, a few new rules, a handful of new counters, and also utilizes the counters and maps from Eisenbach Gap and Blood and Bridges.&lt;br/&gt;Scenarios size is generally small/medium and there is also a 5-scenario linked campaign.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A scenario pack [downloadable] for the World at War series by Lock 'N Load.&lt;br/&gt;&lt;br/&gt;Components:&lt;br/&gt;&lt;br/&gt;    A new 8.5&amp;quot; x 11&amp;quot; map.&lt;br/&gt;    14 new scenarios.&lt;br/&gt;    The Bitterfeld Campaign, a 5-scenario persistent campaign [5 of the 14 scenarios].  &lt;br/&gt;    A handful of easy to mount, one-sided administrative counters used in the Bitterfeld Campaign.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/HbA_TLIM9VCm897ixrBhkYrNFyc=/fit-in/200x150/pic499370.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SNpe0tUiCgGqBbG-Ja71ZjjoBRo=/0x0/pic499370.jpg</image>
+						
+												<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgameartist objectid="12341">David Julien</boardgameartist>
+															<boardgameexpansion objectid="133581">Line of Fire #13</boardgameexpansion>
+															<boardgamepublisher objectid="6025">Lock &#039;n Load Publishing, LLC.</boardgamepublisher>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgameartist objectid="13512">Guillaume Ries</boardgameartist>
+															<boardgameartist objectid="12340">Marc von Martial</boardgameartist>
+															<boardgamedesigner objectid="2343">Mark H. Walker</boardgamedesigner>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamefamily objectid="3203">World at War Series</boardgamefamily>
+															<boardgame objectid="140251" inbound="true">Line of Fire #12</boardgame>
+															<boardgameexpansion objectid="25729" inbound="true">World at War: Eisenbach Gap</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>44</usersrated>
+					<average>7.52247</average>
+					<bayesaverage>5.56164</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56164" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.91868" />
+												
+											</ranks>
+					
+					<stddev>1.60256</stddev>
+					<median>0</median>
+					<owned>139</owned>
+					<trading>1</trading>
+					<wanting>12</wanting>
+					<wishing>32</wishing>
+					<numcomments>15</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

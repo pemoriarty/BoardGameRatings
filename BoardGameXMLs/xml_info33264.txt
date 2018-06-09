@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="33264">
+			<yearpublished>1998</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Black &amp; White</name>
+									
+			<description>Move and jump to make a 5 in-a-row or capture all the opponents pieces in this 2-player abstract game.&lt;br/&gt;&lt;br/&gt;Equipment:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     a 5x5 board&lt;br/&gt;     10 reversible pieces (like in Reversi/Othello)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Each player starts with 5 pieces - one plays white the other black. The game begins with each player dropping one piece per turn on an empty cell. After that, on each turn, each player must do one of the following two actions: &lt;br/&gt;&lt;br/&gt;     Use a friendly stone to jump (orthogonally or diagonally) over an enemy piece landing on the immediate empty cell and flipping the color of the jumped piece (black turns white, and vice versa). Jumps may be multiple - i.e. a series of jumps over one enemy piece each. &lt;br/&gt;     Move a friendly stone to an (orthogonal or diagonal) adjacent empty cell.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The player that either makes an (orthogonal or diagonal) 5 in-a-row or captures all the opponents pieces wins.&lt;br/&gt;&lt;br/&gt;In the online version captures (potentially multiple) are forced, and the win is by 5 in-a-row or by forcing the opponent into a stalemate. The forced moves and stalemate is not mentioned in the original rather brief rules, while the win by complete capture is not mentioned in the online version.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/G5f5L9tdjBvpCgx4eHOGPQwgkQA=/fit-in/200x150/pic789336.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/md1sOBP2RM1GQ7nvsDtJKmhSWAg=/0x0/pic789336.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepublisher objectid="496">danspil</boardgamepublisher>
+															<boardgameversion objectid="269543">Danspil blue square edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="29845">Print and Play edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>4.78571</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.80984</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>4</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

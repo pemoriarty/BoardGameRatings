@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="32987">
+			<yearpublished>2002</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Billiards</name>
+									
+			<description>An abstract version of the game Billiards that can be played with the components listed below or on paper.&lt;br/&gt;&lt;br/&gt;Each player places his three stones along the short end of the board closest to him.&lt;br/&gt;&lt;br/&gt;On each turn, each player may pass or move one friendly stone. Each stone moves in a L fashion, i.e., it slides (orthogonally or diagonally) over a straight line of empty cells and just before reaching an obstacle (board edge or another stone), it must make a 90&amp;ordm; turn (to the left of to the right) and move at least one more cell, until it finds another obstacle (it's invalid to stop in the middle of this double path). A stone already at the last row cannot move.&lt;br/&gt;&lt;br/&gt;The player that first occupies his opponent's initial spaces with his own stones wins.&lt;br/&gt;&lt;br/&gt;This game appeared in Walter Joris's book 100 Strategic Games for Pen and Paper.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamedesigner objectid="5107">Walter Joris</boardgamedesigner>
+															<boardgameversion objectid="48137">Print and Play edition</boardgameversion>
+															<boardgamefamily objectid="6949">Sports: Billiards / Snooker / Pool</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

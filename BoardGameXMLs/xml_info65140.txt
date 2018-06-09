@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="65140">
+			<yearpublished>0</yearpublished>
+			<minplayers>4</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Mismatch</name>
+									
+			<description>This game is played with a standard deck of cards. Each player is dealt 13 cards and then tricks are played.&lt;br/&gt;&lt;br/&gt;If a trick does not contain a match (two or more cards of the same rank or suit, or three or more cards in numerical order), it is taken by the highest card played, and its penalty score is that of the lowest card played.&lt;br/&gt;&lt;br/&gt;If the trick does contain a match, it is won by the last player to duplicate a rank or suit, or to complete a run of three or four. Its penalty score is a multiple of 10 as follows:10 for two of the same suit, 20 for two of the same rank (pair), 30 for a match of three cards and 40 for a match of four cards.&lt;br/&gt;&lt;br/&gt;The overall winner is the player with the lowest penalty score at the end of eight deals, or when one player has reached 250 in penalties.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="173597">First edition</boardgameversion>
+															<boardgamedesigner objectid="166">David Parlett</boardgamedesigner>
+																						<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

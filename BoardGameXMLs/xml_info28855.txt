@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="28855">
+			<yearpublished>1965</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Liar&#039;s Poker</name>
+									
+			<description>An implementation of a dice bluffing game, similar to Liar's Dice.  A player, the &amp;quot;Declarer&amp;quot; rolls the dice and announces what poker hand is under the cup.  The player to the left, the &amp;quot;Caller&amp;quot;, announces whether he or she believes the Declarer.  If the Caller believes the Declarer then the Caller takes the cups and is the new declarer, and must declare a higher poker hand from the dice under the cups, with the player to the left as the new Caller.  Play continues until a Caller accuses the Declarer of being a liar, and the dice are revealed.  If the Declarer was lying then the declarer must pay out, but if the Declarer was telling the truth, the Declarer collects from the other players.&lt;br/&gt;&lt;br/&gt;The rules as printed don't give a lot of detail about the game.  Though money is provided, it's not made clear how bets take place, nor what the game ending conditions are.  Presumably, like Liar's Dice, the game would end when one player has all of the money, and players would be eliminated when they have no money.&lt;br/&gt;&lt;br/&gt;Unlike Liar's Dice, only one player is rolling at one time, and there are a total of five dice that are rolled.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mdQydNIZIZrglzR8pib7VhyQydo=/fit-in/200x150/pic232310.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bmDOlDV1wx0B3Y0yF-0xlrwy5QA=/0x0/pic232310.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamefamily objectid="22160">Dice cup bluffing games</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="238183">First edition</boardgameversion>
+															<boardgamefamily objectid="9313">Poker</boardgamefamily>
+															<boardgamepublisher objectid="5754">Spare-Time Corporation</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>5.4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.498</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

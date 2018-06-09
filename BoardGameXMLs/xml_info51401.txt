@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="51401">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Ndengrod</name>
+							<name primary="true" sortindex="1">Pentalath</name>
+									
+			<description>Pentalath (also called Ndengrod) is an abstract board game for two players, designed by a computer program called LUDI, invented by Cameron Browne.&lt;br/&gt;&lt;br/&gt;It is the &amp;quot;brother&amp;quot; of Yavalath and it can be played using a Yavalath set.&lt;br/&gt;&lt;br/&gt;It is available from nestorgames.&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;Players: White and Black.&lt;br/&gt;&lt;br/&gt;Start: The board is initially empty.&lt;br/&gt;&lt;br/&gt;Play: Players take turns placing a piece of their colour at an empty cell. After each move, any same-coloured groups with no freedom (i.e. no adjacent empty board cell) are captured and removed.&lt;br/&gt;&lt;br/&gt;End: Players win by making a line of five or more pieces of their colour.&lt;br/&gt;&lt;br/&gt;First move equaliser: The second player has the option of swapping colours in lieu of making the second move. This stops the first player from making too strong (i.e. central) an opening move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XzT4Jo9heZKNxnc5ce726YNEOcs=/fit-in/200x150/pic1330137.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2uLZ0YJmo-Ey2yIA-cUFrjm3mWg=/0x0/pic1330137.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="22566">Computer-generated games</boardgamefamily>
+															<boardgameversion objectid="167651">English first edition</boardgameversion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="32447">Print-and-play edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.525</average>
+					<bayesaverage>5.53363</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9638" bayesaverage="5.53363" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="452" bayesaverage="5.71413" />
+												
+											</ranks>
+					
+					<stddev>1.45323</stddev>
+					<median>0</median>
+					<owned>39</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>13</wishing>
+					<numcomments>16</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

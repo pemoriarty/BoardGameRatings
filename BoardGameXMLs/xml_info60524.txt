@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="60524">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Wings of War: Hit &amp; Run Booster Pack</name>
+									
+			<description>A new boster pack with the famed SPAD VII fighter, French but used by many nations, and the Aviatik Berg D.I, one of the best Austrian fighters f WWI. For both are provided also cards for the wars that raged across Europe and around the Mediterranean from 1919 onward.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OOIqBFm3SD5fd329zOxQ7bPv6eo=/fit-in/200x150/pic772385.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tRtue5gxVHzP7dGhuqr0JuYBqps=/0x0/pic772385.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamedesigner objectid="546">Andrea Angiolino</boardgamedesigner>
+															<boardgameartist objectid="12475">Vincenzo Auletta</boardgameartist>
+															<boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+															<boardgameartist objectid="12474">Dario Calì</boardgameartist>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamepublisher objectid="17">Fantasy Flight Games</boardgamepublisher>
+															<boardgameversion objectid="66260">First edition</boardgameversion>
+															<boardgameartist objectid="20670">Fabio Maiorana</boardgameartist>
+															<boardgamepublisher objectid="504">Nexus</boardgamepublisher>
+															<boardgamedesigner objectid="547">Pier Giorgio Paglia</boardgamedesigner>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamefamily objectid="55">Wings of Glory / Wings of War</boardgamefamily>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+															<boardgameexpansion objectid="15953" inbound="true">Wings of War: Burning Drachens</boardgameexpansion>
+															<boardgameexpansion objectid="9203" inbound="true">Wings of War: Famous Aces</boardgameexpansion>
+															<boardgameexpansion objectid="9910" inbound="true">Wings of War: Watch Your Back!</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>57</usersrated>
+					<average>7.38</average>
+					<bayesaverage>5.5809</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.5809" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.93879" />
+												
+											</ranks>
+					
+					<stddev>1.31687</stddev>
+					<median>0</median>
+					<owned>283</owned>
+					<trading>5</trading>
+					<wanting>12</wanting>
+					<wishing>40</wishing>
+					<numcomments>23</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

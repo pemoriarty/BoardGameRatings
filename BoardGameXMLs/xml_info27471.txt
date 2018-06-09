@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="27471">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Cálico Electrónico: El juego de cartas</name>
+									
+			<description>Based on a popular spanish flash animation, &amp;quot;C&amp;aacute;lico Electr&amp;oacute;nico - El juego de cartas&amp;quot; is a dungeon crawler in which the players take the role of C&amp;aacute;lico Electr&amp;oacute;nico himself or one of his clones to prove that they are the strongest by completing two episodes.&lt;br/&gt;&lt;br/&gt;The mechanics are very similar to Dungeoneer: Tomb of the Lich Lord. Players are dealt one of the four characters; each one has a power and a charisma value and a special hability. Also, each player receives an episode to complete in a determined city area and three calico cards (action cards). Then, the initial city is built: each player places one city card that matches with the starting one or with one that has been already placed.&lt;br/&gt;&lt;br/&gt;Each player in his turn can spend &amp;quot;calikillos&amp;quot; (action points) to do several things:&lt;br/&gt;&lt;br/&gt;    1 Play a card: Each card has different costs and effects&lt;br/&gt;    2 Move to an adjacent city tile: Each tile not only has a different cost, but also, you receive &amp;quot;anticalikillos&amp;quot;, wich other players will use to play monsters, special effects...&lt;br/&gt;    3 Place a new city tile: Spending one calikillo, you can draw a city tile and place it on a legal spot&lt;br/&gt;    4 Heal yourself: By spending five calikillos, you heal yourself (each character has two status: hurt and unhurt, so by healing you revert to unhurt)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When a player resolves an action, other players may, clockwise, spend that player's anticalikillos to play action cards on him.&lt;br/&gt;&lt;br/&gt;If a player at any time in his turn is at the same city tile of a monster, he will fight it. Fights are simple: you choose a characteristic, roll a die and, if the result of the die plus the characteristic is higher than the monsters value, you defeat him, if it's lower you are defeated and turn to hurt status. Players can fight each other, but the characteristic is determined by the player who wins a rock-paper-scissors game.&lt;br/&gt;&lt;br/&gt;When all the players complete their turn, a new round begins:&lt;br/&gt;&lt;br/&gt;    1 Players can discard cards and draw until they have five&lt;br/&gt;    2 Set their calikillos to five&lt;br/&gt;    3 Set their anticalikillos to zero&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/8QGzLOR_R4k1dN94p13v8XfN588=/fit-in/200x150/pic188506.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IAqLSkFPmMrsJ-u2mXki_xjdHg8=/0x0/pic188506.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+															<boardgamepodcastepisode objectid="104630">Episodio 11 – Especial verano 2013: Juegos no jugados</boardgamepodcastepisode>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="159784">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="8187">José Luis Herrera</boardgamedesigner>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>51</usersrated>
+					<average>4.10196</average>
+					<bayesaverage>5.43663</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14956" bayesaverage="5.43663" />
+												
+											</ranks>
+					
+					<stddev>1.47203</stddev>
+					<median>0</median>
+					<owned>106</owned>
+					<trading>7</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>11</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

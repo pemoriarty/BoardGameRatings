@@ -8,7 +8,7 @@ Created on Thu Jun  7 17:29:58 2018
 """
 import time
 
-def request(msg, slp=1):
+def request(msg, slp=0.5):
     '''A wrapper to make robust https requests.'''
     status_code = 500  # Want to get a status-code of 200
     while status_code != 200:
@@ -20,6 +20,6 @@ def request(msg, slp=1):
                 print("Server Error! Response Code %i. Retrying..." % (r.status_code))
         except:
             print("An exception has occurred, probably a momentory loss of connection. Waiting one seconds...")
-            time.sleep(5)
+            time.sleep(1)
     return r
 

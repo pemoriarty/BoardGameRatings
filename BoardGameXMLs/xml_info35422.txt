@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="35422">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>11</age>
+
+							<name primary="true" sortindex="1">SuDoku: Die Spielesammlung</name>
+									
+			<description>SuDoku: Die Spielesammlung is a set of six games which use similar Sudoku-like rules to govern placement of tiles.&lt;br/&gt;&lt;br/&gt;In each game, players have identical sets of tiles (numbered 1-9 multiple times) and each turn play one which is randomly drawn. Certain defined sections of the board can only have one of each number in them. When each of certain small sections of the board is filled, the tiles for each player in the section are totaled and points given for first and second place. Bonus points are also given for players who complete larger board sections. The sections which define the placement constraints, regular scoring, and bonus scoring vary from game to game.&lt;br/&gt;&lt;br/&gt;The six games are:&lt;br/&gt;&lt;br/&gt;1. Classic-SuDoku, played on the standard 9x9 grid.&lt;br/&gt;&lt;br/&gt;2. Labyrinth-SuDoku, played on a board divided into nine irregular nine-square sections.&lt;br/&gt;&lt;br/&gt;3. Killer-SuDoku, played on a board divided into many small sections.&lt;br/&gt;&lt;br/&gt;4. Kakuro, played on a 9x9 grid interrupted by numbered squares. This game can be played two ways - in one version the numbered squares provide an additional constraint and way to earn bonus points.&lt;br/&gt;&lt;br/&gt;5. 3D-SuDoku, played on a board which depicts three faces of a cube, giving eight-space rows in three directions.&lt;br/&gt;&lt;br/&gt;6. Hexa-SuDoku, played on a board divided into nine regions of nine hexagons each.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4iRRHTCgVkYXc-GhM8j02UZsfgI=/fit-in/200x150/pic321250.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ewjOXH8ZHcEjUqAqseC6rpQXIKI=/0x0/pic321250.jpg</image>
+						
+																			<boardgameversion objectid="113096">First edition</boardgameversion>
+																																											<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamefamily objectid="22089">Knizia&#039;s Sudoku games</boardgamefamily>
+															<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamefamily objectid="8068">Sudoku</boardgamefamily>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>4.42857</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.4983</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

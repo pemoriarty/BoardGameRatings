@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="61996">
+			<yearpublished>2010</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Deluges</name>
+							<name  sortindex="1">Déluges</name>
+									
+			<description>D&amp;eacute;luges, the board game! At 20,000 BC, Earth knows the end of an ice age, characterized by a meltdown and a major rising waters. During this period, which ends around 6000 BC, the sea level rises almost 130 meters.&lt;br/&gt;&lt;br/&gt;The goal is to develop your civilization before it is swallowed by the waves. To develop your civilization, you must distribute, collect and share resources with other players. But if the players overexploit the resources and develop too quickly, they impoverish the land, the water will rise and the play area will get smaller. Additionally you can take the competing populations and force them to work as slaves, but you must also work to keep your population from turning into fanatics or becoming enslaved. The players earn points for both how developed their civilization is and how sustainable it is.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SzCSX91A6YypQhy0JYDJM-WNys0=/fit-in/200x150/pic1094805.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iVMWhn8gGykZGHTT6iMgkXj9sQA=/0x0/pic1094805.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameartist objectid="25638">Joël Belin</boardgameartist>
+															<boardgamedesigner objectid="34674">Guillaume Besançon</boardgamedesigner>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+																													<boardgamecategory objectid="1084">Environmental</boardgamecategory>
+															<boardgameversion objectid="127174">First edition</boardgameversion>
+																						<boardgamepublisher objectid="10821">Le Joueur</boardgamepublisher>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+																													<boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>47</usersrated>
+					<average>5.95745</average>
+					<bayesaverage>5.50134</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12521" bayesaverage="5.50134" />
+												
+											</ranks>
+					
+					<stddev>1.81331</stddev>
+					<median>0</median>
+					<owned>175</owned>
+					<trading>20</trading>
+					<wanting>15</wanting>
+					<wishing>36</wishing>
+					<numcomments>17</numcomments>
+					<numweights>5</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

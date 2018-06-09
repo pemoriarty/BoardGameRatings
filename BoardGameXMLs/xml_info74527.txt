@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="74527">
+			<yearpublished>2010</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Crouch Touch Engage Rugby</name>
+									
+			<description>Touch, Crouch, Engage Rugby is an easy to learn replay game on rugby, featuring complete statistical data for all the Five Nations and Six Nations tournaments from 1980 till 2010.&lt;br/&gt;Each match is resolved with a few dice rolls and you may able to replay an entire tournament in fifteen minutes!!&lt;br/&gt;It uses a derivation of the system premiered in Dream to end all dreams: World Cup Soccer, more developed to take in account the peculiar key aspects of rugby.&lt;br/&gt;First step is to compare the Attack class of the first team against the Defense class of the opponent (both indicated by a letter on the data sheet for the tournament chosen). Calculate the difference between the higher class and the inferior, divide by two the result (rounding up toward the inferior value) and take this number as a column shift from the higher value toward the inferior value (see the example below, for a clearer explanation). Now, roll 2 6-sided die on the &amp;quot;Tries Table&amp;quot; to see how many tries that team has scored in the match. Then, check the &amp;quot;conversion percentage&amp;quot; of that team and roll a percentage dice (ie. two 10-sided dice, reading one of them as &amp;quot;tens&amp;quot;) for each try scored: if the roll is inside the percentage value, the try is succesfully converted (add two points to team's score); otherwise, conversion kick is failed. Then, check the &amp;quot;Three points&amp;quot; value of the team to see how many penalty kicks/drops have been scored during the match. Roll 1 10-sided die on the correct column of the &amp;quot;3-points Table&amp;quot;, multiply by 3 the number obtained and add that result to the points scored by that team to reach its total for the match. Repeat this procedure for the opposing team and you will get the final result of the match.&lt;br/&gt;&lt;br/&gt;A separate expansion set contains data for all the World Cup and the Tri Nations tournaments&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamedesigner objectid="8869">Roberto Chiavini</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="46881">First edition</boardgameversion>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5573">Sports: Rugby</boardgamefamily>
+															<boardgamepublisher objectid="6597">TCS Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.46969</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>
