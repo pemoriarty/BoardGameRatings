@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123289" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Twin Kingdom Valley</name>
+									
+			<description>Twin Kingdom Valley was a text adventure game with animated pictures (on most formats) developed by    Trevor Hall and released in 1983 by Bug-Byte Software.&lt;br/&gt;&lt;br/&gt;The game was inspired by the original Adventure by Will Crowther, and was one of the first games to have active non-player characters.  These characters have their own personalities: some are friendly, and will follow and defend the player, whilst others are hostile. Witches and kings are complex characters, whereas gorillas and trolls are simpler. Battle sequences have additional features including weapons which can be dropped, broken, thrown or taken away by enemies.&lt;br/&gt;&lt;br/&gt;A major section of the software is a custom graphics language, which was a very early &amp;quot;scalable vector graphics&amp;quot; format. Hundreds of images are drawn (of objects and locations) using this custom tool.&lt;br/&gt;&lt;br/&gt;The game has &amp;quot;micro databases&amp;quot; of information, representing the locations, objects which can be used, various creatures, and other data. The game engine runs a simulated world for these items. A small AI module allows the non-player characters to make decisions.&lt;br/&gt;&lt;br/&gt;The original game engine was written in 6502 assembly language. The game was then ported to Z80 for the Spectrum. The newer versions (for Commodore 64 and Spectrum) have an extended game.  The game was in active development again in 2006, due to the availability of new platforms. The game engine has been ported, from the original 6502, into Java, with some game design tools in C#.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Twin Kingdom Valley&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/V5-udazNHwUGnUINtYfBtzHlULU=/fit-in/200x150/pic1471779.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/VA1Fza-nzkGVImv9_fkXwOJLBdM=/0x0/pic1471779.jpg</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogameplatform objectid="5010">BBC Micro</videogameplatform>
+															<videogamepublisher objectid="12449">Bug-Byte</videogamepublisher>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="5932">Commodore Plus/4</videogameplatform>
+															<videogameversion objectid="187759">English/European Acorn Electron edition</videogameversion>
+															<videogameversion objectid="187760">English/European BBC Micro edition</videogameversion>
+															<videogameversion objectid="162125">English/European Commodore 64 edition</videogameversion>
+															<videogameversion objectid="187761">English/European Commodore Plus/4 edition</videogameversion>
+															<videogameversion objectid="162124">English/European ZX Spectrum edition</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamecompilation objectid="133630">Five Star Games (BBC)</videogamecompilation>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2168">Text Adventure</videogamegenre>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogame objectid="133630" inbound="true">Five Star Games (BBC)</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5010" name="bbcmicro" friendlyname="BBC Micro Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5932" name="commodoreplus4" friendlyname="Commodore Plus/4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

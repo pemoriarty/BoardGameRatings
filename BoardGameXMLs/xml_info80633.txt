@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="80633" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Valhalla (1983)</name>
+									
+			<description>Valhalla was a ZX Spectrum and Commodore 64 adventure game published in 1983 by Legend.&lt;br/&gt;&lt;br/&gt;The publishing house Legend had earlier published titles under the Microl label. Legend's chairman and founder was John Peel. The developers were Richard Edwards, Graham Asher, Charles Goodwin, James Learmont and Andrew Owen. The original game was released in English for the Sinclair Spectrum 48K. The Movisoft graphics engine occupied 4K of the game footprint and used machine code, the rest of the game engine and parser was written in Sinclair BASIC. After its successful launch in the UK, it was then ported to the Commodore 64, with pirate editions appearing in Spanish.&lt;br/&gt;&lt;br/&gt;Valhalla is mostly text-based with some graphics showing the location and the characters there. It was set mainly in Asgard and Midgard, though when your character died you would reappear in Hell (Niflheim under another name) and be able to walk out.&lt;br/&gt;&lt;br/&gt;Within its limits, the text parser would understand multi-part sentences, so long as they were written using the words it understood, which (unlike in many other games) were helpfully listed in the manual.&lt;br/&gt;&lt;br/&gt;The aim was to collect six mythical objects, for which you needed the help of other characters, who were taken from Norse mythology and would wander around randomly. To help with this, your character had an alignment (between good and evil) that would change depending on which other characters you helped. Thus, the more you helped good characters, the more other good characters would help you.&lt;br/&gt;&lt;br/&gt;Within the game world, characters would move about and interact independently without any action required from you. If you do nothing, the game will 'play' itself, with the characters moving about whilst you decide what to do.&lt;br/&gt;&lt;br/&gt;Typing in a swear word would generate the message &amp;quot;Mary is not amused...&amp;quot; and a dwarf would dash onto the screen to punch the player. Mary could be found in El Vinos but killing her achieved little as she would return within a minute.&lt;br/&gt;&lt;br/&gt;The game engine had a limit of eight objects that could be left in any one location, whether on the ground, in a chest, or in a cupboard. If the player dropped an object when the limit had been reached, a character called Klepto appeared to &amp;quot;Steal&amp;quot; the item, removing it from the game.&lt;br/&gt;&lt;br/&gt;The cover of the game as well as the loading screen featured a drawing of a ceremonial helmet from the 7th century found in an Anglo-Saxon burial site at Sutton Hoo, Suffolk, UK.&lt;br/&gt;&lt;br/&gt;The second quest object (a ring) was called 'Drapnir', a reference to Odin's ring Draupnir.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Valhalla (video game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamegenre objectid="2152">Adventure</videogamegenre>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="60505">Commodore 64 edition</videogameversion>
+															<videogamedeveloper objectid="2347">Legend Games (I)</videogamedeveloper>
+															<videogamepublisher objectid="2347">Legend Games (I)</videogamepublisher>
+															<videogametheme objectid="2415">Mythology</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2786">Viking / Norse</videogametheme>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="60504">ZX Spectrum edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.625</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

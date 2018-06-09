@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="106075">
+			<yearpublished>1979</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Criterium. El gran juego del ciclismo</name>
+									
+			<description>This game covers almost every aspect of a cycling race. It features rules for ascension, sprint, time trial (even a different rule for mountain time trial), and provides mechanism to run a single race.&lt;br/&gt;&lt;br/&gt;The board is customisable with the provided little arrows.  It is just a plain 100-field board.Before the race you must decide how long will it be (recommended: 150 to 250 squares long for a one-day race, that is one and a half to two and a half laps) and where you place the different mountains and sprints.&lt;br/&gt;&lt;br/&gt;What is puzzling is that you have to remember (and possibly write down) in which lap are placed the mountains. In effect, it is recommended to have three climbs during the race, and each climb takes place in a different lap. The same applies to special sprints. So you end up with a board with too many arrow pointing at mountains and sprints that might or might not be there.&lt;br/&gt;We have six national teams  of 5 riders each, and every rider has different abilities which affect the probability of having a good throw on a given type of road. As you can see in the team cards, riders have values for flat road (LL = &amp;quot;llano&amp;quot;), mountain (M), sprint (S), time trial (CR = &amp;quot;contra reloj&amp;quot;) and mountain time trial (CRM).&lt;br/&gt;&lt;br/&gt;On an even closer look, you will guess that good values is the lower one (9) for flat roads (LL) and the higher for mountains sprints and time trials. This is because in flat road riders throw two dice and they have an extra throw if they match their number on the team card (and of course, it is more probable to throw 9 than 12 with two dice, though when you get an extra throw after a double sic, you really advance a lot)&lt;br/&gt;&lt;br/&gt;The mountain rule is quite strange. You still throw two dice, but you only advance the value of the blue one. The red dice is just added to the blue to see if you match the number on the card and you have an extra throw.&lt;br/&gt;&lt;br/&gt;Similar rules apply to sprint and time trial. Just roll and move. No decisions to be taken. The only strategic issue in the game is the demarrage card. One is given to each player, to be used only once during the race, and giving you an extra throw for one rider. &lt;br/&gt;The game is intended to run a full season, so we have special maillots (yellow, green and rainbow jerseis) medals and a trophy, and rules to decide how many points is worth a given race. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5bHyjNXKJn7s1RokbWbyT_al18E=/fit-in/200x150/pic1078152.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JwWQa4a2_YC5W6jPHQf07IRQIpk=/0x0/pic1078152.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="120981">First edition</boardgameversion>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5663">Sports: Bicycle / Cycling</boardgamefamily>
+															<boardgamepublisher objectid="18227">Taiwan Bird Games S.A.</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

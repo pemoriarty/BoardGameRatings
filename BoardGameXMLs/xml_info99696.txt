@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="99696">
+			<yearpublished>1800</yearpublished>
+			<minplayers>5</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>9</age>
+
+							<name  sortindex="1">Briscola Bastarda</name>
+							<name primary="true" sortindex="1">Briscola Chiamata</name>
+									
+			<description>Briscola Chiamata (English: declaration Briscola) is the five-player version of Briscola. Every player is dealt eight cards, so that no cards remain undealt. Then, each player, starting from the dealer's right and proceeding counter-clockwise, bids in an auction to declare how many points they will score. A player may pass, and hence cannot bid again in that game. The bid represents the number of points that player believes he is capable of accumulating. Bidding continues until all but one player have passed in a round. This remaining player has then &amp;quot;won the bid&amp;quot; and therefore gets to declare the Briscola, i.e. the trump suit. The declarer also declares a specific Briscola card (example, the &amp;quot;Ace of Cups&amp;quot; if Cups was the declared Briscola) and the holder of this card is then determined to be the declarer's partner. Logically, the declarer would  declare the highest Briscola card he does not already hold in the hopes of creating the strongest combined hand between him and his partner.&lt;br/&gt;&lt;br/&gt;The remaining three players are partnered with each other, without their knowledge. Each player, other than the declarer's partner, acts independently, until it is clear which players are partners. Infrequently, the declarer may declare a Briscola card he already holds (if he feels he has a very strong hand), in which case the other four players are partenered against him.&lt;br/&gt;&lt;br/&gt;Because of the unique method of declaration and blind partnering in this variation of the game, it is considered to be one of the most entertaining variations of the game. Game strategy is often devised to determine which player is partnered with the declarer, whereas the declarer's partner may devise ruses and decoy strategies to fool the other players, such as not taking a trick, or playing points on a trick that will be won by an opponent.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The &amp;quot;advanced&amp;quot; version&lt;br/&gt;&lt;br/&gt;The more advanced and most commonly played version of Briscola Chiamata requires the players to first bid the rank of the Briscola they wish to call. As the bidding progresses, the rank is reduced, all other players pass. If a two (the lowes card) is bid, players start bidding the point total they must earn to win the match, starting from 62 (since 61 is the minimum possible to win during normal bidding). Then, the last bidder may declare the suit of the Briscola. In this version, the objective is for the declarer and his partner to earn at least 61 points, or the amount of points bid by the declarer, if the auction got to that phase.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bRAHZlWfzCmIg46OqYZNlyu6vGM=/fit-in/200x150/pic1010372.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_sar6abeFp1nYwXH6WmkfFdp8wE=/0x0/pic1010372.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="100794">First edition</boardgameversion>
+															<boardgamepublisher objectid="5935">Masenghini</boardgamepublisher>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>32</usersrated>
+					<average>7.36875</average>
+					<bayesaverage>5.55266</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8205" bayesaverage="5.55266" />
+												
+											</ranks>
+					
+					<stddev>1.39518</stddev>
+					<median>0</median>
+					<owned>19</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>15</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="131576">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Concurrent</name>
+									
+			<description>Concurrent is a tabletop adaptation of the PC game, Risk 2, which is a computer adaptation of the classic board game, Risk.&lt;br/&gt;&lt;br/&gt;Instead of the standard turn-taking that occurs in Risk, Concurrent utilizes a system where the players determine their troop deployment and attacks simultaneously.&lt;br/&gt;&lt;br/&gt;The game consists of a game board, representing various countries and territories across the Earth, with connections between the countries by borders and some lines across continents and to island countries/territories.  In addition, there are cards which have the various countries/territories listed on the card, and plastic figures which represent the player's army.&lt;br/&gt;&lt;br/&gt;At the beginning of the game, all cards are passed out to the players, which represents the starting countries for each player.  Afterward, the players are allowed a certain number of army units, relative to the total number of players, which they are allow to place on their starting countries.&lt;br/&gt;&lt;br/&gt;At the beginning of each round, players are given a piece of paper to write all their actions on.  Included is new unit deployment (based on total countries controlled, largest connected empire, continents controlled, and any matching card set the player can turn in), attacks, and the player's surge attack.  Players may attack any country using army units they control on adjacent countries, but must leave at least one unit in their country as a defender.  In addition, players may elect to make one surge attack, where if one of their attacks is successful, after all other attacks are resolved, they may make one more attack to attempt to conquer another country.&lt;br/&gt;&lt;br/&gt;Once all players have completed their decisions for the round, they reveal said decisions, deploy new units, and announce all attacks.  If there are any border clashes (two countries trying to attack each other), they are resolved first.  Battles are resolved using custom 12-sided dice.  There are multiple dice that are rolled relative to the army size.  Each die is numbered 1-6, but the distribution of numbers changes relative to the army size (eg. the larger the army, the more likely the die is to roll higher numbers).  Each player rolls the die, with the player rolling the lowest number losing a number of units relative to the smallest army (the larger the army, the more units lost per roll).  In the event of a tie on the die roll, both players reroll.  The battle is over once one attacking army in the border clash is eliminated.&lt;br/&gt;&lt;br/&gt;After border clashes are resolved, mass invasions are resolved.  Mass invasions occur when multiple countries attack the same country.  This can be multiple armies from one player, or more than one.  Mass invasions are resolved the same as border clashes, the only difference being that, unlike border clashes where there is not a specific attacker, the attacking player wins ties.  Just like border clashes, the player who loses the roll also loses units relative to the smallest army size in the battle.  The mass invasion is completed when one of the armies is eliminated.&lt;br/&gt;&lt;br/&gt;Invasions are then resolved, which are the same as mass invasions, but are only from one country to another.  After invasions are resolved, spoils of war are resolved.  Spoils of war occur when two or more players attack the same country in a mass invasion and multiple attacking armies remain.  Spoils of war are resolved like border clashes, where ties are resolved with a reroll.&lt;br/&gt;&lt;br/&gt;After all attacks are resolved, players will resolve the surge attack they noted on their paper.  Surge attacks are resolved like invasions, or mass invasions if multiple players surge into country.  In the event of a successful mass invasion surge attack, the players resolve the conquest with a spoils of war.&lt;br/&gt;&lt;br/&gt;Each round occurs the same as listed above, until one player finishes the round with a previously agreed upon control limit (60% control of countries, 80%, etc).  That player is the winner of Concurrent!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TUwFocWUSda-bLh_KvWW6VjMdaQ=/fit-in/200x150/pic1438144.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/QBina3O50S91VDg4h4FGXm4voTc=/0x0/pic1438144.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgameversion objectid="183038">Prototype edition</boardgameversion>
+															<boardgamefamily objectid="4218">Risk</boardgamefamily>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgameexpansion objectid="181" inbound="true">Risk</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="95026">
+			<yearpublished>1974</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Quest-Chess</name>
+									
+			<description>Quest Chess was self-published by Donald, in 1974. It is a Chess variant. It consists of an A4 sheet of rules.&lt;br/&gt;(Conquest on the Chess board)&lt;br/&gt;Quest-Chess is played with a standard chess set. The moves of the pieces are the same as in regular Chess. White begins by making any five moves. After that, each player may make up to ten moves per turn. However, no piece may be moved more than once during your turn, unless that piece has first made a capture, or has moved to create a check. You may pass your turn any time after making at least one move.&lt;br/&gt;When you make a capture you must stop and give your opponent the opportunity to capture your piece which made the capture. He has one move in which to do this, but may make this 'recapture' in any way possible. He may also refuse to recapture. Once he has made his recapture (or refused to recapture) you then continue on with the rest of your ten moves, and you may again move that piece which made the capture any time during your turn.&lt;br/&gt;If you make a capture on your last move, your opponent does not get a free recapture, as it is then his turn and he must start counting his moves. If he then captures, you may recapture. If you intend to capture and pass, you must announce your pass when making the capture.&lt;br/&gt;When you put your opponent in check, you must stop and allow him one move to get out of check. He may capture the checking piece, he may interpose, or he may move the king. Once he is out of check, you continue on with the rest of your ten moves, and that piece which moved to create the check may move again. If you check your opponent's king on your last move, it is then his turn and he must count his first move in getting out of check.&lt;br/&gt;Castling is considered a king move. Therefore, if you castle, the king may not move again, but the castled rook may still move.&lt;br/&gt;If you move a pawn two spaces, passing your opponent's pawn on the fifth rank, you must allow him the immediate option to capture 'en passant'. When a pawn is promoted to a major piece, that 'new' piece may move on the same turn.&lt;br/&gt;You may never make a move that exposes your king to check, regardless of whether the checking piece has already moved. If your opponent puts you in check by making a recapture and the only way to get out of check is by moving a piece that you have previously moved on that turn, then this is permissible even if it involve a capture. However, if you have a way of getting out of check by moving a previously unmoved piece, you must take that alternative.&lt;br/&gt;When a player is in check and cannot get out of check in one move, it is checkmate, and the game is over. Sometimes checkmate may occur on a recapture. If ten consecutive turns are made without moving a pawn and without capturing a piece, the game is a draw.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="55">Donald Benge</boardgamedesigner>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="90552">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

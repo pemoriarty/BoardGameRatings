@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="90252" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Venture</name>
+									
+			<description>The goal of Venture is to collect treasure from a dungeon. The player, named Winky, is equipped with a bow and arrow and explores a dungeon with rooms and hallways. The hallways are patrolled by large, tentacled monsters (the &amp;quot;Hallmonsters&amp;quot;, according to Exidy) who cannot be injured, killed, or stopped in any way. Once in a room, the player may kill monsters, avoid traps and gather treasures. If they stay in any room too long, a Hallmonster will enter the room, chase and kill them. In this way, the Hallmonsters serve the same role as &amp;quot;Evil Otto&amp;quot; in the arcade game Berzerk. The more quickly the player finishes each level, the higher their score.&lt;br/&gt;&lt;br/&gt;The goal of each room is only to steal the room's treasure. In most rooms, it is possible (though difficult) to steal the treasure without defeating the monsters within. Some rooms have traps that are only sprung when the player picks up the treasure. For instance, in &amp;quot;The Two-Headed Room&amp;quot;, two 2-headed ettins appears the moment the player picks up the prize.&lt;br/&gt;&lt;br/&gt;Players die if they touch a monster. Touching even a dead monster is lethal and is known as &amp;quot;getting carrioned&amp;quot;. Dead monsters decay over time and their corpses may block room exits, delaying the player and possibly allowing the Hallmonster to enter. Reshooting a dead corpse causes it to regress back to its initial death phase. The monsters themselves move in specific patterns but may deviate to chase the player, and the game's AI allows them to dodge the player's shots with varying degrees of &amp;quot;intelligence&amp;quot; (for example, the snakes of &amp;quot;The Serpent Room&amp;quot; are relatively slow to dodge arrows, the trolls of &amp;quot;The Troll Room&amp;quot; are quite adept at evasion).&lt;br/&gt;&lt;br/&gt;The game consists of three different dungeon levels with different rooms. After clearing all the rooms in a level the player advances to the next. After three levels the room pattern and monsters repeat, but at a higher speed and a different set of treasures.&lt;br/&gt;&lt;br/&gt;The different dungeons in each level are as follows:&lt;br/&gt;&lt;br/&gt;Level 1 - The Wall Room, The Serpent Room, The Skeleton Room, The Goblin Room&lt;br/&gt;Level 2 - The Two-Headed Room, The Dragon Room, The Spider Room, The Troll Room&lt;br/&gt;Level 3 - The Genie Room, The Demon Room, The Cyclops Room, The Bat Room&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Venture (arcade game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/8S9GJyA0VEG23naTfJ69vwMt_EE=/fit-in/200x150/pic917569.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jXXjjJmlo3wv0ZSoGTPYA7XBArA=/0x0/pic917569.jpg</image>
+						
+												<videogamegenre objectid="2152">Adventure</videogamegenre>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="79647">Arcade edition</videogameversion>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogamepublisher objectid="1139">Coleco Industries, Inc.</videogamepublisher>
+															<videogameplatform objectid="4419">ColecoVision</videogameplatform>
+															<videogamedeveloper objectid="13345">Exidy</videogamedeveloper>
+															<videogamepublisher objectid="13345">Exidy</videogamepublisher>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamedeveloper objectid="25019">Funnel Development Labs</videogamedeveloper>
+															<videogamepublisher objectid="25018">Horizons Software</videogamepublisher>
+															<videogameplatform objectid="4427">Intellivision</videogameplatform>
+															<videogameversion objectid="204876">North American Atari 2600 (Coleco Industries) edition</videogameversion>
+															<videogameversion objectid="79832">North American Atari 2600 edition</videogameversion>
+															<videogameversion objectid="79833">North American ColecoVision edition</videogameversion>
+															<videogameversion objectid="79648">North American Intellivision edition</videogameversion>
+															<videogamegenre objectid="2167">Shooter</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="207606">TRS-80 edition</videogameversion>
+															<videogameplatform objectid="5930">TRS-80 Model I/III</videogameplatform>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>6.26786</average>
+					<bayesaverage>5.72504</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4403" bayesaverage="5.72504" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="49" bayesaverage="6.18471" />
+														<rank type="family" id="4419" name="colecovision" friendlyname="ColecoVision Rank" value="12" bayesaverage="6.60347" />
+														<rank type="family" id="4427" name="intellivision" friendlyname="Intellivision Rank" value="10" bayesaverage="6.59791" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="150" bayesaverage="6.07858" />
+														<rank type="family" id="5930" name="trs80" friendlyname="TRS-80 Model I/III Rank" value="3" bayesaverage="7.41388" />
+												
+											</ranks>
+					
+					<stddev>2.13279</stddev>
+					<median>0</median>
+					<owned>42</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

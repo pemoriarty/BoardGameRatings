@@ -1,0 +1,77 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="81050" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Othello</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;This is a video game implementation of the board game Othello (also known as reversi)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ntwZmwq4l1mv0GWroRbm-p4hrUY=/fit-in/200x150/pic801446.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rNw8o0Kwg5KQ8ZvLtOu8eiue2RM=/0x0/pic801446.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogamepublisher objectid="3233">Acclaim Entertainment Inc.</videogamepublisher>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamecompilation objectid="94137">Brain Food Games</videogamecompilation>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogameversion objectid="61280">Japanese NES edition</videogameversion>
+															<videogamedeveloper objectid="14304">Kawada, Co. Ltd</videogamedeveloper>
+															<videogamepublisher objectid="14304">Kawada, Co. Ltd</videogamepublisher>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="61279">North American NES edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogame objectid="94137" inbound="true">Brain Food Games</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>5.5625</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6041" bayesaverage="5.51197" />
+												
+							
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.35641</stddev>
+					<median>0</median>
+					<owned>481</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

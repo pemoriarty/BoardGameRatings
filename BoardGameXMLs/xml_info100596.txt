@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="100596">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Pepper. Corn!</name>
+									
+			<description>A feeding frenzy for two bunnies.&lt;br/&gt;&lt;br/&gt;This is a simple fishing game of capturing cards off the tableau. The game starts with an 8x3 grid of cards face up on the table.  After splitting the undealt cards (using a split the pie mechanism) the players capture cards by playing one or more cards whose rank adds up equal or higher than the card being captured.  Each of the capturing cards must share a suit with the card being taken. After the tableau is cleared, the players add up the values of their captured cards to determine the winner.&lt;br/&gt;&lt;br/&gt;Even though the game was designed as a light game, it is almost completely a perfect information game.  The only moment where there is not perfect information is when the players determine the split of the hand -- and even then they can figure out which cards the opponent is splitting.  As such it could be played as a very memory heavy, intense, spatial game.&lt;br/&gt;&lt;br/&gt;The game was inspired by the designer's pet rabbit who is by far the most enthusiastic and fastest eating bunny the designer has ever seen. The girl has no problems yanking food right out of her partner's mouth, but is readily aggrieved if she does not get her fair share of the produce.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nr6aMFy2G35Cgssfmzozr3hsbGE=/fit-in/200x150/pic1031022.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CDhco0ZJWvsEITdbDoNwBYQNSAg=/0x0/pic1031022.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="1439">Card Games: Card Fishing</boardgamefamily>
+															<boardgamefamily objectid="64">Decktet Games</boardgamefamily>
+															<boardgameversion objectid="102865">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameartist objectid="3572">P. D. Magnus</boardgameartist>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="49539">Justus Pang</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.816497</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

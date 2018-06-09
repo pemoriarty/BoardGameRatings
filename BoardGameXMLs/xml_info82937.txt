@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="82937" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Famicom</name>
+							<name  sortindex="1">Family Computer</name>
+							<name  sortindex="1">FC</name>
+							<name  sortindex="1">Hyundai Comboy</name>
+							<name  sortindex="1">NES</name>
+							<name  sortindex="1">Nintendo</name>
+							<name primary="true" sortindex="1">Nintendo Entertainment System</name>
+							<name  sortindex="1">ファミコン</name>
+							<name  sortindex="1">ファミリーコンピュータ</name>
+							<name  sortindex="1">현대 컴보이</name>
+									
+			<description>The Nintendo Entertainment System (abbreviated to NES or Nintendo) is an 8-bit video game console that was released by Nintendo in North America, Europe and Australia in 1985. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, Middle East and Hong Kong, it was released as the Family Computer (ファミリーコンピュータ, Famirī Konpyūta?), commonly abbreviated as the Famicom (ファミコン) or FC for short. In South Korea, it was known as the Hyundai Comboy (현대 컴보이) and was distributed by Hyundai Electronics. In Russia, an unlicensed clone was manufactured called Dendy (Де́нди). Similarly in India, clones were popular by the names of Little Master and Wiz Kid, in Poland there also was a clone produced, called Pegasus. It was succeeded by the Super Nintendo Entertainment System.&lt;br/&gt;&lt;br/&gt;As the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles in everything from game design to controller layout. In addition, with the NES, Nintendo introduced a now-standard business model of software licensing for third-party developers.&lt;br/&gt;&lt;br/&gt;Pin info&lt;br/&gt;&lt;br/&gt;60-pin vs. 72-pin cartridges The original Famicom and the re-released AV Family Computer both utilized a 60-pin cartridge design, which resulted in smaller cartridges than the NES, which utilized a 72-pin design. Four pins were used for the 10NES lockout chip. Ten pins were added that connected a cartridge directly to the expansion port on the bottom of the unit. Finally, two pins that allowed cartridges to provide their own sound expansion chips were removed. Some early games released in North America were simply Famicom cartridges attached to an adapter (such as the T89 Cartridge Converter) to allow them to fit inside the NES hardware. Nintendo did this to reduce costs and inventory by using the same cartridge boards in North America and Japan. The cartridge dimensions of the original Famicom measured in at 5.3x3 inches, compared with 4.1x5.5 in. for its North American redesign.&lt;br/&gt;&lt;br/&gt;Lockout&lt;br/&gt;&lt;br/&gt;Lockout circuitry The Famicom contained no lockout hardware and, as a result, unlicensed cartridges (both legitimate and bootleg) were extremely common throughout Japan and the Far East. The original NES (but not the top-loading NES-101) contained the 10NES lockout chip, which significantly increased the challenges faced by unlicensed developers. Tinkerers at home in later years discovered that disassembling the NES and cutting the fourth pin of the lockout chip would change the chip&amp;rsquo;s mode of operation from &amp;quot;lock&amp;quot; to &amp;quot;key&amp;quot;, removing all effects and greatly improving the console&amp;rsquo;s ability to play legal games, as well as bootlegs and converted imports.&lt;br/&gt;&lt;br/&gt;AV Output&lt;br/&gt;&lt;br/&gt;Audio/video output The original Famicom featured an RF modulator plug for audio/video output, while its redesign, the AV Famicom, featured only RCA composite output. On the other hand, the original NES featured both an RF modulator and RCA composite output cables, but the top-loading NES 2 featured only RF modulator output. The original North American NES was the first and one of the only game consoles to feature direct composite video output, and thus having the ability to be connected to a composite monitor.&lt;br/&gt;&lt;br/&gt;Design Flaws&lt;br/&gt;&lt;br/&gt;When Nintendo released the NES in the United States, the design styling was deliberately different from that of other game consoles. Nintendo wanted to distinguish its product from those of competitors and to avoid the generally poor reputation that game consoles had acquired following the video game crash of 1983. One result of this philosophy was a front-loading zero insertion force (ZIF) cartridge socket designed to resemble the front-loading mechanism of a VCR. The ZIF connector worked quite well when both the connector and the cartridges were clean and the pins on the connector were new. Unfortunately, the ZIF connector was not truly zero insertion force. When a user inserted the cartridge into the NES, the force of pressing the cartridge down and into place bent the contact pins slightly, as well as pressing the cartridge&amp;rsquo;s ROM board back into the cartridge itself. Repeated insertion and removal of cartridges caused the pins to wear out relatively quickly and the ZIF design proved far more prone to interference by dirt and dust than an industry-standard card edge connector. Exacerbating the problem was Nintendo&amp;rsquo;s choice of materials; the slot connector that the cartridge was actually inserted into was highly prone to corrosion.&lt;br/&gt;&lt;br/&gt;Problems with the 10NES lockout chip frequently resulted in the console's most infamous problem: the blinking red power light, in which the system appears to turn itself on and off repeatedly because the 10NES would reset the console once per second. The lockout chip required constant communication with the chip in the game to work. Dirty, aging and bent connectors would often disrupt the communication, resulting in the blink effect. Alternatively, the console would turn on but only show a solid white, gray, or green screen. Users attempted to solve this problem by blowing air onto the cartridge connectors, licking the edge connector, slapping the side of the system after inserting a cartridge, shifting the cartridge from side to side after insertion, pushing the ZIF up and down repeatedly, holding the ZIF down lower than it should have been and/or cleaning the connectors with alcohol which, observing the back of the cartridge, was not endorsed by Nintendo. Many of the most frequent attempts to fix this problem instead ran the risk of damaging the cartridge and/or system. In 1989, Nintendo released an official NES Cleaning Kit to help users clean malfunctioning cartridges and consoles.&lt;br/&gt;&lt;br/&gt;With the release of the top-loading NES-101 (NES 2) toward the end of the NES's lifespan, Nintendo resolved the problems by switching to a standard card edge connector and eliminating the lockout chip. All of the Famicom systems used standard card edge connectors, as did Nintendo&amp;rsquo;s subsequent game consoles, the Super Nintendo Entertainment System and the Nintendo 64.&lt;br/&gt;&lt;br/&gt;In response to these hardware flaws, &amp;quot;Nintendo Authorized Repair Centers&amp;quot; sprang up across the United States. According to Nintendo, the authorization program was designed to ensure that the machines were properly repaired. Nintendo would ship the necessary replacement parts only to shops that had enrolled in the authorization program. In practice, the authorization process consisted of nothing more than paying a fee to Nintendo for the privilege. In a recent trend, many sites have sprung up to offer Nintendo repair parts, guides and services, that replace those formerly offered by the authorized repair centers.&lt;br/&gt;&lt;br/&gt;Legacy&lt;br/&gt;&lt;br/&gt;The NES changed the video game market permanently and was the longest-lasting console in Japan, lasting 20 years from July 1983 before being discontinued in September 2003. When the NES was released, stores mostly refused to sell products that went by the name of &amp;quot;video games&amp;quot;, due to the video game crash of 1983. Five years later, in 1988, video gaming was a multi-billion dollar industry. This change cemented Nintendo's rise from a playing card company to an internationally known company and set the stage for Japanese dominance of the video game industry. It also changed the way the video game industry worked. The NES marked the first time a console maker actively courted third-party game makers and created licensing for them to make games, as well as the first time a company tried to prevent unlicensed games.&lt;br/&gt;&lt;br/&gt;In terms of hardware, the NES also had a large impact. The NES's controller was a change from those of older consoles, and was considered by many to be an improvement. This has meant that many later controllers have been influenced by it. In particular, the D-pad refinements used in the NES controller would be incorporated in nearly every major console to follow, and garnered Nintendo a Technology &amp;amp; Engineering Emmy Award).&lt;br/&gt;&lt;br/&gt;Culturally, the NES was the origin for many prominent games, and has become a part of gamer culture itself. Some of the more important franchises that debuted on the NES were Nintendo's own Super Mario Bros., The Legend of Zelda and Metroid, Capcom's Mega Man franchise, Konami's Castlevania franchise, Square Soft's Final Fantasy and Enix's Dragon Quest (now Square Enix's) franchises. All of these still exist today. The NES itself, especially its controller, has become a popular motif for a variety of products, including Nintendo's own Game Boy Advance.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Nintendo Entertainment System&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W-dAGZX5cYg9PNWUwczNnsFcsl0=/fit-in/200x150/pic792383.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aX-h45KH3QgDevA6PaESjZNZC7o=/0x0/pic792383.jpg</image>
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="196317">Japanese Family Computer</videogamehwversion>
+															<videogamehwmfg objectid="1326">Nintendo Co., Ltd.</videogamehwmfg>
+															<videogamehwversion objectid="65496">North American Nintendo Entertainment System</videogamehwversion>
+															<videogamehwversion objectid="196318">PAL Nintendo Entertainment System</videogamehwversion>
+															<videogamehardware objectid="4430" inbound="true">NES</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>81</usersrated>
+					<average>8.23704</average>
+					<bayesaverage>8.01031</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="12" bayesaverage="8.01031" />
+												
+											</ranks>
+					
+					<stddev>1.491</stddev>
+					<median>0</median>
+					<owned>237</owned>
+					<trading>5</trading>
+					<wanting>1</wanting>
+					<wishing>2</wishing>
+					<numcomments>24</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

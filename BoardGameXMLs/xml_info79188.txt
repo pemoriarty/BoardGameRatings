@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="79188">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>11</age>
+
+							<name primary="true" sortindex="1">Tijdstrijd</name>
+									
+			<description>Co-operative trivia game on history, mainly Belgian and European.&lt;br/&gt;&lt;br/&gt;Players move their pawns through six different periods in history. For each move he makes, the active player must answer a question about that period. When answered correctly he draws a token (mostly hour glasses) and gains one point on the players' mutual life scale. For each wrong answer, one life point is lost.&lt;br/&gt;&lt;br/&gt;In each history periode, there is also an enemy card, representing an evil character or event in history. Each enemy has a printed value. When reaching such an enemy, the active player may try to defeat the enemy. For that purposes he bid a number of hour glass tokens and throws a ten sided die (values 0 through 9). The number thrown is then multiplied by the number of hour glasses bid and if that number is equal or higher than the enemies value, the enemy is defeated and life points are gained. Otherwise the enemey card remains on the board and three life points are lost.&lt;br/&gt;&lt;br/&gt;Players win the game when all six enemies are defeated or they lose the game when they have no more life points left.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Rd_ZL1uAa6OxRKtVDA4tM-4LoUM=/fit-in/200x150/pic1029257.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OSfJGjTlDut3cWhcqKmEWD1JCBA=/0x0/pic1029257.jpg</image>
+						
+												<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameversion objectid="57426">Dutch version</boardgameversion>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamedesigner objectid="9197">Van Ginderachter Renaat</boardgamedesigner>
+															<boardgamedesigner objectid="9196">Veelaert Thaïs</boardgamedesigner>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+															<boardgamepublisher objectid="7304">Wolters Plantyn</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>3.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.5</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

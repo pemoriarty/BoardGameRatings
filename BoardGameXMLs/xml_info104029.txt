@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="104029">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Node</name>
+									
+			<description>Node is a card game in which players take the role of hackers uncovering and tagging a corporate server. Each turn players place cards to build up the game board by overlapping squares of like color. Each card has a grid of 2x3 squares with two of the five colors represented. If a player expands an area of color to be the largest number of squares on the board (of that color), they then claim it with a control marker. Whoever controls the most colors when the last card is played wins &amp;ndash; or you can lock out your opponent and immediately win the game by capturing all five colors at once!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BJRVEEOu4Kpuac9fFOl7XbkxoYs=/fit-in/200x150/pic1071196.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4v2aFwK0NzeaEkJauT9RFDJ5-8I=/0x0/pic1071196.png</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamedesigner objectid="50820">Jordan Booth</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="115388">English first edition</boardgameversion>
+															<boardgamedesigner objectid="50821">John Gosling</boardgamedesigner>
+															<boardgameartist objectid="50821">John Gosling</boardgameartist>
+															<boardgamepublisher objectid="17911">Level Zero Games</boardgamepublisher>
+															<boardgamedesigner objectid="50822">Joe Locastro</boardgamedesigner>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>6.05946</average>
+					<bayesaverage>5.51413</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11399" bayesaverage="5.51413" />
+												
+											</ranks>
+					
+					<stddev>1.44736</stddev>
+					<median>0</median>
+					<owned>76</owned>
+					<trading>10</trading>
+					<wanting>5</wanting>
+					<wishing>23</wishing>
+					<numcomments>20</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

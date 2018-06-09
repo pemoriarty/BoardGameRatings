@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="111416" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="5">The Battle of Austerlitz</name>
+									
+			<description>Game Manual&lt;br/&gt;&lt;br/&gt;Austerlitz is a grand tactical military simulation of Napoleon's first major battle as Emperor of the French. At Austerlitz he met and soundly defeated the combined armies of Russia and Austria.&lt;br/&gt;&lt;br/&gt;Designer's Notes&lt;br/&gt;&lt;br/&gt;There is no comparison between Austerlitz and other wargames. Austerlitz is the first computer wargame to begin to utilize the computer's capabilities on a Grand Tactical scale, unlike those weak, slow, unrealistic board game clones. The Artificial Intelligence which drives the computer player is broken into three levels. On the Grand Tactical or highest level, the computer analyzes the battle to determine broad concepts: where to attack, who to send and when to retreat, or launch an all out attack.&lt;br/&gt;&lt;br/&gt;Once this is decided, another module handles the coordination of the maneuver elements (divisions, Corps, columns). This was, by far, the most difficult element in the design. From this module, targets for each Corps are selected which are most likely to bring about the success of the Grand Tactical plan.&lt;br/&gt;&lt;br/&gt;With these targets, the tactical module takes over and gives the orders to the individual units. Here things like artillery fire, units going into line to fire or column to assault towns, and the commitment of cavalry are decided. Also, the status of the Corps is checked, and if necessary, the tactical module can override the Corps orders and give them new ones.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Vz9GRVxkfiQGIoBZu-AQEqYHz5A=/fit-in/200x150/pic1028314.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FivZm55AL0w86_KfssREYOm1gSs=/0x0/pic1028314.png</image>
+						
+												<videogamedeveloper objectid="18981">Cornerstone Software</videogamedeveloper>
+															<videogamepublisher objectid="18981">Cornerstone Software</videogamepublisher>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogametheme objectid="2345">Historical</videogametheme>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogameversion objectid="132804">North American DOS edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

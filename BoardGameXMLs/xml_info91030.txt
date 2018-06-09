@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="91030" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">SuperGrafx</name>
+									
+			<description>The SuperGrafx video game console is an upgraded version of NEC's popular PC Engine (North America: TurboGrafx-16) system. At first it was known as the PC-Engine 2&amp;mdash;which was purported to be a true 16-bit system with improved graphics and audio capabilities, not expected to see release until 1990. However the final machine, named SuperGrafx, was released earlier than expected, in late 1989, only provided modestly enhanced graphics over the original PC-Engine, had audio that was the same as the PC-Engine and had no 16-bit CPU, just the same one as the PC-Engine.&lt;br/&gt;&lt;br/&gt;The enhancements SuperGrafx does have: compared to the PC-Engine, SuperGrafx has four times the amount of work RAM for the main CPU, a second video chip with its own video RAM, and a priority controller chip that allows the output of both video chips to be combined in various ways. SuperGrafx has support for two independently scrolling background layers, like the Sega Mega Drive/Genesis, instead of the PC-Engine's single layer.&lt;br/&gt;&lt;br/&gt;The SuperGrafx was not well received, due to a lack of software written to support its enhanced abilities; only seven titles were ever released. There were no CD, SCD, or ACD games written that took advantage of the SuperGrafx platform. Game software was also very expensive, with games approaching 110 USD. However, the SuperGrafx can play PCE HuCards, PCE CDs, PCE Super CDs, PCE Arcade CDs, and the native SuperGrafx HuCards. These titles combined total to a very respectable library of nearly 700 titles.&lt;br/&gt;&lt;br/&gt;It is very common misconception that the extra video hardware and capabilities were taxing on the system's CPU, with speculation that this was the reason not many games were developed for the system. Despite having the same CPU as the PC-Engine, it was more than capable of keeping up with the new graphic enhancements, as the majority of the workload was handled by the VDPs.&lt;br/&gt;&lt;br/&gt;One accessory of note was the Power Console, designed to add a full flight yoke, throttle and keypad to the SuperGrafx, sliding over the entire console. Besides a prototype, no Power Consoles were ever produced.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;SuperGrafx&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwmfg objectid="11762">NEC</videogamehwmfg>
+															<videogamehwversion objectid="81213">SuperGrafx</videogamehwversion>
+															<videogamehardware objectid="4725" inbound="true">TurboGrafx-16</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

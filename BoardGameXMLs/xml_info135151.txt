@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="135151" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Arvoch Conflict</name>
+									
+			<description>Gameplay and Control:&lt;br/&gt;- Single player campaign spanning several systems with objectives that include rescue, recovery, mine field clearing, ship protection, exploration, patrol, planetary surface strikes, defense system placement, and much more. As your experience and rank increases, you'll be given access to far more powerful ships and weapons.&lt;br/&gt;&lt;br/&gt;- Freeflight/test fly, instant action, and multiple training sessions help players learn the skills necessary to master the game and advance their career as a squadron commander.&lt;br/&gt;&lt;br/&gt;- Dynamic battle scenarios. While briefing intelligence is usually very accurate, conditions and events during the course of a mission can effect variables such as enemy reinforcements and support. Dynamic battle conditions often mean a mission will be different each time it's played.&lt;br/&gt;&lt;br/&gt;- All-new multiplayer system that lets you manage settings and connections from one master screen. And for the first time, take your squadron with you into multiplayer to battle against other players and their unique squadrons. Unite with other squadron commanders using the clan ID system and battle as teams.&lt;br/&gt;&lt;br/&gt;- Over a dozen new ships are introduced nearly all of which can be flown by the player. The new range of ships also adds new classes including scouts, interceptors, bombers, and cruisers.&lt;br/&gt;&lt;br/&gt;- You are in complete control of every mission situation, including training, instant action, and even the campaign itself. If you want to change a certain mission situation, modifying those parameters is as simple as opening a text file in an editor and changing values.&lt;br/&gt;&lt;br/&gt;- Command your squadron with specific instructions and even order individual ships to complete desired objectives. Your ability to lead and plan is now just as important as your combat skill.&lt;br/&gt;&lt;br/&gt;- You are in direct control of your squadron's ships and weapons prior to each mission. A drag and drop interface is used to let you manage your squadron.&lt;br/&gt;&lt;br/&gt;- Realistic and manageable newtonian based physics/flight system. Thanks to the powerful inertial dampening system, you can make quick turns without the lengthy sliding found in many newtonian based physics flight models. Turn off the inertial dampening system if you want to drift unrestricted. Arvoch Conflict's physics system is designed to offer the benefits of both a traditional fast maneuvering 'arcade' type flight model and the diverse strategic combat tactics offered by a newtonian system.&lt;br/&gt;&lt;br/&gt;- Simulation of various environmental elements including gravity and atmospheres (drag, lift, descent burn/glow, maneuvering limitations, etc).&lt;br/&gt;&lt;br/&gt;- Manage targets through multiple selection options and cockpit MFD. Point-and-click to select a target in visual range, lock on a target in the gunsight, select a target from a range list on the cockpit display, or use fast key/button options to select a target. Track friendly, moderate, and hostile targets with the same system to monitor the status and position of both your squadron and other objects/ships in the area.&lt;br/&gt;&lt;br/&gt;- Lock onto objects in space with the tractor beam to place them in needed positions for combat and defense. Use the beam to recover valuable materials and resources.&lt;br/&gt;&lt;br/&gt;- Support for keyboard, mouse, joystick, and gamepad controls. Flight controls and functions can be changed and remapped.&lt;br/&gt;&lt;br/&gt;- Supports NaturalPoint's TrackIR 3D head tracking system. TrackIR captures the player's head motion to control the in-game view from the cockpit independent of keyboard, mouse, joystick, or gamepad inputs.&lt;br/&gt;&lt;br/&gt;Graphics and Environment:&lt;br/&gt;- New graphics engine that includes vastly improved lighting and textures along with new elements like HUD indicator shadows and reflection/gloss effects. Missile contrails, advanced particle effects, lens flare corona haze, and multiple light source illumination effects are also new features of the engine.&lt;br/&gt;&lt;br/&gt;- Virtually unlimited universe size allows all gameplay events to take place in one massive environment. Nebula clouds, planets, asteroid fields, moons, and other environment objects can be flown to seamlessly.&lt;br/&gt;&lt;br/&gt;- Seamlessly fly to and attack targets on the surface of large planets without cut scenes or loading screens. The transition to planet atmospheres is seamless, including automatic flight control/display adjustments to change as needed to adapt to different environmental conditions.&lt;br/&gt;&lt;br/&gt;- Complete in-scene 3D cockpit. Gauges, HUD, and cockpit structures are now rendered entirely with the 3D engine, providing a level of detail far beyond the typical 2D displays and 2D text found in other space-sims. The cockpit, including the gauges and their readouts, moves and responds to inertia, view selection, lighting, and environment activities. Glass reflections (that also respond to changing light conditions), helmet visor based HUD, and panning first person view controls compliment the new 3D cockpit system. Players who prefer an old fashioned, flat 2D style appearance with no cockpit have the option to disable the 3D cockpit and use a static HUD, if desired.&lt;br/&gt;&lt;br/&gt;- High resolution scenery textures for nebula backdrops, planets, clouds, and more help add to the new look, environmental immersion, and feel of the game.&lt;br/&gt;&lt;br/&gt;Audio:&lt;br/&gt;- High quality sounds with improved enviromental effects.&lt;br/&gt;&lt;br/&gt;- Effects like the cycling inbound missile range signal, vocal warning alerts, and much more active radio chatter provide a new level of audio detail.&lt;br/&gt;&lt;br/&gt;Customizing and Modification:&lt;br/&gt;- Open to graphics customizing and changing. Import your own HUD designs, individual cockpits for each ship, and ships themselves. You can even change display positions and rename ships/weapons.&lt;br/&gt;&lt;br/&gt;- If you import your own ships, you no longer have to replace the built-in ships. Imported ships will simply be added to the list of available ships to fly. You can also provide a configuration file with your ship to establish engine exhaust placement/scale, performance, description, and other parameters.&lt;br/&gt;&lt;br/&gt;- Import your own custom sound effects and music for the game.&lt;br/&gt;&lt;br/&gt;- A new custom mission system that gives you more control over the environment configuration, briefing cycles, and objectives. A more manageable text file structure is used that includes labels for each mission parameter.&lt;br/&gt;&lt;br/&gt;Source: The Publisher Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogametheme objectid="2514">Flight</videogametheme>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamegenre objectid="2156">Simulation</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogameseries objectid="5528">Star Wraith</videogameseries>
+															<videogamedeveloper objectid="14660">StarWraith 3D Games LLC</videogamedeveloper>
+															<videogamepublisher objectid="14660">StarWraith 3D Games LLC</videogamepublisher>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="191956">Windows Downloadable edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

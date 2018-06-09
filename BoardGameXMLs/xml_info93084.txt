@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="93084" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">GNU Backgammon</name>
+									
+			<description>Possibly the strongest backgammon program available for free. Players looking to improve their game will find the move evaluation / suggestion tool invaluable.&lt;br/&gt;&lt;br/&gt;GNU Backgammon (gnubg) is for playing and analyzing backgammon positions, games and matches. It's based on a neural network. In the past twelve months it has made enormous progress. It currently plays at about the level of a championship flight tournament player. Depending on its parameters and its luck in recent games, it rates from around 1900 to 2000 on FIBS, the First Internet Backgammon Server -- at its strongest, it ranks in the top 5 of over 6000 rated players there) and is gradually improving; it should be somewhat stronger than this when released. Since almost all of the CPU time required during supervised training is spent performing rollouts, and rollouts can easily be performed in parallel, it is hoped that users will be able to pool rollout results and collectively train it to a level stronger than any individual could obtain.&lt;br/&gt;&lt;br/&gt;Source: The Game Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamedeveloper objectid="3320">(Unknown)</videogamedeveloper>
+															<videogamepublisher objectid="3320">(Unknown)</videogamepublisher>
+															<videogamemode objectid="2621">AI Only</videogamemode>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogameversion objectid="85851">Browser Release</videogameversion>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogameplatform objectid="5248">Linux</videogameplatform>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogamebg objectid="2397" inbound="true">Backgammon</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

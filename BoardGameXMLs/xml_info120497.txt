@@ -1,0 +1,86 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120497">
+			<yearpublished>2012</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Spalone</name>
+									
+			<description>Spalone is a solitaire puzzle game played with a Shibumi set.&lt;br/&gt;&lt;br/&gt;The player puts 10 balls of each colour (red, white, black) in a bag, then randomly draws a ball each turn and places it either:&lt;br/&gt;&lt;br/&gt;1. on an empty board hole, or&lt;br/&gt;2. on a 2x2 platform that contains at least two balls of the same colour.&lt;br/&gt;&lt;br/&gt;The puzzle ends when the player cannot place the ball just drawn. It is solved if the player can place the last ball on the apex of the pyramid.&lt;br/&gt;&lt;br/&gt;The random draw means that not all games will be solvable - some patience may be required! We do not yet know exactly how much patience.&lt;br/&gt;&lt;br/&gt;Spalone is the solitaire version of Spanic.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Efpe6yUSpi3vblfhRKZIbpCRHaE=/fit-in/200x150/pic1110004.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dv24QvXb9D5_i4qzOGjkHreYAKY=/0x0/pic1110004.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="3541">Cameron Browne</boardgamedesigner>
+															<boardgameartist objectid="3541">Cameron Browne</boardgameartist>
+															<boardgameversion objectid="154002">First edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamefamily objectid="13434">Shibumi</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.49071</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

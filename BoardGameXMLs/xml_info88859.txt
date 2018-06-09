@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="88859">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>18</age>
+
+							<name primary="true" sortindex="1">Guesstimates</name>
+									
+			<description>Overview&lt;br/&gt;&lt;br/&gt;Guesstimates is a strategic guessing game for 2-4 players or teams, which focuses on making intelligent estimates. Your goal is to occupy as large an area as possible on the game board using the blocks that you receive as rewards for making accurate guesses. Blocks are available in three different lengths and the better your guess, the longer the block you receive. Questions belong to three categories: Market, Technology and Brainteaser.&lt;br/&gt;&lt;br/&gt;Playing the Game &lt;br/&gt;Each round starts with the question category being determined by a roll of the die.&lt;br/&gt;&lt;br/&gt;One of the players reads the question aloud and when all players understand the question, the timer is started and all players have 90 seconds to make educated guesses and estimate as good a guess as possible. The players&amp;rsquo; answers must be recorded in the block before the 90 seconds is out.&lt;br/&gt;&lt;br/&gt;0, 1, 2 or 3 points then are distributed&lt;br/&gt;&lt;br/&gt;The players put their points out on the board according to the rules below. The player with the least number of playing squares covered with points places theirs first, followed by the player with the second smallest number of covered playing squares, and so on. If two players have the same number of covered playing squares, then the player who is next to read a question places their points first.&lt;br/&gt;&lt;br/&gt;The turn then goes to the next player and a new round begins.&lt;br/&gt;&lt;br/&gt;Distributing the points&lt;br/&gt;&lt;br/&gt;A correct answer within &amp;plusmn; 25% gives 2 points.&lt;br/&gt;&lt;br/&gt;If the answer is further away than &amp;plusmn; 25% but within the range (10 x correct answer) to (1 / 10 x correct answer), the player receives 1 point.&lt;br/&gt;&lt;br/&gt;The player who comes closest to the correct answer receives +1 point regardless of whether any points are obtained as described above.&lt;br/&gt;&lt;br/&gt;Placing the points and winning the game&lt;br/&gt;&lt;br/&gt;When new points are placed on the game board, they must be positioned adjacent to a previously played point of the same color.&lt;br/&gt;&lt;br/&gt;In addition to the points themselves, players also get points for empty playing squares contained within a border of their lines of points, so it is tactically advantageous to build outwards to the edge of the game board.&lt;br/&gt;&lt;br/&gt;When any player has a point that cannot be placed on the board, the game is over. The number of playing squares contained within each players&amp;rsquo; delimited fields is calculated and added to their number of covered playing fields &amp;ndash; the player with the highest score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LSXAML7dwHR26fs0jafQPg1YiYM=/fit-in/200x150/pic944408.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/pZrgKKqp1CaeFigXaAOz1W3aoNc=/0x0/pic944408.jpg</image>
+						
+												<boardgamepublisher objectid="15001">Acabo Games AB</boardgamepublisher>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="77032">First Swedish Edition</boardgameversion>
+															<boardgameimplementation objectid="179064">Guesstimaster</boardgameimplementation>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>6.59</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.41877</stddev>
+					<median>0</median>
+					<owned>20</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

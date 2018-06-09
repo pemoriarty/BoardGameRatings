@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="82130" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">ZX Spectrum +3</name>
+									
+			<description>The ZX Spectrum +3 looked similar to the +2 but featured a built-in 3-inch floppy disk  drive (like the Amstrad CPC 6128) instead of the tape drive, and was in a black case. It was launched in 1987, initially retailed for &amp;pound;249 and then later &amp;pound;199 and was the only Spectrum capable of running the CP/M operating system without additional hardware.&lt;br/&gt;&lt;br/&gt;The +3 saw the addition of two more 16 KB ROMs. One was home to the second part of the reorganised 128 ROM and the other hosted the +3's disk operating system. This was a modified version of Amstrad's AMSDOS, called +3DOS. These two new 16 KB ROMs and the original two 16 KB ROMs were now physically implemented together as two 32 KB chips. To be able to run CP/M, which requires RAM at the bottom of the address space, the bank-switching was further improved, allowing the ROM to be paged out for another 16 KB of RAM.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Zx spectrum  3&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwmfg objectid="14423">Amstrad</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwmfg objectid="12043">Sinclair Research Ltd</videogamehwmfg>
+															<videogamehwversion objectid="63533">ZX Spectrum +3</videogamehwversion>
+															<videogamehardware objectid="4950" inbound="true">ZX Spectrum</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

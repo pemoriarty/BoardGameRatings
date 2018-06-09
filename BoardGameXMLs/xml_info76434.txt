@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76434" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Lady Bug</name>
+									
+			<description>The goal of Lady Bug is to eat all dots, hearts and letters in the maze while avoiding other insects. The player is represented by a red, yellow, and green character resembling a ladybug  while the enemy insects' appearance varies by level. The border of the maze acts as timer, with each circuit signaling the release of an enemy insect from the central area, up to (generally) a maximum of four. The speed of the circuit increases on stages 2 and 5.&lt;br/&gt;&lt;br/&gt;Unlike the more famous Pac-Man, the player can alter the layout of the maze by shifting any of the twenty green gates. It is not possible to completely isolate a portion of the maze through gate-shifting.&lt;br/&gt;&lt;br/&gt;When the fourth enemy insect enters the maze, the central area will show a level-specific vegetable. Eating a vegetable gives the player bonus points and immobilizes the enemy insects for several seconds, though touching them is still lethal. The skull icons are lethal to ladybugs and enemy insects. An enemy insect who dies returns to the central area. Once a vegetable is eaten, the central area will remain empty unless an enemy insect dies and is re-released, revealing a new vegetable. A ladybug who dies will shrink from view and be briefly replaced with icons resembling the stereotypical wings and halo of an angel.&lt;br/&gt;&lt;br/&gt;The colors of the hearts and letters cycle through a short red, a middling yellow, and a longer blue. The point values are as follows:&lt;br/&gt;&lt;br/&gt;* Dot: 10 points (20, 30, or 50 points with appropriate multiplier)&lt;br/&gt;    * Blue letter/heart: 100 points (200, 300, or 500 points with appropriate multiplier)&lt;br/&gt;    * Yellow letter/heart: 300 points (600, 900, or 1500 points with appropriate multiplier)&lt;br/&gt;    * Red letter/heart: 800 points (1600, 2400, or 4000 points with appropriate multiplier)&lt;br/&gt;    * Vegetable: Starts at 1000 points, rises by 500 with each level till 9500. The highest vegetable is horseradish, on the 18th level. After the 18th level, the horseradish repeats itself, and is of the same value.&lt;br/&gt;&lt;br/&gt;If a heart is consumed while it is blue, a point multiplier will come into effect, indicated by the blue section in the upper right corner of the screen. The first blue heart doubles all point values, the second triples them and the third quintuples them. This multiplier lasts until the level is complete. Eating hearts while they are yellow or red offers no benefit beyond the points collected.&lt;br/&gt;&lt;br/&gt;At each level, the maze will contain three letters. One will be randomly selected from the set of {S, P, C, I, L} (which appear only in SPECIAL), one will be randomly selected from the set of {X, T, R} (which appear only in EXTRA) and the third will be an A or an E (which appear in both words). A secondary goal of the player is to complete the words SPECIAL (indicated in red in the top left corner) and EXTRA (in yellow at top center). If, for example, a letter S is consumed while it is red, the corresponding letter in the word SPECIAL will change from grey to red. Eating an S while it is any other color (or if the S in SPECIAL is already red) offers no benefit beyond the points collected. Completing the word SPECIAL rewards the player with a free game, while completing EXTRA gives the player an extra life. Completing either word causes all its letters to return to normal and immediately advances the player to the next level. In the ColecoVision version, completing SPECIAL puts the player into a bonus level (known in-game as a &amp;quot;Vegetable Harvest&amp;quot;) where the goal is to consume as many randomly-placed vegetables as possible within a fixed time. The SPECIAL register does not appear in the Intellivision version.&lt;br/&gt;&lt;br/&gt;[From Wikipedia: &lt;a target='_blank' href=&quot;http://en.wikipedia.org/wiki/Lady_Bug_%28arcade_game%29&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Lady_Bug_%28arcade_game%29&lt;/a&gt;]&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lxb9PTDbrVKGwfEDgvI15U9RRWY=/fit-in/200x150/pic917576.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/08k2ZEMNLcOUMku721IzWRPmRFs=/0x0/pic917576.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogametheme objectid="2471">Animals</videogametheme>
+															<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="51606">Arcade Release</videogameversion>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4419">ColecoVision</videogameplatform>
+															<videogameversion objectid="51608">ColecoVision Release</videogameversion>
+															<videogameplatform objectid="4427">Intellivision</videogameplatform>
+															<videogameversion objectid="51607">Intellivision Release</videogameversion>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamegenre objectid="2407">Maze</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamepublisher objectid="11758">Taito</videogamepublisher>
+															<videogamedeveloper objectid="23772">Universal Co LTD</videogamedeveloper>
+															<videogamepublisher objectid="23772">Universal Co LTD</videogamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>7.325</average>
+					<bayesaverage>5.91695</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2893" bayesaverage="5.91695" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="5" bayesaverage="7.06542" />
+														<rank type="family" id="4419" name="colecovision" friendlyname="ColecoVision Rank" value="5" bayesaverage="6.85631" />
+														<rank type="family" id="4427" name="intellivision" friendlyname="Intellivision Rank" value="3" bayesaverage="7.24271" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="83" bayesaverage="6.51252" />
+												
+											</ranks>
+					
+					<stddev>1.01888</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

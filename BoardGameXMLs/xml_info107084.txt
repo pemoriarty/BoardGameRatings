@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="107084" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Hangman (1999)</name>
+									
+			<description>The Rules&lt;br/&gt;In Hangman, a single player attempts to determine a secret word by guessing the letters, one at a time, that might be in it. In the beginning, one underline character is displayed for each letter in the word. For each letter guessed that is contained in the word, the number and positions of all occurrences of the letter are revealed. For each letter guessed that is not contained in the word, a body part is drawn on a scaffold. If all letters in the word are guessed before a complete body is drawn, you win the game. If not, you lose, and the word will be revealed.&lt;br/&gt;&lt;br/&gt;Modes of Play&lt;br/&gt;On easy mode, you are allowed nine incorrect guesses, and the game ends after the tenth. (The body parts drawn are: head, body, left arm, left hand, right arm, right hand, left leg, left foot, right leg, right foot.) On hard mode, the hands are drawn with the arms and the feet are drawn with the legs, which means you are only allowed five incorrect guesses, and the game ends after the sixth.&lt;br/&gt;&lt;br/&gt;Saving Your Game&lt;br/&gt;You can save your game by bookmarking the page in the game you want to come back to later. This works at any point in the game after you've made your first guess.&lt;br/&gt;&lt;br/&gt;Cheating&lt;br/&gt;Cheating at this game is possible but discouraged as a general rule. However, on occasion it can be fun to play around with the game engine. The simplest way to cheat is to hit the &amp;quot;back&amp;quot; button on your browser when something happens that you don't like. You can also cheat by modifying the URL at a particular point in the game. Notice that the URL is comprised of name=value pairs, separated by ampersands. The letter(s) or number(s) before the equals sign is the name, and what comes after it is the value. If you modify some of the values you can change the state of the game. You can experiment if you like. Below are some specific things you can do.&lt;br/&gt;&lt;br/&gt;Change the value of w to 0 to remove all body parts from the scaffold.&lt;br/&gt;&lt;br/&gt;Source: The Game Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LuIWrfV6O1rYOJQ5BFj6fW_SF44=/fit-in/200x150/pic1090170.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5O-0z715I-d9901fqTeljkkx0ws=/0x0/pic1090170.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamedeveloper objectid="18171">RinkWorks</videogamedeveloper>
+															<videogamepublisher objectid="18171">RinkWorks</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="123235">Web Browser edition</videogameversion>
+															<videogamebg objectid="5314" inbound="true">Hangman</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

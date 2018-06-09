@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="128885">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Blockers! The Card Game</name>
+									
+			<description>Blockers! The Card Game recreates the Blockers! board game with similar gameplay but new goals. Instead of a 9x9 grid, players will now play onto a 4x4 grid, with 16 victory cards comprising the spaces of that grid. Frame cards surround this grid to label the rows (A-D), columns (1-4) and 2x2 regions (labeled with card suits).&lt;br/&gt;&lt;br/&gt;On a turn, a player plays a &amp;quot;hand&amp;quot; card that specifies a row, column or 2x2 region and claims one victory card in the appropriate location. (Alternatively, a player can use a kicker card as a joker.) Each time you claim a victory card after the first one, the card must match the color or shape on the victory card that you claimed the previous turn. Once all players pass, the round ends and empty spaces on the board are refilled with victory cards. When the victory card deck is exhausted, the game ends and the player with the most victory cards wins.&lt;br/&gt;&lt;br/&gt;Reimplements:&lt;br/&gt;&lt;br/&gt;    Blockers!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ChSx1sa1d5lQuJcU2NncQr_2yDk=/fit-in/200x150/pic1392190.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TPQzSSDfVR_mg9l0GrN_FpPEwmo=/0x0/pic1392190.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																													<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="597">Eagle-Gryphon Games</boardgamepublisher>
+															<boardgameversion objectid="175207">English first edition</boardgameversion>
+																						<boardgameversion objectid="183730">German first edition</boardgameversion>
+																						<boardgamedesigner objectid="2201">Kory Heath</boardgamedesigner>
+															<boardgameartist objectid="35029">Pixel Productions Inc.</boardgameartist>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameimplementation objectid="29073" inbound="true">Blockers!</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>55</usersrated>
+					<average>5.542</average>
+					<bayesaverage>5.49717</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12851" bayesaverage="5.49717" />
+												
+											</ranks>
+					
+					<stddev>1.31372</stddev>
+					<median>0</median>
+					<owned>106</owned>
+					<trading>9</trading>
+					<wanting>0</wanting>
+					<wishing>8</wishing>
+					<numcomments>13</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.1667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

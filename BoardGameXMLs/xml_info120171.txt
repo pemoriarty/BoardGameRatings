@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120171" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Diablo 2: Gold Edition</name>
+							<name primary="true" sortindex="1">Diablo II: Gold Edition</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;A compilation including Diablo II and the expansion.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tL7H4mvBDBhzVKf4gJ-9b2jkKNk=/fit-in/200x150/pic1239954.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yYl5IRDeyx0VgWpUHWLcWwl4Hxs=/0x0/pic1239954.jpg</image>
+						
+												<videogamegenre objectid="2339">Action RPG</videogamegenre>
+															<videogamedeveloper objectid="11812">Blizzard Entertainment</videogamedeveloper>
+															<videogamepublisher objectid="11812">Blizzard Entertainment</videogamepublisher>
+															<videogamemode objectid="2313">Cooperative</videogamemode>
+															<videogameseries objectid="4751">Diablo</videogameseries>
+															<videogame objectid="71030">Diablo II</videogame>
+															<videogame objectid="245334">Diablo II: Lord of Destruction</videogame>
+															<videogameversion objectid="153089">English/European Macintosh/Windows edition</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogametheme objectid="2265">Horror</videogametheme>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogametheme objectid="2328">Occult</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogamecompilation objectid="71030" inbound="true">Diablo II</videogamecompilation>
+															<videogamecompilation objectid="245334" inbound="true">Diablo II: Lord of Destruction</videogamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>7.53571</average>
+					<bayesaverage>6.09661</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="6.09661" />
+												
+							
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="6.36574" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="6.24941" />
+												
+											</ranks>
+					
+					<stddev>2.05691</stddev>
+					<median>0</median>
+					<owned>33</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

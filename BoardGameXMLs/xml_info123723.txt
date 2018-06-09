@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123723">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Crash&#039;em</name>
+							<name  sortindex="1">Crash&#039;Em: The demolition derby party game!</name>
+									
+			<description>Race your monster truck through the arena and deal as much damage as you can. Drive over the power-up fields to gain weapons and damage your opponents even more. The player who deals the most damage wins! You've only got fifteen seconds to choose your three actions. When the horn blares your actions play out and you race towards your opponents. Show your nerves of steel and ram your opponents with all you've got!&lt;br/&gt;&lt;br/&gt;Crash'em is a demolition derby party game in which players need to crash into each other with their toy cars in order to score points.&lt;br/&gt;&lt;br/&gt;Each round players receive new race cards, which they get to look at only once the race sounds start. They need to plan ahead a sequence of three actions within fifteen seconds, after which the cars are moved and possible crashes are resolved. As soon as someone's car is totalled, the game ends and the player who did the most damage wins.&lt;br/&gt;&lt;br/&gt;The board also contains power-up fields, driving over such a field grants you a power-up card. Most of these cards are weapons, which makes it easier for you to damage your opponents. If you have damaged someone, you give that player one of your damage tokens. These tokens each show a car part that got broken during the crash, once you receive such a token the action that relates to that car part doesn't work anymore for the rest of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lsPEbWhi57C9dW_Hkkih9VkN9cU=/fit-in/200x150/pic2805240.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Sx_y3lFnqcJRx_Tgst43sZ_2O_w=/0x0/pic2805240.jpg</image>
+						
+																			<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamedesigner objectid="43692">Michel Baudoin</boardgamedesigner>
+															<boardgameartist objectid="43692">Michel Baudoin</boardgameartist>
+															<boardgameartist objectid="106088">eduardo berazaluce</boardgameartist>
+															<boardgameversion objectid="163328">English first edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepodcastepisode objectid="184227">HLG 6: Samen</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="179922">HLG-EXTRA 1: Zuiderspel 2016</boardgamepodcastepisode>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																						<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgameversion objectid="304417">Second edition</boardgameversion>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+																						<boardgamepublisher objectid="17027">Wacky Works</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>7.63636</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.44743</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>29</wishing>
+					<numcomments>8</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

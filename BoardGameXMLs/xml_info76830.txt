@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76830" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Picross 3D</name>
+							<name  sortindex="1">立体ピクロス</name>
+									
+			<description>Building on the public domain puzzles Color-by-Numbers, players are given a 3D cube of blocks.  On the outside of the block are numbers, some are plain, some have circles and others have squares.  A plain number 4 means that 4 of the blocks will remain contiguously in the solution.  A circled 4 means that there are two contiguous sections which will add up to 4 blocks, but they'll be separated by at least one space.  A squared 4 means that there are a minimum of 3 different groups in that row, each separated by at least a single empty space, and the total count on the row will be four.  Players then either remove blocks or mark them as permanent, rotating the puzzle in three dimensions, and using arrows to make cut-away views of the whole puzzle.  Eventually, all the correct blocks are removed and the puzzle is solved.  Players are given one star for a correct answer, one star for zero mistakes, and one star if solved under the time limit.  Stars are used to open each successive level, each increasingly more difficult.  The objects formed are also put into collections so that you can review which ones you've done.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Y1Mbe85pk0U8GRv7gD94wpYYro8=/fit-in/200x150/pic774702.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/m-YGcsaMRacaEndqhg7M1HWwZcw=/0x0/pic774702.jpg</image>
+						
+												<videogamedeveloper objectid="11900">HAL Laboratory, Inc.</videogamedeveloper>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamepublisher objectid="1326">Nintendo Co., Ltd.</videogamepublisher>
+															<videogameplatform objectid="4734">Nintendo DS</videogameplatform>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="704">United Soft Media (USM)</videogamedeveloper>
+															<videogameversion objectid="52779">US Picross 3D DS</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>52</usersrated>
+					<average>7.76154</average>
+					<bayesaverage>6.80977</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="635" bayesaverage="6.80977" />
+												
+							
+														<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="26" bayesaverage="7.41098" />
+												
+											</ranks>
+					
+					<stddev>1.32725</stddev>
+					<median>0</median>
+					<owned>89</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

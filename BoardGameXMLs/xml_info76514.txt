@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76514" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Ghostbusters (1984)</name>
+									
+			<description>[User summary]&lt;br/&gt;&lt;br/&gt;The first Ghostbusters game was developed simultaneously with the movie. It consisted of traveling to various buildings, busting ghosts, and building your wealth.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/h_4mcIHkX8OPiRuxS8lh5aH6UME=/fit-in/200x150/pic1607664.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_n2uweSk5P-o1-Uk7pl0-1rMFKQ=/0x0/pic1607664.jpg</image>
+						
+												<videogamehonor objectid="29140">1984 Golden Joystick Game of the Year Nominee</videogamehonor>
+															<videogamegenre objectid="2161">Action Adventure</videogamegenre>
+															<videogamedeveloper objectid="11786">Activision</videogamedeveloper>
+															<videogamepublisher objectid="11786">Activision</videogamepublisher>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="392213">Commodore 64 re-release</videogameversion>
+															<videogameversion objectid="51907">English/European Amstrad CPC edition</videogameversion>
+															<videogameversion objectid="51906">English/European ZX Spectrum edition</videogameversion>
+															<videogameversion objectid="275747">English/European ZX Spectrum Ricochet edition</videogameversion>
+															<videogamefranchise objectid="5684">Ghostbusters</videogamefranchise>
+															<videogameversion objectid="136545">Japanese Famicom edition</videogameversion>
+															<videogameversion objectid="51909">Japanese MSX edition</videogameversion>
+															<videogamepublisher objectid="12607">Mastertronic</videogamepublisher>
+															<videogametheme objectid="2350">Movie, Book, TV show</videogametheme>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="51903">North American Apple II edition</videogameversion>
+															<videogameversion objectid="51908">North American Atari 2600 (Black Label) edition</videogameversion>
+															<videogameversion objectid="150686">North American Atari 2600 (Blue Label) edition</videogameversion>
+															<videogameversion objectid="51904">North American Atari 8-bit edition</videogameversion>
+															<videogameversion objectid="51905">North American Commodore 64 edition</videogameversion>
+															<videogameversion objectid="51910">North American NES edition</videogameversion>
+															<videogameversion objectid="51911">North American Sega Master System edition</videogameversion>
+															<videogametheme objectid="2328">Occult</videogametheme>
+															<videogamepublisher objectid="32803">Ricochet</videogamepublisher>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogamepublisher objectid="11990">SEGA of America, Inc.</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamecompilation objectid="229159">They Sold A Million 3</videogamecompilation>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>81</usersrated>
+					<average>5.43235</average>
+					<bayesaverage>5.38995</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6481" bayesaverage="5.38995" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="96" bayesaverage="5.43493" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="213" bayesaverage="5.45382" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="254" bayesaverage="5.3853" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="70" bayesaverage="5.27888" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="87" bayesaverage="5.54171" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="122" bayesaverage="5.39665" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="108" bayesaverage="5.30683" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="74" bayesaverage="5.44107" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="128" bayesaverage="5.37462" />
+												
+											</ranks>
+					
+					<stddev>2.03406</stddev>
+					<median>0</median>
+					<owned>82</owned>
+					<trading>4</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>18</numcomments>
+					<numweights>4</numweights>
+					<averageweight>3.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="78568" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Summer Games</name>
+									
+			<description>&amp;quot;Summer Games is a sports video game developed by Epyx and released by U.S. Gold based on sports featured in the Summer Olympic Games. Released in 1984 for the Commodore 64, it was also eventually ported to the Apple II, Atari 2600, Atari 7800, Atari XL/XE and Sega Master System platforms. Amiga, ZX Spectrum, Amstrad CPC and Atari ST versions were also created for inclusion in compilations. In 2004 it would be &amp;quot;re-released&amp;quot; on the C64 Direct-to-TV.&lt;br/&gt;&lt;br/&gt;The events available vary slightly depending on the platform, and may include:&lt;br/&gt;Pole vault&lt;br/&gt;Platform diving&lt;br/&gt;Sprinting&lt;br/&gt;Gymnastics&lt;br/&gt;Freestyle swimming&lt;br/&gt;Skeet shooting&lt;br/&gt;Rowing&lt;br/&gt;The game allowed the player to compete in all of the events sequentially, choose a few events, choose just one event, or practice an event.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, Summer Games , available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tEr372r2y9PqaAzef3EdPvwE_tQ=/fit-in/200x150/pic785190.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3A9c_ExxcdJ44TRtBZoSZAWD-YQ=/0x0/pic785190.jpg</image>
+						
+												<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4418">Atari 7800</videogameplatform>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="155566">English/European Commodore 64 edition</videogameversion>
+															<videogameseries objectid="24236">Epyx Sports Games</videogameseries>
+															<videogamedeveloper objectid="1417">EPYX, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="1417">EPYX, Inc.</videogamepublisher>
+															<videogamecompilation objectid="80505">Gold, Silver, Bronze</videogamecompilation>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogametheme objectid="2428">Minigame Compilation</videogametheme>
+															<videogameversion objectid="154796">North American Atari 2600 edition</videogameversion>
+															<videogameversion objectid="98739">North American Atari 7800 edition</videogameversion>
+															<videogameversion objectid="77342">North American Atari 8-bit edition</videogameversion>
+															<videogameversion objectid="56106">North American Commodore 64 edition</videogameversion>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2157">Sports</videogamegenre>
+															<videogame objectid="80505" inbound="true">Gold, Silver, Bronze</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>29</usersrated>
+					<average>6.63621</average>
+					<bayesaverage>6.02246</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2348" bayesaverage="6.02246" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="29" bayesaverage="6.44765" />
+														<rank type="family" id="4418" name="atari7800" friendlyname="Atari 7800 Rank" value="10" bayesaverage="6.25262" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="104" bayesaverage="6.46095" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="32" bayesaverage="6.32788" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="39" bayesaverage="6.453" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="56" bayesaverage="6.41584" />
+												
+											</ranks>
+					
+					<stddev>1.81245</stddev>
+					<median>0</median>
+					<owned>27</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

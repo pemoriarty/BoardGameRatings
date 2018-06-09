@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136693" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">BBC Master</name>
+									
+			<description>The BBC Master was a home computer released by Acorn Computers in early 1986. It was designed and built for the British Broadcasting Corporation (BBC) and was the successor to the BBC Micro Model B. The Master 128 remained in production until 1993.&lt;br/&gt;&lt;br/&gt;The Master featured several improvements on its predecessor. The systems had 128 kB RAM as standard, alleviating the shortage of available RAM which had amongst other things discouraged use of the best graphics modes in the original design, and had two cartridge slots mounted above the new numerical keypad. These were physically identical to those used by the Acorn Electron 'Plus 1' interface, but with enhanced electrical characteristics for some of the cartridge connector pins. Rather than the MOS Technology 6502 microprocessor used by the Model B it ran on the slightly improved 65SC12: the cost of this CPU compatibility with the Model B was that the address bus was still only 16 bits, meaning that only 64 kB could be directly addressed at any one time and the remaining memory had to be paged in as required.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;BBC Master&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwmfg objectid="12055">Acorn Computers</videogamehwmfg>
+															<videogamehwversion objectid="195797">BBC Master 128</videogamehwversion>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehardware objectid="5010" inbound="true">BBC Micro</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

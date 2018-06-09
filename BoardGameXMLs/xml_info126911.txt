@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="126911">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Ballistrikks</name>
+									
+			<description>This game simulates players trying to hit a target at the far end of a playing field using stones or similar projectiles. The target is either suspended in the air or on the ground, which will be agreed upon by the players. A graph paper or grid paper (10x10 or 20x20) represents the playing field. The movement of the projectiles per turn is determined by a standard die roll. Each player has four projectiles to throw. If the projectile hits the target or misses it, it is discarded from the game.&lt;br/&gt;&lt;br/&gt;Each move starts with a dice roll. The player moves his projectile according to the dice roll. For each dice roll, the user can choose to move a projectile which is already airborne or introduce a new projectile into the playing field.  For the initial moves the projectile has to travel towards the sky (top of the graph paper) in a diagonal manner (towards top right). After the projectile is airborne, the player can choose whether the projectile has to fall down in this turn. If he chooses so, then the projectile will have to move horizontally for this turn and the next turn onwards the projectile moves towards bottom right(ground) diagonally. The projectile always move to the right and cannot go back. (Should obey laws of gravity and projectile motion). The target is always placed at the second half of the paper, towards the right edge.&lt;br/&gt;&lt;br/&gt;If the projectile hits the target the player is awarded 5 points. If the projectile hits another players projectile (lands in the same square) in the second half (right half) of the graph sheet, then 1 point is awarded and the opponent projectile is removed. The player can hit another player's projectile only in the second half of the field.Game continues till all projectiles are removed from the graph paper. The player with most points wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="170185">First edition</boardgameversion>
+															<boardgamedesigner objectid="61174">Krishnakumar M</boardgamedesigner>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

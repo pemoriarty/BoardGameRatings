@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="115551">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Sphlag</name>
+									
+			<description>Summary:&lt;br/&gt;Sphlag is a capture-the-flag game for two players.&lt;br/&gt;&lt;br/&gt;This is a novel Capture-the-phlag game design for the Shibumi game family.&lt;br/&gt;In this game, 2 players face each other, and try to surround their opponent's flag (or, in this case, &amp;quot;phlag&amp;quot;) with their own spherical pawns.&lt;br/&gt;The game uses the 4x4 Shibumi board, with a pre-defined inset of immobile pieces, creating a battleground for rounds of joy with capture-the-phlag.&lt;br/&gt;&lt;br/&gt;Rules: &lt;br/&gt;Starting position:&lt;br/&gt;The board starts with four Red spheres, two in opposite corners, and two diagonally to an imagined line between these corners in the center of the board. The two players sit opposite each other. The sphere in front of each player represents their respective flag (or, in this case, &amp;quot;phlag&amp;quot;). The spheres in the middle represent a wall. These four spheres cannot be moved.&lt;br/&gt;&lt;br/&gt;Movement rules:&lt;br/&gt;Two players, White and Black, take turns either placing a sphere of their color within their half of the game board (the half facing the player, e.g. anywhere within the triangle B7-G2-G7 for the lower player, and A6-F1-A1 for the upper player), in any level possible, or by moving their sphere up to a total of 4 spaces. No spheres can be initially placed along the diagonal line indicated by the wall (A7-G1), or the opponent&amp;rsquo;s half, although spheres can be moved into these positions.&lt;br/&gt;A &amp;quot;space&amp;quot; is defined as a space on the grid (not the holes). This means that moving from one hole to the next (for example, E7-C7) involves moving 2 spaces. Player movements may involve movements up or down levels. If a sphere that supports only one other sphere is moved, the top sphere drops down into the vacated hole. If a sphere supports more than one other sphere, it is locked into place.&lt;br/&gt;&lt;br/&gt;Other rules:&lt;br/&gt;The last turn's board position cannot be repeated (ko rule). Passing is allowed. If a player cannot make a legal move, the player passes.&lt;br/&gt;&lt;br/&gt;Aim:&lt;br/&gt;Players aim to touch their opponent&amp;rsquo;s flag with as many of their own spheres as possible. There are three legal positions at which an opponent&amp;rsquo;s flag can be &amp;quot;touched&amp;quot;; E7, F6, G5 for the lower flag, and A3, B2, C1 for the upper flag.&lt;br/&gt;&lt;br/&gt;Winning conditions:&lt;br/&gt;Players win instantly upon moving at least two of their spheres into touching contact with the opponent&amp;rsquo;s flag. Otherwise, the game ends when both players pass sequentially or if both players agree to end the game. The player that has more spheres touching the opponent&amp;rsquo;s flag after ending the game wins. In case of a draw with respect to the number of spheres touching the opponent&amp;rsquo;s flag, the player with fewer spheres on the board wins. If both players have identical numbers of spheres touching their opponent&amp;rsquo;s flag, and equal numbers of spheres in the game, the game ends in a draw.&lt;br/&gt;&lt;br/&gt;Examples of legal moves are shown in the files section.&lt;br/&gt;&lt;br/&gt;Designed by Lars Rose, 2011.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Eej5KBIpVMAH6hTQ6qXfsfTaM08=/fit-in/200x150/pic1184166.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UrPU_9771Zo72hgfGo6eVb-ruhw=/0x0/pic1184166.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgameversion objectid="142339">First edition</boardgameversion>
+															<boardgamefamily objectid="5902">Marble Games</boardgamefamily>
+															<boardgamedesigner objectid="29003">Lars Rose</boardgamedesigner>
+															<boardgameartist objectid="29003">Lars Rose</boardgameartist>
+															<boardgamefamily objectid="13434">Shibumi</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

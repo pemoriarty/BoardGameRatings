@@ -1,0 +1,153 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="126025">
+			<yearpublished>2013</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Rise of the Zombies!</name>
+									
+			<description>In Rise of the Zombies, a fast-paced card game of zombie survival, players play Location cards to form a path from the Safe House to the Rescue Helicopter, while fighting off hordes of zombies. The players must also play fast because they are racing a real-world timer. If time expires, the Survivors are left behind and die.&lt;br/&gt;&lt;br/&gt;Players play cards during a common &amp;quot;Survivor Turn&amp;quot;. At the start of the Survivor Turn, all players can discard and draw until the number of cards in their hands is equal to their Hand Sizes. There are no player turns. Declare what you are doing, which card you are playing, and which zombie you are attacking, and roll dice. This simulates the chaos of combat. Most cards can be used to perform more than one function. You can perform as many actions during the Survivor Turn as your cards can support. You can even trade weapons and items with other Survivors in your Location.&lt;br/&gt;&lt;br/&gt;Once all players have resolved their actions, the Zombies get to attack.&lt;br/&gt;&lt;br/&gt;The game is co-opish... how you play the game is up to you. You don't gain anything by having other Survivors die, but if you spend too much time trying to help others, it might cost you your own survival.&lt;br/&gt;&lt;br/&gt;Help them? Leave them behind? It's all up to you.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/F52ACZldsExtsiWhTLKNydBIgiU=/fit-in/200x150/pic1382676.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sXAn6pUhBAc-zLhLUeOrcWUa4cw=/0x0/pic1382676.jpg</image>
+						
+																			<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamepublisher objectid="3683">Dan Verssen Games (DVG)</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="168349">English first edition</boardgameversion>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																						<boardgameartist objectid="49297">Gordon Napier</boardgameartist>
+															<boardgamepodcastepisode objectid="95732">OBG 101: The Decision Horizon</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+																																											<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamedesigner objectid="428">Dan Verssen</boardgamedesigner>
+															<boardgamepodcastepisode objectid="97218">Wooden Cubes &amp;amp; Iron Soldiers: “Boardgames are lame!” Episode 14</boardgamepodcastepisode>
+															<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>152</usersrated>
+					<average>6.43388</average>
+					<bayesaverage>5.61325</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5626" bayesaverage="5.61325" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="684" bayesaverage="5.69014" />
+												
+											</ranks>
+					
+					<stddev>1.71901</stddev>
+					<median>0</median>
+					<owned>352</owned>
+					<trading>22</trading>
+					<wanting>18</wanting>
+					<wishing>82</wishing>
+					<numcomments>54</numcomments>
+					<numweights>12</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

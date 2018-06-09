@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="82680">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Grasshopper</name>
+									
+			<description>&amp;quot;Grasshopper is a Backgammon variant invented by Matt Crispin and its most significant feature, compared to the classic Backgammon, is that there are no dice and no luck factor at all. The game strategy fully depends on player's skills.&amp;quot;&lt;br/&gt;&lt;br/&gt;My brief description of how the game is played and the goal:&lt;br/&gt;&lt;br/&gt;During the game, players attempt to race their 14 pieces around the Backgammon board, counter-clockwise, blocking their opponent's pieces along the way by occupying a point (a single piece on a point cannot be captured in this variant, in fact, there is no capturing at all) or by building a &amp;quot;wall&amp;quot; (two stacked pieces on a point make a wall) that no piece, friendly or otherwise, can pass over.  Movement, in this game, is only from quadrant to quadrant, each quadrant consisting of 6 points (1 thru 6, 7 thru 12, 13 thru 18, 19 thru 24).  The second piece on the wall has special ability of jumping over any wall that might be in the way to land in the next quadrant (hense the name &amp;quot;Grasshopper&amp;quot;).  Walls can only be built by moving a piece from the previous quadrant that is exactly 6 points away to a point that has one piece on it.  Once the players get their pieces to the 4th quadrant, they must build walls on the quadrant.  These walls (two piece stacks) can be borne off the board as a unit for the players turn.  The winner is the first player to bear off two walls consecutively, but not necessarily in two consecutive turns.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xRnU0dsLASmB1UA8wswQTjL2Flk=/fit-in/200x150/pic842641.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8KlPqdtOXP5GwMtMV0oitLiWFF4=/0x0/pic842641.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="42960">Matt Crispin</boardgamedesigner>
+																						<boardgameversion objectid="64861">First edition</boardgameversion>
+															<boardgamefamily objectid="4023">Gammon</boardgamefamily>
+																						<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="134794" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Dunzhin</name>
+							<name  sortindex="1">Warrior of RAS Volume 1: Dunzhin</name>
+							<name  sortindex="1">Warrior of RAS Volume I: Dunzhin</name>
+							<name  sortindex="1">Warriors of RAS Volume 1: Dunzhin</name>
+							<name  sortindex="1">Warriors of RAS Volume I: Dunzhin</name>
+									
+			<description>Warrior of Ras: Volume I - Dunzhin is a fantasy role-playing video game developed by Med Systems Software. The game was released on the TRS-80 in 1982.&lt;br/&gt;&lt;br/&gt;Plot&lt;br/&gt;&lt;br/&gt;The player explores a new, randomly generated dungeon for each adventure. The character encounters monsters and human enemies, and experience points are awarded based on the disparity between the character's and the monster's statistics. The character's primary goal is the recovery of a treasure hidden on the deepest level which is guarded by a particularly effective team of monsters.&lt;br/&gt;&lt;br/&gt;Ports&lt;br/&gt;&lt;br/&gt;Dunzhin was ported to the Apple II, Atari 8-bit, Commodore 64, and IBM PC. The PC port is particularly interesting from a technical standpoint because it features digitized speech not found in the other versions in addition to the very unusual practice of performing all disk access via IN/OUT instructions to the floppy controller instead of using the BIOS (this was done both to improve performance and as a copy protection scheme). The PC version was not completely rewritten from the ground up, but instead contained the original Z80 code from the TRS-80 with an interpreter to convert it to x86 assembly language&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Dunzhin&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IKLtvQQ7Yrv6DQ27Ma9R5ByTadM=/fit-in/200x150/pic1849892.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jwbPX1XjBIyzK6X2f2KZnjwrBKA=/0x0/pic1849892.png</image>
+						
+												<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogamepublisher objectid="26290">Computer Applications Unlimited</videogamepublisher>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamedeveloper objectid="24063">Intelligent Statements, Inc.</videogamedeveloper>
+															<videogamedeveloper objectid="18253">Med Systems Software</videogamedeveloper>
+															<videogamepublisher objectid="18253">Med Systems Software</videogamepublisher>
+															<videogameversion objectid="191021">North American Apple II edition</videogameversion>
+															<videogameversion objectid="191022">North American Atari 8-bit/Commodore 64 edition</videogameversion>
+															<videogameversion objectid="191020">North American TRS-80 edition</videogameversion>
+															<videogamegenre objectid="2155">RPG</videogamegenre>
+															<videogamepublisher objectid="22717">Screenplay</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5930">TRS-80 Model I/III</videogameplatform>
+															<videogameversion objectid="226513">US DOS edition</videogameversion>
+															<videogameseries objectid="20707">Warrior of RAS</videogameseries>
+															<videogamecompilation objectid="136301">Warriors of Ras: Journey I, Kaiv; Journey II, Dunzhin</videogamecompilation>
+															<videogame objectid="136301" inbound="true">Warriors of Ras: Journey I, Kaiv; Journey II, Dunzhin</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5930" name="trs80" friendlyname="TRS-80 Model I/III Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

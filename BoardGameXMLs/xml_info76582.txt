@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76582" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Shadow of the Beast (1989)</name>
+									
+			<description>From Wikipedia&lt;br/&gt;&lt;br/&gt;Shadow of the Beast is a side-scrolling platform computer game produced by Reflections Interactive and published by Psygnosis in 1989. The original version was released for the Commodore Amiga, but the game has been ported to many other systems. (...)&lt;br/&gt;&lt;br/&gt;The first game's story is about a man named Aarbron who was kidnapped as a child and corrupted through magic into a monstrous warrior-servant for the evil beast lord Maletoth. The creature's memory of his human life returns when he watches a man being executed, whom he later recognizes as his father. This prompts Aarbron to seek revenge on Maletoth.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bqstNvC3pL4SbJhIr6vlB8Ui_Kk=/fit-in/200x150/pic1062363.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Mi4T0_KgIH9LidzMtnmiV74dopw=/0x0/pic1062363.jpg</image>
+						
+												<videogamehonor objectid="29224">1990 Golden Joystick Best Graphics of the Year Winner (16-bit)</videogamehonor>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameversion objectid="52122">Amstrad CPC Release</videogameversion>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameversion objectid="52121">Atari ST Release</videogameversion>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogamegenre objectid="2342">Beat &#039;em Up</videogamegenre>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="52123">Commodore 64 Release</videogameversion>
+															<videogameversion objectid="52125">English/International Genesis Release</videogameversion>
+															<videogameversion objectid="52126">English/International Lynx Release</videogameversion>
+															<videogameversion objectid="52120">English/UK Amiga Release</videogameversion>
+															<videogameversion objectid="52119">English/US Amiga Release</videogameversion>
+															<videogameversion objectid="52124">English/US Genesis Release</videogameversion>
+															<videogameversion objectid="52127">English/US Lynx Release</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamepublisher objectid="12545">Gremlin Interactive (1994-1999)</videogamepublisher>
+															<videogameplatform objectid="4429">Lynx</videogameplatform>
+															<videogamecompilation objectid="252934">Monster Pack Volume 1</videogamecompilation>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogamepublisher objectid="12341">Psygnosis</videogamepublisher>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogameversion objectid="52129">SEGA Master System Release</videogameversion>
+															<videogameseries objectid="6663">Shadow of the Beast</videogameseries>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4725">TurboGrafx-16</videogameplatform>
+															<videogameversion objectid="52130">TurboGrafx-CD Release</videogameversion>
+															<videogamedeveloper objectid="13104">Ubisoft Reflections Ltd.</videogamedeveloper>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="52128">ZX Spectrum Release</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>5.91667</average>
+					<bayesaverage>5.63788</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5169" bayesaverage="5.63788" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="216" bayesaverage="5.79991" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="178" bayesaverage="5.89498" />
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="139" bayesaverage="5.83686" />
+														<rank type="family" id="4429" name="lynx" friendlyname="Lynx Rank" value="12" bayesaverage="5.90462" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="51" bayesaverage="5.85576" />
+														<rank type="family" id="4725" name="turbografx16" friendlyname="TurboGrafx-16 Rank" value="28" bayesaverage="5.5" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="97" bayesaverage="5.9179" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="118" bayesaverage="5.89506" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="104" bayesaverage="5.91195" />
+												
+											</ranks>
+					
+					<stddev>1.34629</stddev>
+					<median>0</median>
+					<owned>23</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

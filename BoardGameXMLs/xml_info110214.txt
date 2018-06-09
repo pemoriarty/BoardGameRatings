@@ -1,0 +1,81 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="110214" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Mega Games 1</name>
+							<name  sortindex="1">Mega Games I</name>
+							<name primary="true" sortindex="1">Triple Score: 3 Games in 1</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Triple Score: 3 Games 1 is a Genesis compilation cartridge that includes the following three games:&lt;br/&gt;&lt;br/&gt;Super Hang-On&lt;br/&gt;World Championship Soccer&lt;br/&gt;Columns&lt;br/&gt;&lt;br/&gt;It was titled Mega Games I for its European release.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogame objectid="69133">Columns</videogame>
+															<videogametheme objectid="2456">Driving</videogametheme>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameversion objectid="130287">North American Genesis edition</videogameversion>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamegenre objectid="2154">Racing</videogamegenre>
+															<videogamedeveloper objectid="5360">SEGA Corporation</videogamedeveloper>
+															<videogamepublisher objectid="5360">SEGA Corporation</videogamepublisher>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2157">Sports</videogamegenre>
+															<videogametheme objectid="2373">Sports - Soccer</videogametheme>
+															<videogame objectid="75122">Super Hang-On</videogame>
+															<videogame objectid="110213">World Championship Soccer</videogame>
+															<videogamecompilation objectid="69133" inbound="true">Columns</videogamecompilation>
+															<videogamecompilation objectid="75122" inbound="true">Super Hang-On</videogamecompilation>
+															<videogamecompilation objectid="110213" inbound="true">World Championship Soccer</videogamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

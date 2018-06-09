@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="110820" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Atari CX7800</name>
+									
+			<description>The Atari 7800 ProSystem, more commonly known as just Atari 7800, is a video game console released by Atari Corporation in mid-1984. In response to the criticisms of the Atari 5200, the Atari 7800 could play almost all Atari 2600 games out of the box, without the need for an adapter. In addition, it featured a return to a digital controller.&lt;br/&gt;&lt;br/&gt;The 7800 was the first game system from Atari Inc. designed by an outside company, General Computer Corporation (GCC). Design of the system began in 1983.&lt;br/&gt;&lt;br/&gt;Following an announcement on May 21, 1984 at the Summer Consumer Electronics Show, the 7800 was initially released in southern California in June 1984. One month later, Warner Communications sold Atari's Consumer Division to Jack Tramiel. All projects were halted during an initial evaluation period.&lt;br/&gt;&lt;br/&gt;The 7800 languished on warehouse shelves until it was re-introduced in January 1986 after strong Atari 2600 sales the previous Christmas.&lt;br/&gt;&lt;br/&gt;Design Features&lt;br/&gt;&lt;br/&gt;Previous game consoles sometimes had a difficult time replicating the arcade experience in home versions of popular arcade games. In particular, home versions of arcade games sometimes had problems with flickering and slow down when more than a few moving objects appeared on the screen at once. GCC, designers of the 7800, had a background in creating arcade games. They designed the new system with a graphical architecture similar to arcade machines of the time.&lt;br/&gt;&lt;br/&gt;The 7800 featured the ability to move around a tremendous amount of objects (75-to-100) that far exceeded previous consoles. Powering the system was an Atari SALLY 6502 (Atari's slightly custom 6502, sometimes described as a &amp;quot;6502C&amp;quot;) processor running at 1.79 MHz.&lt;br/&gt;&lt;br/&gt;To address the concerns of parents that home computers were a better investment than consoles, the system was designed to be upgraded to a full-fledged home computer. On the side of the 7800 was an expansion port, reportedly for a planned connection with a laserdisc player.&lt;br/&gt;&lt;br/&gt;Technical Specifications&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     CPU: Atari SALLY 6502 (&amp;quot;6502C&amp;quot;), Speed: 1.79 MHz, drops to 1.19 MHz when the TIA Television Interface Adaptor or RIOT (6532 RAM-I/O-Timer) chips are accessed (note: Unlike a standard 6502, SALLY can be halted to allow other devices to control the bus)&lt;br/&gt;     RAM: 4 KB (2 6116 2Kx8 RAM ICs)&lt;br/&gt;     ROM: built in 4 KB BIOS ROM, 48 KB Cartridge ROM space without bankswitching&lt;br/&gt;     Graphics: MARIA custom graphics controller, 160&amp;times;240 (160&amp;times;288 PAL) resolution or 320&amp;times;240/288 resolution, 25 color palette out of 256 colors (16 hues * 16 luma), different graphics modes restricted the number of usable colors and the number of colors per sprite, Direct Memory Access (DMA), Graphics clock: 7.16 MHz&lt;br/&gt;     I/O: Joystick and console switch IO handled byte 6532 RIOT and TIA&lt;br/&gt;     Ports: 2 joystick ports, 1 cartridge port, 1 expansion connector, power in, RF output&lt;br/&gt;     Sound: TIA video and sound chip, same as the 2600. Only the sound is used in 7800 games. Both video and sound are used in 2600 games.&lt;br/&gt;     Optional POKEY sound chip on cartridge for improved sounds.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Atari 7800&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwmfg objectid="11465">Atari, Inc.</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="131513">Original Atari CX7800</videogamehwversion>
+															<videogamehwversion objectid="131514">Second Atari CX7800</videogamehwversion>
+															<videogamehwversion objectid="131515">Third Atari CX7800</videogamehwversion>
+															<videogamehardware objectid="4418" inbound="true">Atari 7800</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.41667</average>
+					<bayesaverage>6.44488</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="88" bayesaverage="6.44488" />
+												
+											</ranks>
+					
+					<stddev>0.931695</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

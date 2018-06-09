@@ -1,0 +1,82 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="80016">
+			<yearpublished>2005</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>11</age>
+
+							<name  sortindex="1">Dungeon Twister: Arch-Mage Treasure Rooms</name>
+							<name primary="true" sortindex="1">Dungeon Twister: Room P1</name>
+							<name  sortindex="1">Dungeon Twister: Salle P1</name>
+							<name  sortindex="1">Dungeon Twister: Salles aux Trésors de l&#039;Archimage</name>
+									
+			<description>Arch-Mage Treasure Rooms &lt;br/&gt;(Rooms P1, Goodies 2004-2005)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The number of VP necessary to win the game is increased by 1 VP for each face-up Arch-Mage Treasure room. For example, if the game is being played to 5 VP and both Arch-Mage Treasure rooms are visible, the game is now played to 7 VP.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Giant Grinders:&lt;br/&gt;&lt;br/&gt;     The Giant Grinders work exactly like rifts. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A flying character (Wizard, Ghost, Specter, etc...) can fly over a Giant Grinder during his movement, but cannot stop there. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Characters who can move over pit traps, like the Thief or Elf Scout, cannot more over a Giant Grinder square.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A character carrying a rope can move over a Giant Grinder or stop there as long as there are two valid attachment points available. However, his movement must be from one valid square to another valid square.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The Giant Grinders are obstacles.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pipes:&lt;br/&gt;&lt;br/&gt;     Pipes are not normal floor squares.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Pipes do not block line of sight.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Pipes are obstacles for characters with a combat value of 3 or more (only the unmodified combat value on the character counts). &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Characters of combat value 0,1,or 2 (only the unmodified combat value on the character counts) can use Pipes like normal ground.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Characters of combat value 0,1, or 2 can stop on Pipes.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Characters of combat value 3 can move over Pipes like normal ground. Characters of combat value 3 cannot stop on Pipes. If they do stop on the Pipes, the Pipes break (place a broken marker) and the character falls into the giant grinders, which causes immediate death.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Characters of combat value 4 or more can use Pipes, but as soon as they step on them, the Pipes break and the character is killed.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     When Pipes break, only the square where the character was standing is broken (not all of the Pipes). That can lead to a strange situation (but legal) where a piece of Pipes is all alone because the Pipes on each side were broken.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Arch-Mage Treasure:&lt;br/&gt;&lt;br/&gt;     A character standing on an Arch-Mage Treasure square can pick up the treasure for 1 AP. Place a Treasure token under the character.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Each Arch-Mage Treasure square can only offer one Treasure per game. Pace a broken marker on the Arch-Mage treasure square to indicate that this square was already looted.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     If the Disciple &amp;quot;forgets&amp;quot; this room and it contains a looted (with a broken marker) Arch-Mage Treasure square, the broken marker is withdrawn. The square will provide another treasure once the room is discovered again.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The Arch-Mage Treasure squares are considered to be normal floor squares only with regards to movement and line of sight. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The Arch-Mage Treasure squares are not obstacles.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xGisHcuCIBFOl1RJbua8SopVMZg=/fit-in/200x150/pic792049.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/u6LdihGEfNM3dgnWJMGzBCR1boY=/0x0/pic792049.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamedesigner objectid="1206">Christophe Boelinger</boardgamedesigner>
+															<boardgamefamily objectid="30">Dungeon Twister</boardgamefamily>
+															<boardgameversion objectid="60926">English edition</boardgameversion>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="60267">French edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameexpansion objectid="12995" inbound="true">Dungeon Twister</boardgameexpansion>
+															<boardgameexpansion objectid="42124" inbound="true">Dungeon Twister 2: Prison</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>7.25</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.5025</stddev>
+					<median>0</median>
+					<owned>51</owned>
+					<trading>4</trading>
+					<wanting>31</wanting>
+					<wishing>40</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

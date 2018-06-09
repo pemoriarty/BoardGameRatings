@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="111686" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">FM Towns Marty</name>
+							<name  sortindex="1">エフエムタウンズマーティー</name>
+									
+			<description>The FM Towns Marty (エフエムタウンズマーティー efuemutaunzumātī) was a fifth-generation video game console released in 1993 by Fujitsu, exclusively for the Japanese market. It was the first 32-bit home video game system, and came complete with a built in CD-ROM drive and disk drive. It was based on the earlier FM Towns computer system Fujitsu had released in 1989. The Marty was backward-compatible with older FM Towns games.&lt;br/&gt;&lt;br/&gt;In 1994 a new version of the console called the FM Towns Marty 2 was released. It featured a darker gray shell and a new lower price (66,000 yen) but was otherwise identical to the first Marty. It is widely believed that the FM Towns Marty 2 would feature similar improvements to the FM Towns 2, which had a swifter CPU than the first, but this is not the case. It has also been speculated that the Marty 2 featured a 486 CPU, however this was also discovered to be false.&lt;br/&gt;&lt;br/&gt;As well as this, there is also the FM Towns Car Marty for installation in automobiles. This came in two versions, the MVP-1 (released in April 1994) and MVP-10 (released in November 1994). The only difference between the MVP-1 and MVP-10 is the drive mechanisms. There has been speculation that the MVP-10 was introduced since the MVP-1 broke easily. An additional accessory that was available to FM Towns Car Marty owners included a GPS, subsequently sold with a video monitor.&lt;br/&gt;&lt;br/&gt;CPU: 32-bit AMD 386SX processor&lt;br/&gt;&lt;br/&gt;CPU Speed: 16 MHz&lt;br/&gt;&lt;br/&gt;Graphics:&lt;br/&gt;&lt;br/&gt;- Resolution: 352x232 up to 640x480&lt;br/&gt;- 32768 color palette - 256 onscreen&lt;br/&gt;&lt;br/&gt;The Marty had only composite and S-video output, no other video connectors are possible. As some FM Towns games were VGA-only, the Marty had a 15 kHz down-scan capability for displaying on a household TV screen.&lt;br/&gt;&lt;br/&gt;Sprites:&lt;br/&gt;&lt;br/&gt;Up to 1024 sprites,16 x 16 sprite size&lt;br/&gt;&lt;br/&gt;Sound:&lt;br/&gt;&lt;br/&gt;- 6 channel FM&lt;br/&gt;- 8 channel PCM&lt;br/&gt;&lt;br/&gt;RAM:&lt;br/&gt;&lt;br/&gt;- 2 MB&lt;br/&gt;&lt;br/&gt;Data Storage:&lt;br/&gt;&lt;br/&gt;- CD-ROM, Single-speed (1x)&lt;br/&gt;- Internal 3.5&amp;quot; HD floppy drive&lt;br/&gt;&lt;br/&gt;Floppy disks must be formatted 1.2M (PC98-style). This can be done from the BIOS GUI. The Marty's disk drive does not support standard 1.44M or 720k FAT formatted 3.5&amp;quot; floppy disks. For a PC to be compatible with FM Towns Marty floppies it must have a disk drive, BIOS and OS that supports &amp;quot;3 Mode&amp;quot;. There are also USB floppy drives that support &amp;quot;3 Mode&amp;quot;.&lt;br/&gt;&lt;br/&gt;Multi-Purpose:&lt;br/&gt;&lt;br/&gt;- PCMCIA type 1 slot&lt;br/&gt;&lt;br/&gt;The Marty's IC Card slot is compatible with type 1 PCMCIA cards, including battery-backed SRAM cards (accessible from the BIOS menu) that can be mapped to a drive letter and used as a small drive. Fujitsu also officially released a PCMCIA 2400 bit/s modem (FMM-CM301) for the FM Towns Marty. This modem was bundled with the special TCMarty that also came with a printer port. While it is widely believed that the IC Card slot can be used for RAM expansions, this is not correct.&lt;br/&gt;&lt;br/&gt;Controllers:&lt;br/&gt;&lt;br/&gt;- 4-way D-pad, A and B buttons, Select, and Run, as well as an extra button above the two &amp;quot;face&amp;quot; buttons&lt;br/&gt;- 2 standard controller ports&lt;br/&gt;- Keyboard port&lt;br/&gt;&lt;br/&gt;The controller connector is a DB9, referred to as an &amp;quot;Atari Type&amp;quot; in Japan because it's fundamentally the same connector as an Atari 2600. The Marty's Run and Select buttons are the equivalent of pressing right and left, or up and down at the same time. A six-button controller from Fujitsu was available for use with Capcom's Street Fighter II. Capcom also released an adaptor for their CPS Fighter stick which made the stick compatible with the FM Towns/Marty as well as the Sharp X68000.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;FM Towns Marty&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="133334">FM Towns Car Marty MVP-1</videogamehwversion>
+															<videogamehwversion objectid="133335">FM Towns Car Marty MVP-10</videogamehwversion>
+															<videogamehwversion objectid="133332">FM Towns Marty</videogamehwversion>
+															<videogamehwversion objectid="133333">FM Towns Marty II</videogamehwversion>
+															<videogamehwmfg objectid="19007">Fujitsu</videogamehwmfg>
+															<videogamehardware objectid="5572" inbound="true">FM Towns Marty</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

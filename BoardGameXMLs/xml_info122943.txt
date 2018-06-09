@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="122943">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Scripts and Scribes: The Dice Game</name>
+									
+			<description>As a medieval monk, you are charged with increasing the prestige of the abbey's collection of historical and sacred texts. By acquiring the resources for manuscript illustration and reproduction, your abbey produces and sells its valuable works, thereby bringing in finances necessary for maintaining a fine abbey. Will you succeed in making your abbey the most prestigious of all?&lt;br/&gt;&lt;br/&gt;The goal of Scripts and Scribes: The Dice Game is to acquire gold and to collect resources &amp;ndash; scrolls, manuscripts, pigments, quills, ink &amp;ndash; to exchange for gold. The game is a dice version of Scripts and Scribes (aka, Biblios) and follows the same basic theme, but with interesting changes due to the use of dice. As in Scripts and Scribes, players compete in five different categories and the values of the categories change during the game. In addition, depending upon the dice roll, there may be many or few auctions during the game in which players auction their resources for gold or auction gold for resources.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/w0lgTCgl1QP23uBaGz5qsPPcVuo=/fit-in/200x150/pic1276819.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6WFMbICwGjLPcKFvRnEG51bDNY8=/0x0/pic1276819.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameimplementation objectid="164506">Biblios Dice</boardgameimplementation>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="7978">Dr. Finn&#039;s Games</boardgamepublisher>
+															<boardgameversion objectid="161201">English first edition</boardgameversion>
+															<boardgamedesigner objectid="10060">Steve Finn</boardgamedesigner>
+																						<boardgamepodcastepisode objectid="82959">Garrett&#039;s Games 323 - Dixit Journey, Scripts and Scribes Dice, Dominant Species Card Game</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+																																																		<boardgameexpansion objectid="158116">Scripts and Scribes: The Dice Game – Mini Expansion</boardgameexpansion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameimplementation objectid="34219" inbound="true">Biblios</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>321</usersrated>
+					<average>6.62065</average>
+					<bayesaverage>5.75033</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3528" bayesaverage="5.75033" />
+												
+											</ranks>
+					
+					<stddev>1.07307</stddev>
+					<median>0</median>
+					<owned>499</owned>
+					<trading>37</trading>
+					<wanting>28</wanting>
+					<wishing>95</wishing>
+					<numcomments>138</numcomments>
+					<numweights>29</numweights>
+					<averageweight>1.5517</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

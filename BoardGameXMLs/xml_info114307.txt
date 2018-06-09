@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="114307">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">0·1 (Zero Point One)</name>
+									
+			<description>Zero Point One is a two player abstract strategy game combining elements of Chess and Shogi. The game is inspired by the medieval moves of the Bishop (Alfil) and Queen (Fers) and adds some common medieval unorthodox Chess pieces such as Dabbaba and Wazir along with the orthodox Knight in Western Chess.&lt;br/&gt;&lt;br/&gt;Zero Point One is played on a board with sixty four squares arranged in an 8x8 grid.&lt;br/&gt;Each square contains a number from 1 to 8. These numbers have no effect on play but serve as a visual aid so players may easily envision the squares to which certain pieces may have access.&lt;br/&gt;&lt;br/&gt;The pieces are named after the co-ordinates by which they move.&lt;br/&gt;Pieces are moved to either a vacant square or to a square occupied by an opposing piece. The opposing piece is thus captured and removed from the board.&lt;br/&gt;&lt;br/&gt;With the exception of 0&amp;middot;1 pieces, captured pieces may re-enter the game on the side of the capturing player as in Shogi. In lieu of a regular move, a player may place a captured piece on any vacant square. &lt;br/&gt;The object of the game is to capture the opposing 0&amp;middot;1 piece.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/q8MWH0Ds7dwL4GDkK4ePeptZr1s=/fit-in/200x150/pic2518638.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/s_yh3Y7X3J0omMfE9wJEDQAnqdE=/0x0/pic2518638.png</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="139876">First edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamedesigner objectid="60185">Jim Wickson</boardgamedesigner>
+															<boardgameartist objectid="60185">Jim Wickson</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.005</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.995</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

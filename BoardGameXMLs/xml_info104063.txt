@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="104063">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Let&#039;s Take a Hike</name>
+							<name  sortindex="1">Pack It</name>
+									
+			<description>In Let's Take a Hike, a.k.a. Pack It, players draw cards of useful items such as water bottles and tents, add them to their hand, and play them onto the table into their backpacks. When a player is ready, he announces that he is taking a hike. The other players may join the hike or wait to take a hike at a better time.&lt;br/&gt;&lt;br/&gt;To take a hike, cards are drawn from the deck and players discard cards from their backpacks as necessary. Players that wish to drop out of a hike may choose one card that has been turned up for points at the end of the game. The last player to drop out takes all of the remaining cards that have been turned up.&lt;br/&gt;&lt;br/&gt;Timing when to be the Lead Hiker, when to join a hike, when to wait until another time, and when to play the hazard cards drive the players' decisions.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nEhxslpfCr_EqlQw5JgzUmn1zes=/fit-in/200x150/pic1059659.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/VSWOjzbfIvcF45qClvHffVQsUb0=/0x0/pic1059659.jpg</image>
+						
+																			<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgameartist objectid="50827">Troy Cummings</boardgameartist>
+																																				<boardgameversion objectid="115543">English first edition</boardgameversion>
+															<boardgameversion objectid="257558">English second edition</boardgameversion>
+															<boardgamepodcastepisode objectid="65735">Episode 7: Essen Withdrawal Symptoms</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="3355">Aaron Lauster</boardgamedesigner>
+																						<boardgamepublisher objectid="3491">SimplyFun</boardgamepublisher>
+															<boardgamepublisher objectid="2406">StrataMax Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="75339">The Spiel #146 - Bear Spray and the Big Apple</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="67851">The Spiel at Essen 2011 - Let&#039;s Take A Hike</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>221</usersrated>
+					<average>5.94072</average>
+					<bayesaverage>5.56638</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7420" bayesaverage="5.56638" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1322" bayesaverage="5.59454" />
+												
+											</ranks>
+					
+					<stddev>1.38311</stddev>
+					<median>0</median>
+					<owned>307</owned>
+					<trading>18</trading>
+					<wanting>18</wanting>
+					<wishing>74</wishing>
+					<numcomments>65</numcomments>
+					<numweights>20</numweights>
+					<averageweight>1.35</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

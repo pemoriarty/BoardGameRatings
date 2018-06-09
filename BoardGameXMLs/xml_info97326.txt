@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="97326">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Big Fish Little Fish</name>
+									
+			<description>A trick-taking game for traditional playing cards. Features 'boasting' - a push-your-luck mechanic.&lt;br/&gt;&lt;br/&gt;Each round, an auction is held for the right to be 'big fish', who will have a better hand and should win more tricks than any little fish. Unlike other card games, you bid points of your score - being a big fish carries a greater element of risk, since you need to regain at least the points you just lost in the auction.&lt;br/&gt;&lt;br/&gt;A game lasts around 4-6 rounds, decided in advance. For 2 players, 4 rounds are recommended.&lt;br/&gt;&lt;br/&gt;summary of a round:&lt;br/&gt;- DEAL 6 cards to each player. Deal out a face-up 'dummy hand' of 6 cards.&lt;br/&gt;&lt;br/&gt;- Have an AUCTION for the right to be big fish. The winning bid is deducted from the big fish's score.&lt;br/&gt;&lt;br/&gt;- BIG FISH declares the trump suit, then exchanges any number of cards from their hand with cards from the extra hand.&lt;br/&gt;&lt;br/&gt;- Each player BOASTS how many tricks they will win.&lt;br/&gt;&lt;br/&gt;- Starting with Big Fish, PLAY out the 6 tricks. There is no need to follow suit and the first-played suit has no special significance.&lt;br/&gt;&lt;br/&gt;- Players who took fewer tricks than their boast win nothing. Players who win at least as many as their boast SCORE points equal to their boast squared.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="95775">Public Domain version</boardgameversion>
+															<boardgamedesigner objectid="75703">Behrooz Shahriari</boardgamedesigner>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

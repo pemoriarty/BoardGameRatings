@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="97655">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Space Maze</name>
+									
+			<description>Space Maze is a eurogame with an alien theme. In the game, each player represents an alien species. The goal is to steal an ancient relic from a massive structure floating in space. The players compete against each other, all trying to bring home the Relic. The game has a capture-the-flag system.&lt;br/&gt;&lt;br/&gt;The gameplay mechanics are based around a maze made up out of primary coloured doorways (red, blue and yellow), two doorways touching each other make a combination of colours that can (or not if the two colours are the same) form a secondary colour. The aliens you play with are made up out of these secondary colours, each player has three aliens: 1 green, 1 orange and 1 purple. Aliens can only pass through doorways that form their secondary colour.&lt;br/&gt;&lt;br/&gt;While moving through the maze the players will continuously have to change the maze to get the right colour combinations. And while everybody is getting closer together, players will start to be in each others way, eventually changing the maze in ways others will not be too happy about. Especially not when you prevent them from grabbing the relic!&lt;br/&gt;&lt;br/&gt;This is a game where you plan ahead for a perfect round, just to see it all being completely overthrown by some odd move your opponent is making (providing all other players with some cheap laughs). Most of the time spreading your chances will be the best way to go, but you can always rush for it and hope for the best...&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Z09gocNw0eZ05dphovNtEoud-ck=/fit-in/200x150/pic994692.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IOZ8-AXnWmzTxGNmrkt34n8Nx_U=/0x0/pic994692.jpg</image>
+						
+												<boardgamefamily objectid="5679">Aliens</boardgamefamily>
+															<boardgamedesigner objectid="43692">Michel Baudoin</boardgamedesigner>
+															<boardgameartist objectid="43692">Michel Baudoin</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																													<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="96386">First edition</boardgameversion>
+																																											<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamecategory objectid="1113">Space Exploration</boardgamecategory>
+															<boardgameexpansion objectid="110878">Space Maze Rollercoaster</boardgameexpansion>
+															<boardgamepodcastepisode objectid="65048">The Spiel at Essen 2011 - Space Maze</boardgamepodcastepisode>
+																													<boardgamepublisher objectid="17027">Wacky Works</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>287</usersrated>
+					<average>5.93589</average>
+					<bayesaverage>5.58218</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6650" bayesaverage="5.58218" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1273" bayesaverage="5.61387" />
+												
+											</ranks>
+					
+					<stddev>1.47</stddev>
+					<median>0</median>
+					<owned>359</owned>
+					<trading>36</trading>
+					<wanting>18</wanting>
+					<wishing>103</wishing>
+					<numcomments>74</numcomments>
+					<numweights>27</numweights>
+					<averageweight>2.1481</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="110743">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>16</age>
+
+							<name primary="true" sortindex="1">Welt des Kaffees</name>
+							<name  sortindex="1">World of Coffee</name>
+									
+			<description>Trivia game with more than 200 questions about coffee, cultivation, roasting, different types of coffee and more. Players choose for each question how many points they want to make and how big a risk they are willing to take.&lt;br/&gt;&lt;br/&gt;Aim of the game: Having the highest number of points after a certain number of question cards have been played (number to be decided by the players at the beginning of a game). Points are earned by correctly answering questions.&lt;br/&gt;&lt;br/&gt;Gameplay: The starting player takes a card from the card stack, chooses a letter and reads the corresponding question and its answers. There are two types of questions:&lt;br/&gt;&lt;br/&gt;- Questions with one to three correct answers: For each question, there are four answers. One to three of them are correct, at least one is wrong. When all the answers have been read, the players place their chip(s) on the betting boards for the answer(s) that they think is/are correct. Each player (including the one who read the question) can place up to three chips. Players who put their chips on one or more wrong answers don't get any points this round. Players with exactly one correct answer get to advance their pawn one space, 2 correct answers means advancing 2 spaces, 3 correct answers 3 spaces.&lt;br/&gt;&lt;br/&gt;- Questions whose answers have to be put in the correct order: For each question, there are three answers. When all the answers have been read, players put their chips in the order that they think is correct (the chips are numbered 1-3 on one side). Players with all three chips in the correct order advance three spaces. Players with one correct answer advance one space.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4fj64R4V2zlmSoeHxmNNOaka8To=/fit-in/200x150/pic1127166.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MBCCW9MqHEOuKg8t2p7_0hEBdSc=/0x0/pic1127166.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamefamily objectid="46953">Coffee Games</boardgamefamily>
+															<boardgameversion objectid="131396">First edition</boardgameversion>
+																																				<boardgamepublisher objectid="3490">HUCH!</boardgamepublisher>
+															<boardgameversion objectid="273415">Second J.J. Darboven edition</boardgameversion>
+															<boardgamecategory objectid="1027">Trivia</boardgamecategory>
+															<boardgamefamily objectid="21393">Welt des</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

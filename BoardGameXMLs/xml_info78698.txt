@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="78698">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Portito</name>
+									
+			<description>User Summary: The game is played by rolling five dice, and setting aside aside at least one scoring dice after each role, rolling only the dice that aren't kept for as long as the player keeps scoring.  If, at any point, no dice rolled score, then all points set aside in that turn are lost, and the dice passed to the next player.  Following any roll in which at least one dice scores, the active player may 'bank' the points accumulated that turn, and pass the dice to the next player.  The next player then has the option of building on that score by rolling only the non-scoring dice, or picking up all five dice and starting from zero.  At any time, the active player may call 'portito', which has the effect of flipping all dice following the roll: 1s become 6s, 2 become 5s, etc.  The player remains 'portito' until calling 'normal', which they can only do when the dice are in their possession (so you remain 'portito' while the dice go round the players).  The game continues until one player exactly reaches some pre-determined target score: 5000 or 10000 is common.&lt;br/&gt;&lt;br/&gt;Scoring dice within each roll are as follows:&lt;br/&gt;1 = 100 points&lt;br/&gt;5 = 50 points&lt;br/&gt;3 of a kind = dice score * 100&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="56387">First edition</boardgameversion>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

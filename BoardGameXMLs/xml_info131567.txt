@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="131567">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Mapello</name>
+									
+			<description>INTRODUCTION&lt;br/&gt;&lt;br/&gt;Mapello is a Reversi derivative that includes some special pieces that add new features to the game. These pieces are placed on the board to create a particular board configuration before the main game starts: this is called the setup phase.&lt;br/&gt;A given board configuration may be played repeatedly, with players taking turns to play as black and as white. Since each board configuration will have its own nuances, repeated play enables players to experiment with strategies best suited to each setup.&lt;br/&gt;Alternatively, Mapello can be played in free-play mode. In free-play mode, players take it in turns to setup the board. In order to encourage balance in the setup, the player not setting up the board has the option to play as black or as white (hence to move first or second).&lt;br/&gt;&lt;br/&gt;The extra pieces are as follows:&lt;br/&gt;-    Walls: They act like the walls of the board border, but placed inside the board. They are immovable obstacles that cannot be played on.&lt;br/&gt;-    Bonuses: They reward the player with extra points when captured.&lt;br/&gt;-    Jokers (addition by N&amp;eacute;stor Romeral Andr&amp;eacute;s): They are placed on the border and act as pieces of the colour of the player in turn.&lt;br/&gt;&lt;br/&gt;By combining these pieces, players can create millions of different boards.&lt;br/&gt;&lt;br/&gt;COMPONENTS&lt;br/&gt;&lt;br/&gt;-    Game board of 10x10 squares. The inner 8x8 board is used for playing, while the border is only used to place the jokers during the setup phase. &lt;br/&gt;-    64 Reversi discs (black/white).&lt;br/&gt;-    8 walls (gray squares).&lt;br/&gt;-    8 bonuses (blue discs).&lt;br/&gt;-    8 jokers (red squares).&lt;br/&gt;&lt;br/&gt;SETUP PHASE&lt;br/&gt;&lt;br/&gt;Optionally, the players may agree some constraints on the number of each type of piece to be placed during the setup phase. Then, subject to these constraints the setup player places their chosen number of pieces. Walls and power-ups can be placed anywhere on the inner 8x8 area (except on the four centre squares), and jokers can be placed anywhere on the outer 10x10 border. The game commences with an initial 2x2 configuration of black and white pieces in the following diagonal pattern:&lt;br/&gt; PLAYING PHASE&lt;br/&gt;&lt;br/&gt;Two players (black and white) alternate turns placing a piece with their colour facing up onto an empty cell of the inner 8x8 board. Black always plays first. Each piece must be placed adjacent to an opponent's piece (either horizontally, vertically or diagonally). Then, all the opponent's pieces that are trapped in a contiguous straight line (either diagonal, vertical, or horizontal) between the newly placed piece and an existing piece of that colour, or a joker, are flipped over to the player's colour. A legal move must case at least one opponent piece to be flipped. If a player cannot make a legal move then they pass.&lt;br/&gt;      &lt;br/&gt;If a player places a piece on top of a blue bonus disc, they take the disc (this will score 3 points at the end of the game).&lt;br/&gt;&lt;br/&gt;The game ends when neither player can make a legal move. Players count the pieces of their colour facing up and add the points of the blue discs. Highest score wins. Over a series of games the first aim is to win the most games. In the event of a tie in the number of games won, the point difference over the set of games decides the winner.&lt;br/&gt;&lt;br/&gt;Re-implements:&lt;br/&gt;    Othello&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Wi1Qjy8EgB352ydSDBrRo7MWEVI=/fit-in/200x150/pic1441845.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9MgHFJacH2XJCwHKnhR7Ru_L2gA=/0x0/pic1441845.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="183028">English first edition</boardgameversion>
+															<boardgamedesigner objectid="64205">Simon M. Lucas</boardgamedesigner>
+																						<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.87054</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

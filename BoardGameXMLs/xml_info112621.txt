@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="112621" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">TurboPad</name>
+									
+			<description>User Summary:&lt;br/&gt;&lt;br/&gt;The standard controller for the TurboGrafx-16. It contains a dish style directional pad, buttons I and II , a select button and a run button. It also contains built in turbo button functionality, controlled by two toggles one each for the I and II buttons.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehwmfg objectid="11762">NEC</videogamehwmfg>
+															<videogamehwversion objectid="135475">TurboPad</videogamehwversion>
+															<videogamehardware objectid="4725" inbound="true">TurboGrafx-16</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>8</average>
+					<bayesaverage>6.99533</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="60" bayesaverage="6.99533" />
+												
+											</ranks>
+					
+					<stddev>1.09545</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

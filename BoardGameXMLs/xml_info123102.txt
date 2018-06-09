@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123102">
+			<yearpublished>1951</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Bird Cage</name>
+							<name  sortindex="1">Shannon Switching Game</name>
+									
+			<description>The game of Bird Cage is a connection game in which players attempt to connect their sides of a square by establishing an unbroken connection in a rectangular (but staggered) grid.&lt;br/&gt;&lt;br/&gt;The game's original incarnation was as a machine built by the game's designer, noted engineer Claude Shannon.  The machine would choose its' move by measuring electrical resistance between its' sides of the square and would reportedly win &amp;quot;almost always&amp;quot; when making the first move.&lt;br/&gt;&lt;br/&gt;The game was later re-discovered independently by mathematician David Gale, who got it published under the name of Bridg-It.&lt;br/&gt;&lt;br/&gt;Bird Cage has since been defined as an abstract game called the Shannon Switching Game, playable on any finite graph.  In the abstract game, two players, Short and Cut, will either attempt to connect two predetermined points on the graph (short) by claiming edges, or remove graph edges (Cut) such that the two points cannot be linked.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+																						<boardgamedesigner objectid="59176">Claude E. Shannon</boardgamedesigner>
+															<boardgameversion objectid="161614">Shannon Switching Game</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="75921" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Moon Patrol</name>
+							<name  sortindex="1">ムーンパトロール</name>
+									
+			<description>From Wikipedia:&lt;br/&gt;&lt;br/&gt;Moon Patrol (ムーンパトロール)  is a classic arcade game by Irem that was first released in 1982. It was licensed to Williams for U.S.  distribution.&lt;br/&gt;&lt;br/&gt;The player controls a moon buggy, viewing it from the side, that travels over the moon's surface. While driving it, obstacles such as craters and mines must be avoided. The buggy is also attacked by UFOs from above and tanks on the ground. Moon Patrol was one of the earliest linear side-scrolling shoot'em ups and the first arcade game to feature parallax scrolling.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6MATDTXbWlbEw9WsDtKivWaN8Ow=/fit-in/200x150/pic776273.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1iGrZXjzOw1UGITWaAE11MM59j8=/0x0/pic776273.jpg</image>
+						
+												<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="50393">Apple II Edition</videogameversion>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="50392">Arcade Edition</videogameversion>
+															<videogamecompilation objectid="90543">Arcade&#039;s Greatest Hits: The Midway Collection 2</videogamecompilation>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameversion objectid="50394">Atari 2600 Edition</videogameversion>
+															<videogameplatform objectid="4417">Atari 5200</videogameplatform>
+															<videogameversion objectid="50395">Atari 5200 Edition</videogameversion>
+															<videogameversion objectid="50396">Atari 8 Bit Edition</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameversion objectid="50401">Atari ST Edition</videogameversion>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogameversion objectid="50397">C64 Edition</videogameversion>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogamegenre objectid="2723">Endless Runner</videogamegenre>
+															<videogamedeveloper objectid="12348">Irem</videogamedeveloper>
+																						<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamecompilation objectid="137056">Midway presents Arcade Hits: Moon Patrol / Spy Hunter</videogamecompilation>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogameversion objectid="50400">MSX Edition</videogameversion>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+																						<videogameplatform objectid="5812">TI-99</videogameplatform>
+															<videogameversion objectid="50398">Ti-99/4A Edition</videogameversion>
+															<videogameplatform objectid="4949">VIC-20</videogameplatform>
+															<videogameversion objectid="50399">Vic-20 Edition</videogameversion>
+															<videogamepublisher objectid="12466">WMS Industries, Inc.</videogamepublisher>
+															<videogame objectid="90543" inbound="true">Arcade&#039;s Greatest Hits: The Midway Collection 2</videogame>
+															<videogame objectid="137056" inbound="true">Midway presents Arcade Hits: Moon Patrol / Spy Hunter</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>6</average>
+					<bayesaverage>5.81914</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3593" bayesaverage="5.81914" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="58" bayesaverage="6.11521" />
+														<rank type="family" id="4417" name="atari5200" friendlyname="Atari 5200 Rank" value="29" bayesaverage="5.9874" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="165" bayesaverage="6.01525" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="161" bayesaverage="6.01462" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="62" bayesaverage="6.04324" />
+														<rank type="family" id="4949" name="vic20" friendlyname="VIC-20 Rank" value="17" bayesaverage="5.98996" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="113" bayesaverage="5.97568" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="81" bayesaverage="6.02854" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="56" bayesaverage="6.04077" />
+														<rank type="family" id="5812" name="ti99" friendlyname="TI-99 Rank" value="11" bayesaverage="6.01615" />
+												
+											</ranks>
+					
+					<stddev>1.4781</stddev>
+					<median>0</median>
+					<owned>46</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>6</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

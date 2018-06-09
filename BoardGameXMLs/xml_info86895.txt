@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="86895">
+			<yearpublished>1987</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Komputer</name>
+									
+			<description>A 2 player board game.&lt;br/&gt;&lt;br/&gt;The purpose of the game is to find as many combinations as it&amp;rsquo;s possible which sum is exactly 10. Every combination has to consist of exactly three digits situated on three neighbouring areas connected with edges or with corners. Each area can only be used once in a combination.&lt;br/&gt;&lt;br/&gt;Players take turns finding such combinations. Upon finding one the active player may place his pawn on the board on the first or the third digit of the desired combination (never second). On any one area can only be placed one pawn. Therefore such area can be part of combination, but cannot be chosen to place a pawn on it.&lt;br/&gt;&lt;br/&gt;The winner is the player who has found more combinations (indicated by the number of pawns on the board). If both players used the same number of pawns the winner is the player who has situated his pawns on areas which digits sum up to a higher number.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_B17lRzGynBlPHraddEGoDJeW7Y=/fit-in/200x150/pic847372.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hoOsYNTmHnPi3jqxpvrtKfXO_Lc=/0x0/pic847372.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="73223">First edition</boardgameversion>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamepublisher objectid="7387">WOSI &quot;Wspolna Sprawa&quot;</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

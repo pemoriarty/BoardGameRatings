@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="133509">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>11</age>
+
+							<name primary="true" sortindex="1">Lords and Vassals</name>
+									
+			<description>My design goals for this game were to mitigate the weaknesses found in ancient games using custodian capture, games like Dai Hasami Shogi and Latrunculorum.&lt;br/&gt;&lt;br/&gt;Features:&lt;br/&gt;&lt;br/&gt;1) Random setup&lt;br/&gt;2) Four moves per turn&lt;br/&gt;3) Two special forms of Custodian capture&lt;br/&gt;&lt;br/&gt;I believe I came close to succeeding but I'll let you be the judge of that.&lt;br/&gt;&lt;br/&gt;Introduction:&lt;br/&gt;&lt;br/&gt;Lords and Vassals is a 2 player game that's played on an 8x8 board. Black and white. A player starts with 8 pawns and 8 checkers randomly placed on their respective last two rows.&lt;br/&gt;&lt;br/&gt;Definitions:&lt;br/&gt;&lt;br/&gt;Lords &amp;ndash; pawns&lt;br/&gt;Vassals &amp;ndash; checkers&lt;br/&gt;Pin &amp;ndash; Is when a lord sits on top of his vassals or his opponents vassals&lt;br/&gt;Custodian &amp;ndash; an ancient form of capturing enemy pieces by sandwiching an enemy piece between two friendly pieces&lt;br/&gt;Adjacent &amp;ndash; means orthogonally adjacent&lt;br/&gt;&lt;br/&gt;Play:&lt;br/&gt;&lt;br/&gt;In Lords and Vassals the playing pieces move orthogonally across the board.&lt;br/&gt;&lt;br/&gt;Black moves first then players alternate.&lt;br/&gt;&lt;br/&gt;Each player must make four moves per turn and can be done by the same or different pieces. Each move can be 1 of 3 types:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     to an adjacent empty space.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     jumping over an enemy piece of the same type to an empty space on the other side of the jumped piece.(Note: After the jump the piece doing the jumping becomes immobile during the current turn and the remaining moves are divided to other pieces.) Please reference the section entitled Jumping in the Rules PDF.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     moving a lord onto an adjacent vassal, pinning it.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Friendly lords may Pin an enemy vassal or a friendly one by moving onto them, also that same lord during a turn may not move onto another vassal until he unpins the current one. Pinned vassals are unable to move until they are unpinned and a lord unpins a vassal by moving onto an empty adjacent space. (Note: when a lord unpins a vassal the lord doing the unpinning becomes immobile during the current turn and the remaining moves are divided to other pieces.) Only two Lords per player at any one time during the game may have a pinned vassal.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Friendly pieces may capture like enemy pieces. Captures are custodian.(Note: when a lord or vassal makes a capturing move that lord or vassal becomes immobile during the current turn and the remaining moves are divided to other pieces.) Please reference the section entitled Capturing in the Rules PDF.&lt;br/&gt;&lt;br/&gt;Winning Conditions:&lt;br/&gt;&lt;br/&gt;When you capture five of either of your opponents lords or vassals.&lt;br/&gt;&lt;br/&gt;When your opponent has no legal moves.&lt;br/&gt;&lt;br/&gt;Copyright (c) 2012 Rey Alicea&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IfLBZa6Wdq_NgkBQDEWM3SQq_4Q=/fit-in/200x150/pic1471559.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZJux0AJ67YEJ91l0iR86CItQBTg=/0x0/pic1471559.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="62677">Rey Alicea</boardgamedesigner>
+															<boardgameartist objectid="62677">Rey Alicea</boardgameartist>
+															<boardgameversion objectid="187496">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.5</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

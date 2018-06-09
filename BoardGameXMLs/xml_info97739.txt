@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="97739" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Empire</name>
+									
+			<description>Empire is a turn-based wargame with simple rules, conceived by Walter Bright in 1971 (released as a computer game in 1977) based on various war movies and board games, notably Battle of Britain and Risk.&lt;br/&gt;&lt;br/&gt;In the game, each player starts with one city in an unexplored world, and uses the city to build armies, aircraft, and various types of ships. Cities take a particular number of turns to produce the various units. As players expand from the first city, they use their units to find and capture additional cities and become able to produce a greater number of unit types. Players explore the world, capturing cities as they are found and using them to build more military units. Early versions were text-based, while later versions of the game added graphics.&lt;br/&gt;&lt;br/&gt;Bright's first version was written around 1977 in the FORTRAN programming language for the PDP-10 computer at Caltech. This version was spread virally to other PDP-10s, which were common timesharing systems at the time. Later, Bright recoded this in assembly language on a Heathkit H-11 and made it available commercially. He sold two copies.&lt;br/&gt;&lt;br/&gt;At some point, someone broke through the security systems at Caltech, and took a copy of the source code for the FORTRAN/PDP-10 version of the game. This code was continually modified, being passed around from person to person.&lt;br/&gt;&lt;br/&gt;Eventually, it was found on a computer in Massachusetts by Herb Jacobs and Dave Mitton. They ported the code to the VAX/VMS operating system and, under the alias of &amp;quot;Mario DeNobili and Paulson&amp;quot; submitted the program to DECUS, a large user's group. DECUS programs were often installed on new DEC computers at the time of delivery, and so Empire propagated further. Eventually, Bright heard of this, and in 1983 contacted DECUS, who subsequently credited Bright in the catalog description of the program and re-added his name to the source code.&lt;br/&gt;&lt;br/&gt;In 1984, Bob Norby, from Fort Lauderdale, Florida, ported the DECUS version from the VAX to the PC, producing Empire 5.0, and Empire 5.1 (Color Supported), which required the ANSI.SYS driver. Mr Norby wrote:&lt;br/&gt;&lt;br/&gt;&amp;quot;This program is a war game simulation for video terminals. It is distributed by DECUS on DEC computers. While working for a company with a VAX, I became addicted to the game. When I left that company, it was necessary to find another way to continue playing. So I implemented the game on the PC.&amp;quot;&lt;br/&gt;&lt;br/&gt;It was released as shareware, and found its way into many shareware collections, and was propagated into BBSs in the late 1980s and early 1990s.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Empire (computer game)&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/besTOTJQR-5eW65tdAFN_IEHr_w=/fit-in/200x150/pic1033354.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9tJSzUw9tL8HakI5ryWCScWkdsM=/0x0/pic1033354.jpg</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="4">(Self-Published)</videogamepublisher>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameseries objectid="6453">Empire</videogameseries>
+															<videogametheme objectid="2508">Military</videogametheme>
+															<videogameplatform objectid="11496">PDP</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogameversion objectid="96571">US DOS version 5.0</videogameversion>
+															<videogametheme objectid="2317">War - Modern</videogametheme>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="11496" name="pdp" friendlyname="PDP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

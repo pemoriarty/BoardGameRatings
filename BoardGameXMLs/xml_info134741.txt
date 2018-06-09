@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="134741">
+			<yearpublished>2007</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="5">Die Maulwurfshöhle</name>
+									
+			<description>Die Maulwurfsh&amp;ouml;hle (The mole cave)&lt;br/&gt;&lt;br/&gt;Each player receives 9 mole tiles and 2 busy tiles in his color.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;The starting player, determined using whatever method the players agree, starts the turn and everyone take each round clockwise. The starting configuration for four players is as follows: each player selects one board corner and places his nine mole tiles in the square at that corner and the eight squares on the board sides closer to that corner, four tiles on each side of the corner tile. For two players: opposite corners are occupied. For three players: three corners are occupied.&lt;br/&gt;&lt;br/&gt;During a player's turn a tile must be moved. The possible moves are:&lt;br/&gt;&lt;br/&gt;a) any tile can be moved in all directions (diagonal or orthogonal) to an adjacent empty space but not to a square with a mole cave symbol or with a 'busy' tile on it.&lt;br/&gt;&lt;br/&gt;b) Push: a tile is moved onto an occupied square, pushing the original tile in the direction of movement as well as all tiles that were continuously connected to the original tile in the line of movement. If a tile is pushed into a mole cave, it stays there until it is pushed out. It cannot move out on its own. Exception: pushing is not possible if it results in a tile going off the board or else a 'busy' tile would be moved.&lt;br/&gt;&lt;br/&gt;When a tile lands in a tunnel entrance, the player must dig immediately, i.e., the token must be placed to any other free tunnel entrance. If a tile is passively pushed to a tunnel entrance, nothing happens during this turn; but if the tile still stands on a tunnel entrance or was pushed on it and it is the player's turn, this must dig immediately.&lt;br/&gt;&lt;br/&gt;A player who has occupied all four squares orthogonally adjacent to a mole cave must place a 'busy' tile there; this tile can no longer  be moved, but the four mole tiles are operational beginning the next turn. If a 'busy' tile is placed on a mole cave where there's already a mole tile of whichever color, this tile is removed from the board.&lt;br/&gt;&lt;br/&gt;The winner is the first player to place his two 'busy' tiles on two mole caves.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_yRuaN4jGgpLVZArg2WragIeHzY=/fit-in/200x150/pic1497734.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6SRuetG_NGwX6TUOTbaJMMXMz_k=/0x0/pic1497734.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="7835">Animals: Moles</boardgamefamily>
+																													<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="4632">ROMBOL</boardgamepublisher>
+															<boardgameversion objectid="190926">RoMBoL Edition</boardgameversion>
+															<boardgamedesigner objectid="68158">Michael Stetter</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

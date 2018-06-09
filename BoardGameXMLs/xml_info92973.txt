@@ -1,0 +1,84 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="92973" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Computer Chess</name>
+							<name primary="true" sortindex="1">Video Chess (Atari)</name>
+									
+			<description>Gameplay&lt;br/&gt;&lt;br/&gt;The game is played from an overhead perspective. The player uses an &amp;quot;x&amp;quot; cursor to select and move pieces, rather than using chess notation. If an attempted move is illegal, a warning sound is made and the move is not made. If the right difficulty switch is set to A the computer plays as white; setting it to B lets the player play as white. With the left difficulty switch, selecting A allows the board to be set as the player pleases, whereas selecting B sets up the board for a regulation chess game.&lt;br/&gt;&lt;br/&gt;There are eight different difficulty levels, with the computer-player taking a variable amount of time to determine its moves for each level. The approximate time length ranges between ten seconds (level 8, for beginners) to ten hours (level 7).&lt;br/&gt;&lt;br/&gt;Bugs&lt;br/&gt;&lt;br/&gt;A feature of the two most difficult levels (6 and 7) is that the computer-player's prospective moves are displayed while it is &amp;quot;thinking&amp;quot; -- in easier levels the screen is blanked to solid, changing colors while the computer is selecting its move. When &amp;quot;thinking&amp;quot; on levels 6 and 7, the computer-player sometimes fails to return a piece to its original position, resulting in its making more than one move per turn.&lt;br/&gt;&lt;br/&gt;Development&lt;br/&gt;&lt;br/&gt;At first, the idea of chess on the Atari 2600 was considered to be impossible due to the limitations of the technology at the time. For example, Atari had to overcome sprite limitations; the Atari 2600 was only capable of displaying three sprites in a row, or six (such as in Space Invaders) with the right programming. The eight-piece-wide standard chess board exceeded this limitation. To rectify this, Bob Whitehead developed a technique known as &amp;quot;Venetian blinds&amp;quot; where the position of each sprite changes every scan line; this allows for eight or more sprites in a row. Additionally, the concept of bank switching ROMs was invented for earlier prototypes of Video Chess that were larger than four kilobytes in size, however the released version ended up fitting the standard 4K size.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;&lt;a target='_blank' href=&quot;http://en.wikipedia.org/wiki/Video_Chess,&amp;quot&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Video_Chess,&amp;quot&lt;/a&gt;; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-gxYwwvWX35wh_Yw1gUdAsyVVHE=/fit-in/200x150/pic1029312.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Tb6_NcZD4d0jna3LIDcITX-zH6Y=/0x0/pic1029312.jpg</image>
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="139639">Android (Atari Greatest Hits Atari 2600 Emulation) edition</videogameversion>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameversion objectid="85565">Atari 2600 edition</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogamecompilation objectid="95926">Atari Anthology</videogamecompilation>
+															<videogamecompilation objectid="196311">Atari Vault</videogamecompilation>
+															<videogamedeveloper objectid="11465">Atari, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogamecompilation objectid="103590">Atari: 80 Classic Games in One</videogamecompilation>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamedeveloper objectid="21040">Code Mystics</videogamedeveloper>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="107502">US Atari 8-bit Cart</videogameversion>
+															<videogame objectid="95926" inbound="true">Atari Anthology</videogame>
+															<videogamebg objectid="171" inbound="true">Chess</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>2.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>21</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

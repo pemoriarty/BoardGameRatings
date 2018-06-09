@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123865" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Wii Sensor Bar</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;The Wii Sensor Bar is a device which emits an infrared signal. The Wii Mote picks up this signal and uses the data to calibrate it's orientation in space. The Wii Sensor Bar has a cord which connects to the Wii and is powered through this cord.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BlR-vmHodMzaFwSO0ldOETft-hk=/fit-in/200x150/pic2862624.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NAEChXM2J1UGUGTas06V8_MfhY4=/0x0/pic2862624.jpg</image>
+						
+												<videogamehardwarecategory objectid="2326">Add-On</videogamehardwarecategory>
+															<videogamehwmfg objectid="1326">Nintendo Co., Ltd.</videogamehwmfg>
+															<videogamehwversion objectid="163718">Wii Sensor Bar</videogamehwversion>
+															<videogamehardware objectid="4441" inbound="true">Wii</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>4.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.829156</stddev>
+					<median>0</median>
+					<owned>36</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="131140">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Block</name>
+									
+			<description>Block describes not the shape of the pieces in this abstract strategy game, but rather what you're trying to do to the opponent: Block her pieces from moving, and you win.&lt;br/&gt;&lt;br/&gt;The board starts with forty pieces on it &amp;ndash; twenty light and twenty dark, with the pieces grouped ten to a quadrant in alternating colors. On a turn, you move one stack that has your piece or pieces) on top. The stack moves as many spaces as the number of your pieces on top of the stack, and all movement is orthogonal to both the stack's starting location and each intermittent space to which it moves. Thus, a stack moving three spaces can first move to any orthogonally adjacent space, then move to any orthogonally adjacent space that's at a 90&amp;ordm; angle to the first direction moved, then move a third time at a 90&amp;ordm; angle to the second movement. Stacks cannot pass over other stacks while moving.&lt;br/&gt;&lt;br/&gt;If a stack lands on a like-colored piece, that stack's movement will differ next time it moves; at most four pieces of the same color can be stacked together. If a stack lands on an empty space, the pieces on top must be split between that space and an adjacent space. A stack can land on a stack topped by the opposing color only if the stack moving has more pieces of the same color on top than the stack being moved onto; the stack that's topped is then trapped. If a player tops a stack that has trapped one or more of his pieces, he then frees the trapped pieces by moving the pieces on top to an adjacent space.&lt;br/&gt;&lt;br/&gt;The first player who can't move on a turn loses the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CidNr33llHTGuGUVpJaUzE0TAhM=/fit-in/200x150/pic1427173.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/J3zvEUMKzUCFGPQBYtD5hgr9E6o=/0x0/pic1427173.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="181406">English/Portuguese first edition (cork)</boardgameversion>
+															<boardgameversion objectid="181404">English/Portuguese first edition (plastic)</boardgameversion>
+															<boardgameversion objectid="181405">English/Portuguese first edition (wood)</boardgameversion>
+															<boardgamedesigner objectid="63963">Nelson Ferreira</boardgamedesigner>
+															<boardgamepublisher objectid="7581">Runadrake</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

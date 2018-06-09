@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="118325">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">Robo Troc</name>
+							<name primary="true" sortindex="1">RoboTroc</name>
+							<name  sortindex="1">Роботрок</name>
+							<name  sortindex="1">拼裝機器人</name>
+									
+			<description>In the world of RoboTroc, mad scientists compete to construct the most powerful robots possible out of salvaged spare parts. Naturally you wouldn't want to blow your cover by breaking environmental laws, so all of you will be scrounging for components in the junkyard.&lt;br/&gt;&lt;br/&gt;To set up the game, shuffle the 45 cards and lay them out in a 9x5 grid; each player takes a character card. The first player takes a card from the perimeter of the grid, then lays her character card in its place. Each other player in turn order does the same, then play order reverses for the remainder of the collection phase, with players moving their character cards to adjacent spaces (which includes diagonals) to claim cards. Land on an empty space, and you get nothing &amp;ndash; but are still active in the round. Once all the cards have been claimed, the round ends.&lt;br/&gt;&lt;br/&gt;Players then have the ability to steal cards from opponents (or secure cards they need) based on the number of weapons they've collected. Each player can first secure four cards, though, so not everything is up for grabs. Players then assemble a robot with a head, body and legs, along with one weapon and any number of bonus cards. Each robot is worth the sum of its parts, along with any applicable bonuses; each additional robot a player can construct is worth ten points, no matter the value of its parts. The player with the highest score wins!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dL4C8wUjNvirMrME0c3XTQxCJ48=/fit-in/200x150/pic1211414.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/lcEhQZ2lCRRCD33JsZU1sddcOcc=/0x0/pic1211414.png</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameversion objectid="391370">Brazilian edition</boardgameversion>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgameversion objectid="193297">Chinese edition</boardgameversion>
+																													<boardgamepublisher objectid="36700">Flick Game Studio</boardgamepublisher>
+																																																									<boardgamepublisher objectid="23031">Magellan</boardgamepublisher>
+															<boardgamepublisher objectid="21508">Main Cards</boardgamepublisher>
+															<boardgamedesigner objectid="57241">Cesare Mainardi</boardgamedesigner>
+															<boardgameversion objectid="148296">Multilingual first edition</boardgameversion>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+																													<boardgamefamily objectid="22232">Robots</boardgamefamily>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+																													<boardgameversion objectid="191692">Russian edition</boardgameversion>
+																						<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+															<boardgameartist objectid="57242">Maryline Weyl</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>50</usersrated>
+					<average>6.045</average>
+					<bayesaverage>5.52335</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10554" bayesaverage="5.52335" />
+												
+											</ranks>
+					
+					<stddev>1.40329</stddev>
+					<median>0</median>
+					<owned>154</owned>
+					<trading>9</trading>
+					<wanting>4</wanting>
+					<wishing>21</wishing>
+					<numcomments>15</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

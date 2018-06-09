@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="82146" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Winter Games</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;A sports video game from Epyx; a sequel to Summer Games.&lt;br/&gt;&lt;br/&gt;Events include:&lt;br/&gt;&lt;br/&gt;Alpine skiing &lt;br/&gt;Ski jumping &lt;br/&gt;Biathlon &lt;br/&gt;Bobsled &lt;br/&gt;Figure skating &lt;br/&gt;Speed skating &lt;br/&gt;Luge &lt;br/&gt;Freestyle skiing&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LWtSDLPsIggCChmRVl-xw8-xGLw=/fit-in/200x150/pic1436980.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aIz5ZXsn_3Y0V_Fk4rJgWIfId40=/0x0/pic1436980.jpg</image>
+						
+												<videogamepublisher objectid="3233">Acclaim Entertainment Inc.</videogamepublisher>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4418">Atari 7800</videogameplatform>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameseries objectid="24236">Epyx Sports Games</videogameseries>
+															<videogamedeveloper objectid="1417">EPYX, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="1417">EPYX, Inc.</videogamepublisher>
+															<videogamecompilation objectid="80505">Gold, Silver, Bronze</videogamecompilation>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogametheme objectid="2428">Minigame Compilation</videogametheme>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="98740">North American Atari 7800 edition</videogameversion>
+															<videogameversion objectid="63561">North American Commodore 64 edition</videogameversion>
+															<videogameversion objectid="204839">North American DOS edition</videogameversion>
+															<videogameversion objectid="76044">North American NES edition</videogameversion>
+															<videogameplatform objectid="6550">PC Booter</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamecompilation objectid="103431">Solid Gold</videogamecompilation>
+															<videogamegenre objectid="2157">Sports</videogamegenre>
+															<videogametheme objectid="2371">Sports - Skiing</videogametheme>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogame objectid="80505" inbound="true">Gold, Silver, Bronze</videogame>
+															<videogame objectid="103431" inbound="true">Solid Gold</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>6.21432</average>
+					<bayesaverage>5.88432</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3087" bayesaverage="5.88432" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="185" bayesaverage="6.13933" />
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="60" bayesaverage="6.1065" />
+														<rank type="family" id="4418" name="atari7800" friendlyname="Atari 7800 Rank" value="14" bayesaverage="6.15966" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="155" bayesaverage="6.09057" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="153" bayesaverage="6.0676" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="413" bayesaverage="5.97205" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="86" bayesaverage="6.10829" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="104" bayesaverage="6.11255" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="80" bayesaverage="6.03432" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="55" bayesaverage="6.06383" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="85" bayesaverage="6.18792" />
+														<rank type="family" id="6550" name="pcbooter" friendlyname="PC Booter Rank" value="14" bayesaverage="6.16321" />
+												
+											</ranks>
+					
+					<stddev>1.83787</stddev>
+					<median>0</median>
+					<owned>42</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

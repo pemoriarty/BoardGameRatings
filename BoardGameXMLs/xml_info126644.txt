@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="126644">
+			<yearpublished>2012</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Yavalade</name>
+									
+			<description>Yavalade is a Yavalath derivative for 3 players that can be played with the same components (hexhex board of size 5 and counters in 3 colours). It is inspired by Gute Nachbarn (which also inspired Splade for Shibumi).&lt;br/&gt;&lt;br/&gt;RULES&lt;br/&gt;&lt;br/&gt;SETUP&lt;br/&gt;&lt;br/&gt;Each player has an allocated colour (White, Black, Red).&lt;br/&gt;&lt;br/&gt;The playing order is White-Black-Red.&lt;br/&gt;&lt;br/&gt;White player takes a red piece and places a white piece on top of it, placing the stack before him.&lt;br/&gt;&lt;br/&gt;Black player takes a white piece and places a black piece on top of it, placing the stack before him.&lt;br/&gt;&lt;br/&gt;Red player takes a black piece and places a red piece on top of it, placing the stack before him.&lt;br/&gt;&lt;br/&gt;HOW TO PLAY&lt;br/&gt;&lt;br/&gt;Starting with White, players take turns placing a piece of their colour on an empty space of the board until the victory condition is reached.&lt;br/&gt;&lt;br/&gt;AIM&lt;br/&gt;&lt;br/&gt;The aim of the game is to create a 5-in-a-row containing both and only both colours of your stack.&lt;br/&gt;&lt;br/&gt;Example: White wins if a 5-in-a-row containing white AND red pieces is created.&lt;br/&gt;&lt;br/&gt;NOTES&lt;br/&gt;&lt;br/&gt;If a longer row or more than one row are created, the player that placed the last piece chooses the winning row.&lt;br/&gt;&lt;br/&gt;STRATEGY&lt;br/&gt;&lt;br/&gt;As a rule of the thumb, Black must block White that must block Red that must block Black.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pLLN-3iLIZVeQzp3ZE_wZU1buVA=/fit-in/200x150/pic1345097.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tHtGVD8vyDxbRhX2o6g_ULdV6Rk=/0x0/pic1345097.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="169615">First edition</boardgameversion>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.29904</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

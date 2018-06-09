@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="84611" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Famicom Controller</name>
+							<name  sortindex="1">Family Computer Controller</name>
+							<name primary="true" sortindex="1">NES Controller</name>
+									
+			<description>NES-004: Standard NES controller; rectangular with a 4-direction joypad, Select, Start, A, and B.&lt;br/&gt;&lt;br/&gt;The Japanese Famicon did not come with loose controllers; and they were not sold separately. The AV Famicon (HVC 101) however, did come with separate controllers, that probably also were sold separately.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/EzMVr4BYe7EX98zJ_dgDhS6v4Cg=/fit-in/200x150/pic1041981.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3LqyMujwWOh7UWvPSz1LRQAxoi4=/0x0/pic1041981.jpg</image>
+						
+												<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehwversion objectid="197134">HVC-102 AV-Famicom Controller</videogamehwversion>
+															<videogamehwversion objectid="68776">NES-004 NES Controller</videogamehwversion>
+															<videogamehwversion objectid="212701">NES-039 model controller</videogamehwversion>
+															<videogamehwmfg objectid="1326">Nintendo Co., Ltd.</videogamehwmfg>
+															<videogamehardware objectid="4430" inbound="true">NES</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>37</usersrated>
+					<average>6.73784</average>
+					<bayesaverage>6.67744</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="74" bayesaverage="6.67744" />
+												
+											</ranks>
+					
+					<stddev>1.96968</stddev>
+					<median>0</median>
+					<owned>160</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

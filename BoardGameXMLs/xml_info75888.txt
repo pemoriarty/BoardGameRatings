@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="75888" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Jungle Hunt</name>
+							<name  sortindex="1">Jungle King</name>
+							<name  sortindex="1">Pirate Pete</name>
+									
+			<description>From Wikipedia&lt;br/&gt;&lt;br/&gt;Jungle Hunt is a one- or two-player side-scrolling arcade game produced by Taito in 1982.&lt;br/&gt;&lt;br/&gt;The player controls a jungle explorer who sports a pith helmet and a safari suit. The player must rescue his girl from a tribe of hungry cannibals. To do this, he must swing from vine to vine, survive a crocodile-infested river, jump or duck falling rocks rolling downhill, and release the girl before she &amp;quot;takes a dip&amp;quot; in the boiling cauldron.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IjhanJh7MX7f5kN1ntGOW1BRI5U=/fit-in/200x150/pic774836.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yn4hzsufNtvuPWAygWsJpU0ySVU=/0x0/pic774836.jpg</image>
+						
+												<videogamegenre objectid="2152">Adventure</videogamegenre>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="50320">Apple II Edition</videogameversion>
+															<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="50314">Arcade Edition</videogameversion>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameversion objectid="50315">Atari 2600 Edition</videogameversion>
+															<videogameplatform objectid="4417">Atari 5200</videogameplatform>
+															<videogameversion objectid="50316">Atari 5200 Edition</videogameversion>
+															<videogameversion objectid="50317">Atari 8-Bit Edition</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogameversion objectid="50319">C64 Edition</videogameversion>
+															<videogameplatform objectid="4419">ColecoVision</videogameplatform>
+															<videogameversion objectid="50318">Colecovision Edition</videogameversion>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameversion objectid="142039">NA Arcade Edition</videogameversion>
+															<videogametheme objectid="2330">Nature / Jungle</videogametheme>
+															<videogameversion objectid="147834">North American Atari 2600 (1988 Release) edition</videogameversion>
+															<videogametheme objectid="2341">Pirates</videogametheme>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamepublisher objectid="11758">Taito</videogamepublisher>
+															<videogamedeveloper objectid="11758">Taito</videogamedeveloper>
+															<videogamecompilation objectid="77426">Taito Legends</videogamecompilation>
+															<videogameplatform objectid="5812">TI-99</videogameplatform>
+															<videogameversion objectid="50321">TI-99/4a- Edition</videogameversion>
+															<videogameversion objectid="50322">Vic 20 Edition</videogameversion>
+															<videogameplatform objectid="4949">VIC-20</videogameplatform>
+															<videogame objectid="77426" inbound="true">Taito Legends</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>5.89113</average>
+					<bayesaverage>5.7091</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4532" bayesaverage="5.7091" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="75" bayesaverage="5.89826" />
+														<rank type="family" id="4417" name="atari5200" friendlyname="Atari 5200 Rank" value="31" bayesaverage="5.90647" />
+														<rank type="family" id="4419" name="colecovision" friendlyname="ColecoVision Rank" value="27" bayesaverage="5.90964" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="180" bayesaverage="5.86573" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="176" bayesaverage="5.8651" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="70" bayesaverage="5.89428" />
+														<rank type="family" id="4949" name="vic20" friendlyname="VIC-20 Rank" value="19" bayesaverage="5.87307" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="90" bayesaverage="5.87913" />
+														<rank type="family" id="5812" name="ti99" friendlyname="TI-99 Rank" value="16" bayesaverage="5.79248" />
+												
+											</ranks>
+					
+					<stddev>1.59723</stddev>
+					<median>0</median>
+					<owned>50</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

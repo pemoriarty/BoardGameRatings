@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="81147" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Arcade Classics</name>
+									
+			<description>User Description&lt;br/&gt;&lt;br/&gt;A compilation of the popular arcade games Missile Command, Centipede and Pong.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogame objectid="76459">Centipede (1980)</videogame>
+															<videogame objectid="76617">Missile Command</videogame>
+															<videogameversion objectid="61486">NA Game Gear Edition</videogameversion>
+															<videogame objectid="76526">Pong</videogame>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogameplatform objectid="4740">SEGA Game Gear</videogameplatform>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="14115">TecMagik</videogamedeveloper>
+															<videogamepublisher objectid="14115">TecMagik</videogamepublisher>
+															<videogamecompilation objectid="76459" inbound="true">Centipede (1980)</videogamecompilation>
+															<videogamecompilation objectid="76617" inbound="true">Missile Command</videogamecompilation>
+															<videogamecompilation objectid="76526" inbound="true">Pong</videogamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4740" name="segagamegear" friendlyname="SEGA Game Gear Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

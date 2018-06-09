@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="134288">
+			<yearpublished>1950</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Turno</name>
+									
+			<description>Turno consists of a hexagonal board divided into 96 triangles, with two players arranging thirty pieces (four cannons, eight bowmen, and three knights each) on their starting positions as marked on the board.  Each piece has a red side and a gold side; players pick a color prior to starting and place their pieces with their chosen color facing up.&lt;br/&gt;&lt;br/&gt;Players take turns moving.  Pieces may be moved to unoccupied adjoining triangles (triangles that share a side, not a point.)  After having moved, if an adjoining triangle is occupied with an opponent's piece, a player may announce an attack, which will result in a capture or a kill of that piece.  Captured pieces are turned over to match the attacking player's color, killed pieces are removed from the board, never to return.  (A captured piece may not be attacked for one turn.)  The outcomes of attacks are determined as such:&lt;br/&gt;&lt;br/&gt;Kill    &lt;br/&gt;knight kills knight    &lt;br/&gt;bowman kills bowman    &lt;br/&gt;cannon kills cannon&lt;br/&gt;&lt;br/&gt;Capture&lt;br/&gt;knight captures bowman&lt;br/&gt;bowman captures cannon&lt;br/&gt;cannon captures knight&lt;br/&gt;&lt;br/&gt;Players may prevent attack by moving a piece in danger to a triangle immediately next to a potential attacker.  (Pieces must move before attacking.)  The winning player captures or kills all of the opponent's pieces.  One optional advanced rule is included, allowing knights to move through the small hexagons that cover the points of all the board's triangles.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/XpLJK5aWAImQqIOB_8JWoii5dHE=/fit-in/200x150/pic1488496.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FI1CwlB22CCvDwOjklDiiBCcxU0=/0x0/pic1488496.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="73884">Duncan George Reid</boardgamedesigner>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamepublisher objectid="288">Spear&#039;s Games</boardgamepublisher>
+															<boardgameversion objectid="189564">Spear&#039;s Games UK edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120438">
+			<yearpublished>2012</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Obsolescence</name>
+									
+			<description>Develop, upgrade, and recycle electronic gadgets by laying tiles representing components on a circuit board.&lt;br/&gt;&lt;br/&gt;Designed during 48-hour 2012 Global Game Jam at NYU Game Center.  (Minimal playtesting, rules and tile mix require further fine tuning and balancing.)&lt;br/&gt;&lt;br/&gt;Tile Placement game in which players develop, upgrade, and recycle successive generations of Apple gadgets by laying tiles representing components on a circuit board, connector edge to connector edge in order to form closed loops consisting of newly laid and previously laid components.&lt;br/&gt;&lt;br/&gt;Component Tiles can only be placed adjacent to a tile with a shared connector edge (border) OR on top of one another to create Gadgets. Each successive generation of gadget is built on top of the prior generation's components. Components on the stack level corresponding to the current device generation are added to the builder's score, components hidden by others on higher stack levels are subtracted from the score. A completed gadget-- a closed loop of component tiles also referred to as a device-- is defined by it's most numerous component type, with each component corresponding to a different device, and scores a bonus upon completion. Gadget Cards depict their majority component requirement and keep track of descending bonus values for each device generation of that type built by all players (the first one built is worth more).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wLyqRcSSNscEpXrUJfvbZR1ihaU=/fit-in/200x150/pic1241980.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eHL3DO-LpvYuZKhGsFpcrTGvLPI=/0x0/pic1241980.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="3058">CereBel</boardgamepublisher>
+															<boardgameversion objectid="153834">CereBel Global Game Jam edition</boardgameversion>
+															<boardgamedesigner objectid="58141">Gregory Chase</boardgamedesigner>
+																						<boardgamefamily objectid="17452">Global Game Jam</boardgamefamily>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="134155">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Siberia: das Warenhaus</name>
+							<name primary="true" sortindex="1">Siberia: Warehouse expansion</name>
+									
+			<description>Both warehouse tiles will be mixed up together with the investment tiles during the preparation period. A warehouse can be obtained like the other investment tiles during the Investment action.&lt;br/&gt;&lt;br/&gt;If a player obtains one of the warehouse tiles, he places it beside his gaming board visible for the other players. After a Resource action, resources can be stored in the warehouse. They can be sold at a later time. Storing resources is voluntary, i.e. a player can choose to sell his resources immediately after the Resource action. But he can also choose to store one or two resources in his warehouse, up to a total capacity of 2 resources (same or different). Resources in the warehouse can be sold later in addition to any other action of the player, either before or after that action. If a player has stored two resources, he decides whether to sell both or only one resource. If he sells both resources, he may sell them at different stock exchanges. Each player can only own one warehouse.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/F61vSXHFmhrx7btvD0cdHr5W_FI=/fit-in/200x150/pic1487674.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uGEYPt8fcU6VkKa3Yl5qc3KjjWI=/0x0/pic1487674.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgamepublisher objectid="10848">dlp games</boardgamepublisher>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="189098">First edition</boardgameversion>
+															<boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgamecompilation objectid="115636">Siberia / Key West / Bangkok Klongs Expansion</boardgamecompilation>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+															<boardgameexpansion objectid="110102" inbound="true">Siberia</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>6.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.844097</stddev>
+					<median>0</median>
+					<owned>37</owned>
+					<trading>4</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

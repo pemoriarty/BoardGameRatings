@@ -1,0 +1,138 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136385">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Influence</name>
+									
+			<description>INFLUENCE is a tactical card game where players attempt to gain the most Power. By playing Influence cards -- symbolizing military, political, and economic influence -- players conquer Castles and gain a base of Power. Maintaining control of these Castles grants additional Power, as well as influence over neighboring Castles!&lt;br/&gt; Each player has an identical set of ten Faction cards. With these, players will leverage Influence over Castles, alter the game board, and sabotage opponents&amp;rsquo; strongholds. At the end of six Rounds, whoever has the most Power wins!&lt;br/&gt;&lt;br/&gt;Castles are cards dealt face-down following the pattern on a Setup card -- these patterns have anywhere between 8 and 18 Castles. The Setup card also indicates the order in which the Castles are examined (determining who conquered the Castle).&lt;br/&gt;&lt;br/&gt;Players have identical sets of six Influence cards, which are used (one per Round) to attempt to gain control of a Castle. Influence cards are played face-down in the Attack Phase, and revealed during the Conquer Phase. Conquering a Castles scores 1 Power, and maintaining control awards the amount of Power shown on the Castle card -- between 0 and 4 Power. With very few 3 and 4 Power Castles, these will be highly contested!&lt;br/&gt;&lt;br/&gt;Conquered Castles have the additional benefit of providing bonus Influence against its immediate neighbors (up, down, left, right, and all four diagonals).&lt;br/&gt;&lt;br/&gt;Additionally, players have four special cards:&lt;br/&gt;--Swap cards can be used to change the orientation of the Setup and Castle cards, and can be used to switch two Influence cards (players can only affect their own Influence cards, and Castles that they control).&lt;br/&gt;--The Saboteur card is used to prevent a Castle from using its Influence toward one neighboring Castle for one Round, and any player can play their Saboteur on ANY Castle.&lt;br/&gt;--The Delay card is played to move a player to the end of the Turn Order queue, granting the benefit of seeing where everyone else played before they decide where to play their Influence card. But beware! Everyone has a Delay card, and they can all be used on the same Round!&lt;br/&gt;&lt;br/&gt;Power is scored every round and is cumulative. The player (or team!) with the most Power wins!&lt;br/&gt;&lt;br/&gt;A note on Team games:&lt;br/&gt;Influence can be played free-for-all, but can also be played in teams, so long as the teams have an equal amount of Factions.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/onATmg0HZFo1rwWSAY30gIMrpb4=/fit-in/200x150/pic1656905.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gIQ9Dt5Ogbn2sBeuV29LGlan5-M=/0x0/pic1656905.png</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="66189">Matt Cocuzzi</boardgamedesigner>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+																						<boardgameversion objectid="208950">First Edition</boardgameversion>
+																						<boardgamedesigner objectid="66193">Nicholas Jaramillo</boardgamedesigner>
+															<boardgamedesigner objectid="66190">Joshua Kimble</boardgamedesigner>
+															<boardgameartist objectid="53573">Jason D. Kingsley</boardgameartist>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+																						<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamepodcastepisode objectid="95732">OBG 101: The Decision Horizon</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="24312">TwoMonkeyStudios, LLC</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>5.88611</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.38548</stddev>
+					<median>0</median>
+					<owned>93</owned>
+					<trading>7</trading>
+					<wanting>2</wanting>
+					<wishing>11</wishing>
+					<numcomments>12</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

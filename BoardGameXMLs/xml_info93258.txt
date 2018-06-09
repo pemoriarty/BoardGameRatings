@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="93258">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="5">The Farming Game Card Game</name>
+									
+			<description>In the Farming Game Card Game, you're a wannabe farmer.&lt;br/&gt;You get to bid for crops, plant them, harvest them and try it all again.&lt;br/&gt;&lt;br/&gt;Bid for the right to plant crops, roll the dice to see how well your crops did.  At game end, total cash + total crop value = your score.&lt;br/&gt;&lt;br/&gt;Game Play: Each turn consists of 4 phases.&lt;br/&gt;1. Read a farmer's fate card (this card is the same for all players but will affect each player differently depending on their individual crops)&lt;br/&gt;2. Bid for and purchase crops (borrowing money if necessary)&lt;br/&gt;3. If you have money left over, buy crop enhancements (fertilized, grass fed, organic)&lt;br/&gt;4. Harvest your crops (roll the dice to determine how well your crops performed)&lt;br/&gt;&lt;br/&gt;Each turn can take 5-10 minutes and the number of turns is determined by the players at the start of the game.  A minimum game is usually 3 turns.&lt;br/&gt;&lt;br/&gt;By the end of the game, you want to have the highest total value after paying off all debts.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/eZbjFw6tUxnOs1KlsU9YodFjyr8=/fit-in/200x150/pic931429.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HSzWC9N73elZhODPGHk3GUem9OU=/0x0/pic931429.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1013">Farming</boardgamecategory>
+																						<boardgameversion objectid="86282">First edition</boardgameversion>
+															<boardgamedesigner objectid="36509">David Rohrbacher</boardgamedesigner>
+															<boardgamepublisher objectid="1202">Weekend Farmer Company</boardgamepublisher>
+															<boardgameimplementation objectid="5195" inbound="true">The Farming Game</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>4.45455</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.60191</stddev>
+					<median>0</median>
+					<owned>36</owned>
+					<trading>2</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

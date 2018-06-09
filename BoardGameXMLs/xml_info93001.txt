@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="93001">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>14</age>
+
+							<name  sortindex="1">Ice Dice</name>
+							<name primary="true" sortindex="1">IceDice</name>
+									
+			<description>In IceDice, a push-your-luck game from Looney Labs, you are trying to complete three matching sets of pyramids by rolling the dice; if you can't get the pyramids you want from the bank, you may steal them from your opponent.&lt;br/&gt;&lt;br/&gt;IceDice is a new packaging of Looney Pyramids (aka Icehouse pieces), consisting of two rainbow stashes, two custom dice, and a pyramid-shaped cloth carrying case.&lt;br/&gt;&lt;br/&gt;Also included in Pyramid Arcade.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tVESceIay_K_Wa4Cl5cJPmImcAc=/fit-in/200x150/pic988888.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ImoBh9CY_4FvyKZrcxmcOom0oZ8=/0x0/pic988888.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameversion objectid="85698">English first edition</boardgameversion>
+																						<boardgamedesigner objectid="122">Andrew Looney</boardgamedesigner>
+															<boardgamepublisher objectid="76">Looney Labs</boardgamepublisher>
+															<boardgamefamily objectid="20">Looney Pyramids</boardgamefamily>
+																						<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamecompilation objectid="187988">Pyramid Arcade</boardgamecompilation>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="98245">TPGC - Episode #6A - Andy Looney talks about Fluxx: The Board Game and Looney Pyramids</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>190</usersrated>
+					<average>6.40263</average>
+					<bayesaverage>5.61914</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5496" bayesaverage="5.61914" />
+												
+											</ranks>
+					
+					<stddev>1.39852</stddev>
+					<median>0</median>
+					<owned>609</owned>
+					<trading>14</trading>
+					<wanting>9</wanting>
+					<wishing>36</wishing>
+					<numcomments>89</numcomments>
+					<numweights>19</numweights>
+					<averageweight>1.1579</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

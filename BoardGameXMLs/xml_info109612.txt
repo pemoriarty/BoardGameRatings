@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="109612">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Comino</name>
+							<name primary="true" sortindex="1">Mondriaan 2020</name>
+									
+			<description>Mondriaan 2020 is a tile-placement game in which players create abstract images over the course of the game that resemble the work of Dutch artist Piet Mondrian (whose last name was originally spelled &amp;quot;Mondriaan&amp;quot;). But the players aren't working collaboratively &amp;ndash; no, they want to make strong color connections for their own glory.&lt;br/&gt;&lt;br/&gt;One player starts with a yellow tile, the other with a red tile. Twenty-one other tiles have some combination of red, blue and yellow on them, with each corner being a solid color. One tile is placed randomly on the table as a starting tile, and the other tiles are randomly distributed between the two players.&lt;br/&gt;&lt;br/&gt;On a turn, a player adds one tile to the layout. The tile must be adjacent to at least one tile already on the board, and the colors of the just-placed tile must match all adjacent tiles, even if they touch only at a corner. The player scores points by adding to colored areas already on the board; he scores one point for each tile in a colored area that he adds to, while scoring no points for the tile just placed. (The starting player begins with five points.)&lt;br/&gt;&lt;br/&gt;A player must add a tile to the layout on his turn, discarding a tile instead if one can't be placed. After all tiles have been placed or discarded, the player with the most points wins.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Re-implemented as: TRIFUSION, allowing up to 4 players.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qTqGhtsjYSkucd2gS8AN6JuJPfE=/fit-in/200x150/pic1109305.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/A33FeuAHsroGtaFSSjB6pSPQmYE=/0x0/pic1109305.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="10309">Country: The Netherlands</boardgamefamily>
+															<boardgamepublisher objectid="77">Cwali</boardgamepublisher>
+															<boardgameartist objectid="51039">Roland MacDonald</boardgameartist>
+																						<boardgameversion objectid="129096">Multilingual first edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameimplementation objectid="123490">TRIFUSION</boardgameimplementation>
+																						<boardgamedesigner objectid="124">Corné van Moorsel</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>72</usersrated>
+					<average>6.39167</average>
+					<bayesaverage>5.55592</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7989" bayesaverage="5.55592" />
+												
+											</ranks>
+					
+					<stddev>1.1299</stddev>
+					<median>0</median>
+					<owned>120</owned>
+					<trading>7</trading>
+					<wanting>5</wanting>
+					<wishing>19</wishing>
+					<numcomments>24</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

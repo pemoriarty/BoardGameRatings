@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="103571">
+			<yearpublished>2011</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Deck Siege</name>
+									
+			<description>Overview&lt;br/&gt;A solitaire print-and-play siege/defense game. Using just a standard deck of playing cards and a record sheet, the player defends a city against a stream of attackers, trying to hold out until the deck is exhausted, at which time a score may be figured based on how well the city survived.&lt;br/&gt;&lt;br/&gt;Originally created on a business flight because I wish I had something I could play on a tiny airplane tray and all I had was a deck of cards and a notebook, it has been playtested and developed further as a submission for the Solitaire Print and Play Contest in July 2011.&lt;br/&gt;&lt;br/&gt;Game Play&lt;br/&gt;The record sheet divides a city into four sections, each with defenders, walls and city ratings. Each turn, the player will use hand cards to generate reinforcements, repairs, defensive sorties and other special actions based on the rank and suit of the cards he has. Afterward, the enemy troops appear based on card draws where each suit corresponds to a quadrant of the city and the rank indicates strength. However, each suit of enemy has an ability or advantage that makes them a little different from each other when attacking or appearing. The attack process is straightforward and occurs automatically each round after both the player and the enemy have played their cards.&lt;br/&gt;&lt;br/&gt;Over the course of the game the player may make more informed decisions about how to spend his cards based on which cards he's already seen come out of the deck, but luck (good and bad) is still present in which cards he gets in hand to spend and where and in what order the enemies arrive. Many cards can be spent in more than one way by the player, so there is a degree of hand management as well.&lt;br/&gt;&lt;br/&gt;The game is designed to play with a standard deck of cards and a record sheet, making this a very portable, small-footprint game. I've played it holding the whole deck in one hand and simply placing the discards face-up at the bottom of the deck, while making my notes and tracking information on the record sheet.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RlM_lECI_mHhRsjFoIRHipwTsSE=/fit-in/200x150/pic1199822.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1GgKpbwckUXG0kMZNbtJV84ovEY=/0x0/pic1199822.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="113476">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="30118">Michael Haverty</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="19564">Solitaire Print and Play Contest</boardgamefamily>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>5.81818</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.19226</stddev>
+					<median>0</median>
+					<owned>29</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>16</wishing>
+					<numcomments>20</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

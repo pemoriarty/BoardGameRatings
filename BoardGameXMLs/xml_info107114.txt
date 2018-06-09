@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="107114" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Towers of Hanoi</name>
+									
+			<description>The Towers of Hanoi is an ancient puzzle played with three stacks and any number of differently-sized disks. At the start, all the disks are in the leftmost stack, with the largest disk on the bottom and the smallest on the top. The object is to get all the disks over to the rightmost stack.&lt;br/&gt;&lt;br/&gt;You can only move one disk per move, and you can only move the top disk on a stack. The top disk of any stack can be moved to the top disk of any other stack, with the restriction that you can't move a larger disk on top of a smaller disk -- i.e., disks can only be moved to empty stacks or on top of larger disks.&lt;br/&gt;&lt;br/&gt;To move a disk, click on it. (If you can't click on a disk, it means you can't legally move it anywhere.) If there is only one place the disk can be moved to, it will be moved there automatically; otherwise, you'll have to click on a stack to move it to.&lt;br/&gt;&lt;br/&gt;Source: The Game Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/8o0spmpGUu3lj9KjUNrMzTZsdbo=/fit-in/200x150/pic1084313.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4RZtN1eCOAGXit-CqZqeyugYjsA=/0x0/pic1084313.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameversion objectid="123284">Browser edition</videogameversion>
+															<videogameplatform objectid="11496">PDP</videogameplatform>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamedeveloper objectid="18171">RinkWorks</videogamedeveloper>
+															<videogamepublisher objectid="18171">RinkWorks</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+																						<videogameplatform objectid="4977">Windows</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="11496" name="pdp" friendlyname="PDP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

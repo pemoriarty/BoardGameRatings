@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="126471">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Nowhere to Go</name>
+									
+			<description>Two-player strategy game with a spy theme on a unique hexagonal game board with spaces inter-connected by bridges.  Each player places his or her spy piece on a starting space and players take turns placing blockers and moving their pieces across any bridges that are not blocked.  The first player to trap the other spy with blockers wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hYmtOtN84-xdOGERISwSLqwG4BQ=/fit-in/200x150/pic1379664.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9WHWM2nwdJQBLodNSxlMzBc9P5c=/0x0/pic1379664.jpg</image>
+						
+																			<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="2985">Hank Atkins</boardgamedesigner>
+															<boardgamepublisher objectid="765">Educational Insights</boardgamepublisher>
+																						<boardgameversion objectid="169225">First edition</boardgameversion>
+																													<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+															<boardgameimplementation objectid="7811" inbound="true">Stranded</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>76</usersrated>
+					<average>5.80461</average>
+					<bayesaverage>5.51703</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11149" bayesaverage="5.51703" />
+												
+											</ranks>
+					
+					<stddev>1.17603</stddev>
+					<median>0</median>
+					<owned>189</owned>
+					<trading>17</trading>
+					<wanting>3</wanting>
+					<wishing>16</wishing>
+					<numcomments>30</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

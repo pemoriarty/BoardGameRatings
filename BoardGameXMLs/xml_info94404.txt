@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="94404" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">M.U.G.E.N.</name>
+									
+			<description>M.U.G.E.N (also known simply as MUGEN) is a freeware 2D fighting game engine designed by Elecbyte, written in C which originally used the Allegro library. The latest versions of the engine now use the SDL library.&lt;br/&gt;&lt;br/&gt;The engine uses 7 buttons for gameplay along with the directional keys, in order to accommodate six-button fighters, which use three punches, three kicks, and a start button. However, characters do not necessarily use all seven buttons, nor need to follow a traditional six- or four-button format. At most, two human players can control characters, with others controlled by the engine's AI; including a demo mode where the computer controls all characters. In addition, several gameplay modes are available via the main menu.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;M.U.G.E.N&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6JZkbzkQM6G9hnk1KBVUJjo5Soo=/fit-in/200x150/pic936373.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/m9cWK0SmRL2ZHBlrHZdTQEa3sQY=/0x0/pic936373.jpg</image>
+						
+												<videogamedeveloper objectid="16349">Elecbyte</videogamedeveloper>
+															<videogamepublisher objectid="16349">Elecbyte</videogamepublisher>
+															<videogamegenre objectid="2159">Fighting</videogamegenre>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogametheme objectid="2466">Other</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="89091">Windows edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

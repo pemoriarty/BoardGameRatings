@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="88630">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Card Wars</name>
+									
+			<description>Played with a standard deck of playing cards.&lt;br/&gt;&lt;br/&gt;2-player rules:&lt;br/&gt;One player takes all the red cards; the other black cards. &lt;br/&gt;Jokers or the card box are laid to form the central tile of a 5x5 grid. Players each lay a card orthogonally adjacent to this central tile.&lt;br/&gt;&lt;br/&gt;Then players take turns either:&lt;br/&gt;  - laying any card in an empty space orthogonally adjacent to an existing friendly card.&lt;br/&gt;  - laying any card on top of a friendly card (to increase defence).&lt;br/&gt;  - laying a card on top of an enemy card. This can only be done if the enemy card is orthogonally adjacent to a friendly card AND the card being laid is higher in rank than the existing card.&lt;br/&gt;  &lt;br/&gt;The winner is the one to occupy more spaces.&lt;br/&gt;&lt;br/&gt;3 player game:&lt;br/&gt;Players 1 and 2 take a suit each. Player 3 takes 2 suits, giving them stronger card to make up for being wedged in the middle.&lt;br/&gt;&lt;br/&gt;4 player game:&lt;br/&gt;Each player uses one suit.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="76527">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.5</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

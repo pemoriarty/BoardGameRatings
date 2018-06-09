@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="103259">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Architect</name>
+									
+			<description>Architect is a tile placement game for 2-4 players. It's designed for nestorgames' game system Nestortiles.  This game has been entered in the 2nd NESTORTILES game design contest.&lt;br/&gt;&lt;br/&gt;Players are architects who construct buildings over three rounds. The player who lays out the best plan and builds the most appealing structure to the proper height at the right time will win.&lt;br/&gt;&lt;br/&gt;Each turn, players either draw a new tile, exchange two of their tiles for two new tiles or play a tile from their hand to their board.  Tiles must be placed adjacent to another tile already on the board; a tile placed on top of another tile must be a higher number; a tile cannot be the same color or number as the tile immediate beneath it or any adjacent tile.&lt;br/&gt;&lt;br/&gt;Round 1 ends when one player has 6 tiles on their board, round 2 ends with 10 tiles and round 3 ends with 14 tiles.  After every round, points are scored according to the number of dots visible on a player's board, points are lost for tiles still in hand and bonus points are added for tiles at the level of the round that just ended.  For example, at the end of round 1 players earn 1 point per tile at level 1.  The bonuses have the potential to score much higher after rounds 2 and 3.  At the end of the game, players earn a bonus by squaring the highest level on which they have a tile (e.g. having a tile at level 5 earns a bonus of 25 points).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LKEYR6taxpvtKppHnEnjADS7dXw=/fit-in/200x150/pic1046145.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cwIbgnya3blvguqyVHZeUrXz-n4=/0x0/pic1046145.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="112247">First edition</boardgameversion>
+															<boardgamefamily objectid="6901">Nestortiles</boardgamefamily>
+															<boardgamedesigner objectid="12459">Brad Nordeng</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

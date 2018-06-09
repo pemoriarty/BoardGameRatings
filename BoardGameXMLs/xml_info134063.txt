@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="134063" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Racer Feud</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Racer Feud is an unofficial iOS implementation of the racing board game known as Formula D .&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IXzERHNVtMclA7K8N0c1B0GRCA4=/fit-in/200x150/pic1482237.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_z7Tddr8yxM-BmxxTlaqYztBHDA=/0x0/pic1482237.jpg</image>
+						
+												<videogamemode objectid="2410">Asynchronous Multiplayer</videogamemode>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogameversion objectid="188861">iOS</videogameversion>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogamedeveloper objectid="23923">LindApp AB</videogamedeveloper>
+															<videogamepublisher objectid="23923">LindApp AB</videogamepublisher>
+															<videogamegenre objectid="2154">Racing</videogamegenre>
+															<videogamebg objectid="37904" inbound="true">Formula D</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>5.28889</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6292" bayesaverage="5.45558" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.07923</stddev>
+					<median>0</median>
+					<owned>18</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>7</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

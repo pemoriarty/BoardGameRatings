@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="119780" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">VC-20</name>
+							<name  sortindex="1">VIC-1001</name>
+							<name primary="true" sortindex="1">VIC-20</name>
+									
+			<description>The VIC-20 (Germany: VC-20; Japan: VIC-1001) is an 8-bit home computer which was sold by Commodore Business Machines.&lt;br/&gt;&lt;br/&gt;The VIC-20 had proprietary connectors for program/expansion cartridges and a tape drive (PET-standard Datassette). It came with 5 kB RAM, but 1.5&amp;amp; kB was used by the system for various things, like the video display (which had a rather unusual 22&amp;times;23 char/line screen layout), and other dynamic aspects of the ROM-resident BASIC interpreter and KERNAL (a low-level operating system). Thus, 3583 bytes of BASIC program memory for code and variables was available to the user of an unexpanded machine.&lt;br/&gt;&lt;br/&gt;The computer also had a serial bus (a serial version of the PET's IEEE-488 bus) for daisy chaining disk drives and printers; a TTL-level &amp;quot;user port&amp;quot; with both RS-232 and Centronics signals (most frequently used as RS-232, for connecting a modem); and a single DE-9 game controller port, compatible with the digital joysticks and paddles used with Atari 2600 videogame consoles and, later, the C64 (the use of a standard port ensured ample supply of Atari-manufactured and other third-party joysticks; Commodore itself offered an Atari-protocol joystick under the Commodore brand).&lt;br/&gt;&lt;br/&gt;Importantly, like most video game consoles and many computers at the time the VIC had a cartridge port to allow for plug-in cartridges with games and other software as well as for adding memory to the machine. Port expander boxes were available from Commodore and other vendors to allow more than one cartridge to be attached at a time. Cartridge software ranged from 4-16k in size, although the latter was uncommon due to its cost and only larger software houses produced 16k cartridges.&lt;br/&gt;&lt;br/&gt;The graphics capabilities of the VIC chip (6560/6561) were limited but flexible. At startup the screen showed 176 x 184 pixels, with a fixed-colour border to the edges of the screen; since an NTSC or PAL screen has a 4:3 width-to-height ratio, each VIC pixel was much wider than it was high. The screen normally showed 22 columns and 23 rows of 8-by-8-pixel characters; it was possible to increase these dimensions but the characters would soon run out the sides of the monitor. Like on the PET, 256 different characters could be displayed at a time, normally taken from one of the two character generators in ROM (one for upper-case letters and simple graphics, the other for mixed-case&amp;mdash;non-English characters were not provided). Normally, the VIC-20 was operated in high-resolution mode whereby each character was 8x8 pixels in size and used one color. A lower-resolution multicolor mode could also be used with 4x8 characters and three colors each, but it was not used as often due to its extreme blockiness.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Commodore VIC-20&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwmfg objectid="11464">Commodore International Limited (Commodore)</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="152200">Japanese VIC-1001</videogamehwversion>
+															<videogamehwversion objectid="152199">VIC-20</videogamehwversion>
+															<videogamehardware objectid="4949" inbound="true">VIC-20</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

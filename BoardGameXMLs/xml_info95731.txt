@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="95731" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Forget-Me-Not</name>
+									
+			<description>Forget-Me-Not is largely inspired by a C64 game called Crossroads.  It's also obviously a bit inspired by Pac-Man, as well as this neat little iOS game called DungeonMoto.&lt;br/&gt;&lt;br/&gt;So.. it's a game for one or two players. There's a maze. The openings at the edges of the screen wrap around. The maze is full of tiny little creatures, including the players. You run around shooting stuff, collecting flowers and trying not to be killed. The walls of the maze can be blown up. That's about it. It's good fun with two players on the same iPad.&lt;br/&gt;&lt;br/&gt;One of the things I loved about Crossroads was, if you fired down a screen-wide corridor, your bullets would end up just screen wrapping forever or until something got in the way.. it gets a bit chaotic. So that happens in this :D&lt;br/&gt;&lt;br/&gt;The levels are procedurally generated in a pretty simple way, at different sizes, with a few different possible symmetries. There are only three types of enemy so far, making some more now. Then it's on to making sfx and adding some polish, and it's about done...&lt;br/&gt;&lt;br/&gt;Source: The Developer Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogameversion objectid="92248">iPhone/iPad edition</videogameversion>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamedeveloper objectid="16542">Nyarlu Labs</videogamedeveloper>
+															<videogamepublisher objectid="16542">Nyarlu Labs</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

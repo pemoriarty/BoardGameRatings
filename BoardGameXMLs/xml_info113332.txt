@@ -1,0 +1,147 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="113332">
+			<yearpublished>2012</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>9</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Bookmaker</name>
+									
+			<description>In Bookmaker, players bet on horses in a series of races. They're not concerned about which horse wins, however, so much as making as much money as possible from the bets they place based on which race cards they hold in hand.&lt;br/&gt;&lt;br/&gt;Each turn is divided into two phases: the bidding and the race. During each race two players will be the bookmakers, the ones who set the odds on the four horses. At the start of the race, four race cards from the deck of 80 cards are turned face-up, while each player (including each bookmaker) is dealt four race cards face down. Players look at these cards to determine which cards are out of play &amp;ndash; that is, which horses are less likely to move during the race. The bookmakers secretly exchange two cards each to give them extra information.&lt;br/&gt;&lt;br/&gt;Then the bookmakers individually set odds on the four horses (1:1, 1:2, and so on, with the total of the second numbers adding to at least ten). They reveal these odds to the other players, who must then place at least one bet with one bookmaker. They can place more bets if desired, even with both bookmakers. Each bookmaker records the amount bet and the odds for that horse, and he can then lower the odds on that horse if desired (but if the total of the odds would drop below ten, he must raise the payoff on another horse. Players continue placing bets as long as they want.&lt;br/&gt;&lt;br/&gt;Once all bets are finished, players remove all cards from play, then reveal cards from the top of the deck one-by-one, moving the appropriately colored horse forward one space for each card revealed. Whichever horse reaches the #10 spot on the track first wins. All players who bet on this horse are paid off in the appropriate amount from the bookmakers. During the race, the betters can ask for credit from the bank to spend and win more money &amp;ndash; but of course in the end, they will be forced to pay the money back to the bank with interest!&lt;br/&gt;&lt;br/&gt;After an agreed upon number of races, with each player being bookmaker the same number of times, whoever has the most money wins!&lt;br/&gt;&lt;br/&gt;Variant rules in Bookmaker add wild race cards that move the horse which moved on the previous turn, a bet on which horse is the nag, and a harness option in which horses can break from the track and be disqualified.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-nKbhxSB3giVS91Oun0pEsAq5pk=/fit-in/200x150/pic1179743.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ztmvr_R8mrA7xJtvXuptYVfu9zg=/0x0/pic1179743.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamedesigner objectid="56320">Giuseppe De Carolis</boardgamedesigner>
+															<boardgamepublisher objectid="5530">Giochi Uniti</boardgamepublisher>
+															<boardgameversion objectid="137289">Multilingual first edition</boardgameversion>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamefamily objectid="5730">Sports: Horse Racing</boardgamefamily>
+															<boardgameartist objectid="14142">Christophe Swal</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>29</usersrated>
+					<average>5.77586</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.69983</stddev>
+					<median>0</median>
+					<owned>154</owned>
+					<trading>27</trading>
+					<wanting>4</wanting>
+					<wishing>15</wishing>
+					<numcomments>21</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="78710" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Rastan</name>
+							<name  sortindex="1">Rastan Saga</name>
+							<name  sortindex="1">ラスタンサーガ</name>
+									
+			<description>&amp;quot;Rastan Saga (ラスタンサーガ), known in North America simply as Rastan, is a 1987 hack and slash platform arcade game developed and published by Taito.&lt;br/&gt;&lt;br/&gt;The player controls the barbarian named Rastan, who has to cross a number of levels and defeat enemies inspired by Greek mythology while avoiding obstacles and traps. The game consists of six rounds with three scenes per round. To clear each round, players must reach the third scene and defeat the castle boss. The player can pick up new weapons by stabbing them with the sword and items by walking over them. Some weapons and items include axes, hammers, fire swords, jewels, shields and mantles. The game's background graphics featured broad landscapes with changing sunlight effects with detail and clarity not previously seen in video games.&amp;quot;&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Rastan (arcade game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Bi6C6QdSoS284UdDFH_hMBNtU-s=/fit-in/200x150/pic1561357.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iBty4bRTCYTB7TM0I7IRbm6vsBM=/0x0/pic1561357.png</image>
+						
+												<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameversion objectid="89266">Amstrad CPC edition</videogameversion>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="89265">Apple IIGS edition</videogameversion>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogamegenre objectid="2342">Beat &#039;em Up</videogamegenre>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="89268">DOS Edition</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamepublisher objectid="13436">Imagine Software</videogamepublisher>
+															<videogameversion objectid="89269">JP Game Gear Edition</videogameversion>
+															<videogameversion objectid="89271">JP MSX Edition</videogameversion>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogameplatform objectid="4740">SEGA Game Gear</videogameplatform>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogameversion objectid="89270">Sega Master System Edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="11758">Taito</videogamedeveloper>
+															<videogamepublisher objectid="11758">Taito</videogamepublisher>
+															<videogamecompilation objectid="77426">Taito Legends</videogamecompilation>
+															<videogamecompilation objectid="77384">Taito Legends Power-Up</videogamecompilation>
+															<videogamecompilation objectid="248511">Taito&#039;s Coin-Op Hits</videogamecompilation>
+															<videogameversion objectid="89267">UK C64 edition</videogameversion>
+															<videogameversion objectid="56410">US Arcade Edition</videogameversion>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="89272">ZX Spectrum Edition</videogameversion>
+															<videogame objectid="77426" inbound="true">Taito Legends</videogame>
+															<videogame objectid="77384" inbound="true">Taito Legends Power-Up</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>7.21875</average>
+					<bayesaverage>5.99211</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2459" bayesaverage="5.99211" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="47" bayesaverage="6.84016" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="12" bayesaverage="6.85834" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="255" bayesaverage="6.49092" />
+														<rank type="family" id="4740" name="segagamegear" friendlyname="SEGA Game Gear Rank" value="12" bayesaverage="6.63086" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="45" bayesaverage="6.83625" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="16" bayesaverage="7.08124" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="10" bayesaverage="7.24847" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="13" bayesaverage="7.20716" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="30" bayesaverage="6.80293" />
+												
+											</ranks>
+					
+					<stddev>1.64857</stddev>
+					<median>0</median>
+					<owned>17</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

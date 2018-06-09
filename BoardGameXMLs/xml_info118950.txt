@@ -1,0 +1,145 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="118950">
+			<yearpublished>2012</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Mafia</name>
+									
+			<description>The Mafia has never been stronger: assaults, ambushes, and smuggling are happening throughtout the streets. But the police is not playing around! Infiltrated police officers will attempt to sabotage Mafia missions at all costs to show who's the real boss of the city&lt;br/&gt;&lt;br/&gt;At the beggining of the game, players receive secret goals: mafia or police. The first ones should complete the missions, while te second ones should force them to fail (secretly). When 4 missions have suceeded or failed, the game ends.&lt;br/&gt;&lt;br/&gt;During the whole game, 2 missions remain open at the table, and different characters are assigned to them.&lt;br/&gt;Each mission has a number value, a color and a quanitity of cards necessary to complete it.&lt;br/&gt;Players who are at the mission can contribute (or not) to it by secretly playing action cards at it.&lt;br/&gt;&lt;br/&gt;All action cards may be used to contribute for missions or may be used as an action. There is a wide variety of actions, such as adding or removing a character from a mission, buying more cards, forcing a player to lose cards, block a player's turn, etc.. but remember:&lt;br/&gt;In the underworld of MAFIA, you never know whom you can trust!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LDvpeoCed6UkpBjmuZWYSq4JMt8=/fit-in/200x150/pic1216512.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/K7MckBc9u1gMv7n0eeNhAHGfhXg=/0x0/pic1216512.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamepublisher objectid="2378">Copag Cards</boardgamepublisher>
+															<boardgameversion objectid="149952">First edition</boardgameversion>
+															<boardgamepublisher objectid="15605">Galápagos Jogos</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1033">Mafia</boardgamecategory>
+																						<boardgameartist objectid="59072">Fabio Michelan</boardgameartist>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamedesigner objectid="37725">Renato Silva Sasdelli</boardgamedesigner>
+															<boardgameartist objectid="37725">Renato Silva Sasdelli</boardgameartist>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>100</usersrated>
+					<average>6.366</average>
+					<bayesaverage>5.5509</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8332" bayesaverage="5.5509" />
+												
+											</ranks>
+					
+					<stddev>1.63476</stddev>
+					<median>0</median>
+					<owned>258</owned>
+					<trading>17</trading>
+					<wanting>2</wanting>
+					<wishing>8</wishing>
+					<numcomments>14</numcomments>
+					<numweights>14</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="85809">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">URBAN-OPS: the card game</name>
+									
+			<description>Urban-Ops: the cardgame sees two squads of soldiers/mercenaries fighting in an urban environment (namely, an industrial city called Horizon) , using all sorts of equipment (from sniper rifles, to short barrel shotguns; from GPS to jetpacks; from assault rifles, to medical kits, and so on) to try to win the fight.&lt;br/&gt;&lt;br/&gt;The game has a very simple mechanic: after the players have chosen their squad (made of 6 different character, picked from the character pile, each with a specific background, image and abilities), they randomly place the locations (represented by cards) in which the fight takes place.&lt;br/&gt;&lt;br/&gt;Then draw equipment cards, and, one at time, each player can perform, during his turn, the following actions:&lt;br/&gt;1. draw up to 2 arsenal/equipment cards&lt;br/&gt;2. equip up to 2 arsenal cards to the characters&lt;br/&gt;3. move a character from a location to another&lt;br/&gt;4. activate a character to use an equipped item&lt;br/&gt;&lt;br/&gt;Once equipped, a card is used by rolling one D10: if the player rolls higher than the activation number (written on the equipment card), the item is successfully used, and players deal with its effects; otherwise, the card has no effect, and is discarded.&lt;br/&gt;As simple as that.&lt;br/&gt;&lt;br/&gt;But to give the game morespice, locations and character abilities give die roll modifications, so, for example, if you need to roll a 5+ to successfully use a rifle, but your character sucks at using ranged weapons, your roll will have  a -1 modifier, so you'll need 6+.&lt;br/&gt;&lt;br/&gt;Modifiers will stack, so a bonus given by the character will add up to any bonuses or detractions given by locations, and vice-versa.&lt;br/&gt;&lt;br/&gt;As if this was not enough, hidden among the arsenal cards, there are event cards, that, when drawn, make an event happen (from earthquakes, which will destroy a location, to spies, that will make one of your characters change faction; from swarm attacks, that will make characters loose their equipment, to the arrival of mercenaries that will add a new character to the opposing squad). These events are actually thought to discourage players from continually drawing arsenal cards, and to randomize things around.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ggpM7uVys5pVWqQJ8Q47FP2SC8E=/fit-in/200x150/pic833962.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yjciJc-QYfUR9FyiL_3gN9B-vvI=/0x0/pic833962.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="41932">Michele Esmanech</boardgamedesigner>
+															<boardgameartist objectid="41932">Michele Esmanech</boardgameartist>
+															<boardgameversion objectid="71097">First edition</boardgameversion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>6</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

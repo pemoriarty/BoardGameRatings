@@ -1,0 +1,97 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77065" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Montezuma&#039;s Revenge</name>
+							<name  sortindex="1">Panama Joe</name>
+									
+			<description>Montezuma's Revenge is a video game for Atari home computers, Atari 2600, Atari 5200, Apple II, ColecoVision, Commodore 64, IBM PC, Sega Master System, and ZX Spectrum (as Panama Joe). It was created by Robert Jaeger and published in 1984 by Parker Brothers. The game's title references a colloquial American English expression for diarrhea contracted while visiting Mexico. Montezuma's Revenge was one of the first platform games: an action game combining treasure hunting, multiple rooms, and puzzle solving.&lt;br/&gt;&lt;br/&gt;The player commands a character called Panama Joe (a.k.a. Pedro), moving him from room to room in the labyrinthine underground of the 16th century Aztec temple of emperor Montezuma II, filled with enemies, obstacles, traps, and dangers. The objective is to score points by gathering jewels along the way. Panama Joe must find keys to open doors, collect and use equipment such as torches, swords, amulets, etc. without losing his life. Obstacles are laser gates, conveyor belts, disappearing floors, and fire pits. Movement is achieved by jumping, running, sliding down poles, steps, chains, etc. Enemies are the skulls, snakes, and spiders. A further complication arises in the bottommost levels of each pyramid, which must be played in total darkness unless a torch is found.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Montezuma's Revenge (video game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P9kSiyBXbgMBnxAOdkySxn70NG8=/fit-in/200x150/pic824658.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wpMOLWcRW1I56bhU6l_cTsz88sE=/0x0/pic824658.jpg</image>
+						
+												<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogameplatform objectid="4417">Atari 5200</videogameplatform>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4419">ColecoVision</videogameplatform>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="162266">English/European ZX Spectrum edition</videogameversion>
+															<videogameversion objectid="266506">EU Commodore 64 edition</videogameversion>
+															<videogameseries objectid="6755">Montezuma&#039;s Revenge</videogameseries>
+															<videogametheme objectid="2415">Mythology</videogametheme>
+															<videogameversion objectid="53167">North American Apple II edition</videogameversion>
+															<videogameversion objectid="53168">North American Atari 2600 edition</videogameversion>
+															<videogameversion objectid="53166">North American Atari 5200 edition</videogameversion>
+															<videogameversion objectid="53169">North American Atari 8-bit Cartridge edition</videogameversion>
+															<videogameversion objectid="53170">North American Atari 8-bit Floppy disk edition</videogameversion>
+															<videogameversion objectid="53171">North American ColecoVision edition</videogameversion>
+															<videogameversion objectid="53172">North American Commodore 64 edition</videogameversion>
+															<videogameversion objectid="53173">North American Sega Master System edition</videogameversion>
+															<videogamedeveloper objectid="28">Parker Brothers</videogamedeveloper>
+															<videogamepublisher objectid="28">Parker Brothers</videogamepublisher>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="17671">Utopian Games</videogamedeveloper>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>26</usersrated>
+					<average>6.45192</average>
+					<bayesaverage>5.84187</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3419" bayesaverage="5.84187" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="41" bayesaverage="6.27684" />
+														<rank type="family" id="4417" name="atari5200" friendlyname="Atari 5200 Rank" value="25" bayesaverage="6.14741" />
+														<rank type="family" id="4419" name="colecovision" friendlyname="ColecoVision Rank" value="24" bayesaverage="6.09696" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="138" bayesaverage="6.21985" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="31" bayesaverage="6.35042" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="41" bayesaverage="6.39691" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="72" bayesaverage="6.31886" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="73" bayesaverage="6.15018" />
+												
+											</ranks>
+					
+					<stddev>1.99521</stddev>
+					<median>0</median>
+					<owned>13</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

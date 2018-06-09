@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="104257" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Fractal Mapper</name>
+									
+			<description>Taken from the NBOS website.  Specifically describes features in Fractal Mapper 8.&lt;br/&gt;&lt;br/&gt;Fractal Mapper is stuffed full of powerful features and functionality! You'll find that Fractal Mapper is a well rounded, powerful graphics application suitable for a wide variety of fantasy map making!&lt;br/&gt;&lt;br/&gt;Powerful Graphics Engine&lt;br/&gt;Fractal Mapper features a fast, optimized vector graphics engine designed from the ground up for fantasy map making. Each object placed on the map can be individually selected and modified. The graphics engine supports object rotation to any angle, resizing, reshaping, scaled (geometric) lines, bitmap pattern fills, and variable levels of transparency. In addition, FM features a powerful zooming capability that lets you fill in small map details on continental or even planet-wide maps.&lt;br/&gt;&lt;br/&gt;Fractal Drawing Tools&lt;br/&gt;Fractal Mapper gets its name from its set of Fractal drawing tools. These allow you to easily draw out natural looking continents, islands, rivers, and caverns. In addition, FM contains a number of non-fractal drawing tools for drawing out more regular shapes such as straight lines, polygons, circles, and spline curves.&lt;br/&gt;&lt;br/&gt;Full Color Mapping Symbols&lt;br/&gt;Fractal Mapper includes over 600 full color mapping symbols you can place on your maps. Sets include symbols for world maps, dungeon interiors, towns, and sci-fi deck plans. Fractal Mapper supports two types of symbols - raster symbols which are image files of several common formats, and vector symbols which are simply other Fractal Mapper maps. The symbol library is customizable, so you can easily add your own symbols as well.&lt;br/&gt;&lt;br/&gt;.PNG Mapping Symbols&lt;br/&gt;Fractal Mapper also features optimized support for 32-bit .PNG image files, complete with support for variable levels of transparency (alpha channels). Over 100 &amp;lsquo;battlemap&amp;rsquo; symbols in .PNG format are included for use in creating great looking maps designed for miniature use.&lt;br/&gt;&lt;br/&gt;Text&lt;br/&gt;You can place text on your maps using any True Type&amp;reg; font installed on your system. Text can wrap across multiple lines, be left-right-center justified, and can be rotated to any angle. Text can have it's own outline and fill colors, making it easy to create attractive, stylish text on your map. Unicode text can also be placed on your maps, allowing for the placement of text in such languages as Chinese, Japanese, or Korean.&lt;br/&gt;&lt;br/&gt;Grids&lt;br/&gt;FM can place square, hex, offset square, or dot grids of any color, size, and transparency level on your map - either above or below the objects on your map. Grid cells can also be numbered in the font and text size of your choice, as well as aligned in the cell several different ways - a great feature for wargamers! In addition, polygons and other shapes on your map can be individually filled with a grid. These grid fills can be 'synchronized' with the main grid to create seamless grid patterns within irregular shapes (like caverns).&lt;br/&gt;&lt;br/&gt;Printing&lt;br/&gt;Once you have your map, you&amp;rsquo;ll likely want to print it off for use at your game. Printing across multiple pages, fit to page, or at specific zoom percentages is supported. When square grids are set, you can even print the map out at specific sizes, such as 1 grid = 1 inch. The entire map or a portion can be printed. Maps printed across multiple pages can be 'overprinted' to make them easier to tape together. If desired, you can print a single page of a tiled map without having to print the entire set again. FM also features a tiled print preview so you can see how those big multi-paged prints will align on the pages - a big ink saver!&lt;br/&gt;&lt;br/&gt;Special Effects&lt;br/&gt;Fractal Mapper supports a number of special raster-based effects you can use to enhance the look of your maps. Bevel effects, for example, can be applied to create a raised edge on objects of various styles. Or apply Texture effects to an object to define its surface texture. Objects can be made to cast a drop shadow, or even a shadow onto itself. Blurs can also be applied to objects - either on the entire object or to create a &amp;lsquo;feathered&amp;rsquo; edge.&lt;br/&gt;&lt;br/&gt;Color Themes&lt;br/&gt;Your maps can be displayed in several different color themes. By default maps are shown in full color. But you can also choose to display your map in grayscale, black and white, or with a sepia color theme.&lt;br/&gt;&lt;br/&gt;Exporting&lt;br/&gt;Fractal Mapper maps can be exported to several image file formats: Windows bitmaps (*.bmp), JPEG files (*.jpg), Portable Network Graphics images (.png), and Enhanced Windows Metafiles (.emf). Either the entire map or a selected portion of the map can be exported.&lt;br/&gt;&lt;br/&gt;Campaign notes and the Scenario Builder&lt;br/&gt;Fractal Mapper isn&amp;rsquo;t just a graphics tool &amp;ndash; you can also store your campaign notes along with your map. Each object on your map can have assigned to it two sets of notes &amp;ndash; one for the GM, and one for the players. You can even define an area on the map as that object&amp;rsquo;s illustration. Once you have the notes, the Scenario Builder allows you to create an HTML file (web page) or print out an illustrated version of them. You can print out all of the notes, or create a player-version for hand outs.&lt;br/&gt;&lt;br/&gt;Plug-in and Scripting Interface&lt;br/&gt;Do you dabble in code? Fractal Mapper features a sophisticated scripting interface called the GoblinAPI which allows you to create new program features, custom drawing tools, map generators, and perform complex actions on your map. You don&amp;rsquo;t have to be a programmer to use Fractal Mapper, obviously, but if you are - you&amp;rsquo;ll enjoy the flexibility!&lt;br/&gt;Read more about the GoblinAPI&lt;br/&gt;&lt;br/&gt;The Inspiration Pad&lt;br/&gt;Need help coming up with names? Let the Inspiration Pad help! The Inspiration Pad is a built in name generator you can use to create endless inspiration for place and people names. Drag and drop randomly generated names onto your map! Over 25 random name generators are included, and since the Inspiration Pad is plug-in based, you can also add your own.&lt;br/&gt;&lt;br/&gt;Hyperlinking&lt;br/&gt;You can hyperlink Fractal Mapper maps together, allowing you to create interactive atlases. Each object on your map can be assigned another map as a link. When you click on that object with the link tool, the linked map is displayed. In addition, other types of files, such as PDF&amp;rsquo;s , spreadsheets, or even URL&amp;rsquo;s, can be linked to. When one of those links is clicked, the file is opened up in it&amp;rsquo;s application (or a browser window is opened and the web site navigated to, in the case of web links).&lt;br/&gt;&lt;br/&gt;Localization&lt;br/&gt;Fractal Mapper is used in many countries all over the world. So to make FM more friendly and approachable to the world audience, it can display its menus, buttons, and windows in languages other than English. FM uses a simple text based system for storing translation data, which means anyone can add support for a language (if they speak that language, that is). Language files will be hosted seperately on NBOS Online Exchange as they become available. (note: FM8 does not support unicode - only latin-based character sets)&lt;br/&gt;&lt;br/&gt;3D Terrain&lt;br/&gt;Fractal Mapper includes a free add-on program called Fractal World Explorer. You can use FWE to create great looking 3d shaded relief maps, and then edit and shape the terrain. Once you have a planet you like, you can then export the map for use in Fractal Mapper.&lt;br/&gt;Read more about Fractal World Explorer&lt;br/&gt;&lt;br/&gt;Globe View&lt;br/&gt;Another free add-on program included with Fractal Mapper is the newly redesigned Globe viewer. With this tool, you can wrap your world maps around an interactive globe. You can rotate and pan around your planet, and zoom in and out. The globe view can also be exported as a graphic or even a movie file!&lt;br/&gt;&lt;br/&gt;NBOS Online Exchange&lt;br/&gt;Fractal Mapper integrates with NBOS&amp;rsquo;s web based map sharing system, NBOS Online Exchange. Right from within Fractal Mapper you can upload your maps to the map sharing site. As easily as saving maps to disk, you can now upload and share your maps with others!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aDqzz7aWQutqr9GfGKFqkyT449Q=/fit-in/200x150/pic1061090.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1jOqXt1sqB23-xmdBduN4zo9Gw0=/0x0/pic1061090.png</image>
+						
+												<rpgdesigner objectid="3">(Uncredited)</rpgdesigner>
+															<rpgartist objectid="3">(Uncredited)</rpgartist>
+															<rpgproducer objectid="3">(Uncredited)</rpgproducer>
+															<rpggenre objectid="961">Fantasy</rpggenre>
+															<rpgseries objectid="11390">Fractal Mapper</rpgseries>
+															<rpg objectid="356">Generic / Universal</rpg>
+															<rpgitemversion objectid="116215">Mapping Software</rpgitemversion>
+															<rpgpublisher objectid="17076">NBOS Software</rpgpublisher>
+															<rpgcategory objectid="2127">Software (for maps, char sheets, etc)</rpgcategory>
+															<rpgissuearticle objectid="79028">What&#039;s not d20?</rpgissuearticle>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

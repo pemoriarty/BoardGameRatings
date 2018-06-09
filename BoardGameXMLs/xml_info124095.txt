@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="124095">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Quentin</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Quentin is a drawless connection game for two players: Black and White. It's played on the intersections (points) of a square board, which is initially empty. The top and bottom edges of the board are colored black; the left and right edges are colored white.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A region is a set of one or more orthogonally contiguous empty points. A portion of a larger region is not a region.&lt;br/&gt;&lt;br/&gt;A territory is a region such that every point in it is adjacent to at least two stones.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On his turn, a player must place one stone of his color on an empty point.&lt;br/&gt;&lt;br/&gt;Then, every territory on the board is filled with stones of the player who has the majority of stones orthogonally adjacent to it, after which the turn ends. Territories with the same number of Black and White stones adjacent to it are filled with stones of the opponent's color.&lt;br/&gt;&lt;br/&gt;At the end of a turn, any two like-colored, diagonally adjacent stones must share at least one orthogonally adjacent, like-colored neighbor. Otherwise, the move is illegal and the player must choose another one.&lt;br/&gt;&lt;br/&gt;If a player can't make a move on his turn, he must pass. Passing is otherwise not allowed. There will always be a move available to at least one of the players.&lt;br/&gt;&lt;br/&gt;The game is won by the player who completes a chain of orthogonally contiguous stones of their color touching the two opposite board edges of their color. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pie rule&lt;br/&gt;&lt;br/&gt;The pie rule is used in order to make the game fair. This means that White will have the option, on his first turn only, to change sides instead of making a regular move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZZWVb0wJP1WoYyqBoUw2Xju69NI=/fit-in/200x150/pic1300586.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/BbGCw8afVA3GhlGkpLL_CLIPQms=/0x0/pic1300586.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="164216">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+																						<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>7.31667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.97233</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

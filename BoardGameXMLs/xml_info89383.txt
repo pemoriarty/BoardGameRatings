@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="89383">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Touhou Shisouroku: Touhou Koumakyou-hen</name>
+							<name  sortindex="1">東方祀爭録 -東方紅魔郷編-</name>
+									
+			<description>A fusion of Dominion and Touhou Project.  An unusual event is occuring in Gensokyo, a paradise where humans, youkai, ghosts, aliens and gods dwell in.&lt;br/&gt;&lt;br/&gt;As a collaboration with Dominion, the game uses the same mechanic as Dominion.  Each player construct their own deck from a common pool of available cards, and the person with the most victory point wins at the end.&lt;br/&gt;&lt;br/&gt;Consists of 485 cards, with illustrations by 28 illustrators.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VQGszKM8PaDjQH4LfX6LUMLCcNc=/fit-in/200x150/pic969687.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/goN4R3xiUwmayFvahTok1uGm-PI=/0x0/pic969687.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+																						<boardgamefamily objectid="2580">Dominion</boardgamefamily>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="77962">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+															<boardgamefamily objectid="10182">Project Shrine Maiden</boardgamefamily>
+															<boardgameintegration objectid="134987">Touhou Shisouroku: Eiyashou-hen</boardgameintegration>
+															<boardgameexpansion objectid="132561">Touhou Shisouroku: Rinnosuke Morichika Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="128157">Touhou Shisouroku: Special Expansion Arc (EXTRA)</boardgameexpansion>
+															<boardgameintegration objectid="120206">Touhou Shisouroku: Touhou Youyoumu-hen</boardgameintegration>
+															<boardgamedesigner objectid="10525">Donald X. Vaccarino</boardgamedesigner>
+																						<boardgameintegration objectid="134987" inbound="true">Touhou Shisouroku: Eiyashou-hen</boardgameintegration>
+															<boardgameintegration objectid="120206" inbound="true">Touhou Shisouroku: Touhou Youyoumu-hen</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>7.38462</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.01106</stddev>
+					<median>0</median>
+					<owned>20</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>15</wishing>
+					<numcomments>3</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

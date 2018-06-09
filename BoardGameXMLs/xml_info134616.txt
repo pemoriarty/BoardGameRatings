@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="134616">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Pulce</name>
+									
+			<description>A Halma variation for two players.&lt;br/&gt;&lt;br/&gt;('Pulce' is the Italian word for 'flea'.)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Game components:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;- A wooden board with 7 rows and 7 columns of sockets (a total of 45 holes, no holes in the four board corners).&lt;br/&gt;- 8 black and 8 red pawns.&lt;br/&gt;- 1 yellow pawn (first-player marker)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Game goal:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; The objective of the game is to be the first player to get his pieces over to the opposite side of the board.&lt;br/&gt; &lt;br/&gt;     Set-up:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Two adjacent board sides (containing 10 sockets) are chosen as the destination field for one player's pawns (player A, positions 1b-1f and 2a-6a), while the opposite sides are assigned to the other player (player B, positions 7b-7f and 2g-6g). Players then placed all his pawns as follows: player A, sockets 4e, 4f, 5d, 5e, 5f, 6d, 6e, and 6f; player B, sokets 2b, 2c, 2d, 3, b, 3c, 3d, 4b, and 4c.&lt;br/&gt; The yellow pawn is placed in the central socket (position 4d).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Game rules:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The game is played over three rounds.&lt;br/&gt;&lt;br/&gt;On each round:&lt;br/&gt;&lt;br/&gt;On player takes the yellow pawn and places it in front of him. He is the initial player of the current round and makes the first move. Game continues with every player moving a pawn alternatively.&lt;br/&gt;&lt;br/&gt;During his turn, a player must move a pawn according to the following rules: pawns can be moved to an adjacent free socket or else jump (in any direction) over a pawn of whatever color onto a free socket behind it. The enemy destination sockets can not be used for jumping. Consecutive jumps are also allowed and the jump direction can be changed as desired during a series of consecutive jumps.&lt;br/&gt;&lt;br/&gt;Important: the target sockets must be always accessed orthogonally, i.e., moving the pawn from a socket orthogonally adjacent to a destination socket or else jumping over an occupied socket orthogonally adjacent to the landing destination socket.&lt;br/&gt;&lt;br/&gt;Pawns that have reach a destination socket cannot move any longer.&lt;br/&gt;&lt;br/&gt;Game end and rating:&lt;br/&gt;&lt;br/&gt;The round is over when a player has placed all his pawns in his destination sockets. If this player was the starting player, his opponent can make and additional move. Therefore, it is possible that all pawns from both players have reached the corresponding destination fields at the end of the round.&lt;br/&gt;&lt;br/&gt;Any player whose pawns are all placed in his destination field receives points according to the distribution of his pawns:&lt;br/&gt;&lt;br/&gt;1 point: 5 pawns are on one side of the destination field, 3 pawns on the other side,&lt;br/&gt;&lt;br/&gt;2 points: 4 pawns are on each side without symmetrical arrangement,&lt;br/&gt;&lt;br/&gt;3 points: 4 pawns are on each side with symmetrical arrangement.&lt;br/&gt;&lt;br/&gt;At the end of the third round, whoever wins the most points is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/V5XR4aFBuo9iy_y1QO0MWZhnLQw=/fit-in/200x150/pic1502982.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Kt1p3kmg45XvUaF4dELB5B25Qh0=/0x0/pic1502982.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="2407">Clemens Gerhards</boardgamepublisher>
+															<boardgameversion objectid="190515">Clemens Gerhards&#039; Die Mini&#039;s Edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamefamily objectid="10072">Halma</boardgamefamily>
+															<boardgamedesigner objectid="1726">Frank Stark</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>5.4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.8</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

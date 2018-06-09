@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136750" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Atari STE</name>
+									
+			<description>In late 1989, Atari released the 520STE and 1040STE (also written STE), enhanced version of the ST with improvements to the multimedia hardware and operating system. It featured an increased color palette of 4096 colors from the ST's 512 (though the maximum displayable palette of these without programming tricks was still limited to 16 in the lowest 320x200 resolution, and even fewer in higher resolutions), Genlock support, and a graphics co-processor chip called Blitter, which could quickly move large blocks of data (most particularly, graphics sprites) around in RAM. It also included a new 2-channels digital sound chip that could play 8-bit stereo samples in hardware at up to 50 kHz. Two enhanced joystick ports (EJP) were added (two normal joysticks could be plugged into each port with an adaptor), with the new connectors placed in more easily accessed locations on the side of the case. The enhanced joystick ports were re-used in Atari's Jaguar console, and are compatible. RAM was now much more simply upgradable via SIMMs. Despite all of this, it still ran at 8 MHz.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Atari ST&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwversion objectid="195965">Atari 1040STE</videogamehwversion>
+															<videogamehwversion objectid="195964">Atari 520STE</videogamehwversion>
+															<videogamehwmfg objectid="11465">Atari, Inc.</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehardware objectid="4976" inbound="true">Atari ST</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

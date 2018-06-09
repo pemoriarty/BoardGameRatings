@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="132410">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Kink</name>
+									
+			<description>from the designer's website:&lt;br/&gt;&lt;br/&gt;The new game is called Kink.  The idea is simple: it's a basic N-in-a-row game where the row is allowed to have a single bend in it.  Put another way, the row can change direction once, anywhere along it's length.  The angle of the bend formed can be right, or obtuse, but not acute.&lt;br/&gt;&lt;br/&gt;The introduction of a Kink has two effects which I believe will make the game richer and more strategic (consistent with my experience of the first few plays):&lt;br/&gt;&lt;br/&gt;1. The number of degrees of freedom in the winning pattern is much higher for Kink than for the equivalent standard N-in-a-row game.&lt;br/&gt;   2. The number of stones in a row required for winning must be larger.&lt;br/&gt;&lt;br/&gt;To write the rule set, I modified the rules to Connect 6, which is to my mind the most canonical (and one of the best) N-in-a-row games.&lt;br/&gt;&lt;br/&gt;Kink is a game for 2 players, played with a Go set.&lt;br/&gt;&lt;br/&gt;1. The board begins empty.  One player owns the black stones and the other owns the white.&lt;br/&gt;   2. To begin, Black places a single stone on any empty space.&lt;br/&gt;   3. From then on, starting with White, each player places 2 stones per turn.&lt;br/&gt;   4. The first player to form a row of 9-in-a-row wins.  The row may have up to one Kink in it, which may form a right or obtuse angle (but not an acute angle).  Rows may run both orthogonally and diagonally.&lt;br/&gt;&lt;br/&gt;Note: I don't yet know if 9 is the right number.  If it's not 9, it's probably 8.  Play with it and report back here with insight.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BhjTrRdYiQ5GaJAWrRyd_-xflDg=/fit-in/200x150/pic1452880.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/H-9LLYuChWeLHgbspWOcRm4cjos=/0x0/pic1452880.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="7958">Nick Bentley</boardgamedesigner>
+															<boardgameversion objectid="185073">First edition</boardgameversion>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

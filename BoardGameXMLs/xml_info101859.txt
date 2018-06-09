@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="101859">
+			<yearpublished>1950</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">Danish Quarto</name>
+							<name primary="true" sortindex="1">Quarto</name>
+									
+			<description>The game consists of two phases, a placement phase followed by a movement phase.  The two players White and Black each have twelve pieces.&lt;br/&gt;&lt;br/&gt;PLACEMENT PHASE:&lt;br/&gt;Beginning with White, the players alternate placing one of  their twelve pieces on one of the 37 crossing points on the board.&lt;br/&gt;Once all pieces have been placed, the movement phase begins.  A piece can be captured during this phase (see below).&lt;br/&gt;&lt;br/&gt;MOVEMENT PHASE:&lt;br/&gt;The players alternate moving one of their pieces to an adjacent and empty crossing point.  A piece can be captured during this phase (see below).  If a player has only 4 remaining pieces, they are allowed to move their piece to any empty crossing point.&lt;br/&gt;&lt;br/&gt;QUADRATES:&lt;br/&gt;A quadrate occurs when a piece is placed such that the 4 corners of a square are occupied by that player's pieces.  Quadrates come in 6 different sizes.  To form a quadrate, a player must have their pieces on all 4 corners of a square composed of either 2,4,8,16,18, or 32 triangles.&lt;br/&gt;&lt;br/&gt;The table below indicates the number of possible quadrates composed of a given number of triangles:&lt;br/&gt;&lt;br/&gt;No. of Triangles/No. of Quadrates&lt;br/&gt;2 - 24&lt;br/&gt;4 - 12&lt;br/&gt;8 - 13&lt;br/&gt;16 - 5&lt;br/&gt;18 - 4&lt;br/&gt;32 - 1&lt;br/&gt;&lt;br/&gt;For any of the larger quadrates (8,16,18,32), the quadrate is invalid if there is an opposing piece on any position along the side.Only friendly or empty positions are allowed along the edges (sides) of a quadrate.&lt;br/&gt;&lt;br/&gt;CAPTURE:&lt;br/&gt;If after placing a piece, a quadrate is formed, the player can remove an opponent piece which does not itself form a quadrate with 3 other pieces.&lt;br/&gt;&lt;br/&gt;Once a player has only 3 remaining pieces, they lose the game.  If the same position occurs 3 times, then the game is declared a draw.&lt;br/&gt;&lt;br/&gt;Notes:&lt;br/&gt;o In rare cases, all of a player's pieces may be trapped thus requiring the player to pass.&lt;br/&gt;o Danish Quarto has some similiarities to the Morris family of European board games, but also shares important features of a Chinese game named `Fang`&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QZMeqIYnhE4oqu5ZSy6GWwtwklc=/fit-in/200x150/pic1027072.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uz6iUjwWGvqvPg0RfCLecsBPJks=/0x0/pic1027072.png</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="4612">Drechsler</boardgamepublisher>
+															<boardgameversion objectid="106377">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamefamily objectid="4219">Morris</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameartist objectid="10176">Greg Schmidt</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>6.19231</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.29405</stddev>
+					<median>0</median>
+					<owned>27</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>6</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

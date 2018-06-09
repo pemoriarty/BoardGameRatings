@@ -1,0 +1,84 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="105582" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Eliza</name>
+							<name  sortindex="1">ELIZA/DOCTOR</name>
+							<name  sortindex="1">Radio Shack Presents Eliza</name>
+									
+			<description>ELIZA is a computer program and an early example of primitive natural language processing. ELIZA operated by processing users' responses to scripts, the most famous of which was DOCTOR, a simulation of a Rogerian psychotherapist. Using almost no information about human thought or emotion, DOCTOR sometimes provided a startlingly human-like interaction. ELIZA was written at MIT by Joseph Weizenbaum between 1964 to 1966.&lt;br/&gt;&lt;br/&gt;When the &amp;quot;patient&amp;quot; exceeded the very small knowledge base, DOCTOR might provide a generic response, for example, responding to &amp;quot;My head hurts&amp;quot; with &amp;quot;Why do you say your head hurts?&amp;quot; The response to &amp;quot;My mother hates me&amp;quot; would be &amp;quot;Who else in your family hates you?&amp;quot; ELIZA was implemented using simple pattern matching techniques, but was taken seriously by several of its users, even after Weizenbaum explained to them how it worked. It was one of the first chatterbots in existence.&lt;br/&gt;&lt;br/&gt;Influence on games&lt;br/&gt;&lt;br/&gt;ELIZA had an impact on a number of early computer games by demonstrating additional kinds of interface designs. Don Daglow wrote an enhanced version of the program called Ecala on a PDP-10 mainframe computer at Pomona College in 1973 before writing what was possibly the second or third computer role-playing game, Dungeon (1975) (the first was probably &amp;quot;dnd&amp;quot;, written on and for the PLATO system in 1974, and the second may have been Moria, written in 1975). It is likely that ELIZA was also on the system where Will Crowther created Colossal Cave (Adventure), the 1975 game that spawned the interactive fiction genre. Both these games appeared some nine years after the original ELIZA.&lt;br/&gt;&lt;br/&gt;Response and legacy&lt;br/&gt;&lt;br/&gt;There are many programs based on ELIZA in different programming languages. For example, in 1980, a company called &amp;quot;Don't Ask Software&amp;quot;, founded by Randy Simon, created a version called &amp;quot;Abuse&amp;quot; for the Apple II, Atari, and Commodore PCs, which verbally abused the user based on the user's input. Other versions adapted ELIZA around a religious theme, such as ones featuring Jesus (both serious and comedic) and another Apple II variant called I Am Buddha. The 1980 game The Prisoner incorporated ELIZA-style interaction within its gameplay.&lt;br/&gt;&lt;br/&gt;George Lucas and Walter Murch incorporated an Eliza-like dialogue interface in their screenplay for the feature film THX-1138 in 1969. Inhabitants of the underground future world of THX would retreat to &amp;quot;confession booths&amp;quot; when stressed, and initiate a one-sided Eliza-formula conversation with a Jesus-faced computer who claimed to be &amp;quot;Omm&amp;quot;. David Lodge's novel &amp;quot;Small World&amp;quot; exploits the tendency to anthropomorphize in a series of scenes in which a lonely linguist typing on ELIZA as part of his research starts increasingly to confide a wide range of personal problems to the machine, with the climax coming when a colleague inserts a few actual statements of opinion into ELIZA's responses.&lt;br/&gt;&lt;br/&gt;ELIZA was named after Eliza Doolittle, a working-class character in George Bernard Shaw's play Pygmalion.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;ELIZA&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_OPf3k0O_kfbH7aC9Ec3HN1H7TQ=/fit-in/200x150/pic2557894.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yljFycGPshvQ2RWEycRkR0FYkbE=/0x0/pic2557894.jpg</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogameplatform objectid="10080">Commodore PET/CBM</videogameplatform>
+															<videogamecompilation objectid="241156">Conversational Games, CS-1006</videogamecompilation>
+															<videogamepublisher objectid="2159">Creative Computing</videogamepublisher>
+															<videogamepublisher objectid="38826">Creative Computing Press</videogamepublisher>
+															<videogamecompilation objectid="131776">Golden Oldies: Computer Software Classics, Volume 1</videogamecompilation>
+															<videogameversion objectid="395098">Magazine Type-in edition</videogameversion>
+															<videogamecompilation objectid="247873">More Basic Computer Games</videogamecompilation>
+															<videogametheme objectid="2466">Other</videogametheme>
+															<videogameplatform objectid="23163">Other</videogameplatform>
+															<videogamepublisher objectid="2165">Radio Shack</videogamepublisher>
+															<videogamegenre objectid="2156">Simulation</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5930">TRS-80 Model I/III</videogameplatform>
+															<videogameversion objectid="397288">TRS-80 Type-In Edition</videogameversion>
+															<videogameversion objectid="120095">US Commodore PET</videogameversion>
+															<videogameversion objectid="120094">US TRS-80</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5930" name="trs80" friendlyname="TRS-80 Model I/III Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="10080" name="commodorepetcbm" friendlyname="Commodore PET/CBM Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

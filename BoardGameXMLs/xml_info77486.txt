@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77486">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Bløctagøns</name>
+									
+			<description>Bl&amp;oslash;ctag&amp;oslash;ns (formerly Octess) is played on an octagonal tessellation.  The goal for blue is to connect the blue side of the board with the other blue side of the board.  The goal for green is to do the same with the green sides.&lt;br/&gt;&lt;br/&gt;Players take turns filling in either a blank square or octagon.&lt;br/&gt;&lt;br/&gt;Squares have a special feature.  When two diagonally adjacent squares are filled in with the same color then a bridge between them must be made.  This will split the sandwiched octagon's connection.&lt;br/&gt;&lt;br/&gt;A bridge cannot&lt;br/&gt;&amp;bull; connect to another bridge.&lt;br/&gt;&amp;bull; build over another bridge (or under for that matter).&lt;br/&gt;can&lt;br/&gt;&amp;bull; build over all 3 possible octagon colors (yours/opponents/blank)&lt;br/&gt;must&lt;br/&gt;&amp;bull; be laid when two diagonally adjacent squares are filled in with the same color.  If a placement of a square provides an opportunity for more than one bridge to build then the player must choose exactly one to build.&lt;br/&gt;will&lt;br/&gt;&amp;bull; split the connection when laid over an octagon of the opponents color.&lt;br/&gt;&amp;bull; prevent a split when laid over ones own colored octagon.&lt;br/&gt;&lt;br/&gt;If a bridge is made over a blank octagon then that blank octagon may still be claimed by either player remaining under the bridge.&lt;br/&gt;Once one player has made their connection the other player receives one last turn incase there is an opportunity to sever it.  The pie rule is used to start the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pEOvWWlh5ps-QrgOTokbHzDiElg=/fit-in/200x150/pic775129.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6g4NihGUmlbrj6-NZllMvm55yEw=/0x0/pic775129.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="53892">First edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamedesigner objectid="37258">Daniel Shultz</boardgamedesigner>
+															<boardgameartist objectid="37258">Daniel Shultz</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

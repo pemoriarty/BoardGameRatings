@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="84132">
+			<yearpublished>2004</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>1</playingtime>
+			<minplaytime>1</minplaytime>
+			<maxplaytime>1</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Hyperchess4</name>
+									
+			<description>This 4-dimensional chess variant, using the standard 16 chesspieces and pawns, is played on a 4x4x4x4 board. (A printable 2D version of the board is provided, with coordinate numbers in each square.) This printable gameboard is laid out as a 4x4 arrangement of 16 &amp;quot;levels&amp;quot;, each level being a 4x4 2D chessboard. Alternatively, 4 3D 4x4x4 gameboards set up in a row are usable. The game is available on Zillions, in a version by L Lynn Smith.&lt;br/&gt;&lt;br/&gt;Piece moves are translated as directly as possible from 2D to 4D, with some adaptations for play balance. So a rook now can move not only north-south and east-west, but up-down and side to side, too, for a maximum of 8 possible directions. Bishops move diagonally within each level, and may also move diagonally from level to level, which simplifies the move somewhat, changing the bishop from a fully 4D piece to one that is 2D+2D. This change makes the game much easier to play.&lt;br/&gt;&lt;br/&gt;The knight, on the other hand, rivals the queen in power, because it is the only piece in chess that already moves in 2 dimensions. On a 4x4x4x4 board, it can reach up to 2 dozen spots. The queen combines the moves of rook and bishop, and the king is a one-square queen in movement.&lt;br/&gt;&lt;br/&gt;Pawns are the most changed, moving 1 square &amp;quot;forward&amp;quot; or &amp;quot;sideways&amp;quot; - 6 locations in all, and capturing as it moves. This allows 2 pawns to support each other, a useful feature on &lt;br/&gt;a 4D board.&lt;br/&gt;&lt;br/&gt;The game is won by checkmate, which with the held king rule, can be achieved in the standard fashion, or it can be forced on a bare king by a king and 2 major pieces, from any legal positions on the board. The held king rule allows a king moving onto the other king's current &amp;quot;level&amp;quot; to pin the enemy king in that level. This solves a major problem in higher dimensional chess, that of mating the opponent on a 4D board, which has so many ways to escape.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/C0YsTCPupgGz-gu6uKfuh_6bXqA=/fit-in/200x150/pic1763432.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cTdS68DWY8W4fJAt-CEwQ51papg=/0x0/pic1763432.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																													<boardgamedesigner objectid="37621">Joe Joyce</boardgamedesigner>
+															<boardgameversion objectid="67978">Second Edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

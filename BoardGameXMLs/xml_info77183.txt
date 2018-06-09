@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77183" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Karateka (1984)</name>
+							<name  sortindex="1">Karateka Classic</name>
+									
+			<description>Karateka is a 1984 computer game by Jordan Mechner, the creator of Prince of Persia. Karateka was Mechner's first hit game, and was designed while he was attending Yale University. The game was renowned at the time for its realistic animations. In the United States, Karateka was published by Br&amp;oslash;derbund. Various versions were licensed to Ariolasoft for publication in Europe.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Karateka (video game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ovvL4sayxWG1zdW45WS3tLlWQgs=/fit-in/200x150/pic907502.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/g29He-L1QBV17hp5VIbqJKVYf7w=/0x0/pic907502.jpg</image>
+						
+												<videogamedeveloper objectid="3320">(Unknown)</videogamedeveloper>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="53352">Apple II edition</videogameversion>
+															<videogameplatform objectid="4418">Atari 7800</videogameplatform>
+															<videogameversion objectid="77265">Atari 8-bit edition</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogamegenre objectid="2342">Beat &#039;em Up</videogamegenre>
+															<videogamedeveloper objectid="3674">Broderbund</videogamedeveloper>
+															<videogamepublisher objectid="3674">Broderbund</videogamepublisher>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="54991">Commodore 64 edition</videogameversion>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogamedeveloper objectid="25354">Ibid, Inc.</videogamedeveloper>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogameversion objectid="209642">iPhone/iPad edition</videogameversion>
+															<videogameversion objectid="136555">JP Famicom edition</videogameversion>
+															<videogameseries objectid="22701">Karateka</videogameseries>
+																						<videogamedeveloper objectid="25206">Karateka, LLC</videogamedeveloper>
+															<videogamepublisher objectid="25206">Karateka, LLC</videogamepublisher>
+															<videogametheme objectid="2493">Martial Arts</videogametheme>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="91581">US Atari 7800 edition</videogameversion>
+															<videogameversion objectid="117868">US DOS edition</videogameversion>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>41</usersrated>
+					<average>6.49146</average>
+					<bayesaverage>5.93403</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2790" bayesaverage="5.93403" />
+												
+							
+														<rank type="family" id="4418" name="atari7800" friendlyname="Atari 7800 Rank" value="15" bayesaverage="6.12728" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="145" bayesaverage="6.19185" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="161" bayesaverage="6.02664" />
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="275" bayesaverage="6.10869" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="372" bayesaverage="6.11986" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="63" bayesaverage="6.02241" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="91" bayesaverage="6.02854" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="102" bayesaverage="6.14444" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="79" bayesaverage="6.0563" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="94" bayesaverage="6.083" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="279" bayesaverage="6.09618" />
+												
+											</ranks>
+					
+					<stddev>1.65514</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>5</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

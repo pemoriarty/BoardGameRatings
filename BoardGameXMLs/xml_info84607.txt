@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="84607" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">NES Advantage</name>
+							<name  sortindex="1">NES-026</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;NES-026: Arcade-style joystick controller, with oversized A and B buttones, adjustable turbo controls, and a slow-motion button.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/3rFws5Q7xO_d_InNb58r92sAcsg=/fit-in/200x150/pic1635393.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-4q0pIJugI6R77uA3KKFt-5LcGs=/0x0/pic1635393.jpg</image>
+						
+												<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehwversion objectid="68772">NES Advantage</videogamehwversion>
+															<videogamehwmfg objectid="1326">Nintendo Co., Ltd.</videogamehwmfg>
+															<videogamehardware objectid="4430" inbound="true">NES</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>17</usersrated>
+					<average>7.4</average>
+					<bayesaverage>7.10231</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="48" bayesaverage="7.10231" />
+												
+											</ranks>
+					
+					<stddev>1.59263</stddev>
+					<median>0</median>
+					<owned>38</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

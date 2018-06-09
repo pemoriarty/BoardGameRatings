@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="99695">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">TAU</name>
+									
+			<description>TAU is a simple 2 player abstract strategy game that can be played with a marker and a piece of paper.&lt;br/&gt;&lt;br/&gt;It is played on a rectangular grid of n x m squared cells (n can be equal to m). Both players must agree on the grid size before the game starts.&lt;br/&gt;&lt;br/&gt;There are 2 phases on the game:&lt;br/&gt;&lt;br/&gt;1- Negotiation phase&lt;br/&gt;&lt;br/&gt;A random player starts by telling a number. Then the other player must tell a higher one or pass. The process is repeated until one of the players passes.&lt;br/&gt;&lt;br/&gt;The player that 'passed' is called 'LOW', and the other player is called 'HIGH'. Write down the last number reached during the negotiation. This number is the called 'LIMIT'.&lt;br/&gt;&lt;br/&gt;Example:&lt;br/&gt;&lt;br/&gt;A: 70&lt;br/&gt;B: 120&lt;br/&gt;A: 143&lt;br/&gt;B: Passes&lt;br/&gt;&lt;br/&gt;A is 'HIGH', B is 'LOW' and LIMIT = 143&lt;br/&gt;&lt;br/&gt;2- Playing phase&lt;br/&gt;&lt;br/&gt;The game is played in turns. Each game lasts a number of turns equal to (m+n)/3 rounded up. A turn is considered a player's move (not 2 players).&lt;br/&gt;&lt;br/&gt;Starting with 'HIGH' players take alternate turns removing an entire row or column of cells from the grid, by drawing a line on it. The line must go through at least one square which doesn't already have a line. It is forbidden to draw a line so that it leaves the board with no 'unremoved' cells remaining.&lt;br/&gt;&lt;br/&gt;When all the turns have been played, the game ends.&lt;br/&gt;&lt;br/&gt;Scoring&lt;br/&gt;&lt;br/&gt;Several rectangular groups of 'unremoved' cells have been created. Multiply the size of all the groups to calculate the score.&lt;br/&gt;&lt;br/&gt;Example:&lt;br/&gt;&lt;br/&gt;The following groups have been created: 1,1,2,2,3,6. Score= 1 x 1 x 2 x 2 x 3 x 6 = 72&lt;br/&gt;&lt;br/&gt;If the final score is higher than LIMIT, the 'HIGH' player wins. Otherwise, 'LOW' wins.&lt;br/&gt;&lt;br/&gt;Designer notes&lt;br/&gt;&lt;br/&gt;TAU was evolved from OMEGA while teaching my students how to multiply in binary base. It uses Linkage's fewer/more idea. I recommend starting with boards of m+n = 20..30. Trivial sizes might be interesting only from a mathematical point of view. I recommend the shortest side to be at least 1/3rd of the longest one. Squared boards are particularly interesting.&lt;br/&gt;&lt;br/&gt;Thank you, Russ Williams and Nathan Morse for the corrections.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tGmBtgzmDOwz8itKGOrQxx1Ymlo=/fit-in/200x150/pic1009170.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mWLC4JpK3VYa0VBY4o-zlUg8S5s=/0x0/pic1009170.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="100793">Frist edition</boardgameversion>
+															<boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.55903</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="127364">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Komorów (fan expansion to Ticket to Ride)</name>
+									
+			<description>Wsiąść do Pociągu: Komor&amp;oacute;w is based on Ticket to Ride M&amp;auml;rklin Edition rules, but it's a little bit expanded. Generally all rules are the same (like in the TTR:ME) with one exception. There are four special &amp;quot;WKD&amp;quot; routes. When claiming such route the player has to throw a D6 dice and draw the corresponding number of cards from the deck. Now analogously to the tunnels, the player has to discard from his hand the adequate number of cards.&lt;br/&gt;&lt;br/&gt;This game is made available as a print and play expansion for Ticket to Ride and may not be produced for commercial reasons.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cEwKK2Sfl3MT-aYh9zGACgmxy1A=/fit-in/200x150/pic1358331.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aztqKD3hNmBXWPUvLWPECZ1v8Qw=/0x0/pic1358331.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamedesigner objectid="62675">Bartosz Chlebicki</boardgamedesigner>
+															<boardgamefamily objectid="10317">Country: Poland</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="2687">Fan Expansion</boardgamecategory>
+															<boardgameversion objectid="171124">First edition</boardgameversion>
+															<boardgamedesigner objectid="61886">Łukasz Gralak</boardgamedesigner>
+															<boardgameartist objectid="61887">Jakub Gralak</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="61885">Maciej Krzyżanowski</boardgamedesigner>
+															<boardgameartist objectid="61885">Maciej Krzyżanowski</boardgameartist>
+															<boardgameartist objectid="61884">Mariusz Majkusiak</boardgameartist>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="17">Ticket to Ride</boardgamefamily>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamecategory objectid="1097">Travel</boardgamecategory>
+															<boardgamedesigner objectid="61850">Paulina Wiszniewska</boardgamedesigner>
+															<boardgameartist objectid="61850">Paulina Wiszniewska</boardgameartist>
+															<boardgameexpansion objectid="9209" inbound="true">Ticket to Ride</boardgameexpansion>
+															<boardgameexpansion objectid="14996" inbound="true">Ticket to Ride: Europe</boardgameexpansion>
+															<boardgameexpansion objectid="21348" inbound="true">Ticket to Ride: Märklin</boardgameexpansion>
+															<boardgameexpansion objectid="31627" inbound="true">Ticket to Ride: Nordic Countries</boardgameexpansion>
+															<boardgameexpansion objectid="119637" inbound="true">Zug um Zug: Deutschland</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>6.94167</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.43571</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>13</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

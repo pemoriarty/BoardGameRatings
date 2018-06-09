@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="92701" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">MICROTAN 65</name>
+									
+			<description>The Tangerine Microtan 65 (sometimes abbreviated M65) was a 6502 based single board microcomputer, first sold in 1979, which could be expanded into, what was for its day, a comprehensive and powerful system. The design became the basis for what later became the ORIC, ATMOS and later computers, which had similar keyboard addressing and tape I/O as in the Microtan 65. The Microtan 65 had a single step function that could be used for debugging at the hardware level. The computer was available as ready-built boards or as kits consisting of board and components requiring soldering together.&lt;br/&gt;&lt;br/&gt;The Microtan 65 was intended as a general purpose microcomputer which could be used by laboratories, Original Equipment Manufacturers (OEM)s and the computer enthusiast, and it was designed with expandability in mind. In this way the customer could customise the system, be it as a specialised control system, as a learning tool, or as a general purpose computing device.&lt;br/&gt;&lt;br/&gt;Price of the Microtan 65 board in 1981 was &amp;pound;79.35 (inc. VAT) in kit form or &amp;pound;90.85 ready-assembled. The system was not generally available in the shops, one of the few stockists at the time being Henry's Radio of Edgware Road, London.&lt;br/&gt;&lt;br/&gt;The Microtan 65 was quite simple by today's standards, with:&lt;br/&gt;&lt;br/&gt;an NMOS 6502 CPU running at 750 kHz clock rate&lt;br/&gt;1K byte of RAM, used both for display memory and user programs&lt;br/&gt;1K byte of ROM for the monitor program (not even called an operating system)&lt;br/&gt;video logic and a television RF modulator, for the 16 rows of 32 characters display&lt;br/&gt;a software scanned hexadecimal keypad&lt;br/&gt;an optional ASCII keyboard&lt;br/&gt;&lt;br/&gt;The major advance that the Microtan 65 had over a lot of the competition at that time was that the video display was flicker free. At the time a lot of microcomputers would either access the screen memory asynchronously to the video timing (causing flicker and splats on the screen), or would write to the screen memory during a non-display period (which was slow). The Microtan 65 got over this problem by making use of a major feature of the 6502. The 6502 (unlike most other CPUs) has a regular period in each instruction cycle when all CPU activity is inside the chip, leaving the external memory available without using complex external arbitration logic. This made video display design simpler and meant that video accesses could be made at maximum speed. This technique is also used on the ORIC and ATMOS computers.&lt;br/&gt;&lt;br/&gt;The 32&amp;times;16 characters was the reason that the 6502 was clocked at 750 kHz. To get the circuitry to work at a (nearly) standard video rate meant that the pixel clock had to be 6 MHz. When the Microtan 65 was designed only a 1 MHz 6502 was available, and so 750 kHz was used (6 MHz divided by 8).&lt;br/&gt;&lt;br/&gt;The 1K byte monitor program (later increased to a 2K) was called TANBUG. The software facilities were rudimentary:&lt;br/&gt;&lt;br/&gt;M = Memory modify / examine&lt;br/&gt;L = List a block of memory&lt;br/&gt;G = Go command (Run a program)&lt;br/&gt;R = Registers display / modify&lt;br/&gt;S = set Single step mode&lt;br/&gt;N = set Normal mode (cancel S command)&lt;br/&gt;P = Proceed command (execute next instruction in Single step mode)&lt;br/&gt;B = set Breakpoints&lt;br/&gt;O = calculate Offset for use in branch instructions&lt;br/&gt;C = Copy a block of memory&lt;br/&gt;&lt;br/&gt;The Microtan 65 memory map is shown below ($ representing a hexadecimal memory address):&lt;br/&gt;&lt;br/&gt;$0000 Zero Page&lt;br/&gt;$0100 Stack&lt;br/&gt;$0200 Screen RAM&lt;br/&gt;$0300&lt;br/&gt;$0400 End of Microtan 65 RAM - map continued from $0400 to $0700 as RAM on TANEX&lt;br/&gt;$8000 I/O&lt;br/&gt;$C000&lt;br/&gt;$F800 TANBUG V2&lt;br/&gt;$FFFF&lt;br/&gt;The screen memory occupies the space between $200 and $3FF. In addition to the standard 8 bits of screen RAM, there was an additional single bit RAM shadowing the $200 to $300 space. This was configured as a 9th bit write-only plane, and was used by the Microtan 65 for rudimentary, or &amp;quot;chunky&amp;quot;, graphics. Setting the 9th bit displayed a Minitel type block graphic.&lt;br/&gt;&lt;br/&gt;The display is 32 characters across by 16 lines down, with memory address $200 representing the top left hand displayed character, $220 the second row, etc. The character representation is standard ASCII. Several pieces of Microtan 65 software write to the bottom line by writing to memory starting at $3E0 - the leftmost character on the bottom line, rather than vectoring through TANBUG.&lt;br/&gt;&lt;br/&gt;I/O in the Microtan 65 is decoded into a 16 KB space to simplify the hardware. In fact the 1 KB of RAM is mirrored through the bottom 32 KB, the I/O through the next 16 KB, and the EPROM through the top 16 KB. If you added an expansion board (see TANEX below) the decoding was modified and the wasted space reclaimed.&lt;br/&gt;&lt;br/&gt;In common with other 6502 designs, I/O is mapped into the memory space. There is no dedicated I/O space as on the Z80, 8086 etc. The I/O ports are (when fully decoded):&lt;br/&gt;&lt;br/&gt;Write to $BFF0 Clear Keyboard Flag (Keyboard would generate an IRQ)&lt;br/&gt;Read from $BFF0 Turn Graphics On (enables &amp;quot;9th bit&amp;quot; graphics writes)&lt;br/&gt;Write to $BFF1 Used by the hardware single step&lt;br/&gt;Write to $BFF2 To write a scan pattern to the hex keypad (if fitted)&lt;br/&gt;Write to $BFF3 Turn off Graphics (disable &amp;quot;9th bit&amp;quot; graphics writes)&lt;br/&gt;Read From $BFF3 Read Keyboard Port (either keypad or ASCII keyboard)&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Microtan 65&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="84965">MICROTAN 65</videogamehwversion>
+															<videogamehwmfg objectid="13912">Tangerine Computer Systems</videogamehwmfg>
+															<videogamehardware objectid="4350" inbound="true">Test Platform</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

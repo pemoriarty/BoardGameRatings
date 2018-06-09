@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="79575" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Oric-1</name>
+									
+			<description>With the success of the Sinclair ZX Spectrum Tangerine's backers suggested a home computer and Tangerine formed Oric Products International Ltd to develop and release the Oric-1 in 1983. Based on a 1 MHz 6502A CPU, it came in 16 KB or 48 KB RAM variants for &amp;pound;129 and &amp;pound;169 respectively, matching the models available for the popular ZX Spectrum and undercutting the price of the 48K Spectrum by a few pounds. Both Oric-1 versions had a 16 KB ROM containing the operating system and a modified BASIC interpreter.&lt;br/&gt;&lt;br/&gt;The Oric-1 improved somewhat over the Spectrum with a different keyboard design replacing the Spectrum's renowned &amp;quot;dead flesh&amp;quot; one. In addition the Oric had a true sound chip, the programmable GI 8912, and two graphical modes handled by a semi-custom ASIC (ULA) which also managed the interface between the processor and memory. The two modes were a LORES text only mode (though the character set could be redefined to produce graphics) with 28 rows of 40 characters and a HIRES mode with 200 rows of 240 pixels above three lines of text. Like the Spectrum, the Oric-1 suffered from attribute clash&amp;mdash;albeit to a lesser degree in HIRES mode, when a single row of pixels could be coloured differently from the one below in contrast to the Spectrum, which applied foreground and background color in 8 x 8 pixel blocks. As it was meant for the home market, it had a built in television RF modulator as well as RGB output and was meant to work with a basic audio tape recorder to save and load data. Error-checking of recorded programs was bugged, frequently causing user-created programs to fail when loaded back in. A nice feature was an almost standard (except for the connector) Centronics printer interface.&lt;br/&gt;&lt;br/&gt;According to the Oric World website (see External links, below), about 160,000 Oric-1s were sold in the UK in 1983 with another 50,000 sold in France (where it was the top-selling machine that year). Although not the 350,000 predicted, it was enough for Oric International to be bought out by Edenspring and given &amp;pound;4m in funding.&lt;br/&gt;&lt;br/&gt;In 1983 the first communications software for both the Oric 1 and Oric Atmos were produced (Oricoms and Atcoms). This software, written by John Henry Patrick Rushton and accompanying manual (Written by Trevor F Shaw) - both of Telford, Shropshire - utilised the 6522 ACIA (Asynchronous Communications Interface Adaptor which served as a I/O port controller for the 6502 family of microprocessors). This software (the first of its type for the Oric series of computers and indeed one of the early pioneers of home computer communications) enabled the Oric 1 and Atmos to communicate with Prestel (a fore-runner of the Internet-which used Ceefax style graphics), with Bulletin Boards and facilitated the transfer of files from one Oric/Atmos to another, via the public telephone system. The transfer speeds being either 300 or 1200 baud (this could occur at both full and half duplex). John H P Rushton was later - in the spring of 1984- to produce the first (for the Oric 1 and Atmos) 'true' high resolution Computer Aided Design utilities (C.A.D.) known as Oricad and Atcad respectively.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Oric-1,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwversion objectid="58285">16K Oric-1</videogamehwversion>
+															<videogamehwversion objectid="196436">48K Oric-1</videogamehwversion>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwmfg objectid="13912">Tangerine Computer Systems</videogamehwmfg>
+															<videogamehardware objectid="6975" inbound="true">Oric</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

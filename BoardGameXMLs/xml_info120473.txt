@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120473">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Loose</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Loose is a finite territory game for two players: Black and White. It's played on the intersections (points) of an odd-sized, initially empty square board. Both players must have access to a sufficient number of stones colored black on one side and white on the other.&lt;br/&gt;&lt;br/&gt;The goal of the game is having the most stones on the board when both players have passed. Loose features surround capture, like Go, but surrounded stones are flipped instead of removed, and a natural, game-defining mechanism is used to favour (rather than ensure) eye creation upon captures. Since no stones are ever removed from the board, cycles are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;In this rules, adjacent always means orthogonally adjacent.&lt;br/&gt;&lt;br/&gt;A group is a set of like-colored, adjacent stones.&lt;br/&gt;&lt;br/&gt;A liberty is an empty point adjacent to a group. A false liberty is an empty point which is adjacent to at least one stone of each color and no empty points. Liberties which are not false are true.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Starting with Black, the players take turns placing stones with their color showing on empty points of the board, one stone per turn.&lt;br/&gt;&lt;br/&gt;After a placement, all enemy groups with no true liberties are flipped, i.e. all the stones in them are turned round to show the player's color, after which the turn ends.&lt;br/&gt;&lt;br/&gt;At the end of a turn, every group on the board must have at least one true liberty. Otherwise, the move is illegal and the player must choose another one.&lt;br/&gt;&lt;br/&gt;Players can pass their turn at any moment. When both players pass in succession, the game ends, and the one with the highest score wins.&lt;br/&gt;&lt;br/&gt;A player's score is the number of stones with his color showing that there are on the board, plus a komi (see below) in the case of White. In the event of a tie, whoever made the last move loses.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Komi&lt;br/&gt;&lt;br/&gt;The komi is the even number of points which are added to White's score at the end of the game as a compensation for playing second. Before the game starts, the first player tells his opponent the even number which will be used as komi, and then the second player chooses which color to play.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Author's notes&lt;br/&gt;&lt;br/&gt;A very interesting, non-obvious feature of Loose is that, assuming that players will only pass their turn when there are no more useful moves available, the game will never end in a tie. In Go, ties can occur if there is an odd number of empty points in seki, but seki patterns in Loose always involve an even number of them. The tie-break rule is just included to make the game theoretically drawless, rather than just in practice.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YS3lmxiZxN_-3VC4Ndjka0CehRY=/fit-in/200x150/pic1248186.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yyopjEDKRfwvUXQDftZ-4rBpCLg=/0x0/pic1248186.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="153938">First edition</boardgameversion>
+																						<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+																						<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.09839</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

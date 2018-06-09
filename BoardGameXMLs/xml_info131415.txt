@@ -1,0 +1,141 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="131415">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Eclipse: Pulsar</name>
+							<name  sortindex="1">Eclipse: Pulsar Expansion</name>
+									
+			<description>The Pulsar is a rotating neutron star, born from a collapsing Supernova. Its regular pulse can help with your tactical timing.&lt;br/&gt;&lt;br/&gt;The expansion contains two Pulsar sector hexes and one Nova Burst Discovery Tile.&lt;br/&gt;&lt;br/&gt;The two Pulsar hexes are shuffled with the other Outer Sector hexes before building the Outer Sector stack. The Discovery Tile is Shuffled with the other Discovery Tiles.&lt;br/&gt;&lt;br/&gt;When you place your Influence Disc on the hex (when Exploring or later on with the Influence action), place the disc on the Move action space on the hex. Once per round, you may activate the Pulsar instead of taking a normal Action. When activating the Pulsar, move the Influence Disc to either of the two free action spaces (for example, from the Move action to the Build or Upgrade action) and take that action. The actions are weaker versions of the regular actions (one Move, one Build, one Upgrade), same as the normal Reactions. The Pulsar may not be used after you have passed. You may not place more than one Influence Disc on the Pulsar.&lt;br/&gt;&lt;br/&gt;When you collect the Nova Burst tile, place it next to your Player Board. The Nova Burst may be activated by removing the tile from the game before the battle begins or at any time during a battle when it is your turn in Initiative order. This causes 1 damage to every opposing Ship in the battle. The tile is worth 1VP if still held at the end of the game. The Magellan do not receive their species bonus for the Nova Burst if it is removed from the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/HQ33y-lmF2uQVPm4lMqdy5prfck=/fit-in/200x150/pic2047783.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gTlutf1mjHHM5sh3azyYqh24nJE=/0x0/pic2047783.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamefamily objectid="21459">Eclipse</boardgamefamily>
+															<boardgameaccessory objectid="140119">Eclipse: Expanded Tray</boardgameaccessory>
+															<boardgameaccessory objectid="139862">Eclipse: Population Cube Acrylic Tray</boardgameaccessory>
+															<boardgameaccessory objectid="139943">Eclipse: Population Cube Acrylic Tray (set of 3)</boardgameaccessory>
+															<boardgameaccessory objectid="139944">Eclipse: Population Cube Acrylic Tray (Set of 6)</boardgameaccessory>
+															<boardgameaccessory objectid="139945">Eclipse: Population Cube Acrylic Tray (Set of 9)</boardgameaccessory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="182764">First edition</boardgameversion>
+															<boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameartist objectid="32143">Sampo Sikiö</boardgameartist>
+															<boardgamecategory objectid="1113">Space Exploration</boardgamecategory>
+															<boardgamedesigner objectid="13000">Touko Tahkokallio</boardgamedesigner>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameexpansion objectid="72125" inbound="true">Eclipse</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>642</usersrated>
+					<average>7.69924</average>
+					<bayesaverage>6.2799</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.2799" />
+												
+											</ranks>
+					
+					<stddev>1.29416</stddev>
+					<median>0</median>
+					<owned>2798</owned>
+					<trading>63</trading>
+					<wanting>89</wanting>
+					<wishing>237</wishing>
+					<numcomments>169</numcomments>
+					<numweights>32</numweights>
+					<averageweight>3.5312</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

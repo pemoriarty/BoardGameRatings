@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77815" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Gradius</name>
+							<name  sortindex="1">Nemesis</name>
+									
+			<description>The Gradius games, first introduced in 1985, make up a series of scrolling shooter video games published by Konami for a variety of portable, console and arcade platforms. In many games in the series, the player controls a ship known as the Vic Viper.&lt;br/&gt;&lt;br/&gt;Originally released as an arcade game, and later ported to other platforms. It is known to exist on the following platforms: NES/Famicom, MSX, PC Engine, Sega Saturn, PlayStation, Sharp X68000, certain mobile phones, and computer (Saturn, PlayStation and computer versions are all packaged with Gradius 2 as Gradius Deluxe Pack), as well as a re-release of the NES version for Virtual Console). The PC Engine version was also released on the PlayStation Network. In some territories, Gradius was released under the name Nemesis.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Gradius,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/EWvVK2g51s9O2UpydJrNprhCgEM=/fit-in/200x150/pic3896550.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/boBMxJuYfzv7Lji_dcrREdpGfyM=/0x0/pic3896550.jpg</image>
+						
+												<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="165095">English/European Game Boy edition</videogameversion>
+															<videogameplatform objectid="4422">Game Boy</videogameplatform>
+															<videogameseries objectid="5103">Gradius</videogameseries>
+															<videogamefranchise objectid="5380">Gradius</videogamefranchise>
+															<videogamecompilation objectid="148409">Gradius Collection</videogamecompilation>
+															<videogameversion objectid="82326">Japanese MSX edition</videogameversion>
+															<videogameversion objectid="112097">Japanese TurboGrafx-16 edition</videogameversion>
+															<videogamedeveloper objectid="1288">Konami</videogamedeveloper>
+															<videogamepublisher objectid="1288">Konami</videogamepublisher>
+															<videogamecompilation objectid="133584">Konami Classics Series: Arcade Hits</videogamecompilation>
+															<videogameseries objectid="28071">Konami Silver Box</videogameseries>
+															<videogamecompilation objectid="248495">Konami&#039;s Arcade Collection</videogamecompilation>
+															<videogameplatform objectid="5134">MSX</videogameplatform>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameplatform objectid="5857">Nintendo 3DS</videogameplatform>
+															<videogameversion objectid="209094">Nintendo 3DS Virtual Console (NES) edition</videogameversion>
+															<videogameversion objectid="231192">Nintendo 3DS Virtual Console (TurboGrafx-16) edition</videogameversion>
+															<videogamedeveloper objectid="1326">Nintendo Co., Ltd.</videogamedeveloper>
+															<videogameversion objectid="84470">North American Arcade edition</videogameversion>
+															<videogameversion objectid="54482">North American NES edition</videogameversion>
+															<videogamegenre objectid="2346">Scrolling</videogamegenre>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogameplatform objectid="4725">TurboGrafx-16</videogameplatform>
+															<videogameplatform objectid="4441">Wii</videogameplatform>
+															<videogameplatform objectid="10763">Wii U</videogameplatform>
+															<videogameversion objectid="225085">Wii U Virtual Console (NES) edition</videogameversion>
+															<videogameversion objectid="151190">Wii Virtual Console (NES) edition</videogameversion>
+															<videogameversion objectid="112098">Wii Virtual Console (TurboGrafx-16) edition</videogameversion>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogame objectid="133584" inbound="true">Konami Classics Series: Arcade Hits</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>52</usersrated>
+					<average>6.9925</average>
+					<bayesaverage>6.36678</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1326" bayesaverage="6.36678" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="49" bayesaverage="6.8254" />
+														<rank type="family" id="4422" name="gameboy" friendlyname="Game Boy Rank" value="35" bayesaverage="6.759" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="42" bayesaverage="6.84902" />
+														<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="160" bayesaverage="6.64596" />
+														<rank type="family" id="4725" name="turbografx16" friendlyname="TurboGrafx-16 Rank" value="11" bayesaverage="6.73066" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="42" bayesaverage="6.8645" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="28" bayesaverage="6.85586" />
+														<rank type="family" id="5134" name="msx" friendlyname="MSX Rank" value="20" bayesaverage="6.89551" />
+														<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="82" bayesaverage="6.79172" />
+														<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="115" bayesaverage="6.76458" />
+												
+											</ranks>
+					
+					<stddev>1.26856</stddev>
+					<median>0</median>
+					<owned>55</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>9</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

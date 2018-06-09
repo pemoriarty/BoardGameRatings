@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="119856">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Button Up!</name>
+									
+			<description>1814: Napoleon Buttonaparte and General Ludwig Von York Buttonburg wage a war without mercy, and a new battle is about to begin. The armies are deployed, awaiting orders to move, and in both headquarters the same speech is being presented: &amp;quot;For you, Buttons, the goal is clear: End up on top!&amp;quot; Soon the battle will commence, with each general trying to use the available spies as well as he possibly can to dominate the final battlefield.&lt;br/&gt;&lt;br/&gt;As you might guess from the punny names, Button Up! is a non-serious look at combat during war &amp;ndash; so non-serious, mind you, that the pieces are buttons, none of which are eliminated due to sucking chest wounds during play. In fact, Button Up! is an abstract game in which players try to manipulate the button troops to score more points than the opponent.&lt;br/&gt;&lt;br/&gt;To set up each round of the game, randomly arrange nine buttons in a circle: three red for Buttonaparte, three black for Von York Buttonburg, and three neutral white spies. On a turn, the active player takes one stack that contains a spy, then distributes that stack clockwise one button at a time, with the buttons coming off the bottom of the stack as they're placed. Thus, the first move is a single white button being placed on its neighbor to the left; if that stack is moved on the second turn, the bottom button is placed on its left neighbor, then the white button on top placed to the left of that. If the last button placed matches color with the button it covers, the player who moved it takes another turn. (This doesn't apply if the stack being moved contains more buttons than remaining stacks; in this case, the final buttons are placed on the last stack without rearranging their order.)&lt;br/&gt;&lt;br/&gt;When only one stack remains, the round ends. Each button has strength equal to its height in the stack; players sum their strength, and the player with the most strength earns points equal to the difference between the two sums. If one player now has 15 or more points, he wins; if not, shuffle the buttons and start another round with the player who has the fewest points going first.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Dhe4Xf2aqQylAsZhQjxS_KSXMs0=/fit-in/200x150/pic1229819.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nxK6ANLf1sDidPaV09X2cdsm_-A=/0x0/pic1229819.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="5022">Blue Orange (EU)</boardgamepublisher>
+															<boardgameartist objectid="51033">Cyril Bouquet</boardgameartist>
+															<boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																																																									<boardgameversion objectid="152438">Multilingual first edition</boardgameversion>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>128</usersrated>
+					<average>5.5832</average>
+					<bayesaverage>5.50844</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11904" bayesaverage="5.50844" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="613" bayesaverage="5.57744" />
+												
+											</ranks>
+					
+					<stddev>1.44697</stddev>
+					<median>0</median>
+					<owned>202</owned>
+					<trading>5</trading>
+					<wanting>2</wanting>
+					<wishing>17</wishing>
+					<numcomments>25</numcomments>
+					<numweights>15</numweights>
+					<averageweight>1.1333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

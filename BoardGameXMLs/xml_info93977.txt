@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="93977" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Fanorona</name>
+									
+			<description>Fanorona is a traditional game from Madagascar, played on a 9x5 board.  It's not just a rectangular grid like chess; the spaces are connected by lines.  Pieces may move only along the lines.  Notice that not all spaces which seem to be adjacent diagonally are actually connected.  This turns out to be important for strategy: a piece can, in essence, hide from another piece, yet stay nearby.&lt;br/&gt;&lt;br/&gt;Pieces may move only along the lines, one step at a time.&lt;br/&gt;&lt;br/&gt;Capture is by approach or withdrawal.  In other words, to capture a piece, you either move into place to be adjacent to it (i.e., so that, if you moved one more step in the same direction, you would be on top of it), or else start out adjacent to it and move away from it (so that, if you had moved in the opposite direction, you would be on top of it).  A piece may not capture both by approach and by withdrawal in the same move; the player must choose.&lt;br/&gt;&lt;br/&gt;When you capture, you're actually capturing a line of pieces, not just one: all the opponent pieces in the same direction, up until a blank space or one of your pieces.&lt;br/&gt;&lt;br/&gt;After each capture, if the same piece can make another capture, it must, provided it is changing direction, and provided it does not cross back on its path (within the same turn, that is).&lt;br/&gt;&lt;br/&gt;If you can make a capture, you must.&lt;br/&gt;&lt;br/&gt;The game is over when all of one player's pieces are gone, or when one player cannot move.&lt;br/&gt;&lt;br/&gt;Source: The Developer Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="1001">(Web published)</videogamepublisher>
+															<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="87966">Android edition</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

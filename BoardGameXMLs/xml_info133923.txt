@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="133923">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Rampart</name>
+									
+			<description>Rampart is an annihilation game in which players grow a set number of groups attempting to capture the opponent's groups. Play starts with black. On his turn a player may either drop a stone of his color or remove a dead enemy group. Players may only legally drop stones adjacent to at least one of their stones already on the board. For boards sized 11x11 and smaller a group is considered dead if any stone within it meets the following criteria.&lt;br/&gt;&lt;br/&gt;a)The stone has no empty points orthogonally adjacent&lt;br/&gt;b)The stone has at least one enemy stone adjacent&lt;br/&gt;&lt;br/&gt;For boards larger than 11x11 only the first criterion applies when determining if a group is dead. You may never remove your own dead groups. If a player has no legal move on his turn he must pass. Passing is otherwise not permitted. The player to remove all opposing groups from the board wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/g0_4sE2kdpAfo9YzZSnt79zOYbY=/fit-in/200x150/pic1483272.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dkP_zvNDS2zbmFYHPVA35-fQhCs=/0x0/pic1483272.png</image>
+						
+												<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamedesigner objectid="38921">Corey Clark</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="188569">First edition</boardgameversion>
+															<boardgameimplementation objectid="134259">Hex Rampart</boardgameimplementation>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.93333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.50365</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

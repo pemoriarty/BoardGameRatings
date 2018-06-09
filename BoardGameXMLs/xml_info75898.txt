@@ -1,0 +1,97 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="75898" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Empire Deluxe</name>
+							<name  sortindex="1">Empire Deluxe Enhanced Edition</name>
+							<name  sortindex="1">Empire Deluxe Internet Edition</name>
+									
+			<description>From Wikipedia&lt;br/&gt;&lt;br/&gt;Empire Deluxe&lt;br/&gt;&lt;br/&gt;In the early 1990s, Mark Baldwin and Bob Rakowsky rewrote the game, calling it Empire Deluxe for DOS, Mac OS, and Windows, released in 1993 with New World Computing as the publisher. Empire Deluxe sustained the old game play of Interstel's version in a standard game, while adding a basic version for beginners, and advanced game with new units such as the Bomber and Armor and maps sizes up to 200x200.&lt;br/&gt;&lt;br/&gt;Empire Deluxe enjoyed great success, and was noted as one of Gamespy's Greatest Games of All Time[9]. But New World Computing eventually stopped publishing the game. Baldwin and Rakowsky retained the copyrights, but in the latter half of the 1990s it was found on abandonware sites, though it still enjoyed a strong community following on the Internet.&lt;br/&gt;&lt;br/&gt;Empire Deluxe was reviewed in 1993 in Dragon #195 by Hartley, Patricia, and Kirk Lesser in &amp;quot;The Role of Computers&amp;quot; column. The reviewers gave the game 4 out of 5 stars.&lt;br/&gt;&lt;br/&gt;A Scenario Disk was produced for Empire Deluxe later in 1993, including a map and scenario statistics tool, a map randomiser tool (as random maps were present in the Interstel version, but lacking from Empire Deluxe), upgrade patches for both DOS and Windows versions and a collection of 38 scenarios (with accompanying maps) from a selection of designers, many of them famous in the games industry including: Will Wright, Jerry Pournelle, Jim Dunnigan, Johnny Wilson (Computer Gaming World editor), Noah Falstein, Gordon Walton, Don Gilman (Harpoon series architect), Dave Menconi (co-founder of the Game Developers Conference) and Trevor Sorensen (Star Fleet series designer) as well as the game's authors Mark Baldwin and Bob Rakosky among others.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yYL6NsdvftVHdOHroRiRVpu3GtU=/fit-in/200x150/pic780377.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gpEEK8QV38iaYnuGInRcK8fEsXM=/0x0/pic780377.jpg</image>
+						
+												<videogamemode objectid="2621">AI Only</videogamemode>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogamemode objectid="2410">Asynchronous Multiplayer</videogamemode>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="94837">EDIE</videogameversion>
+															<videogameseries objectid="6453">Empire</videogameseries>
+															<videogamecompilation objectid="85531">Empire Deluxe Masters Edition</videogamecompilation>
+															<videogameexpansion objectid="83082">Empire Deluxe: Scenarios</videogameexpansion>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+																						<videogamedeveloper objectid="13351">Killer Bee Software</videogamedeveloper>
+															<videogamepublisher objectid="13351">Killer Bee Software</videogamepublisher>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogametheme objectid="2508">Military</videogametheme>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamepublisher objectid="12367">New World Computing</videogamepublisher>
+															<videogameversion objectid="50334">North American DOS Edition</videogameversion>
+															<videogameversion objectid="170435">North American Macintosh edition</videogameversion>
+															<videogameversion objectid="70632">North American Windows edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogametheme objectid="2318">War - Future</videogametheme>
+															<videogametheme objectid="2317">War - Modern</videogametheme>
+															<videogametheme objectid="2273">War - World War II</videogametheme>
+															<videogamedeveloper objectid="13938">White Wolf Productions</videogamedeveloper>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="61990">Windows Downloadable Edition</videogameversion>
+															<videogame objectid="85531" inbound="true">Empire Deluxe Masters Edition</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>15</usersrated>
+					<average>7.96667</average>
+					<bayesaverage>6.02491</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2328" bayesaverage="6.02491" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="103" bayesaverage="6.64081" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="273" bayesaverage="6.46048" />
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="481" bayesaverage="6.19156" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1317" bayesaverage="6.08772" />
+												
+											</ranks>
+					
+					<stddev>1.35974</stddev>
+					<median>0</median>
+					<owned>17</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>2</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

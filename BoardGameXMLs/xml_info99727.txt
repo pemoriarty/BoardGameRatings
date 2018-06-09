@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="99727" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Infiniminer</name>
+									
+			<description>Infiniminer is an open source multi-player block-based sandbox building and digging game, in which the player is a miner searching for minerals by carving tunnels through procedurally generated voxel-based maps and building structures. According to the author Barth, it was based on his earlier game Infinifrag, Team Fortress, and Motherload by XGen Studios.&lt;br/&gt;&lt;br/&gt;Barth wrote InfiniMiner in his spare time and released it in steps of incremental updates during April&amp;ndash;May 2009. It quickly garnered a following on message boards around the internet.&lt;br/&gt;&lt;br/&gt;Infiniminer was originally intended to be played as a team-based competitive game, where the goal is to locate and excavate precious metals, and bring your findings to the surface to earn points for your team. However, as the game gained popularity, players decided it was much more fun to build things than to compete for points.&lt;br/&gt;&lt;br/&gt;Zachtronics discontinued development of the game less than a month after its first release as the result of its source code leak. As Barth had not obfuscated the C# .NET source code of the game, it was decompiled and extracted from the binaries. Hackers modified the code to make mods, but also started making clients that would target vulnerabilities in the game as well as build incompatible game forks that fragmented its user base. Barth who was making the game for free then lost interest and dropped the project as it made development of the game hard to push forward. The source code of Infiniminer is now open and available under an MIT License.&lt;br/&gt;The game is particularly notable as it is the original game that the hit indie game Minecraft is based upon (and subsequently Fortress Craft, CraftWorld and Ace of Spades). The visuals and mechanics of procedural generation and terrain deformation of Minecraft were drawn from Infiminer. According to Minecraft author Markus Persson, after he discovered the Infiniminer, he &amp;quot;decided it was the game he wanted to do&amp;quot;. As a result, if one plays Infiniminer, one can note that the visuals of blocky graphics and carving out voxel blocks as a miner are practically identical.&lt;br/&gt;&lt;br/&gt;As Minecraft became popular, Infiniminer was overshadowed and faded into obscurity. Barth's feelings about Minecraft are complicated. As Minecraft is probably biggest indie game to date in terms of sales, he finds it &amp;quot;flattering&amp;quot;, &amp;quot;cool&amp;quot; and &amp;quot;awesome&amp;quot;, because it was based on something he made.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Zachary Barth&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamegenre objectid="2147">Action</videogamegenre>
+															<videogametheme objectid="2739">Mining</videogametheme>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamegenre objectid="2315">Sandbox</videogamegenre>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="100849">Windows edition</videogameversion>
+															<videogamedeveloper objectid="15910">Zachtronics Industries</videogamedeveloper>
+															<videogamepublisher objectid="15910">Zachtronics Industries</videogamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

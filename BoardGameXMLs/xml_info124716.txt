@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="124716">
+			<yearpublished>1960</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Stapeldammen</name>
+									
+			<description>&lt;br/&gt;Two Variants of &amp;quot;Stapeldammen&amp;quot;&lt;br/&gt;&lt;br/&gt;There are at least two different games called &amp;quot;Stapeldammen&amp;quot; (i.e. &amp;quot;stacking checkers&amp;quot;), which are played in the Netherlands. They are both boardgames of abstract strategy.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Variant I&lt;br/&gt;&lt;br/&gt;Stapeldammen I has been reported to exist at least since the early 1960s, although it may be much older.&lt;br/&gt;&lt;br/&gt;It is played on a 10&amp;times;10 checkers board with 20 pieces each. The goal is to capture or block all pieces of the opponent. The usual rules of International Checkers apply, notably backwards capture and maximum capture.&lt;br/&gt;&lt;br/&gt;But there are three exceptions:&lt;br/&gt;&lt;br/&gt;     Whenever a checker is captured, it is put under the checker capturing. That way stacks are built. A stack belongs to the player who owns the topmost piece, and it moves accordingly. If a stack is captured, then only the topmost piece is removed and it is put at the bottom of the stack capturing.&lt;br/&gt;     There is no promotion. Pieces reaching the back rank stay there unless they can leave it by means of a backwards capture.&lt;br/&gt;     A stack can be captured several times in one capturing move, provided that the capturing stack has captured other pieces in between.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Draws appear to be impossible in Stapeldammen.&lt;br/&gt;&lt;br/&gt;Stapeldammen was an inspiration for Emergo.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     &lt;a target='_blank' href=&quot;http://www.mindsports.nl/&quot; rel=&quot;nofollow&quot;&gt;http://www.mindsports.nl/&lt;/a&gt; - (turn-based)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Variant II&lt;br/&gt;&lt;br/&gt;Stapeldammen II was probably created by Tim ter Kuile in the late 1960s.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;Stapeldammen II is played on a checkered board of 10x10 squares. The left corner square of White must be dark. Each player (either called &amp;quot;White&amp;quot; or &amp;quot;Black&amp;quot;) owns 20 men of his color, either light or dark ones. Initially these men are stacked in twos on the player's first two rows and thus forming stacks. Gameplay proceeds only on the dark squares.&lt;br/&gt;&lt;br/&gt;Black starts. The pieces (single men and stacks alike) may move one square diagonally towards the opponent unto the adjacent square, if it is vacant, until they reach the opponent's back row, where they cannot move any longer (but still capture!). The man on top of a stack determines its ownership. It is not permitted to pass a move.&lt;br/&gt;&lt;br/&gt;You can capture opponent's men, which are on diagonally adjacent squares by leaping over them. The piece performing the capture must land immediately beyond (similar to the short checkers leap) on a vacant square. It is allowed to jump forwards or backwards. Opponent's men that were leaped are taken immediately and are placed beneath the leaping piece so that stacks are formed or increased in height. If a stack is leaped only its upmost man is captured. Capturing must continue as long as possible and the sequence must be taken which captures most. A stack may only be leaped more than once in a turn if another man is captured in-between. Captures have priority over non-capturing moves.&lt;br/&gt;&lt;br/&gt;The game ends when (at his turn) a player is unable to move. Each player receives as many points as he got men on the opponent's back row including opponent's men which are there under his control. Any men that are not on either player's back row are considered to be neutral and are not counted. The player who got more points wins. It is exceedingly rare that both players achieve the same number of points, which would result in a tie.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/AGQd6ZlhSfm5WGQTl33XxHN6DHg=/fit-in/200x150/pic1313323.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6lCEwNdVMX-TlPyl0ItgqDvViGQ=/0x0/pic1313323.png</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgameversion objectid="165599">First edition</boardgameversion>
+															<boardgamepublisher objectid="4563">MindSports</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameartist objectid="4474">Ed van Zon</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>7.28571</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.91373</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>2</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

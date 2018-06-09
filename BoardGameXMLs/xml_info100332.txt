@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="100332" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Atari 2600 Paddle Controller</name>
+							<name  sortindex="1">CX30</name>
+									
+			<description>A paddle is a game controller with a round wheel and one or more fire buttons, where the wheel is typically used to control movement of the player object along one axis of the video screen. A paddle controller rotates through a fixed arc (usually about 330 degrees); it has a stop at each end.&lt;br/&gt;&lt;br/&gt;Atari 2600 Paddle controllers come in pairs both connecting to a single controller port. These controllers also rotate just under one full rotation before hitting a hard stop. Finally, they have a picture of a tennis racquet and the word &amp;quot;paddle&amp;quot; on it. Because two controllers connect to each port and the 2600 has two controller ports, four players simultaneously can play in games that support it.&lt;br/&gt;&lt;br/&gt;Design&lt;br/&gt;&lt;br/&gt;The paddle wheel is usually mechanically coupled to a potentiometer, so as to generate an output voltage level varying with the wheel's angle relative to a fixed reference position. A paddle is thus an absolute position controller. That is, without any previous knowledge, the sensor can be read and the result directly indicates the position of the paddle knob. This is in contrast to a quadrature encoder-based device or &amp;quot;spinner&amp;quot;.&lt;br/&gt;&lt;br/&gt;Games&lt;br/&gt;&lt;br/&gt;Some famous video games using paddles are Pong, Breakout, and Night Driver. The reason for the name paddles for this type of game controller is that the first game that used it, Pong, was a video game simulation of table tennis, whose racquets are commonly called paddles. Even though the simulated paddles appeared on-screen (as small line segments), it was the hand controllers used to move the line segments that actually came to bear the name.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Paddle (game controller)&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0JaBybPx6hcVWb06LJAWtIL1LgI=/fit-in/200x150/pic1056569.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EQlnla_eWc68cLK-jeV7o2n6DD8=/0x0/pic1056569.jpg</image>
+						
+												<videogamehwversion objectid="102141">Atari 2600 Paddle Controller</videogamehwversion>
+															<videogamehwmfg objectid="11465">Atari, Inc.</videogamehwmfg>
+															<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehardware objectid="4416" inbound="true">Atari 2600</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>6.91667</average>
+					<bayesaverage>6.64537</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="76" bayesaverage="6.64537" />
+												
+											</ranks>
+					
+					<stddev>1.36677</stddev>
+					<median>0</median>
+					<owned>33</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

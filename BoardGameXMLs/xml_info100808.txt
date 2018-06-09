@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="100808" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Zen Pinball</name>
+							<name  sortindex="1">Zen Pinball 3D</name>
+							<name  sortindex="1">Zen Pinball HD</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Zen Pinball is a pinball simulator that offers a variety of original tables across multiple platforms.  It offers realistic physics for the tables, including allowing players to manipulate the table itself to have different setups, including changing the tilt of the table and the lag time for the flippers.  It also will display an LED-style screen in the style of classic pinball machines to display animations and video modes during the game.  Its main goal is to be a realistic simulation, to the point of including very few added effects which can be turned off if you want to make the experience as authentic as possible.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail></thumbnail>
+				<image></image>
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="214455">Android edition</videogameversion>
+															<videogameversion objectid="193864">eShop 3DS Downloadable edition</videogameversion>
+															<videogameversion objectid="103368">iOS edition</videogameversion>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogameplatform objectid="5857">Nintendo 3DS</videogameplatform>
+															<videogamegenre objectid="2307">Pinball</videogamegenre>
+															<videogameplatform objectid="4435">PlayStation 3</videogameplatform>
+															<videogameversion objectid="103366">PSN PlayStation 3 Downloadable edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2405">Sports - Other</videogametheme>
+															<videogameexpansion objectid="144510">Star Wars Pinball</videogameexpansion>
+															<videogamedeveloper objectid="13843">Zen Studios</videogamedeveloper>
+															<videogamepublisher objectid="13843">Zen Studios</videogamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>7.25714</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4196" bayesaverage="5.74642" />
+												
+							
+														<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.04041</stddev>
+					<median>0</median>
+					<owned>22</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

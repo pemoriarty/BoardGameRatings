@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="126743" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Lexicominos</name>
+									
+			<description>User Summary:&lt;br/&gt;&lt;br/&gt;The gameplay is similar to Tetris: tetrominos fall from the top and must be rotated and positioned; they stop falling shortly after landing on the bottom or on existing blocks, and a new block, which is displayed in advance to help the player plan, starts to fall from the top; the game is over when a block stops falling before fully entering the playing area. In contrast to Tetris the aim is not to form complete horizontal lines but words, which can read left-to-right or top-to-bottom. Moreover, the behaviour of the remaining blocks after a word is scored is different to Tetris: any block which has become disconnected from the blocks resting on the bottom of the playing area falls again until it lands on the bottom or on existing blocks. At this point a fresh check for words is made.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/TJF333BAf4Nb3GHSuNRAob45z-k=/fit-in/200x150/pic1385974.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/53QNCYquWZHB07woncTuwqlZBtI=/0x0/pic1385974.png</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogamedeveloper objectid="14200">Jagex Ltd</videogamedeveloper>
+															<videogamepublisher objectid="14200">Jagex Ltd</videogamepublisher>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="169831">Web Browser edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

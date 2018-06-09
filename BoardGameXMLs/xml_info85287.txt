@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="85287">
+			<yearpublished>1850</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Thai Checkers</name>
+							<name  sortindex="1">Thaidame</name>
+							<name  sortindex="1">หมาก ฮอส</name>
+									
+			<description>Thai Checkers is a traditional game from the checkers family played in Thailand. &lt;br/&gt;Its rules are often given wrongly, including online gaming sites.&lt;br/&gt;&lt;br/&gt;Thai Checkers is played on an 8x8 board. The board is set up so that the lower left corner is black. Each player has 8 men (ordinary Checkers) which are placed on the black squares of the first two rows. Black starts moving. Only one piece may be moved at a turn. Pieces consist of men and kings.&lt;br/&gt;&lt;br/&gt;Men move and capture as in English Draughts or American Checkers. That means they move and capture diagonally forwards and forwards only. At the end of a move on which they reach the back row, they are promoted to kings.&lt;br/&gt;&lt;br/&gt;Kings move and capture at the long range. It means they can move diagonally forwards and backwards over any number of empty fields. Similarly, they can capture at any distance, if the field directly behind the opposing piece is empty. A king must move to that empty field directly behind the captured piece. Removal of the captured piece is immediate and occurs during the capture, as in Turkish Checkers.&lt;br/&gt;&lt;br/&gt;Capture is enforced. Multiple captures are possible. Maximum capture is not enforced. A player can choose any capturing line he wishes as long as he does not end it while the capturing piece can still do captures. Since removal of captured pieces is immediate and capture is enforced, it can happen that a king immediately reverses direction in a capture.&lt;br/&gt;&lt;br/&gt;The object of the game is to block or capture all pieces of the opponent, leaving him without a legal move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iPI9p42U7H7pfTkFec3trQGEVpk=/fit-in/200x150/pic827433.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/lrUSw59uWHmmhjOQRe1hrXDxC50=/0x0/pic827433.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="10617">Country: Thailand</boardgamefamily>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="70053">Public Domain version</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>6.13846</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.34424</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

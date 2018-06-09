@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="94746">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Coffee</name>
+							<name  sortindex="1">Coffee Masters</name>
+									
+			<description>Coffee is a two-player abstract board game designed by N&amp;eacute;stor Romeral Andr&amp;eacute;s. The goal of the game is to create a line of stones of your color, or to prevent your opponent from making a legal placement of the white rod.&lt;br/&gt;&lt;br/&gt;When placing the rod in a black or orange stone, it looks like a coffee seed. Hence the name Coffee.&lt;br/&gt;&lt;br/&gt;This is what you need in order to play Coffee:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     A hexagonal board with more than 3 cells per side or a square board with more than 4 cells per side (NESTORGAMES version has up to 5 cells per side for the hexagonal board and up to 7 cells per side for the square board).&lt;br/&gt;     A supply of black and orange stones.&lt;br/&gt;     A small white rod.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Black starts by placing a stone in an empty cell, and then placing the white rod on it, pointing in any direction (3 directions for a hexhex board, or 4 for a square board).&lt;br/&gt;&lt;br/&gt;From now on, starting with Orange, players alternate turns first placing a stone in an empty cell in the direction indicated by the rod, and then placing the rod on it, pointing in any direction.&lt;br/&gt;&lt;br/&gt;It is illegal to place the rod so that the next player has no free spaces available.&lt;br/&gt;&lt;br/&gt;The game ends in one of the following cases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     One player wins the game by making a line of &amp;lsquo;n&amp;rsquo; stones of his color (with &amp;lsquo;n&amp;rsquo; being the victory condition).&lt;br/&gt;     One player loses the game because he cannot place the rod in a legal position.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;If both cases happen on the same turn, the first case prevails.&lt;br/&gt;&lt;br/&gt;Notice that ties are not possible.&lt;br/&gt;&lt;br/&gt;The set includes one extra white rod so that 2 couples can play at the same time on the smallest boards.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mgt0N_ZIc7g0caKyy6Due6nqxkM=/fit-in/200x150/pic947564.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oz_myIDFTh--_PBusy6Ed3O-Wh0=/0x0/pic947564.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="46953">Coffee Games</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="89889">First edition</boardgameversion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>47</usersrated>
+					<average>6.94468</average>
+					<bayesaverage>5.54288</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8879" bayesaverage="5.54288" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="414" bayesaverage="5.74782" />
+												
+											</ranks>
+					
+					<stddev>1.41298</stddev>
+					<median>0</median>
+					<owned>43</owned>
+					<trading>2</trading>
+					<wanting>8</wanting>
+					<wishing>23</wishing>
+					<numcomments>28</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.7143</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

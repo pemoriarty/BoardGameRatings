@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="83477">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Heian Shogi</name>
+									
+			<description>From the rules found on pg 15 of &lt;a href=&quot;http://files.boardgamegeek.com/file/download/4obzn970uj/HistoricalChessVariants.pdf?&quot; target=&quot;_blank&quot; class=&quot;postlink&quot; rel=&quot;nofollow&quot;&gt;this document&lt;/a&gt;, a document with citations by Nader Daoud Daou (made free by the author for non-commercial distribution).&lt;br/&gt;&lt;br/&gt;The game is a traditional Japanese game of the chess family which can be played with an international chess set. It is of the shogi branch of the chess family but does not involve drops. Set-up is on the back row identical to international chess &lt;i&gt;except&lt;/i&gt; that king is placed on the center left column for either player so that kings are not facing each other. Pawn however occupy the third rather than the second row.&lt;br/&gt;&lt;br/&gt;For simplicity, I'm using the international chess names of pieces rather than the traditional Japanese names. The king moves one space in any direction but castling does not exist. The queen moves one space in any direction except diagonally backwards. Bishops move either one space diagonally in any direction or one space forward. Knights move only forward in an otherwise normal knight's move so that the piece jumps to a space on either side of the space two rows ahead of its starting position. Rooks move only forward but otherwise like a standard rook. Pawns move only one space forward with no initial two-step move, and all pieces including pawns capture as they move.&lt;br/&gt;&lt;br/&gt;The promotion zone is the last three rows on the board for either player. All pieces except the king and queen promote to the queen. Promotion is optional so long as a piece still has a legal move in its non-promoted state. The promotion happens at the end of the move and the move must either begin or end in the promotion zone.&lt;br/&gt;&lt;br/&gt;The object is to check-mate the opponent's king. Both bared king and stalemate count as a win, but a bared king becomes a draw if the other player can bare one's king in the next move.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="66862">Public Domain edition</boardgameversion>
+															<boardgamefamily objectid="11305">Shogi</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.816497</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

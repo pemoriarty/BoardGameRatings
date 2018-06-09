@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="103184">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="5">Die Gnome von Zavandor</name>
+							<name primary="true" sortindex="5">The Gnomes of Zavandor</name>
+									
+			<description>Welcome to the world of the Gnomes of Zavandor.&lt;br/&gt;&lt;br/&gt;Like most gnomes, you have two great passions: sparkling gems and wondrous machines. &lt;br/&gt;The sought-after gemstones can be found around the mining town of Diamantina. They can be bought and sold at the gem exchange, shady traders are always willing to engage in a little wheeling and dealing, and then you can use the gems to claim valuable mining rights, artifacts and jewellery. Who will become the most successful gem trading mogul?&lt;br/&gt;&lt;br/&gt;Zavandor is a fantasy setting which revolves around a capitalist economy based on trading in gems - sapphires, rubies, mystical gems etc. Other games in the family include Mines of Zavandor, and The Scepter of Zavandor.&lt;br/&gt;&lt;br/&gt;Gnomes of Zavandor features two central boards. The first is a grid with markers indicating the current price of each of the gem types, and also indicating whether the price is going to go up or down next turn. Gems can be bought (or sold) for cash in the first phase of each turn. Buying gems makes them more valuable in subsequent turns; selling them reduces their value, and this is reflected on the grid. These gems can be used to buy tiles from the second board, a star-shaped arena featuring &amp;quot;mining rights&amp;quot; tiles positioned randomly around it. The position on the board indicates the cost to purchase these mining rights; the cost will be a mixed selection of coloured gems. At the end of each turn, players gain new gems according to the mining rights they have acquired and this affects the central economy, generally reducing the value of the relevant gems when they are purchased for hard cash, in future rounds.&lt;br/&gt;&lt;br/&gt;The initial phase of the turn involves buying gems, selling gems, taking gold, trading with the central supply, and purchasing cards and tokens (with gems rather than cash). The items available for purchase include equipment improving your efficiency, jewels providing victory points, and mining rights. The second phase of the turn involves mining for new gems. Each player takes the gems they are allowed according to their mining rights. At the end of each turn, the market values are adjusted according to the actions which have occurred; the price of the available equipment is discounted (this rule is optional); and another area of the star-shaped board becomes accessible with more mining-rights available to purchase in the next round.&lt;br/&gt;&lt;br/&gt;The game continues until one player has reached a victory-point target, dependent on the number of players in the game. Victory points are achieved by purchasing mining-rights, equipment, and most significantly (but also most expensively) jewellery.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/p4ZKoJQgHFDgZo8xwVr4l3VPSh4=/fit-in/200x150/pic1044799.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/M2lWZ1Ho_tDVUYk-4up4D8bT2Ek=/0x0/pic1044799.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="111884">English first edition</boardgameversion>
+																						<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+																						<boardgameversion objectid="111883">German first edition</boardgameversion>
+																																																																							<boardgameaccessory objectid="163410">The Gnomes of Zavandor: Turn Summary Card</boardgameaccessory>
+															<boardgamedesigner objectid="8537">Torsten Landsvogt</boardgamedesigner>
+															<boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+																						<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+															<boardgamefamily objectid="5809">Zavandor</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>395</usersrated>
+					<average>6.57435</average>
+					<bayesaverage>5.77281</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3337" bayesaverage="5.77281" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1205" bayesaverage="5.85689" />
+												
+											</ranks>
+					
+					<stddev>1.21493</stddev>
+					<median>0</median>
+					<owned>1035</owned>
+					<trading>89</trading>
+					<wanting>26</wanting>
+					<wishing>113</wishing>
+					<numcomments>156</numcomments>
+					<numweights>36</numweights>
+					<averageweight>2.5556</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

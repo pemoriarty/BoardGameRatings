@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123045">
+			<yearpublished>2012</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Uncharted: The Board Game</name>
+									
+			<description>Welcome to the world of Uncharted: The Board Game! In this game, you take on the role of a treasure hunter and compete with other players to gain the most Victory Points. The variety of cards that you collect represent skills and items necessary for or sought after by treasure hunters. You can increase your chances of winning by adding useful cards to your play area. Venture into dangerous ruins, search them thoroughly, and defeat waves of enemies to become a legendary treasure hunter!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/fk0SyocKcJvAzHt1-yWQDSWLGlQ=/fit-in/200x150/pic1296939.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CFsuo2Ljb4bmQ1stVfRh_OSH2HE=/0x0/pic1296939.jpg</image>
+						
+																			<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamepublisher objectid="934">Bandai</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="161472">English first edition</boardgameversion>
+																						<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="11089">Hayato Kisaragi</boardgamedesigner>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgameexpansion objectid="131441">Uncharted: The Board Game – Nathan Drake &amp; Victor Sullivan</boardgameexpansion>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>492</usersrated>
+					<average>6.53038</average>
+					<bayesaverage>5.79517</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3170" bayesaverage="5.79517" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1212" bayesaverage="5.85171" />
+												
+											</ranks>
+					
+					<stddev>1.51454</stddev>
+					<median>0</median>
+					<owned>1256</owned>
+					<trading>131</trading>
+					<wanting>30</wanting>
+					<wishing>158</wishing>
+					<numcomments>176</numcomments>
+					<numweights>31</numweights>
+					<averageweight>2.3226</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

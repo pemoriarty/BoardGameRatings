@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="88844">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Cuboid</name>
+									
+			<description>Cuboid is a game of skill for two players, to be played with a set of NestorTiles.  The colours of the tiles are significant, but the numbers are ignored.&lt;br/&gt;&lt;br/&gt;Each player builds a creature (the Oid) by assembling 6 differently coloured tiles to make a cube.&lt;br/&gt;&lt;br/&gt;The remaining 48 tiles are shuffled, and put together randomly to make a 7x7 board, with one gap in the centre.&lt;br/&gt;&lt;br/&gt;Starting with the second player, each player puts their opponent's Oid on the board, in an orientation of their choice.&lt;br/&gt;&lt;br/&gt;The game begins.  In each turn, players perform the following actions, in order, for each Oid they have on the board:&lt;br/&gt;&lt;br/&gt;Eating: if the colour on top of the Oid matches the colour of their tile, the Oid eats that tile.&lt;br/&gt; Movement: the Oid moves in any orthogonal direction, by (a) sliding over any number of adjacent empty spaces, then (b) rolling onto the first tile it encounters. Oids cannot move onto or past other Oids.&lt;br/&gt;&lt;br/&gt;Breeding: if the player's Oids have eaten six tiles, they breed.  Assemble a new Oid, and have the opponent place it on the board next to an adjacent Oid.&lt;br/&gt;&lt;br/&gt;The game ends when no more moves are possible.  The player with the most tiles, either as parts or in Oids, is the winner.&lt;br/&gt;&lt;br/&gt;Cuboid is an entry in the 1st Nestortiles competition, here:&lt;br/&gt;&lt;a target='_blank' href=&quot;http://www.boardgamegeek.com/thread/580556/1st-nestortiles-game-design-contest-by-nestorgames&quot; rel=&quot;nofollow&quot;&gt;http://www.boardgamegeek.com/thread/580556/1st-nestortiles-g...&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Source: author&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="6901">Nestortiles</boardgamefamily>
+															<boardgameversion objectid="77012">Prototype edition</boardgameversion>
+															<boardgamedesigner objectid="11301">Stephen Tavener</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.75</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

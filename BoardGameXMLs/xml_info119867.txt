@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="119867" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">TrackIR</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;TrackIR is an optical motion tracking game controller for Microsoft Windows, created by NaturalPoint. It tracks the motions your head make. Early models only followed up-down and left-right motions (2 Degrees Of Freedom) but since 2004 TrackIR is capable of tracking the full 6DOF. So that's on top of the mentioned 2DOF the possibility to tilt your head sideways, or shift it sideways, shift up or down or shift left-right. &lt;br/&gt;This allows the user to play games with hands-free view control. That both greatly enhances both situational awareness (as it's much easier to look around you) and game immersion (as the camera view responds to your head movements).&lt;br/&gt;&lt;br/&gt;To make it work, the TrackIR comes with a small video camera which you mount on top of your monitor. And it comes with a small device emitting infrared light (hence the name). Of that tool different versions exist and they are either baseball cap mounted, or you can attach them to your headphones, depending on the model you buy.&lt;br/&gt;&lt;br/&gt;The TrackIR comes with it's own software, which allows you to make a specific profiles, so you can use different profiles in different games. Profiles exist of info about how much the camera view should respond to your head movements (so for instance: a slight side look is good for either a 25 degree camera turn, or a full 180) and also info about a 'dead zone' so your camera view won't become jerky due to your slightest head movements.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehwmfg objectid="21755">NaturalPoint</videogamehwmfg>
+															<videogamehwversion objectid="152458">TrackIR 1 - 2DOF</videogamehwversion>
+															<videogamehwversion objectid="152459">TrackIR 2 - 2DOF</videogamehwversion>
+															<videogamehwversion objectid="152460">TrackIR 3 - 2DOF</videogamehwversion>
+															<videogamehwversion objectid="152461">TrackIR 3 - 6DOF expansion</videogamehwversion>
+															<videogamehwversion objectid="152462">TrackIR 4 - 6DOF</videogamehwversion>
+															<videogamehwversion objectid="152463">TrackIR 5 - 6DOF</videogamehwversion>
+																						<videogamehardware objectid="4977" inbound="true">Windows</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>8.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

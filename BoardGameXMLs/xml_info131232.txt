@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="131232">
+			<yearpublished>2012</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Mafia City</name>
+									
+			<description>Bloody hands strangle the city. Beneath the illusion of sophistication there is ever a savage fight for power. As always, the law serves the greedy, corrupt politicians favor the most persuasive, and the local police and feds alike share the profits like so much sweet cake.&lt;br/&gt;&lt;br/&gt;As the head of your Mafia family in Mafia City, you struggle for control of the city against others like yourself. Each part of the city plays a role in your plans. Actions must be swift and merciless. Underestimate no one. One wrong move is unforgiveable.&lt;br/&gt;&lt;br/&gt;Through a shadowy hitman you instill fear &amp;ndash; but around that iron fist, a velvet glove. You must dance the social dance, pulling strings among the elite. Dance well and you'll be well placed to execute your plans with ruthless precision...&lt;br/&gt;&lt;br/&gt;...this city will be yours!&lt;br/&gt;&lt;br/&gt;The goal of Mafia City is to be the first player to gain a certain number of victory points &amp;ndash; that is, proof of your power over the city. Victory points are gained only by controlling locations (i.e., parts of the city). As the head of a mafia clan, each player fights for control over locations by sending his Mafiosi into locations, playing his action cards effectively, using the effects of locations under the players control, and using special characters that appear in the game to his advantage.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OhbEHB30tgsbAHyc3zLVdKpPhA8=/fit-in/200x150/pic1429945.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DMuK05y63gESTM3TMTw0j9yEEx8=/0x0/pic1429945.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamedesigner objectid="64034">Petr Bělík</boardgamedesigner>
+																													<boardgameversion objectid="181783">English/German first edition</boardgameversion>
+															<boardgamedesigner objectid="95075">EULER&#039;S GAME</boardgamedesigner>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1033">Mafia</boardgamecategory>
+																						<boardgameartist objectid="64035">Marek Píza</boardgameartist>
+																																				<boardgamepublisher objectid="18822">Stragoo Games</boardgamepublisher>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>159</usersrated>
+					<average>6.87516</average>
+					<bayesaverage>5.66352</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4574" bayesaverage="5.66352" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1412" bayesaverage="5.71908" />
+												
+											</ranks>
+					
+					<stddev>1.41204</stddev>
+					<median>0</median>
+					<owned>216</owned>
+					<trading>8</trading>
+					<wanting>11</wanting>
+					<wishing>49</wishing>
+					<numcomments>47</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

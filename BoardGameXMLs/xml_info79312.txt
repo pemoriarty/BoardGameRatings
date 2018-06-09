@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="79312">
+			<yearpublished>2010</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Zombie Survival: The Board Game</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;The mysterious event that has animated the dead has also given them an unhealthy hunger for your brains! The only way to survive is to fortify your house and make your stand. How long can you survive?&lt;br/&gt;&lt;br/&gt;In Zombie Survival: The Board Game, you choose your provisions to survive a zombie apocalypse. Each player selects items to place in their house, including weapons, lumber, gas, first aid, etc.&lt;br/&gt;&lt;br/&gt;The second part of the game brings your fears to light as the zombies start heading towards your house, tearing down your barricades and creeping in. You may have a chance to make it to town for some additional supplies, hopefully avoiding the zombies there, leaving your family to defend against the walking dead. Did you prepare for the possible power outage, contaminated water, sickness and fatigue? How long can you feed your family and keep them healthy?&lt;br/&gt; The best prepared will win.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dwxw--u7BIr56ThKAfMBP8uApiM=/fit-in/200x150/pic791427.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mE4MSggc9euQt4U-QX59wxqYP4w=/0x0/pic791427.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameartist objectid="1006">Dave Aikins</boardgameartist>
+															<boardgamedesigner objectid="1005">Todd Breitenstein</boardgamedesigner>
+															<boardgamedesigner objectid="2362">Kerry Breitenstein</boardgamedesigner>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="57753">English first edition</boardgameversion>
+																													<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1024">Horror</boardgamecategory>
+																													<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+																																				<boardgamepodcastepisode objectid="64519">The Gaming Gang Episode 28: Star Fluxx, Grave Business, Zombie Survival, Kill Shot, and Fletcher Pratt’s Naval Wargame</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamepublisher objectid="838">Twilight Creations, Inc.</boardgamepublisher>
+															<boardgameexpansion objectid="116613">Zombie Survival 2: There Goes the Neighborhood!</boardgameexpansion>
+																																				<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>281</usersrated>
+					<average>5.70808</average>
+					<bayesaverage>5.54468</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8748" bayesaverage="5.54468" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="818" bayesaverage="5.55962" />
+												
+											</ranks>
+					
+					<stddev>1.71807</stddev>
+					<median>0</median>
+					<owned>553</owned>
+					<trading>60</trading>
+					<wanting>13</wanting>
+					<wishing>90</wishing>
+					<numcomments>85</numcomments>
+					<numweights>12</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

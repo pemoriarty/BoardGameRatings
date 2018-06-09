@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77301" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Zoop</name>
+									
+			<description>The player controls a triangle in the center of the screen. Every second (or more often in advanced levels), a piece comes in from the side and possibly pushes other pieces forward. Two consecutive pieces will never come in from the same quadrant, and runs of consecutive identical pieces on one row are longer than one might think statistically.&lt;br/&gt;If a piece falls into the center square, the game is over.&lt;br/&gt;If the player shoots a piece of the same color as their triangle, it will be &amp;quot;zooped&amp;quot; (cleared) and points are earned. If the piece behind the target piece is also of the same color, it is also &amp;quot;zooped.&amp;quot; The same goes for the next piece, and so on. In the example, shooting to the left of the position in the screenshot will &amp;quot;zoop&amp;quot; the green pieces and return the player to the center, facing right (the opposite direction).&lt;br/&gt;If a piece of a different color than the player's current piece is shot, the player's piece will switch colors with it. This is also what happens when a piece of a different color is encountered after zooping one or more pieces of the same color. In the example, shooting down would bounce off the orange piece (leaving a green piece behind), and return with the orange piece.&lt;br/&gt;When the quota of &amp;quot;zooped&amp;quot; pieces is met, the game speeds up and (before level 10) the background changes.&lt;br/&gt;Various special pieces do different things:&lt;br/&gt;A proximity bomb (shaped like a lightning bolt) blows up pieces in a 3&amp;times;3 area centered at the target piece.&lt;br/&gt;A line bomb (often shaped like a gear) clears a whole target line of pieces.&lt;br/&gt;A color bomb (often shaped like a paint splotch) clears all the pieces in a quadrant that match the target piece.&lt;br/&gt;Collect five spring pieces to clear the whole screen.&lt;br/&gt;If a piece is pushed right next to the center square, it immediately disappears. In this way, the player may not lose because of a powerup entering the middle square.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Zoop,&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/HW7JqlWq9XdxagaOKf5YBwWJx_c=/fit-in/200x150/pic812964.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rD1BbZPx3RsG_dpyajG50gKS6L4=/0x0/pic812964.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameplatform objectid="4428">Atari Jaguar</videogameplatform>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogamecompilation objectid="94137">Brain Food Games</videogamecompilation>
+															<videogameversion objectid="245350">European Game Boy edition</videogameversion>
+															<videogameplatform objectid="4422">Game Boy</videogameplatform>
+															<videogamedeveloper objectid="13785">Hookstone Productions</videogamedeveloper>
+															<videogameversion objectid="245349">Japanese Game Boy edition</videogameversion>
+															<videogameversion objectid="245348">North American Game Boy edition</videogameversion>
+															<videogameversion objectid="283032">North American SEGA Game Gear edition</videogameversion>
+															<videogamedeveloper objectid="13784">Panelcomp</videogamedeveloper>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogameplatform objectid="4740">SEGA Game Gear</videogameplatform>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4440">SNES</videogameplatform>
+															<videogameversion objectid="53528">US Genesis edition</videogameversion>
+															<videogameversion objectid="97728">US Jaguar edition</videogameversion>
+															<videogameversion objectid="53527">US SNES edition</videogameversion>
+															<videogamepublisher objectid="3724">Viacom International</videogamepublisher>
+															<videogamepublisher objectid="666">Yanoman Corporation</videogamepublisher>
+															<videogame objectid="94137" inbound="true">Brain Food Games</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>5.29167</average>
+					<bayesaverage>5.5</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6076" bayesaverage="5.5" />
+												
+							
+														<rank type="family" id="4422" name="gameboy" friendlyname="Game Boy Rank" value="116" bayesaverage="5.5" />
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="162" bayesaverage="5.31858" />
+														<rank type="family" id="4428" name="jaguar" friendlyname="Atari Jaguar Rank" value="16" bayesaverage="Not Ranked" />
+														<rank type="family" id="4440" name="snes" friendlyname="SNES Rank" value="190" bayesaverage="5.5" />
+														<rank type="family" id="4740" name="segagamegear" friendlyname="SEGA Game Gear Rank" value="40" bayesaverage="5.34009" />
+												
+											</ranks>
+					
+					<stddev>1.73755</stddev>
+					<median>0</median>
+					<owned>27</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

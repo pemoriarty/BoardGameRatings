@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136554">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Rock Me Archimedes</name>
+									
+			<description>Rock Me Archimedes is a two player abstract game requiring both strategy and dexterity.  The game is named after the ancient Greek mathematician, famous for describing the principle of the lever.&lt;br/&gt;&lt;br/&gt;The game consists of: a wooden board affixed to a rounded base, forming a teeter-totter assembly; 14 white marbles and 14 black marbles; and a specially numbered die.  The length of the board is engraved with a grid of spaces in which to fit the marbles, 16 rows of 3 spaces each. The goal of the game is for the winning player to move at least 4 of his marbles to one end of the board without either end of the board touching the table at any time.&lt;br/&gt;&lt;br/&gt;The game begins with no marbles on the board, and the board balanced level.  Each player receives 14 marbles of one color, and chooses one end of the board as his goal.  On the player's move, the player may choose to either place a marble in one of the two central rows of the board, or to roll the die. The die will indicate a number from one to three.  The player may then move any of his marbles already on the board the number of spaces indicated by the die roll.  The player may move a single marble, or split the move between two or more marbles.  Marbles may be moved in any direction except diagonally.  The player may jump the opposing player pieces, but not his own. If at any time during the move either end of the board touches the table, the player loses and the game ends.  Otherwise, the first player to place four of his marbles in his goal spaces (last two rows on the end of the board) wins the game.  The rules also contain several variants of the basic game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/n7fXNv5p1W9YrsJoXNhE_qWE_e0=/fit-in/200x150/pic1546244.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zIMV5bNi0N30KjBMgREy4_Geupo=/0x0/pic1546244.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamedesigner objectid="66302">Matt Buchanan</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="195384">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="21581">Marbles: The Brain Store</boardgamepublisher>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>115</usersrated>
+					<average>5.33565</average>
+					<bayesaverage>5.48187</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13764" bayesaverage="5.48187" />
+												
+											</ranks>
+					
+					<stddev>1.6781</stddev>
+					<median>0</median>
+					<owned>220</owned>
+					<trading>17</trading>
+					<wanting>4</wanting>
+					<wishing>23</wishing>
+					<numcomments>25</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.1667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

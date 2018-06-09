@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="130510">
+			<yearpublished>2012</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>4</playingtime>
+			<minplaytime>4</minplaytime>
+			<maxplaytime>4</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Wings of Lightning</name>
+									
+			<description>Wings of Lightning is a solitaire gamebook that was submitted to the 2012 Solitaire Print and Play contest.  Out of the 49 games submitted, Wings of Lightning won 8th place overall.  It also won the Best Paragraph Game and Best Large Game categories and was first runner-up for Best Sci Fi/Fantasy Game.&lt;br/&gt;&lt;br/&gt;Unlike most gamebooks, Wings of Lightning eschews dice in favor of a system based on poker cards.  The combat system seeks to emulate such video games as God of War, Dante's Inferno, or Shadow of the Colossus. The game takes additional inspiration from the Legend of Zelda game series.&lt;br/&gt;&lt;br/&gt;In Wings of Lightning, you play as Skoros, a soldier of Daleko desperate to defend his city from a massive siege by Ahdeen, the demi-god of deceit and his armies.  Molina, he demi-goddess of lightning, in love with you and desperate to keep you alive, grants a portion of her divine power to you, hopefully making you strong enough to defeat Ahdeen's armies and free your people.&lt;br/&gt;&lt;br/&gt;In combat, you divide a deck of poker cards into 2 smaller decks, one containing all the face cards, the other containing all the number cards.  You use the face cards on your turn and the number cards for the enemy turn.&lt;br/&gt;&lt;br/&gt;On your turn, guess the color (red or black) of the top card of the face card deck and reveal it.  If you guessed the color correctly, add the card to your strike pile.  If you were incorrect, add the card to your maneuver pile.  Continue this process until you decide to stop or until you have cards in your maneuver pile equal to your Speed.&lt;br/&gt;&lt;br/&gt;The number of cards in your strike pile then determines which combo abilities you can activate, as well as the amount of damage you deal to your enemies.  Your maneuver cards are saved and used during the enemy turn to cancel their hits.  But be careful!  If you gain maneuver cards equal to your Speed, you take an automatic hit from the fastest enemy.&lt;br/&gt;&lt;br/&gt;The number cards are used during the enemy turn.  For each enemy, draw a card.  If the number on that card is equal to or less than that enemy's Aim, you take damage from that enemy.  You can prevent this damage if you have a maneuver card of the same suit.&lt;br/&gt;&lt;br/&gt;The contest version is a 78-page gamebook with a very linear storyline.  A post-contest version is in the works that will address some of the problems of the contest version, including weapon balance and replayability.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/agFG09MhXQNPt1-7aLs9kQ6oBWU=/fit-in/200x150/pic1432425.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/utSB5CinTx8eS7wBz0MBT3Up8J4=/0x0/pic1432425.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="179682">First edition</boardgameversion>
+															<boardgamedesigner objectid="45712">E. Nate Kurth</boardgamedesigner>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamefamily objectid="19564">Solitaire Print and Play Contest</boardgamefamily>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.22711</stddev>
+					<median>0</median>
+					<owned>13</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>9</wishing>
+					<numcomments>8</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

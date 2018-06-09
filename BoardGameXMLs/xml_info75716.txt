@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="75716" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Final Fantasy Collection</name>
+									
+			<description>[User Summary]&lt;br/&gt;&lt;br/&gt;A collection of 3 CD's in one box, compiling together the Final Fantasy games IV, V and VI.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamefranchise objectid="4859">Final Fantasy</videogamefranchise>
+															<videogame objectid="68488">Final Fantasy IV</videogame>
+															<videogame objectid="68489">Final Fantasy V</videogame>
+															<videogame objectid="68491">Final Fantasy VI</videogame>
+															<videogameversion objectid="49840">Japanese PlayStation edition</videogameversion>
+															<videogameplatform objectid="4433">PlayStation</videogameplatform>
+															<videogamegenre objectid="2155">RPG</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="11892">Squaresoft</videogamedeveloper>
+															<videogamepublisher objectid="11892">Squaresoft</videogamepublisher>
+															<videogamecompilation objectid="68488" inbound="true">Final Fantasy IV</videogamecompilation>
+															<videogamecompilation objectid="68489" inbound="true">Final Fantasy V</videogamecompilation>
+															<videogamecompilation objectid="68491" inbound="true">Final Fantasy VI</videogamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>9.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

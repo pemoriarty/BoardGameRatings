@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="100193">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Kreuzungen</name>
+									
+			<description>Paper-and-pencil game where from 2 to 4 players aim to score as many points as possible by crossing existing lines of the opponent on an 8x8 board. Each player starts at one edge of the board (the starting field is the second to the right).&lt;br/&gt;&lt;br/&gt;Each turn a player can draw in his colour a straight line crossing orthogonally one or two fields, or a bent line (one field crossed - corner on the next field - one field crossed). Spaces with corners or crossed both vertically and horizontally can't be crossed anymore. For each enemy line crossed a player scores one point. If one player's line can't be continued, they can start from another &amp;quot;free&amp;quot; square at their edge of the board. Play goes on until all players have used up their eight possible starting fields.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="154">Rudi Hoffmann</boardgamedesigner>
+															<boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+															<boardgamedesigner objectid="597">Peter Neugebauer</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamepublisher objectid="16952">Rowohlt Taschenbuch Verlag GmbH</boardgamepublisher>
+															<boardgameversion objectid="101879">Spiele mit Stift und Papier edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.5</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

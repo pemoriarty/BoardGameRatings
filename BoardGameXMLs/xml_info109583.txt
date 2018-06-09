@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="109583">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Aliens and Amazons</name>
+									
+			<description>Played on the The Game of Y board.&lt;br/&gt;&lt;br/&gt;From the website;&lt;br/&gt;&lt;br/&gt;&amp;quot;One player (the Amazons) uses 30 black stones; the other (Aliens) uses just 3 white. Board empty.&lt;br/&gt;&lt;br/&gt;Play:   The players take turns placing one of their stones on any unoccupied node. White (the aliens) plays first. After all 3 white Aliens are on the board, they begin moving. The Amazons do not move until all 30 are on the board. While the Amazons are still being placed, they may be captured and removed from the board by being jumped over by Aliens.&lt;br/&gt;&lt;br/&gt;Moving:   Stones move one unit in any direction along lines to any unoccupied adjacent node. Amazons may not jump over other pieces, either Aliens or Amazons, and may not capture Aliens. An Alien may jump over an Amazon, if the node immediately on the other side of the Amazon on the same straight line is unoccupied, and the jumped-over Amazon is removed from the board. Multiple jumps and captures of Amazons by an Alien are allowed.&lt;br/&gt;&lt;br/&gt;Goals   The object of the Amazons (Black) is to block and immobilize the three white Aliens, thereby winning the game. The object of the Aliens (White) is to capture a sifficient number of Amazons to eliminate the possibility of being blocked and immobilized, thereby winning the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DWViQwjLIIh7fnfW3CjdxaECbYo=/fit-in/200x150/pic1666496.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sn7vIYkSDWWvqIPkcDYlZXGEAGY=/0x0/pic1666496.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="129037">First edition</boardgameversion>
+															<boardgamefamily objectid="4053">Hunt games</boardgamefamily>
+															<boardgamepublisher objectid="459">Kadon Enterprises</boardgamepublisher>
+															<boardgamedesigner objectid="89584">Richard May</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

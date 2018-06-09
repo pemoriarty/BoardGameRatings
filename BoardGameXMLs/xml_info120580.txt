@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120580">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Battleship</name>
+							<name  sortindex="1">Battleship Kartenspiel</name>
+							<name  sortindex="1">Battleship: Amenaza Oculta</name>
+							<name  sortindex="1">Battleship: Bitwa morska – ukryte zagrożenie</name>
+							<name primary="true" sortindex="1">Battleship: Hidden Threat</name>
+									
+			<description>From Hasbro's web site:&lt;br/&gt;&lt;br/&gt;&amp;quot;Brace yourself for search-and-destroy battle intensity as you compete with the enemy to keep your ships afloat. Play peg cards and power cards to find, hit and sink your opponent&amp;rsquo;s fleet of five ships. Each ship has a special power! Choose from beginner or advanced rules for edge-of-your seat excitement.Includes 24 coordinate cards, 52 destruction cards, 4 reference cards and instructions.&amp;quot;&lt;br/&gt;&lt;br/&gt;Game play:&lt;br/&gt;&lt;br/&gt;To begin, each player shuffles and places their twelve Coordinate cards facedown in a 3x4 grid.  They then draw five cards from their Destruction Card deck.  Players take turns playing one card, then re-drawing up to five cards in hand.&lt;br/&gt;&lt;br/&gt;Players can play the following cards:&lt;br/&gt;&lt;br/&gt;1) white peg cards to search for ships in the other player's grid;&lt;br/&gt;&lt;br/&gt;2) red peg cards (of variable strength) that damage revealed ships;&lt;br/&gt;&lt;br/&gt;3) Power cards that have variable abilities.&lt;br/&gt;&lt;br/&gt;In addition, revealed ships guide their players additional powers, allowing for rule-bending changes to the game.&lt;br/&gt;&lt;br/&gt;The first player to eliminate all five of their opponent's ships wins!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The game from 2014 is now part of the Shuffle series of games and now simply called Battleship.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/xdB6xJvtjWKic1_hS6oGiNoL1J0=/fit-in/200x150/pic1245304.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DNJQ88imfw6wi5Ze3kqtIqbO7Pg=/0x0/pic1245304.png</image>
+						
+												<boardgamefamily objectid="7127">Battleship</boardgamefamily>
+															<boardgameimplementation objectid="165283">Battleship</boardgameimplementation>
+																						<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="5215">Cartamundi</boardgamepublisher>
+															<boardgameversion objectid="253103">Cartamundi English edition</boardgameversion>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamedesigner objectid="67645">Dustin DePenning</boardgamedesigner>
+															<boardgameversion objectid="154158">English edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="207285">German edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+																						<boardgameversion objectid="264278">Multilingual (HU/CZ/SK) edition</boardgameversion>
+															<boardgameversion objectid="237251">Polish edition</boardgameversion>
+															<boardgameversion objectid="163822">Portuguese / Spanish edition</boardgameversion>
+																						<boardgamefamily objectid="25842">Shuffle Card Games Series</boardgamefamily>
+															<boardgamepodcastepisode objectid="99539">TDT - Episode # 304 - Artwork in Games</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>190</usersrated>
+					<average>5.94384</average>
+					<bayesaverage>5.5499</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8392" bayesaverage="5.5499" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1394" bayesaverage="5.56735" />
+												
+											</ranks>
+					
+					<stddev>1.40067</stddev>
+					<median>0</median>
+					<owned>520</owned>
+					<trading>30</trading>
+					<wanting>4</wanting>
+					<wishing>9</wishing>
+					<numcomments>72</numcomments>
+					<numweights>21</numweights>
+					<averageweight>1.0952</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76410" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Mega Man</name>
+							<name  sortindex="1">RockMan</name>
+							<name  sortindex="1">RockMan</name>
+							<name  sortindex="1">ロックマン</name>
+									
+			<description>[Wikipedia: &lt;a target='_blank' href=&quot;http://en.wikipedia.org/wiki/Mega_Man_%28video_game%29&quot; rel=&quot;nofollow&quot;&gt;http://en.wikipedia.org/wiki/Mega_Man_%28video_game%29&lt;/a&gt;]&lt;br/&gt;&lt;br/&gt;Mega Man, known as Rockman​ (ロックマン?) in Japan, is a video game developed and published by Capcom for the Nintendo Entertainment System (NES). It is the first game in the original Mega Man series and the entire Mega Man franchise.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4AZDCG-ukHq4J0JEBXoBRjPCVTo=/fit-in/200x150/pic791112.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gbUqHFS01KEwKQH15p-D7mPplGQ=/0x0/pic791112.jpg</image>
+						
+												<videogamedeveloper objectid="4358">Capcom Co., Ltd.</videogamedeveloper>
+															<videogamepublisher objectid="4358">Capcom Co., Ltd.</videogamepublisher>
+															<videogamefranchise objectid="28199">Capcom Grid Series (Early Capcom NES Games, US)</videogamefranchise>
+																						<videogameversion objectid="233428">Japanese Playstation edition</videogameversion>
+															<videogamefranchise objectid="5502">Mega Man</videogamefranchise>
+															<videogameseries objectid="4778">Mega Man (Core Series)</videogameseries>
+															<videogamecompilation objectid="80455">Mega Man Anniversary Collection</videogamecompilation>
+															<videogamecompilation objectid="194469">Mega Man Legacy Collection</videogamecompilation>
+															<videogamecompilation objectid="79457">Mega Man: The Wily Wars</videogamecompilation>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameplatform objectid="5857">Nintendo 3DS</videogameplatform>
+															<videogameversion objectid="210924">Nintendo 3DS Virtual Console edition</videogameversion>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogameplatform objectid="4433">PlayStation</videogameplatform>
+															<videogameplatform objectid="4435">PlayStation 3</videogameplatform>
+															<videogameplatform objectid="10373">PlayStation Vita</videogameplatform>
+															<videogameversion objectid="233429">PSN PSOne Classics edition</videogameversion>
+															<videogameplatform objectid="4432">PSP</videogameplatform>
+															<videogamecompilation objectid="94515">Rockman Collection Special Box</videogamecompilation>
+															<videogamecompilation objectid="94464">Rockman Complete Works</videogamecompilation>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="51570">US NES edition</videogameversion>
+															<videogameplatform objectid="4441">Wii</videogameplatform>
+															<videogameplatform objectid="10763">Wii U</videogameplatform>
+															<videogameversion objectid="208412">Wii U Virtual Console (NES) edition</videogameversion>
+															<videogameversion objectid="51571">Wii Virtual Console (NES) edition</videogameversion>
+															<videogame objectid="80455" inbound="true">Mega Man Anniversary Collection</videogame>
+															<videogamebg objectid="150811" inbound="true">Mega Man: The Board Game</videogamebg>
+															<videogamebg objectid="182387" inbound="true">Mega Man: The Board Game – Time Man &amp; Oil Man</videogamebg>
+															<videogame objectid="79457" inbound="true">Mega Man: The Wily Wars</videogame>
+															<videogame objectid="94515" inbound="true">Rockman Collection Special Box</videogame>
+															<videogame objectid="94464" inbound="true">Rockman Complete Works</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>130</usersrated>
+					<average>6.71531</average>
+					<bayesaverage>6.36897</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1322" bayesaverage="6.36897" />
+												
+							
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="78" bayesaverage="6.59547" />
+														<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="149" bayesaverage="6.48915" />
+														<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="161" bayesaverage="6.51454" />
+														<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="417" bayesaverage="6.46865" />
+														<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="194" bayesaverage="6.50984" />
+														<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="109" bayesaverage="6.59279" />
+														<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="114" bayesaverage="6.46231" />
+														<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="143" bayesaverage="6.58244" />
+												
+											</ranks>
+					
+					<stddev>1.46661</stddev>
+					<median>0</median>
+					<owned>119</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>7</wishing>
+					<numcomments>23</numcomments>
+					<numweights>3</numweights>
+					<averageweight>4.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,80 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="122206" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Mass Effect 3: From Ashes</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;The first downloadable content expansion for Mass Effect 3, From Ashes delves a bit deeper into the story of the Protheans, the race wiped out by the Reapers 50,000 years ago.  A new squad member is introduced, and new costumes for the other squad members are included.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamegenre objectid="2339">Action RPG</videogamegenre>
+															<videogamedeveloper objectid="11776">BioWare</videogamedeveloper>
+															<videogamepublisher objectid="11469">Electronic Arts Inc. (EA)</videogamepublisher>
+															<videogamefranchise objectid="38234">Mass Effect</videogamefranchise>
+															<videogameseries objectid="4759">Mass Effect (Core Series)</videogameseries>
+															<videogamecompilation objectid="130905">Mass Effect 3: Special Edition</videogamecompilation>
+															<videogameplatform objectid="4435">PlayStation 3</videogameplatform>
+															<videogameversion objectid="231000">PlayStation 3 PSN edition</videogameversion>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="231001">Windows Downloadable edition</videogameversion>
+															<videogameplatform objectid="4407">Xbox 360</videogameplatform>
+															<videogameversion objectid="159346">Xbox 360 XBL edition</videogameversion>
+															<videogameexpansion objectid="102345" inbound="true">Mass Effect 3</videogameexpansion>
+															<videogame objectid="130905" inbound="true">Mass Effect 3: Special Edition</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>35</usersrated>
+					<average>7.11429</average>
+					<bayesaverage>6.24502</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1608" bayesaverage="6.24502" />
+												
+							
+														<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="371" bayesaverage="6.50547" />
+														<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="401" bayesaverage="6.50527" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="853" bayesaverage="6.40303" />
+												
+											</ranks>
+					
+					<stddev>1.75697</stddev>
+					<median>0</median>
+					<owned>94</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>7</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

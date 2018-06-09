@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="127990">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Spred</name>
+									
+			<description>Spred is a LOT derivative for Shibumi. It features a simple ball-removal game mechanism that makes loops impossible, but at the same time, produces potentially long games in a very small playing area. An average game lasts 45-50 turns.&lt;br/&gt;&lt;br/&gt;Two players (White and Black) start with a supply of 8 red balls each.&lt;br/&gt;&lt;br/&gt;The board starts empty. Players take alternate turns placing a ball of their colour (White or Black, not red) on an empty position.&lt;br/&gt;&lt;br/&gt;If, after a player's move, there is at least one straight line of three connected* balls (touching) of their colour (the lines can be orthogonal or across levels), the player does the following:&lt;br/&gt;&lt;br/&gt;1. Chooses any of those lines of three.&lt;br/&gt;2. Removes the maximum number of movable balls from that line. This means that the player must find out the correct order to remove them so he removes the most. Balls may drop as a result of these removals.&lt;br/&gt;3. Places one RED ball of their supply on any of the empty spaces that composed the removed line.&lt;br/&gt;&lt;br/&gt;The game ends when a player runs out of red balls or there are no more available moves, whatever happens first. The player with less red balls in hand wins.&lt;br/&gt;&lt;br/&gt;(*)- Note that flat diagonal lines are not connected!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/oGvag3HWr3hcMqyylbVePUumy6E=/fit-in/200x150/pic1370249.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZwhrpQV9VU_jbL-xneF50yDmrpo=/0x0/pic1370249.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="172835">First edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamefamily objectid="13434">Shibumi</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.55903</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="78061" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Solomon No Kagi</name>
+							<name primary="true" sortindex="1">Solomon&#039;s Key</name>
+							<name  sortindex="1">ソロモンの鍵 王女リヒタの涙</name>
+									
+			<description>[User summary]&lt;br/&gt;&lt;br/&gt;Each level is a room as big as a screen (no scrolling).&lt;br/&gt;You have to leave the room before the time runs out, but initially the only door to do so is closed: you have to get the key first and only then reach the door.&lt;br/&gt;You may create or destroy blocks adjacent to you.&lt;br/&gt;Each room has already placed blocks, indestructible blocks, several enemies with different behaviours (static, respawning, patrolling, walking along the edges of the blocks, etc.) and a lot of bonuses (one-shot fires able to kill enemies, extra lives, extra score, etc.).&lt;br/&gt;Your goal is to leave all the rooms before losing all your &amp;quot;lives&amp;quot;.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JpggS8e8cYtr9vy955JcD9I1kEA=/fit-in/200x150/pic1562416.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KdPUW5MoY6saPQnNxpchafm3owY=/0x0/pic1562416.png</image>
+						
+												<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="55016">Arcade edition</videogameversion>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="130819">English/European Amstrad CPC Cassette edition</videogameversion>
+															<videogameversion objectid="130818">English/European Amstrad CPC Disk edition</videogameversion>
+															<videogameversion objectid="266526">EU Commodore 64 release</videogameversion>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogameversion objectid="68952">Japanese Famicom edition</videogameversion>
+															<videogameexpansion objectid="106478">Monster Rancher Explorer</videogameexpansion>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameplatform objectid="5857">Nintendo 3DS</videogameplatform>
+															<videogameversion objectid="211008">Nintendo 3DS Virtual Console (NES) edition</videogameversion>
+															<videogameversion objectid="55015">North American Commodore 64 edition</videogameversion>
+															<videogameversion objectid="68951">North American NES edition</videogameversion>
+															<videogamegenre objectid="2164">Platform</videogamegenre>
+															<videogamedeveloper objectid="12547">Probe Entertainment</videogamedeveloper>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameseries objectid="7445">Solomon&#039;s Key</videogameseries>
+															<videogameversion objectid="130820">Spanish Amstrad CPC Cassette edition</videogameversion>
+															<videogamecompilation objectid="106508">Tecmo Classic Arcade</videogamecompilation>
+															<videogamedeveloper objectid="11830">Tecmo, Ltd.</videogamedeveloper>
+															<videogamepublisher objectid="11830">Tecmo, Ltd.</videogamepublisher>
+															<videogamepublisher objectid="11989">U.S. Gold Ltd</videogamepublisher>
+															<videogameplatform objectid="4441">Wii</videogameplatform>
+															<videogameplatform objectid="10763">Wii U</videogameplatform>
+															<videogameversion objectid="208238">Wii U Virtual Console (NES) edition</videogameversion>
+															<videogameversion objectid="187275">Wii Virtual Console edition</videogameversion>
+															<videogame objectid="106508" inbound="true">Tecmo Classic Arcade</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>7.03125</average>
+					<bayesaverage>5.87681</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3152" bayesaverage="5.87681" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="90" bayesaverage="6.5502" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="89" bayesaverage="6.46881" />
+														<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="281" bayesaverage="6.18755" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="77" bayesaverage="6.54699" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="53" bayesaverage="6.5333" />
+														<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="130" bayesaverage="6.4007" />
+														<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="168" bayesaverage="6.35417" />
+												
+											</ranks>
+					
+					<stddev>1.82405</stddev>
+					<median>0</median>
+					<owned>26</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

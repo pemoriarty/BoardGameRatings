@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="107113" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Magic Square</name>
+									
+			<description>The game is played on a 3x3 grid of buttons that are either on or off. By pushing the buttons, you can toggle whether they are on or off. The object is to form a &amp;quot;magic square,&amp;quot; which is achieved when all but the center button in the grid are &amp;quot;on.&amp;quot;&lt;br/&gt;&lt;br/&gt;The catch is that pushing a button affects the state of other buttons. If you push a button on a side, not only will that button's state be toggled, but the two other buttons on that side will be toggled as well. If you push a button in a corner, it and the three buttons adjacent to it (the two side buttons next to it along with the center button) will be toggled as well. If you push the center button, the center button and all four side buttons will be toggled.&lt;br/&gt;&lt;br/&gt;The game will start with a random button configuration. Some may be trivial to solve, while others may be harder.&lt;br/&gt;&lt;br/&gt;Source: The Game Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WZf1HqMHxwDBp2YIFYJ2SRUge9U=/fit-in/200x150/pic1084318.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/er0kV212JDFbFsFNuDyg1Q7uE0U=/0x0/pic1084318.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameversion objectid="123283">Browser edition</videogameversion>
+																						<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamedeveloper objectid="18171">RinkWorks</videogamedeveloper>
+															<videogamepublisher objectid="18171">RinkWorks</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

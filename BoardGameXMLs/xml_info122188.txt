@@ -1,0 +1,84 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="122188">
+			<yearpublished>1994</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">1D 4 Gewinnt</name>
+							<name  sortindex="1">1D Connect Four</name>
+							<name  sortindex="1">Eindimensionales 4 Gewinnt</name>
+							<name primary="true" sortindex="1">One-Dimensional Connect Four</name>
+									
+			<description>This is the traditional Connect Four, but played in just one dimension or line. Originally proposed by Angus Lavery in a Games and Puzzles magazine in 1994, the only known source as of now is an instructables article by &amp;quot;Kiteman&amp;quot;&lt;br/&gt;The game consists of a line of 10 tokens in 2 colors that are arranged alternately. On her turn a player takes 3 tokens out of that line from any position and puts them back at any end of the line in the order they were taken. At least one token of the players color must be among these 3 tokens. The gap is closed by pushing the tokens back together. The goal of the game is, as in the original connect four, to form a line of 4 tokens of your color.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/POhWfspcmg6vpZgwW-JrgLLMIeQ=/fit-in/200x150/pic1264550.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OByNcyWIzxIBYs-27STOsLjQ54c=/0x0/pic1264550.jpg</image>
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="159287">Games&amp;Puzzles article release</boardgameversion>
+																						<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>1</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

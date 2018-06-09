@@ -1,0 +1,101 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76452" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">RoadBlasters</name>
+									
+			<description>From Wikipedia&lt;br/&gt;&lt;br/&gt;The object of the game is to complete all 50 rallies without running out of fuel. There is no limit to how many vehicles a player can receive to complete a rally, as long as they have fuel. However, the destruction of the vehicle will subtract a small amount from the player's fuel tank. Players could start the game at a higher rally, with additional opportunities to jump several levels from time to time. Players can continue their game from where they left off, however the player has only one chance to complete the 50th and final rally. For completing the final rally the player gets one million points as bonus.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pFB_cFPXC-VSfA0Cm_CvA9XM5J4=/fit-in/200x150/pic1561376.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rLdQedKjDbh97VGwZ0w_6Az0mQc=/0x0/pic1561376.png</image>
+						
+												<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameversion objectid="51672">Amiga Edition</videogameversion>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameversion objectid="51669">Amstrad CPC Edition</videogameversion>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="51665">Arcade Edition</videogameversion>
+															<videogamecompilation objectid="90542">Arcade&#039;s Greatest Hits: The Atari Collection 2</videogamecompilation>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameversion objectid="51673">Atari ST Edition</videogameversion>
+															<videogamedeveloper objectid="11465">Atari, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="51671">Commodore 64 Edition</videogameversion>
+															<videogametheme objectid="2456">Driving</videogametheme>
+															<videogameversion objectid="51667">Genesis Edition</videogameversion>
+															<videogameplatform objectid="4429">Lynx</videogameplatform>
+															<videogameversion objectid="51668">Lynx Edition</videogameversion>
+															<videogamecompilation objectid="77268">Midway Arcade Treasures</videogamecompilation>
+															<videogamepublisher objectid="2337">Mindscape Games</videogamepublisher>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="51666">NES Edition</videogameversion>
+															<videogamegenre objectid="2154">Racing</videogamegenre>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="51670">ZX Spectrum Edition</videogameversion>
+															<videogame objectid="90542" inbound="true">Arcade&#039;s Greatest Hits: The Atari Collection 2</videogame>
+															<videogame objectid="77268" inbound="true">Midway Arcade Treasures</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>6.66429</average>
+					<bayesaverage>5.81243</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3652" bayesaverage="5.81243" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="180" bayesaverage="6.17145" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="125" bayesaverage="6.32474" />
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="108" bayesaverage="6.30595" />
+														<rank type="family" id="4429" name="lynx" friendlyname="Lynx Rank" value="4" bayesaverage="6.71569" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="117" bayesaverage="6.28745" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="130" bayesaverage="6.22529" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="61" bayesaverage="6.497" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="88" bayesaverage="6.27736" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="70" bayesaverage="6.32931" />
+												
+											</ranks>
+					
+					<stddev>1.22801</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

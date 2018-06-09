@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123966">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">System: The Customisable Hacker Game</name>
+									
+			<description>System is a Player Versus Player card game on which Player's take on the role of hackers and try to take control over their Opponent's System Cards via damaging them by battling on the plains of cyberspace with the use of Virus cards while defending from their opponent's attacks with their own anti-Virus cards.&lt;br/&gt;&lt;br/&gt;A Player starts with a Memory value of 0. During the start of a Player's turn they may play (upload) Anti-Virus Cards that increase a Player's Memory value while on the field and or Virus cards that decrease a Player's Memory value while active on the field. If anytime during the game, a player's Memory value is below 0, then they must send their active Virus cards from their field to the discard pile until their Memory value is restored to at least 0, if not higher.&lt;br/&gt;&lt;br/&gt;In addition to Anti-Virus and Virus Cards, Players may also use &amp;quot;Input&amp;quot; costs which have a Memory Cost and can be activated at anytime except the Upload Phase by returning Anti-Virus cards that have an equal or higher memory value than the costs of the input card back to the owner's hand.&lt;br/&gt;&lt;br/&gt;To reduce your opponent's System Points, you declare which Virus Cards you choose to attack with and then the defending player may block with an Anti-Virus card (An Anti-Virus card may block any number of Virus Cards but if it's Memory Value is equal to or less than the total sum of the Virus Card's Memory Value, it is destroyed)&lt;br/&gt;&lt;br/&gt;If a Virus card attacks succesfully, you inflict 1 Critical Damage to your Opponent's System (ie you reduce their System Points by 1.) When an Opponent's System is reduced to 0, you win the game.&lt;br/&gt;&lt;br/&gt;Start-Up&lt;br/&gt;Both Players draw 5 cards. Player who goes first may not attack.&lt;br/&gt;&lt;br/&gt;Phases&lt;br/&gt;&lt;br/&gt;    Draw &amp;ndash; Turn Player draws 1 card&lt;br/&gt;    Upload &amp;ndash; Turn Player uploads Anti-Virus or Virus Cards. No Input Cards may be activated.&lt;br/&gt;    System &amp;ndash; Turn Player selects which Virus cards to attack with.&lt;br/&gt;    End &amp;ndash; Some effects may happen here.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Zones&lt;br/&gt;&lt;br/&gt;    Deck - Directory&lt;br/&gt;    Discard &amp;ndash; Recycle Bin&lt;br/&gt;    Field - Desktop&lt;br/&gt;    Hand - Hand&lt;br/&gt;    Removed From Play &amp;ndash; Archive&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Other Terminology&lt;br/&gt;&lt;br/&gt;    Card Collective (on table) - Program&lt;br/&gt;    Card Collective (off table) - File&lt;br/&gt;    Counter - Cancel&lt;br/&gt;    Destroy - Terminate&lt;br/&gt;    Discard - Delete&lt;br/&gt;    Effect - Process&lt;br/&gt;    Player - Host&lt;br/&gt;    Return - Buffer&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail></thumbnail>
+				<image></image>
+						
+												<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameversion objectid="163965">System</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

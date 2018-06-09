@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="119778" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Commodore 116</name>
+							<name primary="true" sortindex="1">Commodore 16</name>
+									
+			<description>The Commodore 16 was a home computer made by Commodore with a 6502-compatible 8501 CPU, released in 1984. It was intended to be an entry-level computer to replace the VIC-20 and it often sold for 99 USD. A cost-reduced version, the Commodore 116, was sold only in Europe.&lt;br/&gt;&lt;br/&gt;Outwardly the C16 resembled the VIC-20 and the C64, but with a dark gray case and light gray keys. The keyboard layout differed slightly from the earlier models, adding an escape key and four cursor keys replacing the shifted-key arrangement inherited from the C-64 and VIC. Performance-wise located between the VIC-20 and 64, it had 16 kilobytes of RAM with 12 KB available to its built-in BASIC interpreter, and a new sound and video chipset offering a palette of 128 colors (in reality 121, since the system had a 16 base colors and 8 shades but black always remained black, with all 8 shades), the TED (better than the VIC used in the VIC-20, but lacking the sprite capability of the VIC-II and advanced sound capabilities of the SID, both used in the C64). The ROM resident BASIC 3.5, however, was more powerful than the VIC-20's and C64's BASIC 2.0, in that it had commands for sound and bitmapped graphics (320&amp;times;200 pixels), as well as simple program tracing/debugging.&lt;br/&gt;&lt;br/&gt;The C16 was a flop in the US and was discontinued within a year, but it sold reasonably well in Europe as a low-end game machine (over 90% of all C16 software was produced by European developers) and in Mexico as well.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Commodore 16&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwversion objectid="152197">Commodore 116</videogamehwversion>
+															<videogamehwversion objectid="152196">Commodore 16</videogamehwversion>
+															<videogamehwmfg objectid="11464">Commodore International Limited (Commodore)</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehardware objectid="5583" inbound="true">Commodore 16</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

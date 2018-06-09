@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="75668">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Tarot Africain</name>
+							<name primary="true" sortindex="1">Whist 22</name>
+									
+			<description>This is a trick-taking playing card game played using 22 cards.&lt;br/&gt;The game is similar in mechanism to Oh Hell, but simpler to grasp because there is no suit.&lt;br/&gt;It is usually played using a tarot deck, keeping only the 21 trumps and the fool.&lt;br/&gt;If a tarot deck is not available, then it can be played using two suits (one suit for values 1 to 10, the other one for values 11 to 21) and the fool.&lt;br/&gt;&lt;br/&gt;Summary of the rules:&lt;br/&gt;&lt;br/&gt;If played in partnerships, partners sit across the table from each other.&lt;br/&gt;&lt;br/&gt;Players begin the game with 14 points. The game ends when one player reaches 0. The player scoring the most points wins.&lt;br/&gt;&lt;br/&gt;The dealer deals the cards so that the lowest number of cards remains undealt: for example with four players, five cards are dealt to each player and two cards are put aside.&lt;br/&gt;&lt;br/&gt;The player to his left announces how many tricks he thinks he will win, then the player on his left, etc... This is the contract. The dealer is the last to announce, but the sum of announced tricks must not equal the number of cards dealt to each player.&lt;br/&gt;&lt;br/&gt;Let us follow the same example, where 5 cards were dealt to each player: player A announces 2 tricks, players B and C each announce 1 trick. Then the dealer cannot announce 2 tricks because the total would be 5 tricks and each player could fulfill his contract. The player to the left of the dealer starts. The winner of a trick is the one who will start the next trick. The owner of the fool must assign its value (0 or 22) when he plays it.&lt;br/&gt;&lt;br/&gt;At the end of the round, each player counts the number of tricks he has won and compare it to the number of tricks he has announced. No point is awarded for fulfilling the contract, but 1 point is deducted for each missed trick, either over or under the number of tricks the player initially announced.&lt;br/&gt;&lt;br/&gt;The next round takes place in the same way, but with one less card per player.&lt;br/&gt;&lt;br/&gt;After several rounds where one less card is dealt in each round, there is a round where each player only receives one card. Each player then places the card on its forehead without looking at it, so that all players except him can see the card. Each player then announces if he will win the trick or not. As was the case in previous rounds, the sum of announced tricks cannot equal the number of cards dealt to each player (i.e. one).&lt;br/&gt;&lt;br/&gt;After this round, in each round the number of cards dealt to each player is increased by one, until the number of cards is the same as in the first round.&lt;br/&gt;If we follow the same example as above (with 4 players), here are the numbers of cards dealt to each player in each round: 5-4-3-2-1-2-3-4-5-4-3...&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="49695">Public Domain version</boardgameversion>
+															<boardgamefamily objectid="7357">Tarot Games</boardgamefamily>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.84391</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

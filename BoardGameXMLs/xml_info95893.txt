@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="95893">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="5">The Impossible Machine</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;It all starts with a simple push...&lt;br/&gt;&lt;br/&gt;The Impossible Machine is the game where players build ridiculously complicated contraptions to do simple things. Why turn on the TV, when you can have the bowling ball hit a pin, to pull a string, to let the marble loose!? Players earn points by getting their parts, with the right type of momentum, into the machine as they work together to build ever bigger and better machines.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-gdDQzixIWC4blFT9R0_TTw6W7k=/fit-in/200x150/pic1194539.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cKAylnMyApsiJzq98K9PC0pw9CE=/0x0/pic1194539.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="12818">Closet Nerd Games</boardgamepublisher>
+															<boardgameversion objectid="92620">English First Edition</boardgameversion>
+																						<boardgamepublisher objectid="12817">GlowFly Games</boardgamepublisher>
+															<boardgamedesigner objectid="12962">Brian Knudson</boardgamedesigner>
+															<boardgamedesigner objectid="12963">Brent Knudson</boardgamedesigner>
+															<boardgameartist objectid="52730">Lauren Ariel Matthews</boardgameartist>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamepublisher objectid="14121">Sandstorm Productions LLC</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>274</usersrated>
+					<average>5.36277</average>
+					<bayesaverage>5.469</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14285" bayesaverage="5.469" />
+												
+											</ranks>
+					
+					<stddev>1.38113</stddev>
+					<median>0</median>
+					<owned>535</owned>
+					<trading>27</trading>
+					<wanting>10</wanting>
+					<wishing>58</wishing>
+					<numcomments>82</numcomments>
+					<numweights>18</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77388" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Indy 500</name>
+							<name  sortindex="1">Race</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Racing game viewing the entire track from above. Players control gas and direction. There are a variety of tracks and objectives. The Atari 2600 release required a special controller.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DgxdG-55BYzU-qlxDNZsHxNlO4Q=/fit-in/200x150/pic901057.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/BQSlGuvYZdaKPUtkHr6umFlSuCI=/0x0/pic901057.jpg</image>
+						
+												<videogameplatform objectid="4416">Atari 2600</videogameplatform>
+															<videogamecompilation objectid="201336">Atari Flashback Classics: Volume 1</videogamecompilation>
+															<videogamecompilation objectid="196311">Atari Vault</videogamecompilation>
+															<videogamedeveloper objectid="11465">Atari, Inc.</videogamedeveloper>
+															<videogamepublisher objectid="11465">Atari, Inc.</videogamepublisher>
+															<videogametheme objectid="2456">Driving</videogametheme>
+															<videogamefranchise objectid="6806">Indy</videogamefranchise>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameversion objectid="53737">North American Atari 2600 (1977 Release) edition</videogameversion>
+															<videogameversion objectid="205573">North American Atari 2600 (1978 Atari Picture Label) edition</videogameversion>
+															<videogamegenre objectid="2157">Sports</videogamegenre>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>6.25</average>
+					<bayesaverage>5.67105</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4876" bayesaverage="5.67105" />
+												
+							
+														<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="65" bayesaverage="6.04422" />
+												
+											</ranks>
+					
+					<stddev>1.1764</stddev>
+					<median>0</median>
+					<owned>34</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>0</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

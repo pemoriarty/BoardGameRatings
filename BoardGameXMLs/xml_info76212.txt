@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76212" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Sonic Spinball</name>
+							<name primary="true" sortindex="1">Sonic the Hedgehog Spinball</name>
+									
+			<description>Sonic The Hedgehog spins into pinball pandemonium! Dr. Robotnik's latest robotic-creation factory is the Veg-O-Fortress, a volcanic island fueled by the Chaos Emeralds and protected by the Pinball Defense System.&lt;br/&gt;&lt;br/&gt;Strap on your Power Sneakers for all-new Sonic moves! Sonic rockets into space, spring launches from levers and balls up for a high-altitude bounce!&lt;br/&gt;&lt;br/&gt;Multi-round zones of wild Sonic action through glittering caverns, oozing toxic pools and boiling lava pits!&lt;br/&gt;&lt;br/&gt;Up to 4 players can fight a whole new generation of evil enemies including Roboheads, jet-propelled Krondors and the Buzz Bombers!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qXMVcad3PY9XBDqIXQe8t4hOQCs=/fit-in/200x150/pic797198.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yn2-Ry_xU0m0nned1K3sxmXcPtk=/0x0/pic797198.jpg</image>
+						
+												<videogametheme objectid="2471">Animals</videogametheme>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogameversion objectid="78972">iPhone/iPad edition</videogameversion>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameversion objectid="51108">North American Game Gear edition</videogameversion>
+															<videogameversion objectid="62258">North American Genesis edition</videogameversion>
+															<videogameversion objectid="51110">North American Sega Master System edition</videogameversion>
+															<videogamegenre objectid="2307">Pinball</videogamegenre>
+															<videogamepublisher objectid="5360">SEGA Corporation</videogamepublisher>
+															<videogameplatform objectid="4740">SEGA Game Gear</videogameplatform>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogamecompilation objectid="119405">Sega Genesis Classic Collection: Gold Edition</videogamecompilation>
+															<videogameplatform objectid="4438">SEGA Master System</videogameplatform>
+															<videogamedeveloper objectid="11990">SEGA of America, Inc.</videogamedeveloper>
+															<videogamecompilation objectid="167868">Sega Smash Pack</videogamecompilation>
+															<videogamecompilation objectid="196632">Sega Smash Pack (GBA)</videogamecompilation>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<vgcharacterversion objectid="385427">Sonic</vgcharacterversion>
+															<videogamecompilation objectid="89738">Sonic Gems Collection</videogamecompilation>
+															<videogamecompilation objectid="84687">Sonic Mega Collection</videogamecompilation>
+															<videogamecompilation objectid="74051">Sonic Mega Collection Plus</videogamecompilation>
+															<videogamefranchise objectid="4878">Sonic the Hedgehog</videogamefranchise>
+															<videogamecharacter objectid="4738">Sonic the Hedgehog</videogamecharacter>
+															<videogamecompilation objectid="84294">Sonic&#039;s Ultimate Genesis Collection</videogamecompilation>
+															<videogameplatform objectid="4441">Wii</videogameplatform>
+															<videogameversion objectid="51109">Wii Virtual Console edition</videogameversion>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="197814">Windows Downloadable edition</videogameversion>
+															<videogame objectid="119405" inbound="true">Sega Genesis Classic Collection: Gold Edition</videogame>
+															<videogame objectid="89738" inbound="true">Sonic Gems Collection</videogame>
+															<videogame objectid="84687" inbound="true">Sonic Mega Collection</videogame>
+															<videogame objectid="74051" inbound="true">Sonic Mega Collection Plus</videogame>
+															<videogame objectid="84294" inbound="true">Sonic&#039;s Ultimate Genesis Collection</videogame>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>53</usersrated>
+					<average>5.6</average>
+					<bayesaverage>5.54536</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5855" bayesaverage="5.54536" />
+												
+							
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="158" bayesaverage="5.55794" />
+														<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="68" bayesaverage="5.422" />
+														<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="411" bayesaverage="5.56111" />
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="370" bayesaverage="5.54675" />
+														<rank type="family" id="4740" name="segagamegear" friendlyname="SEGA Game Gear Rank" value="39" bayesaverage="5.42382" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1983" bayesaverage="5.57064" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="363" bayesaverage="5.5" />
+												
+											</ranks>
+					
+					<stddev>1.62782</stddev>
+					<median>0</median>
+					<owned>99</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>15</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

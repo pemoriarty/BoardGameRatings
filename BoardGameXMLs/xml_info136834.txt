@@ -1,0 +1,101 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136834" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Star Trek</name>
+							<name  sortindex="1">Super Star Trek</name>
+									
+			<description>&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;        &lt;br/&gt;UNLICENSED GAME&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;        &lt;br/&gt;This game represents an unlicensed use of elements of the Star Trek franchise.&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;User Summary&lt;br/&gt;&lt;br/&gt;Star Trek (more commonly known as Super Star Trek) is a text-based game developed in 1971 by Mike Mayfield (although some later versions incorporated graphics).  The game was originally written on an SDS Sigma 7, but was ported to an HP2000C and was part of an HP program library.  It was ported to a variety of systems, with various modifications.  However, the most well-known version of the game is Super Star Trek, written in BASIC and published in David Ahl's BASIC Computer Games.  After the release of BASIC Computer Games, the game was widely copied to home computers in the late '70s.  The game has been moderately influential, inspiring amongst others Star Raiders and Star Fleet I: The War Begins.&lt;br/&gt;&lt;br/&gt;The game consists of the player, in control of the starship Enterprise, hunting down Klingon ships randomly scattered throughout the galaxy.  All the Klingon ships must be eliminated by a certain stardate.  The Enterprise has Phasors and Photon Torpedos as weapons, as well as a number of other thematically appropriate capabilities to help achieve this end.  The galaxy is composed of an 8x8 grid of quadrants and in addition to Klingon ships contains stars and also friendly starbases, where the Enterprise can be repaired and refueled.  Each quadrant is composed of an 8x8 (in most but not all games) set of sectors, in which the Enterprise, Klingon ships, stars, and starbases are represented spatially in relation to each other.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pVM7HoVYcXyPbN-9x2CsByeCElg=/fit-in/200x150/pic1845655.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/r0EPPwS5jmeJUmORttJDrkGrjeI=/0x0/pic1845655.png</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="4">(Self-Published)</videogamepublisher>
+															<videogamefranchise objectid="14180">(Unlicensed Games)</videogamefranchise>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="196271">Apple II edition</videogameversion>
+															<videogameversion objectid="394780">BASIC Version</videogameversion>
+															<videogameplatform objectid="5933">CP/M</videogameplatform>
+															<videogameversion objectid="196269">CP/M Kaypro II edition</videogameversion>
+															<videogamepublisher objectid="2159">Creative Computing</videogamepublisher>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="196270">DOS edition</videogameversion>
+																						<videogamepublisher objectid="24342">Kaypro Corporation</videogamepublisher>
+															<videogameplatform objectid="5248">Linux</videogameplatform>
+															<videogameversion objectid="196275">Linux Downloadable edition</videogameversion>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogameversion objectid="196273">Macintosh Downloadable edition</videogameversion>
+															<videogameplatform objectid="5249">OS/2</videogameplatform>
+															<videogameversion objectid="196274">OS/2 edition</videogameversion>
+															<videogameplatform objectid="23163">Other</videogameplatform>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamepublisher objectid="34379">SEGA Enterprises Ltd.</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogamefranchise objectid="5236">Star Trek</videogamefranchise>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+																						<videogameversion objectid="396798">Type-in Version</videogameversion>
+																						<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="196272">Windows Downloadable edition</videogameversion>
+															<videogamepublisher objectid="1722">Workman Publishing</videogamepublisher>
+															<videogamedeveloper objectid="15549">Yahoo Software</videogamedeveloper>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5249" name="os2" friendlyname="OS/2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5933" name="cpm" friendlyname="CP/M Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

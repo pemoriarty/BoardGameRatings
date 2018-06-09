@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120547">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">War and Peace</name>
+									
+			<description>War and Peace is a game that allows players to recreate the fight for Europe from 1805 to 1815. The game is designed for play by two players, one player being the French player and the other player is the British. Each player also controls one of the major countries of France, Britain, Austria, Russia, or Spain. Prussia is also in the game but starts neutral. The countries of France, Britain, Russia, Austria, Prussia, and Spain are represented by infantry, artillery, cavalry, naval units. The countries of France and Britain are at war throughout the game. The countries of Russia, Austria, Prussia, and Spain become neutral, conquered neutrals, French allies, or British allies through the use of diplomatic resources or military conquest.&lt;br/&gt;&lt;br/&gt;France starts out strong militarily with the aid of the Spanish navy and a strong French army. Austria and Russia, when united, have strong armies while England rules the waves and buys influence and allies. Victory is determined by the conquest of France or Britain, or causing the isolation of Britain through political and economic means. The fate of Europe rests in your hands...&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/w2_au81TQ9KYosdt58feB8xLTAY=/fit-in/200x150/pic1239364.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7MPJpHJc_eGa7ujfiomhYQ0bJts=/0x0/pic1239364.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="154104">English first edition</boardgameversion>
+																													<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="2355">Worthington Games</boardgamepublisher>
+															<boardgamedesigner objectid="3464">Grant Wylie</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>60</usersrated>
+					<average>6.755</average>
+					<bayesaverage>5.56238</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7638" bayesaverage="5.56238" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1534" bayesaverage="5.84199" />
+												
+											</ranks>
+					
+					<stddev>1.2934</stddev>
+					<median>0</median>
+					<owned>201</owned>
+					<trading>12</trading>
+					<wanting>12</wanting>
+					<wishing>47</wishing>
+					<numcomments>35</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

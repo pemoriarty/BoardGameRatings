@@ -1,0 +1,114 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="96042">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Flip Six</name>
+									
+			<description>Despite the name of the game being Flip Six, no player is guaranteed to flip six cards while playing. Instead that's only one of the ways for the round to end.&lt;br/&gt;&lt;br/&gt;In more detail, at the start of each round each player is dealt six cards and places them in two rows of three cards without looking at the cards. On a player's first turn, he first flips two cards face-up &amp;ndash; one on the top row, the other on the bottom &amp;ndash; then takes his turn, drawing the top card of either the discard pile or the deck. The player then either:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Replaces one of the cards in his array with the newly drawn card, placing the new card face-up and placing the replaced card on the discard pile.&lt;br/&gt;     Discards the card he drew.&lt;br/&gt;     Places the card on a matching face-up card in his array, then discards both of these cards, then the card either above or below this position.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The goal of Flip Six is to have the lowest total when the round ends, and the round ends when a player has six face-up cards, a player has no cards (due to discarding) or a player calls for the end of the round because she thinks she has the lowest score; in all cases, each other player takes one final turn.&lt;br/&gt;&lt;br/&gt;Players then tally their scores, which can be negative due to the deck including negative numbers. If the player who ended the round doesn't have the lowest score, that player's score for the round is doubled. The player with the lowest score after ten rounds wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LtvLwjbIZfNZDp3p0PrY5VW1xe0=/fit-in/200x150/pic956331.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FVbr54ke9oKk19lQD_lHc0n5854=/0x0/pic956331.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgameversion objectid="93056">English first edition</boardgameversion>
+																						<boardgamedesigner objectid="50623">Gloria Hammer</boardgamedesigner>
+															<boardgamedesigner objectid="50624">James Hammer</boardgamedesigner>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamedesigner objectid="50621">Kathleen Sherwood</boardgamedesigner>
+															<boardgamedesigner objectid="50622">Michael Sherwood</boardgamedesigner>
+															<boardgamefamily objectid="46141">Traditional Card Game: Golf</boardgamefamily>
+															<boardgamepublisher objectid="55">U.S. Games Systems, Inc.</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>5.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.10554</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

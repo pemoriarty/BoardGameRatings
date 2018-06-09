@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="111684" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">FM Towns</name>
+							<name  sortindex="1">エフエムタウンズ</name>
+									
+			<description>The FM Towns (エフエムタウンズ Efuemu Taunzu) system is a Japanese PC variant, built by Fujitsu from February 1989 to the summer of 1997. Started as a proprietary PC variant, intended for multimedia applications and PC games, it later became more compatible with regular PCs. In 1993, the FM Towns Marty was released, a gaming console compatible with the FM Towns games.&lt;br/&gt;&lt;br/&gt;The name &amp;quot;FM Towns&amp;quot; is derived from the codename the system was assigned while in development, &amp;quot;Townes&amp;quot;; this was chosen as an homage to Charles Hard Townes, one of the winners of the 1964 Nobel Prize in Physics, following a custom of Fujitsu at the time to codename PC products after Nobel prize winners. The e in &amp;quot;Townes&amp;quot; was dropped when the system went into production to make it clear that it was to be pronounced &amp;quot;Towns&amp;quot; rather than &amp;quot;Tau-Ness&amp;quot;, and the &amp;quot;FM&amp;quot;, which stood for &amp;quot;Fujitsu Micro[computer]&amp;quot;.&lt;br/&gt;&lt;br/&gt;Fujitsu, which had the best-selling 8-bit home computer FM-7, and the Fujitsu Micro 16s PC in early 1980s in Japan, decided to release a new home computer after the FM-7 was overcome by NEC's PC-8801 computer. From this experience, Fujitsu learned that software sales drove hardware sales. In order to acquire usable software quickly, the new computer was to be based on Fujitsu's &amp;quot;FMR50&amp;quot; system architecture. The FMR50 system, released at 1986, was another x86/DOS-based computer similar to NEC's popular PC-9801. The FMR50 computers were sold to moderate success in Japanese offices, particularly in Japanese government offices. There were hundreds of software packages available for the FMR, including Lotus 1-2-3, Wordstar, Multiplan, and dBASE III. With this basis of compatibility, the more multimedia-friendly FM Towns was born.&lt;br/&gt;&lt;br/&gt;NEC's PC-9801 computers were widespread and dominated in the 1980s, at one point reaching 70% of the 16/32 bit computer market. However, they had poor graphics (640&amp;times;400 at 16 of 4096 colors) and sounds (4-operator/3 voice monaural FM sounds). Just as Commodore saw an opening for the Amiga in some global markets against the IBM PC, a computer with improved graphics and sounds was considered to overcome the PC-9801 in the home-use field in Japan.&lt;br/&gt;&lt;br/&gt;With many multimedia innovations for its time, the FM Towns was that system, though for a number of reasons it never broke far beyond the boundaries of its niche market status.&lt;br/&gt;&lt;br/&gt;Eventually the &amp;quot;Towns&amp;quot; lost much of its uniqueness by adding a DOS/V (PC Clone + DOS with native Japanese language support) compatibility mode switch, until Fujitsu finally discontinued making FM Towns specific hardware and software and moved to focus on the IBM PC clones that many Japanese manufacturers who previously were not players in the PC market were building by the mid to late 1990s. To this day, Fujitsu is known for its laptop PCs globally, and FM Towns (and Marty) users have been relegated to a small community of aficionados.&lt;br/&gt;&lt;br/&gt;Several variants were built; the first system was based on an Intel 80386SX processor running at a clock speed of 16 MHz, with the option of adding an 80387 FPU, featured one or two megabytes of RAM (with a possible maximum of 64 MB), one or two 3.5&amp;quot; floppy disk drives and a single-speed CD-ROM drive. It was delivered with a gamepad, a mouse and a microphone.&lt;br/&gt;&lt;br/&gt;The earlier, more distinctive models featuring a vertical CD-ROM tray on the front of the case (1F, 2F, 1H, 2H, 10F and 20F) were often referred to as the &amp;quot;Gray&amp;quot; Towns, and were the ones most directly associated with the &amp;quot;FM Towns&amp;quot; brand. Most featured 3 memory expansion slots and used 72-pin non-parity SIMMs with a required timing of 100ns or less and a recommended timing of 60ns.&lt;br/&gt;&lt;br/&gt;Hard drives were not standard equipment, and were not required for most uses. The OS was loaded from CD-ROM by default. A SCSI Centronics 50/SCSI-1/Full-Pitch port was provided for connecting external SCSI disk drives, and was the most common way to connect a hard drive to an FM Towns PC. Although internal drives are rare, there is a hidden compartment with a SCSI 50-pin connector where a hard drive may be connected, however the power supply module does not typically provide the required Molex connector to power the drive.&lt;br/&gt;&lt;br/&gt;The video output was RGB using the same DB15 connector and pinouts as earlier Apple Macintosh computers.&lt;br/&gt;&lt;br/&gt;The operating system used was Windows 3.0/3.1/95 and a graphical OS called Towns OS, based on MS-DOS and the Phar Lap DOS extender (RUN386.EXE). Most games for the system were written in protected mode Assembly and C using the Phar Lap DOS extender. These games usually utilized the Towns OS API (TBIOS) for handling several graphic modes, sprites, sounds, a mouse, gamepads and CD-audio.&lt;br/&gt;&lt;br/&gt;A minimal DOS system that allowed the CD-ROM drive to be accessed was contained in a system ROM; this, coupled with Fujitsu's decision to charge only a minimal license fee for the inclusion of a bare-bones Towns OS on game CD-ROMs, allowed game developers to make games bootable directly from CD-ROM without the need for a boot floppy or hard disk.&lt;br/&gt;&lt;br/&gt;To boot the system from CD-ROM disk, the FM TOWNS had a &amp;quot;hidden C:&amp;quot; ROM drive in which a minimum MS-DOS system, CD-ROM driver and MSCDEX.EXE were installed. This minimal DOS system ran first, and the DOS system read and executed the TownsOS IPL stored in CD-ROM disk after that. The Towns OS CD-ROM disk had an IPL, MS-DOS system (IO.SYS), DOS extender, and Towns API (TBIOS).&lt;br/&gt;&lt;br/&gt;Various Linux and BSD distributions have also been ported to the FM Towns system, including Debian and Gentoo. A version of GNU called GNU for FM Towns was released in 1990.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;FM TOWNS&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="196066">FM Towns 1</videogamehwversion>
+															<videogamehwversion objectid="196073">FM Towns 10F</videogamehwversion>
+															<videogamehwversion objectid="133330">FM Towns 1F</videogamehwversion>
+															<videogamehwversion objectid="196071">FM Towns 1H</videogamehwversion>
+															<videogamehwversion objectid="196067">FM Towns 1S</videogamehwversion>
+															<videogamehwversion objectid="196068">FM Towns 2</videogamehwversion>
+															<videogamehwversion objectid="196075">FM Towns 20F</videogamehwversion>
+															<videogamehwversion objectid="196070">FM Towns 2F</videogamehwversion>
+															<videogamehwversion objectid="196072">FM Towns 2H</videogamehwversion>
+															<videogamehwversion objectid="196069">FM Towns 2S</videogamehwversion>
+															<videogamehwmfg objectid="19007">Fujitsu</videogamehwmfg>
+															<videogamehardware objectid="5571" inbound="true">FM Towns</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

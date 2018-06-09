@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="118150" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Monopoly</name>
+							<name primary="true" sortindex="1">Monopoly (1992)</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Plays like the Monopoly board game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RdzjVfNREv6-sQvW37XQxDoP0MI=/fit-in/200x150/pic3450254.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FEkjFair1z5yX6wiqoyDvRI-KdI=/0x0/pic3450254.jpg</image>
+						
+												<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogametheme objectid="2511">Business / Construction</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogameplatform objectid="4422">Game Boy</videogameplatform>
+															<videogameplatform objectid="4424">Game Boy Color</videogameplatform>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamepublisher objectid="12126">Majesco Entertainment</videogamepublisher>
+															<videogamefranchise objectid="6093">Monopoly</videogamefranchise>
+															<videogameversion objectid="197241">North American Game Boy Color edition</videogameversion>
+															<videogameversion objectid="183071">North American Game Boy edition</videogameversion>
+															<videogameversion objectid="147882">North American Genesis edition</videogameversion>
+															<videogamepublisher objectid="28">Parker Brothers</videogamepublisher>
+															<videogamedeveloper objectid="11856">Sculptured Software</videogamedeveloper>
+															<videogameplatform objectid="4426">SEGA Genesis</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamebg objectid="1406" inbound="true">Monopoly</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>5.81667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5846" bayesaverage="5.54777" />
+												
+							
+														<rank type="family" id="4422" name="gameboy" friendlyname="Game Boy Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4424" name="gameboycolor" friendlyname="Game Boy Color Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.56036</stddev>
+					<median>0</median>
+					<owned>19</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

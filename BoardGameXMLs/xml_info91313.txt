@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="91313">
+			<yearpublished>1990</yearpublished>
+			<minplayers>0</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Ataxx</name>
+							<name  sortindex="1">Frog Cloning</name>
+							<name  sortindex="1">Infection</name>
+							<name  sortindex="1">Outbreak</name>
+							<name  sortindex="1">SlimeWars</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Strategy game similar to several boardgames. Played on a 7x7 grid, you can move your color blobs.  If you end up adjacent to the other color, those blobs change to your color. Play until the board is full. The person with the most colored blobs wins. Hexxagon is a later similar game played on a hex grid.&lt;br/&gt;&lt;br/&gt;You can play against several AI opponents of varying difficulty. You get a certain number of moves per coin.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7A4fxVAAHhfG8TPVwoe7bZ9nO24=/fit-in/200x150/pic1550968.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-N4Y15SczfjNNJFNJ4UUF4GBXLE=/0x0/pic1550968.png</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+																						<videogametheme objectid="2403">Board Game</videogametheme>
+															<boardgamepublisher objectid="4358">Capcom Co., Ltd.</boardgamepublisher>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<boardgamedesigner objectid="5059">Dave Crummack</boardgamedesigner>
+															<boardgamedesigner objectid="5060">Craig Galley</boardgamedesigner>
+															<boardgameimplementation objectid="19914">Hexxagon</boardgameimplementation>
+															<boardgamepublisher objectid="3804">Leland Corporation</boardgamepublisher>
+															<videogamedeveloper objectid="3804">Leland Corporation</videogamedeveloper>
+															<videogamepublisher objectid="3804">Leland Corporation</videogamepublisher>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameversion objectid="84968">North American Amiga edition</videogameversion>
+															<videogameversion objectid="81784">North American Arcade edition</videogameversion>
+															<videogameversion objectid="84966">North American Atari ST edition</videogameversion>
+															<videogameversion objectid="84969">North American C64 edition</videogameversion>
+																						<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+																						<boardgamepublisher objectid="3803">Virgin Mastertronic</boardgamepublisher>
+															<boardgamepublisher objectid="3802">Wise Owl Software</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>45</usersrated>
+					<average>6.17778</average>
+					<bayesaverage>5.52147</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10738" bayesaverage="5.52147" />
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4806" bayesaverage="5.68003" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="204" bayesaverage="5.98814" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="159" bayesaverage="6.05911" />
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="538" bayesaverage="5.63473" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="157" bayesaverage="6.05228" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="106" bayesaverage="6.07778" />
+												
+											</ranks>
+					
+					<stddev>1.90367</stddev>
+					<median>0</median>
+					<owned>16</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>6</wishing>
+					<numcomments>19</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.25</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

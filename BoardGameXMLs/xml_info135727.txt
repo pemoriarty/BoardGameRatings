@@ -1,0 +1,135 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="135727">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Davoserjas</name>
+							<name  sortindex="1">Davoserjass</name>
+							<name  sortindex="1">Davoserjaz</name>
+							<name primary="true" sortindex="1">Davoserjazz</name>
+							<name  sortindex="1">Davosius</name>
+							<name  sortindex="1">Familiespillet</name>
+							<name  sortindex="1">Stahutterfis</name>
+									
+			<description>Card game in 8 rounds with 7 trick-taking rounds and one competitive patience round. A standard deck playing card game is used but with a number of players different from 4, one or more cards are removed so the total numbers of cards is a multiple of numbers of players. The cards to be removed and the order of these are:&lt;br/&gt;2 of diamonds, 2 of hears, 2 of spades and 2 of clubs. In the first 7 trick-taking rounds Ace count as highest card and as lowest card in the 8th round.&lt;br/&gt;&lt;br/&gt;All cards are dealt out so each player and the player to the left for the dealer lead the round. The dealer changes clockwise for each round.&lt;br/&gt;Round 1 to 7 are played as normal trick taking without trump colour and each player must follow suit if possible. If a player has no cards in the suit led, a card of any other suit may be discarded.&lt;br/&gt;&lt;br/&gt;Round 1: Avoid tricks : -10 pts for each taken trick&lt;br/&gt;&lt;br/&gt;Round 2: Avoid King of Diamonds : -50 pts&lt;br/&gt;&lt;br/&gt;Round 3: Avoid Queens       : -25 pts for each Queen taken&lt;br/&gt;&lt;br/&gt;Round 4: Avoid Hearts       : -10 pts for each Hearts taken&lt;br/&gt;&lt;br/&gt;Round 5: Avoid Jacks           : -25 pts for each Jacks taken&lt;br/&gt;&lt;br/&gt;Round 6 Variant: Avoid first, fifth and the last trick: -25 pts for each of first, fifth and last trick taken&lt;br/&gt;&lt;br/&gt;Round 7: Most trick    : +10 for each trick taken&lt;br/&gt;&lt;br/&gt;Round 8: Competitive Patience: First card to be played must be a 7. If the leading player does not holds a 7 he must pass and&lt;br/&gt;the turn goes to the next player who also must pass if he does not hold a 7 etc.&lt;br/&gt;A player is not forced to play a seven hold in his hand after the first seven has been played.&lt;br/&gt;After the first 7 is played each player in turns lay down cards in incrementing or decrementing order around the 7 on the table (8 to king on the top and 6 to ace below the seven card). If a player is unable    to lay down a card he may pass.    For each pass a    player receive -10 pts.    When a player lay down his last    card the game is over and the remaining    players    receive    -5 pts for each    card they are holding.&lt;br/&gt;&lt;br/&gt;The player with    the most points    has won    the game&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="193546">First edition</boardgameversion>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.948683</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

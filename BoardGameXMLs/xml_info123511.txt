@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123511">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Guns of Galicia</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;Guns of Galicia uses the same core rules as Guns of August (GoA) to simulate Corp-level fighting on the Eastern Front in WWI. Game mechanisms compensate for players' 20/20 hindsight to encourage historically accurate play that makes &amp;quot;sense&amp;quot; in game terms while avoiding a &amp;quot;straight jacket&amp;quot; of special rules to enforce irrational play. Players maneuver corps and divisions through 9-mile wide hexagons in turns that span three days each. Chit pull activation along with modest movement point allowances generates a highly interactive game. Scenarios included are the 1914 Galicia campaign, 1915 Tarnow campaign, and 1916 Brusilov campaign.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/fizS2JNR7B8t4VgwEjO_BnxVNv0=/fit-in/200x150/pic1290988.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GOSG3MtbFa6ElqnTyxdc1L9cxEQ=/0x0/pic1290988.jpg</image>
+						
+												<boardgamemechanic objectid="2057">Chit-Pull System</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="162657">English first edition</boardgameversion>
+															<boardgamedesigner objectid="11876">John Gorkowski</boardgamedesigner>
+																						<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamepodcastepisode objectid="116468">I&#039;ve Been Diced! episode 53: John Gorkowski on WWI wargames and a future WWI-like scenario</boardgamepodcastepisode>
+															<boardgameartist objectid="11699">Brandon Pennington</boardgameartist>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1065">World War I</boardgamecategory>
+															<boardgamepublisher objectid="2355">Worthington Games</boardgamepublisher>
+															<boardgamedesigner objectid="3464">Grant Wylie</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>45</usersrated>
+					<average>6.74578</average>
+					<bayesaverage>5.54123</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9008" bayesaverage="5.54123" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1812" bayesaverage="5.75271" />
+												
+											</ranks>
+					
+					<stddev>1.53128</stddev>
+					<median>0</median>
+					<owned>198</owned>
+					<trading>14</trading>
+					<wanting>6</wanting>
+					<wishing>24</wishing>
+					<numcomments>24</numcomments>
+					<numweights>9</numweights>
+					<averageweight>2.5556</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="107735">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Dobbelduel</name>
+									
+			<description>Dobbelduel (Dice Duel) is a code-breaking game similar to Mastermind.&lt;br/&gt;&lt;br/&gt;At the start of the game, one of the players creates a random code by rolling four dice. The other player has to guess this code. He gets seven rounds to gather information. At the start of each round, he rolls four dice, then uses some or all of them to create a (partial) code. He then receives feedback on this code, being told how many dice are equal to the corresponding die in the code, how many are higher and how many are lower. When he thinks he has guessed the code, or after he has used up his seven rounds, he makes a guess. If this guess is correct, he scores a number of points, depending on the amount of rounds and dice used.&lt;br/&gt;&lt;br/&gt;After this, the rolls are reveresed, and the other player has to break a code. The player with the highest score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Zs3hdMXjb27koggmpaehutm8Lzs=/fit-in/200x150/pic1084800.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sAHLJ0Pog0GudD_NzXpye0AfuIA=/0x0/pic1084800.jpg</image>
+						
+												<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamedesigner objectid="138">Leo Colovini</boardgamedesigner>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="124579">Dutch first edition</boardgameversion>
+																																									
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>6.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.45237</stddev>
+					<median>0</median>
+					<owned>27</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>5</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

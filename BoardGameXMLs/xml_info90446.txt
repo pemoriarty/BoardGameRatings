@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="90446" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Hartenjagen</name>
+							<name primary="true" sortindex="1">Hearts</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Microsoft Hearts is a classic card game that has been included in many Windows operating systems as part of the set of basic games for Windows since Windows for Workgroups (3.1).  It can be found in Windows 95, Windows 98, Windows XP, Windows Vista, and Windows 7.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/aTONNOZoZFMP6Y2Wk7hhv2h4P2Q=/fit-in/200x150/pic960538.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mdx-8CVK013EQ3GzhpX5G0e-awc=/0x0/pic960538.jpg</image>
+						
+												<videogametheme objectid="2404">Card / Casino Games</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamedeveloper objectid="15347">Microsoft</videogamedeveloper>
+															<videogamepublisher objectid="15347">Microsoft</videogamepublisher>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="80069">Windows 7 edition</videogameversion>
+															<videogameversion objectid="80065">Windows 95 edition</videogameversion>
+															<videogameversion objectid="80066">Windows 98 edition</videogameversion>
+															<videogameversion objectid="80068">Windows Vista edition</videogameversion>
+															<videogameversion objectid="80067">Windows XP edition</videogameversion>
+															<videogamebg objectid="6887" inbound="true">Hearts</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>32</usersrated>
+					<average>5.20937</average>
+					<bayesaverage>5.3586</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6547" bayesaverage="5.3586" />
+												
+							
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="2091" bayesaverage="5.33402" />
+												
+											</ranks>
+					
+					<stddev>1.1441</stddev>
+					<median>0</median>
+					<owned>27</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

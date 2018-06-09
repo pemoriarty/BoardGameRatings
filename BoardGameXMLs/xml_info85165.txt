@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="85165">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Chess 2: The Sequel</name>
+									
+			<description>Chess 1 was a hit, no doubt about it. Chess 2 seeks to build on the greatness of the original while addressing a few problems and also going in a new direction. There are now SIX ARMIES to choose from, rather than just 1, creating 21 matchups instead of just 1. There's a new win condition for crossing the midline of the board with your king (in addition to your grandpa's checkmates). There's also a bidding mechanic called dueling that makes memorized openings even more impractical, and emphasizes adaptation and reading the opponent's tendencies.&lt;br/&gt;&lt;br/&gt;The Six Armies:&lt;br/&gt;&lt;br/&gt;     Classic (balanced)&lt;br/&gt;     Nemesis (favors pawns)&lt;br/&gt;     Empowered (favors knights/bishops/rooks)&lt;br/&gt;     Reaper (favors queen)&lt;br/&gt;     Two Kings (has two kings!)&lt;br/&gt;     Animal (wild card)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZJUX8FZnUGsXdDcFAOB-eoQxmzo=/fit-in/200x150/pic829431.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/lRg-uYvogWgbN0Rz4a7Fct3g0-s=/0x0/pic829431.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+																						<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="69833">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamedesigner objectid="12842">David Sirlin</boardgamedesigner>
+															<boardgamepublisher objectid="11738">Sirlin Games</boardgamepublisher>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>48</usersrated>
+					<average>6.98125</average>
+					<bayesaverage>5.53465</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9553" bayesaverage="5.53465" />
+												
+											</ranks>
+					
+					<stddev>2.55275</stddev>
+					<median>0</median>
+					<owned>56</owned>
+					<trading>0</trading>
+					<wanting>3</wanting>
+					<wishing>15</wishing>
+					<numcomments>22</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

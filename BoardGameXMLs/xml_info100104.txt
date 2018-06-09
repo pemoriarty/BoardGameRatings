@@ -1,0 +1,88 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="100104">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Rush Hour Scramble</name>
+									
+			<description>Rush Hour Scramble is a multi player competitive version of the popular solitaire puzzle game. Each player designs a Rush Hour challenge for another player to solve. Players switch boards and race to be the first to solve their challenge. The player who solves his/her challenge first is the winner.&lt;br/&gt;&lt;br/&gt;A copy of Rush Hour is needed for each player.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/a3Eea_a6tGk1XZ01MuI2RigrkSo=/fit-in/200x150/pic1565211.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cFkjzwk4CDq39Ioeqcl4rr4rUBw=/0x0/pic1565211.png</image>
+						
+												<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="101732">Print-and-play edition</boardgameversion>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+																						<boardgamepublisher objectid="2792">ThinkFun</boardgamepublisher>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>45</usersrated>
+					<average>6.68889</average>
+					<bayesaverage>5.54553</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8692" bayesaverage="5.54553" />
+												
+											</ranks>
+					
+					<stddev>1.28776</stddev>
+					<median>0</median>
+					<owned>132</owned>
+					<trading>5</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>19</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

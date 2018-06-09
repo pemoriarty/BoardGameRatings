@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="100480">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Freedom</name>
+									
+			<description>Freedom is a two-player abstract strategy board game invented by Veljko Cirovic and Nebojsa Sankovic in 2010. It is played with black and white stones on a square board. The game is related to Go-Moku and Slimetrail. It can be played with a Go set or with pen and paper.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;Board: Freedom is played on a 10&amp;times;10 square board. Beginners can try the game on a 8&amp;times;8 board. Other board sizes may be also used.&lt;br/&gt;&lt;br/&gt;Objective: The objective of Freedom is to have more &amp;quot;live&amp;quot; stones at the end of the game, than your opponent. A stone is considered to be &amp;quot;live&amp;quot; if it is a part of some horizontal, vertical or diagonal row of exactly 4 stones of the same color.&lt;br/&gt;&lt;br/&gt;Play: A game begins with an empty board. Each player has an allocated color: White and Black. White plays first, putting one white stone anywhere on the board. After this move players take turns placing their stones on empty cells adjacent to the last opponent's stone. If all cells adjacent to the last opponent's stone are occupied then the player gets the right (&amp;quot;freedom&amp;quot;) to place his stone on any empty cell of the board. The game ends when the board is filled with stones. The last player has the right to pass on his last turn (and leave the last cell empty) if placing his stone reduces his score.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/qg38LDre_wpIUj9kQqZEur3EkvM=/fit-in/200x150/pic1017751.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/feHsX-kD95AsslSv0LH8E2lrP1Q=/0x0/pic1017751.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamedesigner objectid="49660">Veljko Cirovic</boardgamedesigner>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+																						<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="49666">Nebojsa Sankovic</boardgamedesigner>
+															<boardgameversion objectid="102609">Web-published edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>6.575</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.82808</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>3</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

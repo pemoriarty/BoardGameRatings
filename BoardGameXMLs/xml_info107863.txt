@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="107863">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Lancaster: Die neuen Gesetze</name>
+							<name primary="true" sortindex="1">Lancaster: The New Laws</name>
+									
+			<description>Lancaster: The New Laws introduces 18 new laws for the Lancaster board game on which the players can vote. These law cards can replace those in the original game or be mixed with them.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ClDBdSX7elCkryn59fiNscxgBXw=/fit-in/200x150/pic1102102.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2ks3dkzDqeIbs31r6Bv4Bt9Rs5M=/0x0/pic1102102.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamefamily objectid="14759">Country: England</boardgamefamily>
+															<boardgamedesigner objectid="34699">Matthias Cramer</boardgamedesigner>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+																						<boardgameartist objectid="11968">Martin Hoffmann</boardgameartist>
+															<boardgamecompilation objectid="170815">Lancaster: Big Box</boardgamecompilation>
+																													<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgameversion objectid="124927">Multilingual second edition</boardgameversion>
+															<boardgamedesigner objectid="249">Wolfgang Panning</boardgamedesigner>
+															<boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+															<boardgameartist objectid="11902">Claus Stephan</boardgameartist>
+																													<boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+															<boardgameexpansion objectid="96913" inbound="true">Lancaster</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>352</usersrated>
+					<average>7.48565</average>
+					<bayesaverage>5.97391</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.97391" />
+												
+											</ranks>
+					
+					<stddev>1.10757</stddev>
+					<median>0</median>
+					<owned>1647</owned>
+					<trading>32</trading>
+					<wanting>64</wanting>
+					<wishing>93</wishing>
+					<numcomments>117</numcomments>
+					<numweights>22</numweights>
+					<averageweight>2.8182</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

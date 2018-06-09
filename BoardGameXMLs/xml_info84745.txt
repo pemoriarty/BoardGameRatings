@@ -1,0 +1,98 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="84745">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Temple</name>
+									
+			<description>This is a game for 2 players. You need 1 set of Nestortiles.&lt;br/&gt;&lt;br/&gt;Each player chooses 5 colours and takes the corresponding tiles.&lt;br/&gt;One player begins by placing a tile valued 1 on to the table. Then the players continue alternately.&lt;br/&gt;&lt;br/&gt;On his turn a player puts 1 to 3 (dependent on the move type) tiles onto the table. There are 6 possibilities to extend the building:&lt;br/&gt;&lt;br/&gt;(Floor tiles are tiles directly on the table, wall tiles are vertical tiles and top tiles are horizontal tiles not touching the table)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Floor - A tile directly on the table touching at least one other tile.&lt;br/&gt;    Corner Wall - Two adjacent vertical tiles with an inbetween angle of 90&amp;deg;, both touching a floor tile.&lt;br/&gt;    Single Wall - A vertical tile touching at least one other wall tile. It also has to touch a floor or top tile.&lt;br/&gt;    Tunnel - The top tile has to touch exactly one wall tile, and may additionally touch one or more top tiles. On the opposite side of the touching wall side another wall is placed.&lt;br/&gt;    Single Top - A top tile touching at least 2 wall tiles.&lt;br/&gt;    Corner Top - A top tile touching at least 2 other top tiles but no wall tile. On every side not touching another top tile a wall tile is added.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;There are some additional restrictions for the moves:&lt;br/&gt;&lt;br/&gt;The players have to use the tiles colour by colour. Only if the first used colour is completely placed on the table, the next colour may be used. So if there is only one tile remaining in a colour the player can only place one tile in his next turn.  The colour by colour rule is meant to be for the tiles of one player. Example: Player A starts with a yellow tile. Player B continues with two green tiles. Now player A has to continue with yellow until all yellow is used. Only then player A may choose his next colour. (Same for player B with green)&lt;br/&gt;&lt;br/&gt;Each placed tile has to touch at least one tile with the same or a smaller value.  The dots of the top tiles always must be on the top side. So it is not possible to have a top directly above a floor.&lt;br/&gt;&lt;br/&gt;A player wins if he places all 30 tiles on the table.&lt;br/&gt;A player loses if he has no legal move (Beware of tiles with small value).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/webKvCrJaKjG4AQVK5HGvrXBeK4=/fit-in/200x150/pic848090.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tN-_bm1d2OTkr72uAn2bKTqSjIE=/0x0/pic848090.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgameversion objectid="69077">First edition</boardgameversion>
+															<boardgamefamily objectid="6901">Nestortiles</boardgamefamily>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamedesigner objectid="12686">Martin Windischer</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.75</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

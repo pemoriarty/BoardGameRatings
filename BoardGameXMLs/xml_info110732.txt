@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="110732" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Bally Professional Arcade</name>
+									
+			<description>The Bally Professional Arcade, later known as the Astrocade, is an early video game console and simple computer system designed by a team at Midway, the videogame division of Bally. It is particularly notable for the powerful graphics capabilities that it offered.&lt;br/&gt;&lt;br/&gt;The console was one of the early cartridge-based systems, using cartridges known as Videocades that were very close in shape and size to cassette tapes. The console also included two games built into the ROM, Gunfight and Checkmate, along with the simple but useful Calculator and a &amp;quot;doodle&amp;quot; program called Scribbling.&lt;br/&gt;&lt;br/&gt;The Bally Professional Arcade featured a relatively complex input device incorporating several types of control mechanisms: the controller was shaped as a pistol-style grip with trigger switch on the front; a small 4-switch/8-way joystick was placed on top of the grip, and the shaft of the joystick connected to a potentiometer, meaning that the stick could be rotated to double as a paddle controller.&lt;br/&gt;&lt;br/&gt;On the front of the console was a 24-key &amp;quot;hex-pad&amp;quot; keyboard used for selecting games and options. Most cartridges included two games, and when they were inserted the machine would reset and display a menu starting with the programs on the cartridge and then listing the four built-in programs.&lt;br/&gt;&lt;br/&gt;A BASIC programming language cartridge was offered for the system. However, programs were entered, laboriously, through the 24-key keypad. Each of the keys could be used to enter several different values: a single command, number or several alpha characters. These were selected through a set of 4 colored shift keys. For example, to type the command GOTO you would press the gold shift key followed by the &amp;quot;+&amp;quot; key.&lt;br/&gt;&lt;br/&gt;On the back of the console were a number of ports, including connectors for power, the controllers, and an expansion port. The top rear of the console was empty was a covered storage compartment that could hold up to 15 cartridges.&lt;br/&gt;&lt;br/&gt;Manufacturing History&lt;br/&gt;&lt;br/&gt;Originally referred to as the Bally Home Library Computer, the console was released in 1977 but available only through mail order. Delays in the production meant none of the units actually shipped until 1978, and by this time the machine had been renamed the Bally Professional Arcade. In this form it sold mostly at computer stores and had little retail exposure (unlike the Atari 2600). In 1979 Bally grew less interested in the arcade market and decided to sell off their Consumer Products Division, including development and production of the game console.&lt;br/&gt;&lt;br/&gt;At about the same time a 3rd party group had been unsuccessfully attempting to bring their own console design to market as the Astrovision. A corporate buyer from Montgomery Ward who was in charge of the Bally system put the two groups in contact, and a deal was eventually arranged. In 1981 they re-released the unit with the BASIC cartridge included for free, this time known as the Bally Computer System, and then changed the name again in 1982 to Astrocade. It sold under this name until the video game crash of 1983, and then disappeared around 1985.&lt;br/&gt;&lt;br/&gt;Technical Details&lt;br/&gt;&lt;br/&gt;In the late 1970s Midway contracted Dave Nutting Associates to design a video display chip that could be used in all of their videogame systems, from standup arcade games, to a home computer system. The system Nutting delivered remains perhaps the most powerful graphics system of the 8-bit generation, and was used in most of Midway's classic arcade games of the era, including Gorf and Wizard of Wor.&lt;br/&gt;&lt;br/&gt;The basic systems were powered by a Zilog Z80 driving the display chip with a RAM buffer in between the two. The display chip had two modes, a low-resolution mode at 160 &amp;times; 102, and a high-resolution mode at 320 &amp;times; 204, both with 2-bits per pixel for four colors. This sort of color/resolution was normally beyond the capabilities of RAM of the era, which could not read out the data fast enough to keep up with the TV display.&lt;br/&gt;&lt;br/&gt;The home systems only used the lower resolution 160 &amp;times; 102 mode. In this mode the console used up 160 &amp;times; 102 &amp;times; 2bits = 4080 bytes of memory to hold the screen. Since the machine had only 4k of RAM, this left very little room left over for the program's use, which was used for things like holding the score, or game options. The rest of the program would have to be placed in ROM.&lt;br/&gt;&lt;br/&gt;The console used color registers, or color indirection as it was often referred to then, so the four colors could be picked from a palette of 256 colors. Color animation was possible by changing the values of the registers, and using a horizontal blank interrupt you could change them from line to line. An additional set of four color registers could be &amp;quot;swapped in&amp;quot; at any point along the line, allowing you to create two &amp;quot;halves&amp;quot; of the screen, split vertically. Originally intended to allow you to easily create a &amp;quot;score area&amp;quot; on the side of the screen, clever programmers used this feature to emulate 8 color modes.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Bally Astrocade&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-68Br6nBnkhcVbA0vsyQTZbhYDI=/fit-in/200x150/pic3118808.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/89om30gF3SO9YjNsPD1dluDT20s=/0x0/pic3118808.jpg</image>
+						
+												<videogamehwversion objectid="131384">Astrocade</videogamehwversion>
+															<videogamehwmfg objectid="16916">Astrocade, Inc.</videogamehwmfg>
+															<videogamehwversion objectid="131383">Bally Computer System</videogamehwversion>
+															<videogamehwversion objectid="131381">Bally Home Library Computer</videogamehwversion>
+															<videogamehwversion objectid="131382">Bally Professional Arcade</videogamehwversion>
+															<videogamehwmfg objectid="15786">Bally/Midway</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehardware objectid="10097" inbound="true">Bally Professional Arcade</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

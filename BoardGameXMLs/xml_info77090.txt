@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77090" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Cabal</name>
+									
+			<description>[User summary]&lt;br/&gt;&lt;br/&gt;Originally an arcade converted for a variety of platforms (Commodore 64, Amiga, MS-DOS and more).&lt;br/&gt;&lt;br/&gt;You are a lone soldier shooting at enemies (soldiers, tanks, helicopters, etc.) appearing at random from both sides of the screen (and in later levels form a lake in the middle and similarly &amp;quot;surprising&amp;quot; spots).&lt;br/&gt;You may only move left or right in the bottom part of the screen (your visual never changes during the same level: there's no &amp;quot;exploration&amp;quot;) and must do so to avoid enemy fire (one hit is always enough to kill you). However you may fire anywhere on the screen (pressing the fire button moves your scope instead of you... and also fires, of course! It's how the game succesfully conveys the idea of your machine gun constantly sweeping the foes).&lt;br/&gt;Several landscape elements (houses, barricades, etc.) may also be destroyed (to leave enemies more exposed and to score points) and the side effect is to represent a progressively devastated patch of terrain because of combat taking place there.&lt;br/&gt;Killing enemies and destroying landscape elements may grant you bonuses (more powerful machine guns, grenades, extra score) easing your task.&lt;br/&gt;Once you have inflicted enough losses to the enemies, you'll proceed to the next stage (meaning a new screen with different and renewed landscape elements and possibly a new kind of enemy added to the bunch of those that may appear) and after every four stage there's a boss battle. Defeat the boss to advance to the next level (same concept - four stages plus a final boss - but different location: urban, forest, etc.).&lt;br/&gt;Complete all the levels to win.&lt;br/&gt;If instead you lose all your &amp;quot;lives&amp;quot; (initially five but more may be earned scoring enough points), you must restart from the very beginning.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Bntr5n8AcDQd6yZ94_LpynNcAX0=/fit-in/200x150/pic879139.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zOKkFCAxSPN8oA27oH1arF5qU6k=/0x0/pic879139.jpg</image>
+						
+												<videogamegenre objectid="2147">Action</videogamegenre>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameversion objectid="390826">Amiga Version</videogameversion>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameversion objectid="390828">Amstrad Version</videogameversion>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameversion objectid="390827">Atari Version</videogameversion>
+															<videogamepublisher objectid="4358">Capcom Co., Ltd.</videogamepublisher>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="77996">DOS Version</videogameversion>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogamepublisher objectid="20">Milton Bradley</videogamepublisher>
+															<videogameversion objectid="63510">NA NES edition</videogameversion>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogamedeveloper objectid="12200">Ocean Software</videogamedeveloper>
+															<videogamepublisher objectid="12200">Ocean Software</videogamepublisher>
+															<videogameplatform objectid="23051">Sinclair ZX80</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="12755">Special FX Software</videogamedeveloper>
+															<videogameversion objectid="390829">Spectrum Version</videogameversion>
+															<videogamedeveloper objectid="14128">TAD Corporation</videogamedeveloper>
+															<videogameversion objectid="53215">US C64 Version</videogameversion>
+															<videogametheme objectid="2317">War - Modern</videogametheme>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>5.80769</average>
+					<bayesaverage>5.58553</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5581" bayesaverage="5.58553" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="218" bayesaverage="5.79989" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="185" bayesaverage="5.83293" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="204" bayesaverage="5.80286" />
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="471" bayesaverage="5.68002" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="125" bayesaverage="5.7623" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="106" bayesaverage="5.85668" />
+												
+											</ranks>
+					
+					<stddev>1.04768</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="85536" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Robot Block</name>
+							<name primary="true" sortindex="1">Stack-Up</name>
+									
+			<description>Stack-Up (AKA Robot Block) is a video game released in 1985 for the Nintendo Entertainment System, designed for use with R.O.B. the Robotic Operating Buddy. Stack-Up is one of two games in Nintendo's Robot Series, the other being Gyromite (AKA Robot Gyro). While Gyromite was a pack-in game with the R.O.B. itself and therefore came with all the parts needed to play the game, Stack-Up came in a large box containing additional bases and colored discs. Because it was marketed to children and the set came with many small, plastic parts, complete copies of the game are very hard to come by. All Stack-Up cartridges contain the 60-pin circuit board from the Famicom version attached to a 72-pin adapter like the T89 Cartridge Converter for the NES. This is one of the rarest first-party games for the NES.&lt;br/&gt;&lt;br/&gt;Plot&lt;br/&gt;&lt;br/&gt;In some modes, Professor Hector works with R.O.B. to organize blocks. In others, Hector competes for control of R.O.B. against &amp;quot;glitches&amp;quot; named Spike &amp;amp; Flipper, or against Professor Vector.&lt;br/&gt;&lt;br/&gt;Gameplay&lt;br/&gt;&lt;br/&gt;The player must direct Professor Hector to jump onto buttons, that each activate an action for R.O.B., in a sequence in order to get R.O.B. to arrange the colored discs in a certain order on the five pedestals around R.O.B.&lt;br/&gt;&lt;br/&gt;Different Modes of Play&lt;br/&gt;Bingo (1P): Like the other single-player modes, the player progresses through phases by moving the blocks from one arrangement to another, but in this mode block colors are irrelevant, and the difficulty is derived from the method used to control R.O.B. The screen is occupied by a 5x5 bingo board that Professor Hector hops around on. Rows on the bingo board correspond to R.O.B. commands: and when a row is completed, the command is executed. The computer-controlled enemies Spike and Flipper roam about, and touching either one will send Professor Hector flying back to the starting position. Spike wanders randomly, but Flipper moves in straight lines from one side of a row to another, activating and deactivating spaces wherever he lands, potentially sending undesired commands to R.O.B. The game ends when a block is dropped.&lt;br/&gt;&lt;br/&gt;Bingo (2P): In this mode, only Professors Hector and Vector occupy the bingo board, competing to send commands to R.O.B., with the goal in mind that player 1 wants more blocks to R.O.B.'s left, and player 2 wants more blocks to R.O.B.'s right. The game begins with three blocks in the middle, and one block to either side.&lt;br/&gt;&lt;br/&gt;Test: This mode sends a signal to R.O.B. that causes his LED to light up, confirming that he can receive signals from the television.&lt;br/&gt;&lt;br/&gt;Direct: The player begins by arranging the blocks in a standard starting pattern (red, white, blue, yellow and green top-to-bottom on tray #3), and is given a randomly chosen pattern they should be rearranged into by entering commands for R.O.B. one at a time. Once the goal is achieved, the player must press start to inform the game. Score is then calculated based on the time and number of moves taken, and the game moves onto the next phase, for which the starting point is the previous phase's ending position. Phases grow increasingly complicated to execute as the player progresses. Play continues until a block is dropped. The score at that time is the final score, and the player must return to the menu screen by pressing select.&lt;br/&gt;&lt;br/&gt;Memory: Like Direct mode, except that rather than entering commands one at a time, the entire sequence of commands must be programmed in advance. R.O.B. goes through the program all at once. Once the sequence has run its course, the player presses start to move on to the next phase or select to return to the main menu. Scoring is the same as in direct mode, with the time score derived from the time taken to enter the commands, not the time taken to execute the program.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Stack Up&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/fOYam-DBEfFVL3W383oFktm1TG8=/fit-in/200x150/pic1060999.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oK9wvPbIZYSa8jcw3qkJboRdVPE=/0x0/pic1060999.jpg</image>
+						
+												<videogameversion objectid="70606">JP Famicom edition</videogameversion>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogameversion objectid="70605">NA NES edition</videogameversion>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogamefranchise objectid="28200">NES Black Box (1980s NES Games, US)</videogamefranchise>
+															<videogamedeveloper objectid="1326">Nintendo Co., Ltd.</videogamedeveloper>
+															<videogamepublisher objectid="1326">Nintendo Co., Ltd.</videogamepublisher>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

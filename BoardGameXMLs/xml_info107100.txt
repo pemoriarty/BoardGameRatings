@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="107100" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Chess</name>
+							<name primary="true" sortindex="1">Microchess</name>
+									
+			<description>Microchess, by Peter R. Jennings, was originally a microcomputer chess program for the MOS Technology KIM-1 microcomputer, first released on December 18, 1976. Microchess, as small as it was in terms of program size, could still play passable chess on the KIM-1 with its 6502 microprocessor, 1 kilobyte of memory, simple hex keyboard, and seven-segment display.&lt;br/&gt;&lt;br/&gt;Selling it at a price of $10 US dollars, Jennings refused to sell the rights of the program to Chuck Peddle (president of MOS Technology) for $1000 dollars. It was the first microcomputer software package to sell 50,000 copies, almost exclusively on cassette tape. Jennings founded VisiCorp together with Dan Fylstra, and the new company published Microchess to the growing microcomputer market. Microchess gave the company enough success to launch VisiCalc which would be its greatest success.&lt;br/&gt;&lt;br/&gt;The program was so popular that even the chess grandmaster Bobby Fischer arranged a meeting with Jennings to play a match against Microchess, the program was overly beaten. Microchess was later expanded into a more fully featured program with graphics for the TRS-80, Apple II, Commodore PET and Atari 400/800 computers. It was also licensed to Novag for its dedicated Chess Champion Mk II in 1979.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Microchess&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;Radio Shack Catalog Description&lt;br/&gt;3 levels of difficulty. For beginning or advanced players. [$19.95]&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YBLigtnJTfOjBl0BPxrSlv5TSdA=/fit-in/200x150/pic1479576.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-jQe2loD3WX0Ym292vhoyWaEeI0=/0x0/pic1479576.png</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogamecompilation objectid="201336">Atari Flashback Classics: Volume 1</videogamecompilation>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogameplatform objectid="10080">Commodore PET/CBM</videogameplatform>
+															<videogamedeveloper objectid="18393">Micro-Ware Ltd</videogamedeveloper>
+															<videogamepublisher objectid="18393">Micro-Ware Ltd</videogamepublisher>
+															<videogameversion objectid="123261">North American TRS-80 Model I Cassette edition</videogameversion>
+															<videogamepublisher objectid="2165">Radio Shack</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="10338">TRS-80 Color Computer</videogameplatform>
+															<videogameplatform objectid="5930">TRS-80 Model I/III</videogameplatform>
+															<videogameversion objectid="123262">US Apple II cassette</videogameversion>
+															<videogameversion objectid="123263">US PET cassette</videogameversion>
+															<videogameversion objectid="123264">US TRS-80 CoCo cartridge</videogameversion>
+															<videogamedeveloper objectid="16317">VisiCorp</videogamedeveloper>
+															<videogamepublisher objectid="16317">VisiCorp</videogamepublisher>
+															<videogamebg objectid="171" inbound="true">Chess</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5930" name="trs80" friendlyname="TRS-80 Model I/III Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="10080" name="commodorepetcbm" friendlyname="Commodore PET/CBM Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="10338" name="trs80colorcomputer" friendlyname="TRS-80 Color Computer Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

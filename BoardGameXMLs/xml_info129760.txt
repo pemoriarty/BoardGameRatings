@@ -1,0 +1,80 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="129760" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">San Juan</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;This is the iOS implementation of the card game San Juan by Ravensburger Digital GmbH. Single player games are against up to three AI of different levels. Local and online multiplayer (GameCenter supported) are also available.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vO3n10eDS8BBoHG6QA9lMfTOjfo=/fit-in/200x150/pic1512435.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1kA61KHn7S2fjHW81KglGt1wU-U=/0x0/pic1512435.png</image>
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="256419">Android edition</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogameversion objectid="177959">iPhone/iPad edition</videogameversion>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamedeveloper objectid="25005">Ravensburger Digital GmbH</videogamedeveloper>
+															<videogamepublisher objectid="25005">Ravensburger Digital GmbH</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogamebg objectid="8217" inbound="true">San Juan</videogamebg>
+															<videogamebg objectid="166669" inbound="true">San Juan (second edition)</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>71</usersrated>
+					<average>7.61127</average>
+					<bayesaverage>6.86714</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="563" bayesaverage="6.86714" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="50" bayesaverage="7.23772" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="47" bayesaverage="7.16667" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="52" bayesaverage="7.26952" />
+												
+											</ranks>
+					
+					<stddev>1.35226</stddev>
+					<median>0</median>
+					<owned>530</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>69</wishing>
+					<numcomments>8</numcomments>
+					<numweights>6</numweights>
+					<averageweight>2.1667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

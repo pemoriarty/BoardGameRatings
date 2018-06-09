@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="89081">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Bluffi</name>
+									
+			<description>A memory, bluff racing game. A racing track is built with 24 tiles. The tiles are hidden on the hidden side are values: -3,-2,-1,+1,+2,+3,+4. &lt;br/&gt;On a game board are 8 other hidden tiles with dice values 1,1,2,2,3,3,4,4.&lt;br/&gt;On your turn you turn over one of the dice tiles and move your pawn the number showing and put the dice tile in another storage. Then take the tile you are landing on and look secretly what is on it. Now you declare what you have seen an move according to what you said. &lt;br/&gt;If another player does not believe you he can call you bluff and the tile is shown. Whoever is wrong has to move 5 spaces back.&lt;br/&gt;After 8 turns the dice tile sotrage is gone and now we play with the other storage.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/e-qO_n6akJ-GBJ-WS9xRZRQIoR4=/fit-in/200x150/pic890106.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/t_Aj7upHNb4gQzze5KM6NOhYIcc=/0x0/pic890106.jpg</image>
+						
+												<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+																						<boardgameversion objectid="77395">German version</boardgameversion>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamedesigner objectid="159">Henri Sala</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.471405</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

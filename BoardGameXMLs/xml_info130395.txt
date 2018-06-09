@@ -1,0 +1,81 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="130395" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Arcade Classic No. 4</name>
+							<name  sortindex="1">Midway Presents Arcade Hits: Joust / Defender</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;A compilation of Joust and Defender, two games that were originally made popular as Arcade games.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameseries objectid="26149">Arcade Classic</videogameseries>
+															<videogamedeveloper objectid="15786">Bally/Midway</videogamedeveloper>
+															<videogame objectid="68528">Defender (1980)</videogame>
+															<videogamedeveloper objectid="12544">Digital Eclipse Software</videogamedeveloper>
+															<videogameplatform objectid="4422">Game Boy</videogameplatform>
+															<videogameplatform objectid="4424">Game Boy Color</videogameplatform>
+															<videogame objectid="71560">Joust</videogame>
+															<videogametheme objectid="2284">Medieval</videogametheme>
+															<videogamepublisher objectid="11759">Midway Games Inc.</videogamepublisher>
+															<videogamepublisher objectid="1326">Nintendo Co., Ltd.</videogamepublisher>
+															<videogameversion objectid="197225">North American Game Boy Color edition</videogameversion>
+															<videogameversion objectid="179408">North American Game Boy edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogamecompilation objectid="68528" inbound="true">Defender (1980)</videogamecompilation>
+															<videogamecompilation objectid="71560" inbound="true">Joust</videogamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4422" name="gameboy" friendlyname="Game Boy Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4424" name="gameboycolor" friendlyname="Game Boy Color Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

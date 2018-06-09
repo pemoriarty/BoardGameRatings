@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="114484">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Ayu</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Ayu is a dynamic connection game for two players: Black and White. It is played on the intersections (points) of an odd-sized square board. The suggested sizes are 11&amp;times;11 for experienced players and 9&amp;times;9 for beginners. At the start of the game, Black and White pieces are arranged in an interspersed pattern (see images). The total number of pieces is equal to half the points in the board.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;In these rules, &amp;quot;adjacent&amp;quot; always means &amp;quot;orthogonally adjacent&amp;quot;.&lt;br/&gt;&lt;br/&gt;A unit is a singleton or group. A singleton is a piece with no adjacencies to like-colored pieces. A group is a set of like-colored, adjacent pieces.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On each turn, players must do one of the following actions:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Move a friendly singleton to an adjacent empty point.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Take a piece from a friendly group and place it on a different empty point adjacent to the same group. All pieces which were joined in a single group before the move must remain joined after the move.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Every move must reduce the distance between the moved unit and the closest friendly unit. The distance between two units is the shortest path of adjacent empty points between them, i.e. the number of consecutive moves one would need to join them.&lt;br/&gt;&lt;br/&gt;If a player can't make a move on his turn, he wins. This usually occurs when said player has joined all his pieces in a single group.&lt;br/&gt;&lt;br/&gt;If a board position is repeated with the same player to move, the game ends in a draw. This is known to be a theoretical possibility if both players cooperate to it, which doesn't happen in actual play.&lt;br/&gt;&lt;br/&gt;The pie rule can be used in order to balance the game.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Notes&lt;br/&gt;&lt;br/&gt;An essential part of the strategy lies in building long walls between enemy units, thus forcing the opponent to spend many more turns connecting them. Also, playing from the outside inwards is more efficient, as it helps you not to leave any units behind. The distance rule has some interesting tactical effects: sometimes, in order to move a unit (A) in the desired direction, you'll have to first move away the unit (B) which is closest to it so that A isn't &amp;quot;engaged&amp;quot; to B anymore.&lt;br/&gt;&lt;br/&gt;Ayu is arguably the quintessential game of approach moves. The rules have been kept to a minimum so as to let the featured mechanism unfold by itself. The result is a very organic and innovative game with great strategic potential.&lt;br/&gt;&lt;br/&gt;&amp;quot;Ayu&amp;quot; is short for &amp;quot;Attach Your Units&amp;quot;.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/a7C2o8MBk7UMal60BSPVAIhqeQU=/fit-in/200x150/pic1179209.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/02cIh66uIgflqMbuW_3ust9LEac=/0x0/pic1179209.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="140250">First edition</boardgameversion>
+																						<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+																						<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>7.68077</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.27186</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>7</wishing>
+					<numcomments>9</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

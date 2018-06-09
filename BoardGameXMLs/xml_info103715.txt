@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="103715">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">3 on 3</name>
+									
+			<description>3 on 3 is a very simple game.  In it, you have 3 different colored pieces that can stack on each other, each a different color.&lt;br/&gt;&lt;br/&gt;During a turn, a player moves the top piece on one of the spaces onto the board to another space, and scores points for that color.  Players must either move a piece from, or a piece to, a space which didn't either have a piece from it or to it the last turn (after the first turn this is true.  The first turn a piece may move to any empty space).&lt;br/&gt;&lt;br/&gt;When a piece of a given color moves onto a space, its color scores 1 point for the number of pieces currently on that space (after landing on it).&lt;br/&gt;&lt;br/&gt;Each player has one of the colors as their color.  The object of the game is for a player to have their color have the lowest score after any of the colors reached the target score selected at the start of the game (20-30 points is usually an ideal target score for a quick game).&lt;br/&gt;&lt;br/&gt;While not initially intended, this game is now part of a planned series of games played on a single line, that will contain at least 3 games.  Two more are in the works.  This may change, but this is the plan of this moment.  Keep an eye out for a Geeklist containing the games in this planned series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QcWwDBMXbOdzus8FJLGicOSIBEw=/fit-in/200x150/pic1054655.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/usxHhw9ZJbWRylRzVIx935WtxHg=/0x0/pic1054655.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="114122">First edition</boardgameversion>
+															<boardgamedesigner objectid="8933">Richard Hutnik</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.16025</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

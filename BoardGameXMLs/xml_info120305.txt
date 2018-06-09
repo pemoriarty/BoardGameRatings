@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120305">
+			<yearpublished>2012</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>70</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>70</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Farmerama</name>
+									
+			<description>Based on the popular videogame and designed by Uwe Rosenberg, players in Farmerama use action cards to sow and harvest crops (carrots, hay, oats, corn) to feed their livestock (sheep, pigs, cow, horse) and earn victory points. On each player's board, a rotating wheel indicates where and when actions can take place, and another central wheel that affects all players indicates what yields they can expect. These wheels change over time, creating constantly shifting situations that players must navigate.&lt;br/&gt;&lt;br/&gt;Buyers of the board game will also receive free resources to spend in the videogame.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BbcAe8y8bojPIK6_1qRuXGA1yAU=/fit-in/200x150/pic1275649.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sgZjnjqA_JvaQZ3T0cCQNmYZkJ8=/0x0/pic1275649.jpg</image>
+						
+																			<boardgamecategory objectid="1089">Animals</boardgamecategory>
+																						<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepodcastepisode objectid="95629">Farmerama - Das Brettspiel (Ravensburger):  Spiele-Podcast Nr. 170</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1013">Farming</boardgamecategory>
+																																																																																																																																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="153512">Multilingual (NL/FR/DE/IT) edition</boardgameversion>
+															<boardgameversion objectid="279910">Multilingual (PL, HU, SL, CZ) edition</boardgameversion>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+																						<boardgamedesigner objectid="10">Uwe Rosenberg</boardgamedesigner>
+																						<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>250</usersrated>
+					<average>6.19412</average>
+					<bayesaverage>5.62464</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5340" bayesaverage="5.62464" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1503" bayesaverage="5.66023" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1173" bayesaverage="5.67329" />
+												
+											</ranks>
+					
+					<stddev>1.20234</stddev>
+					<median>0</median>
+					<owned>435</owned>
+					<trading>33</trading>
+					<wanting>23</wanting>
+					<wishing>79</wishing>
+					<numcomments>68</numcomments>
+					<numweights>20</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

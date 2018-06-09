@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="98503" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Chessmaster LIVE</name>
+									
+			<description>User Summary:&lt;br/&gt;&lt;br/&gt;This game is a very straightforward version of chess. Players can play either single-player (vs CPU), local multi, or network multi. The CPU is balanced and flexible. Each game will be a little different when playing against the CPU. Sometimes the opponent will be cautious, sometimes aggressive, and sometimes a little of both. Online multi allows for voice and camera integration. The player can either play multi-player in real time, or as &amp;quot;Message Chess&amp;quot; wherein the player trades moves with an opponent over the course of a longer period of time. A notification will great the player each time they sign in to the game, if the opponent has made a move.&lt;br/&gt;&lt;br/&gt;There are a few different themes that can be chosen for the board and pieces, but they do not alter the gameplay.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogameseries objectid="6758">Chessmaster</videogameseries>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="11781">Ubisoft Entertainment S.A. (Ubisoft)</videogamedeveloper>
+															<videogamepublisher objectid="11781">Ubisoft Entertainment S.A. (Ubisoft)</videogamepublisher>
+															<videogameplatform objectid="4407">Xbox 360</videogameplatform>
+															<videogameversion objectid="98167">Xbox 360 XBLA edition</videogameversion>
+															<videogamebg objectid="171" inbound="true">Chess</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

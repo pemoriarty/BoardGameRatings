@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="85454">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Byg</name>
+									
+			<description>A 2 player abstract game, played with white and black stones on a Hexhex board. The goal is to have the largest group on the board when the game ends and the board is full.  There is a trick, though: You can place as many stones per turn as you have groups on the board (up to a limit).  There's a tricky balance: you need to connect your groups together to advance toward the goal, but you can't connect them too much or else you won't be able to place as many stones as your opponent.&lt;br/&gt;&lt;br/&gt;The current rules:&lt;br/&gt;&lt;br/&gt;1. The board begins empty.&lt;br/&gt;&lt;br/&gt;2. To begin, White puts a single stone on any vacant space, and then Black does the same.&lt;br/&gt;&lt;br/&gt;3. From then on, starting with Black, the players take turns. On your turn you may place as many stones as you have groups on the board, and you may place them onto any vacant spaces.  Except:&lt;br/&gt;&lt;br/&gt;*You must place at least one stone.&lt;br/&gt;    *The stones you place may not be adjacent to one another. &lt;br/&gt;    *If you have more than 3 groups on the board, the maximum number of stones you may place is 3.&lt;br/&gt;    *You may not grow any group by more than one stone.&lt;br/&gt;    *A stone connecting two or three different groups together is considered to have grown them all (at the end of your turn, no group may have more than one new stone in it).&lt;br/&gt;&lt;br/&gt;4. The game ends when the board is full and the player with the largest group wins.   If the players&amp;rsquo; largest groups are the same size, compare their second-largest groups, and so on, until you come to a pair which aren't the same size.  Whoever owns the larger group wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vz0P5gdE8aB-gU2iYDxCT5rrZ0k=/fit-in/200x150/pic1447122.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/krwGggOTsSmRx-cy8Yu-xtOzoY4=/0x0/pic1447122.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="7958">Nick Bentley</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameversion objectid="70389">Version 1.0</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

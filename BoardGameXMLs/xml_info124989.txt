@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="124989">
+			<yearpublished>1999</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Wong&#039;s Game</name>
+									
+			<description>Wong's Game is a 2 players abstract board game about stone placement and area influence invented by Gary Wong in 1999.&lt;br/&gt;&lt;br/&gt;The game is played on an initial empty square board. Additionally each player should have a enough stones of their own color. Alternatively the author suggest that the game can be played with just paper and pencil.&lt;br/&gt;&lt;br/&gt;The game is divided in a placement phase and a growing phase:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Placement Phase - Each player, in turns, drops N-1 stones into empty cells (with a NxN board).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Growing Phase - Each player continues to drop stones into empty cells, but now, each stone must have two or more adjacent friendly stones (by &amp;quot;adjacent&amp;quot; it should be understood &amp;quot;orthogonal or diagonal adjacent&amp;quot;).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When both players are unable to move the one who has more stones in the board will be the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VezNbxyW0VSCIpQwplQ6LqymIhE=/fit-in/200x150/pic1315454.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HFMTGR5QqU26MqFlit0Mm9onnrk=/0x0/pic1315454.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgameversion objectid="166205">First &quot;The World of Abstract Games&quot; edition</boardgameversion>
+																						<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+																						<boardgamedesigner objectid="60375">Gary Wong</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

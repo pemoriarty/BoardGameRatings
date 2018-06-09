@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="82494" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Chaos</name>
+							<name  sortindex="1">Chaos: The Battle of Wizards</name>
+									
+			<description>Chaos: The Battle of Wizards is a turn-based tactics computer game which was released on the ZX Spectrum in 1985.  It was written by Julian Gollop and originally published by Games Workshop.&lt;br/&gt;&lt;br/&gt;Chaos was written by Julian Gollop, based on his designs for a traditional card game.  The Chaos card game was in turn inspired by the early Games Workshop board game Warlock.  He was an avid card game designer but then saw computers as a way of hiding game rules too complicated for pen-and-paper scenarios.  Thus the board used in the card game became the tiled map in the video game.&lt;br/&gt; &lt;br/&gt;Gameplay&lt;br/&gt;&lt;br/&gt;In Chaos, players take the role of wizards who vie with one another to win the game.  The aim of the game is to be the 'last wizard standing' by destroying all other wizards.  The game allows for anything between two and eight wizards, any of whom can be human or computer controlled.  The level of the computer controlled wizards must be selected, ranging from 1 to 8.  Higher levels improve the computer wizards' combat statistics, but does not improve their artificial intelligence.  Computer controlled wizards do not cooperate; they will attempt to kill each other as well as the human players.&lt;br/&gt;&lt;br/&gt;Chaos is a turn-based game.  Each turn, every player in order selects and casts a spell, then moves their wizard and any summoned creatures.&lt;br/&gt; &lt;br/&gt;Spells&lt;br/&gt;&lt;br/&gt;Each wizard is given a random selection of spells at the start of the game with which to defeat the other wizards.  Spells are either Lawful, Neutral, or Chaotic, and have a difficulty value expressed as a percentage chance of success when cast.  A spell can only be cast once, with the exception of the &amp;quot;Disbelieve&amp;quot; spell which is always available to every wizard.  New spells can only be acquired via the &amp;quot;Magic Wood&amp;quot; spell.&lt;br/&gt;&lt;br/&gt;During the game, the type of spells cast affects the subsequent difficulty of other spells.  Casting many lawful spells results in a more lawful environment, which in turn makes other lawful spells easier to cast.  The same principle applies to chaotic spells.  Spells of the opposite alignment are not more difficult to cast however.  Neutral spells are unaffected either way, and are always cast at the same difficulty percentage.  This feature has a big impact on the strategy of the game, as a viable tactic is to cast lots of easy spells of a certain alignment, in order to make it easier to cast the more powerful spells of that alignment.&lt;br/&gt;&lt;br/&gt;Spells fall into various categories and have various ranges.&lt;br/&gt;&lt;br/&gt;Creature spells summon a monster adjacent to the wizard, which can then be moved in the movement phase.  These include standard units such as goblins, lions and giant rats; undead creatures which can only be attacked by other undead creatures or magic weapons, such as ghosts, spectres and zombies; flying creatures such as bats, dragons and manticores; mountable creatures which can be ridden by their wizard, such as horses, centaurs and unicorns; some creatures may have a ranged attack, such as the elf's and centaur's bow and the dragon's breath.&lt;br/&gt;&lt;br/&gt;Some creatures are harder to cast than others, with the more powerful creatures having a lower base percentage chance to cast.  Creatures can be cast as an &amp;quot;Illusion&amp;quot;, with a 100% chance of being cast, with the disadvantage that they can be destroyed if another wizard casts a &amp;quot;Disbelieve&amp;quot; spell at them.&lt;br/&gt;&lt;br/&gt;Creatures have attack and defense ratings which govern how effective they are, move ratings which control how many squares they can move a turn, maneuver ratings which govern how easily a creature can break off combat and magic resistance for governing defence against magical assaults.  Flying creatures movement ratings govern how many square they can fly.  Wizards also have these ratings, as well as a magic rating governing how many spells they initially have.&lt;br/&gt;&lt;br/&gt;Several spells create objects on the board.  &amp;quot;Magic Wood&amp;quot; creates eight trees which any wizard may enter for protection and a chance to gain a new spell.  &amp;quot;Shadow Wood&amp;quot; creates eight trees which may attack adjacent enemies.  &amp;quot;Gooey Blob&amp;quot; and &amp;quot;Magic Fire&amp;quot; spread over the course of the game, engulfing enemy creatures.  &amp;quot;Wall&amp;quot; creates four obstructing blocks, whilst &amp;quot;Dark Citadel&amp;quot; and &amp;quot;Magic Castle&amp;quot; may be entered by the wizard for protection.&lt;br/&gt;&lt;br/&gt;A player may also receive spells that improve his wizard, such as &amp;quot;Magic Sword&amp;quot; or &amp;quot;Shadow Form&amp;quot;, or spells that directly attack other creatures, such as &amp;quot;Magic Bolt&amp;quot; or &amp;quot;Vengeance&amp;quot;.&lt;br/&gt; Other miscellaneous spells include those that change the global law or chaos level, raise dead creatures to undead status, subvert an enemies creature.  One rare spell, &amp;quot;Turmoil&amp;quot;, moves all creatures and objects on the board to a random location.  The rarity of this spell was due to a bug that caused it to appear only once every 64 games; however, in Julian Gollop's words: &amp;quot;...that's probably a good thing.&amp;quot;&lt;br/&gt; &lt;br/&gt;Turn sequence&lt;br/&gt;&lt;br/&gt;Each (human) wizard takes it in turn to view the board (if desired), examine their spells and select one to cast on the next turn (selecting a spell is not compulsory).  Typically, the other human players look away during spell choice to avoid unfair advantage.  Once all players have chosen their spell, they attempt to cast them in order.&lt;br/&gt;&lt;br/&gt;Whereas the human players select their spells before each turn begins, the computer wizards actually select their spells during the play stage of each turn.  This is not documented, although it becomes apparent in play, as the computer wizards often cast spells that would have required foreknowledge of the other players' actions.  For example, a computer wizard might cast a 'disbelieve' spell immediately after a human player has conjured a powerful creature, or the computer might fire a 'Magic Bolt' at a player-summoned creature when no targets were in range beforehand.&lt;br/&gt;&lt;br/&gt;Once all spells have been cast, surviving wizards take it in turns to move themselves and any creatures under their control (unless they are 'engaged'), and attack other wizards/creatures.&lt;br/&gt; &lt;br/&gt;Combat&lt;br/&gt;&lt;br/&gt;Other creatures or wizards are attacked by either moving into them, or flying onto them.  Moving or flying next to an enemy creature automatically 'engages' them, and allows for an immediate attack.  If an attack is successful the enemy creature disappears/dies and the attacking creature moves onto its square.  Flying onto a creature allows an attack, but the flying creature remains in place unless it succeeds in killing its target, in which case it takes its place as above.  Only defending creatures can be killed, attacking creatures are safe until attacked themselves.&lt;br/&gt;&lt;br/&gt;Success depends on the attacking creature's combat rating vs. the defending creature's defense rating and a certain amount of randomness.  Some creatures have ranged combat, allowing them to attack other creatures from afar, so long as there is a clear line of sight.  An undead creature can only be attacked by other undead creatures (or magic weapon equipped wizards), but can attack both undead and non-undead creatures itself.&lt;br/&gt;&lt;br/&gt;Creatures with ranged attacks may fire, after movement and close combat, at any creature in range.&lt;br/&gt;&lt;br/&gt;Once all wizards have taken it in turn to move and fight, the turn sequence starts over from the beginning.  For human players, no actions are compulsory, they may simply skip any actions they do not want to take.  Computer controlled wizards will always move, unless in a Magic Wood, Castle or Citadel, even when it is not in their best interest to do so.  Likewise all computer controlled creatures always attempt to move each turn.&lt;br/&gt;&lt;br/&gt;If a wizard is destroyed, all his creations immediately vanish also.&lt;br/&gt; &lt;br/&gt;Critical reaction&lt;br/&gt;&lt;br/&gt;CRASH awarded Chaos 8 out of 10 in issue 16, praising neatness of presentation, efficient sound effects, pleasing sprites and concluding that it was a very good multiplayer strategy game.  Criticisms included the sparseness of the initial playing area, lack of status report for the wizards and information on how much damage was being dealt.  The reviewer also felt there could have been a wider range of missile attack spells. Sinclair User rated Chaos 4 out of 5 stars, calling it &amp;quot;fast-moving and colourful&amp;quot; with simple, functional graphics.  It was seen to be complex enough to appeal to players of both Dungeons &amp;amp; Dragons and strategy games.  White Dwarf awarded 7 out of 10, finding particular fun in the spells &amp;quot;Magic Fire&amp;quot; and &amp;quot;Gooey Blob&amp;quot; but criticising the poor quality of the instruction booklet.&lt;br/&gt; In the final issue of Your Sinclair (issue 93, September 1993), Chaos was listed at position 5 of the Your Sinclair Readers' Top 100 Games Of All Time.  The same issue featured a Chaos play-off between various staff members and contributors: Rich Pelley, Steve Anderson, Craig Broadbent, Chris Buxton, Jonathan Nash (then editor), Jonathan Davies, Jeff Braine and Steph (an inflatable shark, filling in for an absent Stuart Campbell).&lt;br/&gt; The September 2006 issue of GamesTM magazine listed Chaos at position 44 of the top 100 games of all time. This made it the second highest rated Spectrum game, behind Manic Miner.&lt;br/&gt; &lt;br/&gt;Influence&lt;br/&gt;&lt;br/&gt;The developers of award-winning indie PC strategy game Darwinia cite Chaos as an influence during its early development.  Chaos has also been the subject of many homebrew remakes.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Chaos (video game)&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt; &lt;br/&gt;User Summary&lt;br/&gt;&lt;br/&gt;Julian Gollop went on to develop many other games including Rebelstar, Laser Squad and the X-Com series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/PXsaS_daV1FwGCFlWPT2UoN8kIQ=/fit-in/200x150/pic810360.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/z--24GEiFNpNRxvS5bwgyDUy91Q=/0x0/pic810360.jpg</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamepublisher objectid="26">Games Workshop Ltd.</videogamepublisher>
+																						<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="64457">ZX Spectrum edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>9.07143</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2370" bayesaverage="6.01546" />
+												
+							
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.863075</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

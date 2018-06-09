@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="83863" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Silkworm</name>
+									
+			<description>Silkworm is a classic side scrolling shooter, developed by Tecmo and first released for arcade in 1988. In 1989 it was ported to the Amiga, Atari ST, Commodore 64, ZX Spectrum, Amstrad CPC and NES (1990) systems by The Sales Curve and released by Virgin Mastertronic.&lt;br/&gt;&lt;br/&gt;Silkworm had interesting graphics and relatively fast-paced gameplay. The player can take control of a Jeep mounted with a machine gun or a Helicopter mounted with forward and downward firing guns. Two players can work simultaneously and cooperatively against enemies, with one playing as the Jeep and one as the Helicopter.&lt;br/&gt;&lt;br/&gt;In single-player mode, it is generally easier to play with the Helicopter than with the Jeep, but it can be more fun to play as the Jeep. As the Jeep, the player needs to destroy everything directly in front of it or be prepared to jump in order to avoid collisions. In two-player mode, the Helicopter and Jeep must cooperate, and the players depend on each other to succeed. For example, the Helicopter can only fire forward, so occasionally, the Jeep must cover the rear with his swiveling gun. However, when covering the rear, the Jeep is vulnerable from the front, so the Helicopter must cover him.&lt;br/&gt;&lt;br/&gt;The players collect shields, power cells which increase fire power and an additional bonus can be added to the score achieved. The game gets harder on the completion of each level. The game employed some destructible environmental elements, such as buildings and ancient ruins. Silkworm featured a background music theme composed by Barry Leitch. It had sound effects.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Silkworm (game)&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/BgiqvlgDPDbeAgMaai1QTI_jvds=/fit-in/200x150/pic1562434.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Nino2SCdPmaaQRu_4T8VTVonr2Q=/0x0/pic1562434.png</image>
+						
+												<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameplatform objectid="4781">Arcade</videogameplatform>
+															<videogameversion objectid="67534">Arcade edition</videogameversion>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogamemode objectid="2313">Cooperative</videogamemode>
+															<videogameversion objectid="150580">European Amiga edition</videogameversion>
+															<videogamepublisher objectid="32665">Mastertronic Plus</videogamepublisher>
+															<videogametheme objectid="2508">Military</videogametheme>
+															<videogameplatform objectid="4430">NES</videogameplatform>
+															<videogameversion objectid="76932">North American Commodore 64 edition</videogameversion>
+															<videogameversion objectid="98905">North American NES edition</videogameversion>
+															<videogamedeveloper objectid="12622">Sales Curve Interactive</videogamedeveloper>
+															<videogamepublisher objectid="12291">Sammy Corporation</videogamepublisher>
+															<videogamegenre objectid="2346">Scrolling</videogamegenre>
+															<videogamegenre objectid="2505">Shoot &#039;em Up</videogamegenre>
+															<videogameseries objectid="5453">Silkworm/SWIV</videogameseries>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="11830">Tecmo, Ltd.</videogamedeveloper>
+															<videogamepublisher objectid="11830">Tecmo, Ltd.</videogamepublisher>
+															<videogamepublisher objectid="3803">Virgin Mastertronic</videogamepublisher>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="329517">ZX Spectrum (Mastertronic Plus) re-release</videogameversion>
+															<videogameversion objectid="329514">ZX Spectrum edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21</usersrated>
+					<average>6.71905</average>
+					<bayesaverage>5.96741</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2605" bayesaverage="5.96741" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="122" bayesaverage="6.52885" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="98" bayesaverage="6.50313" />
+														<rank type="family" id="4430" name="nes" friendlyname="NES Rank" value="94" bayesaverage="6.44256" />
+														<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="81" bayesaverage="6.52116" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="54" bayesaverage="6.53256" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="58" bayesaverage="6.60108" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="51" bayesaverage="6.54832" />
+												
+											</ranks>
+					
+					<stddev>1.27899</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136037">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Trisq</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Trisq is a drawless connection game for two players: Red and Blue. It's played with trapezium-shaped pieces on an initially empty square board. The top and bottom edges of the board are colored red; the left and right edges are colored blue. The recommended board sizes are between 6x6 and 9x9.&lt;br/&gt;&lt;br/&gt;All pieces are the same and only differ in color. They can be placed in any orientation, but always with the front side up. Thus, when playing on a physical board, the back side of the pieces should be marked so as to distinguish it from the front side. A square can accommodate four pieces, and no piece can be placed in a way that makes this physically impossible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;Two pieces are point adjacent if they share nothing more than a vertex, and edge adjacent if they share at least part of a side longer than a vertex.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Red plays first, then turns alternate. On his turn, a player must place one or two pieces of his color on empty spaces of the board. On his first turn, Red can only place one stone.&lt;br/&gt;&lt;br/&gt;At the end of a turn, for any two point adjacent, like-colored pieces there must be at least one like-colored piece edge adjacent to both.&lt;br/&gt;&lt;br/&gt;Passing is not allowed. Players will always have a move available and must make one.&lt;br/&gt;&lt;br/&gt;The game is won by the player who completes a chain of edge adjacent pieces of his color touching the two opposite board edges of his color. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Acknowledgements&lt;br/&gt;&lt;br/&gt;The featured placement restriction was first used in Corey Clark's Slither. Asymmetric, variable orientation cell division was first used in Mark Steere's Tripen.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/oWEBAL71xft5Q_aKUZIhCsnsnOU=/fit-in/200x150/pic1855774.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3d2ItnK1Gb_liNB0f88JsFszu5M=/0x0/pic1855774.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="194236">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.93333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.36831</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

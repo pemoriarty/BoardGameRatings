@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="84913">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Bridget</name>
+							<name primary="true" sortindex="1">Caminos</name>
+									
+			<description>Caminos is a connection game somewhere between Rumis and Punct. Players win by forming a continuous line of their own colour (by placing rumis style 3d tetris blocks) from one side of the board to the other.&lt;br/&gt;&lt;br/&gt;from the back of the box:&lt;br/&gt;&lt;br/&gt;1. Players take turns playing a piece of their colour. The piece may be placed anywhere on the board, as long as it touches the game board, lines up with the grid, and creates no empty space underneath itself.&lt;br/&gt;&lt;br/&gt;2. The game is won by the player or team that connects opposite sides of the board with a path made by pieces of their colour as viewed from above.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YCqZHMWhtNkj9NZ6U4xhniuIHSQ=/fit-in/200x150/pic825272.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XnttlW8yK649zkQ3v-8xAWqaQGo=/0x0/pic825272.jpg</image>
+						
+												<boardgamefamily objectid="5607">3D Games</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamepublisher objectid="6013">Brändi</boardgamepublisher>
+															<boardgameversion objectid="351588">Brändi Multilingual edition</boardgameversion>
+																													<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+																													<boardgamepublisher objectid="11114">Et Games Limited</boardgamepublisher>
+																																																		<boardgamedesigner objectid="2286">Stefan Kögl</boardgamedesigner>
+															<boardgameartist objectid="2286">Stefan Kögl</boardgameartist>
+															<boardgameversion objectid="69369">Murmel Multilingual edition</boardgameversion>
+															<boardgamepublisher objectid="2097">Murmel Spielwerkstatt und Verlag AG</boardgamepublisher>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																													<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+																																				<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>74</usersrated>
+					<average>6.59865</average>
+					<bayesaverage>5.57169</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7126" bayesaverage="5.57169" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="328" bayesaverage="5.84059" />
+												
+											</ranks>
+					
+					<stddev>1.10631</stddev>
+					<median>0</median>
+					<owned>140</owned>
+					<trading>9</trading>
+					<wanting>10</wanting>
+					<wishing>33</wishing>
+					<numcomments>22</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

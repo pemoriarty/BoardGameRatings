@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="76203">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Regality vs. Religion: Revolution</name>
+							<name primary="true" sortindex="1">RRR</name>
+									
+			<description>RRR (Regality vs. Religion: Revolution) is an advanced version of the basic game RR designed by Seiji Kanai&lt;br/&gt;&lt;br/&gt;RR is a two-player full-information abstract game. Both players have the same set of pawns. The players take turns placing pawns on a 3x3 square playing field. Each pawn placed will either turn or destroy one or more of the pawns surrounding it. A game is finished when all nine squares are filled with pawns. At that time, the winner is the holder of most pawns which are facing in one's own direction.&lt;br/&gt;&lt;br/&gt;RRR introduces new pawns to the game. At the start of the game, five neutral pawns are randomly selected from a stack of 11, which are available to both players, adding variation to each game.&lt;br/&gt;&lt;br/&gt;Reimplements:&lt;br/&gt;&lt;br/&gt;    RR&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NbKVe2PxcRaXwLbfMjEhk4KBxnw=/fit-in/200x150/pic798537.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HFlCAmZds6JFVpaenSX0zkRa_b8=/0x0/pic798537.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameimplementation objectid="128028">CLASH: Jihad vs. McWorld</boardgameimplementation>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="51080">First edition</boardgameversion>
+																						<boardgamepublisher objectid="5885">Japon Brand</boardgamepublisher>
+															<boardgamedesigner objectid="9495">Seiji Kanai</boardgamedesigner>
+															<boardgamedesigner objectid="11089">Hayato Kisaragi</boardgamedesigner>
+															<boardgameartist objectid="33586">Keita Komiyama</boardgameartist>
+															<boardgamepublisher objectid="8716">One Draw</boardgamepublisher>
+															<boardgameexpansion objectid="149955">RRR: Adventurer Promo Tile</boardgameexpansion>
+															<boardgameexpansion objectid="149957">RRR: Hayato Kisaragi Promo Tile</boardgameexpansion>
+															<boardgameexpansion objectid="149958">RRR: Seiji Kanai Promo Tile</boardgameexpansion>
+																						<boardgameartist objectid="12439">Noboru Sugiura</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																						<boardgameimplementation objectid="112373" inbound="true">BraveRats</boardgameimplementation>
+															<boardgameimplementation objectid="113066" inbound="true">RR</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>150</usersrated>
+					<average>6.72633</average>
+					<bayesaverage>5.64427</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4900" bayesaverage="5.64427" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="209" bayesaverage="6.04951" />
+												
+											</ranks>
+					
+					<stddev>1.24236</stddev>
+					<median>0</median>
+					<owned>250</owned>
+					<trading>3</trading>
+					<wanting>57</wanting>
+					<wishing>127</wishing>
+					<numcomments>58</numcomments>
+					<numweights>14</numweights>
+					<averageweight>1.7143</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

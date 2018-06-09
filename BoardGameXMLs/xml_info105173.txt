@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="105173">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>4</age>
+
+							<name primary="true" sortindex="1">Yodd</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Yodd is a drawless connection and territory game for two players: Black and White. It is played on the cells of an initially empty hex hex board. The suggested size is between 6 and 10 cells per side. Both players must have access to a sufficient number of black and white stones.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A group is a set of connected, like-colored stones. A single stone is also a group.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;Starting with Black, players take turns placing one or two stones of any color on empty cells. On their first turn, Black can only place one stone.&lt;br/&gt;&lt;br/&gt;At the end of each turn, there must be an odd number of groups on the board (i.e. the sum of the number of Black and White groups must be an odd number).&lt;br/&gt;&lt;br/&gt;Players can pass their turn at any moment, unless it violates the previous rule (this means Black can't pass on their first turn).&lt;br/&gt;&lt;br/&gt;When both players pass in succession, the game ends. The player with the fewest groups on the board wins. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Notes&lt;br/&gt;&lt;br/&gt;Double placement serves both as a first move equalizer and a way to make the game playable under the group restriction rule.&lt;br/&gt;&lt;br/&gt;Meanwhile, apart from the intended goal of eliminating draws (they would be common otherwise), forcing an odd number of groups at the end of a turn has some interesting tactical implications which make the game feel similar to a single placement game. For example, groups separated by two empty cells can't be joined on a single turn, since the player runs out of stones to restore the groups count to an odd number. Also, the diamond connection (two stones at each end of a four-cell rhombus) is safe if the opponent has exactly zero or two groups adjacent to the intermediate cells, and unsafe otherwise.&lt;br/&gt;&lt;br/&gt;Endgames are also quite tricky under this rule: you'll often want to join two of your own groups or create another opponent group, but you'll be unable to do it because you can't restore the groups count anymore!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/eqnitnNPZ-ojb6YimhUpzgew6uc=/fit-in/200x150/pic1186963.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cIvS9AoxWzWMwKGagobhvfUK9JY=/0x0/pic1186963.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+																													<boardgameversion objectid="118754">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+																						<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameimplementation objectid="112111">Xodd</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>7.29167</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.36695</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>10</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

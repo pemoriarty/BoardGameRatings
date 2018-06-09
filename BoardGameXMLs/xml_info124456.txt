@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="124456">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Economy Chess</name>
+									
+			<description>ECONOMY CHESS&lt;br/&gt;&lt;br/&gt;Economy Chess is alot like normal chess, pieces move the same way and the objective is the same (checkmate the king). The difference is the economy: harvest money from the lands you own, and buy and place pieces strategicaly. Spend -or save- your money wisely!&lt;br/&gt;&lt;br/&gt;GAINING INCOME AND PURCHASING PIECES&lt;br/&gt;&lt;br/&gt;When your pieces move around they automatically conquer squares. Each square = 1 coin income per turn. Use the coins to purchase pieces and place them in your productionarea. The player may not move in the turn that the pieces where bought. Losing a tempo can be extremely costly.&lt;br/&gt;Managing your money is an important aspect of the game. If you lose ground to much, the opponent can build alot of material. However, if that leads to sloppy positional play you might get mated while being rich!&lt;br/&gt;&lt;br/&gt;ECONOMY CHESS 960 (Fischer Random)&lt;br/&gt;&lt;br/&gt;Play standard chess with the pieces on your backrank shuffled. Chess960 is the most common chessvariant and can also be played with an economy.&lt;br/&gt;&lt;br/&gt;SANDBOX (create your own Economy Chess variant)&lt;br/&gt;&lt;br/&gt;In an economy people are stimulated to buy cheaper goods. By adjusting the prices of pieces you can alter the economy to your own will. Or players recieve starting money, giving them a sweet boost. &lt;br/&gt;Adjustig those variables is an easy way to create a handicap. A handicap can be used to make the game challenging when a strong chessplayer plays a lower rated opponent.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/weRaGEh9W5enZtTrtOFRvCfYhdE=/fit-in/200x150/pic1465757.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1Oqhu6q2k_3plwty1hjp7eh3hG0=/0x0/pic1465757.png</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+																													<boardgamedesigner objectid="60187">El Kitch</boardgamedesigner>
+															<boardgameversion objectid="165012">first edition, ElKitchGames</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgameexpansion objectid="171" inbound="true">Chess</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

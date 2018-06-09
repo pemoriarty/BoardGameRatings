@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="104416" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Virtua Fighter</name>
+							<name  sortindex="1">Virtua Fighter Remix</name>
+									
+			<description>User Summary&lt;br/&gt;Sega's first installment of the Virtua Fighter series.  A fast-paced 3D fighting game with multiple combos and fighting styles, Virtua Fighter was ported from the arcade to the 32X, Saturn, and PC.  Matches can be won by either knockouts or ring-outs, which were introduced into fighting games by this game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamemode objectid="2313">Cooperative</videogamemode>
+															<videogameversion objectid="116786">English/European Saturn edition</videogameversion>
+															<videogameversion objectid="268645">English/European Sega 32X edition</videogameversion>
+															<videogamegenre objectid="2159">Fighting</videogamegenre>
+															<videogameversion objectid="116787">Japanese Saturn edition</videogameversion>
+															<videogameversion objectid="116782">Japanese Sega 32X edition</videogameversion>
+															<videogametheme objectid="2493">Martial Arts</videogametheme>
+															<videogameversion objectid="116785">North American Saturn edition</videogameversion>
+															<videogameversion objectid="116780">North American Sega 32X (ESRB: T) edition</videogameversion>
+															<videogameversion objectid="116783">North American Sega 32X (not rated) edition</videogameversion>
+															<videogameversion objectid="218282">North American Sega Saturn edition</videogameversion>
+															<videogameversion objectid="116784">North American Windows edition</videogameversion>
+															<videogameplatform objectid="4437">SEGA 32X</videogameplatform>
+															<videogamepublisher objectid="5360">SEGA Corporation</videogamepublisher>
+															<videogamepublisher objectid="14808">SEGA Europe Ltd.</videogamepublisher>
+															<videogamepublisher objectid="11990">SEGA of America, Inc.</videogamepublisher>
+															<videogameplatform objectid="4439">SEGA Saturn</videogameplatform>
+															<videogamedeveloper objectid="11965">SEGA-AM2 Co. Ltd.</videogamedeveloper>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="116781">Spanish Sega 32X edition</videogameversion>
+															<videogamepublisher objectid="14605">Tectoy</videogamepublisher>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5142" bayesaverage="5.64186" />
+												
+							
+														<rank type="family" id="4437" name="sega32x" friendlyname="SEGA 32X Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4439" name="segasaturn" friendlyname="SEGA Saturn Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.969536</stddev>
+					<median>0</median>
+					<owned>25</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

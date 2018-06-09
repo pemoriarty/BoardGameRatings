@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120397">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Siege Master</name>
+									
+			<description>Siege Master is a two-player abstract strategy game of continental conquest. To set up, players create a map-like shape on a hexagonal grid, then they alternate placing an odd number of neutral fortresses on hexes within this map such that most fortresses are at least three spaces from all other fortresses. The variability of map shapes makes every game a new challenge.&lt;br/&gt;&lt;br/&gt;Each player takes a matching set of army tokens and fortress tokens; an army token covers four empty hexes in a row (1x4). Players are trying to capture neutral fortresses, and they do so if the fortress is in an area of zero or more empty hexes that is surrounded by army tokens, the edge of the grid, or both and if no armies can fit into this area. When this happens, the capturing player replaces the neutral fortress with one of his own color.&lt;br/&gt;&lt;br/&gt;On a player's turn, if the player's opponent did not capture a fortress on his previous turn and it is possible to play an army adjacent to the opponent's previously placed army, then the moving player must do so. Otherwise, the active player can play an army token anywhere on the map. (A swap rule applies after the first turn; when swapping, all tokens played by the first player on his first turn are replaced by the second player's tokens.)&lt;br/&gt;&lt;br/&gt;The player who captures more than half of the fortresses on the map wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/HzTiurVNZTNFB1hMFbSvnu9Ad40=/fit-in/200x150/pic1384544.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0T3kXJpLDBUJWj-K8X-B5qAKgnA=/0x0/pic1384544.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="153743">English first edition</boardgameversion>
+																						<boardgamedesigner objectid="24978">Phil Leduc</boardgamedesigner>
+															<boardgameartist objectid="24978">Phil Leduc</boardgameartist>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>7.44444</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.49938</stddev>
+					<median>0</median>
+					<owned>13</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>14</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

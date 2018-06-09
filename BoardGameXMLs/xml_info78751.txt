@@ -1,0 +1,86 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="78751" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">AI War: Fleet Command</name>
+									
+			<description>AI War pits human players against advanced AI opponents that control vastly superior fleets at the start of the game. The main goal is to destroy the two opposing AI's home command stations without losing yours (in multiplayer the humans will not lose until all human home command stations have been lost). As with chess, AI War is generally thought of in the three stages of opening, middlegame, and endgame, all of which involve different player and AI interactions and activities.&lt;br/&gt;&lt;br/&gt;Maps vary in size from 10-120 systems and map size has a significant impact on the play style of the game as well as time required. The game starts out with the human player(s) each controlling one system (though they may choose to start with more) and the AI controlling the rest of the map. Unlike conventional RTS games where the AI will basically emulate a human opponent, the AI operates off something called AI Progress. This mechanic works as an indicator of how aware the AI is of the leftover human remnants in the galaxy (as well as to balance the fact that if the AI simply attacked the player with everything it had at the start of the game it would win every time). As players complete objectives and capture systems, this value goes up, increasing the volume of reinforcements and attack forces the AI gets to use. There are a few mechanics such as Data Centers and the newly introduced AI Superterminals that lower the AI Progress. One of the primary factors when considering whether to take a planet is the AI progress; taking planets raises it and taking too many will cause the player to be overrun.&lt;br/&gt;&lt;br/&gt;AI War supports dynamic cooperation where up to eight players can play together and drop in and out of the game at any time. One effect of this is a group game between friends does not require everybody to be around for each game session, nor does the lobby have to be remade to continue playing if another shows up. As of 3.0, players who join mid-game are given a special colony ship that allows them to start playing without leaning on the other players to gift them systems/units as much.&lt;br/&gt;&lt;br/&gt;AI War also uses strong disincentives to micromanage units in order to help players manage such a large empire without getting bogged down in details, being more important to choose planets wisely and balance your forces than to control said forces exact behavior.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, AI War: Fleet Command , available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WzEBiNmjV6I7Dfg9CGdqcZS5Dzs=/fit-in/200x150/pic1163190.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-R8of_y1yc55OKn2WY4IEfmRDr4=/0x0/pic1163190.jpg</image>
+						
+												<videogamegenre objectid="2391">4x Strategy</videogamegenre>
+															<videogameexpansion objectid="134151">AI War: Ancient Shadows</videogameexpansion>
+															<videogameexpansion objectid="112985">AI War: Children of Neinzul</videogameexpansion>
+															<videogameexpansion objectid="112986">AI War: Light of the Spire</videogameexpansion>
+															<videogameexpansion objectid="79805">AI War: The Zenith Remnant</videogameexpansion>
+															<videogameexpansion objectid="147463">AI War: Vengeance of the Machine</videogameexpansion>
+															<videogamedeveloper objectid="13924">Arcen Games, LLC</videogamedeveloper>
+															<videogamepublisher objectid="13924">Arcen Games, LLC</videogamepublisher>
+															<videogamemode objectid="2313">Cooperative</videogamemode>
+																						<videogameplatform objectid="5248">Linux</videogameplatform>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamegenre objectid="2166">Real Time Strategy</videogamegenre>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogametheme objectid="2318">War - Future</videogametheme>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="56498">Windows/Macintosh/Linux Downloadable edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>7.09375</average>
+					<bayesaverage>5.9511</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2694" bayesaverage="5.9511" />
+												
+							
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="509" bayesaverage="6.14858" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1355" bayesaverage="6.06367" />
+														<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="211" bayesaverage="6.30508" />
+												
+											</ranks>
+					
+					<stddev>1.55341</stddev>
+					<median>0</median>
+					<owned>100</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>7</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

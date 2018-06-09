@@ -1,0 +1,135 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="104376">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Bonbons</name>
+									
+			<description>Bonbons (&amp;quot;candies&amp;quot; in French) is a memory game with a little twist. Eight types of candies, each in four colors, are hidden in the central 6x6 field, along with four special tiles: three money tiles and one empty package. All tiles in the center of the table are square.&lt;br/&gt;&lt;br/&gt;Each player receives four round tiles at random from a set of 32 that match the candy and color options on the square tiles. On your turn, you turn over one of your round tiles and a square tile. If they match in both candy and color, both tiles stay face up and you take another turn; if not, you turn both tiles face down again.&lt;br/&gt;&lt;br/&gt;The little twist is that on your turn you can rob candies from your opponents. If you turn over a square tile along with a matching round tile in an opponent's possession, you get to keep that face-up round tile and give the opponent one of your face-down round tiles in exchange. Sweet!&lt;br/&gt;&lt;br/&gt;In addition, if you reveal the empty package, leave that tile face up and add another round tile to the ones you already have; now you must reveal five tiles instead of four. If you turn over a money tile at the start of your turn, then turn over the other two money tiles, you remove them from play and place them on one of your round tiles, which now counts as being face-up.&lt;br/&gt;&lt;br/&gt;The first player to turn all of his round tiles face up wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/QcCENqxX7S4YAi2zW_M2Hzayig0=/fit-in/200x150/pic1060521.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mcRtLGHvO0_MPCe_kKkDnkcMDh4=/0x0/pic1060521.jpg</image>
+						
+												<boardgamedesigner objectid="50969">Marc André</boardgamedesigner>
+																																																		<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamefamily objectid="5841">Food / Cooking</boardgamefamily>
+																													<boardgamepublisher objectid="6347">GameWorks SàRL</boardgamepublisher>
+																																				<boardgameartist objectid="12107">Mathieu Leyssenne</boardgameartist>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+																						<boardgameversion objectid="116656">Multilingual first edition</boardgameversion>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>161</usersrated>
+					<average>5.9736</average>
+					<bayesaverage>5.55706</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7922" bayesaverage="5.55706" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="241" bayesaverage="5.68156" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1353" bayesaverage="5.58545" />
+												
+											</ranks>
+					
+					<stddev>1.21635</stddev>
+					<median>0</median>
+					<owned>299</owned>
+					<trading>13</trading>
+					<wanting>3</wanting>
+					<wishing>14</wishing>
+					<numcomments>51</numcomments>
+					<numweights>21</numweights>
+					<averageweight>1.1429</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

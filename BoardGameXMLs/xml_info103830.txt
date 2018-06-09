@@ -1,0 +1,98 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="103830">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Morelli</name>
+									
+			<description>Morelli (named for a character in Julio Cort&amp;aacute;zar's novel Hopscotch) is played on a board divided into 13 x 13 squares and coloured in concentric bands with the successive shades of the rainbow: outermost band of 48 squares in red, through orange, yellow, etc., to a single central cell (the Throne) in violet.&lt;br/&gt;&lt;br/&gt;Two players &amp;mdash; Black and White &amp;mdash; begin the game with 24 stones each, disposed initially on the red band, and take turns to move one stone at a time. Stones enjoy the freedom of chess Queens, except that with every move they must come to rest on a band closer to the Throne. A stone flanked by two adverse stones (either orthogonally or diagonally) is captured and defects to the other player. The aim is to capture the Throne for one's own King by completing a 'frame' (i.e., a rotationally-symmetrical arrangement of four stones) around it at any distance. The Throne may change hands any number of times in the course of play, but whichever side's King is in occupation at game's end (i.e. when one player, on his turn, has no available move) is the winner. If the Throne remains neutral throughout, the game is drawn.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;      Boardspace.net Real time, against humans or robots&lt;br/&gt;      Littlegolem.net Turn-based&lt;br/&gt;      Mindsports.nl Turn-based&lt;br/&gt;     Against Stephen Tavener's AI at &lt;a target='_blank' href=&quot;http://mrraow.com/index.php/aiai-home/&quot; rel=&quot;nofollow&quot;&gt;http://mrraow.com/index.php/aiai-home/&lt;/a&gt; (Java 8 required)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Similar to: &lt;br/&gt;&lt;br/&gt;     Ming Mang played on NxN board (8x8 for ToyToyToy version)&lt;br/&gt;     Othello different setup and play, but same type of conversion capture.&lt;br/&gt;     (Designer clarification) Neither Ming Mang nor Othello.  That's to say: one can see (sort of) why these supposed similarities were posted - initial board set-up resembling Ming Mang (though not really any longer since the May 2015 update), custodial capture as in Othello (though even then with major differences) - but actually these analogies are not very different from saying that soccer = American football = hockey because all are ball games played by teams of 11 on rectangular fields of similar size.  You may or may not be a fan of Morelli, but either way there's no escaping the fact that in its gameplay it's just about as unlike any other Abstract as you can get.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/pTvrCXR8-xAuGIjasU8_u5cssFg=/fit-in/200x150/pic1740553.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WLIbchw1ausAlZNuOe9O6RbKbYM=/0x0/pic1740553.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="114708">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																													<boardgamedesigner objectid="50724">Richard Moxham</boardgamedesigner>
+															<boardgamefamily objectid="20530">nestorbooster</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="209489">nestorgames edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>57</usersrated>
+					<average>7.37456</average>
+					<bayesaverage>5.5718</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7117" bayesaverage="5.5718" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="289" bayesaverage="5.90108" />
+												
+											</ranks>
+					
+					<stddev>1.69393</stddev>
+					<median>0</median>
+					<owned>30</owned>
+					<trading>1</trading>
+					<wanting>6</wanting>
+					<wishing>32</wishing>
+					<numcomments>22</numcomments>
+					<numweights>6</numweights>
+					<averageweight>3.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

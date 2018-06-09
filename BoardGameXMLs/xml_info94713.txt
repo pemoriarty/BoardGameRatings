@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="94713">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Devil&#039;s Advocate</name>
+									
+			<description>Originally created for a now-defunct contest in December 2010, which required that the game be playable in the iggc sandbox, use conversion capture, and be won by the player with the majority of stones.  Though the game can as easily be played with pen and paper, and with variable victory thresholds rather than balancing stones, the rules are presented here as submitted.&lt;br/&gt;&lt;br/&gt;Basic rules:&lt;br/&gt;Players alternately place one stone at a time in an empty space on a board with an odd number of hexagonal cells.  Normally, Black may only place white stones, while White may place either white or black stones.  If the placement of a white stone completes one or more unbroken rows of four or more white stones, all stones in these rows flip to black.  When the board is full, the player with more stones of their color on the board wins.&lt;br/&gt;&lt;br/&gt;Balancing stones:&lt;br/&gt;On most standard boards, White has a small but definite advantage. It is suggested to give Black a limited number of black stones which may be played at any time during the game in place of their usual white stone. Though a 'pie-rule' arrangement can ensure that both players agree on the appropriate number of such stones, CPU self-play suggests the following setups as fair, and the 9x9x9 is particularly recommended.&lt;br/&gt;&lt;br/&gt;6x6x6    Black gets 5 black stones, white gets first move.&lt;br/&gt;7x7x7    Black gets 4 black stones and first move.&lt;br/&gt;8x8x8    Black gets 3 black stones, White gets first move.&lt;br/&gt;9x9x9    Black gets 3 black stones, White gets first move.&lt;br/&gt;10x10x10 Black gets 2 black stones and first move.&lt;br/&gt;&lt;br/&gt;Note that once one accounts for the balancing stones, players may mark cells which can no longer be flipped as white, since Black may not play a black stone there, and White should never choose to.&lt;br/&gt;&lt;br/&gt;(submitted by designer)&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="89828">First edition</boardgameversion>
+															<boardgamedesigner objectid="6840">Andrew Juell</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>4.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.5</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

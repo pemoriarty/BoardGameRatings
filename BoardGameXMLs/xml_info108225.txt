@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="108225">
+			<yearpublished>2011</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Deathmatch</name>
+									
+			<description>Deathmatch is a fast and tactical wargame for 1-4 players, which is based on different video game shooters. Each player takes the role of a group of soldiers who are fighting in a arena for victory.&lt;br/&gt;&lt;br/&gt;Deathmatch uses only cards and some markers for the characters. The different card types are:&lt;br/&gt;&lt;br/&gt;- Character Cards:&lt;br/&gt;Every character in the game is represented by a Character Card, which contains all necessary information (e.g. Attack-, Defense-Value, Action Points, Portage Capacity and their Special Abilities). Each Character Card has a normal and a wounded side.&lt;br/&gt;&lt;br/&gt;- Equipment Cards:&lt;br/&gt;Equipment Cards represented the different equipment in the game, like a M16, a PSG-1 or a Bulletproof Vest. Characters can be equipped with Equipment Cards, to increase their fight or defense ability. The equipment cards also serve as dice rolls. Each card has a Fate Number printed on it, which is between 0 and 5. In Combat you can play an Equipment Card from your hand to boost your Attack- or Defense-Value and then you always adds the Fate Number from top card of your Equipment Deck to determine the outcome of this action. Equipped Cards are no longer in your Equipment Deck and so their Fate Numbers are no longer in the dice pool. If your characters have good equipment, than the player will have fewer good Fate Numbers in his Deck. So each player has to find the right balance between right equipment and the remaining Fate Numbers in his deck.&lt;br/&gt;&lt;br/&gt;- Terrain Cards:&lt;br/&gt;A Terrain Card represents a part of the arena, where the characters compete against each other. Every card is divided in 6 (3x2) squares and has a different setup of covers and obstacles, like Metal Walls and Mud Pits.&lt;br/&gt;&lt;br/&gt;- Scenario Cards:&lt;br/&gt;Each Scenario Card represents a game mode, like Deathmatch, Capture the Flag or Domination. All necessary information is given on these cards. This includes information such as the special rules, the way to lay out the Terrain Cards to create the arena or the Winning Conditions.&lt;br/&gt;&lt;br/&gt;- Marker Cards:&lt;br/&gt;The Marker Cards represent the characters, special markers or items for the different scenarios. Before the first play, the players have to cut out the markers to use them.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1uqEjy_XFxrWKWJxLiYggzS7QXs=/fit-in/200x150/pic1092314.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NEYVvom4E8QiHFJOk4RvK0XLZw4=/0x0/pic1092314.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="126086">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1118">Mature / Adult</boardgamecategory>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamedesigner objectid="52033">Raoul Schaupp</boardgamedesigner>
+															<boardgameartist objectid="52033">Raoul Schaupp</boardgameartist>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="8164">Solitaire Wargames</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

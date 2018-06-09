@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="120678" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Jet Simulator Electronic Trainer</name>
+							<name primary="true" sortindex="1">JETSET</name>
+									
+			<description>JETSET is a 1980 flight simulator, one of the earliest to be created for home computers. Originally written for the TRS-80 Model II, the program was later converted to the IBM PC. The code, by Eugene Szymanski, was published by Byte magazine in 1982.&lt;br/&gt;&lt;br/&gt;JETSET simulates instrument flight in a Boeing 747 using ASCII graphics. The program does not provide a view out of the cockpit, other than displaying the runway for takeoff and landing. The physics engine was noteworthy for the time, particularly considering the simulator was written entirely in BASIC.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Jetset (video game)&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;Excerpts from Documentation&lt;br/&gt;&lt;br/&gt;747, or JETSET as it was named by the author, offers the adventure of piloting a jet aircraft minus the jet lag and the risk. The program name JETSET is an acronym for the Jet Simulator  Electronic Trainer. You will maneuver an aircraft through the three stages of flight--takeoff, cruising, and landing--in less than ideal conditions.&lt;br/&gt;&lt;br/&gt;The program . . . uses the keyboard and screen to make a personal computer version of a commercial flight simulator. To make JETSET a realistic simulation, everything the pilot does in this program must be coordinated with an instrument panel displayed on the computer screen. In addition, the pilot must follow the actual procedures required when flying in near-zero visibility. A plane flown in such inclement weather must proceed according to Instrument Flight Rules (IFR) established by the government, and the pilot must be specially trained and certified to fly ON INSTRUMENTS. This information is incorporated into the JETSET program.&lt;br/&gt;&lt;br/&gt;The JETSET (747) Program lets the pilot activate the control surfaces of the jet aircraft, adjust engine thrust, and tune navigational radio equipment by pressing a set of keys. The program responds to the keypress commands by adjusting aircraft attitude to match the control surfaces and updating the instrument panel display every four seconds as the trajectory of the jetliner is tracked through space by the computer.&lt;br/&gt;&lt;br/&gt;When the simulation begins, the jetliner is poised for takeoff on the runway at Philadelphia International Airport. The geographic coordinates of Philadelphia mark the starting point of flight. The computer fixes this initial position in memory and cranks out a new longitude and latitude 15 times a minute. The pilot controls the path of the jet during the takeoff roll down the runway. If everything is done correctly in the cockpit, this path will lead to a takeoff with room to spare.&lt;br/&gt;&lt;br/&gt;Because JETSET knows precisely where the pilot is telling the plane to go, the program will continue to run until the jet lands safely and rolls to a halt or until the flight ends in disaster. When the simulation has ended, for whatever reason, JETSET provides a complete report of the pilot's performance. The report includes the landing location of the plane-whether on or off the runway-to the nearest foot, and in case of pilot error a description of the error and the likely damage to the aircraft.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/caceoNlF3Yj0WUWeEDbk2B8XNUE=/fit-in/200x150/pic1242071.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4vhwWv5gPEqFIbePS1DITeK-29w=/0x0/pic1242071.png</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="4">(Self-Published)</videogamepublisher>
+															<videogamecharacter objectid="12059">Boeing 747</videogamecharacter>
+															<vgcharacterversion objectid="155149">Boeing 747</vgcharacterversion>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogameversion objectid="154405">DOS Downloadable edition</videogameversion>
+															<videogametheme objectid="2514">Flight</videogametheme>
+															<videogamegenre objectid="2295">Flight Simulator</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

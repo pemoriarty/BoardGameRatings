@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="131753">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Five Worker&#039;s Morris</name>
+									
+			<description>This is an abstract game with two boards. The action board is a 2X2 square grid with four actions (Place, Place, Move, Remove) in the spaces.  The network board is also a 2x2 square grid but the pieces are placed on the 9 vertices of the grid.&lt;br/&gt;&lt;br/&gt;Each player has five workers that use to take actions and/or place on the network board. Each turn a player has two actions per turn (except for the first player on the first turn who only has one action). To take an action a player takes one of their own workers from their supply and places it in an empty space on the action board and resolve the action accordingly.  Instead of taking an action they may they may pass on one of their available actions - if they do so they must remove one of their workers from the action board (if they have any).&lt;br/&gt;&lt;br/&gt;The three types of action on the action boards are:&lt;br/&gt;Place: Place one of the activating workers in the Network board.  Take the worker from either the General Supply or the &amp;quot;Place&amp;quot; Space just activated.&lt;br/&gt;Move: Move either player's worker on the Network Board to an adjacent vertice or move either player's worker on the Action board to an adjacent space (do not activate the action under the moved worker).&lt;br/&gt;Remove: Remove either player's worker from either the Network Board or the Action Board.  The worker is returned to the player's general supply.&lt;br/&gt;&lt;br/&gt;The game ends immediately when a player has three workers in a row on the Network Board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5b5U-WZ5SGBLqqGgFj535CvA9aE=/fit-in/200x150/pic1441433.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wH3MeRxgKRUtKhaph9x4IPcFZhM=/0x0/pic1441433.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameversion objectid="183369">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamefamily objectid="4219">Morris</boardgamefamily>
+															<boardgamedesigner objectid="49539">Justus Pang</boardgamedesigner>
+															<boardgameartist objectid="49539">Justus Pang</boardgameartist>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+															<boardgameexpansion objectid="19915" inbound="true">Three Men&#039;s Morris</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

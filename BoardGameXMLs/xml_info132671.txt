@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="132671">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Twin Draughts</name>
+									
+			<description>It's a variant of Draughts. Changes from the standard game:&lt;br/&gt;1) Jumping over: when an opponent's piece is jumped over, either man or king, the player who made the move picks it up and replaces it in a free square at his choice, but of the opposite color. At the beginning, all pieces are positioned as usual on black squares, but in the following the game evolves in two parallel plays. Those plays are interconnected, since a &amp;ldquo;capture&amp;rdquo; made on squares of a color moves the jumped piece on a square of the opposite color. On his  turn, a player can choose to move a piece either on the white or on the black squares. All the other movement rules remain the same. &lt;br/&gt;2)Promotion: as in the standard game, a man is promoted to king when it reaches the opponent's kings row. The player that gained the promotion must choose one of his other men, remove it from the game and place it on top of the promoted piece. Each promotion makes a king from a pair of men, reducing in that way the overall number of pieces on the board.&lt;br/&gt;3) Goal and scoring: the game is won by the first player that promotes all his men to kings. Each player will score one point for each king he has at the end of the game. A match should be composed of an even number of games, to be started alternately by the players. The winner is the player with the highest overall score.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgameversion objectid="185716">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="64741">Fabio Pozzi</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

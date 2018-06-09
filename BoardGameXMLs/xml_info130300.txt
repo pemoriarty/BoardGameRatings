@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="130300" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="5">The Golden Wombat of Destiny</name>
+									
+			<description>A text adventure by Huw Collingbourne&lt;br/&gt;&lt;br/&gt;Manual&lt;br/&gt;&lt;br/&gt;The parser is not  one of  the most  sophisticated the  world has ever  known  (  nor,  to  be  truthful,  is  it  one of the least sophisticated the computer adventure game has  ever known!  ). It understands a fairly rigidly fixed grammar and doesn't have a lot of time  for unnecessary  adjectives. It  rarely accepts plurals. Although  'trees'   would  be   OK, 'wombats'  and  'mice'  most definitely are not! Also, you may  only use  one complete command at a time. &amp;quot;Put the small bottle on the ground&amp;quot; is fine, but &amp;quot;Put the small bottle on the ground and open it.&amp;quot; isn't. This goes for taking and  dropping things too. Get everything one at a time and don't  try  the  old  trick  &amp;quot;take  all&amp;quot;  (often  used  by sneaky adventurers to  fool a game into generating a list of significant objects - 'You can't take the  axe,  you  can't  take  the sword' etc.), because this game doesn't let you get away with that!&lt;br/&gt;&lt;br/&gt;If  you  don't  care  for  all  these  restrictions,  there  are, nevertheless, some positive points too. Unlike  many other games, The  Golden  Wombat  will  rarely  reject an input command simply because there are one or two words that  it does  not understand. If  possible,  it  will  always  try  to make some sense of input although this may mean that it has to  check that  you really did mean to say what it thinks you meant. For example, you might type in: &amp;quot;Listen to the acrobatic little wombat.&amp;quot; The game will politely(ish) inform you that it  didn't understand all the words you used, but: &amp;quot;Do you want to listen to the wombat? ...Y/N&amp;quot; If you  type 'Y',  then the  noises the  wombat is making will be revealed in all their wonderment. If you type 'N', then  you will be free  to go on and do something more boring. If you type in &amp;quot;I wandered lonely as a cloud that  floats  on  high  o'er  vale and hill,&amp;quot; you are likely to generate a less sympathetic response!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zsYoIAQrm_bQPdDbMW0PoNkQ0CM=/fit-in/200x150/pic1415461.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wcIzgqt6kL9fMsZraUpC6lIcrk8=/0x0/pic1415461.jpg</image>
+						
+												<videogamedeveloper objectid="4">(Self-Published)</videogamedeveloper>
+															<videogamepublisher objectid="4">(Self-Published)</videogamepublisher>
+															<videogameplatform objectid="4714">DOS</videogameplatform>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogameversion objectid="179233">North American DOS edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2168">Text Adventure</videogamegenre>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

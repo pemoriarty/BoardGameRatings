@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="111682" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Dragon  Home Computer</name>
+									
+			<description>The Dragon 32 and Dragon 64 are home computers that were built in the 1980s. The Dragons are very similar to the TRS-80 Color Computer (CoCo), and were produced for the European market by Dragon Data, Ltd., in Port Talbot, Wales, and for the US market by Tano of New Orleans, Louisiana. The model numbers reflect the primary difference between the two machines, which have 32 and 64 kilobytes of RAM, respectively.  Aside from the amount of RAM, the 64 also has an RS-232 serial port which was not included on the 32.&lt;br/&gt;&lt;br/&gt;A minor difference between the two Dragon models is the outer case colour; the Dragon 32 is beige and the 64 is light grey. Besides the colour and the Dragon 64's serial port (and the model name stickers, of course), the two machines look exactly the same. The Dragon 32 is upgradable to Dragon 64.&lt;br/&gt;&lt;br/&gt;The Dragon is built around the Motorola MC6809E processor running at 0.89 MHz. This was an advanced 8-bit CPU design, having, among other things, limited 16-bit capabilities. In terms of raw computational power, the Dragon beat most of its contemporary rivals based on the older MOS Technology 6502, but this made little difference in a market where graphical capabilities and games were much more important to consumers.&lt;br/&gt;&lt;br/&gt;It was possible to increase the speed of the computer by using POKE 65495,0 which accelerates the ROM-resident BASIC interpreter, but temporarily disables correct functioning of the cassette/printer ports. Manufacturing variances means that not all Dragons are able to function at this higher speed, and use of this POKE can cause some units to crash or run highly unstable, though with no permanent damage. POKE 65494,0 returns the speed to normal. POKE 65497,0 pushes the speed yet higher but the display is lost until a slower speed is restored.&lt;br/&gt;&lt;br/&gt;The Dragon also used the SN74LS783/MC6883 Synchronous Address Multiplexer (SAM) and the MC6847 Video Display Generator (VDG). I/O was provided by two MC6821 Peripheral Interface Adapters (PIAs). Many Dragon 32s were upgraded by their owners to 64 KB of memory. A few were further expanded to 128 KB, 256 KB, or 512 KB, with home-built memory controllers/memory management units (MMUs).&lt;br/&gt;&lt;br/&gt;A broad range of peripherals exist for the Dragon 32/64, and on top of this there are add-ons such as the Dragon's Claw which give the Dragons access to the BBC Micro's large range of accessories (a particularly important factor in the UK home market). Although neither machine has a built-in disk operating system (cassette tapes being the default data-storage mechanism in the home computer market at the time), DragonDOS was supplied as part of the disk controller interface from Dragon Data Ltd. The numerous external ports (by the standards of the time), including the standard RS-232 on the 64, also allows hobbyists to attach a diverse range of equipment.&lt;br/&gt;&lt;br/&gt;An unusual feature was a monitor port for connection of a computer monitor, as an alternative to the TV output. This was rarely used due to the cost of dedicated monitors at that time. The port is actually a Composite Video port and can be used to connect the Dragon 32 to most modern TVs to deliver a much better picture.&lt;br/&gt;&lt;br/&gt;The Dragon uses analogue joysticks, unlike most systems of the time which used less versatile but cheaper digital systems. Other uses for the joystick ports include light pens.&lt;br/&gt;&lt;br/&gt;Tony Clarke and Richard Wadman laid out the specifications for the Dragon.  The units had a robust motherboard in a spacious case, reminiscent of the BBC Micro, and so were more tolerant of home-modification than some of their contemporaries, which often had their components crammed into the smallest possible space.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Dragon 32&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="133325">Dragon 32</videogamehwversion>
+															<videogamehwversion objectid="133326">Dragon 64</videogamehwversion>
+															<videogamehwmfg objectid="19006">Dragon Data</videogamehwmfg>
+															<videogamehardware objectid="5150" inbound="true">Dragon 32/64</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

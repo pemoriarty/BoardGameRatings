@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="127081" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Virogrid</name>
+									
+			<description>User Summary:&lt;br/&gt;&lt;br/&gt;The game is played on a square grid of size 7x7, 9x9 or 11x11. Each player starts with two pieces in diagonally opposite corners.&lt;br/&gt;A turn consists of cloning or jumping a piece. Cloning a piece consists of selecting one of your pieces and an adjacent empty square, and creates a new piece in that empty square. Jumping consists of selecting one of your pieces and an empty square at a distance of two squares (see diagram); the piece moves to the selected square, leaving the one it was in empty. Any opposing pieces adjacent to, respectively, the new or jumped piece are captured and change sides.&lt;br/&gt;&lt;br/&gt;A player who has a legal move on their turn must move: failure to do so before time runs out is considered a resignation. It is possible to get a situation where only one player has legal moves. If at the start of a player's turn they have no legal moves the game automatically fills the remaining spaces with pieces of the other player.&lt;br/&gt;&lt;br/&gt;The game is won by capturing all of the opponent's pieces or by having the most pieces when the board is full. As the boards all have an odd number of squares a draw is possible only by agreement.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Jz4rloO6i7XvpB4eBuXVyi03IAg=/fit-in/200x150/pic1360309.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/B5IVSZRwF5sraM0Ev8p8mA8Lr-0=/0x0/pic1360309.png</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogamedeveloper objectid="14200">Jagex Ltd</videogamedeveloper>
+															<videogamepublisher objectid="14200">Jagex Ltd</videogamepublisher>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="170563">Web Browser edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="133842">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Four</name>
+									
+			<description>A game inspired by the  Four Colour Theorem in which four shapes in four colours are placed in a virtual grid according to four constraints.&lt;br/&gt;&lt;br/&gt;Players take turns to put pieces on the board, according to the following constraints:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Connected: after the first piece, each piece you play must touch at least one other piece orthogonally.&lt;br/&gt;     Different move: you may not play the same shape or colour that your opponent just played.&lt;br/&gt;     Not adjacent: you may not place a piece adjacent to a piece of the same shape or colour.&lt;br/&gt;     Virtual grid: you may not play so that the playing area exceeds 9 squares in any direction.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The last player able to place a piece wins.&lt;br/&gt;&lt;br/&gt;Four won (along with Veletas) the BoardGameGeek Best Combinatorial 2-player Game of 2013 award.&lt;br/&gt;&lt;a target='_blank' href=&quot;http://www.boardgamegeek.com/geeklist/168513/best-combinatorial-2-player-game-of-2013-results&quot; rel=&quot;nofollow&quot;&gt;http://www.boardgamegeek.com/geeklist/168513/best-combinator...&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SkQ3WCKzc5VFAAbOUFRv-dR8MDk=/fit-in/200x150/pic1601998.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/DRreWCN3Eg5EGuJW18G_Q0H2dCQ=/0x0/pic1601998.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="210430">First Acrylic Edition</boardgameversion>
+															<boardgameversion objectid="210429">First Foam Edition</boardgameversion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+																						<boardgameversion objectid="188294">Print &amp; Play Edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamedesigner objectid="11301">Stephen Tavener</boardgamedesigner>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>23</usersrated>
+					<average>7.67391</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24768</stddev>
+					<median>0</median>
+					<owned>31</owned>
+					<trading>1</trading>
+					<wanting>7</wanting>
+					<wishing>20</wishing>
+					<numcomments>13</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

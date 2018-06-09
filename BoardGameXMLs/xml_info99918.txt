@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="99918">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">W.W.B</name>
+									
+			<description>This game uses 102 cards. The cards are numbered 1-100 and there is also a Start and Finish card.  These cards are shuffled and dealt face up, showing the either a number 1-100 or Start or Finish.  Each player puts their piece on the Start card.&lt;br/&gt;&lt;br/&gt;During the turn, a player roll their 6-sided die (one side has a five on it, the rest are blank) up to twice.  If the first roll is a 5, they advance their piece onto the next card in the sequence (players go from the Start card to 1, then through to 100, then onto Finish card), otherwise they do not advance.  If the player rolls a 5 on the first roll they then attempt a second die roll, otherwise there isn't a second die roll.  On the second roll, the player fails to roll a 5, their piece goes back to the Start card, otherwise on a second roll of a 5, the piece stays on the space it advanced to.  If a player lands on a space containing an opponent's piece, both pieces go back to the Start space.&lt;br/&gt;&lt;br/&gt;The object of the game is to be the first player to reach the Finish space.&lt;br/&gt;&lt;br/&gt;Included in the rules are variants for match play and also a longer game.&lt;br/&gt;&lt;br/&gt;The game reached position #4 on the Hotness list for games on BoardGameGeek on September 2012.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WZKt9L1ZMFBMQm9L7PBtQ9XxNWk=/fit-in/200x150/pic1023605.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SzNBajvpdD0JhEmyH1t9rYcMs8E=/0x0/pic1023605.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="101253">First Edition</boardgameversion>
+															<boardgamedesigner objectid="8933">Richard Hutnik</boardgamedesigner>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>41</usersrated>
+					<average>1.44404</average>
+					<bayesaverage>5.36285</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15313" bayesaverage="5.36285" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="906" bayesaverage="4.903" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="937" bayesaverage="5.216" />
+												
+											</ranks>
+					
+					<stddev>1.63546</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>17</numcomments>
+					<numweights>4</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="77973" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Tau Ceti</name>
+									
+			<description>Tau Ceti is a science fiction themed computer game first published in 1985 by CRL for the ZX Spectrum and later converted to several other platforms. It was designed and programmed by Pete Cooke. It was groundbreaking at the time for its extensive use of 3D graphics, shadow effects and its large gameworld set on a small planet, Tau Ceti III, orbiting the titular star. The planet also has a realistic day and night cycle (much shorter than our own).&lt;br/&gt;&lt;br/&gt;An enhanced version (known as Tau Ceti - The Special Edition) was released for the 128K Spectrum and Amstrad CPC in 1987 featuring extra graphics and a large amount of accessible library data about the gameworld and the game.&lt;br/&gt;&lt;br/&gt;A sequel, Academy, was released in 1986.&lt;br/&gt;&lt;br/&gt;The origins of Tau Ceti and its game engine came from Cooke attempting to work out how the spheres in the game Gyron, released by Firebird Software for the ZX Spectrum in 1985, had been created:&lt;br/&gt;&amp;quot;...for a long while it had puzzled me how on earth they did the spheres. It obviously couldn't be a sprite because they didn't have enough memory to have that many sprites. I finally twigged that they must have used a table of line widths, and I thought about it a bit, then realised I could split it three quarters and a quarter, and then it would look like a shadow. I just went away and played with that for quite a long while and got it so that I had the sun in the sky and the shadow in the right place. And it sort of came from that, really.&amp;quot;&lt;br/&gt;Having created the basics of a game engine, Cooke had to decide on a scenario for his new game:&lt;br/&gt;&amp;quot;It was all made up as I went along. I know a bit about astronomy, so I looked around for a likely location - because the way the routine works meant it couldn't be in space; you couldn't have the sun above because the line-draw routine wouldn't work, it would have to be on the surface of a planet. And I thought 'Right, it can't be Earth because it looks a bit barren for Earth, it's got to be another planet.' So I looked round for nearby stars that might be inhabited and Tau Ceti had a nice-sounding name.&amp;quot;&lt;br/&gt;&lt;br/&gt;Cooke was also inspired when writing Tau Ceti by the works of the science-fiction writer Larry Niven and the space-simulator Elite.&lt;br/&gt;&lt;br/&gt;Plot:&lt;br/&gt;Humanity has spread out and colonised nearby star systems but a plague in 2150 led to the colonies being abandoned and left to their automated robotic maintenance systems. While several of these colonies have been successfully re-inhabited, the colony on the planet Tau Ceti III (orbiting the star Tau Ceti) has been uncontactable since a meteor smashed into the planet. A mission sent to Tau Ceti III in 2164 landed on the planet but broadcast a mayday message followed by silence. Experts decided that the planet's robots were running amok as a result of the meteorite impact. The only chance, it was decided, of successfully stopping the defence systems without destroying the cities already there is to send a single pilot in an armoured Gal-Corp skimmer to the planet's surface with the task of shutting-down the central reactor in Tau Ceti III's capital, Centralis.&lt;br/&gt;&lt;br/&gt;Gameplay:&lt;br/&gt;When it was released, Tau Ceti was an ambitious piece of software and its scale can still seem impressive. The planet Tau Ceti III consists of several cities which themselves consist of clusters of buildings with their defensive laser towers and patrolling robot Hunter ships. The player's skimmer can dock with some of these buildings and find parts needed to help shut-down the central reactor as well as refuel and find vital information. The cities themselves can be travelled to by means of a &amp;quot;jump pad&amp;quot; which makes the long trips between them much quicker.&lt;br/&gt;&lt;br/&gt;Interestingly, if you did take the long trip between cities, a bug in the Amstrad CPC version meant you stayed in the same city when next using a jump pad. This can be used as an advantageous way of returning quickly to the center of the map, without traveling back through every city. This also allowed the player to jump to non-existent cities off the map[citation needed].&lt;br/&gt;The gameworld is displayed in a 3D view from the skimmer. As well as displaying these 3D graphics, Cooke's game engine renders them with simple shadows in order to simulate the day and night cycle of Tau Ceti III. These days are much shorter than Earth's consisting of one spin of the planet per hour with sixteen &amp;quot;spins&amp;quot; to a Centaurian day.&lt;br/&gt;&lt;br/&gt;The cities of Tau Ceti III are an extremely hostile place as they are full of robot defences. These consist of laser towers, Fortresses (which are essentially better-armoured Towers), Hunter ships (of which there are three types: Mark I, Mark II and Mark III), and slowly-moving mines. To defend itself against these, the skimmer is armed with lasers, missiles, and AMMs (to destroy missiles fired by robot Hunters). The skimmer also has a shield although its power is limited and if the shield is badly depleted or exhausted, the skimmer will take damage and some of its systems will fail. They can be repaired at any supply centre.&lt;br/&gt;&lt;br/&gt;Any static defences (e.g. buildings) which are destroyed are permanently destroyed. Any mobile defences (Hunters, droids, etc) are renewed when the player leaves a city; so cities are never fully cleared. Cities vary greatly in their defences; a few cities are almost undefended (just minefields), a few cities are very very intensely defended (e.g. Centralis, where the main reactor is).&lt;br/&gt;&lt;br/&gt;The skimmer is also fitted with a scanner in order to detect buildings or Hunters not in its forward view or at a distance, and a compass to aid navigation. To cope with Tau Ceti III's frequent hours of darkness, the skimmer has an infra-red display mode and also carries a limited number of short-lived flares.&lt;br/&gt;Although Tau Ceti is primarily an action game, it has some text-input sections when the skimmer docks or lands on the planet's surface. When this happens, the player can communicate with the skimmer using simple commands such as &amp;quot;HELP&amp;quot;, &amp;quot;STATUS&amp;quot; or &amp;quot;SCORE&amp;quot; to get access to game information. If docked with a building, &amp;quot;LOOK&amp;quot; will display a picture of the inside of the building and &amp;quot;EQUIP&amp;quot; will allow access to anything useful in that building.&lt;br/&gt;&lt;br/&gt;As with some other Cooke games, the game also has an inbuilt note-taking system (accessed via the command &amp;quot;PAD&amp;quot;) to take notes without using pen and paper.&lt;br/&gt;&lt;br/&gt;In order to shut down the central reactor, the main objective of the game, the player must first locate the forty pieces of the reactor cooling rods and assemble them into twenty complete rods which can then be inserted into the reactor to shut it down. The assembly of the rods is achieved by using the command &amp;quot;RODS&amp;quot; which displays a screen showing found rod-pieces which can then be assembled in a manner similar to a simple jigsaw puzzle.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Tau Ceti (video game),&amp;quot; available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Gz7YXmCVcao2plLGOwQpTvyNxMg=/fit-in/200x150/pic937645.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xUfcvC_MyJ8vMzPTz13caz2DA9E=/0x0/pic937645.jpg</image>
+						
+												<videogamegenre objectid="2147">Action</videogamegenre>
+															<videogamedeveloper objectid="13549">Computer Rentals Limited</videogamedeveloper>
+															<videogamepublisher objectid="13549">Computer Rentals Limited</videogamepublisher>
+															<videogamecompilation objectid="229038">Five Star Games III (C64 / Spectrum / Amstrad)</videogamecompilation>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamegenre objectid="2167">Shooter</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogameseries objectid="6934">Tau Ceti</videogameseries>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="54801">ZX Spectrum edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.375</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.960143</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

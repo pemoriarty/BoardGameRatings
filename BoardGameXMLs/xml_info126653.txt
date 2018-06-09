@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="126653">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Yavalanchor</name>
+									
+			<description>Yavalanchor is a Yavalath derivative for 2 players that can be played with the same set of components (hexhex board of size 5 and counters in 3 colours).&lt;br/&gt;&lt;br/&gt;RULES&lt;br/&gt;&lt;br/&gt;SETUP&lt;br/&gt;&lt;br/&gt;Each player has an allocated colour (White and Black). Red counters are neutral and will act as 'anchors'.&lt;br/&gt;&lt;br/&gt;HOW TO PLAY&lt;br/&gt;&lt;br/&gt;Starting with White players take turns placing either:&lt;br/&gt;&lt;br/&gt;a) A red counter in ANY empty cell or...&lt;br/&gt;b) A counter of their colour in an empty cell adjacent to a red counter.&lt;br/&gt;&lt;br/&gt;...until the victory condition is reached.&lt;br/&gt;&lt;br/&gt;GAME END&lt;br/&gt;&lt;br/&gt;The game ends when a 5-in-a-row containing only counters of a player colour AND red is created. The owner of that colour is the winner.&lt;br/&gt;&lt;br/&gt;In the rare case of several lines being created, the player that placed the last counter chooses the winning line.&lt;br/&gt;&lt;br/&gt;If the board fills up before reaching this victory condition the game ends in a draw.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/da2xHxWGIDyNo7w1azjqrToU2nE=/fit-in/200x150/pic1345096.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-9h85dUc9Sqzfi8TjkzjQPRMXXw=/0x0/pic1345096.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="169637">First edition</boardgameversion>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>7.17778</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.66985</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>8</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

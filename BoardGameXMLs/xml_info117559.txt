@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="117559" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">RobotWar</name>
+									
+			<description>RobotWar was a programming game written by Silas Warner. This game, along with the companion program RobotWrite, was originally developed in the TUTOR programming language language on the PLATO system in the 1970s. Later the game was commercialized and adapted for the Apple II family of computers and published by Muse Software in 1981. The premise was that in the distant future of 2002, war was declared hazardous to human health, and now countries settled their differences in a battle arena full of combat robots. As the manual stated, &amp;quot;The task set before you is: to program a robot, that no other robot can destroy!&amp;quot;&lt;br/&gt;&lt;br/&gt;The robots' language was similar to BASIC. There were 34 registers that could be used as variables or for the robots' I/O functions.  In a way, RobotWar was a multiplayer game, in that different people could program their robots, then copy all the robots' source code to the same floppy disk and load all the robots to fight in the arena.&lt;br/&gt;&lt;br/&gt;The main activity of the game was to write a computer program that would operate a (simulated) robot. The player could then select multiple robots who would do battle in an arena until only one was left standing. The robots did not have direct knowledge of the location or velocity of any of the other robots; they could only use radar pulses to deduce distance, and perhaps use clever programming techniques to deduce velocity. No physical dexterity was required or even relevant in RobotWar; there was no way for the player to actually take part in the battle.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Robotwar&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yVUoQHOQDXUKa_LHOJrd2LnHjO0=/fit-in/200x150/pic2533992.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/taWwKSXhVvLNUrp6L0ivsyBDFGo=/0x0/pic2533992.jpg</image>
+						
+												<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="146512">Apple II edition</videogameversion>
+															<videogamegenre objectid="2159">Fighting</videogamegenre>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamedeveloper objectid="14523">Muse Software</videogamedeveloper>
+															<videogamepublisher objectid="14523">Muse Software</videogamepublisher>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2318">War - Future</videogametheme>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

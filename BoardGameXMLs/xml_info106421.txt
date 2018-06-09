@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="106421">
+			<yearpublished>1910</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Sam</name>
+									
+			<description>Card game with 48 cards in four suits of 12. Cards are played with the aim to acheive a total divisible by 4.&lt;br/&gt;The suits are;&lt;br/&gt;S = Subtraction&lt;br/&gt;A = Addition&lt;br/&gt;M = Multiplication&lt;br/&gt;SAM = any of the above&lt;br/&gt;The last card played is all that affects the current card being played. For example; The first card played (which cannot score points) is a 3. The next player could play an A5 (A for Addition) he adds 5 to 3 to make 8. This is two 'Fours' made, score two points. The next player could play S4. 4 from 8 = 4, so one 'Four' created, scores 1 point. Next player plays a SAM 8. He scores 3 points for Additions (8 + 4 = 12, so 3 Fours made) but as it is a Sam card he can also score for Multiplication (4 x 8 = 32, so 8 points scored). In this example, Subtraction would score nothing. You can see that SAM cards are very valuable.&lt;br/&gt;The first player to score 100 points, wins.&lt;br/&gt;The rules refer to the cards as 'Blocks' and the intention was to make a more substantial version with the cards being replaced as tiles (called Blocks) but this never happened, possibly because The Great War started and materials were limited because of the war effort in industry.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7iOF6CmH5qt43v3DdyC22guAtUE=/fit-in/200x150/pic1077712.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4GsZI8bECTxYz19OxebHt2d0qWA=/0x0/pic1077712.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="121898">Jaques First Edition</boardgameversion>
+															<boardgamepublisher objectid="5722">John Jaques of London</boardgamepublisher>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

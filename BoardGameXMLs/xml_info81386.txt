@@ -1,0 +1,88 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="81386">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Hexone</name>
+									
+			<description>A strategy game for 2 players, 10 years old and more&lt;br/&gt;&lt;br/&gt;By properly placing your pawns,&lt;br/&gt;You will generate chain reactions&lt;br/&gt;That will destroy all your opponent's pawns!&lt;br/&gt;Except if the opposite happens...&lt;br/&gt;&lt;br/&gt;Goal of the game&lt;br/&gt;Remove all of your opponent's pawns.&lt;br/&gt;&lt;br/&gt;Game components&lt;br/&gt;A 19-hexagons boardgame&lt;br/&gt;35 pawns, one side white, the other side black.&lt;br/&gt;&lt;br/&gt;Game mechanism&lt;br/&gt;The player who starts the game is randomly determined.&lt;br/&gt;The first player places one pawn of his color on an hexagon he chooses on the first circle (the circle of 6 hexagons around the central hexagon).&lt;br/&gt;The opponent places a pawn of his color on another hexagon of the first circle.&lt;br/&gt;&lt;br/&gt;From now on, each player will place a pawn of his color on his game turn by applying the following rules:&lt;br/&gt;&lt;br/&gt;     a player cannot place a pawn on the central hexagon,&lt;br/&gt;     a player cannot place a pawn on a hexagon on which there are already 1 or 2 opponent's pawns,&lt;br/&gt;     a player can place a pawn on an empty hexagon if it touches a hexagon on which he already has 1 or 2 pawns,&lt;br/&gt;     a player can place a pawn on a hexagon on which he already has 1 or 2 pawns.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Explosion&lt;br/&gt;If, at the end of his turn, a player has 3 pawns on the same hexagon, an explosion happens: the 3 pawns are distributed in a Y shape on contiguous hexagons, and pawns that may have been on covered hexagons before the explosion now belong to the player.&lt;br/&gt;&lt;br/&gt;Chain reaction: successive explosions&lt;br/&gt;It is possible (and it is even the good way to win!) that, after this first explosion, other hexagons have 3 pawns or more of the player's color. The player must proceed with the explosions until there is no more hexagon with 3 pawns or more, or until there are no more pawns from the opponent (he has won in this case!).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The player must start with one of the hexagons having the most pawns on it (it is possible that there are 4 pawns on the same hexagon).&lt;br/&gt;     After each explosion, if there are still possible explosions and pawns from the opponent, go back to step 1!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;End of the game&lt;br/&gt;The game ends when a player has no pawns left on the board. His opponent is the winner!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zawC_41_Eo7Lkkv9dskgbce43QA=/fit-in/200x150/pic800065.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vUaYfpI1zPe4nqH_e1X8iEqTqik=/0x0/pic800065.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="61964">First edition</boardgameversion>
+															<boardgamedesigner objectid="40661">Frédéric Martin</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.29983</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

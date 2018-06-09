@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="128081">
+			<yearpublished>2004</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Sudoku Puzzle Game</name>
+									
+			<description>A 1- or 2(+)-Player sudoku game where players place number tiles to complete up to 100 different puzzles.&lt;br/&gt;&lt;br/&gt;From the Rule Book:&lt;br/&gt;For 2 or more players. Game One: Chose a puzzle from the book, place the red number squares on the puzzle board in the same positions as in the puzzle you have selected from the book.  Now take turns -- one move each player -- to try to comlete the game as quickly as possible.  Socring -- if you complete a line either across or down then that player adds up the numbers in that line and that is that players score for that game.  The player with the highest score is the winner after you have completed all nine squares.&lt;br/&gt;&lt;br/&gt;For 2 or more players.  Game Two: Set up the numbers in the squares as before.  Player one now turns over the timer and puts on black squares until the timer runs out.  As before add up the numbers in any line that player completes to determine that players score.  When the timer runs out pass on the timer to player 2 who then turns over the timer and when it runs out that player scores as above.  Then pass the timer to the next player who plays the game in the same way and so on depending on the number of players.  When the puzzle is finished then the player with the highest score wins that game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgameversion objectid="173053">English first edition</boardgameversion>
+															<boardgamepublisher objectid="672">Family Games, Inc.</boardgamepublisher>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamefamily objectid="8068">Sudoku</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

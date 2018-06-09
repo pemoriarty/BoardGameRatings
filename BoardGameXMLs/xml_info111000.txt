@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="111000" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">ColecoVision</name>
+									
+			<description>The main console unit consists of a 14&amp;times;8&amp;times;2 inch rectangular plastic case that houses the motherboard, with a cartridge slot on the right side and connectors for the external power supply and RF jack at the rear. The controllers connect into plugs in a recessed area on the top of the unit.&lt;br/&gt;&lt;br/&gt;All first-party cartridges and most third-party software titles feature a 12-second pause before presenting the game select screen. This delay results from an intentional loop in the console's BIOS to enable on-screen display of the ColecoVision brand. Companies like Parker Brothers, Activision, and Micro Fun bypassed this loop, which necessitated embedding portions of the BIOS outside the delay loop, further reducing storage available to actual game programming.&lt;br/&gt;&lt;br/&gt;CPU: Zilog Z80A @ 3.58 MHz&lt;br/&gt;    Video processor: Texas Instruments TMS9928A&lt;br/&gt;        256&amp;times;192 resolution&lt;br/&gt;        32 sprites&lt;br/&gt;        16 colors&lt;br/&gt;    Sound: Texas Instruments SN76489A&lt;br/&gt;        3 tone generators&lt;br/&gt;        1 noise generator&lt;br/&gt;    VRAM: 16 KB&lt;br/&gt;    RAM: 1 KB&lt;br/&gt;    Storage: Cartridge: 8/16/24/32 KB&lt;br/&gt;&lt;br/&gt;The ColecoVision contains the same CPU and graphics chip as the MSX and Sega SG-1000/SC-3000 but the MSX contains a different sound chip, the AY-3-8910. ColecoVision shares the same CPU and a sound chip with Sega Master System, also a similar but inferior graphics chip. For this reason it is not hard to port games between these systems.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Coleco Vision&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7s0cZ7xdhG36RJs-fm7qMKfbzHU=/fit-in/200x150/pic1606622.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Am2VRrv48u2r6nysoPz2Uy4rsyk=/0x0/pic1606622.png</image>
+						
+												<videogamehwversion objectid="131862">American Dina/Telegames Personal Arcade</videogamehwversion>
+															<videogamehwmfg objectid="14668">Bit Corporation</videogamehwmfg>
+															<videogamehwmfg objectid="1139">Coleco Industries, Inc.</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehwversion objectid="131861">International CBS ColecoVision</videogamehwversion>
+															<videogamehardware objectid="4419" inbound="true">ColecoVision</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>6.71429</average>
+					<bayesaverage>6.12992</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="96" bayesaverage="6.12992" />
+												
+											</ranks>
+					
+					<stddev>1.46036</stddev>
+					<median>0</median>
+					<owned>18</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

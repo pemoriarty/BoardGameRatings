@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="98343" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Blackjack/Poker/Acey-Deucey</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Three classic gambling card games for the Bally Astrocade.&lt;br/&gt;&lt;br/&gt;Blackjack (1 to 4 players)&lt;br/&gt;&lt;br/&gt;The manual states that the game is played by Las Vegas rules, noting three exceptions: there is no insurance, you may not split pairs if more than two players are playing, and you are considered to have a winning hand if you are dealt five cards that total less than 21 (the latter two rules likely stem from issues of limitations on screen space and system memory.)&lt;br/&gt;&lt;br/&gt;The computer plays the role of the dealer and only a single deck of cards is simulated. Players start with a stake of $1,000 and can bet any amount on each hand. The game ends if all players run out of money.&lt;br/&gt;&lt;br/&gt;Poker (2 to 4 players)&lt;br/&gt;&lt;br/&gt;A variation on five-card draw where all cards are dealt face up. No more than three cards may be drawn. Each player starts with a bankroll of $1000. The maximum bet is $100 and there is a three raise maximum. The game ends when all but one player has run out of money.&lt;br/&gt;&lt;br/&gt;Acey-Deucey or &amp;quot;In-Between&amp;quot; (1 to 4 players)&lt;br/&gt;&lt;br/&gt;A player antes $10 and is dealt two cards. The player then bets against the pot that the next card will fall between the two cards. Ties lose, and Aces always represent a &amp;quot;1&amp;quot; (i.e. the lowest card in the deck.) The game ends if all players run out of money.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/3GW7SNHU-uSbqE0uKs1wQ0xZ0_o=/fit-in/200x150/pic995541.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WSYYUZWWquadT0VTVbBj3-p8uN8=/0x0/pic995541.jpg</image>
+						
+												<videogameplatform objectid="10097">Bally Professional Arcade</videogameplatform>
+															<videogamedeveloper objectid="15786">Bally/Midway</videogamedeveloper>
+															<videogamepublisher objectid="15786">Bally/Midway</videogamepublisher>
+															<videogametheme objectid="2404">Card / Casino Games</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamemode objectid="2422">Local Multiplayer</videogamemode>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="97808">US Astrocade</videogameversion>
+															<videogamebg objectid="2397" inbound="true">Backgammon</videogamebg>
+															<videogamebg objectid="10816" inbound="true">Blackjack</videogamebg>
+															<videogamebg objectid="1115" inbound="true">Poker</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="10097" name="ballyprofessionalarcade" friendlyname="Bally Professional Arcade Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

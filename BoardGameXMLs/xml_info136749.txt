@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="136749" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Atari MEGA ST</name>
+									
+			<description>To address this growing market segment, Atari came up with the ST1. First debuted at Comdex, 1986, it was received favorably. Renamed the Mega, this new machine included a high-quality detached keyboard, a stronger case to support the weight of a monitor, and an internal bus expansion connector. The upcoming SLM804 laser printer would not come with a processor or memory, reducing costs. It would attach to the Mega through the ST DMA port and have the Mega computer render the pages. Initially equipped with 2 or 4 MB (a 1 MB version, the Mega 1 would later follow), the Mega machines would complement the Atari laser printer for a low-cost desktop publishing package, which received acclaim and was featured on the cover of Computer Shopper magazine.&lt;br/&gt;&lt;br/&gt;A custom blitter co-processor was to be included to speed the performance of some graphics operations on the screen, but due to delays it was eventually released on the Mega 2 and Mega 4 machines. Developers wanting to use it had to detect for it in their programs because it was not present on all machines. However, properly written programs using the screen VDI commands could use the blitter seamlessly, since GEM API was a higher-level interface to TOS.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Atari ST&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YK9fhsyenUMPEs1p9mvZN6y0dAg=/fit-in/200x150/pic4128794.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HtYeb0_G-H8yC4_RmGFzwXU09tY=/0x0/pic4128794.jpg</image>
+						
+												<videogamehwversion objectid="195961">Atari MEGA 1</videogamehwversion>
+															<videogamehwversion objectid="195962">Atari MEGA 2</videogamehwversion>
+															<videogamehwversion objectid="195963">Atari MEGA 4</videogamehwversion>
+															<videogamehwmfg objectid="11465">Atari, Inc.</videogamehwmfg>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehardware objectid="4976" inbound="true">Atari ST</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="111379">
+			<yearpublished>2011</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>2</age>
+
+							<name  sortindex="1">Meine ersten Spiele: Tier auf Tier</name>
+							<name  sortindex="1">Mes premiers jeux: Pyramide d&#039;animaux</name>
+							<name  sortindex="3">I miei primi giochi: Torre di animali</name>
+							<name  sortindex="1">Mijn eerste spellen: Dier op dier</name>
+							<name  sortindex="1">Mis primeros juegos: Animal sobre animal</name>
+							<name primary="true" sortindex="1">My Very First Games: Animal upon Animal</name>
+									
+			<description>The animal stacking game, now for toddlers. This is a very basic game for very small children. You roll the die and stack the given animal on the matching tile and any other animals already stacked on that tile.&lt;br/&gt;&lt;br/&gt;The game's rules include three different versions for your young children to try.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/m-QSebScESx_9iE8s3roKGG6PBc=/fit-in/200x150/pic1130633.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Nqa_LxWrSSxJIHch6KDT7jmwFhE=/0x0/pic1130633.png</image>
+						
+												<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="278416">English First Edition</boardgameversion>
+															<boardgamepublisher objectid="384">HABA - Habermaaß GmbH</boardgamepublisher>
+															<boardgamefamily objectid="4624">HABA My Very First Games series</boardgamefamily>
+															<boardgamedesigner objectid="5178">Klaus Miltenberger</boardgamedesigner>
+															<boardgameartist objectid="46480">Kristin Mückel</boardgameartist>
+																						<boardgameversion objectid="145273">Multilingual first edition (Dutch cover)</boardgameversion>
+															<boardgameversion objectid="132731">Multilingual first edition (German cover)</boardgameversion>
+																													<boardgamefamily objectid="9867">Tier auf Tier</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="4" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>83</usersrated>
+					<average>6.67349</average>
+					<bayesaverage>5.58245</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6633" bayesaverage="5.58245" />
+												
+											</ranks>
+					
+					<stddev>1.50598</stddev>
+					<median>0</median>
+					<owned>233</owned>
+					<trading>0</trading>
+					<wanting>13</wanting>
+					<wishing>36</wishing>
+					<numcomments>39</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

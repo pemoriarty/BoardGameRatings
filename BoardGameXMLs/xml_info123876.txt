@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="123876">
+			<yearpublished>1975</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Freeze</name>
+									
+			<description>Once again the checker board provides the basis for a game, only this time the size grid required is 10x10.&lt;br/&gt;&lt;br/&gt;In 'Freeze' the movement of each playing piece is dependent upon its position on the board in relation to the other pieces. The object of the game is to prevent one's opponent from moving any of his pieces.&lt;br/&gt;&lt;br/&gt;Each of the players has ten cube-shaped pieces, the two sets being of contrasting colours. During the game, a piece can be in one of three states: free, polarised or frozen. Thus the faces of the cubes are marked, so that the one facing upper most indicates its current state. These marks are:&lt;br/&gt;Plain face &amp;mdash; free&lt;br/&gt;A line (either diagonally or orthogonally) &amp;mdash; polarised&lt;br/&gt;A large central dot &amp;mdash; frozen.&lt;br/&gt;&lt;br/&gt;A cube moves according to the state that it is in, as follows:&lt;br/&gt;Free &amp;mdash; any distance in any direction (as the Queen in chess)&lt;br/&gt;Polarised &amp;mdash; any distance along the line of polarisation&lt;br/&gt;Frozen &amp;mdash; no movement&lt;br/&gt;&lt;br/&gt;To start the game, the pieces are set up in opposite corners, with the three corner pieces being in a free state and the remainder diagonally polarised towards the opponent's corner. Players choose who is to start and then move one of their pieces alternately. No piece may move over or onto any occupied square.&lt;br/&gt;&lt;br/&gt;The state of pieces change as follows:&lt;br/&gt;If two free, opposing pieces come into line, diagonally or orthogonally, without any other piece between them, then both become polarised and are turned to show a polarised face with the line in the correct direction.&lt;br/&gt;If a piece becomes polarised along two different lines, it becomes frozen and is unable either to move or to polarise or freeze opposing pieces.&lt;br/&gt;&lt;br/&gt;The action of freezing a piece may well release one or more pieces that were under its influence before it was frozen. When a polarised or frozen piece becomes separated from a piece which was polarising it, by the intervention of another piece, it is no longer under the influence of that piece and may move up to the next advantageous state; thus a frozen cube becomes polarised and a polarised one is freed. Any piece may change its state by the movement of any other piece on the board, whether friendly or enemy. Each such move can easily set off a chain reaction. It is the responsibility of each player to point out those opposing pieces which have become polarised or frozen as the result of a move. He should also note when his own pieces are freed.&lt;br/&gt;&lt;br/&gt;The winner is the player who first freezes all of his opponents pieces.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/N_t0BCY2FxRNNLbmwrM2toRix_w=/fit-in/200x150/pic1296742.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/R1zckD-DmfRnVllXKXGo4K6ATDQ=/0x0/pic1296742.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="163730">Games &amp; Puzzles First Edition</boardgameversion>
+															<boardgamepublisher objectid="6354">Games and Puzzles (magazine)</boardgamepublisher>
+															<boardgamedesigner objectid="60000">Colin Singleton</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>
