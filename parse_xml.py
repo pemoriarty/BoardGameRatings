@@ -27,7 +27,7 @@ game_names = []
 #if so, parse it
 #save parsed version
 
-for id in range(4029, 25000):#game_ids:
+for id in range(100):#game_ids:
     file_name = "BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"
     fileObject = open(file_name,'rb')  
     xml_content_tmp = fileObject.read ()
@@ -55,3 +55,7 @@ for id in range(4029, 25000):#game_ids:
         
             compiled_info.append(game_tmp)
 
+file_name = "/media/pamela/Stuff/BoardGameXMLs/compiled_info"# + str(game_ids[id]) + ".txt"
+fileObject = open(file_name,'wb') 
+pickle.dump(compiled_info,fileObject)   
+fileObject.close()    
