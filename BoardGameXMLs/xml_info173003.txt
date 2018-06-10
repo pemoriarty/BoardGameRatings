@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="173003">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Brix</name>
+									
+			<description>Brix brings a new dimension to tic-tac-toe, with players building a wall of X and O bricks by stacking their pieces on top of each other. The first player to align four of their symbol or color in a row wins the game.&lt;br/&gt;&lt;br/&gt;In more detail, the bricks are effectively two cubes pushed together, with half the brick being orange and the other half blue; when an orange face shows an X, the blue face shows an O and vice versa. Each turn the active player adds one brick to the wall either vertically or horizontally, with each new brick connecting to existing bricks on at least one face and at most eight symbols in a horizontal row. If no one has won by the time that all bricks are in the wall, then on their turn players remove one brick and place it in a new location; if you knock the wall over on your turn, you lose.&lt;br/&gt;&lt;br/&gt;The winning condition can be changed depending on how challenging you want the game to be: (1) Connecting four squares of your color OR four of your symbol; (2) Connecting four squares of your color AND four of your symbol; or (3) Connecting four squares of any color AND four of any symbol.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Drk5Cn_KjZeHZP-z0ly8Xik2NGE=/fit-in/200x150/pic2946063.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Kz_O1HqCZQV52j6IUCrKQ5Jtesg=/0x0/pic2946063.jpg</image>
+						
+												<boardgamepublisher objectid="5022">Blue Orange (EU)</boardgamepublisher>
+															<boardgamepublisher objectid="491">Blue Orange Games</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																													<boardgamedesigner objectid="34672">Charles Chevallier</boardgamedesigner>
+															<boardgamedesigner objectid="942">Thierry Denoual</boardgamedesigner>
+															<boardgameversion objectid="265949">English first edition</boardgameversion>
+															<boardgameversion objectid="340355">German first edition</boardgameversion>
+																						<boardgamepublisher objectid="32140">Lúdilo</boardgamepublisher>
+															<boardgameversion objectid="321743">Multilingual first edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+															<boardgameversion objectid="353925">Spanish first edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>77</usersrated>
+					<average>6.35636</average>
+					<bayesaverage>5.55125</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8307" bayesaverage="5.55125" />
+												
+											</ranks>
+					
+					<stddev>1.38577</stddev>
+					<median>0</median>
+					<owned>171</owned>
+					<trading>4</trading>
+					<wanting>3</wanting>
+					<wishing>32</wishing>
+					<numcomments>16</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

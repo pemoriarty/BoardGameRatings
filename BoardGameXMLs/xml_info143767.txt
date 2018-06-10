@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="143767">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Crosscontrol</name>
+									
+			<description>Abstract game for two players. Best played on a Reversi board, can be extended over a 19x19 Goban.&lt;br/&gt;rules:&lt;br/&gt;1) players place alternately one piece on the board &lt;br/&gt;2) pieces on the board influence their cell and all the cells along horizontal, vertical and  diagonal lines, up to the first occupied cell included.&lt;br/&gt;3) a player can occupy a cell if the number of pieces of him influencing that cell is equal or higher than that of the opponent; if the cell is empty, that player occupies it with one of his pieces, if it's occupied by the opponent, the player will change that piece with one of his pieces.&lt;br/&gt;4) when a player has no more available moves, he must pass the turn to his opponent&lt;br/&gt;5) game is over when both player have no more moves&lt;br/&gt;6) the winner is the player with the higher number of pieces on the board when the game is over&lt;br/&gt;&lt;br/&gt;A &amp;quot;pie rule&amp;quot; is recommender for the opening (first player has a clear advantage); otherwise, a compensation (like Komi in Go) should be used (TBD)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JXa4oWDwePCsKqrJ_QoAjPI-Ko0=/fit-in/200x150/pic1867456.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wVK4G6kgzECaUPpfcuPMDhitNUY=/0x0/pic1867456.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="211453">first edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>5.50139</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50139" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

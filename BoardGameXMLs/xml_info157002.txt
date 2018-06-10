@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="157002">
+			<yearpublished>2014</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="5">The Confederate Rebellion</name>
+									
+			<description>The Confederate Rebellion is a solitaire game (with optional two player rules) on the American Civil War. The game is based on ACW Solitaire but contains updated and new rules, clarifications, new artwork, and new scenarios.&lt;br/&gt;&lt;br/&gt;In the solitaire game, the player controls the Union forces and the Rebellion is controlled by an AI. The game takes place over an unspecified number of turns. Play continues until either the victory or defeat conditions are met.&lt;br/&gt;&lt;br/&gt;Each turn follows this sequence of play:&lt;br/&gt;1. Union Build Phase: The Union player builds units (Armies, Gunboats, General, Fleet, Forts) during this phase. In addition, a Union General may be sacked. &lt;br/&gt;2. Union Move Phase: Union units may move Regions this phase. &lt;br/&gt;3. Union Combat Phase: Any combat resulting from Union movement is resolved. &lt;br/&gt;4. Rebel Build Phase: The Rebels may build units as permitted by certain circumstances. &lt;br/&gt;5. Rebel Move Phase: Rebel Generals may move as permitted by die roll. &lt;br/&gt;6. Rebel Combat Phase. Any combat resulting from Rebel movement is resolved.&lt;br/&gt;&lt;br/&gt;The goal of the game is to prevent the Rebellion from having resources available to build and maintain their army. Once this achieved, the Union player wins. If the Rebellion ever controls four Union areas or Washington DC, the Union player loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-bPDy_ILCzOoxbt411icqxvP7dE=/fit-in/200x150/pic1978442.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kX5GChmWHBaf9HPG2fPsOao1zEY=/0x0/pic1978442.png</image>
+						
+												<boardgamecategory objectid="1048">American Civil War</boardgamecategory>
+															<boardgameversion objectid="236300">First Boxed Edition</boardgameversion>
+															<boardgameversion objectid="236301">First Folio Edition</boardgameversion>
+															<boardgameversion objectid="236302">First Print and Play Edition</boardgameversion>
+																						<boardgamedesigner objectid="5043">David Kershaw</boardgamedesigner>
+															<boardgamedesigner objectid="65544">Steve Kling</boardgamedesigner>
+															<boardgameartist objectid="65544">Steve Kling</boardgameartist>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="8164">Solitaire Wargames</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamepublisher objectid="11015">White Dog Games</boardgamepublisher>
+															<boardgamefamily objectid="23590">White Dog Games Solitaire Series</boardgamefamily>
+															<boardgameimplementation objectid="31601" inbound="true">ACW Solitaire</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>7.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.20546</stddev>
+					<median>0</median>
+					<owned>60</owned>
+					<trading>2</trading>
+					<wanting>22</wanting>
+					<wishing>55</wishing>
+					<numcomments>14</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

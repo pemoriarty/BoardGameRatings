@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="152245">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Cards vs Dice: Strategically Lucky</name>
+									
+			<description>A very simple dice game.  Match the dice with your cards.  First person to get 7 &amp;quot;Lucky&amp;quot; cards, or get rid of all their cards first....WINS!&lt;br/&gt;&lt;br/&gt;You start with passing out the cards evenly, then you need to match them to the dice.  Either exactly, or a total.  If you match the dice exactly, you gain a &amp;quot;Lucky&amp;quot; card.  Either way you play those cards on the pile.  If you can't match, you take the pile.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uAbEFOHQgS_TLkgpymU3En4EaKQ=/fit-in/200x150/pic2467513.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/weQtNwIs-L0yzj5ID1AoTSL1zQU=/0x0/pic2467513.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameimplementation objectid="227334">Cards vs Dice: Strategically Evil</boardgameimplementation>
+																						<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="227885">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="107869">José A. Peláez</boardgamedesigner>
+															<boardgamepublisher objectid="35955">Peláez Creative</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>45</usersrated>
+					<average>5.77111</average>
+					<bayesaverage>5.5051</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12203" bayesaverage="5.5051" />
+												
+											</ranks>
+					
+					<stddev>2.02151</stddev>
+					<median>0</median>
+					<owned>122</owned>
+					<trading>4</trading>
+					<wanting>1</wanting>
+					<wishing>10</wishing>
+					<numcomments>19</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

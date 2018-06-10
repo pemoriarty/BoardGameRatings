@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="172340">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>1</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Card City Nights</name>
+									
+			<description>A simple TCG game with an interesting mechanic about the disposition of card in a 3x3 grid (resembling Tic-Tac-Toe)&lt;br/&gt;&lt;br/&gt;There are 4 types of cards: attack (red sword icon), defend (blue shield icon), revitalization (green cross icon) and neutral (yellow circle icon). Also, the cards may have arrows in one or more 8-way directions (up, diagonal up-right, right, diagonal down-right...) Each player starts with a 3x3 grid, 10 points of life and a deck of 25-40 cards. With the flip of a coin is decided the order of playing, at the first turn you must draw 5 cards and play 1 card, for the rest of the match you must have 5 cards in your hand (except when you have 0 cards on your deck)&lt;br/&gt;&lt;br/&gt;The purpouse of the game is to combine at least 2 cards to produce a combination of at least 3 symbols. To combine the cards you must put them in the 3x3 grids and achieve to match the arrows (for example, a card in the second row and second column with an up arrow matches with a card with a down arrow that is in the first row and second column). The effect is determined by the greatest symbol value (except neutral, that haves no effect), in case of draw (for example, 2 sword and 2 crosses) the player chooses what effect it should be. Attack effect (sword) deducts 1 point of defence from the life of the opponent for each sword in the combination OR you can disable a card in the rival's 3x3 grid. Defence adds to the player 1 point of life for each shield in the combination. Revitalization can undisable 1 card in your grid.&lt;br/&gt;&lt;br/&gt;There are 2 ways to win the game: by reducing the rival's life to 0 OR when the rival have cards in the hand and cannot play a card (the grid is filled with 9 cards that cannot combine in this turn) It should be noted that when a player haves 0 cards in its deck, losses 1 point of life at the start of his turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/oFQjhZglc4K_mVaVl-0l0lZr1oc=/fit-in/200x150/pic2394900.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iz5z7xpkroj9l3HxDxuAruAymfw=/0x0/pic2394900.png</image>
+						
+												<videogamebg objectid="155233">Card City Nights</videogamebg>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamepublisher objectid="14291">Ludosity Interactive</boardgamepublisher>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="264819">Print and Play Version</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.83333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.85287</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

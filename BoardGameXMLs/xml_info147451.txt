@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="147451">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Field of Glory: The Card Game</name>
+									
+			<description>Field of Glory: The Card Game is a quick-playing game for two players inspired by Field of Glory, the miniatures rule system designed by Richard Bodley Scott for ancient and medieval tabletop battles.&lt;br/&gt;&lt;br/&gt;The game is split into two parts. You first decide with which units to fight, constructing a deck of 24 unit cards. You then fight a battle across a battlefield made up of five terrain cards; to win the game, you must take control of three of these terrain cards. The army cards represent the main troop types of the period, such as heavy infantry, light cavalry and elephants, each having its own strengths and weaknesses. To be able to play units onto the battlefield, you must discard other cards to pay the movement costs involved, giving you a number of difficult decisions to make.&lt;br/&gt; Field of Glory: The Card Game is of medium complexity and should take 20-30 minutes to play.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/nKP1fVCM7G9ByBlS9NA76uYaP6Y=/fit-in/200x150/pic1804120.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9_HR5q6Fogy5tDYyAAePtmnIGOE=/0x0/pic1804120.jpg</image>
+						
+												<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+															<boardgameversion objectid="218531">English first edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="107979">Essen 2013 - Martin Wallace</boardgamepodcastepisode>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="12275">Treefrog Games</boardgamepublisher>
+															<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameimplementation objectid="31542" inbound="true">Field of Glory</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>378</usersrated>
+					<average>6.64773</average>
+					<bayesaverage>5.78973</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3219" bayesaverage="5.78973" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="652" bayesaverage="6.25683" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1192" bayesaverage="5.87086" />
+												
+											</ranks>
+					
+					<stddev>1.2886</stddev>
+					<median>0</median>
+					<owned>794</owned>
+					<trading>47</trading>
+					<wanting>52</wanting>
+					<wishing>145</wishing>
+					<numcomments>133</numcomments>
+					<numweights>33</numweights>
+					<averageweight>1.8788</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

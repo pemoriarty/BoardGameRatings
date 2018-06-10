@@ -1,0 +1,77 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="163311" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Memory Test</name>
+							<name  sortindex="1">Mindboggling</name>
+							<name  sortindex="1">Rings around Saturn</name>
+							<name  sortindex="1">Secret Code</name>
+							<name primary="true" sortindex="1">Super Programs 2</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Super Programs 2 (for 1K machines) was a compilation released for the ZX81. The programs were an eclectic mix of simple games and utilities:&lt;br/&gt;&lt;br/&gt;1. Rings Around Saturn - Escape from Saturn, avoiding its rings and before you run out of fuel.&lt;br/&gt;&lt;br/&gt;The game displays a flying saucer and two sets of &amp;quot;O&amp;quot;s, depicting an edge-on view of Saturn's rings. There are gaps in the rings and the aim of the game is to move your saucer through a large enough gap in the rings within a tight time limit.&lt;br/&gt;&lt;br/&gt;2. Secret Code - How quickly can you work out the code which the computer has selected?&lt;br/&gt;&lt;br/&gt;This is a simple computer version of Mastermind. The computer selects a 4 digit code, using numbers from 1-6. The player guesses the code and the computer responds with an X if a digit has been guessed correctly and is in the correct location, an O if a digit is correct, but in the wrong location, or blank if a guessed digit is completely incorrect. The user has 10 guesses to deduce the correct code.&lt;br/&gt;&lt;br/&gt;3. Mindboggling - A solo or party game to create words from computer selected letters.&lt;br/&gt;&lt;br/&gt;This is a computer implementation of Boggle, in which the player tries to create words from a 4x4 grid of randomly selected letters. Yet the user does not enter words into the computer - there is no computer checking of the answers. Indeed the instructions state that the user should select how long they want to play, and which rules to use. The computer just displays a grid of letters and a timer.&lt;br/&gt;&lt;br/&gt;4. Silhouette - Generate your own computer assisted silhouette&lt;br/&gt;&lt;br/&gt;The computer generates a random start point. By using the arrow keys (keys 5-8 on the ZX81) and keys 1-4 for diagonals, the user can draw a line on screen to create a doodle. This is exactly the same as &amp;quot;Doodle&amp;quot; on Super Programs 1, except that the background is black and the line is drawn in white.&lt;br/&gt;&lt;br/&gt;5. Memory Test - Can you remember the extraordinary words produced by the ZX81?&lt;br/&gt;&lt;br/&gt;The computer displays a &amp;quot;word&amp;quot; made up of random characters. After a short time, the &amp;quot;word&amp;quot; disappears and the user must enter it as they remember it. This is repeated 10 times.&lt;br/&gt;&lt;br/&gt;6. Metric Conversion - Easy conversion between yards/feet/inches and metres/centimetres&lt;br/&gt;&lt;br/&gt;A simple conversion utility.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamegenre objectid="2147">Action</videogamegenre>
+															<videogameversion objectid="247437">English/European ZX81 (Sinclair Research Instructions in Inlay re-release) edition</videogameversion>
+															<videogameversion objectid="247436">English/European ZX81 (Sinclair Research re-release) edition</videogameversion>
+															<videogameversion objectid="247434">English/European ZX81 edition</videogameversion>
+															<videogameversion objectid="247435">English/US ZX81 edition</videogameversion>
+															<videogamedeveloper objectid="26564">International Computers Limited (ICL)</videogamedeveloper>
+															<videogamepublisher objectid="26564">International Computers Limited (ICL)</videogamepublisher>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogametheme objectid="2264">Science Fiction</videogametheme>
+															<videogamepublisher objectid="12043">Sinclair Research Ltd</videogamepublisher>
+															<videogameplatform objectid="23052">Sinclair ZX81</videogameplatform>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameseries objectid="24405">Super Programs</videogameseries>
+															<videogametheme objectid="2564">Words</videogametheme>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,146 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="188547">
+			<yearpublished>2018</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Maximum Apocalypse</name>
+							<name  sortindex="1">僵尸启示录</name>
+									
+			<description>Maximum Apocalypse is a cooperative roguelike adventure game for 1-6 players. In Maximum Apocalypse, civilization has already fallen.  The players are survivors of the apocalypse whose mission is to survive the hostile landscape.&lt;br/&gt;&lt;br/&gt;The game map is randomly generated and different every time that you play. On each turn, a player can use up to four actions to explore the map, play cards, equip weapons, scavenge for resources, draw cards or battle off monsters.&lt;br/&gt;&lt;br/&gt;Picking a unique survivor class within the group, players must plan their strategy and work together while leaning on their survivor&amp;rsquo;s strengths in order to defeat monsters and avoid starvation. For example, the Fireman is deadly up close with his ax and can easily chop down monsters; meanwhile the stealthy Hunter is great at scouting the map and avoiding traps &amp;mdash; but roaming monsters are gathering quickly and time is running out. If you are overwhelmed by monsters or die of starvation, the players lose. If they can find enough gas and get it back to their van to escape, they all win and live to play another scenario.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_Tbfa9kTXf98dpR-wqpbJq35NVE=/fit-in/200x150/pic3537802.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gju8lezk1p6wqyqP0H2RXJK_fJ8=/0x0/pic3537802.png</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamefamily objectid="22184">Admin: Unreleased Games</boardgamefamily>
+																						<boardgamepublisher objectid="35928">Banana Games</boardgamepublisher>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="405184">Chinese edition</boardgameversion>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="292192">English edition</boardgameversion>
+															<boardgamedesigner objectid="84252">Mike Gnade</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgameexpansion objectid="244841">Maximum Apocalypse: Gothic Horrors</boardgameexpansion>
+															<boardgameexpansion objectid="249137">Maximum Apocalypse: Jurassic Perils</boardgameexpansion>
+															<boardgameexpansion objectid="244838">Maximum Apocalypse: Kaiju Rising</boardgameexpansion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgameartist objectid="100349">Gustav Rangmar</boardgameartist>
+															<boardgamepublisher objectid="32996">Rock Manor Games</boardgamepublisher>
+																						<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>446</usersrated>
+					<average>7.81763</average>
+					<bayesaverage>6.0341</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1964" bayesaverage="6.0341" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="334" bayesaverage="6.27185" />
+												
+											</ranks>
+					
+					<stddev>1.33938</stddev>
+					<median>0</median>
+					<owned>1191</owned>
+					<trading>10</trading>
+					<wanting>60</wanting>
+					<wishing>322</wishing>
+					<numcomments>178</numcomments>
+					<numweights>19</numweights>
+					<averageweight>2.3684</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

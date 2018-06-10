@@ -1,0 +1,84 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="139108">
+			<yearpublished>2011</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">3 Dice</name>
+									
+			<description>Designer's comment:&lt;br/&gt;Choose Your Own Adventure gamebooks are wonderful things. They contain little paragraphs scattered across the pages in a seemingly chaotic order, each one ending with a set of choices and numbers which take you flicking through the book to the next paragraph in your personal journey through the book.&lt;br/&gt;&lt;br/&gt;Which got me thinking. What happens if you make those numbers actually mean something? What if they replaced the paragraphs themselves? And what if you made them random? What would a solitaire game like that be like?&lt;br/&gt;&lt;br/&gt;This.&lt;br/&gt;&lt;br/&gt;3 Dice&lt;br/&gt;&lt;br/&gt;A CYOA solitaire game using just 3 dice and no gamebook&lt;br/&gt;&lt;br/&gt;User comment:&lt;br/&gt;This simple solitaire adventure game with dice was a submission for the RPG Solitaire Challenge.&lt;br/&gt;&lt;br/&gt;The game is played by rolling three differently coloured six-sided dice.  Using a single die 3 characteristics are rolled and recorded to represent your abilities.  To begin playing the three dice are rolled and each die is referenced against a three column table to determine a location, a monster and a reward.&lt;br/&gt;&lt;br/&gt;If a monster exists a die is rolled to determine combat results.  If you win the encounter or the room is empty you total the room dice and record the total as your Experience Reward.  When 50 points have been gained the adventure is over and abilities are reset to their starting values.  Experience can be used to increase an ability by 1 point.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamemechanic objectid="2028">Role Playing</boardgamemechanic>
+																						<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamedesigner objectid="23642">Robin V. Stacey</boardgamedesigner>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameversion objectid="201840">Web-published edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>5.50046</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50046" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="140480">
+			<yearpublished>0</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Pyramid</name>
+									
+			<description>User Summary&lt;br/&gt;Pyramid is a solitaire card game using a traditional deck of cards (no Jokers).  28 cards are arranged in a pyramid with cards below covering half of a card in a row above.  The bottom row will consist of 7 cards, with the peak consisting of a single card.&lt;br/&gt;&lt;br/&gt;The player works to remove all cards from the pyramid by making sets of two cards that add up to 13.  Aces are worth 1, Jacks are 11, Queens 12, and Kings 13 (and can be removed individually).&lt;br/&gt;&lt;br/&gt;The remaining cards make up the Stock, or draw pile, and can be used to make sets.&lt;br/&gt;&lt;br/&gt;The game is over if no more sets can be removed from the board, and a score is given by the value of cards left in the pyramid.  Thus, a perfect score is 0.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IG7BHHVjP4BSO8ukZxL35s5Tvsg=/fit-in/200x150/pic4025928.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/v8HQJhxsq0Z2S5-iote39ofxqko=/0x0/pic4025928.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="204884">Public Domain edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>4.25</average>
+					<bayesaverage>5.48508</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.48508" />
+												
+											</ranks>
+					
+					<stddev>1.27852</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

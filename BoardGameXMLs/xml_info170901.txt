@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="170901">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Jarl: The Vikings Tile-Laying Game</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;In the long winters between raiding seasons, warriors keep their intellect sharp through games of wits and chance. Ragnar, Rollo, Floki and even the Earl challenge each other to this game of stone placement filled with tactics and subtle maneuvering for victory.&lt;br/&gt;&lt;br/&gt;In Jarl: The Vikings Tile-Laying Game, players move their warriors (tiles) around the board and flip them over after each move. Each tile's side shows a different movement profile. If you end your movement in a square occupied by an opponent's tile, you capture that tile. Capture your opponent's Jarl to win!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/G1mtUyawxyjKVTypPFXBKUc91Zg=/fit-in/200x150/pic2373249.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Zg2VMKg8M_7HuEuvRydIAj-xl1M=/0x0/pic2373249.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="11716">Randall N. Bills</boardgamedesigner>
+															<boardgamepublisher objectid="7383">Catalyst Game Labs</boardgamepublisher>
+															<boardgamedesigner objectid="15719">Loren Coleman</boardgamedesigner>
+															<boardgameintegration objectid="36235">The Duke</boardgameintegration>
+															<boardgameversion objectid="262388">English first edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																													<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameartist objectid="17681">Jason Vargas</boardgameartist>
+															<boardgamefamily objectid="5613">Vikings</boardgamefamily>
+															<boardgameintegration objectid="36235" inbound="true">The Duke</boardgameintegration>
+															<boardgameimplementation objectid="36235" inbound="true">The Duke</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>275</usersrated>
+					<average>7.07858</average>
+					<bayesaverage>5.80193</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3122" bayesaverage="5.80193" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="107" bayesaverage="6.3567" />
+												
+											</ranks>
+					
+					<stddev>1.34585</stddev>
+					<median>0</median>
+					<owned>847</owned>
+					<trading>56</trading>
+					<wanting>34</wanting>
+					<wishing>166</wishing>
+					<numcomments>86</numcomments>
+					<numweights>9</numweights>
+					<averageweight>2.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

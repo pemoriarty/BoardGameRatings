@@ -1,0 +1,79 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="187129">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>4</age>
+
+							<name primary="true" sortindex="1">Nine Break</name>
+									
+			<description>Nine Break plays like a numbers version of Reversi, with players alternately placing chips on a board and trying to flip the opponent's chips to their color.&lt;br/&gt;&lt;br/&gt;The game can be played on a 4x4 or 6x6 board. In the former case, players each start with eight chips (1-4 x2) in their color and in the latter case they have 18 chips (1-6 x3). The chips have the reverse color on the other side, and the digit on the opposite side is 7-x, with &amp;quot;x&amp;quot; being the number on the front side.&lt;br/&gt;&lt;br/&gt;The board starts with two red chips (1 &amp;amp; 2) and two black chips (3 &amp;amp; 4) in the central square. Red starts, then players alternate turns. On a turn, a player places a chip on the board as long as it sandwiches at least one of the opponent's chips and flips it; to flip a chip, the sum of the sandwiching chips must be higher than the sum of the chip(s) being sandwiched. One tricky aspect, though, is that the sums of the chips are taken mod 10, so if you sandwich one or more chips with a 5 and 6, then your total is actually 1 (1 = 11 mod 10), so you couldn't flip the sandwiched chips unless they summed to 10 (since 10 mod 10 = 0).&lt;br/&gt;&lt;br/&gt;If you can't flip a chip, you must pass. The game ends when the board is full or when both players have passed. Whoever has more chips of their color showing wins; if the players are tied, then they sum the digits showing on their chips and the high score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UVweYZ3j96Yuvg9XNQh_Y206pyE=/fit-in/200x150/pic2728263.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/g3O9NmFFRcRrHk2aTLcPCk1n19E=/0x0/pic2728263.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="289727">Japanese first edition</boardgameversion>
+															<boardgamepublisher objectid="30882">Nine Break Association</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>5.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.81573</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

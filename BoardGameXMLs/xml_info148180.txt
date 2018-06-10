@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="148180">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>4</age>
+
+							<name  sortindex="1">Devil and Tailors</name>
+							<name  sortindex="1">Fox and Geese</name>
+							<name primary="true" sortindex="1">Fox and Hounds</name>
+							<name  sortindex="1">Hounds and Hare</name>
+							<name  sortindex="1">Wilk i owce</name>
+							<name  sortindex="1">Wolf and Sheep</name>
+							<name  sortindex="1">Wolf und Schafe</name>
+									
+			<description>Fox and Hounds, or Fox and Geese, or Fox and Dogs, or Wolf and Sheep, or Hounds and Hare, or Devil and Tailors. There might be even more alternate names.&lt;br/&gt;&lt;br/&gt;Fox and Hounds is played on a chess board or checkers board sized 8x8. 4 similar colored pawns or checkers as hounds and a single pawn or checker in other color as a fox.&lt;br/&gt;&lt;br/&gt;Hounds are placed onto fields b8, d8, f8, and h8. Fox starts set onto e1. Fox moves first.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;8 H H H H&lt;br/&gt;7. . . .&lt;br/&gt;6 . . . .&lt;br/&gt;5. . . .&lt;br/&gt;4 . . . .&lt;br/&gt;3. . . .&lt;br/&gt;2 . . . .&lt;br/&gt;1. . F .&lt;br/&gt; abcdefgh&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Hounds hunting the fox. The fox moves diagonally one field range forward or backward onto an empty adjacent square per turn. Hounds can only move diagonally one field forward (towards row 1) onto an empty adjacent square.&lt;br/&gt;&lt;br/&gt;Since only diagonal moves are allowed the game is played on the 32 dark fields of the chess board only.&lt;br/&gt;&lt;br/&gt;There is no capturing by jumping and no stacking of checkers. Neither by jumping the opponent as in Checkers nor by moving onto its field replacing the opponent.&lt;br/&gt;&lt;br/&gt;Fox wins by reaching the other side of the board (8th row where hounds started their hunt).&lt;br/&gt;Hounds win by blocking the fox such that it cannot move anymore (when fox has no legal move left).&lt;br/&gt;&lt;br/&gt;If moving perfect then hounds will win.&lt;br/&gt;&lt;br/&gt;Due to simplicity of the material it is sometimes part of family game collections where a Checkers or Chess set is already included.&lt;br/&gt;&lt;br/&gt;See this thread for more information: Same name but played 4:1 on chessboard&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NtXgEAosLrXxpezgmovdJz9CLec=/fit-in/200x150/pic1804843.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qdSe3faGM93oVZUCXI8TA4ElpdI=/0x0/pic1804843.jpg</image>
+						
+																			<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+																						<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																													<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="220428">Public domain edition</boardgameversion>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>3.43846</average>
+					<bayesaverage>5.47539</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.47539" />
+												
+											</ranks>
+					
+					<stddev>1.38649</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="170322">
+			<yearpublished>2014</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>1</playingtime>
+			<minplaytime>1</minplaytime>
+			<maxplaytime>1</maxplaytime>
+			<age>4</age>
+
+							<name primary="true" sortindex="1">Flakes of Ice</name>
+									
+			<description>The glacier is collapsing, and every step you take makes the glacier break into smaller pieces. Soon you'll have no place to stand; can you escape before that happens?&lt;br/&gt;&lt;br/&gt;In the solitaire game Flakes of Ice, you want to be standing on the last bit of ice after the rest of the glacier melts.&lt;br/&gt;&lt;br/&gt;The game consists of seven hexes, one that bears the game logo (which is placed in the center of the playing area) and six that bear three pairs of colored symbols (which are placed at random around the central hex). To start, you place a player token on the central hex.&lt;br/&gt;&lt;br/&gt;On a turn, you first move a hexagon by rotating it 60&amp;ordm; in either direction, or by swapping it with a neighboring hexagon or the hexagon on the opposite side of the glacier (keeping their orientations the same in the latter case). You then move the player token from a hexagon to a neighboring hexagon or the opposite hexagon &amp;mdash; but only if these hexagons are both connected to the central hex by the same colored symbol. (On the first turn, you move the player token from the central hex to any hex of your choice.) You then flip over the glacier hex that you left to show ocean water.&lt;br/&gt;&lt;br/&gt;If you can't move your player token legally, you lose the game; if you can move it six turns, then you'll be standing on the last piece of ice, victorious.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CSzBneTVjbZ0ANu9CX6-vpNWTPc=/fit-in/200x150/pic3119188.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Bqi6TFKyIh59nobkhnbqbnNdBio=/0x0/pic3119188.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamedesigner objectid="64330">Chih-Fan Chen</boardgamedesigner>
+															<boardgamepublisher objectid="22905">Homosapiens Lab</boardgamepublisher>
+															<boardgameversion objectid="261323">Multilingual first edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

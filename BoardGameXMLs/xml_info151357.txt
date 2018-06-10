@@ -1,0 +1,99 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="151357">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">7</name>
+							<name  sortindex="1">Seven</name>
+							<name primary="true" sortindex="1">SEVEN</name>
+									
+			<description>SEVEN is a tile-stacking game that uses polyhexes of 4 hexagons, called tetrahexes. There are 7 different tetrahexes (hence the name of the game).&lt;br/&gt;&lt;br/&gt;Players alternate turns placing one of their tiles according to some simple rules, trying to get the most of their pieces on the topmost layers when the game ends.&lt;br/&gt;&lt;br/&gt;The rules also include a variant and some puzzles.&lt;br/&gt;&lt;br/&gt;SEVEN is the little brother of Pent-Up, Counterplays and Stack-22.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/II8Wl42rWFfwysVa6dvkce-7xnQ=/fit-in/200x150/pic1867470.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nsQV0N6AlpAJSRt0AEz82CICs3Q=/0x0/pic1867470.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="226386">First edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamefamily objectid="46129">Pile-Omino</boardgamefamily>
+																						<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																													<boardgameimplementation objectid="247312">Stack-22</boardgameimplementation>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>25</usersrated>
+					<average>7.47</average>
+					<bayesaverage>5.53529</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.53529" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="5.72434" />
+												
+											</ranks>
+					
+					<stddev>1.30062</stddev>
+					<median>0</median>
+					<owned>26</owned>
+					<trading>1</trading>
+					<wanting>3</wanting>
+					<wishing>20</wishing>
+					<numcomments>13</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

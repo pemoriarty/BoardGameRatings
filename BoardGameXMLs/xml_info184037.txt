@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="184037">
+			<yearpublished>2015</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Dice Of Debt</name>
+									
+			<description>Dice Of Debt is a &amp;quot;serious game&amp;quot; designed to help software development teams deal with the common problem of technical debt. If you're not familiar with the concept, technical debt is the drag on productivity that sloppy coding and testing create. Teams sometimes have to take shortcuts, but they pay the price, in the long term. Here's where to get it: &lt;a target='_blank' href=&quot;http://www.game-change-llc.com/diceofdebt/&quot; rel=&quot;nofollow&quot;&gt;http://www.game-change-llc.com/diceofdebt/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Teams often have a hard time justifying to their management, or to themselves, the investment needed to reduce technical debt. Fixing the existing code, or implementing practices that improve the quality of future code, have a cost. Under time pressures, and with an unclear picture of how much of a drag on productivity technical debt really is, teams are hesitant to make a hard choice, even if it increases the amount of software value that the team will eventually deliver.&lt;br/&gt;&lt;br/&gt;The game simulates the work of an Agile software team over the course of 10 sprints. (If you're not familiar with Agile, or sprints, just suffice it to say that we're talking about the work that a team can get done in a series of 10 2-week intervals.) The 12 dice used in the game represent the team's capacity, which is split between coding new features and dealing with the burden of technical debt. You roll one set of dice to represent the value of the new features, then subtract the total from the roll of another set of dice to represent the burden of technical debt.&lt;br/&gt;&lt;br/&gt;The players (working cooperatively, since they're the team) can decide to implement measures that will reduce technical debt. Either the pool of technical debt dice will get smaller, or you will subtract from the final result of rolling these dice. You have to set aside some time and effort to implement these technical debt-reducing measures, so your capacity for coding new features will drop temporarily.&lt;br/&gt;&lt;br/&gt;The goal of the game is to produce the largest amount of new software value (features) by the end of the game (again, 10 turns, representing &amp;quot;sprints&amp;quot;). There's no specific &amp;quot;win&amp;quot; condition, other than to see how much better you can do, in the end, than if you had taken no action to reduce technical debt.&lt;br/&gt;&lt;br/&gt;The real victory the players can achieve is a good conversation about what they might do, in their own work on software teams, to reduce technical debt. Now that they've seen the long-term productivity gain they can achieve from a short-term productivity loss, it will become easier to justify the difficult choices.&lt;br/&gt;&lt;br/&gt;The game is not designed to provide an extremely accurate simulation of the benefits that each technical debt-reducing measure might provide. However, it does simulate other aspects of decision-making about technical debt. For example, the players can see how important it is to invest earlier rather than later in reducing technical debt. In these ways, the game also provides simulation value.&lt;br/&gt;&lt;br/&gt;Dice Of Debt is going to be part of a package of materials that the Agile Alliance is producing to help people combat technical debt. We will post more specifics when we have them. The current plan is to publish this package by the end of 2015.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/C-C1eyiuBiphfhzixcfiFeAox5A=/fit-in/200x150/pic2669908.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nw_IePwqroGXOjDsFvTE_6LXbBg=/0x0/pic2669908.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="284872">First edition</boardgameversion>
+															<boardgamedesigner objectid="85583">Tom Grant</boardgamedesigner>
+															<boardgamepodcastepisode objectid="162051">I&#039;ve Been Diced! episode 70: John Kranz of Consimworld</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

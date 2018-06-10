@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="164492">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>50</playingtime>
+			<minplaytime>50</minplaytime>
+			<maxplaytime>50</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Dition</name>
+									
+			<description>Characteristics&lt;br/&gt;&lt;br/&gt;The essential idea behind the development of this game was to create a mechanism that would allow literally infinite possibilities of development, always keeping the maximum simplicity of the game, while keeping to the minimum the dimensions of the board. Ie not wanted to achieve a very large number of possibilities via increasing dimensions of the board, but actually achieve infinite number of possibilities with finite dimensions. I am aware that the property of &amp;quot;infinite possibilities&amp;quot; does not necessarily imply a high degree of complexity. Analyzing the subject I found that a way to achieve endless possibilities in a space of finite dimensions is eliminating the mechanics of boxes and introducing another type of metrics.&lt;br/&gt;I was essentially inspired by the game of chinese origin here known as &amp;quot;GO&amp;quot; which is characterized by extremely simple rules and at the same time maintaining a high degree of complexity. The dynamics of this game is quite similar to the GO, share many aspects, and in fact the purpose is similar, and yet at the same time, they also differ substantially in many aspects. This will be understood by analyzing the rules of the game.&lt;br/&gt;The rules were analyzed consistently with certain typical aspects of war.&lt;br/&gt;Another parameter of design was to attempt to emulate, if not increase, the intrinsic characteristic of the GO of being a chaotic and stochastic game.&lt;br/&gt;&lt;br/&gt;The name of the game derives from the Latin expression for the word &amp;quot;dominion / control&amp;quot;.&lt;br/&gt;&lt;br/&gt;Equipment&lt;br/&gt;&lt;br/&gt;Pieces&lt;br/&gt;The pieces are circular, with a thickness that allows its easy handling. These pieces are characterized in that each has a range (a circular area whose diameter is three times the diameter of the piece). Each piece has one side painted white and the other black (like in Othello), and each player may chose one side (color) to play. Both sides have in the center a gray circle (its just decorative), whose diameter is equal to a quarter of the pieces' diameter. &lt;br/&gt;To tell if a piece is within the range of another, just take a piece and place it over the two pieces. If the piece used to measure is supported by the two pieces, one can ensure that a piece is within the range of the other (and vice versa).&lt;br/&gt;    As in the GO, it is assumed that virtually there is an infinite supply of pieces.&lt;br/&gt;&lt;br/&gt;Board&lt;br/&gt;    The board has two concentric squares: the peripheral (whose side is equal to 20x the diameter of the pieces) and the central (whose side is equal to 14x the diameter of the pieces). The peripheral defines the playing area, and the central only serves as a visual reference to place the pieces.&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Start: At the start of the game the board is empty. Black plays first. Then both players play alternately. In his turn, a player must make appear a piece in an empty space on the board.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Disappearance: A piece disappears when it is within the range of four or more opponents pieces.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    End: When a player makes a &amp;quot;suicide&amp;quot; move, the game ends and that player loses. If the game comes to a point where that may never happen, then it's a tie.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Notes about the terms used:&lt;br/&gt;&lt;br/&gt;Note 1: it is said that a player makes a &amp;quot;suicide&amp;quot; move when he makes appear a piece in a place where it is within the range of four or more opponents pieces, and since this move does not make opponent pieces disappear (then, only that piece disappears, by the rule of disappearance).&lt;br/&gt;Note 2: it is said that a player makes a &amp;quot;sacrifice&amp;quot; move when he makes appear a piece in a place where it is within the range of four or more opponents pieces, and since this move makes one or more opponent pieces disappear (then, that piece and the respective opponent pieces disappears, by the rule of disappearance).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/JVgvIbaoFiIMqdnBmXXskHK1Irg=/fit-in/200x150/pic2258407.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9xlSJH2kgElNAStAfEUvH7gzXRE=/0x0/pic2258407.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="249637">First edition (unpublished)</boardgameversion>
+															<boardgamedesigner objectid="76806">Lisandro Iaffar</boardgamedesigner>
+															<boardgameartist objectid="76806">Lisandro Iaffar</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,79 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="149976" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Alhambra Game</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Videogame version of Alhambra, a game in which players acquire money to purchase buildings around the Alhambra palatial complex.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/4tJ9ZnM38SWoUmw32v4P7QwLC5Y=/fit-in/200x150/pic2306431.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2rQar6_5VCLsd_R3nEK-nRxeVGA=/0x0/pic2306431.jpg</image>
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="223904">Android edition</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogametheme objectid="2345">Historical</videogametheme>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogameversion objectid="223903">iPhone/iPad edition</videogameversion>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamedeveloper objectid="47">Queen Games</videogamedeveloper>
+															<videogamepublisher objectid="47">Queen Games</videogamepublisher>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogamebg objectid="6249" inbound="true">Alhambra</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>7.29286</average>
+					<bayesaverage>5.96183</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2630" bayesaverage="5.96183" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="213" bayesaverage="6.34136" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="145" bayesaverage="6.38552" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="232" bayesaverage="6.30302" />
+												
+											</ranks>
+					
+					<stddev>1.37085</stddev>
+					<median>0</median>
+					<owned>114</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>14</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

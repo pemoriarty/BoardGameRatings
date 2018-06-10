@@ -1,0 +1,146 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="145759">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">&lt;firewall&gt;</name>
+							<name primary="true" sortindex="1">Firewall</name>
+									
+			<description>Firewall is a hacking themed game designed for 2-4 players. Each player is trying to hack into the same node by controlling the most ports. Only one hacker comes out on top.&lt;br/&gt;&lt;br/&gt;Hackers take control of ports by placing the most packets on them. They can also play a firewall on a port to block all other players from playing on that port. If a player is restricted by a opponent's firewall they may place a backdoor next to it to also be able to play on that port. Crafty hackers can also use spikes to their advantage by removing a die from the game. If a player manages to play a second firewall of their color then that port is locked down and no player may play anything on it (including spikes).&lt;br/&gt;&lt;br/&gt;Each player starts with ten dice. At the beginning of the game the first player rolls to see how many ports there will be (from 2-4). Next the first player rolls 2 dice and places one on an open port. The next player rolls 3 dice and places one on the board. Play continues with each player rolling 3 dice and placing one until all players are out of dice or all ports are locked down.&lt;br/&gt;&lt;br/&gt;The player with the most ports controlled wins. If there is a tie for ports controlled then the tied players count their total number of packets on their controlled ports. Whoever has the most packets wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cJLGReHsH7ZqqxRPuZSHxqpOuhg=/fit-in/200x150/pic1782852.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JD1cU_HPP7mWoErBjsuFHlYgl6w=/0x0/pic1782852.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="224106">CMYK edition</boardgameversion>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamefamily objectid="20584">Hackers</boardgamefamily>
+															<boardgamedesigner objectid="69608">Jonathan King</boardgamedesigner>
+															<boardgameversion objectid="215062">RGB edition</boardgameversion>
+															<boardgamepublisher objectid="25603">Sarcastic Robot</boardgamepublisher>
+															<boardgamedesigner objectid="69609">Sean Steele</boardgamedesigner>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>7.4375</average>
+					<bayesaverage>5.50601</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50601" />
+												
+											</ranks>
+					
+					<stddev>2.05301</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>2</trading>
+					<wanting>6</wanting>
+					<wishing>23</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

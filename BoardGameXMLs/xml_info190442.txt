@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="190442">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">CaRdPG</name>
+									
+			<description>Start&lt;br/&gt;Each player starts with 4 (Max.) face cards (Champions) and 5 (Max.) number cards (Combos / Abilities). Separate the rest of the face cards into a Monster deck, and the rest of the number cards into a Combos / Abilities deck. Player&amp;rsquo;s take turns assigning and using abilities, playing combinations, and dueling. The game ends when a player&amp;rsquo;s Champions are all tapped or destroyed, and another player successfully duels that player.&lt;br/&gt;&lt;br/&gt;Turn&lt;br/&gt;1. Untap&lt;br/&gt;2. Draw &lt;br/&gt;3. Assign Ability&lt;br/&gt;4. Use Champion Abilities (Tap)&lt;br/&gt;5. Play Combinations&lt;br/&gt;6. Duel Opponent or Monster (Tap)&lt;br/&gt;7. Discard&lt;br/&gt;&lt;br/&gt;Champions&lt;br/&gt;J &amp;ndash; 2 Abilities | Q &amp;ndash; 3 Abilities | K &amp;ndash; 4 Abilities | A &amp;ndash; 5 Abilities&lt;br/&gt;&lt;br/&gt;Dueling&lt;br/&gt;Declare a duel by tapping a Champion. Opponent can accept the duel by declaring a blocker with an untapped Champion. If opponent declines, force opponent to duel by rolling dice and matching an ability. If successful, players duel by rolling dice and matching Champion abilities. Duel ends when one player matches an ability, and one player fails to match an ability. Losing player removes all abilities from champion. If there are no attached abilities, the losing player&amp;rsquo;s Champion is destroyed. Duel a Monster by summoning a Monster from the Monster pile, and assign max. number of abilities. If Monster wins, discard a random ability from Champion. If Champion wins, upgrade Champion, and gain random ability.&lt;br/&gt;&lt;br/&gt;Abilities&lt;br/&gt;A Champion ability can be used when a Champion is tapped and the controlling player rolls a number equal to one of the Champion&amp;rsquo;s assigned abilities. Once a Champion is tapped, its abilities cannot be reused until next turn.&lt;br/&gt;&lt;br/&gt;Heart: Draw&lt;br/&gt;Spade:  Discard&lt;br/&gt;Diamond: Assign Ability (Discard Pile)&lt;br/&gt;Club: Remove Ability&lt;br/&gt;Red Joker: All Abilities + 1 / Wild Red&lt;br/&gt;Black Joker: All Abilities - 1 / Wild Black&lt;br/&gt;&lt;br/&gt;Combinations&lt;br/&gt;Combinations are ranked in ascending order from left to right (Roll# - 5SF). Higher ranked combos counter lower ranked combos. The two top rows of combos can only be played following a dice roll, and at least one card number must match. The two bottom rows of combos can be played at any time.&lt;br/&gt;&lt;br/&gt;Roll #: Re-Roll    | Pair: Counter Roll | 3 Kind: Remove all abilities | 4 Kind: Destroy Champion / Monster |&lt;br/&gt;2 Straight: + / - 1 | 3 Straight: + / - 2 | 4 Straight: + / - 3 | 5 Straight: + / - 4 | 2 Flush: 1 Ability | 3 Flush: 2 Abilities | 4 Flush: 3 Abilities | 5 Flush: 4 Abilities | &lt;br/&gt;2 SF: Card Search | 3 SF: Summon Monster | 4 SF: Upgrade Champion | 5 SF: Protection: Combos / Abilities&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the designer&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="295166">CaRdPG (MTG Lite)</boardgameversion>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgameexpansion objectid="197150" inbound="true">CardRPG</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="139666">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>9</age>
+
+							<name  sortindex="1">Hive Carbon: The Pillbug</name>
+							<name  sortindex="1">Hive: Assel Erweiterung</name>
+							<name  sortindex="1">Hive: Onisco</name>
+							<name primary="true" sortindex="1">Hive: The Pillbug</name>
+							<name  sortindex="1">Rój: Stonoga</name>
+									
+			<description>Hive: The Pillbug is a new pair of tiles that can be added to Hive. The pillbug moves like the queen bee&amp;mdash;one space at a time&amp;mdash;but it also has a special ability that it may use instead of moving. This ability allows the pillbug to move an adjacent unstacked piece (whether friendly or enemy) two spaces: up onto the pillbug itself, then down into another empty space adjacent to itself. Some exceptions for this ability:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     The Pillbug may not move the piece most recently moved by the opponent.&lt;br/&gt;     The Pillbug may not move any piece in a stack of pieces.&lt;br/&gt;     The Pillbug may not move a piece if it splits the hive (violating the One Hive Rule).&lt;br/&gt;     The Pillbug may not move a piece through a too-narrow gap of stacked pieces (violating the Freedom to Move Rule).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Furthermore, any piece moved by the Pillbug may not be moved at all (directly or via the Pillbug action) on the next player's turn.  The mosquito can mimic either the movement or special ability of the Pillbug, even when the Pillbug it is touching has been rendered immobile by another pillbug.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zcvJDOfO5UsEaRz5FMCc5fTLQ4U=/fit-in/200x150/pic2843760.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RvMuVDE7pT-Rnfg9U6B7Qp3-4iA=/0x0/pic2843760.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgameversion objectid="219521">Carbon edition</boardgameversion>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamepodcastepisode objectid="117102">Dice Tower News 244- April 14, 2014</boardgamepodcastepisode>
+															<boardgameversion objectid="202973">English Standard &amp; Pocket edition</boardgameversion>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamepublisher objectid="582">Gen42 Games</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamefamily objectid="24962">Hive</boardgamefamily>
+															<boardgamepublisher objectid="3490">HUCH!</boardgamepublisher>
+															<boardgameversion objectid="296409">Multilingual edition</boardgameversion>
+															<boardgameversion objectid="369892">Multilingual Pocket edition</boardgameversion>
+															<boardgameversion objectid="370006">Multilingual Standard edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="120864">The Boardgame Review Room - Hive with Expansions</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepublisher objectid="17786">uplay.it edizioni</boardgamepublisher>
+																													<boardgamedesigner objectid="1078">John Yianni</boardgamedesigner>
+															<boardgameartist objectid="1078">John Yianni</boardgameartist>
+															<boardgameexpansion objectid="2655" inbound="true">Hive</boardgameexpansion>
+															<boardgameexpansion objectid="154597" inbound="true">Hive Pocket</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1241</usersrated>
+					<average>7.68095</average>
+					<bayesaverage>6.61857</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.61857" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="7.26486" />
+												
+											</ranks>
+					
+					<stddev>1.23624</stddev>
+					<median>0</median>
+					<owned>5011</owned>
+					<trading>57</trading>
+					<wanting>123</wanting>
+					<wishing>421</wishing>
+					<numcomments>393</numcomments>
+					<numweights>54</numweights>
+					<averageweight>2.4815</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

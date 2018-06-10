@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="158520" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Flappy48</name>
+									
+			<description>User summary:&lt;br/&gt;Flappy48 is a game that combines the concepts of both Flappy Bird and 2048.&lt;br/&gt;&lt;br/&gt;Flappy48 can be played in a browser (with the Unity web player installed) or downloaded via the Google Play store, and has your little 2 tile leaping between pipes and bumping into other numbers, which will combine if it's a multiple of two.&lt;br/&gt;&lt;br/&gt;The goal is to reach 2048, but the game can be played continuously after.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="1001">(Web published)</videogamepublisher>
+															<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogamegenre objectid="2723">Endless Runner</videogamegenre>
+															<videogameversion objectid="238944">Google Play edition</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="238943">Unity web player edition</videogameversion>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

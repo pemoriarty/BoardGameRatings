@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="183717">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">SeraQetra</name>
+									
+			<description>A chess-style game using a hexagonal grid (with seven cells across each edge) and 25 custom pieces per player. Pieces may move in straight lines in up to 12 directions, either through the sides or corners of the cells, capturing pieces by landing on them. A player loses when their &amp;quot;God&amp;quot; is captured.&lt;br/&gt;&lt;br/&gt;The game supports either two or three players, with each player starting with control of a &amp;quot;universe&amp;quot; that is the region of cells formed within the triangle of three consecutive corners of the board. In a two-player game, the universes are opposite. In a three-player game, they form a complete ring around the edge of the board.&lt;br/&gt;&lt;br/&gt;Players may place their pieces anywhere within their universe at the start of the game (with no fixed set-up), even holding some pieces back to be placed on the board (in their universe) during play. The exceptions are the three corners, which must be empty before play begins (the central corner is termed the &amp;quot;throne&amp;quot; and the two flanking corners are the &amp;quot;palace gates&amp;quot;).&lt;br/&gt;&lt;br/&gt;The types of playing piece (with number of pieces per player listed in brackets) move as follows:&lt;br/&gt;&lt;br/&gt;     God (1): one step in any direction.&lt;br/&gt;     Ruler (2): unlimited steps in any direction.&lt;br/&gt;     Ambassador (4): unlimited steps through sides only.&lt;br/&gt;     Warrior (4): unlimited steps through corners only.&lt;br/&gt;     Priest (2): one step through sides only.&lt;br/&gt;     Spy (2): one step through corners only.&lt;br/&gt;     Minion (10): one step in any direction.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Only a God or Ruler can occupy the throne. A Minion can be substituted with a different captured piece if it reaches an opponent's palace gates (to any piece except a Ruler) or an opponent's throne (where it can be substituted for a captured Ruler).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="85421">Bruce Baker</boardgamedesigner>
+															<boardgameversion objectid="284335">Game Mat edition</boardgameversion>
+															<boardgameversion objectid="284334">Grab N Go edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="284337">LED Lit edition</boardgameversion>
+															<boardgameversion objectid="284336">Magnetic edition</boardgameversion>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,139 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="169544">
+			<yearpublished>2015</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Bright Future</name>
+									
+			<description>Bright Future is a card driven lite-RPG adventure. It is situated in an intriguing and immersive world where our civilization was destroyed after an all-out nuclear war. During the past decades the few remaining survivors are living a harsh life underground.&lt;br/&gt;&lt;br/&gt;Some of them managed to salvage equipment and technology from the fallen civilization and tried to rebuild society as they remembered it. Others had to adapt both their shapes and minds into something new and more suitable for their new environment. There is a constant struggle between the scattered groups of human and mutant survivors, but in the fortified settlements here and there, they manage to live together.&lt;br/&gt;&lt;br/&gt;The game has three modes: &lt;br/&gt;&amp;bull; Tunnel Fever: cooperative scenario for 1&amp;ndash;4 players, where you and your friends have to save the remnants of humankind from a deadly epidemic which is ravaging the population in a world without hospitals and health facilities.&lt;br/&gt;&amp;bull; Tunnel of Power: competitive scenario for 2&amp;ndash;5 players, where you will try to be the first player to open a legendary governmental bunker from the Cold war, full of equipment and supplies, which was discovered only recently.&lt;br/&gt;&amp;bull; Arena mode: a short card battle based on luck and tactics.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/n-wV_Lu4vUjXnB6dGIVDNQvBhbQ=/fit-in/200x150/pic2498548.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yG2XBTuFfJVVKcZ5RJRWKYwEa0I=/0x0/pic2498548.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																																				<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamefamily objectid="28659">Crowdfunding: Wspieram</boardgamefamily>
+															<boardgameversion objectid="260059">English first edition</boardgameversion>
+																						<boardgameartist objectid="109881">Alexander Krasnaliev</boardgameartist>
+															<boardgamedesigner objectid="79324">Radomir &quot;Gadina&quot; Mirchev</boardgamedesigner>
+															<boardgameartist objectid="109877">Nikola Yordanov</boardgameartist>
+																													<boardgamepublisher objectid="29487">Ogry Games</boardgamepublisher>
+															<boardgameversion objectid="274629">Polish edition</boardgameversion>
+																						<boardgamefamily objectid="41799">Post-Apocalyptic</boardgamefamily>
+																						<boardgamemechanic objectid="2028">Role Playing</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgameartist objectid="109879">Alexandra Stryaskova</boardgameartist>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamepublisher objectid="29800">Vermin Games</boardgamepublisher>
+															<boardgameartist objectid="109878">Georgi Yanachkov</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>171</usersrated>
+					<average>6.79433</average>
+					<bayesaverage>5.61288</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5636" bayesaverage="5.61288" />
+												
+											</ranks>
+					
+					<stddev>1.89786</stddev>
+					<median>0</median>
+					<owned>305</owned>
+					<trading>10</trading>
+					<wanting>33</wanting>
+					<wishing>145</wishing>
+					<numcomments>48</numcomments>
+					<numweights>14</numweights>
+					<averageweight>2.9286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

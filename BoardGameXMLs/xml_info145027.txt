@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="145027">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Pentos</name>
+									
+			<description>The cards in the game Pentos represent ingredients and special actions. To set up the simmering cauldrons at the start of the game, you place the top six cards of the deck into three columns of two cards. The special actions consist of jokers and enchantments, and two of these cards are placed face-up; a joker can replace any ingredient, while an enchantment allows you to:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Select one ingredient of your choice &lt;br/&gt;     Switch up to five ingredients of the same color with an opponent&lt;br/&gt;     Steal one ingredient from the cauldron &lt;br/&gt;     Discard up to five ingredients&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;During your turn, you take one of three actions:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Add ingredients: Place one ingredient in each cauldron, after which if each cauldron has two ingredients of the same color or value, you can take one ingredient from any cauldron.&lt;br/&gt;     Taste a potion: Take all the ingredients of the same color or value from one cauldron.&lt;br/&gt;     Cast a spell: Discard the proper mix of ingredients in order to cast a spell. The big Megalos, for example, is composed of nine ingredients of a single color and is so rare that casting it allows you to win the game instantly. The Pentos requires five different ingredients of the same value, and casting it ends the current round. The Mikkros, composed of three ingredients of the same value or three of the same ingredient in consecutive values, allows you to take two special action cards.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When a player casts a Pentos or the ingredient deck runs out, the round ends, although players with ingredients in hand can still play card suits of the same color. Each ingredient in a suit earns you 1 Ko&amp;acirc;, while an isolated ingredient is worth its value in Ko&amp;acirc;s.&lt;br/&gt;&lt;br/&gt;After three rounds or a Megalos spell, the game ends. In the latter case, the Megalos-casting player wins; in the latter, the player with the most Ko&amp;acirc;s is immediately turned into a toad.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OjErhUZ9hCu_ALKxMYIj1vb8jnQ=/fit-in/200x150/pic1717175.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qIJXqkeWpY2xfJzxNpIJmQkWIMQ=/0x0/pic1717175.jpg</image>
+						
+												<boardgamepublisher objectid="7186">ASYNCRON games</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+															<boardgameversion objectid="213919">English/French first edition</boardgameversion>
+																						<boardgameversion objectid="325599">German edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																													<boardgameexpansion objectid="208519">Pentos: Spieleschmiede Promo Card</boardgameexpansion>
+															<boardgameversion objectid="246215">Polish edition</boardgameversion>
+																																																																<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="27316">Trefl Joker Line</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>155</usersrated>
+					<average>5.96161</average>
+					<bayesaverage>5.55786</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7868" bayesaverage="5.55786" />
+												
+											</ranks>
+					
+					<stddev>1.29441</stddev>
+					<median>0</median>
+					<owned>264</owned>
+					<trading>15</trading>
+					<wanting>10</wanting>
+					<wishing>38</wishing>
+					<numcomments>26</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="175626">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Street Kings</name>
+									
+			<description>This is NOT a roll and move, there are no dice in this game.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Welcome to the world of underground racing. &lt;br/&gt;Your goal? To become the Street King in your own epic racing career.&lt;br/&gt;&lt;br/&gt;You&amp;rsquo;ll start at the bottom using your &amp;ldquo;D&amp;rdquo; class cars. &lt;br/&gt;With the help of your crew, cars, upgrades, and skills, you&amp;rsquo;ll &lt;br/&gt;win races to gain credits and fame.&lt;br/&gt;&lt;br/&gt;With these credits, you&amp;rsquo;ll be able to buy parts, hire crew or even advance to the next class. Another way to gain credits is by showing off your ride at local car shows. You'll also be able to choose locations where the race will take place.&lt;br/&gt;&lt;br/&gt;Be the first to win enough gold trophies to be crowned Street King!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Street Kings is played in phases.&lt;br/&gt;&lt;br/&gt;PHASE 1:&lt;br/&gt;The first player chooses a CLASS for the race.&lt;br/&gt;&lt;br/&gt;PHASE 2:&lt;br/&gt;Players take actions such as:&lt;br/&gt;-Buy Cars (From class A,B, or C)&lt;br/&gt;-Buy Upgrades (To improve the stat of your cars)&lt;br/&gt;-Hire Crew (To improve the performance of your cars)&lt;br/&gt;-Install Nitrous (To gain the winning edge)&lt;br/&gt;-Choose a Location for the race using the cards in your hand&lt;br/&gt;-Go to the Car Show (This will earn you credits/money)&lt;br/&gt;-Qualify your car at the starting grid&lt;br/&gt;&lt;br/&gt;PHASE 3: RACE!&lt;br/&gt;Using your car, upgrades and crew, you'll race through 2 locations which were chosen during the action phase.&lt;br/&gt;Each player will win trophies and credit depending on the position they finish in.&lt;br/&gt;&lt;br/&gt;PHASE 4:&lt;br/&gt;Clean Up. Each player takes back their cards and pawns from the playing area. The locations are removed and the first player marker passes to the next player. A new round begins.&lt;br/&gt;&lt;br/&gt;Play until a player has 7 gold trophies and do one final championship race to see who is the STREET KING of your town.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This is not a roll and move, there are no dice in this game.</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/RuJMzSkXa-vswuT9leXKpszUTRo=/fit-in/200x150/pic2975827.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zFWDOlgF7dHUtGeU_bzCrJ99Pyw=/0x0/pic2975827.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+																						<boardgamepublisher objectid="29510">BOARD TO DEATH</boardgamepublisher>
+															<boardgamedesigner objectid="61126">Luca Vince Caltabiano</boardgamedesigner>
+																						<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+																						<boardgameversion objectid="270213">First edition</boardgameversion>
+																																																		<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamefamily objectid="6206">Sports: Auto Racing</boardgamefamily>
+																																																		<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>113</usersrated>
+					<average>7.12398</average>
+					<bayesaverage>5.61135</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5677" bayesaverage="5.61135" />
+												
+											</ranks>
+					
+					<stddev>1.92798</stddev>
+					<median>0</median>
+					<owned>249</owned>
+					<trading>17</trading>
+					<wanting>4</wanting>
+					<wishing>24</wishing>
+					<numcomments>67</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

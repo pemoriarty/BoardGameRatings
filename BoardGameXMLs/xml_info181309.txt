@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="181309">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Busca</name>
+							<name primary="true" sortindex="1">Ciapanò</name>
+							<name  sortindex="1">Mattazza</name>
+							<name  sortindex="1">Rovescino</name>
+							<name  sortindex="1">Traversone</name>
+							<name  sortindex="1">Vinciperde</name>
+									
+			<description>Ciapan&amp;ograve; (also known by the names Rovescino, Traversone, Busca, Vinciperde and Mattazza) is a trick-taking game where the goal is not to get points.&lt;br/&gt;&lt;br/&gt;A 40 card pack is used. In each suit the cards rank as follows: 3 (highest), 2, Asso (ace), Re (king), Cavallo (horse, or queen), Fante (jack), 7, 6, 5, 4 (lowest).&lt;br/&gt;&lt;br/&gt;The cards have point values and the object is to avoid taking tricks containing valuable cards. There is an extra penalty for winning the last trick. The values of the cards are as follows:&lt;br/&gt;&lt;br/&gt;Each ace                           1 point&lt;br/&gt;Each 3, 2, re, cavallo or fante    1/3 of a point&lt;br/&gt;&lt;br/&gt;Deal (anticlockwise) 8 cards to each player for 5 players, 10 each for 4 players and 13 each for 3 players (in this case the dealer receives 14 cards and discards one card, which will be given to the winner of the last trick). Turn to deal passes to the right after each hand.&lt;br/&gt;&lt;br/&gt;There are no trumps. The player to dealer's right leads first. Any card may be led, and the other players must play a card of the suit led if they have one. A player with no card of the suit led may play anything. The highest card of the suit led wins the trick, and the winner leads to the next trick.&lt;br/&gt;&lt;br/&gt;When all tricks have been played, the values of cards taken in tricks are counted. Each player except the winner of the last trick scores as penalty points the value of the cards they have taken, disregarding any fractions - for example a player who has taken three and one thirds point scores 3; a player who has taken just two thirds of a point scores nothing. The scores of all the players for one hand should add up to 11, so the player who won the last trick scores the difference between 11 and the total of the amounts scored by the other players.&lt;br/&gt;&lt;br/&gt;If one player wins all the points, this is called Cappotto. The player with all the points scores zero for the hand and the opponents score 11 each.&lt;br/&gt;&lt;br/&gt;Any player whose cumulative score is 31 or more points drops out of the game and does not play any more. The last people left in play (1, 2 or 3 as players as agreed in advance) win the match. Alternately, some play that when a player reaches or exceeds 31, the player with the lowest score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_PVzc0Nd9UTpiZGLABY1eaML5c4=/fit-in/200x150/pic3342219.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ujKCCaSygKhBxGm8pgbCheS7lT0=/0x0/pic3342219.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="280279">Public dcomain edition</boardgameversion>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

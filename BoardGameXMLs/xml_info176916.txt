@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="176916">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>17</playingtime>
+			<minplaytime>17</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="1">Futebol Em Minutos</name>
+							<name primary="true" sortindex="1">Soccer 17</name>
+									
+			<description>Soccer 17 is a 2 Players soccer game with only 17 cards, in about 17 minutes.&lt;br/&gt;&lt;br/&gt;Each Player represents a team in a soccer match. Each turn, represents 3 minutes in the match, each Player plays 1 Action card face down. Attacker may play Dribble / Pass / One-Two, Defender may play Press / Block / Anticipate / Tackle.&lt;br/&gt;&lt;br/&gt;Reveal both cards. If Defender can predict Attacker's action, Defender has taken the ball successfully. If not then Attacker may execute the action, it can be a Shot on Goal, move the ball one Area forward, and/or get a Star (bonus for Shot on Goal).&lt;br/&gt;&lt;br/&gt;The Tackle card is very powerful because can defeat both Pass and One-Two actions, but if Attacker plays Dribble then it's a Foul: Defender must discard the Tackle/Rebound card until the end of the half and Attacker gets a Free Kick or Penalty.&lt;br/&gt;&lt;br/&gt;The ball will go back and forth as each Team tries to find an opening to make a good Shot on Goal. A Shot on Goal: Defender holds 6 Chance cards in front of him (so he can see the cards), then the attacker will take the card one by one, up to the Shot's Strength. It gives a thrilled, scared feeling when the Attacker's hand moving from one card to another to choose. &amp;quot;Don't pick this, don't pick this&amp;quot; or &amp;quot;take that one, take that one&amp;quot; will echo in Defender's head, and the eye contact will add another layer of bluffing.&lt;br/&gt;&lt;br/&gt;Let the game begin. FWEEEEETTTTTT!!!!&lt;br/&gt;&lt;br/&gt;Soccer 17 is easy to play and carry, exciting, and has a strong soccer feel. Plus you can make tournament or league easily.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IhFt69i-7ipmT0Id2c-DHPsc_Fc=/fit-in/200x150/pic2644428.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/y0iD9JkOPFrOZRe3p6CSd8E1BSk=/0x0/pic2644428.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgameversion objectid="303025">Brazilian first edition</boardgameversion>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamedesigner objectid="5445">Jack Darwid</boardgamedesigner>
+															<boardgameversion objectid="272429">English first edition</boardgameversion>
+															<boardgameartist objectid="14650">Luis Francisco</boardgameartist>
+															<boardgamepublisher objectid="24298">FunBox Jogos</boardgamepublisher>
+															<boardgamepublisher objectid="10413">Jack Darwid Games</boardgamepublisher>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5551">Sports: Football / Soccer</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.80375</average>
+					<bayesaverage>5.54673</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8615" bayesaverage="5.54673" />
+												
+											</ranks>
+					
+					<stddev>1.25152</stddev>
+					<median>0</median>
+					<owned>97</owned>
+					<trading>7</trading>
+					<wanting>6</wanting>
+					<wishing>14</wishing>
+					<numcomments>18</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

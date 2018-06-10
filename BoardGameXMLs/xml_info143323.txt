@@ -1,0 +1,145 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="143323">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name  sortindex="1">Robotite kakelung</name>
+							<name primary="true" sortindex="1">Stak Bots</name>
+									
+			<description>Simple but fun game based on playing from a hand of cards representing robots. Each has special powers and affects the stack (stak) in different ways, making it more tactical than a simple rock-paper-scissors exercise.&lt;br/&gt;&lt;br/&gt;The game functions by giving each player a stack of cards as well as a hand.  Each turn, players take a new card from the shared draw pile and may add a face-up card to the stack, trash a card from the stack or from their hand.  When a card is played, it will have &amp;quot;entry effect&amp;quot; that may operate on the stack ordering of the player or opponent.&lt;br/&gt;&lt;br/&gt;Once all playing/trashing is finished for a turn, the player may attack the card on top of an opponent's stack with the top card of their own.  The battle itself is quite simple and just a matter of comparing power, although assuming your bot survives its first battle, it can go on to attack the newly revealed card underneath.  The real tactical consideration goes into the pre-attack stack manipulation phase.&lt;br/&gt;&lt;br/&gt;There is an open turn structure which allows players to carry out actions in any order and any number of times. This means they can react to the often unpredictable results of long entry effect chains, or to cards that their opponents play defensively during your turn.&lt;br/&gt;&lt;br/&gt;The game is also customisable: you can adjust the complexity or game length by adding more Staks for each player or by changing basic game mechanics.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W1UPeIEMJIQ_7NauYyjCXKo7w3k=/fit-in/200x150/pic2056061.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/bfRe6mPurSIPM2jEApS5-6XP5Us=/0x0/pic2056061.png</image>
+						
+												<boardgamepodcastepisode objectid="184159">12. Devon Dice go to UK Games Expo 2016</boardgamepodcastepisode>
+															<boardgamepublisher objectid="14529">2D6.EE</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="25284">DogEared Games</boardgamepublisher>
+															<boardgameversion objectid="210662">English first edition</boardgameversion>
+															<boardgameversion objectid="262183">Estonian First edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="68724">Tom Norfolk</boardgamedesigner>
+															<boardgameartist objectid="68724">Tom Norfolk</boardgameartist>
+																													<videogamebg objectid="150144">Stak Bots</videogamebg>
+																						<boardgameexpansion objectid="156194">Stak Bots: Backer Bot</boardgameexpansion>
+															<boardgameexpansion objectid="156196">Stak Bots: Magnet Bot</boardgameexpansion>
+															<boardgameintegration objectid="210626">Stak Bots: Red Expansion</boardgameintegration>
+															<boardgameexpansion objectid="155745">Stak Bots: Yellow Expansion</boardgameexpansion>
+															<boardgameintegration objectid="155745">Stak Bots: Yellow Expansion</boardgameintegration>
+															<boardgamepodcastepisode objectid="109212">The Board Room episode two The Counters Board Game Cafe and StakBots</boardgamepodcastepisode>
+															<boardgameintegration objectid="210626" inbound="true">Stak Bots: Red Expansion</boardgameintegration>
+															<boardgameintegration objectid="155745" inbound="true">Stak Bots: Yellow Expansion</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>150</usersrated>
+					<average>6.364</average>
+					<bayesaverage>5.57716</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6805" bayesaverage="5.57716" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1307" bayesaverage="5.5986" />
+												
+											</ranks>
+					
+					<stddev>1.61992</stddev>
+					<median>0</median>
+					<owned>269</owned>
+					<trading>5</trading>
+					<wanting>5</wanting>
+					<wishing>19</wishing>
+					<numcomments>36</numcomments>
+					<numweights>10</numweights>
+					<averageweight>1.6</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

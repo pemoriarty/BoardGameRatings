@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="171143">
+			<yearpublished>2006</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Quantum tic-tac-toe</name>
+									
+			<description>Quantum tic-tac-toe is a &amp;quot;quantum generalization&amp;quot; of tic-tac-toe in which the players' moves are &amp;quot;superpositions&amp;quot; of plays in the classical game. The game was invented by Allan Goff of Novatia Labs.&lt;br/&gt;&lt;br/&gt;Quantum tic-tac-toe captures the three quantum phenomena discussed above by modifying one basic rule of classical tic-tac-toe: the number of marks allowed in each square. Additional rules specify when and how a set of marks &amp;quot;collapses&amp;quot; into classical moves.&lt;br/&gt;&lt;br/&gt;On each move, the current player marks two squares with their letter (X or O), instead of one, and each letter (X or O) is subscripted with the number of the move (beginning counting with 1). The pair of marks are called spooky marks. (Because X always moves first, the subscripts on X are always odd and the subscripts on O are always even.)&lt;br/&gt;&lt;br/&gt;For example, player 1's first move might be to place &amp;quot;X1&amp;quot; in both the upper left and lower right squares. The two squares thus marked are called entangled. During the game, there may be as many as eight spooky marks in a single square (if the square is entangled with all eight other squares).&lt;br/&gt;&lt;br/&gt;The phenomenon of collapse is captured by specifying that a &amp;quot;cyclic entanglement&amp;quot; causes a &amp;quot;measurement&amp;quot;. A cyclic entanglement is a cycle in the entanglement graph; for example, if&lt;br/&gt;&lt;br/&gt;square 1 is entangled via move X1 with square 4, and&lt;br/&gt;square 4 is entangled via move X3 with square 8, and&lt;br/&gt;square 8 is in turn entangled via move O4 with square 1,&lt;br/&gt;then these three squares form a cyclic entanglement. At the end of the turn on which the cyclic entanglement was created, the player whose turn it is not &amp;mdash; that is, the player who did not create the cycle &amp;mdash; chooses one of two ways to &amp;quot;measure&amp;quot; the cycle and thus cause all the entangled squares to &amp;quot;collapse&amp;quot; into classical tic-tac-toe moves. In the preceding example, since player 2 created the cycle, player 1 decides how to &amp;quot;measure&amp;quot; it. Player 1's two options are:&lt;br/&gt;&lt;br/&gt;X1 collapses into square 1. This forces O4 to collapse into square 8 and X3 to collapse into square 4.&lt;br/&gt;X1 collapses into square 4. This forces X3 to collapse into square 8 and O4 to collapse into square 1.&lt;br/&gt;Any other chains of entanglements hanging off the cycle would also collapse at this time; for example, if square 1 were also entangled via O2 with square 5, then either measurement above would force O2 to collapse into square 5. (Note that it is impossible for two or more cyclic entanglements to be created in a single turn.)&lt;br/&gt;&lt;br/&gt;When a move collapses into a single square, that square is permanently marked (in larger print) with the letter and subscript of the collapsed move &amp;mdash; a classical mark. A square containing a classical mark is fixed for the rest of the game; no more spooky marks may be placed in it.&lt;br/&gt;&lt;br/&gt;The first player to achieve a tic-tac-toe (three in a row horizontally, vertically, or diagonally) consisting entirely of classical marks is declared the winner. Since it is possible for a single measurement to collapse the entire board and give classical tic-tac-toes to both players simultaneously, the rules declare that the player whose tic-tac-toe has the lower maximum subscript earns one point, and the player whose tic-tac-toe has the higher maximum subscript earns only one-half point.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ykA7tJ-BDyXGaRi9bT3OOIv2IFc=/fit-in/200x150/pic2695193.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5bOWrPDBm4ozeRHjHiJzRlNKL20=/0x0/pic2695193.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="80312">Allan Goff</boardgamedesigner>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="262810">Web published</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.632456</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

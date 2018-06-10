@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="151563">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Weft</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Weft is a drawless connection game for two players: Red and Blue. It&amp;rsquo;s played with trapezium-shaped pieces on the cells of an initially empty basket-weave grid. The top and bottom edges of the board are colored red; the left and right edges are colored blue.&lt;br/&gt;&lt;br/&gt;All pieces are the same and only differ in color. They can be placed with any side (front or back) up. A cell can accommodate two pieces, and no piece can be placed in a way that makes this physically impossible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;Two pieces are point adjacent if they share nothing more than a vertex, and edge adjacent if they share at least part of a side longer than a vertex.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Starting with Red, the players take turns placing pieces of their own color on empty spaces of the board, one piece per turn.&lt;br/&gt;&lt;br/&gt;At the end of a turn, for any two point adjacent, like-colored pieces there must be at least one like-colored piece edge adjacent to both.&lt;br/&gt;&lt;br/&gt;Passing is not allowed. Players will always have a placement available and must make one.&lt;br/&gt;&lt;br/&gt;The game is won by the player who completes a chain of edge adjacent pieces of their color touching the two opposite board edges of his color. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pie rule&lt;br/&gt;&lt;br/&gt;The pie rule is used in order to make the game fair. This means that Blue will have the option, on their first turn only, to change sides instead of making a regular move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/v9qUMQQfspdTmUsWURZt3kZxqGI=/fit-in/200x150/pic1855605.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ag92ayHrVNIFWx0KV3suv3KkIRY=/0x0/pic1855605.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="226780">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7</average>
+					<bayesaverage>5.50417</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50417" />
+												
+											</ranks>
+					
+					<stddev>1.63299</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="142331">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Experior</name>
+									
+			<description>Experior is a 2-player game with minimalist rules and an emergent complexity.&lt;br/&gt;&lt;br/&gt;The game is about a combat in a fantasy world between a Human and an Elf. A character can perform three types of attack (sword, bow or magic attack), and each attack can be strong, causing great damages, or quick, causing damages more often. The damage intensity depends on the experience in that type of attack. A successful attack increases the experience of the fighter in that type of attack.&lt;br/&gt;&lt;br/&gt;SETUP&lt;br/&gt;Players choose randomly who is the Human and who is the Elf.&lt;br/&gt;&lt;br/&gt;In a common paper is written down the initial experiences for each type of attack and the initial number of wounds of both characters, as shown below. Another option is to print the board in the section files.&lt;br/&gt;&lt;br/&gt;ELF &lt;br/&gt;Wounds: 0&lt;br/&gt;Sword: 2&lt;br/&gt;Bow: 3&lt;br/&gt;Magic: 2&lt;br/&gt;&lt;br/&gt;HUMAN&lt;br/&gt;Wounds: 0&lt;br/&gt;Sword: 3&lt;br/&gt;Bow: 2&lt;br/&gt;Magic: 2&lt;br/&gt;&lt;br/&gt;ATTACK: TYPES AND MODALITIES&lt;br/&gt;There are three types of attack: sword, bow and magic. For each of those there are two modalities: quick and strong.&lt;br/&gt;&lt;br/&gt;So, each player has 6 cards for every possible attack: strong sword, quick sword, strong bow, quick bow, strong magic, quick magic.&lt;br/&gt;&lt;br/&gt;You can print the custom cards in the images section. Another options is to use 6 cards, for each player, from an UNO game: two red cards with 1 and 3 values for quick sword and strong sword, two green cards with 1 and 3 values for quick bow and strong bow, two blue cards with 1 and 3 values for quick magic.&lt;br/&gt;&lt;br/&gt;Winning order: sword beats bow, bow beats magic and magic beats swords.&lt;br/&gt;&lt;br/&gt;TURN&lt;br/&gt;Each player places a face down card in the middle of the table. When both cards are placed, they are revealed.&lt;br/&gt;&lt;br/&gt;&amp;bull; With a successful quick attack, the opponent takes a number of wounds equal to the value of experience the winner has in that type of attack.&lt;br/&gt;&amp;bull; With a successful strong attack, the opponent takes a number of wounds equal to the value of experience the winner has in that type of attack multiplied by 3.&lt;br/&gt;&lt;br/&gt;After the opponent&amp;rsquo;s damaging, the winner increases his experience in that type of attack by one.&lt;br/&gt;&lt;br/&gt;The winning order (sword &amp;gt; bow; bow &amp;gt; magic; magic &amp;gt; swords) determines who has done a successful attack. If both players chooses the same type of attack, the winner is who played a quick attack.&lt;br/&gt;&lt;br/&gt;In case both players choose the same type of attack and the same modality, the player with less experience in that type of attack increases by one that type of attack and nobody takes any wounds. In case both players has the same amount of experience neither of them gain experience.&lt;br/&gt;&lt;br/&gt;At the end of the turn, the two cards just played stay on the table, aside but in full view and unavailable for the next turn. At the end of the next turn, the new played cards will stay on the table, whereas the cards from the previous turn will return in the players&amp;rsquo; hands.&lt;br/&gt;&lt;br/&gt;END OF THE GAME&lt;br/&gt;The game ends when one player reaches a number of wounds greater than or equal to 100. (The game is perfectly scalable, so players can choose any number of wounds as end condition.)&lt;br/&gt;&lt;br/&gt;After that, players have to check who will get a bonus attack. Each player subtracts the value in his highest experience with the value his lowest experience. Who has the greater difference makes a number of wounds to the enemy equal to his highest experience multiplied by 3 (like a strong attack). If the differences are equal, whoever has less wounds gets the bonus attack..&lt;br/&gt;&lt;br/&gt;The winner is the player with less wounds.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NQgiAx59vsXuUFeUTq_oR1iSkiw=/fit-in/200x150/pic1653765.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aSaiMydEhEQJ_RWcstP_mNNaLpE=/0x0/pic1653765.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="208489">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="41103">Matteo Perlini</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.16667</average>
+					<bayesaverage>5.50185</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50185" />
+												
+											</ranks>
+					
+					<stddev>2.24846</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>10</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

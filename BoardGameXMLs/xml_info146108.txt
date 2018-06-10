@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="146108" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Red Rogue</name>
+									
+			<description>A computer game, a side-scrolling roguelike-like by Aaron Steed with sound design by Nathan Gallardo.&lt;br/&gt;Descend into the Dungeon of Chaos, retrieve the Amulet of Yendor, kill all who stand in your way and return with your prize.&lt;br/&gt;&lt;br/&gt;WHAT IS IT?&lt;br/&gt;&lt;br/&gt;Red Rogue is a sidescrolling roguelike-like made with Actionscript 3.&lt;br/&gt;&lt;br/&gt;HOW DOES THAT WORK THEN?&lt;br/&gt;&lt;br/&gt;Like Rogue but from side on. You attack by shoving your opponent. You can Goomba-Stomp monsters for a stun/knockback. You can be stunned too. So combat revolves around being leveled up enough to get into a shoving match, or finding a ladder to climb up so you can stun your enemies. Due to the nature of the combat there's no jumping, but this means we get gameplay much more similar to the original Rogue and if you don't think that'll be worth playing, then go play Tony Pa's Tiny Game - it'll be like that but with smooth movement.&lt;br/&gt;&lt;br/&gt;No jumping makes it not a platformer you say? Wait till the end game, I have a surprise for you.&lt;br/&gt;&lt;br/&gt;Not conforming enough to the Berlin Interpretation you say? There is a dogmatic mode in the options that allows you to play without time actually passing until you take an action (like walking).&lt;br/&gt;&lt;br/&gt;TELL US ABOUT THE LOOT&lt;br/&gt;&lt;br/&gt;There is weapons, armour, and runes. Weapons and armour have levels just like you.&lt;br/&gt;&lt;br/&gt;RUNES?&lt;br/&gt;&lt;br/&gt;I started to model the magic system on Rogue and I realised that I could save myself a lot of work by simplifying the whole system to one item that casts magic. But a very versatile item. Like magic items in Rogue, all of the runes start off unidentified. You have to cast them to find out what they do or use an identify rune. Unless of course you have the chaos rune, which will always have an unknown identity.&lt;br/&gt;&lt;br/&gt;HOW VERSATILE?&lt;br/&gt;&lt;br/&gt;Say you have the heal rune. If you eat it, you get healed. You throw it, it heals what it hits. You cast it on armour and it heals you slowly when worn. You repeat cast it on an item and you improve the effect, so you better collect a lot of that rune and cast it on a decent item for it to be worth it. Effects are instant or temporary, unless they are cast upon items. Thus the question, how does one best use this spell?&lt;br/&gt;&lt;br/&gt;Of course I don't tell the player what the exact effects of runes are, leaving it up to the player if they want to be stupid enough to cast a bleed rune on their armour or a heal rune on their sword.&lt;br/&gt;&lt;br/&gt;And there is some other unexpected effects too, magic is be highly unpredictable. Sometimes an enchantment sending an item into a mini-dungeon, sometimes a thrown rune being absorbed by a wall and transforming it.&lt;br/&gt;&lt;br/&gt;Source: The Game Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ar7gOBu7FknYiXhIfVKnrBnp8NM=/fit-in/200x150/pic1738659.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PhWaSmQ8Dh4TL7bHbX-XT3V6dHY=/0x0/pic1738659.png</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="1001">(Web published)</videogamepublisher>
+															<videogamegenre objectid="2161">Action Adventure</videogamegenre>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamegenre objectid="2413">Roguelike</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="215809">Web Browser edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>8</average>
+					<bayesaverage>5.5719</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="5.5719" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="6.38028" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

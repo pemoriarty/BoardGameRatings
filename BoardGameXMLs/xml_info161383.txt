@@ -1,0 +1,137 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="161383">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">LIE</name>
+							<name  sortindex="1">猜猜看</name>
+									
+			<description>Players begin the game with 5 cards and they choose which number on each card they will use to bluff and win the round. During a round, each player must either make a bid of how many of a certain die they believe are shared amongst all players chosen dice -OR- call the previous player's bluff and say, &amp;quot;LIE!&amp;quot; The loser of the round may only draw back up to 4 cards next round and play continues until just one player remains!&lt;br/&gt;&lt;br/&gt;There are several unique aspects to this 30-card mini micro game:&lt;br/&gt;&lt;br/&gt;1. Players choose which dice they will bid and bluff with each round.&lt;br/&gt;2. Each player holds extra hidden information based on which dice they DIDN'T use for the round.&lt;br/&gt;3. The first player to bid in a round must choose which direction the bidding will proceed in.&lt;br/&gt;4. 2 to 6 Players can play!&lt;br/&gt;5. Several variants included.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-mvgPmFzljWBUI2p6gkqh1gok_w=/fit-in/200x150/pic2559567.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ldW18HWuC6x6sD81hxw65_XSMkU=/0x0/pic2559567.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="408972">Chinese edition</boardgameversion>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgameversion objectid="244091">First edition</boardgameversion>
+															<boardgamepodcastepisode objectid="157337">GenCon 2015 - Pack O Game</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="4724">Chris Handy</boardgamedesigner>
+															<boardgamepublisher objectid="30552">One Moment Games</boardgamepublisher>
+															<boardgamefamily objectid="25085">Pack O Game</boardgamefamily>
+															<boardgamepublisher objectid="27235">Perplext</boardgamepublisher>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>204</usersrated>
+					<average>6.19853</average>
+					<bayesaverage>5.60415</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5862" bayesaverage="5.60415" />
+												
+											</ranks>
+					
+					<stddev>1.27326</stddev>
+					<median>0</median>
+					<owned>1087</owned>
+					<trading>14</trading>
+					<wanting>11</wanting>
+					<wishing>50</wishing>
+					<numcomments>87</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,157 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="141437">
+			<yearpublished>2013</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">What the Food?!</name>
+									
+			<description>What the Food?! is a fast-paced card game for 3-8 players capturing the experience of a classic cafeteria food fight! Pick up food, throw funny combos at your opponents and duck to avoid &amp;quot;humiliation&amp;quot; points from flying food impact.&lt;br/&gt;&lt;br/&gt;In the center is a draw deck, with five food or other cards exposed at any one time to make up the &amp;quot;cafeteria floor&amp;quot;. Players start the game with three standard actions and one special action unique to their character. Every round, each player chooses three of their action cards, and puts them in a stack representing the next three turns. The turns are then resolved at once, but in clockwise rotation to handle any timing conflicts. Players can gain additional actions during the game, and global school events occur, instantly causing random chaos.&lt;br/&gt;&lt;br/&gt;When any player reaches 10 humiliation points, someone has &amp;quot;alerted the principal&amp;quot; and the fight is over at the end of that round. The winner is the person with the LOWEST humiliation score.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gWlkzf7OaKteKCcJEzuem2wUQqk=/fit-in/200x150/pic1666001.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/dH1L_lfUWxXUMEszSrL0HwaobTU=/0x0/pic1666001.png</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameartist objectid="68075">Jean-Sebastien Duclos</boardgameartist>
+															<boardgameversion objectid="206881">English first edition</boardgameversion>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamefamily objectid="5841">Food / Cooking</boardgamefamily>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+																													<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamepublisher objectid="26218">Squirmy Beast</boardgamepublisher>
+															<boardgamepodcastepisode objectid="110499">TDT # 338 - Best Games from 2009</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="119099">The Party Gamecast Reviews - What the Food?!</boardgamepodcastepisode>
+															<boardgameartist objectid="68076">Janelle Tibbetts-Vaughan</boardgameartist>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamedesigner objectid="68078">Peter Vaughan</boardgamedesigner>
+															<boardgameartist objectid="68078">Peter Vaughan</boardgameartist>
+															<boardgamepodcastepisode objectid="168405">Vox Republica 106: BGG Con And Solo Conventioning</boardgamepodcastepisode>
+																													<boardgameexpansion objectid="159778">What the Food?! Bonus Players</boardgameexpansion>
+															<boardgameexpansion objectid="150836">What the Food?! Special Edition Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="150839">What the Food?! Winter 2013 Promo</boardgameexpansion>
+															<boardgameexpansion objectid="150837">What the Food?! Zombie Edition</boardgameexpansion>
+															<boardgameexpansion objectid="159779">What the Food?! “O Canada!”</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>127</usersrated>
+					<average>6.24409</average>
+					<bayesaverage>5.55816</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7854" bayesaverage="5.55816" />
+												
+											</ranks>
+					
+					<stddev>1.66667</stddev>
+					<median>0</median>
+					<owned>282</owned>
+					<trading>26</trading>
+					<wanting>6</wanting>
+					<wishing>38</wishing>
+					<numcomments>39</numcomments>
+					<numweights>10</numweights>
+					<averageweight>1.6</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

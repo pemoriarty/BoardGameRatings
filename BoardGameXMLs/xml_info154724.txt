@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="154724">
+			<yearpublished>0</yearpublished>
+			<minplayers>4</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>70</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>70</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Nomination</name>
+							<name  sortindex="1">Nomination Whist</name>
+							<name  sortindex="1">Nominations</name>
+							<name  sortindex="1">Nommie</name>
+							<name primary="true" sortindex="1">Noms</name>
+									
+			<description>Noms is a four-player Whist-like card game with bidding, in which the bidder's partner is chosen by calling a card, and the identity of the partner remains secret until the called card is played. A standard 52 card pack is used.&lt;br/&gt;&lt;br/&gt;Deal&lt;br/&gt;Any player may deal first, and the turn to deal passes to the left after each hand. The cards are not shuffled between deals: the dealer simply gathers the cards from the previous hand, stacking the tricks together, cuts the pack and starts dealing. The deal will result in everyone having a hand of 13 cards.&lt;br/&gt;&lt;br/&gt;Bidding&lt;br/&gt;Bids are an undertaking to win at least the stated number of tricks with the help of a partner chosen by nominating a card. The bidder will choose the trump suit but the bids do not mention a suit, only the number of tricks.&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;The highest bidder leads to the first trick, naming the trump suit and the called card. The identity of the partner is definitively revealed only when the called card is played, though it may be guessed earlier because the partner will try to play cards that will help the bidder.&lt;br/&gt;&lt;br/&gt;Scoring&lt;br/&gt;The bid succeeds if the bidder together with the holder of the nominated card win at least as many tricks as the number that was bid. In this case they each score the amount of the bid.  If the bidder and partner fail to win enough tricks between them, the other two players score the amount of the bid.&lt;br/&gt;&lt;br/&gt;A separate cumulative score is kept for each player and the game can continue until someone reaches the agreed target score, typically 101. The player with most points then wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="24434">Card Games: Outplay Games</boardgamefamily>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgameversion objectid="232036">Public Domain edition</boardgameversion>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

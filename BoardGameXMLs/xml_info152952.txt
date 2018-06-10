@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="152952">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>15</age>
+
+							<name primary="true" sortindex="1">Hawken: Real-Time Card Game</name>
+									
+			<description>NOTE: Hawken was released in two sets, Hawken: Real-Time Card Game – Sharpshooter vs. Bruiser and Hawken: Real-Time Card Game – Scout vs. Grenadier. There was never a release with everything together.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Based on the hit video game, Hawken! Grab a Mech and get to fighting&amp;hellip; fast! Your deck of cards contains primary and secondary weapons systems, thrusters, special abilities, and various other high-tech instruments of war. Draw cards and place them onto the table as fast as you can, but be careful or you might overheat! If you don't wish to play a card, place it face down and it acts as cover for the round, absorbing a bit of damage from your opponent. The action is in real-time, but a game round ends when a player snags the FIRE! button from the center of the table. The speed of the Mechs are calculated, which determines the engagement range. Then weapons are fired and internal heat is generated. Quick reflexes are helpful, but a quick mind will win every time!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zl2SnK83H8Qg4iiZK-qYW9OYBio=/fit-in/200x150/pic1884915.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/hKbwol4TGpL9N9Z8RBVJJnHW61I=/0x0/pic1884915.jpg</image>
+						
+												<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="12024">Cryptozoic Entertainment</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<videogamebg objectid="136185">Hawken</videogamebg>
+																													<boardgameintegration objectid="184861">Hawken: Real-Time Card Game – Scout vs. Grenadier</boardgameintegration>
+															<boardgameintegration objectid="173372">Hawken: Real-Time Card Game – Sharpshooter vs. Bruiser</boardgameintegration>
+															<boardgamedesigner objectid="774">Matt Hyra</boardgamedesigner>
+															<boardgamepodcastepisode objectid="136168">I&#039;ve Been Diced! episode 62: Our 2014 in review</boardgamepodcastepisode>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+															<boardgameintegration objectid="184861" inbound="true">Hawken: Real-Time Card Game – Scout vs. Grenadier</boardgameintegration>
+															<boardgameintegration objectid="173372" inbound="true">Hawken: Real-Time Card Game – Sharpshooter vs. Bruiser</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>207</usersrated>
+					<average>6.40431</average>
+					<bayesaverage>5.6401</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4994" bayesaverage="5.6401" />
+												
+											</ranks>
+					
+					<stddev>1.36084</stddev>
+					<median>0</median>
+					<owned>421</owned>
+					<trading>21</trading>
+					<wanting>11</wanting>
+					<wishing>61</wishing>
+					<numcomments>84</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1.4545</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

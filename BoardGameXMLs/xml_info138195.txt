@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="138195">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">City Blocks</name>
+									
+			<description>Metro City is redeveloping an old industrial district for mixed use (residential, commercial and industrial) and the mayor is offering bonuses to two developers for aesthetic completion of key streets. Can you win greater bonuses than your competitor by strategically building homes, offices, stores, courthouses, parks and malls in ways that upset your opponent&amp;rsquo;s plans for the city?&lt;br/&gt;&lt;br/&gt;The city district is a 6 x 5 grid with 11 named streets. Each street has a mayor's bonus associated with it, from $1 to $15, drawn randomly at the start of the game. Players try to develop each street better than their opponent to claim its bonus.&lt;br/&gt;&lt;br/&gt;Each player keeps a hand of 5 Building tiles out of 20 available to them. When placing a tile on an empty city block, if the tile completes a street (a row or column) they compare the value of their Buildings on the street to their opponent's Buildings to determine who wins the bonus. A straightforward comparison simply involves adding the number of each tile: Residential Buildings count from 1 to 5, Commercial Buildings count from 2 to 6 and Industrial Buildings count from 3 to 7. However, four types of special tiles change how the bonus is determined: a Park or Mall prevents either player's Industrial Buildings from counting towards the bonus on a street; a Power Plant or Mall prevents Residential Buildings from counting towards the bonus. Finally, the Courthouse allows the player to switch the bonuses of two streets.&lt;br/&gt;&lt;br/&gt;Instead of placing a tile on an empty block, a player can discard a Currency token and build over a block they have already developed.&lt;br/&gt;&lt;br/&gt;Whoever has the most money wins, and earns a key to the city from the mayor!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5YT77zOT5u9QaEykgHrhbUcz3iA=/fit-in/200x150/pic1894656.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6a2kKObR1SI4kxViGy8e9Np3T-0=/0x0/pic1894656.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameartist objectid="49323">Xavier Carrascosa</boardgameartist>
+																						<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgameversion objectid="199562">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="9519">Jeffrey Henning</boardgamedesigner>
+															<boardgamefamily objectid="20530">nestorbooster</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>83</usersrated>
+					<average>5.35482</average>
+					<bayesaverage>5.48657</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13516" bayesaverage="5.48657" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1536" bayesaverage="5.47587" />
+												
+											</ranks>
+					
+					<stddev>1.37971</stddev>
+					<median>0</median>
+					<owned>14</owned>
+					<trading>1</trading>
+					<wanting>3</wanting>
+					<wishing>11</wishing>
+					<numcomments>28</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.625</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="176631">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Stratos</name>
+									
+			<description>In Stratos, players assume the role of rival tribes vying for control of a newly discovered land. Players succeed in their quest by hiring and developing groups of characters that can accumulate resources and exercise unique abilities. Players collect resources from the game board through character actions and spend them to hire new characters and advance their tribe.&lt;br/&gt;&lt;br/&gt;Stratos has 5 character classes, each serving a distinct function. The 5 classes and their (promoted forms) are the Peasant (Cultivator), Archer (Marksman), Soldier (Knight), Explorer (Swashbuckler) and Mage (Sorcerer). Each promoted class gains expanded abilities compared to its original version. Enhanced abilities include greater attacks (Knight vs. Soldier), access to stronger spells (Sorcerer vs. Mage), improved resource harvesting (Cultivator vs. Peasant), expanded movement (Swashbuckler vs. Explorer) and increased attack accuracy (Marksman vs. Archer). Characters move from space to space on a tile-based board which can be arranged randomly or according to set maps. Each character can perform up to 2 unique actions per turn with movement being a repeatable action. Available character actions (dependent on class) include Harvest, Travel, Search, Attack, Shoot, Defend, Cast and Use.&lt;br/&gt;&lt;br/&gt;Points are awarded by defeating characters, casting unique spells, discovering treasures, hoarding resources, promoting characters and occupying key map locations.&lt;br/&gt;&lt;br/&gt;The first player to reach a pre-determined number of Prosperity points (default 10) is declared the winner.&lt;br/&gt;&lt;br/&gt;Stratos is a product of Board and Tale Games Inc., a Canadian boardgame publisher based in Hamilton, Ontario.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hqa0RAWkgr1zwVANpwGOY6jrqQs=/fit-in/200x150/pic2948430.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HOZz5rS_9x-dsLs7sGvF0bhK5X4=/0x0/pic2948430.jpg</image>
+						
+																			<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamepublisher objectid="29675">Board and Tale Games Inc.</boardgamepublisher>
+																						<boardgamedesigner objectid="81996">Jacob Chodoriwsky</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="271988">First edition</boardgameversion>
+																						<boardgamedesigner objectid="81997">David Gundrum</boardgamedesigner>
+															<boardgameartist objectid="81998">Garth Laidlaw</boardgameartist>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+															<boardgameversion objectid="305589">Second edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																																																		<boardgameintegration objectid="220697">Stratos: Light in the Darkness</boardgameintegration>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameintegration objectid="220697" inbound="true">Stratos: Light in the Darkness</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>61</usersrated>
+					<average>7.09836</average>
+					<bayesaverage>5.49621</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12921" bayesaverage="5.49621" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1738" bayesaverage="5.48326" />
+												
+											</ranks>
+					
+					<stddev>2.75249</stddev>
+					<median>0</median>
+					<owned>96</owned>
+					<trading>7</trading>
+					<wanting>2</wanting>
+					<wishing>15</wishing>
+					<numcomments>38</numcomments>
+					<numweights>5</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

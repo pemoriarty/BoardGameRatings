@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="182233">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Dominimum</name>
+									
+			<description>Dominimum is a derivative of Mystique Energy (by the same designer) that can be played with a Double-seven binary-coding dominoes set. Dominimum is for 2 to 4 players.&lt;br/&gt;&lt;br/&gt;To set up, shuffle the tiles face-down on the table. Each player then draws a tile without showing it to the other players, looks at it, then places it before them so the other players can&amp;rsquo;t see it. If both symbols are the same (i.e. it is a double tile) then discard the tile to the supply and re-draw until you get a tile with two different symbols; then reshuffle the supply. This is your &amp;quot;mission tile&amp;quot;. Each player then draws a second tile; this is your &amp;quot;playing tile&amp;quot;.&lt;br/&gt;&lt;br/&gt;The first player places her playing tile on the table face-up. Then, starting with the second player, players take turns in anticlockwise order, placing their playing tile on the table adjacent to at least one placed tile so that the tiles fit into an imaginary orthogonal grid, then drawing a new playing tile from the supply (if possible).&lt;br/&gt;&lt;br/&gt;The game ends when the last tile has been placed on the table, and each player then calculates her score. For each of the two symbols on your mission tile, find the largest contiguous, orthogonally connected group of that symbol. Count the number of squares in that group. Note: Diagonal connections do not count! Once you have counted the largest group for each of your two symbols, multiply these two values to determine your score.&lt;br/&gt;&lt;br/&gt;The player with the lowest score wins. In case of a tie, the tied player who played her final tile first wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2aV5qCLght-PYSHN5RknqYWNoFE=/fit-in/200x150/pic2626794.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/JriGRykAuv6_IczrWEDBAL3TCQQ=/0x0/pic2626794.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="28020">double-seven binary-coding dominoes</boardgamefamily>
+															<boardgameversion objectid="281838">First edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameimplementation objectid="143436" inbound="true">Mystique Energy</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.894427</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,82 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="188909">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Seizer&#039;s Chess</name>
+									
+			<description>Seizer's Chess is chess variant.&lt;br/&gt;&lt;br/&gt;The first distinction is that the pieces are flat shapes that indicate movement more than rank. The shapes can be stacked in a way that allows players to still tell what pieces are stacked on top of each other.&lt;br/&gt;&lt;br/&gt;The second distinction is gameplay. Instead of eliminating a piece from the game when it is captured, the player actually captures, or Seizes, it and adds it to the piece they used to capture it.&lt;br/&gt;&lt;br/&gt;For example, if a Rook captures a Knight, the Rook+Knight can now move as a Knight or a Rook, the choice is up to the player.&lt;br/&gt;&lt;br/&gt;If that combination piece is captured, then it transfers its powers on to the next piece - and so on.  This applies to Kings as well, (as the capturing piece).  Player could potentially end up with a King that can move like a Queen and leap like a Knight.&lt;br/&gt;&lt;br/&gt;The creator claims that the game is so volatile that a computer cannot defeat a human player in this game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="87424">Gregory Bute</boardgamedesigner>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="292750">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamecompilation objectid="171" inbound="true">Chess</boardgamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

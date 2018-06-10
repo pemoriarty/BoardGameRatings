@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="150576">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Battle of Berserk</name>
+									
+			<description>User summary:&lt;br/&gt;&lt;br/&gt;A 2 player card driven battle game based on the manga with the same name by Kentaro Miura.&lt;br/&gt;&lt;br/&gt;Players draw 5 cards from a common deck; cards are numbered 0&amp;ndash;5. Each player puts down a card, and in turn, turn them face up to either move as many spaces as the card shows or attack (if the distance to the enemy is as many spaces as the card shows) and then puts down another card. Hence moves are programmed one turn in advance.&lt;br/&gt;&lt;br/&gt;The first player to inflict 2 damage wins. The game also has special character cards, and some rule-changing cards to draw at random if players want to spice up the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/dhFjreAg8PSU1Xwx2rq5rZDVZzw=/fit-in/200x150/pic1831569.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tNbEArOrby4oLHVtp15E__QgNCQ=/0x0/pic1831569.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamepublisher objectid="26193">Art of War</boardgamepublisher>
+															<boardgamecategory objectid="1116">Comic Book / Strip</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="224910">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="11089">Hayato Kisaragi</boardgamedesigner>
+															<boardgameartist objectid="71767">Kentaro Miura</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7</average>
+					<bayesaverage>5.50417</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50417" />
+												
+											</ranks>
+					
+					<stddev>0.816497</stddev>
+					<median>0</median>
+					<owned>7</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>7</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

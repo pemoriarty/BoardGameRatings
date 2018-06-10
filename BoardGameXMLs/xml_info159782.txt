@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="159782">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Land Grab</name>
+									
+			<description>A game for 2-players.&lt;br/&gt;&lt;br/&gt;Materials&lt;br/&gt;&lt;br/&gt;4 pawns, 2 black and 2 white.&lt;br/&gt;&lt;br/&gt;49 Othello like tiles, black on one side and white on the other.&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;Claim - An orthogonally adjacent group of friendly tiles.&lt;br/&gt;Adjacent &amp;ndash; adjacent from this point on will be considered orthogonally adjacent.&lt;br/&gt;&lt;br/&gt;Goal&lt;br/&gt;&lt;br/&gt;Win by capturing all of your opponent&amp;rsquo;s pawns or by having the largest claim.&lt;br/&gt;&lt;br/&gt;Setup&lt;br/&gt;&lt;br/&gt;Lay out the 49 tiles into an 7x7 black and white checkerboard pattern.&lt;br/&gt;&lt;br/&gt;Then alternately starting with black, place a pawns onto an empty friendly color tile.&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;On a turn you must take one of the following actions.&lt;br/&gt;&lt;br/&gt;1) Select an empty enemy colored tile that is in a straight line (horizontally or diagonally) with one of your friendly pawns, then flip this tile over and move the friendly pawn placing it on top of the tile just flipped or&lt;br/&gt;&lt;br/&gt;2) Capture an enemy pawn by approach, this is done by moving a friendly pawn to an empty enemy tile (this tile must also be flipped over before completing the capture) that is adjacent to an enemy pawn, provided that the enemy pawn is on the continuation of the capturing pawns's movement line (which could be horizontally or diagonally) or&lt;br/&gt;&lt;br/&gt;3) Move a friendly pawn freely within a claim that is occupied by that pawn.&lt;br/&gt;&lt;br/&gt;The game ends when one of the following occurs.&lt;br/&gt;&lt;br/&gt;1. When all enemy pawns are captured or&lt;br/&gt;&lt;br/&gt;2. When players are unable of following either rules #1 or #2 after 2 consecutive turns.&lt;br/&gt;&lt;br/&gt;Finally add up the tiles in your claims, the player with the largest claim or the player that managed to capture all the enemy pawns is the winner. If by chance there is a tie, look at each player&amp;rsquo;s second largest claim and so forth.&lt;br/&gt;&lt;br/&gt;Restrictions&lt;br/&gt;&lt;br/&gt;Unless performing a capture, you can't flip a tile of an opponent's claim if that claim is occupied by an opponent's piece.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="62677">Rey Alicea</boardgamedesigner>
+															<boardgameartist objectid="62677">Rey Alicea</boardgameartist>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameversion objectid="241295">First version</boardgameversion>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

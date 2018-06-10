@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="192059">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Fano330-R-Morris</name>
+									
+			<description>Fano330-R-Morris is a ruthless game, in that you can never win on your turn, but you can lose.&lt;br/&gt;&lt;br/&gt;The &amp;ldquo;Fano&amp;rdquo; portion of the name comes from the board, which depicts the Fano plane. The Fano plane is a finite projective plane with the minimum number of points and lines possible: 7 points and 7 lines (counting the circle), with 3 points on each line, and 3 lines through every point.&lt;br/&gt;The &amp;ldquo;330&amp;rdquo; portion of the name comes from the original playing pieces for the game: &amp;yen;330 of Japanese coins: Player 1 would use two &amp;yen;100 coins and two &amp;yen;50 coins, while Player 2 would use two &amp;yen;10 coins and two &amp;yen;5 coins.&lt;br/&gt;&lt;br/&gt;For the nestorgames edition, each player has pieces of one color: two circles and two triangles, in celebration of the geometry depicted in the Fano plane.&lt;br/&gt;&lt;br/&gt;How To Play&lt;br/&gt;&lt;br/&gt;The board starts empty. White plays first.&lt;br/&gt;&lt;br/&gt;Placement Phase&lt;br/&gt;&lt;br/&gt;Players take turns stacking one of their pieces on the circled spaces of the board, following The Stacking Rules below:&lt;br/&gt;&lt;br/&gt;A) Stack it on an empty space or&amp;hellip;&lt;br/&gt;B) Stack it on another piece already on the board, applying The Stacking Rules as follow:&lt;br/&gt;a. No more than 2 pieces can be stacked on the same space. A stack consists of one or two pieces.&lt;br/&gt;b. Two pieces of identical shape and colour cannot be stacked.&lt;br/&gt;&lt;br/&gt;Movement Phase&lt;br/&gt;&lt;br/&gt;When the Placement Phase finishes, players take turns moving one of their pieces on the board, following the rules below:&lt;br/&gt;A) Move it to an adjacent space along a &amp;ldquo;line&amp;rdquo; (See the section &amp;quot;LINES&amp;quot;), following The Stacking Rules.&lt;br/&gt;B) When two pieces are stacked, only the upper piece can be moved.&lt;br/&gt;&lt;br/&gt;On your turn, you must move one of your topmost pieces from a stack along a line to an adjacent space, respecting the Stacking Rule.&lt;br/&gt;&lt;br/&gt;LINES&lt;br/&gt;&lt;br/&gt;The &amp;ldquo;lines&amp;rdquo; are defined as the 7 lines that connect thefollowing 3-space sets on the board:&lt;br/&gt;{1,2,4}, {5,2,3}, {3,4,6}, {6,1,5}, {2,7,6}, {4,7,5}, {1,7,3}&lt;br/&gt;&lt;br/&gt;Game End&lt;br/&gt;&lt;br/&gt;You lose if either of the following is true:&lt;br/&gt;a) 3 pieces of the same colour or same shape are in a &amp;ldquo;line&amp;rdquo; (remember, the circle is a &amp;ldquo;line&amp;rdquo;) when finishing your turn. Only consider the topmost piece in each space. (Placement or Movement Phase)&lt;br/&gt;b) You have no legal moves when starting your turn. (Movement Phase)&lt;br/&gt;&lt;br/&gt;Notice that the game might end during the Placement Phase.&lt;br/&gt;&lt;br/&gt;In case of repeated board positions, the game ends in a draw. Play again swapping colours.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/y7GZTQ6LqMAxkOqsZU0PrAiKmMY=/fit-in/200x150/pic2847723.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6nR9BK8wICOOHs7IVFtkQxaFCuQ=/0x0/pic2847723.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="340107">English/Japanese deluxe edition</boardgameversion>
+															<boardgameversion objectid="297938">English/Japanese first edition</boardgameversion>
+																						<boardgamedesigner objectid="68359">Masahiro Nakajima</boardgamedesigner>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameartist objectid="88424">Tomoko Otoshi</boardgameartist>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>25</usersrated>
+					<average>6.94</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.00659</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>1</trading>
+					<wanting>3</wanting>
+					<wishing>10</wishing>
+					<numcomments>18</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

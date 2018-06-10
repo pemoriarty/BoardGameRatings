@@ -1,0 +1,143 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="164110">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Munchkin Gloom</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;In Gloom, from Atlas Games, you take control of a family of miserable people and make them more miserable, trying to become the most miserable family of all before you kill your family off.&lt;br/&gt;&lt;br/&gt;The world of Munchkin, by contrast, contains plenty of happy people. Warriors who slay monsters, adventurers who grab loot, heroes who level up. Heck, halflings who stay at home eating pie all day. But the world of Munchkin is also sad and benighted, a place where those very same Munchkins are all too often backstabbed by buddies, dined on by dragons, and discovered by doom ducks. Heroes delve too deep, plummet down pits, and lose their loot &amp;mdash; and that's before they die.&lt;br/&gt;&lt;br/&gt;Now what if you combined Gloom with Munchkin? Keith Baker of Atlas Games is doing just that! In Munchkin Gloom , players shepherd their parties through terrible travails and troublesome tribulations until &amp;mdash; inevitably &amp;mdash; they perish in pain. Naturally, the most miserable fellowship wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/tK1PSNvzwYNWLAb7IduUcKfE_Po=/fit-in/200x150/pic2462190.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/O9SW7yXvZqSPu5UmD6EUyvjAiAQ=/0x0/pic2462190.jpg</image>
+						
+												<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamepublisher objectid="78">Atlas Games</boardgamepublisher>
+															<boardgamedesigner objectid="3991">Keith Baker</boardgamedesigner>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameintegration objectid="95234">Cthulhu Gloom</boardgameintegration>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="248864">English first edition</boardgameversion>
+															<boardgameartist objectid="17308">Jaume Fabregat</boardgameartist>
+															<boardgameintegration objectid="172062">Fairytale Gloom</boardgameintegration>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamefamily objectid="10580">Gloom</boardgamefamily>
+															<boardgameintegration objectid="12692">Gloom</boardgameintegration>
+															<boardgameintegration objectid="214898">Gloom in Space</boardgameintegration>
+																						<boardgamedesigner objectid="15640">Andrew Hackard</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgamedesigner objectid="22">Steve Jackson (I)</boardgamedesigner>
+															<boardgameartist objectid="6815">John Kovalic</boardgameartist>
+															<boardgamefamily objectid="24">Munchkin</boardgamefamily>
+																						<boardgamemechanic objectid="2027">Storytelling</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgameintegration objectid="95234" inbound="true">Cthulhu Gloom</boardgameintegration>
+															<boardgameintegration objectid="172062" inbound="true">Fairytale Gloom</boardgameintegration>
+															<boardgameintegration objectid="12692" inbound="true">Gloom</boardgameintegration>
+															<boardgameimplementation objectid="12692" inbound="true">Gloom</boardgameimplementation>
+															<boardgameintegration objectid="214898" inbound="true">Gloom in Space</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>127</usersrated>
+					<average>6.67362</average>
+					<bayesaverage>5.61198</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5651" bayesaverage="5.61198" />
+												
+											</ranks>
+					
+					<stddev>1.45557</stddev>
+					<median>0</median>
+					<owned>646</owned>
+					<trading>10</trading>
+					<wanting>9</wanting>
+					<wishing>100</wishing>
+					<numcomments>37</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

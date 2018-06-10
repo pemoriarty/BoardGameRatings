@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="174192">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Daxu</name>
+									
+			<description>In Daxu, players collect sets of cards of six different types of shops: bakery, rice wine shop, wood cutter, basket maker, silk dealer, and tea house.&lt;br/&gt;&lt;br/&gt;Each round, several cards are flipped and players decide whether they want the cards for themselves or they want to give the cards to their opponent. Obtained cards go into your personal collection, and some of these cards provide (or make you lose) reputation points. If you focus too much on one type of shop, your customers will be dissatisfied and your opponent will gain points instead of you!&lt;br/&gt;&lt;br/&gt;At the end of the game, players score points based on who holds majorities in which shops. Holding a majority by only a few cards earns points for you, but from a certain point on, that majority provides points for your opponent instead! Whoever collects the most points from majorities and reputation points wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_xk2xrJcQIbTlu0pArCHs9D6kcM=/fit-in/200x150/pic2529345.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GlrkE3K1kyY4PeZZ_GIBINJ_1Ns=/0x0/pic2529345.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																				<boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+															<boardgamedesigner objectid="67761">J. Alex Kevern</boardgamedesigner>
+															<boardgameversion objectid="267853">Multilingual first edition</boardgameversion>
+																						<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																													<boardgamepodcastepisode objectid="183358">What Did You Play This Week Podcast Thing Week 80</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="183738">What Did You Play This Week Podcast Thing Week 81</boardgamepodcastepisode>
+															<boardgamepublisher objectid="4932">White Goblin Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>231</usersrated>
+					<average>6.63074</average>
+					<bayesaverage>5.69401</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4108" bayesaverage="5.69401" />
+												
+											</ranks>
+					
+					<stddev>1.28062</stddev>
+					<median>0</median>
+					<owned>372</owned>
+					<trading>14</trading>
+					<wanting>29</wanting>
+					<wishing>158</wishing>
+					<numcomments>70</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

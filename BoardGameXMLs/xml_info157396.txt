@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="157396" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Pixel Legend of Zelda</name>
+									
+			<description>&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;        &lt;br/&gt;UNLICENSED GAME&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;        &lt;br/&gt;This game is an unlicensed version of The Legend of Zelda.&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;I've been following the craziness of Ludem Dare for a while, and kept hoping some of my free time would line up with one.  Well, it just so happened that last weekend there was a 48 hour mini-jam that coincided with a relatively calm weekend.  I decided to jump in and see about cranking out a game.  Due to some amazing weather I ended up spending about half the weekend outside doing yard work, and worked on this game when I needed a break from the weeds.The theme of the jam was &amp;quot;de-makes&amp;quot; which meant all the participants were invited to re-make a game of their choosing in a low-fidelity, low-tech or otherwise deconstructed format.  After kicking the idea around in my head for a while, I decided to de-make the original Legend of Zelda.  My de-make would be to rebuild the game, but with a viewport of just 16 x 16 pixels.  No interpolation, no cheating, just 16 x 16 blocks of one color each.&lt;br/&gt;&lt;br/&gt;To figure out if this crazy idea even made sense, I did some tests in photoshop to make sure the various pages of the world map would fit into the 16 x 16 limit.  Fortunately the Zelda map screens are all a tile grid of 16 x 10 tiles.  This fits nicely into my limit with a few pixels to spare for the status area at the top.  The final content actually fits into a 16 x 14 pixel rectangle, so I beat my limit by 32 pixels!&lt;br/&gt;&lt;br/&gt;Source: The Developer Website.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/0LwamkGt2kAp1rdgoOSKyta0ry0=/fit-in/200x150/pic2480467.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/pd9Tv91xEoojz6ZIj-SJ3X_EcNw=/0x0/pic2480467.png</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamefranchise objectid="14180">(Unlicensed Games)</videogamefranchise>
+															<videogamepublisher objectid="1001">(Web published)</videogamepublisher>
+															<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogamegenre objectid="2161">Action Adventure</videogamegenre>
+															<videogametheme objectid="2148">Fantasy</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="236994">Web Browser edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

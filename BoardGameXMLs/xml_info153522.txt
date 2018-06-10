@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="153522">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Yushino</name>
+									
+			<description>What is Yushino?&lt;br/&gt;&lt;br/&gt;Yushino is a crossword game with numbers.&lt;br/&gt;&lt;br/&gt;Easy to learn, easy to play - but epic battles are sure to ensue when you try to beat your friends at it!&lt;br/&gt;&lt;br/&gt;Yushino is simple.&lt;br/&gt;&lt;br/&gt;You create number sequences on the board, from left-to-right or from top-to-bottom. Every sequence must conform to one of the two rules:&lt;br/&gt;&lt;br/&gt;First rule:&lt;br/&gt;If the sequence has 3 or more numbers, every number is the sum of the previous two numbers - but we only use the last digit of the sum. For example, if the previous two numbers are 6 and 7 then since 6 + 7 = 13 the next number must be 3 (we ignore the first digit, &amp;quot;1&amp;quot;). Other valid Yushino sequences are 875, since 8 + 7 =(1)5; 7291, as 7 + 2 = 9 and 2 + 9 = (1)1, etc.&lt;br/&gt;&lt;br/&gt;Second rule:&lt;br/&gt;If the sequence has 2 numbers, the numbers must differ by 1 - but keep in mind that the numbers repeat, so we go from 0 to 9 and then back to 0 again, which means that 9 is next to 8 but it is also next to 0. Examples of valid two-number sequences are: 56, 87, 90, 09, 98, etc.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zqZ0kLmkmq4B9oRFZk0CQkxF3ao=/fit-in/200x150/pic1903585.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LCgNTV2X2oew4AX07F_arsr8ZJg=/0x0/pic1903585.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="229930">Kickstarter edition</boardgameversion>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+																						<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>5.77778</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.93091</stddev>
+					<median>0</median>
+					<owned>24</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>5</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="172695">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">hex6d</name>
+									
+			<description>Hex6d is a scale-able strategy/family game for 2-6 players that takes, on average, 10-20 minutes to play. Manage your cards and playing pieces to win!&lt;br/&gt;&lt;br/&gt;The playing field consists of blank (black) hexes and numbered/lettered (purple) hexes that represent cards from a standard playing card deck.  Be the first player (at the end of your turn) to properly align your pawns on the playing field hexes so they individually match every card in your hand.  &lt;br/&gt;Ex: If a player has a 4, 5, and 9 in their hand, their pawns must be on a 4, 5, and 9.  If a players has a 6, 6, and J in their hand, their pawns must be on a 6, 6, and J.&lt;br/&gt;&lt;br/&gt;Set-Up:&lt;br/&gt;Standard game: Place the starting hex in the middle and then around that, the same number of Playing Field hexes as there are players.  The Playing Field hexes are oriented so the middle playing line is connected to the Starting hex and additional playing lines are able to connect to Playing Field hexes to the right and left (if they are being used).  &lt;br/&gt;Modified game (Number and/or Placement of Playing Field hexes): To make the game harder or easier, you can use less or more Playing Field hexes than the number of players.  Additionally, Playing Field hexes need not be connected to each other.  Example (on back page): You could have three Playing Field Hexes and neither of them connect.  Note:  It is recommended the number of Playing Field hexes should not be more or less than one, from the numbers of players.  Example: If there are 6 players and only 3 Playing Field hexes, the game could get congested.&lt;br/&gt;&lt;br/&gt;Modified game (Number of Pawns/Cards per Person):  To make the game harder or easier, players can start off with more or less than 3 pawns.  Each player must be dealt the same number of cards as they have pawns.&lt;br/&gt;&lt;br/&gt;Pawn Movement:&lt;br/&gt;Ace through 10, move one pawn a respective number of hexes: A = 1 hex, 2 = 2 hexes, 3 = 3 hexes, 4 = 4 hexes, &amp;hellip;. 9 = 9 hexes, 10 = 10 hexes.&lt;br/&gt;Jack = Move an opponent&amp;rsquo;s pawn 5 hexes.&lt;br/&gt;Queen = Move one or more of your pawns a total of 5 hexes.&lt;br/&gt;King = Move one of your pawns anywhere from 1 to 5 hexes.&lt;br/&gt;Joker = Everyone&amp;rsquo;s cards/hand are passed to the right.  Note: No pawns are moved.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Tg78w0NTmBPOu64Dy0jwZRDXxO4=/fit-in/200x150/pic2401417.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/cAcGuUWnhEEuXAKv890ELRFlD6Y=/0x0/pic2401417.jpg</image>
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="265467">First edition</boardgameversion>
+																						<boardgamedesigner objectid="80467">Dana Muchow</boardgamedesigner>
+															<boardgamepodcastepisode objectid="140226">TRCP Launch Episode 5</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.5</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

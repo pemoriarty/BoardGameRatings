@@ -1,0 +1,116 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="147673">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Squashed</name>
+									
+			<description>A 3 dimensional board game in the shape of a cube. Eliminate your opponents by strategically moving up or around the cube in any vertical or horizontal direction. If you pass over or land on an opposing piece it is squashed and removed from the game. If you land on the King piece the entire cube gets flipped to another side and all those pawns are &amp;quot;squashed.&amp;quot; The last pawn standing wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/p5VNHqmgssOHqGKmvFP47dGNth4=/fit-in/200x150/pic3875654.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/6F4goArieiy96-kdLvnOjz0JFHk=/0x0/pic3875654.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgameversion objectid="219274">First Edition</boardgameversion>
+															<boardgamedesigner objectid="90093">Nick Metzler</boardgamedesigner>
+															<boardgamepublisher objectid="18916">PlaSmart</boardgamepublisher>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>24</usersrated>
+					<average>6.04167</average>
+					<bayesaverage>5.51167</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51167" />
+												
+											</ranks>
+					
+					<stddev>1.55909</stddev>
+					<median>0</median>
+					<owned>56</owned>
+					<trading>3</trading>
+					<wanting>2</wanting>
+					<wishing>18</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,86 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="160047" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">test</name>
+							<name primary="true" sortindex="1">Test Video Game</name>
+							<name  sortindex="1">Test Video Game  2</name>
+									
+			<description>User Summary - made by _Kael_&lt;br/&gt;&lt;br/&gt;Test about deleting releases before and after game approval&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rpfupk-_qvD-m8jLNwgo55mq3nk=/fit-in/200x150/pic793298.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/woz-242VWIJrESY6bbwLpCM0pVo=/0x0/pic793298.jpg</image>
+						
+												<videogameplatform objectid="5016">Acorn Archimedes</videogameplatform>
+															<videogamedeveloper objectid="4307">Admin Test Publisher</videogamedeveloper>
+															<videogamepublisher objectid="4307">Admin Test Publisher</videogamepublisher>
+															<videogamemode objectid="2621">AI Only</videogamemode>
+															<videogametheme objectid="2466">Other</videogametheme>
+															<videogamegenre objectid="2482">Other</videogamegenre>
+															<videogameplatform objectid="23163">Other</videogameplatform>
+															<videogameversion objectid="241780">release 1 - delete before approving</videogameversion>
+															<videogameversion objectid="241782">release 3 - leave this release</videogameversion>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="392186">test</videogameversion>
+															<videogamecharacter objectid="6631">Test Character</videogamecharacter>
+															<videogamedeveloper objectid="11405">Test Video Game Company</videogamedeveloper>
+															<videogamepublisher objectid="11405">Test Video Game Company</videogamepublisher>
+															<videogamecompilation objectid="65095">Test Video Game old</videogamecompilation>
+															<videogameseries objectid="4355">Test Video Game Series</videogameseries>
+															<vgcharacterversion objectid="51753">testing this</vgcharacterversion>
+															<videogamegenre objectid="2168">Text Adventure</videogamegenre>
+															<videogameplatform objectid="10136">Thomson MO/TO</videogameplatform>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5016" name="acornarchimedes" friendlyname="Acorn Archimedes Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="10136" name="thomsonmotoseries" friendlyname="Thomson MO/TO Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

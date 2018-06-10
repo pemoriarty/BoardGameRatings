@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="158921">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Tixel: Expansion Pieces</name>
+									
+			<description>An expansion for Tixel, which consists of 4 extra pieces for each player. Expansion pieces are different from regular pieces in that they are completely square-shaped instead of being hollow on one side. For each expansion piece used, remove one tixel piece from the game.&lt;br/&gt;&lt;br/&gt;The expansion pieces can be used to add variety to games, but they can also be used to handicap a stronger player. Simply give the stronger player more expansion pieces compared to the weaker player.&lt;br/&gt;&lt;br/&gt;With two expansion sets, the original Tix game can also be played on the Tixels board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Vg-WvXnxI1I-wlSoSoFjRz7pPc8=/fit-in/200x150/pic2074511.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SIDLBO93pNmY-tOIPHmwMZYRwoE=/0x0/pic2074511.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="11556">Martijn Althuizen</boardgamedesigner>
+															<boardgameartist objectid="11556">Martijn Althuizen</boardgameartist>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="239619">English first edition</boardgameversion>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamefamily objectid="25658">Tixel family</boardgamefamily>
+																						<boardgameimplementation objectid="63339" inbound="true">Tix</boardgameimplementation>
+															<boardgameexpansion objectid="158231" inbound="true">Tixel</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>6.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.34477</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,95 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="147993">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Dakapo</name>
+									
+			<description>Dakapo is a board game for two players that's played on an 8x8 square board. Players alternate turns placing a colored stone &amp;mdash; red, blue, green, or yellow &amp;mdash; on an empty cell according to some restrictions. The first player who places a stone that forms the fourth same-colored corner of a square wins. The sides of the square formed by the four stones of the same color do not need to be parallel with the edges of the game board; in other words, the square can be angled.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZB_9Rh4BL16EDDDBemOcM9J45Ck=/fit-in/200x150/pic1861533.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/K0n6mQ2PPtx3zE7fsYcSP0rzm_s=/0x0/pic1861533.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgameversion objectid="220097">English first edition</boardgameversion>
+																						<boardgamedesigner objectid="70620">Stephan Miksch</boardgamedesigner>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>6.51667</average>
+					<bayesaverage>5.50657</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50657" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="5.55067" />
+												
+											</ranks>
+					
+					<stddev>2.63971</stddev>
+					<median>0</median>
+					<owned>15</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

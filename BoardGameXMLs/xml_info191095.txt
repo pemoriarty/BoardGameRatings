@@ -1,0 +1,100 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="191095">
+			<yearpublished>2011</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Scoundrel</name>
+									
+			<description>Scoundrel is a single player rogue-like card game for use with a standard deck of playing cards. It was developed by Zack Gage and Kurt Bieg for Train Jam 2011.&lt;br/&gt;&lt;br/&gt;All Jokers, red face cards, and red aces are removed from the deck. The remaining cards serve as monsters (spades and clubs), weapons (diamonds), and health potions (hearts) valued from 2-14 (Two through Ace). The rooms of the dungeon are created by laying out cards in groups of four. Progress is made through the dungeon by playing three of the four dungeon cards. The fourth card serves as the foundation for a new room. Rooms can be reset in their entirety as many times as needed but never twice in a row.&lt;br/&gt;&lt;br/&gt;Weapons may be equipped to attack multiple monsters in descending order of their value with damage being dealt to the player for monster values in excess of the equipped weapon. The weapon breaks if it is used to attack a monster of equal or greater value than the previous monster. Attacking a monster without an equipped weapon depletes the players health for the full attack value of the monster. Health potions may be used to increase life points up to the maximum starting value of 20. Playing a second potion in succession nullifies the effect of the second potion.&lt;br/&gt;&lt;br/&gt;The game ends when life points reach zero or the player has progressed through the entire dungeon.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/T_RuyQnVZ0hRZDOGf260Y2vLmCg=/fit-in/200x150/pic2965491.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Lh0a5GjT9lZFXOE6T9rmp-HyEDw=/0x0/pic2965491.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamedesigner objectid="12161">Kurt Bieg</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="296150">First edition</boardgameversion>
+															<boardgamedesigner objectid="60260">Zach Gage</boardgamedesigner>
+															<boardgamemechanic objectid="2028">Role Playing</boardgamemechanic>
+																						<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>7.22222</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.43587</stddev>
+					<median>0</median>
+					<owned>20</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>12</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

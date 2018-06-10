@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="141936">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Snake Clash</name>
+									
+			<description>Snake Clash is a simple and fast Print &amp;amp; Play board game inspired by the game in the Tron movie (1982). The rules of this game are very simple, it can be learned in 1-2 minutes.&lt;br/&gt;&lt;br/&gt;Snake Clash is a line-drawing game. The goal is to create the longest snakes. The winner is who has the highest total length of his/her 4 snakes at the end of the game. Each player can start one snake from each side of the play-field (from one of the four larger circles). One snake from left, one snake from above, one snake from right and one snake from below (4 snakes in total.)&lt;br/&gt;&lt;br/&gt;Player's turn comes after each other. Player rolls a die, that determines the allowed direction(s) of his/her next line-segment. (There is a compass on the play-field that shows the directions associated to die-roll.) He/she can extend one of their snakes by a new line-segment. (Or start a new one, if he/she doesn't started 4 snakes yet.)&lt;br/&gt;Snakes can't cross each other and can't touch the same point on the play-field.&lt;br/&gt;&lt;br/&gt;When each player have least one finished snake (When the further lengthening is impossible.), the game changes. No more die-rolls, players can freely draw a 1-segment line to any adjacent point from the end of any of their snakes.&lt;br/&gt; When nobody can draw lines anymore, the game is ended. The player wins, who has the largest total line-segment number.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="207769">First edition</boardgameversion>
+															<boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+																						<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamedesigner objectid="68168">David Zydd</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

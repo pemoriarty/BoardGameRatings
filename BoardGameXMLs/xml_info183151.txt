@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="183151">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Robox</name>
+									
+			<description>You and your opponent have a team of 3 Robox that are fighting to see who is the best, and the player who defeat the opponent's team will be the winner. Both start with 1 active Robox and the other two will be in the reserve waiting to fight and helping to the active one. Plus, every Robox will be secretly configured with one of the 4 Special Powers.&lt;br/&gt;On your turn you have to pick 2 of the 7 possible actions:&lt;br/&gt;&lt;br/&gt;     Attack: Only the active Robox can attack. Roll a die, if it's equal or less than your Attack Power (energy tokens + base point), remove 1 Energy Token from the defense of the opponent's active Robox.&lt;br/&gt;     Charge: If your Robox is in the Potentiate Position, change it to the Charge position and add 1 Energy Token from the pool to its Defence.&lt;br/&gt;     Potentiate: If your Robox is in the Charge position, change it to the Potentiate position and move 1 Energy Token from the Defence to the Attack.&lt;br/&gt;     Accumulate: Only the Active Robox can accumulate. Put 1 Energy Token from the pool next to your Robox Card. It will count as an extra Energy to your next attack and then it will go back to the pool.&lt;br/&gt;     Donate: Only the Reserve Robox can donate. Give 1 Energy Token from the defense of this Robox to the defense of the Active Robox; or from the attack of this Robox to the attack of the Active Robox.&lt;br/&gt;     Replace: Switch the Active Robox for 1 of the Reserve Robox.&lt;br/&gt;     Special Action: Use your special power.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/1VpdCH0iIYsqREalT2UFYV9fexI=/fit-in/200x150/pic2651761.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mYOUTGhGcOPyZ2YLSqiO6noQukE=/0x0/pic2651761.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="283366">First edition</boardgameversion>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+																						<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamedesigner objectid="50028">Francisco Varas E.</boardgamedesigner>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamedesigner objectid="81909">Jorge Verdugo</boardgamedesigner>
+															<boardgameartist objectid="81909">Jorge Verdugo</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

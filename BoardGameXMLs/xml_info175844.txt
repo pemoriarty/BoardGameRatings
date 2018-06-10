@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="175844">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Orléans: Weinberge</name>
+									
+			<description>Promo item from FairPlay No. 111: &lt;br/&gt;Whenever you build a trading station in a town situated on a river, you may buy 1 wine for 1 coin.&lt;br/&gt;&lt;br/&gt;Later included in the Orléans: Invasion expansion.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/zjo7g2ET0cloYulwxnJLBJsesLY=/fit-in/200x150/pic2474476.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/x8C8gp5Rny8bA6dMji413IhSxfE=/0x0/pic2474476.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamepublisher objectid="10848">dlp games</boardgamepublisher>
+															<boardgameversion objectid="270611">First edition</boardgameversion>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamefamily objectid="38433">Orléans</boardgamefamily>
+															<boardgamecompilation objectid="190049">Orléans: Fan-Kit</boardgamecompilation>
+															<boardgamecompilation objectid="183682">Orléans: Invasion</boardgamecompilation>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1115">Religious</boardgamecategory>
+															<boardgamedesigner objectid="158">Reiner Stockhausen</boardgamedesigner>
+															<boardgamecategory objectid="1097">Travel</boardgamecategory>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+															<boardgameexpansion objectid="164928" inbound="true">Orléans</boardgameexpansion>
+															<boardgameexpansion objectid="171905" inbound="true">Orléans: Deluxe Edition</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>139</usersrated>
+					<average>7.15417</average>
+					<bayesaverage>5.67939</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.67939" />
+												
+											</ranks>
+					
+					<stddev>1.40662</stddev>
+					<median>0</median>
+					<owned>1021</owned>
+					<trading>52</trading>
+					<wanting>59</wanting>
+					<wishing>110</wishing>
+					<numcomments>60</numcomments>
+					<numweights>8</numweights>
+					<averageweight>3.125</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

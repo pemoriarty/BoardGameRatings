@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="158891">
+			<yearpublished>2014</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Krynea Battlefield</name>
+									
+			<description>Krynea Battlefield is a card game of strategy and tactics set in Krynea, a world of fantasy and magic, tough and realistic where constant clashes between armies, cities and alliances are solved on the battlefield.&lt;br/&gt;&lt;br/&gt;Each player takes the role of a Hero commanding an army of one of the 4 available Factions, trying the achieve victory. For that he must choose 2 Skills (among the 10 available), 25 Troop cards (to deploy on the battlefield) and 30 Actions cards (to surprise his opponent). The Gods will be watching the battle and one of them will influence it in a given round.&lt;br/&gt;&lt;br/&gt;The goal is to kill as many enemy troops as possible in the 4 rounds that lasts a battle.&lt;br/&gt;&lt;br/&gt;The game has 4 modes of play, according to the number of players:&lt;br/&gt;&lt;br/&gt;1 Player: solo mode. The goal is to conquer the nine Monoliths in 4 rounds.&lt;br/&gt;2 Players: Your four battalions must kill more troops than your rival.&lt;br/&gt;3 Players: Your four battalions must divide in two to attack the other two players.&lt;br/&gt;4 Players: team mode. You and a friend against two other players.&lt;br/&gt;&lt;br/&gt;The box contains everything needed for 1-2-player game, although 3 and 4 player games are possible with two game boxes. The game also includes a &amp;quot;solo&amp;quot; mode with two levels of difficulty.&lt;br/&gt;&lt;br/&gt;1 Initiative card&lt;br/&gt;9 Monoliths of the gods&lt;br/&gt;2 decks (one for each player) with 95 cards each, with Skills, Troops and Actions&lt;br/&gt;1 Rulebook&lt;br/&gt;&lt;br/&gt;Each deck can be configured to one of the four Factions available: Champions of Light, Dark Knights, Lords of Magic and Mercenaries.&lt;br/&gt;&lt;br/&gt;Expansions will be released as &amp;quot;fixed expansions&amp;quot;, with the same cards each (not random).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5EVRwY-SBK7AN96LCm4WZdmfw34=/fit-in/200x150/pic2010973.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FMN5_UuGedMKXtoqwtvWxEmWRsE=/0x0/pic2010973.png</image>
+						
+												<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamefamily objectid="23287">Crowdfunding: Verkami</boardgamefamily>
+															<boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+															<boardgameversion objectid="240399">English Kickstarter edition</boardgameversion>
+																						<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+																						<boardgamedesigner objectid="75117">Míchel González</boardgamedesigner>
+															<boardgamedesigner objectid="75118">Ramón González</boardgamedesigner>
+																													<boardgamepublisher objectid="27237">Smiling Goblin</boardgamepublisher>
+															<boardgameversion objectid="239572">Spanish first edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>61</usersrated>
+					<average>7.21656</average>
+					<bayesaverage>5.56224</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7649" bayesaverage="5.56224" />
+												
+							
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="121" bayesaverage="5.94492" />
+												
+											</ranks>
+					
+					<stddev>1.47247</stddev>
+					<median>0</median>
+					<owned>118</owned>
+					<trading>8</trading>
+					<wanting>2</wanting>
+					<wishing>17</wishing>
+					<numcomments>17</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.3077</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="141770">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Hitta</name>
+									
+			<description>Simple print and play two player battle card game. &lt;br/&gt;Each attack in Hitta consists of an initiation followed by a decreasing sequence of cards (each card being of a lower value than the preceding card) ending with a dice roll to finish the attack which needs to be higher than the lowest (last) card played in the sequence. The points removed from your opponent are equal to the number of cards in your sequence.&lt;br/&gt;The defender will get several opportunities to block the attack by trying to guess the next card the attacker will use or to try to match one of the dice with one of their own cards.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="207431">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="33973">Andy Hopwood</boardgamedesigner>
+															<boardgamepublisher objectid="12744">Hopwood Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.5</average>
+					<bayesaverage>5.50418</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50418" />
+												
+											</ranks>
+					
+					<stddev>4.5</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

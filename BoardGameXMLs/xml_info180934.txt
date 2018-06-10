@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="180934">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Laus</name>
+									
+			<description>A 32 card pack is used, consisting of A, K, Q, J, 10, 9, 8, 7 in each of the four suits, but when playing the game the four jacks are regarded as forming a separate trump suit. So there are effectively five suits: jacks (trumps), clubs, spades, hearts, diamonds.&lt;br/&gt;&lt;br/&gt;The ranking of the trumps from high to low is: jack of clubs, jack of spades, jack of Hearts, jack of Diamonds.&lt;br/&gt;&lt;br/&gt;In the four non-trump suits the cards rank from high to low A, 10, K, Q, 9, 8, 7.&lt;br/&gt;&lt;br/&gt;Certain cards carry penalty points, and the object of the game is to avoid taking tricks containing those cards. First, all the cards carry their normal penalty point values as in Ramsch:&lt;br/&gt;&lt;br/&gt;Jacks    2&lt;br/&gt;Aces    11&lt;br/&gt;Tens    10&lt;br/&gt;Kings    4&lt;br/&gt;Queens    3&lt;br/&gt;&lt;br/&gt;Taking queens in tricks has an additional effect. The club, spade and heart queens carry extra special penalties which swamp the normal card points above, but these can be neutralised by taking the diamond queen:&lt;br/&gt;&lt;br/&gt;Queen of clubs    300 points&lt;br/&gt;Queen of spades    200 points&lt;br/&gt;Queen of hearts    100 points&lt;br/&gt;Queen of diamonds cancels all special queen penalties for the player who wins it in a trick&lt;br/&gt;&lt;br/&gt;Nines, eights and sevens are neutral - the carry no penalty and have no special effect.&lt;br/&gt;&lt;br/&gt;The player to dealer's left leads. Players must follow suit if they can. A player who has no card of the suit led can play any card.&lt;br/&gt;&lt;br/&gt;Jacks count as belonging to the trump suit, not as members of the suits printed on them. This means that if a jack is led the other players must follow with a jack if they can.&lt;br/&gt;&lt;br/&gt;[Rules paraphrased from Pagat.com entry.]&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="279591">First edition</boardgameversion>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,88 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="173370">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Europa</name>
+									
+			<description>Europa is a Reversi variant.&lt;br/&gt;&lt;br/&gt;Materials&lt;br/&gt;8x8 checkerboard&lt;br/&gt;64 Othello disks&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;Board starts out empty.&lt;br/&gt;&lt;br/&gt;One player plays black the other white.&lt;br/&gt;&lt;br/&gt;Decide who goes first in any convenient manner, turns then alternate.&lt;br/&gt;&lt;br/&gt;The game is played in two phases.&lt;br/&gt;&lt;br/&gt;In the first phase on a turn, you must,&lt;br/&gt;&lt;br/&gt;1) Place a friendly color disk in an empty space that is not orthogonally adjacent to an opponent's color disk (diagonally adjacent is fine) or&lt;br/&gt;&lt;br/&gt;2) Pass.&lt;br/&gt;&lt;br/&gt;The game enters the second phase after players pass consecutively.&lt;br/&gt;&lt;br/&gt;So from now on, on a turn, either,&lt;br/&gt;&lt;br/&gt;1) Place a disk of your color on an empty space or&lt;br/&gt;&lt;br/&gt;2) Place a disk on an empty space so that it and another like color disk already on the board enclose a line of one or more&lt;br/&gt;disks of your opponent. Then flip the disks to your color. A line of enclosed disks may run horizontally, vertically or diagonally.&lt;br/&gt;&lt;br/&gt;The game ends when the board is full.&lt;br/&gt;&lt;br/&gt;Object&lt;br/&gt;The player with the most disks in his color on the board wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="62677">Rey Alicea</boardgamedesigner>
+															<boardgameartist objectid="62677">Rey Alicea</boardgameartist>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="266539">First edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="139728">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">MCS</name>
+							<name  sortindex="1">MCS: Magia Czarnego Sportu</name>
+							<name  sortindex="1">MCS: Moto-Craze Speedway</name>
+									
+			<description>MCS pits 2 or 4 players against each other in this fast-paced simulation of speedway racing. By using three types of cards - riders, laps and racing - team managers will do the following:&lt;br/&gt;- determine their riders' current forms and on their basis assign given riders to particular races;&lt;br/&gt;- figure out the track properties which will reveal in which straights and bends charging opponents will reap greatest profits;&lt;br/&gt;- race opponents by means of cards currently held in their hands. &lt;br/&gt;Racing is the core of the game and its mechanics depends on where it takes place - in straights or bends. The former uses the upper part of each card, while the latter is played with card colours and symbols in the lower section.&lt;br/&gt;The game finishes after 15 or 20 races (depending on the number of players) after which the manager whose riders accrued the biggest number of points wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_SEu0GuGb7t9ZRO7t2avxCEt4rU=/fit-in/200x150/pic2530047.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3DO7TW7TYBBGTynQY-CmzbRJhTs=/0x0/pic2530047.png</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="203083">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamefamily objectid="5890">Motorcycle</boardgamefamily>
+																													<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="20717">Sports: Motorcycle Racing</boardgamefamily>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamedesigner objectid="67560">Piotr Wołk-Lewanowicz</boardgamedesigner>
+															<boardgamepublisher objectid="24758">ZGrani - Wydawnictwo gier bez prądu</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>57</usersrated>
+					<average>7.06474</average>
+					<bayesaverage>5.52266</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10631" bayesaverage="5.52266" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1719" bayesaverage="5.5144" />
+												
+											</ranks>
+					
+					<stddev>2.03043</stddev>
+					<median>0</median>
+					<owned>55</owned>
+					<trading>4</trading>
+					<wanting>1</wanting>
+					<wishing>7</wishing>
+					<numcomments>1</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1.7273</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

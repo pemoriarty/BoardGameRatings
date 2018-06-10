@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="179574">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Scuba</name>
+									
+			<description>In Scuba, two to four players jump from the diving boat to have a fun time diving. While moving and flipping over the tiles on the board, they hope to find spectacular fish, mammals and corals, make combinations and score big points. Or just look at fish other players already discovered... Maybe they will even find treasure! But be careful not to lose your mask or get bitten by an octopus... Make dust so other players can't find any fish that turn. And be wary of currents sweeping all fish around the board. And even more important, keep an eye on your air at all times! If you plan badly and use all your air while still diving, you won't live to tell your stories...&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kM1B4pE5FDEbLf8R_UzD9B30KJg=/fit-in/200x150/pic2796255.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/vXQhz3RwFRkJvBXwou19MTmQMzU=/0x0/pic2796255.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepodcastepisode objectid="173281">HLG 1: De Start</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190554">HLG-EXTRA 3: Spiel 2016 Deel 1</boardgamepodcastepisode>
+																						<boardgamepublisher objectid="26840">Keep Exploring Games</boardgamepublisher>
+															<boardgameartist objectid="75169">Sebastián Koziner</boardgameartist>
+															<boardgamedesigner objectid="73865">Martin Looij</boardgamedesigner>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgameversion objectid="277126">Multilingual first edition</boardgameversion>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamepodcastepisode objectid="172496">OrcaCon and the Games of 2016</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+																						<boardgameexpansion objectid="198972">Scuba: Blue Marlin Promo Pack</boardgameexpansion>
+															<boardgameexpansion objectid="198974">Scuba: Blue-Ringed Octopus Promo Pack</boardgameexpansion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgameartist objectid="83516">Shaz Yong</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>88</usersrated>
+					<average>5.80966</average>
+					<bayesaverage>5.51713</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11140" bayesaverage="5.51713" />
+												
+											</ranks>
+					
+					<stddev>1.85238</stddev>
+					<median>0</median>
+					<owned>208</owned>
+					<trading>17</trading>
+					<wanting>6</wanting>
+					<wishing>35</wishing>
+					<numcomments>48</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

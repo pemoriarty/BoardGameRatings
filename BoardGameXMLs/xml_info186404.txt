@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="186404">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Vault</name>
+									
+			<description>INTRODUCTION&lt;br/&gt;&lt;br/&gt;Vault is an abstract game in which each player tries to reach the opponent&amp;rsquo;s back rank. Vault is named after pole vaulting, which is a track and field event in which a person uses a long, flexible pole as an aid to jump over a bar. Vault is a derivative of Onager, by the same designer and uses a variation of its jumping mechanism (also present in Billabong, for example) that allows multiple directions to be used. It&amp;rsquo;s like vector movement but without acceleration. Unlike Onager, Vault only works well on a square grid, as jumping directions are difficult to visualize in a hexagonal grid.&lt;br/&gt;&lt;br/&gt;MATERIAL&lt;br/&gt;&lt;br/&gt;- A square grid with an even number of cells (recommended 10x10). Preferably checkered* for clarity, but this is not mandatory.&lt;br/&gt;- As many white and black pawns as the number of cells per side.&lt;br/&gt;&lt;br/&gt;SETUP&lt;br/&gt;&lt;br/&gt;Each player has an allocated colour (Black or White). Fill your nearest row with pawns of your colour (one per cell).&lt;br/&gt; HOW TO PLAY&lt;br/&gt;&lt;br/&gt;White starts. Players alternate turns during the game until the victory condition is reached. On your turn, either walk or jump with one of your pawns.&lt;br/&gt;&lt;br/&gt;Walk&lt;br/&gt;&lt;br/&gt;Move one of your pieces to an adjacent empty space as a King in Chess.&lt;br/&gt;&lt;br/&gt;Jump&lt;br/&gt;&lt;br/&gt;In order to jump, choose 2 friendly pieces. One of the pieces then jumps over the other piece in the direction defined by both pawns, landing on a space beyond that is at a distance equal to the distance between the two friendly pieces before the jump was made (like a mirror). Notice that jumping is not restricted to orthogonal or diagonal directions.&lt;br/&gt;&lt;br/&gt;The landing space must be either empty or occupied by an enemy piece, which is then captured and removed from the game. A piece cannot land on a friendly piece. Pieces cannot land outside the board.&lt;br/&gt;&lt;br/&gt;Notice that the spaces between the jumping pawn and the landing space don&amp;rsquo;t need to be empty. Also, captures can only be made by jumping.&lt;br/&gt;&lt;br/&gt;GAME END&lt;br/&gt;&lt;br/&gt;If at the start of your turn you have at least one piece on your opponent's back rank then you have won.&lt;br/&gt;&lt;br/&gt;If the above condition is not reached and you can&amp;rsquo;t make a legal movement at the start of your turn, you lose. This rarely happens. Players may agree on a draw at any moment during the game.&lt;br/&gt;&lt;br/&gt;NOTES FROM THE DESIGNER&lt;br/&gt;&lt;br/&gt;This is intended to be the simplest game that uses this jumping mechanism. I&amp;rsquo;ve decided not to use Onager&amp;rsquo;s stacking mechanism (in order to make is simpler for turn based online play and also playable with non-stacking pieces) or the multiple jump (as it would be almost impossible to think ahead).&lt;br/&gt;&lt;br/&gt;As a variant, you can use the stacking mechanism of Onager.&lt;br/&gt;&lt;br/&gt;(*) On a checkered board, the jumping piece always lands in a space of the same colour as the starting one.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mkBwW3acd8vSh2edJeh-rh7-BU4=/fit-in/200x150/pic3061445.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/r_bLGWP_mUBjp4dJDVF_r0vUohQ=/0x0/pic3061445.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="314883">Nestorgames first edition</boardgameversion>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="288400">Print and play edition</boardgameversion>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>7.22222</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.74978</stddev>
+					<median>0</median>
+					<owned>20</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>11</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

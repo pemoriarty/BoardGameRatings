@@ -1,0 +1,80 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="167893">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>75</playingtime>
+			<minplaytime>75</minplaytime>
+			<maxplaytime>75</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">ESSEN the Game: Goodies</name>
+									
+			<description>A small promo expansion for ESSEN the Game. It adds two new things: an event token that cancels the release of a game at the show, and a fire drill event at the end of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SMMs2Z3FxCI2tAk6vSzUNJfBz0I=/fit-in/200x150/pic2290376.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rEG8WOzPn8HBYWGNYz5Wd7PZrto=/0x0/pic2290376.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="256823">First edition</boardgameversion>
+															<boardgamepublisher objectid="27811">Geek Attitude Games</boardgamepublisher>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgameexpansion objectid="157088" inbound="true">ESSEN The Game: SPIEL&#039;13</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>26</usersrated>
+					<average>6.65</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.70998</stddev>
+					<median>0</median>
+					<owned>130</owned>
+					<trading>6</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>9</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

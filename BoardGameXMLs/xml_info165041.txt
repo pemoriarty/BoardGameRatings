@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="165041">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Cargotrain</name>
+									
+			<description>CargoTrain is a fast-paced card game with a train theme. Deliver as much cargo to the factories as you can. Plan carefully. Invest wisely. Anticipate your opponents' moves, and deliver the most stock in the quickest way possible. And, what&amp;rsquo;s most important, fulfill trade contracts. Let your adversaries watch the sparks fly from under the wheels of your dashing train!&lt;br/&gt;&lt;br/&gt;Every turn in this game is divided into two phases. First is the planning phase, in which players plan their moves by playing move cards. Next is the action phase; this is the heart of the game. Players reveal their move cards one by one and perform actions (load cargo, deliver cargo, upgrade train, switch cargo order on the stations, pick up a new contract). There are many possibilities; players must choose wisely and plan ahead their moves. The gameboard is made from cards and players change it during the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CLeWa4NCwHYYp6bTOWbJpsLmTLE=/fit-in/200x150/pic2231768.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NJGQaHkrA4GlNEf7kltNu-e-rGY=/0x0/pic2231768.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgamefamily objectid="22135">Crowdfunding: Spieleschmiede</boardgamefamily>
+																						<boardgameversion objectid="250847">English/Polish first edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepublisher objectid="28014">Game Fabrica</boardgamepublisher>
+															<boardgameversion objectid="291650">German edition</boardgameversion>
+															<boardgamepodcastepisode objectid="136342">Heavy Cardboard Episode 17 – ZhanGuo</boardgamepodcastepisode>
+															<boardgamedesigner objectid="6948">Krzysztof Matusik</boardgamedesigner>
+															<boardgameartist objectid="6948">Krzysztof Matusik</boardgameartist>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>106</usersrated>
+					<average>6.18679</average>
+					<bayesaverage>5.55633</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7966" bayesaverage="5.55633" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1651" bayesaverage="5.5757" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1368" bayesaverage="5.5777" />
+												
+											</ranks>
+					
+					<stddev>1.45129</stddev>
+					<median>0</median>
+					<owned>244</owned>
+					<trading>26</trading>
+					<wanting>6</wanting>
+					<wishing>34</wishing>
+					<numcomments>36</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

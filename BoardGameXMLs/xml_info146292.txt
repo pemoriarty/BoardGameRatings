@@ -1,0 +1,80 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="146292">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Chess4</name>
+									
+			<description>A chess variant intended to introduce classic board games to young children. It has been released under public domain and made available as a print and play game.&lt;br/&gt;Each player starts the game with 5 animals: a kitten (pawn), a lynx and a leopard (bishops), a tiger (rook) and a lion (king). Each piece may move one square towards any direction shown on the piece, but may jump over or swap positions with allied pieces, which makes the game quicker and more dynamic. The lion, however, may only move to capture or to swap positions. If the kitten reaches the last row, it evolves (is promoted) to a lioness (queen), the strongest piece in the game.&lt;br/&gt;It is a cute and colorful game, easy enough for seven years old to play but still challenging for adult players.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameversion objectid="216145">First edition</boardgameversion>
+																						<boardgamepublisher objectid="23973">Oca Studios</boardgamepublisher>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6</average>
+					<bayesaverage>5.49907</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.49907" />
+												
+											</ranks>
+					
+					<stddev>2.44949</stddev>
+					<median>0</median>
+					<owned>22</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

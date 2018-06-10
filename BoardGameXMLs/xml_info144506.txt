@@ -1,0 +1,142 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="144506">
+			<yearpublished>2013</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Mystères?</name>
+									
+			<description>Myst&amp;egrave;res? is a game of riddle and deduction in which one player has to come up with subtle clues to make others guess a word.&lt;br/&gt;&lt;br/&gt;First, the &amp;quot;Master of Mysteries&amp;quot; discreetly draws a card and a category tile to know which word she must make the other players guess. She then sets down a square of nine (3x3) category tiles on the table (including the one she just drew). In turns, other players choose a category. If it matches the word to be guessed, the &amp;quot;Master of Mysteries&amp;quot; says so and sets the tile aside; if not, she must either give a clue matching this category then flip the tile (which cannot be chosen again), or discard the tile and place it back in the bag. At the end of each turn, the active player can make one guess, and if her answer is right, she (and the Master of Mysteries) scores as many points as the number of tiles chosen (except the discarded ones).&lt;br/&gt;&lt;br/&gt;After a clue has been given or a tile discarded, any player can interrupt the game by saying he knows the answer. Any other players can then do the same. Then, in clockwise order, each of them gives one answer, and either wins this round or is eliminated until next round.&lt;br/&gt;&lt;br/&gt;The twelve categories are: Book, Film/TV, Music/Song, Famous person, Generic person, Shape/Color, Number, Matter, Item, Place, Animal, Verb.&lt;br/&gt;&lt;br/&gt;After a certain number of rounds (depending on the number of players) have been played, the player with the most points wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Lf5gmk-Vn-3MCLIP70Ojg_V_4lY=/fit-in/200x150/pic1702608.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/phPvcJcOtO4owH6O0GDKl19ykBE=/0x0/pic1702608.jpg</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="212843">French first edition</boardgameversion>
+																						<boardgameversion objectid="339903">French second edition</boardgameversion>
+															<boardgamepublisher objectid="8923">IELLO</boardgamepublisher>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgameartist objectid="1279">Igor Polouchine</boardgameartist>
+															<boardgamedesigner objectid="8490">Daniel Quodbach</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>94</usersrated>
+					<average>7.0266</average>
+					<bayesaverage>5.61857</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5515" bayesaverage="5.61857" />
+												
+											</ranks>
+					
+					<stddev>1.37231</stddev>
+					<median>0</median>
+					<owned>166</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>12</wishing>
+					<numcomments>10</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

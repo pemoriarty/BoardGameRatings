@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="161943">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>14</age>
+
+							<name  sortindex="1">Choson</name>
+							<name primary="true" sortindex="1">Chosŏn</name>
+									
+			<description>The Koryŏ dynasty is now defunct, replaced by the Chosŏn dynasty founded by General Yi. Unfortunately, soon after its founding, figures of intrigue nicknamed the &amp;quot;Watchers&amp;quot; appeared all over the realm of Chosŏn. Since then, feud and disorder has sprouted everywhere, but instead of the usual political contests and sneaky manipulations, armed warfare has become the rule. The influence of the &amp;quot;Watchers&amp;quot; on some families has grown strong, and some whisper that their extraordinary powers even allow them to travel through time...&lt;br/&gt;&lt;br/&gt;Chosŏn is a thematic sequel to Koryŏ set in the same uchronian and politico-steampunk universe, and gameplay is similar in the two games.&lt;br/&gt;&lt;br/&gt;The game lasts eight rounds, and in each round, each player draws a specified number of cards, then simultaneously plays face down (1) as many characters as desired from one family, (2) one character from each of two different families, (3) one character and one event card, or (4) three event cards. Each family has a value ranging from 1 to 9, which indicates both the number of cards in the family and the number of victory points the player controlling this family will score at the end of the game.&lt;br/&gt;&lt;br/&gt;Players reveal their cards in order clockwise from the round's start player. If she played one character and one event, she carries out the power of this event, swapping two characters or eliminating one held by another player. She also carries out the powers of any family that she controls, i.e., that she holds more cards of than any other player. The family powers let you protect one family, keep event cards, double the power of an event, steal the first player token, etc. At the end of each round, players discard characters in play (if needed) and discard everything in hand.&lt;br/&gt;&lt;br/&gt;After eight rounds, players tally their scores based on the families they control, influence scored during the game, and possession of Yi's Legacy, which is acquired by playing three event cards. Whoever has the highest score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lN9KfcBOhxFNpzyun7kvWbDsP6Y=/fit-in/200x150/pic2316512.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TAckAex-q3PHaKLhAb1yqYbaSGI=/0x0/pic2316512.jpg</image>
+						
+												<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																																											<boardgameversion objectid="362342">French/English edition</boardgameversion>
+															<boardgameartist objectid="12402">Stéphane Gantiez</boardgameartist>
+															<boardgameversion objectid="285710">German edition</boardgameversion>
+																						<boardgamedesigner objectid="41794">Gary Kim</boardgamedesigner>
+															<boardgameversion objectid="289531">Korean/Japanese/English edition</boardgameversion>
+															<boardgamepublisher objectid="12446">Moonster Games</boardgamepublisher>
+															<boardgameversion objectid="245183">Multilingual first edition</boardgameversion>
+															<boardgameartist objectid="37676">Ian Parovel</boardgameartist>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgameimplementation objectid="140535" inbound="true">Koryŏ</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>343</usersrated>
+					<average>6.71032</average>
+					<bayesaverage>5.77769</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3292" bayesaverage="5.77769" />
+												
+											</ranks>
+					
+					<stddev>1.25465</stddev>
+					<median>0</median>
+					<owned>907</owned>
+					<trading>51</trading>
+					<wanting>11</wanting>
+					<wishing>73</wishing>
+					<numcomments>100</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.125</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="189474">
+			<yearpublished>1997</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Hostage Chess</name>
+									
+			<description>Hostage Chess is a two-player, abstract strategy board game based on Chess, but including drops of captured pieces similar to Shogi.  Unlike shogi, the piece a player may drop is one of his own pieces previously captured by the opponent. In exchange, the player returns a previously captured enemy piece, of equal or greater value, which the opponent may drop on a future turn. This is the characteristic feature of the game.  Hostage Chess can be played with an ordinary chess set.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Hf954zBi39jDhcBONblHsX5_nRk=/fit-in/200x150/pic2842156.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/4-HiGLy-D_GLNm59B_hpk20i0yE=/0x0/pic2842156.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="87638">John Leslie</boardgamedesigner>
+																						<boardgameversion objectid="293746">Web published edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

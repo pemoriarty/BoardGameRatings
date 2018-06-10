@@ -1,0 +1,135 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="157593">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Krash Karts</name>
+									
+			<description>Krash Karts is a table top game in which players race to a finish line that's ever changing. This is because you design the very track you're racing on, while you're racing on it. How it comes together is up to those playing, and manipulating the track to your advantage or against your opponent's advantage plays a large factor in determining the victor. You can even design your own short-cut.&lt;br/&gt;&lt;br/&gt;Coupled with this unique game mechanic, players during the race also gain items, such as the Booster, which lets you jet ahead of the competition; The Dodge Ball, which whacks your friends and slows them down; The Squirrel, which creates a roadblock forcing players to change course; Or the Bomb which decimates the track and all on it. Some items are left right on the track to benefit or to hinder your friends, and other items can even be used to defend yourself, making each game unique and strategic.&lt;br/&gt;&lt;br/&gt;Changes from Mad Rush Rally (Source: Sean McDonald on Krashin' Karts)&lt;br/&gt;&lt;br/&gt;Krash Karts resolves some strategic issues players had with the game where lagging behind intentionally during the race was one of the better strategies. This has been fixed by giving the last player better chances to get better items, but have less control over how the track lays out. Further, the Track has been reduced to 3 lanes, rather then the 4 of Mad Rush Rally, but players are allowed to occupy the same space now. The track has also now been laid out in a staggered pattern ala Formula D, rather than a grid, and also now accompanies a max of 6 players, rather then 4. Further, the rally car pieces have been changed to go-karts, and items can now be used not only offensively, but defensively.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/rHPvsnNgLxvG3rA7X1wz_pSwLA8=/fit-in/200x150/pic2326359.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ttAOa5LjcYHkQjE7mnj9cCc7N6w=/0x0/pic2326359.png</image>
+						
+												<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="237321">English edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="65406">Sean Dallas McDonald</boardgamedesigner>
+															<boardgameartist objectid="65406">Sean Dallas McDonald</boardgameartist>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepublisher objectid="29404">Tower Guard Games</boardgamepublisher>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+															<boardgameimplementation objectid="136305" inbound="true">Mad Rush Rally</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>32</usersrated>
+					<average>5.95625</average>
+					<bayesaverage>5.50733</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12009" bayesaverage="5.50733" />
+												
+											</ranks>
+					
+					<stddev>2.26066</stddev>
+					<median>0</median>
+					<owned>79</owned>
+					<trading>12</trading>
+					<wanting>0</wanting>
+					<wishing>7</wishing>
+					<numcomments>16</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.8333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

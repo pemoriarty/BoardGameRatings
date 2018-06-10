@@ -1,0 +1,89 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="158953">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="5">The Hoarder and the Gatekeeper</name>
+									
+			<description>The Hoarder and the Gatekeeper is a combinatorial game for 2 players that was published on issue 19 of Bitcoin Magazine and also on the Bitcoin Magazine website:&lt;br/&gt;&lt;br/&gt;&lt;a target='_blank' href=&quot;http://bitcoinmagazine.com/12324/gatekeepers/&quot; rel=&quot;nofollow&quot;&gt;http://bitcoinmagazine.com/12324/gatekeepers/&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;The Hoarder and the Gatekeeper is a game for 2 players (the Hoarder and the Gatekeeper) that can be played on a hexagonal grid of any size (recommended 4 hexes per side. We&amp;rsquo;ll call it 'Coinland'.&lt;br/&gt;&lt;br/&gt;'Coinland' is full of coins, one coin per cell with the exception of the central one. Each cell is connected to its neighbouring cells by an edge. The 'Hoarder' will try to collect as many coins as possible by moving from cell to cell, while the 'Gatekeeper' will try to collect coins by &amp;lsquo;taxing&amp;rsquo; the Hoarder, placing gates on the edges between cells and charging a fee each time the Hoarder crosses them.&lt;br/&gt;&lt;br/&gt;Use loose change or draughts pieces or beans or whatever to fill the cells. Keep the centre cell empty.&lt;br/&gt;&lt;br/&gt;The Hoarder uses a chess pawn (or any other object that fits inside a cell). The Gatekeeper uses a marker of a different colour than the edges of the board (if possible). Place the Hoarder piece in the centre cell.&lt;br/&gt;&lt;br/&gt;Starting with the Gatekeeper, players alternate turns during the game until all coins have been collected or the Hoarder is not able to move, whatever happens first.&lt;br/&gt;&lt;br/&gt;On her turn, the Gatekeeper must draw a gate in any edge between 2 cells.&lt;br/&gt;&lt;br/&gt;And on her turn, the Hoarder must move her piece in a straight line to a non-empty cell (it must contain a coin) as many spaces as she wishes in any of the 6 directions. She must pay as many coins to the Gatekeeper as gates she crossed during the move (she cannot move if she doesn&amp;rsquo;t have coins enough to pay). Hoarder collects the coin that is on the destination cell. Moving is mandatory if possible.&lt;br/&gt;&lt;br/&gt;When the game ends, count the coins that the Hoarder has managed to keep. This is her score. Then reverse roles and play again. Whoever achieved the highest score playing as the Hoarder wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/30HTxJSYOF7X0_f9Lfvj9TIDiy8=/fit-in/200x150/pic2016552.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2IBJYVPCAw60ioOjdMyed5gi29Y=/0x0/pic2016552.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameversion objectid="239681">Print and Play version</boardgameversion>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.77124</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

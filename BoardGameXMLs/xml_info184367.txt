@@ -1,0 +1,85 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="184367">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Twilight of Shogun</name>
+							<name  sortindex="1">江戸幕府の黄昏</name>
+									
+			<description>This is a game on political conflict in the last years of Japanese Edo period (1856 to 1867). The basic game engine is based on Twilight Struggle.&lt;br/&gt;&lt;br/&gt;Players control either pro-Tokugawa Shogunate or anti Shogunate (imperial) faction. Each turn players play historical event or common political operation cards. This mostly helps them to place their own influence points or remove the opponent's influence points. The difference of Influence points determines the control of hans (domains), and it also affects control of areas.&lt;br/&gt;The winner is determined by victory points, mostly gained by area control.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_WyWZMDZ_Q0zuTK5yF0IsBslPuw=/fit-in/200x150/pic2674353.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/p_qOeHrm83eVd_fmkaCwUIXGx0Y=/0x0/pic2674353.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1102">Civil War</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="285395">First edition</boardgameversion>
+															<boardgamepublisher objectid="3358">Game Journal</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="53747">Tomoki Kondoh</boardgamedesigner>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>15</usersrated>
+					<average>7.1</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.934523</stddev>
+					<median>0</median>
+					<owned>32</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>9</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

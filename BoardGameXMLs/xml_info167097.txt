@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="167097">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Battle of the Beetles</name>
+									
+			<description>In Battle of the Beetles green and red beetles fight among themselves. Your goal is to be the last player making a valid action. In order to play Battle of the Beetles you need a modified 7 x 7 board with 44 cells, 28 white rings (&amp;ldquo;eggshells&amp;rdquo;) and 28 rounder counters (14 green and 14 red &amp;ldquo;beetles&amp;rdquo;)&lt;br/&gt;&lt;br/&gt;In each turn a player must perform one of the following actions:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Remove the eggshell from one of your eggs. The removed eggshell is out of the game.&lt;br/&gt;    Capture an enemy beetle. A born beetle makes a capture in two steps: First it moves forward to a cell adjacent to it. Then it flies to a cell occupied by an enemy beetle which removed from the game. The beetle flies exactly as a knight moves in chess. &lt;br/&gt;    Capture a friendly beetle according to the rules mentioned above. This action can only be carried out if the player is not able to perform the aforementioned actions.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;If a player cannot make any of these actions in his/her turn, he/she loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7S83ywwFrWlLJehSRPFBbFoOo_c=/fit-in/200x150/pic2266124.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0l6Io7wmpUDSFvx2Ea6drOpQ7Lc=/0x0/pic2266124.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="255043">First edition</boardgameversion>
+															<boardgamedesigner objectid="72319">José Manuel Astilleros García-Monge</boardgamedesigner>
+															<boardgameartist objectid="72319">José Manuel Astilleros García-Monge</boardgameartist>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.25</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4.25</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

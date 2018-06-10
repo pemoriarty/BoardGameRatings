@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="177017" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Kulami</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;This is an app implementation of the boardgame &amp;quot;Kulami&amp;quot;. It can be played online against other human players or offline against a computer opponent.&lt;br/&gt;&lt;br/&gt;Kulami is tactical board game by Andreas Kunekath. Two players take turns to place marbles on a playing area comprising different sizes of wooden panels. The aim is to gain control of as many panels as possible by players placing their own marbles to occupy a majority of fields on a panel.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kHwmZxg6kewxxYbCzha-Oc6QPg0=/fit-in/200x150/pic2504209.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ou9x0l-LHDU73eCMyL9_0sJSDTc=/0x0/pic2504209.png</image>
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="272646">Android edition</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+																						<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogamedeveloper objectid="29681">Woodengames</videogamedeveloper>
+															<videogamepublisher objectid="29681">Woodengames</videogamepublisher>
+															<videogamebg objectid="108831" inbound="true">Kulami</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

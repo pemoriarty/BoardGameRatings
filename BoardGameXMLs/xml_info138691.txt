@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="138691" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Premier issue of Test boardgame Periodical</name>
+									
+			<description>This is the premier issue of this fake publication.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgame objectid="41047">Admin Test Item</boardgame>
+															<boardgameartist objectid="12943">Admin Test Person</boardgameartist>
+															<boardgameauthor objectid="12943">Admin Test Person</boardgameauthor>
+															<boardgamepublisher objectid="4307">Admin Test Publisher</boardgamepublisher>
+															<boardgameissueversion objectid="200526">Glossy cover</boardgameissueversion>
+															<boardgameissueversion objectid="200530">Matte cover</boardgameissueversion>
+															<boardgameissuearticle objectid="96041">Test Article created singly</boardgameissuearticle>
+															<boardgameissuearticle objectid="96042">Test bulk created article</boardgameissuearticle>
+															<boardgameissuearticle objectid="96043">Test bulk created article 2</boardgameissuearticle>
+															<boardgameissue objectid="21667" inbound="true">Test Boardgame Periodical 2013</boardgameissue>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="48" name="boardgameissue" friendlyname="Board Game Issue Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

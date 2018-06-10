@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="143077">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Enclose5</name>
+									
+			<description>Abstract game for 2 players; can be played on plain grid paper, each player using a pen of different color. &lt;br/&gt;Rules:&lt;br/&gt;1. each player alternately place a mark of his color inside an empty cell of the grid.&lt;br/&gt;2. if player completes a closed polygonal with his marks, all the internal cells (empty or marked) take that color. A player can enlarge one of his existing polygonals by adding new marks.&lt;br/&gt;(a closed polygonal is any closed path connecting marks of the same color, each adjacent  horizontally, vertically or diagonally to next one)&lt;br/&gt;3. the cells, once colored, are blocked. They cannot change their color even when they are enclosed in a new polygonal of the opposite color and do not take part to any alignment of marks&lt;br/&gt;4.If a player makes a winning alignment of 5 or more marks (horizontally, vertically or diagonally), he gains additional moves: 1 for an alignment of 5, 2 for an alignment of 6, and so on (for n signs, n-4 moves, with n&amp;ge;5). Additional moves must be played in the same turn of play but cannot be used to increase in lenght a winning alignment built in the same turn; &lt;br/&gt;if an additional move makes a different winning alignment, the gained moves add up.&lt;br/&gt;5. if a move closes a polygonal, the coloring of its internal cells is mandatory and has the priority over marks alignments.&lt;br/&gt;Goal of the game:&lt;br/&gt;to color an arranged number of cells, by default 20. Players can choose a different number at the beginning of the match.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bHwUdHv9_1ukH1qFYJcTSaZrGYs=/fit-in/200x150/pic1671749.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/iwigOyxy5B6HcJIdJ7BiQycJwEM=/0x0/pic1671749.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="209959">First edition</boardgameversion>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="64741">Fabio Pozzi</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

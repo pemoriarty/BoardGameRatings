@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="182234">
+			<yearpublished>2015</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="5">The Tree</name>
+									
+			<description>The Tree is a game for 1 to 4 players that is played with a Double-seven binary-coding dominoes.&lt;br/&gt;&lt;br/&gt;Deal 9 tiles to each player (as in Dominoes) and keep the rest face-down (the supply).&lt;br/&gt;&lt;br/&gt;The player with the lowest double tile places it on the table horizontally before her (if nobody has a double tile then the lowest &amp;lsquo;blank-any&amp;rsquo; tile, or the lowest &amp;lsquo;one-any&amp;rsquo; tile and so on). The tree will grow away from her, so leave enough room.&lt;br/&gt; Definitions: the central pip and the small and big circles that form the symbols of the tiles are called &amp;lsquo;rings&amp;rsquo;. A tile placed &amp;lsquo;above&amp;rsquo; means placed horizontally on the table, adjacent to at least one tile already placed, and in the direction of growth (no stacking).&lt;br/&gt;&lt;br/&gt;From now on, and starting with the second player and playing in anticlockwise order, players take turns placing one tile from their hand so that:&lt;br/&gt;&lt;br/&gt;a) It must be placed above a previously placed tile so that half of it touches half of the tile already placed (remember the definition of &amp;lsquo;above&amp;rsquo;).&lt;br/&gt;&lt;br/&gt;b) The symbol above has exactly the same rings as the symbol below, plus one more.&lt;br/&gt;        &lt;br/&gt;c) If the other half of the tile also rests above a tile, the corresponding symbols must also obey rule &amp;lsquo;a&amp;rsquo;. In this case, play an extra turn.&lt;br/&gt;      &lt;br/&gt;d) If the placed tile has been &amp;lsquo;inserted&amp;rsquo; inside a hole so that there are tiles above it, the corresponding symbols of the tiles above it must also obey rule &amp;lsquo;a&amp;rsquo;. In this case, play an extra turn.&lt;br/&gt;        &lt;br/&gt;If, at the beginning of your turn, you can&amp;rsquo;t make a valid move, draw a tile from the supply (if any) and pass your turn to the next player.&lt;br/&gt;&lt;br/&gt;If, at the end of your turn, you&amp;rsquo;ve run out of tiles, then you win and the game ends; however, the other players can continue playing to determine 2nd, 3rd, and 4th place if they wish. If, at the end, a tree with all tiles has been built, please post a picture on boardgamegeek!&lt;br/&gt;&lt;br/&gt;If the supply is empty and all players pass in succession, then nobody wins and you have to play again.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Nz5pQib4g8_RtmG6bI9Ue7wamss=/fit-in/200x150/pic2626769.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/a8z38WCdjd_KI4Qew-i0cizp6tY=/0x0/pic2626769.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="28020">double-seven binary-coding dominoes</boardgamefamily>
+															<boardgameversion objectid="281839">First edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

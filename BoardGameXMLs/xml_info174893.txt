@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="174893">
+			<yearpublished>2015</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">TROLL</name>
+							<name  sortindex="1">トロル</name>
+									
+			<description>TROLL, published by Oink Games in 2015, is a revised version of Dragon Teeth Washer, originally published by Drosselmeyer in 2012. In TROLL, each player takes the role of a thief, trying to steal precious jewels from the hideous troll.&lt;br/&gt;&lt;br/&gt;At the beginning of the game, each player receives a set of six tokens, with numbers from 0 to 5. Depending the number of the players, some troll cards are not used (Troll cards have values 3, 5, 7, 9, 11, 13, and 15). On a round, players attempt to steal from the target troll by playing his or her tokens in sequence. The first player secretly looks at the target troll (the top troll card) and plays one of his number tokens face up. If he or she plays a &amp;quot;3&amp;quot; token, it means that the player intends to steal 3 jewels from the target troll. Next players have two options: 1) look at the troll card just as the first player did and play a number token face up; or 2) play a number token face down, take a multiplier (x2) token from the pool, and put the multiplier token on his or her face down number token.&lt;br/&gt;&lt;br/&gt;After all the players played their number tokens, the troll card is revealed. Beginning from the player who played the lowest card, add up the value of the number tokens. Suppose that the troll is &amp;quot;9&amp;quot; and Amy played &amp;quot;3&amp;quot;, Becky &amp;quot;5&amp;quot;, Carlos &amp;quot;2&amp;quot;, and Dave &amp;quot;3&amp;quot; with &amp;quot;x2&amp;quot; multiplier on it, Carlos (2), Amy (3), and Dave (3) are entitled to receive 2, 3, and 6 (3x2) jewels respectively. However, Becky will receive a penalty point (-2), since she woke up the troll. 9 is bigger than 2+3+3 but it is smaller than 2+3+3+5. Becky triggered the troll's rampage.&lt;br/&gt;&lt;br/&gt;Play continues in this manner for a specified number of rounds/days (set of rounds), depending the number of the players. The player with the most jewels at the game end is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/YNBK-rhEZhQ-r_nniVAuAN0Hyo4=/fit-in/200x150/pic2490977.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/NblpObFnKiShKS_04u2vxbaKyHg=/0x0/pic2490977.png</image>
+						
+												<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamepodcastepisode objectid="161891">Garrett&#039;s Games 481 - Meeplefest Night 2, Part 3</boardgamepodcastepisode>
+															<boardgameversion objectid="269037">Japanese first edition</boardgameversion>
+															<boardgamedesigner objectid="67534">Kouji Kimura</boardgamedesigner>
+															<boardgamepublisher objectid="22649">Oink Games</boardgamepublisher>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+																													<boardgameimplementation objectid="139627" inbound="true">Dragon Teeth Washer</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>231</usersrated>
+					<average>6.59987</average>
+					<bayesaverage>5.69185</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4141" bayesaverage="5.69185" />
+												
+											</ranks>
+					
+					<stddev>1.09171</stddev>
+					<median>0</median>
+					<owned>547</owned>
+					<trading>10</trading>
+					<wanting>29</wanting>
+					<wishing>115</wishing>
+					<numcomments>63</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1.3636</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

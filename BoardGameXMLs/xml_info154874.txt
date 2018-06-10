@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="154874">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Maneuver</name>
+							<name primary="true" sortindex="1">МАНЕВАР</name>
+									
+			<description>A game for two players, similar to Chess, but the board is bigger, and there are also a lot more pieces.&lt;br/&gt;&lt;br/&gt;Components:&lt;br/&gt;One 13 X 12 squares board(totally 156 squares)&lt;br/&gt;74 pieces in two colours(37 pieces each side)&lt;br/&gt;&lt;br/&gt;Pieces are divided in three groups:&lt;br/&gt;- Infantry&lt;br/&gt;- Cavalry and&lt;br/&gt;- Archers&lt;br/&gt;&lt;br/&gt;Every player has the following pieces:&lt;br/&gt;&lt;br/&gt;- INFANTRY UNITS - &lt;br/&gt;1 Leader&lt;br/&gt;9 Heavy Infantry&lt;br/&gt;11 Light Infantry&lt;br/&gt;   &lt;br/&gt;                    - CAVALRY UNITS -&lt;br/&gt;4 Heavy Cavalry&lt;br/&gt;4 Light Cavalry&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;- ARCHERS -&lt;br/&gt;4 Infantry Archers&lt;br/&gt;4 Horse Archers&lt;br/&gt;   &lt;br/&gt;The object of game is to capture the enemy Leader. If the Leaders are the only pieces left on board it's a stalemate and the game is ended a draw. If one player cannot move any piece, or cannot move Leader to a safe square, that player loses the game.&lt;br/&gt;Players play one after the other like in chess(black goes first), but they can play not just one, but also two (and in special condition three) moves per turn.&lt;br/&gt;&lt;br/&gt;Each player on his turn can move any two pieces he have (but cannot move the same piece twice like a prolonged move). If he plays with a two units of a different type (e.g. one Infantry and one Archer), he can move even the third piece but that piece must belong to remaining unit (e.g. If a player moved one Infantry and one Cavalry, he can also move one Archer).&lt;br/&gt;&lt;br/&gt;Player cannot move and take pieces on the same turn. When taking pieces player can do it with only one unit (and so he loses maneuver advantage of playing with more pieces). The only way to take two pieces on the same turn is that you take one piece with either Infantry or Cavalry, and if there was any piece within range of your Archers, you can take that piece as well.&lt;br/&gt;&lt;br/&gt;Leader and Heavy Infantry are Invulnerable to Archers, but they cannot move on the square which is targeted by Archer.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/2Su9m4hGkZ8WHzlJN4dqz43VWDg=/fit-in/200x150/pic1969349.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qJsxHh1jOexp44WXhF0DdI0h9vc=/0x0/pic1969349.png</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="22184">Admin: Unreleased Games</boardgamefamily>
+															<boardgamedesigner objectid="73485">Bishop Drax</boardgamedesigner>
+															<boardgameartist objectid="73485">Bishop Drax</boardgameartist>
+															<boardgameversion objectid="232304">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="163481">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Takamatsu</name>
+									
+			<description>Excitement in the capital: Shogun Tokugawa Ieyasu wants to assign the Han of Takamatsu in a challenge. The competing Daimyos direct their Samurai through the palace following some simple rules and quickly see that they can use the Samurai of the other Daimyos for their purposes. An exciting interwoven competition - with unexpected surpises.&lt;br/&gt;&lt;br/&gt;Takamatsu is a game of conflict and cooperation, with players trying to place (or not place!) their samurai in their own rooms. The palace consists of two circular paths that merge at one point, then separate once again. Players have 5-7 samurai that are split between two color-coded rooms at the start of the game, and a row of scoring cards &amp;mdash; some face-down &amp;mdash; are laid out next to the board.&lt;br/&gt;&lt;br/&gt;On a turn, you choose a room that contains at least one of your samurai, then you move some number of samurai in this room clockwise from this space. If the room contains only one samurai, you can move it one space; if it contains two, you can move both two spaces or only one a single space &amp;mdash; but if an opposing samurai is with you, then you must move both exactly two spaces. When a room has three or more samurai, he must leave at least one behind (while still needing to bring at least one opposing samurai along, if any). When a samurai ends movement in a room of the same color, that samurai's daimyo collects the topmost scoring card, with multiple scorings being possible on a turn. For each open scoring card collected, the player immediately adjusts his scoring marker &amp;mdash; which could move you back on the track, so sometimes you want to escort another samurai to his pad instead of bringing him to your place.&lt;br/&gt;&lt;br/&gt;When one player reaches twenty points, players finish the round, then tally their hidden scoring cards, if any. The player with the most points wins! (With two players, each daimyo controls two colors of samurai and must move an opposing samurai when possible. After one pagoda reaches the twenty point threshold, the players sum their two scores to determine a winner.)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/O1GVCtvg9QPwm8IRNgCX0X7L9z8=/fit-in/200x150/pic2156026.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/N0MB7ldbyveuultOoYGiyP2XBQw=/0x0/pic2156026.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgamefamily objectid="10634">Country: Japan</boardgamefamily>
+															<boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+																						<boardgameartist objectid="77271">Andrea Kattnig</boardgameartist>
+															<boardgamecategory objectid="1059">Maze</boardgamecategory>
+																						<boardgamepublisher objectid="6127">Mücke Spiele</boardgamepublisher>
+															<boardgameversion objectid="247749">Multilingual first edition</boardgameversion>
+																													<boardgamedesigner objectid="840">Martin Schlegel</boardgamedesigner>
+																						<boardgameexpansion objectid="167917">Takamatsu: The green pagoda</boardgameexpansion>
+															<boardgameexpansion objectid="167919">Takamatsu: The green Samurai</boardgameexpansion>
+																						<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>106</usersrated>
+					<average>6.21934</average>
+					<bayesaverage>5.56244</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7635" bayesaverage="5.56244" />
+												
+											</ranks>
+					
+					<stddev>1.4535</stddev>
+					<median>0</median>
+					<owned>163</owned>
+					<trading>5</trading>
+					<wanting>5</wanting>
+					<wishing>37</wishing>
+					<numcomments>26</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,84 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="141176" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">Sargon 2</name>
+							<name primary="true" sortindex="1">Sargon II</name>
+							<name  sortindex="1">Sargon II Chess</name>
+							<name  sortindex="1">Sargon II Chess</name>
+									
+			<description>Sargon is a line of chess-playing software for personal computers. The original Sargon was written by Dan and Kathleen 'Kathe' Spracklen in assembly language.&lt;br/&gt;&lt;br/&gt;A Navy Petty Officer, Paul Lohnes, ported Sargon to the TRS-80, altering both graphics, input, and housekeeping routines leaving the Spracklen's chess-playing algorithm intact. The TRS-80 version became an instant success with the help of Hayden Book's newly established software division: Hayden Software.&lt;br/&gt;&lt;br/&gt;The Spracklens made some significant improvements on the original program and the updated version was released by Hayden Software as Sargon II. This version was ported to a variety of personal computers popular in the early 1980s. The game engine featured multiple levels of look-ahead which could be adjusted by the user to make the program more accessible to beginning chess players. Even though chess programs of the time could not defeat a chess master, they were more than a match for most amateur players.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Sargon (chess)&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/li4BrQmfrs3iaXf02wxGUkoxulU=/fit-in/200x150/pic1630934.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Kx63iy8tV-bkoRtCHc-rJHPjWO8=/0x0/pic1630934.png</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="384749">Apple II Version</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamepublisher objectid="11464">Commodore International Limited (Commodore)</videogamepublisher>
+															<videogamepublisher objectid="14027">Hayden Software Company, Inc.</videogamepublisher>
+															<videogameseries objectid="18602">Sargon</videogameseries>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameversion objectid="206315">TRS-80 edition</videogameversion>
+															<videogameplatform objectid="5930">TRS-80 Model I/III</videogameplatform>
+															<videogameplatform objectid="4949">VIC-20</videogameplatform>
+															<videogameversion objectid="349283">VIC-20 release &quot;Silver label&quot;</videogameversion>
+															<videogameversion objectid="349284">VIC-20 release &quot;White Label&quot;</videogameversion>
+															<videogamebg objectid="171" inbound="true">Chess</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>5</average>
+					<bayesaverage>5.48562</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="5.48562" />
+												
+							
+														<rank type="family" id="4949" name="vic20" friendlyname="VIC-20 Rank" value="Not Ranked" bayesaverage="5.22527" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="5.38372" />
+														<rank type="family" id="5930" name="trs80" friendlyname="TRS-80 Model I/III Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

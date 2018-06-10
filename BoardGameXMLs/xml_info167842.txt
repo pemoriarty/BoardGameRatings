@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="167842">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Abluxxen: Sonderkarten / Duell</name>
+									
+			<description>A set of 6 special cards and a rule sheet with a 2-player variant for the game.&lt;br/&gt;&lt;br/&gt;There is one special card for 3, 4, 5, 6, 7 and 8 of a kind. A player who plays down any of these combinations, may take that card (or steal it from another player). Each card is worth 5 points at game end.&lt;br/&gt;&lt;br/&gt;The rules sheet offers a &amp;quot;Duel&amp;quot; variant for two players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lxDqquXKliJrfF802KgukEfu1dc=/fit-in/200x150/pic2279783.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5U6JS3ge5y7E4YMZNL_YKmWoXSg=/0x0/pic2279783.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameartist objectid="11901">Oliver Freudenreich</boardgameartist>
+															<boardgameversion objectid="256739">German first edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="42">Michael Kiesling</boardgamedesigner>
+															<boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameexpansion objectid="153065" inbound="true">Linko!</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>42</usersrated>
+					<average>6.75476</average>
+					<bayesaverage>5.54315</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54315" />
+												
+											</ranks>
+					
+					<stddev>1.70744</stddev>
+					<median>0</median>
+					<owned>182</owned>
+					<trading>2</trading>
+					<wanting>25</wanting>
+					<wishing>40</wishing>
+					<numcomments>18</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

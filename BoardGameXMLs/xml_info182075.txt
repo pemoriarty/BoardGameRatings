@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="182075">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="1">Star Realms: Carte Promo L&#039;Arche</name>
+							<name  sortindex="1">Star Realms: El Arca</name>
+							<name primary="true" sortindex="1">Star Realms: The Ark Promo Card</name>
+									
+			<description>Promotional card given out at GenCon 2015 to participants in Star Realms tournaments.&lt;br/&gt;&lt;br/&gt;The Ark&lt;br/&gt;Machine Cult Ship&lt;br/&gt;Cost: 7&lt;br/&gt;Ability: Scrap up to two cards in your hand and/or discard pile. Draw a card for each card scrapped in this way.&lt;br/&gt;Scrapping Ability: Destroy target base.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/uX4WKYrD6iz8RHRSQT7ADeO5ipw=/fit-in/200x150/pic2721521.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kS7i6Tg1cnPpIp9gbZkww3JtaEk=/0x0/pic2721521.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+															<boardgamedesigner objectid="4113">Robert Dougherty</boardgamedesigner>
+															<boardgameversion objectid="281576">English edition</boardgameversion>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="392081">French edition</boardgameversion>
+															<boardgamedesigner objectid="4059">Darwin Kastle</boardgamedesigner>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameversion objectid="301119">Spanish Edition</boardgameversion>
+															<boardgamefamily objectid="25246">Star Realms</boardgamefamily>
+															<boardgamecompilation objectid="203074">Star Realms: Promo Pack I</boardgamecompilation>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgamepublisher objectid="26542">White Wizard Games</boardgamepublisher>
+															<boardgameexpansion objectid="147020" inbound="true">Star Realms</boardgameexpansion>
+															<boardgameexpansion objectid="182631" inbound="true">Star Realms: Colony Wars</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>65</usersrated>
+					<average>7.28615</average>
+					<bayesaverage>5.59789</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59789" />
+												
+											</ranks>
+					
+					<stddev>1.83947</stddev>
+					<median>0</median>
+					<owned>281</owned>
+					<trading>7</trading>
+					<wanting>46</wanting>
+					<wishing>86</wishing>
+					<numcomments>29</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="146989">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Knight Line</name>
+									
+			<description>Knight Line is a minimalist connection game for two players.&lt;br/&gt;&lt;br/&gt;Each player has 20 square tiles in their colour; at the start of the game, these tiles are placed in two adjacent stacks, one of each colour.&lt;br/&gt;  &lt;br/&gt;A move consists of moving part of a stack (at least one tile must be left behind) to an empty space by making a knight's move.  All pieces must be connected at least diagonally throughout the game.&lt;br/&gt;&lt;br/&gt;The first player to make a line of 4, orthogonally or diagonally, wins.&lt;br/&gt;&lt;br/&gt;To offset the first player advantage, they must move only a single piece on their first move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Vmh22spbvTlJ0AhAj8yPtYjiTw0=/fit-in/200x150/pic3726987.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/pPFVJNAajOnbb0HYLyU5uXn5Iv8=/0x0/pic3726987.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="367771">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameexpansion objectid="243528">Knight Line: 3 Player Expansion</boardgameexpansion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="217637">PDF edition</boardgameversion>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																						<boardgamedesigner objectid="11301">Stephen Tavener</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>7.66667</average>
+					<bayesaverage>5.51476</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51476" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>11</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>7</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

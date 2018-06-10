@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="173770">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Swamped</name>
+									
+			<description>Swamped is a semi-cooperative game of adventure, peril and treasure in which players move through a swamp searching for a rare herb that can cure diseases. Each player takes a turn steering the boat to find the herb. But the swamp has many other treasures as well, so players may try to steer the boat away from its intended goal to increase their own wealth.&lt;br/&gt;&lt;br/&gt;Swamped is a game for 2-4 adventurers that plays in about 30 minutes and expands the vibrant world of Antidote. In addition to a one-of-a-kind theme, there are five core elements that make Swamped incredibly fun and a surprisingly unique gaming experience:&lt;br/&gt;&lt;br/&gt;1. Player-shared pieces: All players share ownership of the same tiny boat in the swamp, so the actions of any one player impact every other player directly.&lt;br/&gt;&lt;br/&gt;2. Secret and shared objectives: Everyone knows the main objective, but each player also has a hidden goal that might lead the whole expedition into deadly peril!&lt;br/&gt;&lt;br/&gt;3. Player controlled game-length: Players can speed-up or slow-down the game down depending on their preference. Some will try to get out of the swamp quickly, while others will delay until they've collected precisely the right combination of treasures.&lt;br/&gt;&lt;br/&gt;4. Surprise ending: It is unlikely that anyone can know with 100% certainty who has won the game before each player's secret objective is revealed, leading to an exciting reveal at the very end!&lt;br/&gt;&lt;br/&gt;5. Efficient use of physical components: Despite its small size (35 cards and two pieces), most cards have multiple uses and orientations leading to a surprisingly deep set of decisions each player can make. Furthermore, as players move deeper into the swamp, the swamp expands from the action card deck, opening up greater adventure, while at the same time triggering a built-in game timer.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/W8BGgR9UClUv5rJgP0Os3__BoHM=/fit-in/200x150/pic2689942.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FcnZTRE4j2UzYXdO9RSxEvKJA3w=/0x0/pic2689942.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamepublisher objectid="17956">Bellwether Games</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="76321">Jonathan Logan Clark</boardgamedesigner>
+															<boardgameartist objectid="76321">Jonathan Logan Clark</boardgameartist>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="276411">English first edition</boardgameversion>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamedesigner objectid="45444">Benjamin Gerber</boardgamedesigner>
+															<boardgamedesigner objectid="49313">Dennis Hoyle</boardgamedesigner>
+																																		
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>133</usersrated>
+					<average>6.03872</average>
+					<bayesaverage>5.5495</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8427" bayesaverage="5.5495" />
+												
+											</ranks>
+					
+					<stddev>1.40416</stddev>
+					<median>0</median>
+					<owned>478</owned>
+					<trading>48</trading>
+					<wanting>1</wanting>
+					<wishing>19</wishing>
+					<numcomments>61</numcomments>
+					<numweights>8</numweights>
+					<averageweight>1.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

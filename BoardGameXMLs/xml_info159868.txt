@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="159868">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Sellswords</name>
+							<name  sortindex="1">セルソード</name>
+									
+			<description>Draft your guild, plan your attack, and seize victory!&lt;br/&gt;&lt;br/&gt;Take to the field of battle in this intense head-to-head contest of wits and strategy. Use the diverse assortment of mercenaries at your disposal to capture strategic terrain and exploit your enemy's weaknesses. With fifty different sellswords to compose your guild, no two battles will be the same!&lt;br/&gt;&lt;br/&gt;Sellswords is a tile-placement game (they're cards, not tiles, but you get the idea) for two players in which heroes gather for the battle of a lifetime. Each of the fifty heroes has its own ability to help turn the tiles of battle in your favor!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iHLqo-3Hk-BEvFZlqam7aU_whnA=/fit-in/200x150/pic2032246.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HvogugqwMQjfyhIkX3k9H9C3_lw=/0x0/pic2032246.png</image>
+						
+																			<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgameversion objectid="241481">English edition</boardgameversion>
+															<boardgameartist objectid="46478">Fábio Fontes</boardgameartist>
+															<boardgamepublisher objectid="5095">Hobby Base</boardgamepublisher>
+																						<boardgameversion objectid="390968">Japanese edition</boardgameversion>
+															<boardgamedesigner objectid="75597">Cliff Kamarga</boardgamedesigner>
+															<boardgamepublisher objectid="11752">Level 99 Games</boardgamepublisher>
+															<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+																													<boardgameintegration objectid="199907">Sellswords: Olympus</boardgameintegration>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameintegration objectid="199907" inbound="true">Sellswords: Olympus</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>512</usersrated>
+					<average>6.63722</average>
+					<bayesaverage>5.84971</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2818" bayesaverage="5.84971" />
+												
+											</ranks>
+					
+					<stddev>1.28306</stddev>
+					<median>0</median>
+					<owned>1185</owned>
+					<trading>62</trading>
+					<wanting>54</wanting>
+					<wishing>235</wishing>
+					<numcomments>133</numcomments>
+					<numweights>21</numweights>
+					<averageweight>1.9048</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

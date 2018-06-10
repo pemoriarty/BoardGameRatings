@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="177477">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Tavern Fame</name>
+									
+			<description>Tavern Fame is the game of strong ale and tall tales.&lt;br/&gt;&lt;br/&gt;Players compete with their fellow heroes to drink, bluff and slay your way into the hearts and minds of the patrons around you.&lt;br/&gt;&lt;br/&gt;Tavern Fame is a press-your-luck bidding game for 2-5 players where each player is assigned a high-fantasy character that is boasting about how many enemies they recently killed on their adventures.&lt;br/&gt;&lt;br/&gt;The first player to get to 10 patrons, or the player with the most patrons when the patron pool runs out, wins the game.&lt;br/&gt;&lt;br/&gt;Each player starts with 3 patrons, 2 drinks and a character card.&lt;br/&gt;&lt;br/&gt;Each turn, the active players buys a round of drinks from the drink pool for the other players and then flips the top Enemy card, which lists what the enemy is, the enemy's health, and the rewards a player gets on a successful slay. They start the round's bid, stating how many enemies they killed. The round continues with each player either believing the bidder, or bidding a higher number. At any time, though, any player can call out the bidder.&lt;br/&gt;&lt;br/&gt;If no one wants to up the bid further, the bidder now has to slay the enemies by building a dice pool out of their character's strength, any bonuses they have against the drawn enemy, and spent drinks, where one drink equals one extra dice. Every dice result that is equal to, or greater than the enemy's health, is one successful kill. If the bidder less enemies than they bidded, the caller gets one of their patrons. If the bidder kills more enemies than they bidded, they succeed and not only get one of the patrons from the caller, but they also get the drinks and patrons listed on the enemy card. If they kill exactly the same amount that they bidded, they activate the perfect bluff bonus on their character card, as well as the enemy's reward and the caller's patron.&lt;br/&gt;&lt;br/&gt;The winner of the last round (either the bidder or the caller) is the active player for the next.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sBXLeKNghptYUHj-k43fMSP2SkU=/fit-in/200x150/pic2514683.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Qg3jaUS3sgkqob8j3q_9KQj9TOI=/0x0/pic2514683.png</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgameartist objectid="82223">Jonatan Cantero</boardgameartist>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="273335">First edition</boardgameversion>
+															<boardgameartist objectid="82240">Melissa Pennock</boardgameartist>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+																						<boardgamedesigner objectid="82221">Dylan Shearer</boardgamedesigner>
+															<boardgamedesigner objectid="82222">Aaron Sparke</boardgamedesigner>
+															<boardgamepublisher objectid="29736">Table Tyrant Games</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>55</usersrated>
+					<average>6.88364</average>
+					<bayesaverage>5.53598</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9454" bayesaverage="5.53598" />
+												
+											</ranks>
+					
+					<stddev>1.9679</stddev>
+					<median>0</median>
+					<owned>129</owned>
+					<trading>4</trading>
+					<wanting>2</wanting>
+					<wishing>13</wishing>
+					<numcomments>23</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

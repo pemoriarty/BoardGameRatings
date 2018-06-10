@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="176934">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Poker Club</name>
+									
+			<description>This is a Poker game, but instead of cards there is a die.&lt;br/&gt;&lt;br/&gt;Each player has 5 or 6 figures (dependent of the number of players)&lt;br/&gt;The game board has 2 concentic circles with the same number of fields and additional 4 x 2 places in the player Colors. 1 of them at each corner of the board (owned chips) and 1 in the middle (nearest possible to the same color in the corners (bets).&lt;br/&gt;&lt;br/&gt;At the begin of the game each player gets the same amount of chips.&lt;br/&gt;Each player has to place 1 of his figures on a empty field on the outer circle. The players have to do this clockwise till all figures are placed.&lt;br/&gt;&lt;br/&gt;The youngest player has started this positioning and also starts the &amp;quot;real&amp;quot; game.&lt;br/&gt;&lt;br/&gt;He chooses 1 of his figures, places it in the  neighboring field of the inner circle. This is the start figure. The next 6 figures have to bet clockwise 1 to 10 coins. The minimum bet is always the bet from the previous figure. After all bets are done the owner of the start figure rolls the die. He counts from his figure the number of the die and the owner of this figure gets the all bets and this figure is the start figure of the next round. Players which cannot pay the bet are out of the game. All their figures are taken off. The empty fields are counted for the result. If the die &amp;quot;hits&amp;quot; an empty field the money stays in the pot for the next round. The figure next clockWise is the next start figure.&lt;br/&gt;&lt;br/&gt;Game ends when only 1 player is left or after a pregiven time. Player may decide to end the game earlier as planned, then the rules say a Minimum of 6 rounds have to be played.&lt;br/&gt;Game winner is the one who has the most money.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gP5xwSkppttRzaCDeWVhfM_N3Ms=/fit-in/200x150/pic2506003.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9F-B31TGev8jwlxjb4AJUpcFE5Y=/0x0/pic2506003.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamefamily objectid="9313">Poker</boardgamefamily>
+															<boardgamepublisher objectid="29650">Simex</boardgamepublisher>
+															<boardgameversion objectid="272511">Simex First German Edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

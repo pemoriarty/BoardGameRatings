@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="168207" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Primetris</name>
+									
+			<description>&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;        &lt;br/&gt;UNRELEASED GAME &amp;ndash; UNAVAILABLE&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;        &lt;br/&gt;This game is announced but has not been released yet and is NOT sold yet, therefore some of the information above may change in the future. Until this game is released, please don't submit images for it, nor add new releases.&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Developer descriptionInstructions (what you need to know to play):&lt;br/&gt;&lt;br/&gt;     The game is made of a 6 * 6 grid of tiles, each tile holding a number&lt;br/&gt;     There is a time bar on the right of the screen-. Should it become empty, it's game over&lt;br/&gt;     you must combine adjacent tiles whose sum is a prime number (a prime number is a number only divisible by two numbers : 1 and itself)&lt;br/&gt;     Click on a tile to select it (it turns blue) then click on the adjacent tile (left, right, up or down, no diagonal) and if their sum is prime, they will merge and their sum will be added to your score. if the sum isn't prime, they won't merge and you'll have a small time penalty.&lt;br/&gt;     When two tiles successfully merge, the value of adjacent tiles will slightly decrease&lt;br/&gt;     If you click on a tile per mistake, you can re-click it to deselect it, or click a non adjacent tile.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Additional information.&lt;br/&gt;&lt;br/&gt;     Once you reach a score of 100, 300, 600, 900... you level up (a special sound is played to tell you that). The time bar decreases a bit faster and new tiles can have a higher value when you reach a higher level.&lt;br/&gt;     The higher the sum of merged tiles, the biggest the decrease in adjacent tiles.&lt;br/&gt;     Prime tiles are red, non-prime are green. This is mostly to add a bit of color, but also helps in the search of &amp;quot;matching&amp;quot; tiles : the sum of two prime numbers is never prime (except when one of them is 2)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Source: Developer Description.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamefranchise objectid="21970">(Unreleased Games - Available)</videogamefranchise>
+															<videogamepublisher objectid="1001">(Web published)</videogamepublisher>
+															<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="257386">Web browser edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="188884">
+			<yearpublished>1999</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Permutu</name>
+									
+			<description>Permutu is a pure abstract strategy game with random setup. The goal is to collect sets of tiles.&lt;br/&gt;&lt;br/&gt;There are 78 tiles, each with one of 26 symbols and one of 3 colors. Each symbol appears on 3 tiles, in 3 different colors.&lt;br/&gt;&lt;br/&gt;During setup, 3 parallel rows of tiles are randomly laid out, one row for each color, creating columns with 1 tile of each color.&lt;br/&gt;&lt;br/&gt;During play, players will take tiles, taking turns in clockwise order.&lt;br/&gt;&lt;br/&gt;You can take a single tile from a column with 3 tiles, if no one (including you) already has a tile with that tile's symbol.&lt;br/&gt;&lt;br/&gt;You can take an entire column (of 3 or fewer tiles), if you have tiles which match the symbols on all of that column's tiles, or all but one of its tiles.&lt;br/&gt;&lt;br/&gt;If you have no move, pass.&lt;br/&gt;&lt;br/&gt;Once everyone has no move, the game is over.&lt;br/&gt;&lt;br/&gt;Score 3 points for each triple collected with the same symbol, and 1 point for each pair collected with the same symbol.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gKMAYDGxuE7lLi6dnM_k-v3LpF0=/fit-in/200x150/pic2841889.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/59KpZiUrfGn_znyx5Fhvkx_iFzs=/0x0/pic2841889.png</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="292718">Paper envelope version</boardgameversion>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamedesigner objectid="87409">Bartosz Żółtak</boardgamedesigner>
+															<boardgameartist objectid="87409">Bartosz Żółtak</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

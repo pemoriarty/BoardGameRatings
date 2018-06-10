@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="182298">
+			<yearpublished>2015</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Dominomega</name>
+									
+			<description>Dominomega is a game for exactly 3 players for the nestorgames' double-seven binary-coding dominoes set. It is the result of applying OMEGA scoring to this dominoes set.&lt;br/&gt;&lt;br/&gt;Each player has an allocated symbol (pip, small circle or large circle). Before the game starts, shuffle all tiles face down. Each player draws one tile (don't show it to the other players).&lt;br/&gt;&lt;br/&gt;Starting with the 'pip' player, players take turns (pip - small circle - large circle) placing their tile on the table and orthogonally adjacent to a previously placed tile if any, so that the tiles fit into an imaginary orthogonal grid, then drawing a new playing tile from the supply (if possible).&lt;br/&gt;&lt;br/&gt;Once all the 36 tiles have been placed, players calculate their score:&lt;br/&gt;&lt;br/&gt;To calculate your score, multiply the sizes of all groups of squares (half tiles) containing your symbol. Notice that some half tiles contain several symbols (example: the number 7 contains all three). Notice also that each symbol is present exactly 36 times.&lt;br/&gt;&lt;br/&gt;The player with the highest score wins. The maximum possible score is 531441.&lt;br/&gt;&lt;br/&gt;Variant for 2 players: The small circle is not used.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hJvATIMWM1YFY5bUSa9ax22OsPA=/fit-in/200x150/pic2626729.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ZZvOGEC-WXF7sBS2BwC-2IVzvmk=/0x0/pic2626729.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="28020">double-seven binary-coding dominoes</boardgamefamily>
+															<boardgameversion objectid="281962">First edition</boardgameversion>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,104 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="181188">
+			<yearpublished>2015</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>160</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>160</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Mamono Raid</name>
+							<name  sortindex="1">マモノレイド</name>
+									
+			<description>マモノレイド (Mamono Raid) is a party battle management game in which players control the attacks, healing, leveling-up, and item acquisition of their four-character parties as they battle the enemy Mamono. Each player begins with an identical party of a level-zero Warrior, Cleric, Sorceror, and Thief, but parties develop differently over time as players make skill- and item-purchasing decisions.&lt;br/&gt;&lt;br/&gt;Players' parties work together to defeat the Mamono, a chimerical monster whose five-parted body changes randomly from game to game. Players compete, however, to obtain larger shares of the rewards for successfully destroying monster parts and, ultimately, more victory points then their fellow adventurers. Most games end with the Mamono's defeat, at which time the player with the most VPs wins.&lt;br/&gt;&lt;br/&gt;A player's party has a single hit point count, which is both the party's life and its available action points. Individual characters do not die, whole parties do, and incur a victory point penalty. Damage dealt to the party is based on hate markers, which accrue to players in proportion to their success against the monster. Dealing more damage to the Mamono will mean greater incoming damage to manage. Key to victory is handling increasing damage while defeating the monster to earn VPs.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vpAILtGFa4Jnc3utIS43hj8xvD8=/fit-in/200x150/pic2606282.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/WDK_7iol5VmOFWLsQmziaA1VmXw=/0x0/pic2606282.png</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="280018">First edition</boardgameversion>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2663">Time Track</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamepublisher objectid="30225">蓑竹屋GAMES (MinotakeyaGames)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.68</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.854166</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

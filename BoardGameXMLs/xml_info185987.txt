@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="185987">
+			<yearpublished>2015</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Waroong Wars</name>
+									
+			<description>A card game about player become the chef of food stall (waroong) that cooking traditional food in Indonesia and competing to become the best waroong in Indonesia.&lt;br/&gt;&lt;br/&gt;The game consist of a total 80 cards. 40 cards are ingredient card, 20 card are menu card which has different VP each card, and 20 card are customer card which act like action and effect cards. The game played within 2 phase each round, Shopping and Cooking. In the preparation of the game, all card will be shuffled into their respective deck. Open 3 menu card face up in the table and put the rest beside. Each player then will receive a total of 6 ingredient cards for them to play.&lt;br/&gt;&lt;br/&gt;In shopping phase, each player will take an ingredient card in their hand and put it face down in front of them. The ingredient taken will be use to &amp;quot;cook&amp;quot; the opened menu card in the table. Then the remaining card will be draft clockwise until the card in front of them has 6 cards total. This card will become a new hand for cooking the menu. The fun coming when drafting, all player must not see the card they already put in front of them face down. They must memorize the card until shopping is completed.&lt;br/&gt;&lt;br/&gt;In cooking phase, start from player who have priority cooking, the player will choose witch menu they will cook using ingredient in their hand. Discard the ingredient that use to cook, and take that menu card and 1 customer cards. When taken, fill the the gap in menu card with new menu open from menu deck. The player will cook until they can't cook any menu. When this happen, discard the remaining ingredient to discard pile and the turn cooking will be pass to left player. After all player has their turn to cook over, the next round will be start, open new menu card so the size of menu queue will be up each round up to 6 cards open, pass priority cooking to player clockwise, and then give each player 6 new ingredient cards. Then the phase will be start over from shopping.&lt;br/&gt;&lt;br/&gt;The game end when all menu card is already cooked or discarded. The winner will be decide from totaling the score in menu card, and customer card(if any). The player who has the biggest score will win the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/eGSzU3GQHR7vJ6p9aaVlxSaZmtI=/fit-in/200x150/pic2726617.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/y40oG-_pBBZ9e3RXY8reQKRN620=/0x0/pic2726617.png</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="10615">Country: Indonesia</boardgamefamily>
+															<boardgamefamily objectid="5841">Food / Cooking</boardgamefamily>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameartist objectid="105301">Lia Hartati</boardgameartist>
+															<boardgameversion objectid="287734">Indonesia first edition</boardgameversion>
+															<boardgamepublisher objectid="30732">Kompas Publishing</boardgamepublisher>
+															<boardgamecategory objectid="1045">Memory</boardgamecategory>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="86142">Wikan Prabowo</boardgamedesigner>
+															<boardgamedesigner objectid="86143">Aditya Pradana</boardgamedesigner>
+															<boardgamedesigner objectid="86140">David Santoso</boardgamedesigner>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamedesigner objectid="86141">Adhicipta R. Wirawan</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>46</usersrated>
+					<average>7.02609</average>
+					<bayesaverage>5.54252</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8909" bayesaverage="5.54252" />
+												
+											</ranks>
+					
+					<stddev>1.4519</stddev>
+					<median>0</median>
+					<owned>57</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>14</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1.4286</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

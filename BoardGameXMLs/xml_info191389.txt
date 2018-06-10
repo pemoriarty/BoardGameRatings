@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="191389">
+			<yearpublished>1982</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Formula 1 vauhtipeli</name>
+									
+			<description>In this Finnish Formula racing game the car is represented by two standard pawns. The game starts so that everyone has one on the board, then a special die is rolled. If you get 1, 2 or 3 you put your other pawn on the board - now you are on the move. But beware, as your moves always affect your next move as well. The basic idea is that you always move by putting the pawn that is behind in the exact opposite spot (called &amp;quot;A&amp;quot;-spot) in front of the other pawn. You do however roll the die on each turn and that tells you how many grid points you can deviate from the &amp;quot;A&amp;quot; spot (from 0-3). Deviating sideways represents steering while deviating the two pawns closer or further apart represents deceleration and acceleration. Thus, the two pawns form a vector which represents the car's speed and it goes without saying that if you approach a tight curve with a too long vector (=too high speed) you won't be able to make it within the possible die results, but will crash out of the track. Crashing will cause you to pass a number of turns equal to your speed, which is doubled if the crash happened in a particularly difficult spot, as marked on the board. Rolling a &amp;quot;NO&amp;quot; will force you to pass the turn while rolling a &amp;quot;FREE&amp;quot; gives you an extra turn. Rolling 0 means that the car simply keeps it speed and direction for that turn (with possibly disastrous results if it happens many times in a row).&lt;br/&gt;&lt;br/&gt;Hitting a green spot on the track causes you to pick a Turbo card (good) while hitting one of the more plentiful yellow spots means a Danger card (bad, surprisingly). Hitting one of the red spots gives you a free move, which is somewhat limited by the blue lines that divide the track into shorter &amp;quot;race areas&amp;quot;.&lt;br/&gt;&lt;br/&gt;After a pre-agreed number of laps, the winner is the player who first manages to cross the finish line AND bring their car to a controlled full stop.&lt;br/&gt;&lt;br/&gt;The game promises to give &amp;quot;a surprisingly realistic feel of racing&amp;quot;.&lt;br/&gt;&lt;br/&gt;The game comes with the basic track of Monza. Additional tracks have been published for Hockenheim, Las Vegas and Monaco (1983).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hiOqwtq4IN4BY0f7A38cE_xgO8g=/fit-in/200x150/pic2926984.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3VFZ8yEbLb2CZTwEmfjWBOWPJQk=/0x0/pic2926984.jpg</image>
+						
+												<boardgameversion objectid="296775">Formula 1 vauhtipeli</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="11063">Nelostuote Oy</boardgamepublisher>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.16667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.849837</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

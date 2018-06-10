@@ -1,0 +1,74 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="187750">
+			<yearpublished>1956</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Alician Draughts</name>
+							<name  sortindex="1">Jeu de Dames Aliciennes</name>
+									
+			<description>The rules of Alician Draughts were first described in the book &amp;quot;Les Jeux de dames non orthodoxes et autres jeux &amp;agrave; pions&amp;quot; in 1956.&lt;br/&gt;&lt;br/&gt;The standard game of International Draughts is played using two boards, A and B. The normal array is on board A; board B starts empty.&lt;br/&gt;&lt;br/&gt;In turn, each player makes a single move on either board following these three rules:&lt;br/&gt;&lt;br/&gt;1. A move must be legal on the board where it is played.&lt;br/&gt;2. A piece can only move or capture if the corresponding destination square on the other board is vacant.&lt;br/&gt;3. After moving, the piece is transfered to the corresponding square on the other board.&lt;br/&gt;&lt;br/&gt;The original board (not the &amp;quot;mirror board&amp;quot;) decides the game:&lt;br/&gt;&lt;br/&gt;Whenever a player has no piece left on the original board, he loses even within a move. A move consists of up to three stages: Movement (which can be a jump in case of a capture), Transfer of the moved piece to the other board, Removal of any captured pieces. That is, if at any stage a player had no pieces left on the original board, he lost the game.&lt;br/&gt;&lt;br/&gt;In practice, it is possible to play Alician Draughts on a single board, if the checkers have a piece of felt glued to their bottom. When a piece (men or king) is transferred to the &amp;quot;mirror board&amp;quot;, it is just turned upside down.&lt;br/&gt;&lt;br/&gt;Despite many similarities Alician Draughts is in fact a very different game. While in International Draughts more than 50% of all tournament games today end in a draw, in Alician Draughts a draw is impossible.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="290865">First edition</boardgameversion>
+															<boardgamedesigner objectid="65493">V. R. Parton</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

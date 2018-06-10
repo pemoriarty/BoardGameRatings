@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="153119">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Pazaak</name>
+									
+			<description>Pazaak is a card game developed as a mini-game in the Star Wars: Knights of the Old Republic video game series. It is similar to Blackjack, or 21, where the two players take turns drawing cards from a communal draw pile, trying to get their total as close to 20 without going over.&lt;br/&gt;&lt;br/&gt;However, each player also has a side deck of 10 cards, with 4 of those cards being used each game. The side deck cards can be used to modify the player's current total, i.e. adding 1, subtracting 3, etc. The side deck is built by each player before the game, but at the beginning of the game, only the top 4 cards become the player's hand.&lt;br/&gt;&lt;br/&gt;Each player takes turns, which includes drawing a card from the draw pile, adding that to the other cards already drawn/played by the player, then the player may either play a card from their hand, end turn, or stand (not taking and not playing anymore cards).&lt;br/&gt;&lt;br/&gt;Each round ends with each player either standing or when a player ends his turn with a total over 20 (similar to busting in blackjack).&lt;br/&gt;&lt;br/&gt;The person closest to 20 without going over wins the round. In the case of a tie, neither player wins. After one player wins 3 times, the game is over.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wIrixhGoCxS2FYxj-BJZ7C-Ip1w=/fit-in/200x150/pic1936800.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_e17GErk9B3bCNcHhkUIDG8fvKM=/0x0/pic1936800.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgameversion objectid="312278">Artscow edition</boardgameversion>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="229329">Cloud City CCD edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+																													<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamefamily objectid="5602">Star Wars</boardgamefamily>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>5.92857</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.82108</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>3</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -53,7 +53,7 @@ for game in range(n_games):
         simple_color = simplify_color(closest_name)
         
         box_colors.loc[len(box_colors)] = [id_tmp, sat, r, g, b, closest_name, simple_color]
- 
+        print("Done" + str(game))
     #hist = find_histogram(clt)
     #bar = plot_colors2(hist, clt.cluster_centers_)
     #plt.axis("off")
@@ -62,7 +62,7 @@ for game in range(n_games):
     #plt.show()
 
 #file_name = "/media/pamela/Stuff/BoardGameXMLs/compiled_info"# + str(game_ids[id]) + ".txt"
-file_name = "box_colors"
+file_name = "Data/box_colors"
 fileObject = open(file_name,'wb') 
 pickle.dump(box_colors,fileObject)   
 fileObject.close()  

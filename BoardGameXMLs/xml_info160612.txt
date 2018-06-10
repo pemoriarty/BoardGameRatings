@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="160612">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Myriades</name>
+									
+			<description>Myriades is the little brother of the game Infinito, a game with a theoretical infinite number of moves per turn.&lt;br/&gt;&lt;br/&gt;Myriades is a two-player game, played on a 10x10 square board.&lt;br/&gt; First player own the black stones, second player the white stones. Each player has 50 stones, numbered from 0 to 49. Such numbers represents the value of the stones.&lt;br/&gt;&lt;br/&gt;Grey stones are neutral, without value and, once placed on the board, they are immovable.&lt;br/&gt;&lt;br/&gt;Players move alternately, starting with the player controlling the white stones. Each turn consists of two actions, performed in this order:&lt;br/&gt;&lt;br/&gt;1. OPTIONAL MOVE: you can move a stone of your color as a Queen&amp;rsquo;s moves in Chess, i.e. any number of cells horizontally, vertically or diagonally.&lt;br/&gt;If your stone ends its move (orthogonally and diagonally) next to one enemy stone whose value is less, and your stone wasn&amp;rsquo;t (orthogonally and diagonally) next to that enemy stone to start its move, replace any friendly stone &amp;ndash; but the stone just moved &amp;ndash; on the board with a neutral gray stone. In one move you can end up close to more enemy stones whose value are less than your stone, in that case you replace your stones with neutral stones for each of those stones.&lt;br/&gt;When you remove your stones from the board, those stones will be available for future placements.&lt;br/&gt;&lt;br/&gt;2. COMPULSORY PLACEMENT: you must place a stone onto any empty space.&lt;br/&gt;&lt;br/&gt;The game ends when the board is full, whoever has the least sum of his values wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/fOa_YR7G2FudzXtdqzMMV5ocGUU=/fit-in/200x150/pic2047090.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/f4LKiqLVLQ0IrWECA6VGmV2gMR8=/0x0/pic2047090.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="242810">First edition</boardgameversion>
+															<boardgamedesigner objectid="41103">Matteo Perlini</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameimplementation objectid="160609" inbound="true">Infinito</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

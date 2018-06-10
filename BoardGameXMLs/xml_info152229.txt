@@ -1,0 +1,97 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="152229">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Line or Colour</name>
+							<name  sortindex="1">Tangion</name>
+									
+			<description>Line or Colour is a combinatorial game for two players. Originally named Tangion (a contraction for Tangent+Tension), the game involves two perpendicular winning conditions that can tie players&amp;acute; brains in knots. It was derived from Domina 4 by adding a n-in-a-row victory condition and removing piece movement.&lt;br/&gt;&lt;br/&gt;The name was later changed to the more friendly Line or Colour.&lt;br/&gt;&lt;br/&gt;MATERIAL&lt;br/&gt;&lt;br/&gt;49 rounded counters in 7 colours (7 each)&lt;br/&gt;25 white rings&lt;br/&gt;25 black rings&lt;br/&gt;The official edition includes a board for faster setup.&lt;br/&gt;&lt;br/&gt;RULES&lt;br/&gt;&lt;br/&gt;There are 2 types of gameplay: basic and advanced.&lt;br/&gt;&lt;br/&gt;Basic version:&lt;br/&gt;&lt;br/&gt;Arrange 25 counters in 5 colours (5 each) in a square according to the figure:&lt;br/&gt;&lt;br/&gt;12345&lt;br/&gt;45123&lt;br/&gt;23451&lt;br/&gt;51234&lt;br/&gt;34512&lt;br/&gt;&lt;br/&gt;Player 'White' (Starting player) takes all the white rings. Player 'Black' takes all the black rings.&lt;br/&gt;&lt;br/&gt;Starting with 'White' players alternate turns 'claiming' a counter by placing a ring of their colour on it. The pie rule is enabled.&lt;br/&gt;&lt;br/&gt;The game ends when a player either forms a row of at least 4 consecutive rings of his colour (orthogonal or diagonal) or has claimed 4 counters of the same colour. That player wins the game.&lt;br/&gt;&lt;br/&gt;Advanced version:&lt;br/&gt;&lt;br/&gt;Arrange 49 counters in 7 colours (7 each) according to the figure:&lt;br/&gt;&lt;br/&gt;1234567&lt;br/&gt;6712345&lt;br/&gt;4567123&lt;br/&gt;2345671&lt;br/&gt;7123456&lt;br/&gt;5671234&lt;br/&gt;3456712&lt;br/&gt;&lt;br/&gt;Same rules apply, but a player wins by making a line of 5 or claiming 5 counters of the same colour. The pie rule doesn't seem to be necessary in this version.&lt;br/&gt;&lt;br/&gt;Variant for both versions: Arrange the counters randomly.&lt;br/&gt;&lt;br/&gt;AKNOWLEDGEMENTS&lt;br/&gt;&lt;br/&gt;Special thanks to Stephen Tavener for playtesting and Cameron Browne for playtesting and game name brainstorming, that unlocked its publication almost a year after its inception.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5iKokQ6TOFEI3RgJjz3Z-fOInyE=/fit-in/200x150/pic2061847.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qpG-CfjUdIyBz0Ali5LMB12TY90=/0x0/pic2061847.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="227856">Nestorgames edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+																						<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>26</usersrated>
+					<average>7.19615</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.38272</stddev>
+					<median>0</median>
+					<owned>19</owned>
+					<trading>1</trading>
+					<wanting>1</wanting>
+					<wishing>6</wishing>
+					<numcomments>7</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

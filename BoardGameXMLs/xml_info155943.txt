@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="155943">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Stac</name>
+									
+			<description>An abstract game played on a 5x5 grid. Each player has one pawn that they will use to build and claim stacks as well as block their opponent from doing the same. The goal is to be the first player to claim 4 three-high stacks or be the player with the most stacks when no further moves can be made.&lt;br/&gt;&lt;br/&gt;The rules of Stac are quite simple:&lt;br/&gt;&lt;br/&gt;1) On your turn, move your pawn horizontally or vertically, like a rook in Chess.&lt;br/&gt;&lt;br/&gt;2) Choose whether or not you want to carry a token with you to build a stack.&lt;br/&gt;&lt;br/&gt;3) If you carry a token to a stack of two tokens, you claim that stack.&lt;br/&gt;&lt;br/&gt;4) Claim 4 three-high stacks to win.&lt;br/&gt;&lt;br/&gt;Sounds easy, right? Well it would be if your opponent wasn't racing to do the exact same thing. For some reason, your opponent wants to win so they'll use their pawn to block your moves and carry tokens across the board to create and claim stacks too.&lt;br/&gt;&lt;br/&gt;Awards:&lt;br/&gt;2014 2 Player Print and Play Best Abstract Game&lt;br/&gt;2014 2 Player Print and Play Best Language-Independent Game - 2nd Place&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;     Boardspace.net (real time, AI option)&lt;br/&gt;     AiAi (AI only)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/PJln9GUwwQKCHRMt57UxQcTNBr0=/fit-in/200x150/pic2544273.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jvlI1Nm9VCLWl2pGWln-8Pa0SFM=/0x0/pic2544273.jpg</image>
+						
+												<boardgamefamily objectid="39749">5x5 grid</boardgamefamily>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="234277">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="69557">Daniel Isom</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="25588">Simple Design Publishing</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>48</usersrated>
+					<average>7.1375</average>
+					<bayesaverage>5.52624</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10305" bayesaverage="5.52624" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="614" bayesaverage="5.57724" />
+												
+											</ranks>
+					
+					<stddev>1.90664</stddev>
+					<median>0</median>
+					<owned>69</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>18</wishing>
+					<numcomments>22</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

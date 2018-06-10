@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="150580">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Spexxx</name>
+									
+			<description>Spexxx could be described as a combination of Yahtzee and Connect Four, but it's more than that. After a player rolls the 5 dice, (s)he places a cube on the board in the square that represents the rolled dice combination. The objective is to score the most points by placing cubes in squares. When players place three or more of their own cubes in a row, they score points. They can take a risk by aiming for difficult combinations and score more points accordingly. The game ends when all players' last cubes are placed on the board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/h4jGUXlHV93Py2ze1nfbm0ytj6A=/fit-in/200x150/pic1832967.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0tDUF3fYcYWlRxViYUe-XNy2EiI=/0x0/pic1832967.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="71775">Ruben Dijkstra</boardgamedesigner>
+																																																		<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																																				<boardgamepodcastepisode objectid="190554">HLG-EXTRA 3: Spiel 2016 Deel 1</boardgamepodcastepisode>
+															<boardgamedesigner objectid="71776">Ruurd Lammers</boardgamedesigner>
+															<boardgameartist objectid="71777">Choi Wan Lee</boardgameartist>
+															<boardgameversion objectid="224924">Multilingual first edition</boardgameversion>
+																													<boardgameexpansion objectid="211183">Spexxx: Extension</boardgameexpansion>
+															<boardgamepublisher objectid="26196">Waterfall Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>260</usersrated>
+					<average>6.4395</average>
+					<bayesaverage>5.63822</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5040" bayesaverage="5.63822" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="293" bayesaverage="5.89425" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1128" bayesaverage="5.69193" />
+												
+											</ranks>
+					
+					<stddev>1.34591</stddev>
+					<median>0</median>
+					<owned>272</owned>
+					<trading>6</trading>
+					<wanting>5</wanting>
+					<wishing>31</wishing>
+					<numcomments>62</numcomments>
+					<numweights>15</numweights>
+					<averageweight>1.5333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

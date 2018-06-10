@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="176559">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Soul of Princess</name>
+							<name  sortindex="1">姫騎士の魂</name>
+									
+			<description>A game of bluffing and deduction.&lt;br/&gt;Box Included:&lt;br/&gt;8 cards number from 1~8:&lt;br/&gt;   1. Princess (whit)&lt;br/&gt;   2. Rats (Black)&lt;br/&gt;   3. Slime (Black)&lt;br/&gt;   4. Dog (whit)&lt;br/&gt;   5. Beast (Black)&lt;br/&gt;   6. Knight (whit)&lt;br/&gt;   7. King (whit)&lt;br/&gt;   8. Cat (Black)&lt;br/&gt;&lt;br/&gt;10 Score Coins (2 sides, black and white)&lt;br/&gt;1 Sand Timeer&lt;br/&gt;1 Menu&lt;br/&gt;&lt;br/&gt;Shuffle.&lt;br/&gt;   2 players: Each player draw 2, left 4 cards on table and 2 face up, 2 down.&lt;br/&gt;   3 players: Each player draw 2, left 2 cards on table and 1 face up, 1 down.&lt;br/&gt;   4 players: Each player draw 2, left 0 card on table.&lt;br/&gt;&lt;br/&gt;Follow steps:&lt;br/&gt;   1. Play a card from hands(face down).&lt;br/&gt;   2. Turn the cards over in the same time, if any player play &amp;quot;princess,&amp;quot;  he must trade &amp;quot;princess&amp;quot; with another player hands of his choice.&lt;br/&gt;   3. The card that he trade, must play on table immediately. If he win, he can get a extra score coin.&lt;br/&gt;   4. The card with larger number on table can trade with any card on table of his choice(opinion), If he traded and win, he can get a extra score coin.&lt;br/&gt;   5. Shows hands, and compare score.&lt;br/&gt;   6. Score base on hands + the card that you played. Play with higher score win.&lt;br/&gt;&lt;br/&gt;Japanese description:&lt;br/&gt;王国と魔の軍勢の戦いの中、&lt;br/&gt;その身を捧げる姫騎士の運命は･･･&lt;br/&gt;ポーカーライクな頭脳＆心理戦ゲーム&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ogQDYBezXhOAai9LgZYkFJLjyRM=/fit-in/200x150/pic2550022.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/-CBSCG29btgi_c9TKiTmveCVv2c=/0x0/pic2550022.jpg</image>
+						
+												<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="10634">Country: Japan</boardgamefamily>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameversion objectid="271842">Japanese edition</boardgameversion>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="79429">Pesu Nabeno</boardgamedesigner>
+															<boardgameartist objectid="79430">Tama Nabeno</boardgameartist>
+															<boardgamepublisher objectid="27252">Nabeno Kikaku</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>12</usersrated>
+					<average>5.05</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.07826</stddev>
+					<median>0</median>
+					<owned>26</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>10</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

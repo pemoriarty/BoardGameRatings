@@ -1,0 +1,98 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="191916">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Cubeo</name>
+									
+			<description>A fast-paced abstract dice game for two players where no die is thrown.&lt;br/&gt;&lt;br/&gt;Although this game is referred as board game, no board is needed. Just a bit of flat surface and set of distinguishable 6-sided dice, six for each player.&lt;br/&gt;&lt;br/&gt;The main objective of both players is to put dice on the surface, create a single formation from them and either block an enemy to be unable to perform any of valid actions, or be the first player available to merge the dice whose value is more than 6.&lt;br/&gt;&lt;br/&gt;At the beginning, both players put one die with one dot upwards on the playing surface in a way that both dice touch each other by a side. Then during each turn a player can perform one of the following actions:&lt;br/&gt;&lt;br/&gt;1. Add a die into game - newly added die cannot touch any of the opponents' dice,&lt;br/&gt;2. Move the die around the existing formation - die moves around the perimeter of the remaining dice on surface,&lt;br/&gt;3. Merge the dice - player removes one die of his own and promotes an adjacent dice by value of the removed one. &lt;br/&gt;   a) There must be at least 3 dice of yours in play to do this!&lt;br/&gt;&lt;br/&gt;Every player must keep in mind that every die on surface has to be adjacent to at least one another die.&lt;br/&gt;&lt;br/&gt;Whenever a situation occurs that player on turn can merge dice whose value is larger than 6, he becomes a winner.&lt;br/&gt;A player also wins, if his opponent on turn cannot perform any of the actions mentioned above.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/9iNExEAZMh8d2YNN7rp7atBkQ8U=/fit-in/200x150/pic2864589.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0TvuLS1daKSMw2PuIRdZpaKqZbg=/0x0/pic2864589.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgameversion objectid="297708">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="88381">Marek Kolcun</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>24</usersrated>
+					<average>7.18708</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.878638</stddev>
+					<median>0</median>
+					<owned>56</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>42</wishing>
+					<numcomments>16</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

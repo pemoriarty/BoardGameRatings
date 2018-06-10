@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="144228">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">FUBA</name>
+									
+			<description>FUBA is a tactical football simulation. This smart, fast-paced game takes on the world's number one sport from a tactical view. In FUBA, you become the head coach and choose the strategy for your team. Control the midfield with 4-5-1? Use two strikers to secure the win with 4-4-2? The choice is yours.&lt;br/&gt;&lt;br/&gt;The game is resolved in less than an hour, which is quicker than a real match. FUBA is played in turns, with an average of 23 turns per each half. The player controlling the ball chooses the action his team will go for, then both players roll the dice to see the outcome. After this, both players move their team according to the tactics they have chosen. There is always a small chance of random events such as a yellow or red card.&lt;br/&gt;&lt;br/&gt;Thanks to the flexible rubber board, FUBA can easily be played outdoors, too.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lTbmxLkavRxCtgx2b9-mH9q99oM=/fit-in/200x150/pic1768375.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zcq4Apr3PPlO7H3a9oDqjgTWYK8=/0x0/pic1768375.jpg</image>
+						
+																			<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="212394">English first edition</boardgameversion>
+																													<boardgameartist objectid="68991">Kim Paqvalin</boardgameartist>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5551">Sports: Football / Soccer</boardgamefamily>
+															<boardgamepublisher objectid="25405">U&amp;P Games</boardgamepublisher>
+															<boardgamedesigner objectid="68990">Hannu Uusitalo</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>80</usersrated>
+					<average>7.35187</average>
+					<bayesaverage>5.61471</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5552" bayesaverage="5.61471" />
+												
+											</ranks>
+					
+					<stddev>1.44165</stddev>
+					<median>0</median>
+					<owned>129</owned>
+					<trading>2</trading>
+					<wanting>29</wanting>
+					<wishing>68</wishing>
+					<numcomments>26</numcomments>
+					<numweights>13</numweights>
+					<averageweight>2.6923</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

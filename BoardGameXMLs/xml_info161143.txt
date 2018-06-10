@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="161143">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>2</playingtime>
+			<minplaytime>2</minplaytime>
+			<maxplaytime>2</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">CyberPsi: Agenda</name>
+									
+			<description>INTRODUCTION&lt;br/&gt;&lt;br/&gt;Futuristic game of missions and agenda for two to three players set in a dystopian CyberGlam city hovering in the upper atmosphere.&lt;br/&gt;&lt;br/&gt;Players are leaders of different factions vying for control of the hovering city of Lithica.&lt;br/&gt;&lt;br/&gt;GAME OBJECTIVE&lt;br/&gt;&lt;br/&gt;The object of the game is to complete missions that allow you to realize your faction's agenda. Doing so allows you to expend resources in order to add buildings, statuary, bill boards, and groups throughout the city. These installations expand your influence, giving you control of city sectors.&lt;br/&gt;&lt;br/&gt;The first player to control a predetermined number of city sectors wins the game.&lt;br/&gt;&lt;br/&gt;ENACTING AGENDA&lt;br/&gt;&lt;br/&gt;At the start of the game, each player selects a faction-oriented Agenda Card to put into play. This is called enacting an agenda.&lt;br/&gt;&lt;br/&gt;Agenda Cards list five different types of Missions your agents must complete. Once they have completed three or more different missions from the list, the agenda is considered realized, and you are awarded a specified number of Influence Points. These points can then be spent on placing installations on the game board.&lt;br/&gt;&lt;br/&gt;COMPLETING MISSIONS&lt;br/&gt;&lt;br/&gt;Mission Cards list five different types of Actions our agents must complete while in neutral- or enemy-controlled locations. Once three or more different actions from the list are completed, the mission is completed. You gain the listed benefits from the mission, and the Mission Card is then placed face-up under the Agenda Card (for scorekeeping purposes).&lt;br/&gt;&lt;br/&gt;COMPLETING ACTIONS&lt;br/&gt;&lt;br/&gt;Each agent in the game has a primary function; such as: eliminating, seducing, capturing, corrupting, or turning enemy agents. To perform its function, an agent must be in a city sector, or sector location, that contains a keyword matching the same keyword on the agent's card.&lt;br/&gt;&lt;br/&gt;CyberPsi utilizes polyhedron. An action attempt may require you to roll 1d4 or 1d12 to determine how many Action Points an agent musters when attempting the action. Asset Cards that are equipped to the agent sometimes adds to an action attempt's Action Point total.&lt;br/&gt;&lt;br/&gt;Thus, a Rank 1 Hacker in a location with the keyword INTERFACE may try to &amp;quot;Steal (1) Data Card from target enemy Database.&amp;quot; The Action Point Value needed to successfully perform this action is (12). In order to be able to reach this, you roll 1d8 (as indicated on his card) and add (2) Action Points provided by his &amp;quot;Jac-in-Boxx&amp;quot; Asset Card and (1d4) Action Points provided by his &amp;quot;Virtualization Headgear&amp;quot; Asset Card. The total number of Action Points your Hacker gets is (13), which exceeds the target value of (12). Thus, the action attempt is successful, and your agents enables you to take anyone Data Card from the target player's Database.&lt;br/&gt;&lt;br/&gt;RESOURCES&lt;br/&gt;&lt;br/&gt;During the course of the game, you will assign agents to undertake activities that generate resources. You can then expend these resources to put other agents into play, to buy Asset Cards, and to unlock cards that can be placed into your draw deck.&lt;br/&gt;&lt;br/&gt;COMBAT&lt;br/&gt;&lt;br/&gt;Combat in CyberPsi is resolved by rolling each combatant's die type (d4, d6, d8, etc), adding any modifiers provided by Asset Cards, and comparing the results to each other. Damage is determined and applied, and the battle continues or ends, depending on combat situational factors.&lt;br/&gt;&lt;br/&gt;Some agents have Combat Abilities that impact attack order, targeting, and damage.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamepublisher objectid="27546">Armchair Adventuring, Inc.</boardgamepublisher>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamedesigner objectid="76063">Roger Alan Cotton</boardgamedesigner>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="243724">First Edition</boardgameversion>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,81 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="145026">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Align</name>
+									
+			<description>Align is an abstract strategy game whose defining feature is perhaps its multiplicity of win conditions, each subtly related to the others.  It is in fact this feature which provides much of the tactical and strategic richness of the game.  The game is played on a hex grid whose most typical form is a 5x5 hex shaped board minus its center position, but variants can be played on a 4x4 hex board, or a 7x7 or 8x8 diamond shaped board (ala Hex).&lt;br/&gt;&lt;br/&gt;There are two kinds of pieces, creatively named &amp;quot;smalls&amp;quot; and &amp;quot;bigs&amp;quot;.  The former are inert, and are placed on the board in any empty position.  The latter are mobile pieces which must first be on boarded onto friendly smalls.  Bigs may capture, as well as be captured (neither applies to smalls).  This occurs via a custodian capture mechanism, whereby two friendly bigs capture an enemy which is sandwiched between them in a line.&lt;br/&gt;&lt;br/&gt;The game can be won in any of the following ways:  through the creation of a &amp;quot;snaking&amp;quot; six-in- a-row of uncovered smalls, a snake which may &amp;quot;meander&amp;quot; but not double back on itself; a snaking six-in a-row of bigs; a mixed, big and small, chain, connecting two non adjacent sides of the board (in the 5x5 variant); a similar chain surrounding the board center; or finally, through the capture of three enemy bigs.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="213917">First edition</boardgameversion>
+															<boardgamedesigner objectid="3936">Rich Gowell</boardgamedesigner>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamefamily objectid="4220">n in a row</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>5.50649</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50649" />
+												
+											</ranks>
+					
+					<stddev>3.77477</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

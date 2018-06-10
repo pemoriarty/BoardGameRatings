@@ -1,0 +1,113 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="158888">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>150</playingtime>
+			<minplaytime>150</minplaytime>
+			<maxplaytime>150</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Race to Berlin</name>
+							<name  sortindex="1">Wyścig do Berlina</name>
+									
+			<description>Race to Berlin game portrays the last months of World War II in Europe. In the West, after the landing in Normandy and forcing German troops to withdraw from France, the armies of the Western Allies stand over the borders of the Reich, being ready to get across Rhine. In the East, mighty Red Army preparing itself to final offensive, which goal is the capital of Nazi Germany, Berlin. Both Allies are set for the race to ultimate victory.&lt;br/&gt;&lt;br/&gt;Players take role of the commanders of the Soviet and Allied armies competing for prize winners: the capital of the Third Reich. Additionally, they command German armies, standing in front of their ally (player directing the Red Army commands German troops on the Western Front and player, who controls the Western Allies commands German troops on the Eastern Front), whose task is to delay their troops on its way to Berlin. In addition, the players has to seize the strategically important regions of Germany, which later will be administered by occupying troops.&lt;br/&gt;&lt;br/&gt;Result of this race creates post-war spheres of influence by the winners of the Second World War, which influence the balance of power during the Cold War.&lt;br/&gt;&lt;br/&gt;Game components&lt;br/&gt;- A map showing areas of Western and Central Europe, where the last battles of World War II took place in 1945.&lt;br/&gt;- Front line markers (2&amp;times;25 pieces), to show the Western and Soviet front lines, which shifted during the operations.&lt;br/&gt;- Logistics blocks (2&amp;times;8 pieces), which form the basis of players&amp;rsquo; military maneuvers on the board.&lt;br/&gt;- Action cubes (2&amp;times;20 pieces), to mark the number of actions made by a logistics block.&lt;br/&gt;- Military unit tokens (40 pieces) with historical markings of armies (Germany, Western Allies) or fronts (Red Army). In the game there are three forces: the Western Allies, the Soviets and the Germans. German units have a current strength, shown by their current orientation. A German unit&amp;rsquo;s current strength is the number on the side facing west (for Western Front German units) or east (for Eastern Front German units). As a German unit takes losses, its block is rotated to show its new status. The West and the Soviets were allied in the war, but compete against each other as players in the game. Germany has no ally, and is divided into the Western Front and the Eastern Front.&lt;br/&gt;- Special action tokens (16 pieces), for use during combat.&lt;br/&gt;- Fortification tokens (16 pieces) in 3 types: improved positions, regular fortifications, and major fortifications. These represent important defensive lines, e.g. the Siegfried Line (Westwall), Pomeranian Wall, etc.&lt;br/&gt;- Victory point tokens (2&amp;times;4 pieces) for areas of crucial importance for military operations (e.g. Essen, Breslau, etc.).&lt;br/&gt;&lt;br/&gt;All game elements are limited by the physical amount provided.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WOokZo4fP_BNMhLWer-_nBAh0XQ=/fit-in/200x150/pic2735588.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/97etSZ0XS2YUUIiJ14pQCGd7g6I=/0x0/pic2735588.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="7041">Krzysztof Dytczak</boardgamedesigner>
+															<boardgameversion objectid="239569">First edition</boardgameversion>
+																						<boardgameartist objectid="75119">Damian Korczewski</boardgameartist>
+															<boardgamepublisher objectid="7382">Leonardo Games</boardgamepublisher>
+																													<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>69</usersrated>
+					<average>7.63478</average>
+					<bayesaverage>5.61682</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5546" bayesaverage="5.61682" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="872" bayesaverage="6.10457" />
+												
+											</ranks>
+					
+					<stddev>1.12247</stddev>
+					<median>0</median>
+					<owned>198</owned>
+					<trading>4</trading>
+					<wanting>31</wanting>
+					<wishing>73</wishing>
+					<numcomments>22</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.875</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

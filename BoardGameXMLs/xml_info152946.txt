@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="152946">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Uptake</name>
+									
+			<description>EQUIPMENT: The game uses 24 cards from a standard card deck: one red suit and one black suit, minus aces and jokers.&lt;br/&gt; These are shuffled and placed face-up in a 5x5 grid, the central space being left open.&lt;br/&gt;&lt;br/&gt;GAME PLAY: One player uses black, the other red. Turns are alternate. The goal is to capture an opponent's cards using one of yours of lower rank, until you have the highest ranked card remaining.&lt;br/&gt;&lt;br/&gt;CAPTURES: are only valid if they take place in the same row or column as the card you want to use, the card-to-be-captured also must be of higher rank. For example, 2black can capture 5red, but 5red cannot capture anything 5 and lower. A capture is performed by placing your card on your opponent's, and then removing the captured card from the field.&lt;br/&gt;&lt;br/&gt;WINNING: When no legal moves are possible, the person with the highest ranked card remaining wins the round, and earns the point value of the card. Kings are 13 points, Queens 12, Jacks 11. For example, if 8black and 5red remain, black wins and gets 8 points. If the round ends in a tie, then the person who made the last move wins. The game continues until someone gets 30 points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WvN-KIVoee1lBF2GQlOxezlCNmk=/fit-in/200x150/pic2949510.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1DunqrarZDzpTJUNcIf7jQyp9GM=/0x0/pic2949510.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="752">GAMES Magazine</boardgamepublisher>
+															<boardgameversion objectid="229051">GAMES Magazine edition</boardgameversion>
+															<boardgamedesigner objectid="8026">Stephen Sniderman</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

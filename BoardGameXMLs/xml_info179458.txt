@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="179458">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>50</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>50</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Luddit</name>
+									
+			<description>Name: Luddit. Mix of &amp;quot;Ludit&amp;quot; (Latin: &amp;quot;He plays&amp;quot;) and &amp;quot;Luddite&amp;quot; (-&amp;quot;against the machines&amp;quot;- cause the ultimate purpose of this game -project- is to be impossible to solve by computers; i really hope some of you would want to join forces with me in this holy crusade  ).&lt;br/&gt;&lt;br/&gt;Characteristics: the leading objective was (is) to make a game which could be as difficult as possible to solve for the computers (maybe...impossible?). By the moment, contrarily to my interest, the rules are by far not simple, ...im trying to improve that. I tried to achieve complexity by giving to the game a very chaotical and recursive nature. The board is defined in order to try to let an action to have infinite repercussion in the unfolding of the game. Its notable that, strictly speaking, the board doesnt have borders (as may be seen in the rules), so there is no &amp;quot;preferential positions&amp;quot;. Its interesting to note that the definition of &amp;quot;loop&amp;quot; does lead to literally infinite possibilities of combination in some cases (its definition is precisely the feature that has leadme to think that this game can be much more than just &amp;quot;dificult&amp;quot; for the computer...). And its interesting to note that wining implies to reduce this possibilities to one, that is, to reduce the number of possibilities, which is the thermodynamic definition of negative entropy. So you have to play with chaos to bring order.&lt;br/&gt;&lt;br/&gt;Equipment: &lt;br/&gt;- 9x9 Torus board with 9x9 square grid (a standard 9x9 GO board can be used, obeying the mechanic of the torus board), 18xwhite stones, 18xblack stones. (i decided this size mostly to facilitate initial playtesting. Of course the game can be played in larger boards)&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;1 - Game is played on the intersections. Adjacency is defined as orthogonal and diagonal (i.e. every intersection point has 8 adjacent points).&lt;br/&gt;&lt;br/&gt;2 - There can&amp;rsquo;t be more than 18 total stones on the board at any time.&lt;br/&gt;&lt;br/&gt;3 - We will call &amp;quot;piece&amp;quot; to every single stone or loop. A piece is of the color of a player if every stone that composes it is of the color of that player. A piece is &amp;quot;at range&amp;quot; of another if they shares at least one of their adjacent intersections.&lt;br/&gt;&lt;br/&gt;4 - We will call &amp;quot;loop&amp;quot; to every group of pieces (regardless of color) where every piece is at range of at least another two pieces of the group (nothing prevents loops for sharing pieces). Its implied by the rule, but to clarify: If a piece A is composed by all the stones that composes a piece B, and viceversa, then A and B are the same piece, and B cant be considered has &amp;quot;another&amp;quot; piece for A, and viceversa.&lt;br/&gt;&lt;br/&gt;5 - We will say that a piece is &amp;quot;conditioned&amp;quot; to a player if its of the player color or if any group of pieces (regardless of color) that are at range of that piece conforms a loop.&lt;br/&gt;&lt;br/&gt;6 - A player makes a &amp;quot;move&amp;quot; by either:&lt;br/&gt;a) Taking a single stone of his color from the outside of the board and placing it in an empty place over the board.&lt;br/&gt;b) Removing a piece that is conditioned to him from the board.&lt;br/&gt;c) Removing a piece that is conditioned to him from the board, and then placing it back on an empty space on the board. If the removed piece is a loop, it has to remain a loop when placed back on the board.&lt;br/&gt;&lt;br/&gt;7 - At the start of the game the board is empty. Each player is assigned a color. Black plays first. Then both players play alternately. In his turn, a player can do one or two moves, if he has no legal move to perform the game ends, and he loses.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="276929">First edition</boardgameversion>
+															<boardgamedesigner objectid="76806">Lisandro Iaffar</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

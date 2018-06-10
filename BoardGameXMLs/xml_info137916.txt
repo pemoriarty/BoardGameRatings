@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="137916">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Eximo</name>
+									
+			<description>Eximo is a member of the Checkers family designed on 1 February 2013.&lt;br/&gt;  &lt;br/&gt;The game has orthogonal and diagonal movement and capture. There are no kings, only men. Men can jump without capturing. When a man reaches the last row, it frees another man.&lt;br/&gt;&lt;br/&gt;Eximo is played on a 8x8 square grid. Each player starts with 16 pieces placed in predetermined locations on their side of the board (see image).&lt;br/&gt;&lt;br/&gt;OBJECT&lt;br/&gt;Capture all your opponent's pieces by jumping over them, or stalemate the opponent so he has no moves.&lt;br/&gt;&lt;br/&gt;TURN&lt;br/&gt;In each turn, a player can make one of the two actions: move or capture.&lt;br/&gt;&lt;br/&gt;MOVE&lt;br/&gt;A checker can move in 3 directions: forward or diagonally forward (north, north-east or north-west).&lt;br/&gt;&lt;br/&gt;There are two types of moves: ordinary move and jumping move.&lt;br/&gt;&lt;br/&gt;- ORDINARY MOVE: a checker moves to a (forward or diagonally forward) adjacent and empty square.&lt;br/&gt;- JUMPING MOVE: a checker jumps over a (forward or diagonally forward) adjacent friendly piece if the next square in the same direction is empty, placing the jumping checker on the next empty square. If the same player's checker can continue moving by jumping another friendly piece then it must do so. During the jumping move that checker cannot capture.&lt;br/&gt;&lt;br/&gt;When there is more than one way to jump, the player may choose which piece to jump with, and which jumping option or sequence of jumps to make. The jumping sequence chosen is not required to be the one which maximizes the number of jumps; however, a player must make all available jumps in the sequence chosen.&lt;br/&gt;&lt;br/&gt;CAPTURE&lt;br/&gt;A checker can capture in 5 directions: forward, diagonally forward, right or left (north, north-east, north-west, east or west).&lt;br/&gt;&lt;br/&gt;- CAPTURE: a checker jumps over a (forward, diagonally forward, right or left) adjacent opponent's piece if the next square in the same direction is empty, placing the jumping checker on the next empty square. The opponent's piece is removed from the board immediately. If the same player's checker can continue capturing by jumping another opponent's piece then it must do so. Capturing is mandatory, and you must keep capturing as long as it is possible.&lt;br/&gt;&lt;br/&gt;As in the jumping move, the player chooses freely which jumping sequence to take.&lt;br/&gt;&lt;br/&gt;ON THE LAST ROW&lt;br/&gt;When a checker reaches the other end of the board, it is removed from the board immediately and the player gets two extra-moves to make instantly: dropping two new checkers in any empty square in his own first two rows, except in the four squares on the sides.&lt;br/&gt;(The drop zone for Black: b1, c1, d1, e1, f1, g1, b2, c2, d2, e2, f2, g2; for White: b8, c8, d8, e8, f8, g8, b7, c7, d7, e7, f7, g7).&lt;br/&gt;&lt;br/&gt;If a checker reaches the other end of the board and there isn't any empty square in the drop zone, the player loses that piece. If there is just one empty square in the drop zone, the player gets only one drop.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DmVbCGhuYmEuOxN9oD6E4ik8BqE=/fit-in/200x150/pic1583402.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RURBYX79jswfQ4M2653pWeBvlj8=/0x0/pic1583402.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+																						<boardgameversion objectid="199014">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamepublisher objectid="14917">Il Fogliaccio degli Astratti</boardgamepublisher>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamedesigner objectid="41103">Matteo Perlini</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>6.42857</average>
+					<bayesaverage>5.506</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.506" />
+												
+											</ranks>
+					
+					<stddev>2.3819</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

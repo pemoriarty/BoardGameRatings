@@ -1,0 +1,118 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="142691">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">World Series of Yahtzee</name>
+									
+			<description>World Series of Yahtzee is a simultaneous rolling game using the familiar Yahtzee mechanic.  Tiles showing hand objectives are shuffled and 8 are placed on the raised board.  Players receive unlimited simultanteous rolls until one of them presses the electronic lockout device, giving their opponents 5 seconds to also signal in to claim a tile.  When the music ends, scoring players may pick a tile that matches their hand and then keep the associated points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/U3eVecBanymMMpKzmWmTK4cgGwE=/fit-in/200x150/pic1698809.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mDb-YHNn7JJ63u3EuWmil87qE8U=/0x0/pic1698809.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1072">Electronic</boardgamecategory>
+															<boardgameversion objectid="209142">First Edition</boardgameversion>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+															<boardgamefamily objectid="5066">Yahtzee</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>71</usersrated>
+					<average>6.12676</average>
+					<bayesaverage>5.53322</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9673" bayesaverage="5.53322" />
+												
+											</ranks>
+					
+					<stddev>1.43801</stddev>
+					<median>0</median>
+					<owned>220</owned>
+					<trading>9</trading>
+					<wanting>1</wanting>
+					<wishing>9</wishing>
+					<numcomments>25</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

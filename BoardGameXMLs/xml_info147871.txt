@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="147871">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Flipside</name>
+									
+			<description>2 player game played on the spaces of an 8x8 board.&lt;br/&gt;&lt;br/&gt;Materials&lt;br/&gt;&lt;br/&gt;4 chess pawns, 2 black and 2 white.&lt;br/&gt;64 bi-colored reversi pieces.&lt;br/&gt;&lt;br/&gt;Definition&lt;br/&gt;piece = a bi-colored reversi piece&lt;br/&gt;&lt;br/&gt;Setup&lt;br/&gt;&lt;br/&gt;Set the empty board between the players.&lt;br/&gt;&lt;br/&gt;Set two like color pawns diagonally adjacent to each other onto two of the four center squares on the board.&lt;br/&gt;&lt;br/&gt;Set two pieces at each row and column along the outer edge of the board .&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;One player plays black the other white.&lt;br/&gt;&lt;br/&gt;Black moves first, then play alternates.&lt;br/&gt;&lt;br/&gt;On your turn,&lt;br/&gt;&lt;br/&gt;Move a friendly pawn in a straight line orthogonally or diagonally ending the movement on an empty square. Then take a piece from the outer edge of the board, flip it to your color and move this piece in a straight line orthogonally ending the move on an empty space. The piece last moved and the pawn last moved should now be in line of sight of each other.&lt;br/&gt;&lt;br/&gt;When both players pass in succession the game ends.&lt;br/&gt;&lt;br/&gt;Restrictions&lt;br/&gt;&lt;br/&gt;- A piece is not in line of sight with a pawn if another pawn or piece is in-between them.&lt;br/&gt;&lt;br/&gt;- Neither a pawn nor a piece may jump over another pawn or piece.&lt;br/&gt;&lt;br/&gt;Objective&lt;br/&gt;&lt;br/&gt;The player with the most pieces in his color on the board at the end of the game is the winner.&lt;br/&gt;&lt;br/&gt;The inspiration for this game comes from Walter Zamkauskas Amazons&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="62677">Rey Alicea</boardgamedesigner>
+															<boardgameartist objectid="62677">Rey Alicea</boardgameartist>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="219780">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.46667</average>
+					<bayesaverage>5.50408</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.50408" />
+												
+											</ranks>
+					
+					<stddev>3.16789</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

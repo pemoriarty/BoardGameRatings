@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="174695">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Cargotrain Duel</name>
+									
+			<description>Cargotrain Duel is a promotional board game which serves to promote the full game Cargotrain. The game is just a double sided sheet of paper with instructions on one side and the board on the other.&lt;br/&gt;&lt;br/&gt;Each player manages a fleet of trains. The goal of the game is to gather most points. On a player's turn she rolls five dice. Then the players takes alternatively one dice each other, starting with the active player untill both take two. The last 5th die is a support die.&lt;br/&gt;&lt;br/&gt;The active player moves first. She chooses wich die will be the  resource die and which will be the route die. Then she takes an amount of resources equal to the sum of resource and support dice. Now she can move a train on route which corresponds to route die. In order to do that she must spend her resources in amount indicated on route fields. If a player reaches or passes through a field with factory, then&lt;br/&gt;&lt;br/&gt;When both players took their turns there is a scoring round. Each player scores the points indicated on the route fields, on which their trains are staying now.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bNxSGADWFtb-M2VedKHhthhgXnE=/fit-in/200x150/pic2444036.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aldcSUSBRo-H7RfcWbJErV4qm-k=/0x0/pic2444036.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="268714">First edition</boardgameversion>
+															<boardgamepublisher objectid="28014">Game Fabrica</boardgamepublisher>
+															<boardgamedesigner objectid="6948">Krzysztof Matusik</boardgamedesigner>
+															<boardgameartist objectid="6948">Krzysztof Matusik</boardgameartist>
+															<boardgamefamily objectid="11505">Promotional Board Games</boardgamefamily>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>4.4</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.0198</stddev>
+					<median>0</median>
+					<owned>31</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

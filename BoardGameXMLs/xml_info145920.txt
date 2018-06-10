@@ -1,0 +1,99 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="145920">
+			<yearpublished>1989</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Mimikry</name>
+									
+			<description>Mimikry is an abstract game in which you place shells on a grid of  6x6, leaving 3 spaces blank.&lt;br/&gt;Next to every (horizontal) row is a number indicating how many spaces the shells in that row may move (horizontally, vertically and diagonally) to being able to end their movement on a blank space. Every shell that has moved to a blank space gets 'buried' under the sand (thus the 'mimicry' theme) and is turned over.&lt;br/&gt;The game ends when all the shells have been turned over after being buried into a blank space. In that case you win.&lt;br/&gt;When there are still shells left that can't be moved to a blank space you lose.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/t3v90SdD0FSsIaYQ3dW6g-5KI2Y=/fit-in/200x150/pic1737476.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gdyKC9f3-9HH_cNCyIYvyAzbp04=/0x0/pic1737476.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameartist objectid="36883">Heiner Buck</boardgameartist>
+															<boardgameversion objectid="215463">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="256">Heinz Meister</boardgamedesigner>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamepublisher objectid="99">Otto Maier Verlag</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>5.25</average>
+					<bayesaverage>5.49861</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.49861" />
+												
+											</ranks>
+					
+					<stddev>1.14564</stddev>
+					<median>0</median>
+					<owned>41</owned>
+					<trading>7</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

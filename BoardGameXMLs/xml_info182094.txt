@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="182094">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">BANG! A párbaj</name>
+							<name  sortindex="1">BANG! El Duelo</name>
+							<name  sortindex="1">BANG! Pojedynek</name>
+							<name primary="true" sortindex="1">BANG! The Duel</name>
+							<name  sortindex="1">Бэнг! Дуэль</name>
+									
+			<description>BANG! The Duel is a two-player version of BANG! in which each player chooses a certain number of characters from a personal deck, with one deck containing lawful individuals and the other one outlaws; the more characters you choose, the longer the game. Each player starts with two characters in play, with one being in front of the other.&lt;br/&gt;&lt;br/&gt;Each player also has an individual deck of action cards, with the lawful player specializing in drawing cards and the outlaw player specializing in tricks. Players take turns playing cards, trying to take out the opponent's characters. As you do, new characters come into play, and whoever eliminates all of their opponent's characters first wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cHpS57ESohH4fSqfOjQIlWE6xO8=/fit-in/200x150/pic3068558.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qw5bT6CL71okHzYxjfX36s9aErY=/0x0/pic3068558.png</image>
+						
+												<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgamecategory objectid="1055">American West</boardgamecategory>
+																																				<boardgameaccessory objectid="202738">BANG! The Duel: Player Mats</boardgameaccessory>
+															<boardgamepublisher objectid="9074">Bard Centrum Gier</boardgamepublisher>
+															<boardgameartist objectid="61989">Rossana Berretta</boardgameartist>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepublisher objectid="917">dV Giochi</boardgamepublisher>
+															<boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+																						<boardgameversion objectid="281619">English/Italian first edition</boardgameversion>
+															<boardgameversion objectid="336149">French first edition</boardgameversion>
+															<boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
+															<boardgameversion objectid="315259">German first edition</boardgameversion>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
+															<boardgameversion objectid="303675">Hungarian First Edition</boardgameversion>
+															<boardgameversion objectid="313520">Polish edition</boardgameversion>
+																																											<boardgameversion objectid="303999">Russian first edition</boardgameversion>
+															<boardgamedesigner objectid="1581">Emiliano Sciarra</boardgamedesigner>
+															<boardgameversion objectid="303163">Spanish first edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																													<boardgameimplementation objectid="3955" inbound="true">BANG!</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>421</usersrated>
+					<average>6.53093</average>
+					<bayesaverage>5.75221</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3515" bayesaverage="5.75221" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1343" bayesaverage="5.76295" />
+												
+											</ranks>
+					
+					<stddev>1.50961</stddev>
+					<median>0</median>
+					<owned>1055</owned>
+					<trading>41</trading>
+					<wanting>14</wanting>
+					<wishing>111</wishing>
+					<numcomments>72</numcomments>
+					<numweights>11</numweights>
+					<averageweight>1.9091</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

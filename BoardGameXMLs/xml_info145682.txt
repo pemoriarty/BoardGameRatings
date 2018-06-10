@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="145682" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Candy Crush</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Try to clear out the candies by combining three or more of them vertically or horizontally. Each candy can be swapped vertically or horizontally with it's neighboring candy. Candy combinations of more than three will combine into special candies that have additional powers such as clearing out entire rows or columns. Each level in Candy Crush has it's own requirements to pass.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogameseries objectid="22938">Candy Crush</videogameseries>
+															<videogamedeveloper objectid="23844">King Digital Entertainment plc (King)</videogamedeveloper>
+															<videogamepublisher objectid="23844">King Digital Entertainment plc (King)</videogamepublisher>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="5084">Web Browser</videogameplatform>
+															<videogameversion objectid="214943">Web Browser edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6.5</average>
+					<bayesaverage>5.55591</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="5.55591" />
+												
+							
+														<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="6.02817" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

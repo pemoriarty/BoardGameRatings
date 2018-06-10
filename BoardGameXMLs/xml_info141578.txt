@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="141578">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Kolorowy zawrót głowy</name>
+									
+			<description>Small family game based on a idea of tic-tac-toe. Players are placing tiles with different shapes and colours trying to make a line of three of the same shape or colour.&lt;br/&gt;&lt;br/&gt;The game is based on a pattern building and memory element cause players need to remeber what tiles their opponents took from the supply.&lt;br/&gt;&lt;br/&gt;It includes a fun team variant for four players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ew25LRuXeoW6rG8OwPLg7nvK3ic=/fit-in/200x150/pic1662767.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KDMM_aj7VRbO3m_ZHrJuKv-35u8=/0x0/pic1662767.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamepublisher objectid="7496">Egmont Polska</boardgamepublisher>
+															<boardgamefamily objectid="24847">Egmont Polska &quot;Dobra gra w dobrej cenie&quot; series</boardgamefamily>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamedesigner objectid="21812">Filip Miłuński</boardgamedesigner>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="207122">Polish first edition</boardgameversion>
+																						<boardgameartist objectid="22517">Maciej Szymanowicz</boardgameartist>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>18</usersrated>
+					<average>5.22222</average>
+					<bayesaverage>5.49221</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.49221" />
+												
+											</ranks>
+					
+					<stddev>1.08298</stddev>
+					<median>0</median>
+					<owned>26</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>5</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,77 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="154275" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Qwirkle</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;This is the 2013 iOS version of the Qwirkle boardgame.&lt;br/&gt;&lt;br/&gt;The game features 108 blocks with six different shapes in six different colors. Players begin the game with 6 blocks. The start player plays blocks of a single matching attribute (color or shape but not both). Thereafter, a player adds blocks adjacent to at least one previously played block. The blocks must all be played in a line and match, without duplicates, either the color or shape of the previous block.&lt;br/&gt;&lt;br/&gt;Players score one point for each block played plus all blocks adjacent. It is possible for a block to score in more than one direction. If a player completes a line containing all 6 shapes or colors, an additional 6 points are scored. The player then refills his hand to 6 blocks.&lt;br/&gt;&lt;br/&gt;The game ends when all tiles have been distributed, and one player plays all of his remaining blocks, earning a 6 point bonus. The player with the high score wins.&lt;br/&gt;&lt;br/&gt;This implementation features 4 levels of AI opponents, and the ability to customize the colors of the blocks.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/it6quN3SAhQr0Is5JV-gimbDO_o=/fit-in/200x150/pic2249814.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sa3tkfQTGdPusRkNGvINijakhW4=/0x0/pic2249814.png</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogameversion objectid="231162">iOS edition</videogameversion>
+															<videogameplatform objectid="6826">iPad</videogameplatform>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogamedeveloper objectid="2883">MindWare</videogamedeveloper>
+															<videogamepublisher objectid="2883">MindWare</videogamepublisher>
+															<videogamemode objectid="2310">Network Multiplayer</videogamemode>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamegenre objectid="2158">Strategy</videogamegenre>
+															<videogamebg objectid="25669" inbound="true">Qwirkle</videogamebg>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>8.07143</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2738" bayesaverage="5.9415" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.562429</stddev>
+					<median>0</median>
+					<owned>366</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>36</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

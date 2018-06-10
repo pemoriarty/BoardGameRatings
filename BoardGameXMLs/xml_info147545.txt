@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="147545">
+			<yearpublished>1838</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>10</maxplayers>
+			<playingtime>5</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>5</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Hazards</name>
+									
+			<description>A gambling game played during Colonial times in the US.  It plays with 2 standard dice and is similar to Craps.&lt;br/&gt;&lt;br/&gt;The roller first rolls to establish their target number, rerolling until they get 5/6/7/8/9.  Then there is a special roll, on which there are extra instant-win and instant-loss values.  Then there is a roll to determine the hazard number (rerolling if the target number comes up).  Then the roller keeps rolling until they hit their target (and win) or the hazard (and lose).&lt;br/&gt;&lt;br/&gt;During the special second roll, there are extra rules:&lt;br/&gt;- if you roll your target number, you win&lt;br/&gt;- if you roll 12, you win if your target number is 8&lt;br/&gt;- if you roll 11, you win if your target number is 7&lt;br/&gt;- if you roll 2 or 3, you lose&lt;br/&gt;&lt;br/&gt;The odds are stacked solidly in the roller's favor.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgameversion objectid="218993">Colonial edition</boardgameversion>
+															<boardgamefamily objectid="46060">Craps</boardgamefamily>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="10+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>2</average>
+					<bayesaverage>5.49675</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.49675" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

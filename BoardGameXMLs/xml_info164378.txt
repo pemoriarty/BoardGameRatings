@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="164378">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Jaque!</name>
+									
+			<description>This game is composed by 30 cards divided in 6 suits, each one with 5 cards (values 2-3-4-5-7) &lt;br/&gt;On a game only 3 suits will be used, randomly or chosen by the players.&lt;br/&gt;&lt;br/&gt;On a round each player receives 7 cards and the remaining one is kept hidden.&lt;br/&gt;On a turn the starting player plays a card on his side of the player area. The other player must play a card of the same suit if possible. I he doesn&amp;rsquo;t have one he must play a card with the same number.  The highest card wins the movement and the winner will begin the next movement with any card of his hand.&lt;br/&gt;If a player can&amp;rsquo;t play a valid card (suit, then number) then the round is over and the other player wins the round. The winner will receive points equal to the multiplication of the value in his last card played and the number of movements in the round.&lt;br/&gt;A round can also end when all 14 cards are played. Then the winner of the last movement  will earn points equal to the value of the hidden card (no multiplication here).&lt;br/&gt;&lt;br/&gt;The game ends when someone has 50 points or more. That player will be the winner.&lt;br/&gt;&lt;br/&gt;There are also some cards with special abilities for and advanced game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/P3-CjsSaEw4o6tcjbEC1KV_3L80=/fit-in/200x150/pic2220289.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kwPwka8mToWowXoze_KyTfMEvNw=/0x0/pic2220289.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="77629">Pablo Céspedes</boardgamedesigner>
+															<boardgamedesigner objectid="77630">Víctor Hugo Cisternas</boardgamedesigner>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="249417">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameimplementation objectid="224081">Jaque Quince</boardgameimplementation>
+																						<boardgamepublisher objectid="27936">Ludoismo</boardgamepublisher>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.892679</stddev>
+					<median>0</median>
+					<owned>17</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

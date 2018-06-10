@@ -1,0 +1,103 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="165737">
+			<yearpublished>2014</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>4</playingtime>
+			<minplaytime>4</minplaytime>
+			<maxplaytime>4</maxplaytime>
+			<age>4</age>
+
+							<name primary="true" sortindex="1">Flip 9</name>
+							<name  sortindex="1">Flip9</name>
+									
+			<description>Flip 9 is a solitaire game that challenges a player to organize numbered cards in a row from 9-1.&lt;br/&gt;&lt;br/&gt;To start, the player shuffles the cards and lays them out in a row. For the first turn, the player takes any two cards, swaps them, then sums these numbers (summing the numbers again if the sum is larger than nine). For example, if the player swaps cards 6 and 8, their sum is 14, and the sum of those numbers is 5. For the next swap, the player must swap card 5 with some other card. If the player places the cards in descending order from 9-1, she wins.&lt;br/&gt;&lt;br/&gt;The cards in Flip 9 are double-sided, though, and should you become at ease with the basic game, you can advance to the harder one. To start, flip half the cards to show the other side, then lay them out in a row. Each turn you'll still swap two cards, with every swap after the first having one of the cards being determined by the sum of the previous swap &amp;mdash; but now you must also flip over the two cards being swapped. To win, you must place the cards in descending order from 9-1 and have the same side face up on all of the cards.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vyOLKzj6nMmbuSNUN6OL9qX2uTo=/fit-in/200x150/pic2233884.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G-ZBD1G6LQT_23jrpHpSDUgkxdA=/0x0/pic2233884.png</image>
+						
+												<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="64330">Chih-Fan Chen</boardgamedesigner>
+															<boardgameartist objectid="64330">Chih-Fan Chen</boardgameartist>
+															<boardgamepodcastepisode objectid="163557">DJ94: Flip City (2014) Chen Zhifan</boardgamepodcastepisode>
+															<boardgamepublisher objectid="22905">Homosapiens Lab</boardgamepublisher>
+															<boardgameversion objectid="252219">Multilingual first edition</boardgameversion>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>73</usersrated>
+					<average>6.05753</average>
+					<bayesaverage>5.53502</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9523" bayesaverage="5.53502" />
+												
+											</ranks>
+					
+					<stddev>1.19599</stddev>
+					<median>0</median>
+					<owned>139</owned>
+					<trading>16</trading>
+					<wanting>4</wanting>
+					<wishing>28</wishing>
+					<numcomments>35</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

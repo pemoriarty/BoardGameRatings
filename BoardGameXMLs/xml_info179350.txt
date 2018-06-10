@@ -1,0 +1,129 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="179350">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Bretagne</name>
+									
+			<description>Bretagne is a worker placement game in which players must build lighthouses on the coast of Bretagne in the 19th century.&lt;br/&gt;&lt;br/&gt;On each turn, players take actions, such as using resources to build; trading resources, cards or money; or hiring workers or engineers.&lt;br/&gt;&lt;br/&gt;Players can choose to score points immediately when they build or decide not to do it and to participate in the final evaluation of the lighthouse. If they score immediately, they have guaranteed themselves some points; if they wait, they could reach higher scores or send workers to harbors to earn extra bonuses for the remaining rounds.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/cODV6g9uFHdmroiY4Tp7SiU4cbE=/fit-in/200x150/pic2578047.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/KzgyVOLJYeeWmRsXla8fhQkPk0A=/0x0/pic2578047.jpg</image>
+						
+																			<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																													<boardgameartist objectid="60472">Alan D&#039;Amico</boardgameartist>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamepodcastepisode objectid="164741">Episode 81 -- Eating Cake in Bellevue (Part B, the Second)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="169818">Episode 83 -- All Ramshackle and Worry Free</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="164039">Essen 2015 - Post Scriptum</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="172714">Garrett&#039;s Games 500 - Best of 2015 + Contest Resolution!</boardgamepodcastepisode>
+																																																									<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepodcastepisode objectid="174316">Heavy Cardboard Episode 41 – Lignum</boardgamepodcastepisode>
+															<boardgameversion objectid="276705">Multilingual first edition</boardgameversion>
+																						<boardgamepublisher objectid="14362">Placentia Games</boardgamepublisher>
+															<boardgamepublisher objectid="4222">Post  Scriptum</boardgamepublisher>
+															<boardgamedesigner objectid="64411">Marco Pozzi</boardgamedesigner>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																						<boardgameartist objectid="3718">Paolo Vallerga</boardgameartist>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>386</usersrated>
+					<average>6.71334</average>
+					<bayesaverage>5.80395</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3114" bayesaverage="5.80395" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1166" bayesaverage="5.88939" />
+												
+											</ranks>
+					
+					<stddev>1.31877</stddev>
+					<median>0</median>
+					<owned>612</owned>
+					<trading>27</trading>
+					<wanting>37</wanting>
+					<wishing>169</wishing>
+					<numcomments>107</numcomments>
+					<numweights>34</numweights>
+					<averageweight>3.3824</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

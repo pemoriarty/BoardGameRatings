@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="146204">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Ruckus: The Goblin Army Game</name>
+									
+			<description>Ruckus: The Goblin Army Game is a tactical war game that introduces an innovative army formation mechanic to create fast, intense combat for 2-4 players. Players choose from one of four unique Goblin Guilds, each with a special set of skills and tactical advantages, and build their army to destroy anyone that stands in their way. As battles are won and lost, players gain Victory cards, Victory Points, or the ability to upgrade their army. Who will be victorious, the mighty Fighters, the cunning Thieves, the powerful Clerics, or the magical Necromancers?&lt;br/&gt;&lt;br/&gt;To begin the game, players set up the Camp, the area of the game board housing Victory Point Tokens, action markers, the Kicker card deck, the Victory card deck, and the Upgrade deck. Next, players choose a Goblin Guild consisting of 25 units. In addition to the starting units of each Guild, players have 12 draft points to use in order to draft additional units to create their own unique army. All remaining units that are not drafted are combined to create the Upgrade deck.&lt;br/&gt;&lt;br/&gt;Players will compete in battle to gain 5 valuable Victory cards. Players will secretly set up their army's battle formation behind a Battle Screen. After shuffling their unit cards,  players will draw 5 cards into their hand. These 5 cards are then set up into a battle formation consisting of 1-3 units in the first row, 1-2 units in the second, and an optional 1 unit in the third combat row. Once all players' formations are complete, players remove their Battle Screens and combat begins. Players may first recruit any available units to their army, and may then choose to activate 1 combat skill per round. Next, damage between opposing Guilds is declared and resolved. As units take damage and are defeated, they are removed from combat and are placed in a player&amp;rsquo;s discard pile. Combat continues until one Guild is left standing, with the winner gaining the first Victory card and its benefits. Players who lose the combat round may chose to upgrade a unit in their army. Once the 5th Victory card has been won, the player with the most Victory Points is declared the winner.&lt;br/&gt;&lt;br/&gt;Who will be victorious? Will it be the Mighty Fighters, the Cunning Thieves, the Powerful Clerics, or the Magical Necromancers? Choose your guild! Draft your army! Destroy your enemies!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/apPDTR2GXzYdmQWaTFz6vK16M8E=/fit-in/200x150/pic1989262.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/zOoe_FE7dIAnebI_bLZ_oK2JQbg=/0x0/pic1989262.png</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1116">Comic Book / Strip</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgameversion objectid="216000">English first edition</boardgameversion>
+																						<boardgamepublisher objectid="18929">Goblin Army Games</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgameartist objectid="55872">Rob Hughes</boardgameartist>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+															<boardgameartist objectid="53289">Mike Lubbers</boardgameartist>
+															<boardgamedesigner objectid="53288">Matthew Papa</boardgamedesigner>
+															<boardgameartist objectid="61285">Rocky Ponce</boardgameartist>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>83</usersrated>
+					<average>6.23193</average>
+					<bayesaverage>5.52498</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10411" bayesaverage="5.52498" />
+												
+											</ranks>
+					
+					<stddev>1.84583</stddev>
+					<median>0</median>
+					<owned>278</owned>
+					<trading>28</trading>
+					<wanting>3</wanting>
+					<wishing>24</wishing>
+					<numcomments>25</numcomments>
+					<numweights>7</numweights>
+					<averageweight>2.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

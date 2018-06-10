@@ -1,0 +1,136 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="167849">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>13</age>
+
+							<name  sortindex="1">Alchemicy: Pierścień przysługi</name>
+							<name  sortindex="4">De Alchemist: Ring van Voorrecht</name>
+							<name  sortindex="5">Die Alchemisten: Helferring</name>
+							<name primary="true" sortindex="1">Alchemists: Ring of Favor</name>
+							<name  sortindex="1">Alchimistes: Anneau de Faveur</name>
+							<name  sortindex="1">Alchimisti: Anello del Favore</name>
+									
+			<description>Ring of Favor is a promotional mini-expansions for Alchemists. It consists of a single artifact card, with the following text:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;        Ring of Favor (Artifact - Cost 4 - VP 2)&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;    &lt;br/&gt;         You can double the effect of a favor card you play. Limit once per round.&lt;br/&gt;&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;It was distributed with the game during Essen Spiel 2014, Cannes 2015, and the 2015 Dice Tower Kickstarter.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Jv5qvFw_3s_S892qK0Eb959yd_I=/fit-in/200x150/pic2584709.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/FndeZlaFPHYtqPjMRJ16Vdd-reo=/0x0/pic2584709.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameartist objectid="12692">David Cochard</boardgameartist>
+															<boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+															<boardgamepublisher objectid="7345">Czech Games Edition</boardgamepublisher>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="298310">Dutch first edition</boardgameversion>
+															<boardgameversion objectid="256758">English first edition</boardgameversion>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="267504">French first edition</boardgameversion>
+															<boardgamepublisher objectid="2862">The Game Master BV</boardgamepublisher>
+															<boardgameversion objectid="285934">German first edition</boardgameversion>
+															<boardgamepublisher objectid="8923">IELLO</boardgamepublisher>
+															<boardgameversion objectid="260296">Italian first edition</boardgameversion>
+															<boardgamedesigner objectid="75718">Matúš Kotry</boardgamedesigner>
+															<boardgameversion objectid="275385">Polish first edition</boardgameversion>
+															<boardgamefamily objectid="23532">Promotional Cards</boardgamefamily>
+															<boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+															<boardgameexpansion objectid="161970" inbound="true">Alchemists</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>166</usersrated>
+					<average>7.56748</average>
+					<bayesaverage>5.75096</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.75096" />
+												
+											</ranks>
+					
+					<stddev>1.51563</stddev>
+					<median>0</median>
+					<owned>1236</owned>
+					<trading>104</trading>
+					<wanting>27</wanting>
+					<wishing>56</wishing>
+					<numcomments>73</numcomments>
+					<numweights>7</numweights>
+					<averageweight>3.2857</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

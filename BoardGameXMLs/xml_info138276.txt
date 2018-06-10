@@ -1,0 +1,79 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="138276">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Colorfast</name>
+									
+			<description>Colorfast is an abstract game where players each represent a primary color.  On their turn, players will either place a cube of their color, or convert an existing cube to another color that is one away from the current one on the color spectrum (red, orange, yellow, green, blue and purple).  The object is to get five cubes in a row made of your primary color and any derivative secondary colors (e.g. red, purple and orange).  When (re)placing cubes, players may not choose a space that is adjacent (orthogonally or diagonally) to one of the last two pieces played on.&lt;br/&gt;&lt;br/&gt;Rules are changed slightly for the 2 player game, having each player also take a turn with a neutral color (yellow).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="772">(Unpublished)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="199678">First edition</boardgameversion>
+															<boardgamedesigner objectid="53735">Brian Homan</boardgamedesigner>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>7.7</average>
+					<bayesaverage>5.51018</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51018" />
+												
+											</ranks>
+					
+					<stddev>0.6</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

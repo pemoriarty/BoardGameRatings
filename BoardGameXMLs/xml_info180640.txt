@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="180640">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Qaanaaq</name>
+									
+			<description>Qaanaaq is a game of palindromic pattern building for two or three players.&lt;br/&gt;&lt;br/&gt;Needed: Paper and pen&lt;br/&gt;&lt;br/&gt;Goal: To have the most points when the board fills.&lt;br/&gt;&lt;br/&gt;Setup: Draw a 5x5 grid on the paper with the center square blacked out, or an 8x8 grid with the center four squares blacked out. For two players one player plays 'Q', the other plays 'A', and the letter 'N' is neutral. For three players each plays one of the three letters.&lt;br/&gt;&lt;br/&gt;Gameplay: On each turn, players write one of each letter into any empty cell on the board (the center is not a playable cell). When the board fills up then the scoring begins.&lt;br/&gt;&lt;br/&gt;Scoring: Palindromes are checked along the horizontal and vertical axes.  For each palindrome containing your letter, score points equal to the palindrome's size minus the number of opponent letters therein. The neutral letter 'N' (2p only) is not considered an opponent letter. In addition, palindromes may also contain sub-palindromes that are scored separately.&lt;br/&gt;&lt;br/&gt;Examples: The palindrome QAQ for the Q-player is worth 2pts. However, the palindrome QNQ is worth 3pts. The player with the highest score wins.&lt;br/&gt;&lt;br/&gt;The palindrome QQQQ is worth 4-points, but also contains sub palindromes QQQ, QQQ, QQ, QQ, and QQ, making it worth a total of 16-points.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="278905">First edition</boardgameversion>
+															<boardgamedesigner objectid="73574">Michael Fogus</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

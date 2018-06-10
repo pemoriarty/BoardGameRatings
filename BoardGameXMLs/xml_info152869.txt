@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="152869">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Up and Down</name>
+									
+			<description>Up and Down is played with one or two Mystique Decks.&lt;br/&gt;&lt;br/&gt;Setup:&lt;br/&gt;Shuffle the cards and divide them into equal high face down piles for each player.&lt;br/&gt;&lt;br/&gt;Each player takes the top 4 cards of his pile and places them face up in front of him.&lt;br/&gt;&lt;br/&gt;Game rules:&lt;br/&gt;The player with the highest card (card number) starts by playing this card. If there is a tie (when playing with two decks) the player with the golden card start.&lt;br/&gt;&lt;br/&gt;After playing a card, players always refill their hand by placing the top card of their pile face up next to their other face up cards.&lt;br/&gt;&lt;br/&gt;Starting with the second card, only cards fitting the following criteria can be played:&lt;br/&gt;&lt;br/&gt;The card shares the colour or the suit of the last card played&lt;br/&gt;The card number (1-5) is higher/lower than or equal to the number of the last card played (at the beginning of the game it must be higher or equal)&lt;br/&gt;&lt;br/&gt;If a player does not have a fitting card, he must pass. But if he can play a card, he must.&lt;br/&gt;    &lt;br/&gt;If all players successively have passed, the direction (higher/lower) is changed.&lt;br/&gt;&lt;br/&gt;In the rare case that all players still have to pass again, the player with the highest card begins as if a new game would start.&lt;br/&gt;&lt;br/&gt;End of the game:&lt;br/&gt;As soon as a player would be allowed to refill his hand, but has no more card in his draw pile, he wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="36066">Markus Hagenauer</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamefamily objectid="22331">Mystique</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameversion objectid="228940">nestorgames Mystique Deck edition</boardgameversion>
+															<boardgameartist objectid="34490">Chechu Nieto</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

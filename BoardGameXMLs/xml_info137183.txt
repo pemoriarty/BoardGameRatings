@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="137183" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">GX4000</name>
+									
+			<description>The GX4000 was Amstrad's short-lived attempt to enter the games console market. The console was released in Europe in 1990 and was an upgraded design based on the still-popular CPC technology. The GX4000 shared hardware with Amstrad's CPC Plus computer line, which were released concurrently, this allowed the system to be compatible with the majority of CPC Plus software.&lt;br/&gt;The GX4000 was both Amstrad's first, and only attempt at entering the console market. Whilst having enhanced graphics capabilities, it failed to gain popularity in the market, and was quickly discontinued, selling 15,000 units in total.&lt;br/&gt;James Harding of The Times said that the console was &amp;quot;promptly outgunned by the 16-bit Sega Mega Drive and Super Nintendo &amp;ndash; it failed the cardinal test of entrepreneurship: stamina.&amp;quot;&lt;br/&gt;&lt;br/&gt;Technical specifications&lt;br/&gt;&lt;br/&gt;Amstrad GX4000 PCB.&lt;br/&gt;CPU: 8/16-bit Zilog Z80A at 4 MHz&lt;br/&gt;Asic: Support for sprites, soft scrolling, programmable interrupts, DMA Sound&lt;br/&gt;Resolution&lt;br/&gt;Mode 0: 160x200 pixels with 16 colours&lt;br/&gt;Mode 1: 320x200 pixels with 4 colours&lt;br/&gt;Mode 2: 640x200 pixels with 2 colours&lt;br/&gt;Colour&lt;br/&gt;Depth: 12-bit RGB&lt;br/&gt;Colours available: 4096&lt;br/&gt;Maximum colours onscreen: 32 (16 for background, 15 for sprites, 1 for border)&lt;br/&gt;Maximum onscreen colour counts can be increased in all Modes through the use of interrupts.&lt;br/&gt;Sprites&lt;br/&gt;Number: 16 high resolution sprites per line&lt;br/&gt;Sizes: 16x16 (each sprite can be magnified 2x or 4x in X and Y)&lt;br/&gt;Colours: Each sprite can use up to 15 colours&lt;br/&gt;Memory&lt;br/&gt;RAM: 64 kB&lt;br/&gt;VRam: 16 kB&lt;br/&gt;ROM: 32 kB&lt;br/&gt;Audio&lt;br/&gt;3-channel stereo; AY-3-8912 chip&lt;br/&gt;DMA&lt;br/&gt;IO&lt;br/&gt;Audio output, 2x Digital controller connectors, Analog controller port (IBM standard), Lightgun connector (RJ11), Audio and RGB Video output (8-pin DIN), Power supply socket from external PSU, Power supply socket from monitor.&lt;br/&gt;&lt;br/&gt;Source: Wikipedia, &amp;quot;Amstrad GX4000&amp;quot;, available under the CC-BY-SA License.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwmfg objectid="14423">Amstrad</videogamehwmfg>
+															<videogamehwversion objectid="197538">Amstrad GX4000</videogamehwversion>
+															<videogamehardwarecategory objectid="2150">Console</videogamehardwarecategory>
+															<videogamehardware objectid="5203" inbound="true">Amstrad CPC</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

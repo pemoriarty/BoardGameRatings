@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="163170">
+			<yearpublished>2015</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Firefly: Shiny Dice</name>
+									
+			<description>Firefly: Shiny Dice lasts three rounds, and whoever has the most points after three rounds wins. In each round, each player takes one or more turns. On your first turn in a round, you roll all fifteen dice &amp;mdash; seven crew dice (brown), three passenger dice (white), and five bad guy dice (black) &amp;mdash; then place them in the appropriate places on your display. Crew members and passengers all have unique abilities, some of which involve the option of rerolling dice.&lt;br/&gt;&lt;br/&gt;After any rerolls, you reveal your mission for the round. If you have dice on your board that match the numbers given at the top of the mission, then you're unaffected by the bold line &amp;mdash; Bushwhacked, Gorram, etc. &amp;mdash; immediately underneath. Otherwise, you might be forced to end your go after the current turn, forced to take an additional turn, or affected in some other way. After revealing and resolving the mission, the bad guys strike:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Each Badger die holds one supply die.&lt;br/&gt;    Each Saffron die moves a crew/passenger die of your choice to the cargo hold.&lt;br/&gt;    If Niska dice are present, KO a crew/passenger die of your choice.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;After this, you then use any remaining crew and passenger dice to defeat the bad guys, which generally require one point of damage to defeat. Remove them all, and you score 1 VP for each type of bad guy defeated, with half-points for each supply delivered; fail to remove them, and you score no points for the defeated bad guys. If you clear the turn, you can opt to take another turn &amp;mdash; rolling all the bad guy dice and all non-KOed crew and passenger dice &amp;mdash; or end your turn. If you opt to continue, but then fail to defeat the bad guys, you lose all the VP that you earned previously on that turn.&lt;br/&gt;&lt;br/&gt;After three rounds, whoever has the most VPs wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/utGavVSGRAqiaZWa9gnPIDIipL8=/fit-in/200x150/pic2578174.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/tptLYkVgaP1OqK4LwcKqKoJWm8o=/0x0/pic2578174.jpg</image>
+						
+												<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="247214">English first edition</boardgameversion>
+															<boardgamepodcastepisode objectid="157438">Ep. 13.5 Board Game Blitz</boardgamepodcastepisode>
+																													<boardgamedesigner objectid="76997">Scott Morris</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamepodcastepisode objectid="223795">TGT 069: Games Based on Existing IPs</boardgamepodcastepisode>
+															<boardgamefamily objectid="9733">TV Series: Firefly</boardgamefamily>
+															<boardgamepublisher objectid="517">Upper Deck Entertainment</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>437</usersrated>
+					<average>5.57064</average>
+					<bayesaverage>5.51663</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11191" bayesaverage="5.51663" />
+												
+											</ranks>
+					
+					<stddev>1.7536</stddev>
+					<median>0</median>
+					<owned>1167</owned>
+					<trading>57</trading>
+					<wanting>18</wanting>
+					<wishing>129</wishing>
+					<numcomments>145</numcomments>
+					<numweights>18</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

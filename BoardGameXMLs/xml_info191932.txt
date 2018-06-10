@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="191932">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Exposed</name>
+									
+			<description>Exposed is a quick 2-6 player game in which you're a thief who has snuck into a boat party with the aim of stealing as many wallets as you can without anyone exposing who you are. If you steal enough wallets or you're the last player left unexposed, you win!&lt;br/&gt;&lt;br/&gt;The playing space is a grid of tiles depicting the guests at the party, such as a fireman, physicist, or accountant. You're one of these guests, but no one knows which one is you. Each guest has a wallet, which you can steal from them if you are adjacent. Each move you make gives away information about who you are, so you have to decide how aggressive or sneaky you want to be so that your identity can remain hidden while getting as many wallets as you can.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mKwzvnGTJha24wG0qUr0kB3qqFQ=/fit-in/200x150/pic2954794.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/z7jtHPKZSxVsuk8Ct1gZyDf7tA4=/0x0/pic2954794.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="297738">English first edition</boardgameversion>
+															<boardgameexpansion objectid="202376">Exposed Character Pack: Tools of the Trade</boardgameexpansion>
+															<boardgameartist objectid="88382">Adam Foreman</boardgameartist>
+																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="70761">Brian Henk</boardgamedesigner>
+															<boardgamepublisher objectid="26472">Overworld Games</boardgamepublisher>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																						<boardgamedesigner objectid="70762">Clayton Skancke</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>173</usersrated>
+					<average>6.47399</average>
+					<bayesaverage>5.63001</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5213" bayesaverage="5.63001" />
+												
+											</ranks>
+					
+					<stddev>1.34671</stddev>
+					<median>0</median>
+					<owned>471</owned>
+					<trading>37</trading>
+					<wanting>2</wanting>
+					<wishing>39</wishing>
+					<numcomments>56</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

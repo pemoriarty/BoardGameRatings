@@ -1,0 +1,82 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="173549">
+			<yearpublished>2014</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Letter Chess</name>
+									
+			<description>Letter Chess is a solitaire word game that combines Word Search and Chess. Players move letters like Chess pieces to string together words that connect horizontally, vertically and diagonally on a 7-by-9 grid. To score big assemble long words and make sure you have a end of game strategy to clear the board.&lt;br/&gt;&lt;br/&gt;Setup: 48 Letter tiles are randomized on a 7-by-9 grid. At the start of the game there are 15 empty squares near the center of the board. The center horizontal row is always empty. Bordering the center row, two rows are made up of four empty squares and three letter squares (like a parapet which is the alternate name). Use any word game you may own to play the game.&lt;br/&gt;&lt;br/&gt;Game Mechanics: The main object of the game is to assemble words on the grid. Eligible words must have letters connected on the board horizontally, vertically, or diagonally. Acceptable words must be at least three letters long. Words cannot be played more than once per game and proper nouns are not allowed. Individual letter tiles cannot be used twice in the same word (such as &amp;ldquo;o&amp;rdquo; twice to spell book or &amp;ldquo;d&amp;rdquo; to spell dad).&lt;br/&gt;&lt;br/&gt;During a single turn, a player can move multiple letters together to construct words. All letters moved during a turn must be used to construct a word that round. Consonants can move any number of squares horizontally, vertically or diagonally (like a Queen in Chess) to an empty square. When moved, however, consonants cannot jump over other letters. Vowels can move two squares horizontally and one square vertically, or two squares vertically and one square horizontally (like a Knight in Chess) to an empty square. Unlike consonants, vowels can jump over other letters. After a word is constructed those letter tiles are removed from the board and play continues. The game ends when all letters have been used or no more plays are left. Lastly, the letter &amp;ldquo;Y&amp;rdquo; moves as a consonant even if used as a vowel.&lt;br/&gt;&lt;br/&gt;Scoring: Letter Chess uses simple formulas to tally a score at the end of the game. So when playing keep a pencil and paper nearby. Vowels count as 2 points and Consonants count as 1 point. The letter &amp;ldquo;Y&amp;rdquo; counts as one point even if used as a vowel. A word is tallied by multiplying the letter score by the letter count. For example, &amp;ldquo;murals&amp;rdquo; has a tally of forty because there is a letter score of eight (two vowels and four consonants) and a letter count of five (8x5=40). There is a bonus score when all the letters are cleared from the board. The bonus is calculated by multiplying the number of rounds by 10 and subtracting that amount from 200 (arbitrary number). For example, a whole board was cleared in twelve rounds then 200-(12X10)= 80 points. When letters remain on the board with no more moves left those letters are tallied as a word and subtracted from the score. For example if the letters &amp;ldquo;I, X and O&amp;rdquo; remain on the board. The letter score is 5 and letter count is 3 which equals 15 minus points.&lt;br/&gt;&lt;br/&gt;At most there are 16 rounds per game assuming all words are 3-letters long. In Letter Chess, a high score is in the 400&amp;rsquo;s and a low score is around 200.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DSz4Jw4Pp49GL3Ki3IKNlJBPNPU=/fit-in/200x150/pic2427477.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/41AiZmmjl0tF3AVemb2U0tum39g=/0x0/pic2427477.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamepublisher objectid="29259">Funnel Games</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgameversion objectid="266809">PnP first edition</boardgameversion>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamefamily objectid="4711">Scrabble</boardgamefamily>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamedesigner objectid="80721">Matt Ward (I)</boardgamedesigner>
+															<boardgamecategory objectid="1025">Word Game</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

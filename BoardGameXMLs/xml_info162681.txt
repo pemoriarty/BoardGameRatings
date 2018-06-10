@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="162681">
+			<yearpublished>2012</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Byzantium</name>
+									
+			<description>The Designer Website:&lt;br/&gt;&lt;br/&gt;Byzantium is a card game for 1, 2, 3, or 4 players. It can thus play as a form of solitaire, or as a competitive game, depending upon how many wish to be involved. Players take turns in placing cards on the table forming an elaborate hierarchy that must obey a few strict rules. The aim is to place all of your cards, while preventing your opponents from doing so.&lt;br/&gt;&lt;br/&gt;Use two suits from a deck of playing cards, one red, one black. Place an Ace in the centre of the table, and place the other Ace crossed over it. Shuffle the other 24 cards.&lt;br/&gt;&lt;br/&gt;Connecting Cards:&lt;br/&gt;The main gameplay consists of connecting cards to form hierarchies. To connect a card in your hand to one in the tableau, the following conditions must be met:&lt;br/&gt;1. It must not overlap any of the cards in the tableau.&lt;br/&gt;2. It must not touch any card other than the one it is connecting to.&lt;br/&gt;3. Its short side must be placed flush against a side of the card in the tableau.&lt;br/&gt;4. The touching sides must touch in their centres.&lt;br/&gt;5. The two cards must be of the same colour.&lt;br/&gt;6. It must be at most three cards distant from the Aces. (It must connect to the Aces, or connect to a card that connects to the Aces, or connect to a card that connects to a card that connects to the Aces.)&lt;br/&gt;7. A single hierarchy (a tree of cards connected to the the Aces) cannot contain both ascending sequences of cards and descending sequences of cards.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/stI8nAnlw74BIWccv8OBiJ-IKwc=/fit-in/200x150/pic2206783.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oazMH4XpxvnQ812Lr-xGMNe9GZw=/0x0/pic2206783.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="76754">Toby Ord</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgameversion objectid="246454">Web Published edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

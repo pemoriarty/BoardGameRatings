@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="159357" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Hexcells Plus</name>
+									
+			<description>User Summary&lt;br/&gt;Hexcells Plus is a logic puzzle game featuring hexagonal tiles. It is the sequel to Hexcells and features similar gameplay. The goal is to determine which tiles are a part of the pattern by marking them and removing the tiles that do not belong. A few hints are given at that start of the puzzle and more information is revealed as tiles are removed. A number inside the hexagonal shape below a removed tiles tells the number of adjacent tiles that are part of the pattern. Other hints include the number of pattern tiles in a column and whether tiles that are part of the pattern are adjacent or not. In total, Hexcells Plus includes 36 puzzles.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Hke3irMZBT4QGliXZhFnheN0_3M=/fit-in/200x150/pic2199657.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/eiHIwEjPbTTNgWUmzrLuf-S3OzA=/0x0/pic2199657.jpg</image>
+						
+												<videogamedeveloper objectid="14029">(Self-Developed Video Game)</videogamedeveloper>
+															<videogamepublisher objectid="4">(Self-Published)</videogamepublisher>
+															<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameseries objectid="25115">Hexcells</videogameseries>
+															<videogameplatform objectid="5248">Linux</videogameplatform>
+															<videogameversion objectid="240375">Linux Downloadable edition</videogameversion>
+															<videogameplatform objectid="4729">Macintosh</videogameplatform>
+															<videogameversion objectid="240376">Macintosh Downloadable edition</videogameversion>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogameplatform objectid="4977">Windows</videogameplatform>
+															<videogameversion objectid="240374">Windows Downloadable edition</videogameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>7.65625</average>
+					<bayesaverage>6.19319</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1746" bayesaverage="6.19319" />
+												
+							
+														<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="347" bayesaverage="6.48797" />
+														<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="899" bayesaverage="6.36185" />
+														<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="116" bayesaverage="6.79699" />
+												
+											</ranks>
+					
+					<stddev>1.04161</stddev>
+					<median>0</median>
+					<owned>23</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>4</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

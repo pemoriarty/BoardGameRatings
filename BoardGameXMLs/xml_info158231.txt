@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="158231">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Tixel</name>
+									
+			<description>Tixel is a combinatorial game for two players. The name comes from the playing pieces, which are basically pixels (squares) with a curved indentation on one of their edges. Tixels are &amp;quot;directional&amp;quot;, meaning that their orientation is relevant.&lt;br/&gt;&lt;br/&gt;On a turn, a player can either place a new tixel or move one of her own tixels already on the board. A tixel can be &amp;quot;active&amp;quot; or &amp;quot;inactive&amp;quot;; only active tixels, which are at a 45&amp;ordm; angle, may be moved. Making tixels inactive is done by moving next to or passing an active tixel.&lt;br/&gt;&lt;br/&gt;Chaining moves is important as this temporarily unlocks three additional move types (aside from placing or moving a piece). If a tixel that is moved is made inactive at its end position &amp;mdash; i.e., it's sacrificed &amp;mdash; a player can take an extra move if she so chooses; aside from placing or moving a tixel, she can now remove a tixel from the board, activate an inactive tixel, or pivot an active tixel to reorient its hollow side.&lt;br/&gt;&lt;br/&gt;Tixel: Expansion Pieces consists of four extra pieces for each player. These expansion pieces are different from regular pieces in that they are completely square instead of being hollow on one side. For each expansion piece used, remove one tixel from the game. The expansion pieces can be used to add variety to games, but they can also be used to handicap a stronger player. Simply give the stronger player more expansion pieces compared to the weaker player. With two expansion sets, the original Tix game can also be played on the Tixel board.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/oWWly6omSEOIqCQz5TGU3WCG0XI=/fit-in/200x150/pic2208972.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/EEQTW00XHlSJhB8i76jH6h0OLNw=/0x0/pic2208972.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="11556">Martijn Althuizen</boardgamedesigner>
+															<boardgameartist objectid="11556">Martijn Althuizen</boardgameartist>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="275012">Deluxe Edition</boardgameversion>
+															<boardgameversion objectid="340298">Deluxe Second Edition</boardgameversion>
+															<boardgameversion objectid="238474">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+																						<boardgamefamily objectid="20530">nestorbooster</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameimplementation objectid="172470">Regatta</boardgameimplementation>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																																				<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+																						<boardgamefamily objectid="25658">Tixel family</boardgamefamily>
+															<boardgameexpansion objectid="158921">Tixel: Expansion Pieces</boardgameexpansion>
+															<boardgameimplementation objectid="63339" inbound="true">Tix</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>19</usersrated>
+					<average>7.23684</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.70424</stddev>
+					<median>0</median>
+					<owned>30</owned>
+					<trading>1</trading>
+					<wanting>5</wanting>
+					<wishing>14</wishing>
+					<numcomments>12</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

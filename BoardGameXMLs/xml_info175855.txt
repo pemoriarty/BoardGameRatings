@@ -1,0 +1,119 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="175855">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Epic Roll</name>
+									
+			<description>Epic Roll is a quick-playing, dice-based, fantasy board game. While portable and simple to learn, Epic Roll also provides players with numerous strategic decisions and gambles. The result is a game enjoyable for young or casual players, as well as experienced fantasy gamers.&lt;br/&gt;&lt;br/&gt;Players each take the role of a questing hero, battling through hordes of undead and vying to be the first to defeat the fearsome Lich. Players must balance speed and caution as they combat deadly monsters, collect treasures, and race one another towards their ultimate showdown.&lt;br/&gt;&lt;br/&gt;Epic Roll is suitable for 2-3 players, with games lasting anywhere from 15 to 20 minutes.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_P4l4oafAttbwfDgkwYKen-OArw=/fit-in/200x150/pic2476358.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qTihI0m7okOJ_3pleGMBMvsk0IY=/0x0/pic2476358.jpg</image>
+						
+																			<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameintegration objectid="209700">Epic Roll: Eclipse</boardgameintegration>
+															<boardgameexpansion objectid="208133">Epic Roll: Veteran Pack</boardgameexpansion>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="270623">First edition</boardgameversion>
+															<boardgamedesigner objectid="81605">Jon Nord</boardgamedesigner>
+															<boardgamedesigner objectid="81606">Matt Nord</boardgamedesigner>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+																						<boardgameartist objectid="81607">Mark Soderwall</boardgameartist>
+															<boardgamepublisher objectid="29517">Summon Entertainment Corp</boardgamepublisher>
+															<boardgameartist objectid="81608">Kevin Toft</boardgameartist>
+															<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+															<boardgameintegration objectid="209700" inbound="true">Epic Roll: Eclipse</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>74</usersrated>
+					<average>5.82162</average>
+					<bayesaverage>5.5007</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12578" bayesaverage="5.5007" />
+												
+											</ranks>
+					
+					<stddev>2.00029</stddev>
+					<median>0</median>
+					<owned>194</owned>
+					<trading>9</trading>
+					<wanting>2</wanting>
+					<wishing>13</wishing>
+					<numcomments>27</numcomments>
+					<numweights>5</numweights>
+					<averageweight>1.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

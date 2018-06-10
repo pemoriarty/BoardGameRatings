@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="160609">
+			<yearpublished>2013</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Infinito</name>
+									
+			<description>Infinito is an abstract game for two player with a theoretical infinite moves per turns, i.e. theoretical infinite branching factor, but with finite number of turns. A finite version of the game is Myriades.&lt;br/&gt;&lt;br/&gt;Infinito is played on a square board, preferably 10x10 or larger. One player owns the black stones, the other player owns the white stones. Grey neutral stones are needed.&lt;br/&gt;&lt;br/&gt;Each player has an infinite number of stones with an unique natural number printed on them: 0, 1, 2, 3, and so on...&lt;br/&gt;(For practical use, you can have blank stones and write numbers on them.)&lt;br/&gt;&lt;br/&gt;Players move alternately, starting with the player controlling the white stones. Each turn consists of two actions, performed in this order:&lt;br/&gt;&lt;br/&gt;1. OPTIONAL MOVE: you can move a stone exactly as a Queen&amp;rsquo;s moves in Chess, i.e. any number of cells horizontally, vertically or diagonally.&lt;br/&gt;If your stone ends its move (orthogonally and diagonally) next to one enemy stone whose value is less than your stone, and your stone wasn&amp;rsquo;t (orthogonally and diagonally) next to that enemy stone to start its move, replace any friendly stone &amp;ndash; but the stone just moved &amp;ndash; on the board with a neutral gray stone with &amp;ldquo;&amp;infin;&amp;rdquo; printed on it. In one move you can end up close to more enemy stones whose value are less than your stone, in that case you replace your stones with neutral stones for each of those stones.&lt;br/&gt;When you remove your stones from the board, those stones will be available for future placements.&lt;br/&gt;&lt;br/&gt;2. COMPULSORY PLACEMENT: you must place a stone onto any empty space.&lt;br/&gt;&lt;br/&gt;The game ends when the board is full, whoever has the least sum of his values wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hi5R7yKEX5XmG8Rjno0cBdOFOk0=/fit-in/200x150/pic2045573.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2DpmaIsoh-NOHNZPfBjMPjaRz88=/0x0/pic2045573.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="242806">First edition</boardgameversion>
+															<boardgameimplementation objectid="160612">Myriades</boardgameimplementation>
+															<boardgamedesigner objectid="41103">Matteo Perlini</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>4.75</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.75</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>
