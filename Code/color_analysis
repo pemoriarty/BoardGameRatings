@@ -14,7 +14,7 @@ from sklearn.cluster import KMeans
 import numpy as np
 import webcolors
 
-fileObject = open('compiled_info','rb')
+fileObject = open('Data/compiled_info','rb')
 compiled_info = pickle.load(fileObject)
 fileObject.close()
 
@@ -23,7 +23,7 @@ n_games = len(compiled_info)
 col_names = ['id', 'saturation', 'mean_red', 'mean_green', 'mean_blue', 'dom_color', 'simple_color']
 box_colors = pd.DataFrame(columns = col_names)
 
-for game in range(148, n_games):
+for game in range(n_games):
     
     id_tmp = compiled_info[game]['id']
     
@@ -52,7 +52,7 @@ for game in range(148, n_games):
         actual_name, closest_name = get_colour_name(dom_color_rgb)
         simple_color = simplify_color(closest_name)
         
-        box_colors.loc[len(box_colors)] = [game, sat, r, g, b, closest_name, simple_color]
+        box_colors.loc[len(box_colors)] = [id_tmp, sat, r, g, b, closest_name, simple_color]
  
     #hist = find_histogram(clt)
     #bar = plot_colors2(hist, clt.cluster_centers_)
