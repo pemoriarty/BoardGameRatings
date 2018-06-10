@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="227914">
+			<yearpublished>2017</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>3</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Swingbridge</name>
+									
+			<description>Swingbridge is a card game for three players, based on Contract Bridge.&lt;br/&gt;&lt;br/&gt;It is a standard deck, trick taking game, with variable partnerships. An auction phase is followed by card playing. Four hands are dealt: one per player plus an additional one which is placed face-up on the table (the &amp;quot;dummy&amp;quot;); initially, one player is allowed to exchange his hand with the dummy. During the auction phase the players attempt to communicate information about their hands by bidding; like in Bridge, bids specify how many tricks must be taken and what is the preferred trump suit (or lack thereof); in addition, bids also have a &amp;quot;color&amp;quot; that indicates what is the preferred partnership for that deal. After the auction, the team that has won the bid (the &amp;quot;declarers&amp;quot;) tries to win as many tricks as possible; the other player (the &amp;quot;defender&amp;quot;) plays both his own hand and the dummy's, and tries to take enough tricks to have the declarers fail their contract. The scoring system is almost identical to Bridge, but players have individual scores.&lt;br/&gt;&lt;br/&gt;Swingbridge is presented as a book, written for an audience of Bridge players, which contains the basic rules of the game, some optional variants, and an in-depth analysis of the mechanics and peculiarities of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kC2Kq3DglsS2fW8DW5RN0UQiYUg=/fit-in/200x150/pic3592014.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/TO9frJW48I4m9xPC381rZdjQZKI=/0x0/pic3592014.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1117">Book</boardgamecategory>
+															<boardgamefamily objectid="10438">Bridge</boardgamefamily>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="24434">Card Games: Outplay Games</boardgamefamily>
+															<boardgameversion objectid="356280">First edition</boardgameversion>
+															<boardgamedesigner objectid="101149">Giovanni Gigante</boardgamedesigner>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamepublisher objectid="36496">San Teonisto Press</boardgamepublisher>
+																						<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

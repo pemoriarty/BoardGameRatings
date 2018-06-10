@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="232213">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Polar</name>
+									
+			<description>&lt;br/&gt;Polar&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Square board, 9x9 or 11x11 or 13x13&lt;br/&gt;     Black and white pieces&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;Pieces are placed on empty intersections of the board. Connections are orthogonal only.&lt;br/&gt;&lt;br/&gt;The board is initially empty.&lt;br/&gt;&lt;br/&gt;One of the players takes two pieces (black and white) and places them on any arbitrary adjacent spaces. The other player may now decide on which color to play. Black starts, then players take turns.&lt;br/&gt;&lt;br/&gt;Connected pieces form a group, and same-colored connected pieces within a group are called a section. A group may never consist of more than two sections.&lt;br/&gt;&lt;br/&gt;Player may only pass if they have no moves left. They must play again in a successive turn when moves are available again.&lt;br/&gt;&lt;br/&gt;The game ends when both players have to pass.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Score&lt;br/&gt;&lt;br/&gt;Groups with one or equal sections score zero points. For any other group, the player holding the majority section gets the triangular number section points: &lt;br/&gt;T(n) = n*(n+1)/2&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The player with the highest score wins. Games can end in a draw.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lF1gVQFbOLVjs9QqjkooJaShYpA=/fit-in/200x150/pic3693169.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YbxoGA1GmYe71ilJsw2R-N0V_54=/0x0/pic3693169.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="363694">First edition</boardgameversion>
+																						<boardgamedesigner objectid="3063">Dieter Stein</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

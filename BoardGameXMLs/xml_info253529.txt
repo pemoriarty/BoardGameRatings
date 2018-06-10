@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="253529" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Wobble Garden</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Wobble Garden is a hand-crafted arrangement of sensing springs combined with reactive lighting. Players wobble springs to interact with the installation and play games. It creates a unique visual and tactile experience and will be scaleable to a several meter large installation.&lt;br/&gt;&lt;br/&gt;Lots of metal springs, connected with sensors and LED rings in between form a hexagonal grid. It's modular construction allows for large scale installations; the soft- and hardware are both carefully built with scalability in mind. Two Teensy Arduinos control the in- and outputs, with an additional python API and simulator running on a computer providing easy modding and opening access to other developers.&lt;br/&gt;&lt;br/&gt;The controller is being built as a platform to run different interactive animations and games. I am experimenting with several games at the moment, some fast and arcadey, while others are more abstract and slow.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwmfg objectid="4">(Self-Published)</videogamehwmfg>
+															<videogamehonor objectid="48441">2018 A MAZE. Awards Audience Choice Winner</videogamehonor>
+															<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehwversion objectid="407059">Original model</videogamehwversion>
+															<videogamehardware objectid="23163" inbound="true">Other</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

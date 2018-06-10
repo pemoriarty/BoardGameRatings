@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="228623">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Yugo</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Yugo is a finite territory game for two players: Black and White. It's played on the intersections (points) of an initially empty square board.&lt;br/&gt;&lt;br/&gt;Each player must have access to a sufficient number of pieces of their own color. There are two types of pieces: pawns and kings. There's also one special token called button.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A player's group is a set of one or more orthogonally contiguous pieces of that player's color. Pawns and kings can be part of the same group. A portion of a larger group is not a group.&lt;br/&gt;&lt;br/&gt;A liberty of a group is an empty point orthogonally adjacent to that group. A group without liberties is said to be surrounded.&lt;br/&gt;&lt;br/&gt;A player's territory is a set of orthogonally contiguous empty points such that all points orthogonally adjacent to it are occupied by pieces of that player's color.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On their turn, a player must perform exactly one of the following actions:&lt;br/&gt;&lt;br/&gt;a) Take the button, provided that none of the players has taken it before.&lt;br/&gt;&lt;br/&gt;b) Pass, provided that the button is already taken.&lt;br/&gt;&lt;br/&gt;c) Place a pawn of their color on an empty point such that the number of surrounded groups remains unchanged.&lt;br/&gt;&lt;br/&gt;d) Place a king of their color on an empty point such that the number of surrounded enemy groups is increased, and remove all pawns from all such groups. In the resulting position, if there are any surrounded friendly groups, remove all pawns from them as well.&lt;br/&gt;&lt;br/&gt;Play stops when both players pass consecutively. At this point, the players may agree which groups, if any, can be removed from the board without changing the scores that would result from continuing the game. If there is such an agreement, the agreed groups are removed, the game ends and the resulting position is used for scoring. If the players don't agree which groups should be removed, play is resumed. In this case, when both players pass consecutively again, the game ends and the current position, without further removals, is used for scoring.&lt;br/&gt;&lt;br/&gt;A player's score is the number of empty points in territories of their color, plus the number of pieces of their color in groups with one or more liberties, plus the number of enemy kings in groups without liberties, plus half a point if they have taken the button, plus the value of komi (see below) in the case of White.&lt;br/&gt;&lt;br/&gt;The player with the higher score wins the game.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Komi&lt;br/&gt;&lt;br/&gt;The komi is the whole number of points which is added to White's score at the end of the game as a compensation for playing second. Before the game starts, the first player chooses the value of komi, and then the second player chooses sides.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Notes&lt;br/&gt;&lt;br/&gt;Yugo is a Go variant inspired by Mark Steere's Redstone.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     igGameCenter (real-time)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ENUtxw6ee535qadf-6xZmNlWnd0=/fit-in/200x150/pic3588716.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/xOUMGlNIQ0_1jdvocTOsuLqcbrs=/0x0/pic3588716.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="357334">First edition</boardgameversion>
+															<boardgamefamily objectid="46162">Go</boardgamefamily>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

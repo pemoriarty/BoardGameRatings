@@ -1,0 +1,121 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="212376">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Stroop</name>
+									
+			<description>Stroop is a real-time observation game based on the psychological Stroop Effect, which is a phenomenon caused by different functions of the brain interfering with one another.&lt;br/&gt;&lt;br/&gt;The cards in Stroop each display a single word. The words are printed in several colors (black, red, blue, and yellow), sizes (big and little), and styles (hollow and solid), and they have different numbers of letters (three, four, five, and six). The challenge is to read one word and quickly match it with the description of another word &amp;mdash; without regard to what the second word says.&lt;br/&gt;&lt;br/&gt;In the first round of the game, players are dealt an equal number of cards, and a card is turned face-up in the center of the table, forming the base of a pile. Players then race to find a card in their deck that the center card describes, and place this on top of the pile, changing the center card. Play continues until one player runs out of cards.&lt;br/&gt;&lt;br/&gt;The second round of the game is similar to the first, except that the rule for eligible cards to play is reversed: now a card may be played only if its text describes the qualities of the card in the center. The player with the fewest cards remaining wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CqfekTuCNGEmV86mS3etW1I7C5s=/fit-in/200x150/pic3567222.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/sqe_0-dvfFtDsyNfm6ZxJo8tFao=/0x0/pic3567222.jpg</image>
+						
+																			<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="61878">Jonathan Chaffer</boardgamedesigner>
+															<boardgameversion objectid="331327">English first edition</boardgameversion>
+															<boardgamepodcastepisode objectid="209895">Episode 102: Barenpark</boardgamepodcastepisode>
+															<boardgamepublisher objectid="33845">Grand Gamers Guild</boardgamepublisher>
+															<boardgameartist objectid="49982">Christopher Kirkman</boardgameartist>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																						<boardgamecategory objectid="1037">Real-time</boardgamecategory>
+																																				<boardgameexpansion objectid="254709">Stroop: Wild</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>123</usersrated>
+					<average>6.71382</average>
+					<bayesaverage>5.62797</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5268" bayesaverage="5.62797" />
+												
+											</ranks>
+					
+					<stddev>1.7091</stddev>
+					<median>0</median>
+					<owned>255</owned>
+					<trading>5</trading>
+					<wanting>20</wanting>
+					<wishing>78</wishing>
+					<numcomments>42</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="240384">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Dorix</name>
+									
+			<description>1.Principle&lt;br/&gt;In that game, players will try and control the diagonal of a 4x4 square board. When one stacks an high pile of pawn it may collapse.&lt;br/&gt;2.Components&lt;br/&gt;&amp;ndash; The4x4board&lt;br/&gt;&amp;ndash; 15 pawns in each colour&lt;br/&gt;3.Goal&lt;br/&gt;The winner is the first to have 4 piles he controls on one of the two great diagonal of the board.&lt;br/&gt;In a 4 players game : this is a team game. To win, a team needs to control 4 piles on one of the&lt;br/&gt;two great diagonal of the board.&lt;br/&gt;4.Preparation&lt;br/&gt;In a 2 players game : Each player chooses his colour and get the 15 pawns of this colour. In a 3 players game : Each player chooses his colour and get 12 pawns of this colour.&lt;br/&gt;In a 4 players game : Each player chooses his colour and get 10 pawns of this colour. Each one is playing with the player in front of him.&lt;br/&gt;5.Game sequence&lt;br/&gt;Players take turns to make all the following sequence :&lt;br/&gt;&amp;ndash; place a pawn&lt;br/&gt;&amp;ndash; collapse&lt;br/&gt;&amp;ndash; check winning conditions&lt;br/&gt;Place a pawn&lt;br/&gt;Place a pawn of your colour either on an empty square, either over a pile you control (in a 4 player game, one can not place his pawn over a pile his partner controls).&lt;br/&gt;If one has allready placed all his pawns, he takes one of his pawns at the top of a pile (it may be a 1 pawn pile) and he places it according the placement rule.&lt;br/&gt;If one has allready placed all his pawns but do not control any pile, he pass.&lt;br/&gt;Collapse&lt;br/&gt;When one place a pawn over an existing pile, a collapse may occur : there is a collapse if at least one of the neighbouring piles is smaller than the pile where the player placed his pawn.&lt;br/&gt;If so, he places one pawn of the pile where he played over each smaller neighbouring tile. This is the size before the collapse that you compare.&lt;br/&gt;The player decides which pawn he places on which pile, but he has to take the pawns from the top&lt;br/&gt;Control of a pile&lt;br/&gt;During the game, you will stack the pawns. One control a pile if the pawn at the top of the pile is of his color.&lt;br/&gt;of the pile. If the pile does not have enough pawn (by example, a 2 pawns pile that collapses over 3 piles of 1 pawn each), he places all the pawns of the pile.&lt;br/&gt;Only the pile where you placed your pawn can collapse.&lt;br/&gt;-Check winning conditions&lt;br/&gt;When the collapse is over, check if all the piles of one of the two great diagonal of the board are controlled by the same player. If so, this player wins.&lt;br/&gt;If each player control all the piles of a diagonal the game is not over : you have to play until only one player control one diagonal.&lt;br/&gt;In a 3 players game : If 2 players control one diagonal the game is not over, you have to play until only one controls one diagonal.&lt;br/&gt;In a 4 players game : This is the team that needs to control a diagonal. Some piles may be controlled by a member of the team and the other piles by the other member, or all the piles may be controlled by the same player.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="377999">English</boardgameversion>
+															<boardgamedesigner objectid="47774">Loïc Lamy</boardgamedesigner>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="232009">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Skjube</name>
+							<name  sortindex="1">Skjubes</name>
+							<name primary="true" sortindex="1">Skjuub</name>
+							<name  sortindex="1">Skjuubs</name>
+									
+			<description>Description from the publisher:&lt;br/&gt;&lt;br/&gt;INTRODUCTION:&lt;br/&gt;Skjuub is a combinatorial game for two players. The name comes from the playing pieces, which are 'skewed cubes'. Skjuubs are 'directional', meaning that their orientation is relevant to gameplay.&lt;br/&gt;Skjuub is in a sense a 'logical successor' to the Tixel family of games (Tix, Tixel and Regatta). The form factor is different but the 'gameplay structure' is very similar.&lt;br/&gt;&lt;br/&gt;SETUP&lt;br/&gt;Skjuub is played on a 6x6 square grid. Each player has her own pool of 11 pieces, differentiated by color.&lt;br/&gt;&lt;br/&gt;A PLAYER'S TURN&lt;br/&gt;On a turn, a player can either place a new skjuub or move one of her own skjuubs already on the board. The orientation of a skjuub (which side the 'overhang' is facing) is decided upon when placing it on the board. A skjuub can be active or inactive and only active skjuubs may be moved.&lt;br/&gt;A skjuub is inactive if at least one of its sides is fully connected to a similarly shaped side of another piece (regardless of color).&lt;br/&gt;&lt;br/&gt;NORMAL MOVES; Placement&lt;br/&gt;When placing a new skjuub on the board you are not allowed make one or more opponent skjuubs inactive. A new skjuub may be placed next to one or more already inactive skjuubs in a way in which it becomes inactive itself as well. Such placement does not result in the player getting a bonus move (see section 'BONUS MOVES').&lt;br/&gt;&lt;br/&gt;NORMAL MOVES; Sliding and tumbling&lt;br/&gt;A move can be either a slide (in which the orientation of the skjuub remains the same) or a tumble (in which in which the orientation of the skjuub does change - the overhang 'switches' to the opposite side).&lt;br/&gt;In a single move a skjuub may be slid as many squares as wanted (horizontally or vertically along its row or column) but may be tumbled only once (to an adjacent square from where it started the tumble, either in the direction of the overhang or in the opposite direction).&lt;br/&gt;When placing, sliding or tumbling, other skjuubs that are on the board may not be 'disturbed'; their locations and orientations must remain the same.&lt;br/&gt;&lt;br/&gt;BONUS MOVES&lt;br/&gt;Chaining moves is important as this temporarily unlocks additional move types (besides placing, sliding and tumbling). If a skjuub that is slid or tumbled is made inactive at its end position - i.e., it's sacrificed - the player gets a bonus move. As a bonus move she can do one of the following:&lt;br/&gt;&lt;br/&gt;        - one of the normal moves; place, slide or tumble one of her other skjuubs. These slides and tumbles (but not placements) can themselves result in additional bonus moves.&lt;br/&gt;        - pick up one of her other skjuubs from the board (not the one skjuub that was just sacrificed!) and place it back in her pool of available skjuubs.&lt;br/&gt;        - turn one of her active skjuubs a quarter turn clockwise or anticlockwise. The skjuub that is turned must also still be active after the turn (it may not be sacrificed by the turn).&lt;br/&gt;        - pass the bonus move.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When turning a skjuub, other skjuubs that are on the board may not be 'disturbed'. When picking up a skjuub, other skjuubs may temporarily be moved aside to make picking up the skjuub easier but they must be returned to their original locations and orientations afterwards.&lt;br/&gt;One or more other skjuubs can also become inactive by a skjuub being sacrificed. Skjuubs may also be sacrificed adjacent to other skjuubs that are already inactive though (regardless of color).&lt;br/&gt;&lt;br/&gt;NO BACKTRACKING&lt;br/&gt;Players are not allowed to undo their previous turn by playing it 'in reverse'. If the previous turn had one or more bonus moves, only the very last bonus move may not be played in reverse.&lt;br/&gt;The main point of the rule is to prevent players from tumbling or sliding one and the same skjuub back and forth in consecutive turns.  Players are allowed though to alternate between sliding and tumbling the same skjuub repeatedly.&lt;br/&gt;There is one exception to the rule: Backtracking is allowed if it captures an opponent piece (and the piece that does the backtracking becomes inactive itself too).&lt;br/&gt;&lt;br/&gt;ENDING THE GAME&lt;br/&gt;A player loses the game if, at the beginning of her turn, she does not have at least one active skjuub on the board that is both able and allowed to slide and/or tumble.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ucIoI_GK2lBkveb57MwdVO9Ga_s=/fit-in/200x150/pic3677732.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/fCvyYABiot-bG1fFdrQ_-XEr8bg=/0x0/pic3677732.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="11556">Martijn Althuizen</boardgamedesigner>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="363204">Prototype edition</boardgameversion>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

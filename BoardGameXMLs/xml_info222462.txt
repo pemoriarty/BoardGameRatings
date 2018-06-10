@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="222462">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Mint Julep</name>
+									
+			<description>You are in attendance of an amazing horse race and your goal is to end up with the most points by the end of the race. In Mint Julep, players draft cards, place bets and then manipulate the race in order to ensure the horse that they want to win ends up finishing the race in a top spot. Be careful where you place your bet because the odds might be against you!&lt;br/&gt;&lt;br/&gt;Each game is played in 3 Rounds that each consist of three phases:&lt;br/&gt;1.) drafting cards for your hand&lt;br/&gt;2.) betting on which horse you think will win&lt;br/&gt;3.) playing movement cards to adjust the order of the horses in the race.&lt;br/&gt;&lt;br/&gt;Final scoring is based on where horses start in the race (horses starting in lower positions are worth more points), where horses end in the race (more points earned for higher place finishers), and when a bet was played (with later bets being worth less than earlier bets).&lt;br/&gt;&lt;br/&gt;Score the highest points with your bet and you win!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/UIRMwSyCGSycesJJsHIWi-jNzNs=/fit-in/200x150/pic3468692.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AjRBQPatnf6GmPX_9dQyKXHw12w=/0x0/pic3468692.jpg</image>
+						
+												<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamepublisher objectid="26991">Button Shy</boardgamepublisher>
+															<boardgamefamily objectid="27795">Button Shy Wallet Games</boardgamefamily>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="347406">First Edition</boardgameversion>
+															<boardgamedesigner objectid="73114">Dan Letzring</boardgamedesigner>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>38</usersrated>
+					<average>6.90132</average>
+					<bayesaverage>5.53941</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9169" bayesaverage="5.53941" />
+												
+											</ranks>
+					
+					<stddev>1.15784</stddev>
+					<median>0</median>
+					<owned>212</owned>
+					<trading>3</trading>
+					<wanting>3</wanting>
+					<wishing>22</wishing>
+					<numcomments>20</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

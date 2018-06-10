@@ -1,0 +1,85 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="241349" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Laser Chess</name>
+									
+			<description>User summary&lt;br/&gt;&lt;br/&gt;Laser Chess was published as type-in source code in Compute!'s Atari ST Disk &amp;amp; Magazine magazine as Modula-2 source code, written by Mike Duppong, intended for an Atari ST computer.  It was the grand prize winner of a programming competition.  Combined BASIC and machine language source code listings for a variety of other platforms subsequently were published in Compute! Issue 85, June 1987.&lt;br/&gt;&lt;br/&gt;Players take alternating turns.  Players control multiple pieces on a chessboard (the pieces do not move as in traditional chess).  Most pieces have a &amp;quot;laser&amp;quot; on one side and mirrors on the other sides.  Special other pieces act as &amp;quot;teleporters&amp;quot;.  On each turn, each player can make two &amp;quot;moves&amp;quot; - moving a piece one square, rotating a piece ninety degrees, or firing a laser.  The laser is capable of destroying a piece but also is subject to being reflected (along pathways that can become quite complex).&lt;br/&gt;&lt;br/&gt;The game was quite popular and spawned multiple (unofficial) ports, imitators, and variants.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/kx0_ckbMtB84ZnbJ5tvhMvR3uFA=/fit-in/200x150/pic3910392.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/1gQc3K43nllpbbZMHl3-Hy_-_fc=/0x0/pic3910392.jpg</image>
+						
+												<videogametheme objectid="2455">Abstract</videogametheme>
+															<videogameplatform objectid="4415">Amiga</videogameplatform>
+															<videogameversion objectid="385015">Amiga Version</videogameversion>
+															<videogameplatform objectid="4978">Apple II</videogameplatform>
+															<videogameversion objectid="385017">Apple II Version</videogameversion>
+															<videogameplatform objectid="4940">Atari 8-bit family</videogameplatform>
+															<videogameversion objectid="385014">Atari 8-bit Version</videogameversion>
+															<videogameplatform objectid="4976">Atari ST</videogameplatform>
+															<videogameversion objectid="385013">Atari ST Version</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="385016">Commodore 64 Version</videogameversion>
+															<videogamedeveloper objectid="22653">Compute! Publications</videogamedeveloper>
+															<videogamepublisher objectid="22653">Compute! Publications</videogamepublisher>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+																						<videogamegenre objectid="2158">Strategy</videogamegenre>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

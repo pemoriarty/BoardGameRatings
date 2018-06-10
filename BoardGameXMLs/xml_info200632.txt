@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="200632">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>1</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">QANGO</name>
+									
+			<description>QANGO is an abstract two-player game that plays quickly and is explained even faster.&lt;br/&gt;&lt;br/&gt;Players place their discs on a square multicolored board and try to either get three of their discs in one group of the same color, four discs in a square, or five discs in a horizontal, vertical or diagonal row to immediately win the game. They place one disc at a time and aren't limited in how to place the disc after the first move.&lt;br/&gt;&lt;br/&gt;The game includes two boards, a beginner board with 6x6 squares and an advanced board with 7x7 squares.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ClUO-V-mqaRFpvzJAiOEmXlgtHU=/fit-in/200x150/pic3779293.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PUDbWl-rHkwtHHjHzSsrxGBWWao=/0x0/pic3779293.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="91827">Klaus Burmester</boardgamedesigner>
+															<boardgameversion objectid="312462">German first edition</boardgameversion>
+																													<boardgameversion objectid="372407">German second edition</boardgameversion>
+																						<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamepublisher objectid="32883">QANGO Verlag</boardgamepublisher>
+															<boardgameartist objectid="94857">Arrnold Reisse</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>67</usersrated>
+					<average>5.87612</average>
+					<bayesaverage>5.52205</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10690" bayesaverage="5.52205" />
+												
+											</ranks>
+					
+					<stddev>1.59393</stddev>
+					<median>0</median>
+					<owned>74</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>11</wishing>
+					<numcomments>22</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

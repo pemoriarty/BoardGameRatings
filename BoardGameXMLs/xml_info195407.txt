@@ -1,0 +1,80 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="195407">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">22ra</name>
+									
+			<description>22ra (translated &amp;ldquo;to 22&amp;rdquo; points) is a card-driven game that simulates basque hand-pelota  games between 2 players, or 4 players when playing doubles. The objective is to score 22 points by playing cards, so that the opponent cannot or does not want to reach the ball or makes a foul when hitting the ball.&lt;br/&gt;&lt;br/&gt;The game consists of three separate decks of cards: &lt;br/&gt;&lt;br/&gt;         The Player Trait&amp;rsquo;s cards, consisting of &lt;br/&gt;             Movement cards (Mugimendu) &lt;br/&gt;             Force cards (Indar), and&lt;br/&gt;             Skill cards (Abilezia)&lt;br/&gt;        &lt;br/&gt;         The Serve Deck (Sake), with &lt;br/&gt;             Normal serve cards (Arrunta) and&lt;br/&gt;             Risky serve cards (Ausarta) &lt;br/&gt;        &lt;br/&gt;         The Hit Deck, which consists of three Subdecks: &lt;br/&gt;             The Bounce Back cards (Botez Atzera), the ball is hit after it bounces&lt;br/&gt;             The Defence Volley cards (Airez Defentsa), the ball is hit before it bounces&lt;br/&gt;             The Good-play cards (Jokaldia), with different special hits and plays. &lt;br/&gt;        &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The board represents the fronton, divided in 7 squares (A1, A2, B1, B2, D, F and R), contains also a scoring track and 5 Timeout spaces for each player (Atsedenaldiak).&lt;br/&gt;&lt;br/&gt;Each player chooses seven Player Trait cards, at least 4 Movement cards. Then each player is dealt 4 Good-play cards. A start player is chosen randomly (the server in the first point) and the game can begin: the server chooses a Serve card. If the serve is good, the receiver must hit it back either after the ball bounces (from the same square where the ball is, using a Bounce Back card) or before the ball bounces (from the square directly in front of the ball, using a Defence Volley card). Play continues until one player fails to hit the ball (cannot/does not want to hit or hits a ball badly), therefore losing the point (Falta) or the other player makes a great hit, directly winning the point (Tanto). After each point, the players recover a Player Trait card and replenish their hand of Good-play cards (up to 4 cards). The first player reaching 22 points wins immediately the game.&lt;br/&gt;&lt;br/&gt;In double games, the teams are formed by a Forward and a Defender, and the games are also played to 22 points. The rules are the same, except that each player chooses 4 Player Trait cards (at least 2 Movement cards) and that they can exchange the Good-play cards before the start of each point.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZfFryrL5XjnI6hP71H4CwQemLSo=/fit-in/200x150/pic2944205.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/YLVm5PiZRxwPvWgDwD-P2Z2Es4g=/0x0/pic2944205.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="89744">Curro Luxán</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="303786">Print and Play edition</boardgameversion>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamedesigner objectid="89701">Fermin Uribetxebarria</boardgamedesigner>
+															<boardgameartist objectid="89701">Fermin Uribetxebarria</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.77492</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

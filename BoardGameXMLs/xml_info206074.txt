@@ -1,0 +1,102 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="206074">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="5">The Solo System</name>
+									
+			<description>Requires: &lt;br/&gt;1) the printed cards with the game. (63 cards)&lt;br/&gt;2) a game that is multiplayer that you really want to play solitaire.&lt;br/&gt;&lt;br/&gt;Time to play the game: Really depends on what you want to play. Expect to double the normal time for gameplay when using the system for the first time. This will shorten substantially after playing it a few times.&lt;br/&gt;&lt;br/&gt;Concept:&lt;br/&gt;&lt;br/&gt;The Solo System is not a game per se, rather it is a Artificial Intelligence system that provides an unpredictable opponent for your multiplayer games. With a few adjustments, this can make a wide selection of games capable of being played solitaire.&lt;br/&gt;&lt;br/&gt;Short Description of the Mechanics:&lt;br/&gt;&lt;br/&gt;The Solo System is heavily influenced by role-playing systems such as Mythic and The Covetous Poet's Adventure Creator, but is much streamlined to be played with board games rather than role-playing games. It only uses a deck of 63 cards to accomplish its task.&lt;br/&gt;&lt;br/&gt;It works like this: You set up your game and play it the same way that you would a normal game. When it is your opponents turn, you use The Solo System to figure out how your opponent will play.  You will first flip a card and determine what personality/strategy the AI is interested this round. There is a good chance that the system will keep the same strategy as the last round. Then you will look at the board and figure out if there is a move that would match this strategy or flip more cards to give a little more direction as to what he is interested in.&lt;br/&gt;&lt;br/&gt;At this point you will probably find several moves that the AI could take. Choose one and ask the game if it does take that move. Before you flip a card, determine what the probability of the AI is of taking that move: probably, probably not, or unsure. Then flip the card and determine the results.&lt;br/&gt;&lt;br/&gt;Cards have multiple pieces of information on them and are divided into four different decks. One deck has 14 cards, and the other two decks have 20 cards. There are mechanisms for movement on maps, targets and objectives for its armies, selection of resources such as coal or gold, and auctions.&lt;br/&gt;&lt;br/&gt;The system is not unlike playing a game two handed, but you are playing against an opponent. Plus using the card system gives you direction for how to play one of the players. This will assist when trying to play several opponents and keep track of their play style. The opponent may need handicaps to increase its challenge against you depending on how you want to play, and these rules will give you ideas as to how to implement these handicaps.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/96jXsCqG2hmb-17ibVqgpVbxx1k=/fit-in/200x150/pic3131465.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/gg5jvrw3zT55p4atF_vzLIKMLAw=/0x0/pic3131465.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamepodcastepisode objectid="191335">1P 112 - The Solo System</boardgamepodcastepisode>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="321340">First edition</boardgameversion>
+															<boardgamecategory objectid="1119">Game System</boardgamecategory>
+															<boardgamedesigner objectid="41725">Chad Mestdagh</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+															<boardgamefamily objectid="19564">Solitaire Print and Play Contest</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.85164</stddev>
+					<median>0</median>
+					<owned>112</owned>
+					<trading>1</trading>
+					<wanting>8</wanting>
+					<wishing>81</wishing>
+					<numcomments>24</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

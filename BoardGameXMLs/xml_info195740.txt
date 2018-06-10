@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="195740">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Hallux Rigidus: The Encounter</name>
+									
+			<description>Objective&lt;br/&gt;It's basic math; adding and subtracting to achieve a specific value. In this case an 18, which gains the group access to another room, until they are able to escape all five rooms and finally exit the mansion to the freedom without.&lt;br/&gt;&lt;br/&gt;Starting The Game&lt;br/&gt;If Jane is present at this game, she always goes first, otherwise the oldest player starts and the turns continue clockwise.&lt;br/&gt;Jane (or the oldest player) rolls the dice adding them together, she records the final number in the first box of her score-pad. (Example: 5, 5, 3 = 13 in the box.)&lt;br/&gt;The goal is to reach the number 18 but without going over. To gain access to the next room the exact value of 18 must be attained. Since on the first roll an 18 can only be gained by rolling triple sixes most players will just write their total on the score-pad and the turn goes to the next player (clock-wise).&lt;br/&gt;&lt;br/&gt;Each player in turn does the same.&lt;br/&gt;&lt;br/&gt;In the event a triple six is rolled; when achieving an 18 all players move forward one room. Additionally any player who rolls a triple number can move to the next room (alone). The player who rolls triple sixes gets to move once with the group and once alone (two room advancement).&lt;br/&gt;&lt;br/&gt;The Zombie&lt;br/&gt;Whenever someone rolls ones (one, two or three ones), the zombie is advanced on the track. The roll of one or two ones, the zombie moves forward once but if triple ones are rolled the zombie moves forward twice.&lt;br/&gt;The player continues their turn even when the zombie moves forward and the player finishes the turn before the zombie moves.&lt;br/&gt;&lt;br/&gt;The track has the numbers 3, 2, and 1. Depending on the difficulty is where the zombie begins. 3 is the easiest because it takes longer for the zombie to travel across the track from 3 to 2 then to 1, before appearing in the attic of the mansion.&lt;br/&gt;&lt;br/&gt;When the zombie is in the same room with any of the players, if ones are rolled, the zombie eats the flesh of the player with the lowest value on their score-pad (use one die to determine who is lowest when there is a tie).  &lt;br/&gt;It take a few rounds for the zombie to consume its victim before the allure of new flesh draws it off its current meal. This time is represented by returning the zombie back to his starting position.&lt;br/&gt;&lt;br/&gt;Having your flesh gnawed by the zombie causes you to lose the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/q5FyJdoZvcSa_rhp8DfiFrhAU5Y=/fit-in/200x150/pic2942008.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/jkYgYxqT18l2_Kxkn8fIgE1b1RU=/0x0/pic2942008.jpg</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="304282">First edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+															<boardgameintegration objectid="193096">Hallux Rigidus</boardgameintegration>
+															<boardgamecategory objectid="1024">Horror</boardgamecategory>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamecategory objectid="2481">Zombies</boardgamecategory>
+															<boardgameintegration objectid="193096" inbound="true">Hallux Rigidus</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

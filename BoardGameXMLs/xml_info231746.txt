@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="231746">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Racing to the North Pole</name>
+									
+			<description>A dice and board game for 2-4+ players themed on the race to the North Pole undertaken by various explorers in the early 1900s. Players move their pawn from the start space to the North Pole and back again.&lt;br/&gt;&lt;br/&gt;Players choose from one of 6 pre-defined expeditions or use a random method to generate their own expedition.  Each expedition has 9 stats: Men, Dogs, Food, Gear, Skill, Will, Ship, Time, and Hoax. These stats represent the composition, skills, supplies, start point, start time and legitimacy of the expedition &amp;ndash; these may change during the course of the game.&lt;br/&gt;&lt;br/&gt;The board is a track 30 spaces long including a start space at one end and the North Pole space at the other end. Players share a 50-card common travel deck which influences how far an expedition will move during a particular turn.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn has 3 Phases:&lt;br/&gt;&lt;br/&gt;1.  Event Phase&lt;br/&gt;-   Roll once on the event table. Except for the blizzard result, all other results will require the player to make a test against either Gear, Will, or Skill. A test is resolved by rolling 1D10. If the number rolled is equal to or less than the value of the stat, you pass the test. If it is less, you fail the test which will usually result in a permanent loss of a stat or a penalty to your move total in the travel phase.&lt;br/&gt;&lt;br/&gt;2.  Travel Phase&lt;br/&gt;-   Draw 5 travel cards. You may discard up to 2 cards and draw replacements. &lt;br/&gt;Add up the move values of all 5 cards.  This is your move total - move that many spaces forward. You must stop upon reaching the North Pole. &lt;br/&gt;-   If you land on an opponent&amp;rsquo;s pawn that is not on its starting space, move it back 1 space. &lt;br/&gt;-   If you have 2 or more dog cards move an extra +1. &lt;br/&gt;-   If you have 4 or more trek cards move an extra +1.&lt;br/&gt;&lt;br/&gt;3.  End Phase&lt;br/&gt;-   Consume 1 food point. &lt;br/&gt;-   If there is no food left then -1 dog. &lt;br/&gt;-   If there is no food or dogs roll on the casualty table and resolve.  This will result in the loss of men, will or skill.&lt;br/&gt;&lt;br/&gt;Play continues until all expeditions return to their start point, or fail in the process.  Victory points (VP) are awarded as follows:&lt;br/&gt;-   1 VP for reaching the North Pole. &lt;br/&gt;-   An extra 2 VP for being first to reach the North Pole. &lt;br/&gt;-   1 VP for getting back (Surviving). &lt;br/&gt;-   1 VP for being the first to get back. &lt;br/&gt;-   1 VP for never failing a morale check. &lt;br/&gt;The player with most VP wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="362767">First Edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,105 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="203664">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Holy Grail</name>
+							<name  sortindex="1">ホーリー グレイル</name>
+									
+			<description>In this cooperative dice game, players direct a team of six female Knights of the Round Table (a number of Player Knights equal to the number of players, plus enough Questing Knights to make up the remainder) on a quest to obtain the Holy Grail. Each Knight has its own special ability that may prove useful during the team's adventures.&lt;br/&gt;&lt;br/&gt;The Knights travel a path through the countryside, rolling dice in an attempt to gain valuable items that will score points or aid in future battles. At the end of the path, the Knights must roll dice to engage a Boss Monster in combat. All the while, the Knights must contend with worldly corruption, represented by Karma tokens. Any Knight who gains too many Karma tokens is too corrupt to obtain the Holy Grail and is eliminated from the quest.&lt;br/&gt;&lt;br/&gt;Each Boss Monster battle represents the end of one round. After 3 rounds (Easy or Normal difficulty levels) or 4 rounds (Hard difficulty level), the Knights face one final trial to obtain the Holy Grail. If any Player Knight is eliminated due to too much corruption, or if the Knights fail to defeat the final Boss Monster, the players immediately lose. If the players pass the final trial and obtain the Holy Grail, they win. Victorious players may calculate a final score based on the items and successes gained during the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZSAG9r7RGpBOR8B8ziEeg0tpSZw=/fit-in/200x150/pic3103515.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/c8phnBeUn4bYm5BpP3iI8fjumL8=/0x0/pic3103515.jpg</image>
+						
+												<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="317471">Japanese first edition</boardgameversion>
+															<boardgamedesigner objectid="53801">Kuro</boardgamedesigner>
+															<boardgamepublisher objectid="19114">Manifest Destiny</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.5</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>8</wanting>
+					<wishing>24</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

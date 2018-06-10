@@ -1,0 +1,126 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="231038">
+			<yearpublished>2019</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Dreamscape</name>
+									
+			<description>Dreamscape is a unique &amp;quot;dream building&amp;quot; game. Incarnate a dreamer collecting dreamshards in mysterious locations such as the lair of the Clockwork Golem. Create dreamscapes with these shards, stroll along paths, climb mountains, and pass through waterfalls. A game of Dreamscape is played in five rounds consisting of two phases:&lt;br/&gt;&lt;br/&gt;In the Travel phase, wander through the dreamworld in quest for dreamshards. Use with skill the key function of the locations you cross and save precious action points to collect more shards. But avoid Mr Nightmare, who is lurking around to infest your dreams.&lt;br/&gt;&lt;br/&gt;Then comes the Creation phase, in which you construct your own dreamscape in 3D, using the collected dreamshards. Score points for completed landscapes as listed on your personal goals. And to shape your Dreamscape constantly evolving,  you can rely on the essential location powers.&lt;br/&gt;&lt;br/&gt;Furthermore, a series of common goals offer new challenges with each game, influencing your choices while collecting and building your Dreamscape.&lt;br/&gt;&lt;br/&gt;Dreamscape offers a game experience that cannot be compared to any other game, with a unique combination of route-planning, resource collecting and ultimately building your own little Dreamworld as a small tableau. In the end, the wonderful dreamscapes you will create will leave you with a magical feeling, constantly renewed.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/WgvyY_nomxtwp3ko1S4dNhpPVwY=/fit-in/200x150/pic3800115.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/OKHrJnM6PK_9Qp4MboXVJXIDqc4=/0x0/pic3800115.jpg</image>
+						
+																			<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamedesigner objectid="27736">David Ausloos</boardgamedesigner>
+															<boardgameartist objectid="27736">David Ausloos</boardgameartist>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+																						<boardgameversion objectid="361442">English/French first edition</boardgameversion>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="36803">Sylex</boardgamepublisher>
+															<boardgamepodcastepisode objectid="234216">The Dice Men Cometh – Episode 206</boardgamepodcastepisode>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>53</usersrated>
+					<average>8.46264</average>
+					<bayesaverage>5.59418</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6204" bayesaverage="5.59418" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1546" bayesaverage="5.63655" />
+												
+											</ranks>
+					
+					<stddev>1.19775</stddev>
+					<median>0</median>
+					<owned>29</owned>
+					<trading>0</trading>
+					<wanting>32</wanting>
+					<wishing>252</wishing>
+					<numcomments>55</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

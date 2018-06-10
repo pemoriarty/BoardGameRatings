@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="253570">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Liar Battleship</name>
+									
+			<description>Each player leads a battleship fleet. The object of the game is destroy all of your opponent's ships. In each turn player fire cannon to opponent's fleet, opponent announce hit or miss, but they can lie.But this game is also suitable for those are not good at lying, because all lying ablity is given by ship itself.&lt;br/&gt;player number: 2~4&lt;br/&gt;game time：15 minutes per player&lt;br/&gt;&lt;br/&gt;Each player has 6 ships and 6 empty sea cards,place their 12 cards face down to form a 4x3 formation&lt;br/&gt;Each player on his turn has 2 actions.&lt;br/&gt;For each action, player has 3 options&lt;br/&gt;1) Attack directly: attack 1 of opponent's card. The opponent look at his card. If it is a ship, he say &amp;ldquo;Hit&amp;rdquo;, if it is not a ship, he say &amp;ldquo;Miss&amp;rdquo;. Put &amp;ldquo;Hit&amp;rdquo; or &amp;ldquo;Miss&amp;rdquo; token on that card.&lt;br/&gt;2）Attack adjacently: attack a space between two cards. The opponent look at both his cards. If either of them is a ship, he say &amp;ldquo;Hit&amp;rdquo;; if neither of them is a ship, he say &amp;ldquo;Miss&amp;rdquo;. Place &amp;ldquo;Hit&amp;rdquo; or &amp;ldquo;Miss&amp;rdquo; token  between margin of two cards.&lt;br/&gt;Whenever a ship's life point is equal of below 0 (life points on card minus &amp;ldquo;Hit&amp;rdquo; on the ship card and around the ship card), the ship is sunk. Ship's owner shall flip the card face up.&lt;br/&gt;3) Radar scan. Scan one cross point of two margin lines. Opponent look at his cards around scan point.Opponent count all this cards current life point and say that number. Put a radar scan number token on that point.&lt;br/&gt;&lt;br/&gt;maybe you think attack adjacently is more powerful,but may ship's ability is against adjacent attack. For example, submarine dodge all adjacent attack and count it as Miss.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamedesigner objectid="94585">Eastfire</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgameversion objectid="407110">Print &amp; Play edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

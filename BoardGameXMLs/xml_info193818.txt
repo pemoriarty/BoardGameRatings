@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="193818">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>80</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Basketball Age</name>
+									
+			<description>&amp;iquest;Would you like to play a basketball match on a table at home?   &lt;br/&gt;                                                     Now you can...&lt;br/&gt;&lt;br/&gt;BASKETBALL age is a basketball simulator for 2 persons that recreates an exciting basketball match.&lt;br/&gt;&lt;br/&gt;You&amp;acute;re one of the two team coaches facing off. You have to choose your &amp;ldquo;starting lineup&amp;rdquo; on the court to win the match. As in a normal match, your players will move around a basketball court, divided in zones where the players perform basketball actions.&lt;br/&gt;&lt;br/&gt;Each player has his own skills (play skill, movement points, passing, scoring % and height). Players skills are different according to their position.&lt;br/&gt;&lt;br/&gt;Court players are activated and perform their actions one by one and in alternating way (attacker-defender and so on) until the end of possession or turn over. Attacking team has a turn to score. It consists of 10 attacking player&amp;acute;s activation, or the buzzer will sound. You can activate the same player in a row as many times as you want.&lt;br/&gt;&lt;br/&gt;Following a simple rules and rolling dice (six sided and ten sided dice) you&amp;acute;ll be able to perform all kind of basketball actions like passes, rebounds, fouls, freethrows, blocks, pick&amp;amp; roll, steals, two-point shots, lay ups, three-pointers, dunks....&lt;br/&gt;&lt;br/&gt;&amp;iquest;Have you got what it takes to lead your team to victory?&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ru9E3tNdMb0btkCurYpX4vNYpW8=/fit-in/200x150/pic2906192.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/d9qDbYuAM4cXZlGFHt7CyzJhEsY=/0x0/pic2906192.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+																													<boardgameartist objectid="67903">Gonzo Bríos</boardgameartist>
+															<boardgamedesigner objectid="57677">Eduardo Crespo</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameversion objectid="301028">First edition</boardgameversion>
+															<boardgamepublisher objectid="31730">Lucky loser</boardgamepublisher>
+																						<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+															<boardgamefamily objectid="5574">Sports: Basketball</boardgamefamily>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgameimplementation objectid="118964" inbound="true">Solo Baloncesto</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>65</usersrated>
+					<average>7.65231</average>
+					<bayesaverage>5.59734</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6082" bayesaverage="5.59734" />
+												
+											</ranks>
+					
+					<stddev>1.55703</stddev>
+					<median>0</median>
+					<owned>79</owned>
+					<trading>3</trading>
+					<wanting>7</wanting>
+					<wishing>33</wishing>
+					<numcomments>13</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

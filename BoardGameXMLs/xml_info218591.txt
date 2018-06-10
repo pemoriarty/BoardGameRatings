@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="218591" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Commodore A501</name>
+									
+			<description>User Summary&lt;br/&gt;Shielded RAM expansion made by Commodore to their Amiga 500's trapdoor slot.&lt;br/&gt;&lt;br/&gt;It have 512 kB on the board as well as a battery backed-up clock (for Workbench).&lt;br/&gt;&lt;br/&gt;First type (up to Rev. 5) had 16 DIPs of 256Kx1, from revision 6 (1988 and onwards) it had &amp;quot;only&amp;quot; four DIPs of 564Kx4&lt;br/&gt;&lt;br/&gt;For Amiga 500+ there came a the A501+ expansion, this had 1MB on the expansion board, using eight 256Kx4 DIPs.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehwversion objectid="340510">A501 - Rev 6+ - 4 DIPs / 512 kB</videogamehwversion>
+															<videogamehwversion objectid="340509">A501 - up to Rev 5 - 16 DIPs / 512 kB</videogamehwversion>
+															<videogamehwversion objectid="340517">A501+ (for Amiga 500Plus) / 1 MB</videogamehwversion>
+															<videogamehardwarecategory objectid="2326">Add-On</videogamehardwarecategory>
+															<videogamehwmfg objectid="11464">Commodore International Limited (Commodore)</videogamehwmfg>
+															<videogamehardware objectid="4415" inbound="true">Amiga</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

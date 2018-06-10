@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="225460">
+			<yearpublished>1993</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Leader Foot</name>
+									
+			<description>Realistic football (soccer) simulation using magnetic board and pawns.&lt;br/&gt;3 difficulty levels give a gameplay from a simple family game to real pedagogic and professional simulation.&lt;br/&gt;&lt;br/&gt;With the first level of difficulty, each player gets a maximum of 5 actions per turn and must choose between attack, defense, shooting attempt, shooting, shooting defense and goalkeeper.&lt;br/&gt;&lt;br/&gt;A special dice thrown give the result of each action and let the players know if it result with a goal or not after the succeded actions were simulated moving the pawns and the ball directely on the board.&lt;br/&gt;&lt;br/&gt;The second and third levels of difficulty add more specifics and complex rules to the first ones by introducing real professional and international rules as corner, free-kick, offside, penalty and throw in.&lt;br/&gt;&lt;br/&gt;Each player get 1 minute for its turn and the game can be set for 1 ou 2 45 minutes half times.&lt;br/&gt;&lt;br/&gt;As a real soccer match, the best goal scored player is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamedesigner objectid="100949">Christian Delcourt</boardgamedesigner>
+															<boardgamedesigner objectid="100950">Philippe Delcourt</boardgamedesigner>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgamepublisher objectid="7818">Ferriot Cric</boardgamepublisher>
+															<boardgameversion objectid="352436">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1038">Sports</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

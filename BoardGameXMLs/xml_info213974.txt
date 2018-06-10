@@ -1,0 +1,137 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="213974">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Danger Suit</name>
+									
+			<description>Danger Suit is a multiplayer strategy game designed to pit one player as the Villain against a team of up to five Heroes who must work together to build mechanical superhero suits. While the Heroes build their suits, the Villain incrementally destroys the 25 city hex tiles that make up the game board. This gives the Villain special powers, fuels mutations, and helps him collect energy cubes to power his death ray. Heroes must battle the Villain to gain control of the energy cubes in an attempt to save the city.&lt;br/&gt;&lt;br/&gt;Players start each turn with two Action Points (AP) which they may use on various actions. Heroes can use their AP to move around the board, fight the Villain, conduct research to build their suits, or charge up to gain energy cubes. The Villain uses his AP to move around the board, fight the Heroes, or destroy the city. Each Hero has unique powers that give them advantages in combat or suit building.&lt;br/&gt;&lt;br/&gt;Heroes build their Danger Suits by entering laboratory tiles where they get to draw three cards from the Danger Suit deck. These cards can include parts for their suit (helmets, arms, torsos, or legs), Civil Defense Forces which help the Heroes, or event cards, which will hinder the Heroes with various setbacks. As their suits get more powerful, they can travel to power stations to draw energy cubes from the pool. Meanwhile, the Villain moves to city tiles and destroys them by flipping them over to reveal negative actions for the Heroes. As he does this he draws three cards from the mutation deck which change his evolving form and add armies of minions which he can attack the Heroes with.&lt;br/&gt;&lt;br/&gt;The game ends when either the Heroes collect all the energy cubes denying the Villain any power, or when the Villain destroys the city. This can be done by charging the death ray in his fortress or by destroying all of two different city tile types.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Rw8DaNKabPVkjVM5ojeKoRq5cQU=/fit-in/200x150/pic3273704.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/r1ny4zX5j2ICrNazypmVTRM9nVQ=/0x0/pic3273704.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+																						<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="333795">First Edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="96643">Matt Peterson</boardgamedesigner>
+															<boardgamedesigner objectid="96644">Kyleen Peterson</boardgamedesigner>
+															<boardgamemechanic objectid="2003">Rock-Paper-Scissors</boardgamemechanic>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameartist objectid="96646">Michael Velasco</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>7.57143</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.87139</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

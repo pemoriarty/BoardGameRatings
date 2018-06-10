@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="234860">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Hack Trick: C&#039;est le moment de cracker !</name>
+							<name primary="true" sortindex="1">Hack Trick: It&#039;s Hacking Time</name>
+							<name  sortindex="1">Hack Trick: Scoate hackerul din tine!</name>
+									
+			<description>You are a hacker completing missions for money and reputation. Your mission in Hack Trick: It's Hacking Time is to infect all three servers of a main axis, or all three Northern, Eastern, Southern or Western servers, or destroy one with a triple attack.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OuXolxPIyAZTpIptKkko2Sr3HoU=/fit-in/200x150/pic3730063.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/_ZlqM91xjCCvgltHiXpeROq7F2c=/0x0/pic3730063.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameartist objectid="74508">Vincent Burger</boardgameartist>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamedesigner objectid="74331">József Dorsonczky</boardgamedesigner>
+															<boardgameversion objectid="368482">English/German edition</boardgameversion>
+															<boardgameversion objectid="370974">French edition</boardgameversion>
+															<boardgameartist objectid="103316">Csaba Gálfi</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="30399">Ludicus</boardgamepublisher>
+															<boardgamepublisher objectid="26110">Mind Fitness Games</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamepublisher objectid="30034">PixieGames</boardgamepublisher>
+																						<boardgameversion objectid="370975">Romanian edition</boardgameversion>
+															<boardgameimplementation objectid="181440" inbound="true">Hack Trick</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>31</usersrated>
+					<average>7.04839</average>
+					<bayesaverage>5.53737</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9342" bayesaverage="5.53737" />
+												
+											</ranks>
+					
+					<stddev>1.53683</stddev>
+					<median>0</median>
+					<owned>70</owned>
+					<trading>1</trading>
+					<wanting>3</wanting>
+					<wishing>31</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229127">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="5">The Byzantines</name>
+									
+			<description>A card game for 2 players in which players take turns controlling the Byzantine Empire. On a player&amp;rsquo;s off-turn he represents the many foes of the Byzantines. The game is divided into 3 ages - the first 4 turns are the Early Age, turns 5-8 are the Middle Age, turns 9-12 are the Late Age. Each player will get to be the Byzantines for 6 out of the 12 turns.&lt;br/&gt;&lt;br/&gt;Each player starts with 10 Legacy Tokens. The Byzantine Empire starts with 10 Territory Tokens (TT). The most TT it can have is 20. If at any time the Byzantine Empire is reduced to zero or less Territory Tokens the game ends immediately and the current Byzantine player loses 3 Legacy Tokens.&lt;br/&gt;&lt;br/&gt;There are 2 decks: The Byzantine Deck and the Foes Deck. Cards are of certain types and have a force value. Some cards are only useable during specific Ages. At the start of the game all Middle and Late Age cards are removed from the decks and set aside. When the Middle Age starts the Middle Age cards are shuffled into the decks. When the Late Age starts the Late Age cards are shuffled into the deck.&lt;br/&gt;&lt;br/&gt;Each turn has 6 Phases: &lt;br/&gt;1.  Draw Phase&lt;br/&gt;-   The Foe player fills their hand to 8 cards. &lt;br/&gt;-   The Byzantine player fills his hand to 9 cards in the Early Age, 8 cards in the Middle Age, or 7 cards in the Late Age.&lt;br/&gt;&lt;br/&gt;2.  Age Phase&lt;br/&gt;-   Discard any cards in your hand that are not useable in the current Age and draw replacements. If the discarded cards are from an earlier age, remove them from the game.&lt;br/&gt;&lt;br/&gt;3.  Redraw Phase&lt;br/&gt;-   Each player may discard up to 4 cards and draw replacements.&lt;br/&gt;&lt;br/&gt;4.  Meld Phase&lt;br/&gt;-   Each player makes a Meld. &lt;br/&gt;-   A Byzantine meld may have up to 1 leader card, 2 recovery cards, 4 troop cards, 1 negotiation card and 2 legacy cards&lt;br/&gt;-   A Foe meld may have up to 1 Northern foe card, 1 Southern foe card, 2 disaster cards (Max 1 Natural Disaster) and 4 troop cards&lt;br/&gt;-   If a negotiation card is played, the Byzantine player may discard 1 target Foe card. The Foe player may replace it immediately with another Foe card if he has one in hand. &lt;br/&gt;-   Each player totals the force of the cards in his meld. The side with the higher force total wins. If tied the Foe player wins. &lt;br/&gt;-   The Byzantine Empire gains or loses Territory Tokens equal to the difference in the Force Point Totals.  &lt;br/&gt;-   All Meld cards are discarded. Unique Meld cards are removed from play.&lt;br/&gt;&lt;br/&gt;5.  Legacy Phase&lt;br/&gt;-   The Byzantine Player (BP) potentially earns Legacy Tokens (LT). If the Empire lost TT this turn the BP loses 1 LT. If the Empire gained TT this turn the BP gains 1 LT. &lt;br/&gt;-   The BP gains LT equal to the legacy value of the legacy cards he played in Meld Phase.&lt;br/&gt;&lt;br/&gt;6.  End Phase&lt;br/&gt;-   If you have cards left in your hand, discard down to 1 card and pass it to your opponent. &lt;br/&gt;-   Players switch control of the Emperor Token.&lt;br/&gt;&lt;br/&gt;The game ends after 12 turns. The player with the most Legacy Tokens at the end of the game wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="358182">First Edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

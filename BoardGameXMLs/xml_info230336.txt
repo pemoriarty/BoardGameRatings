@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="230336">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Biohazard War</name>
+									
+			<description>A 2-player card game based on the Resident Evil franchise using collectible card game style mechanics. One player is the Heroes. The other is the Umbrella Corporation.&lt;br/&gt;&lt;br/&gt;There are 2 decks:  &lt;br/&gt;&lt;br/&gt;     The Hero Deck has 3 types of cards: Teams, Characters and Events.  These have the following sub-types: Operative, Merc, Survivor&lt;br/&gt;     The Umbrella Deck has 3 types of cards: Facilities, Units and Events.  Unit cards are further divided into the following sub-types: Soldiers, Monsters, Zombies and Vehicles. Traps are a subtype of Event.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Event cards and Traps, when played, take effect immediately and are then discarded. Other types of cards remain in play.&lt;br/&gt;&lt;br/&gt;The Umbrella player starts with all 6 Facility cards in play except for the New Facility. &lt;br/&gt;The Hero searches his deck for 1 Team Card and puts it into play. &lt;br/&gt;Each player draws 2 cards for their starting Hand.&lt;br/&gt;&lt;br/&gt;Each turn has 6 phases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Draw Phase&lt;br/&gt;         Each player draws 2 cards from their respective decks.  &lt;br/&gt;         If the Hero player has no teams in play, he must search his deck for a team, put it in play, and then shuffle his deck. &lt;br/&gt;    &lt;br/&gt;     Event Phase&lt;br/&gt;         Certain event cards are played only in this Phase.  Players take turns, starting with the Umbrella player. &lt;br/&gt;    &lt;br/&gt;     Recruit Phase&lt;br/&gt;         Cards are put into play from the players hand. When putting a card into play it is placed face up on the table. &lt;br/&gt;         The Hero player puts team cards into play. The Hero player then puts character cards into play. Character cards must be attached to team cards.  A team card may have up to 2 characters attached (or 3, if at least one of them is a survivor).&lt;br/&gt;         The Umbrella player may play one or more Units.&lt;br/&gt;         The Umbrella player may play the New Facility card.  &lt;br/&gt;    &lt;br/&gt;     Assault Phase&lt;br/&gt;         The Hero player may conduct one assault - one of his teams may attack one target facility.  The Hero player commits the team, its characters, and any event cards he wants to play that will assist an assault. He adds up the force values and bonuses of all these cards and adds 2D6. This is the Assault Force Total (AFT). &lt;br/&gt;         The Umbrella player commits the targeted facility, one unit, one or more traps and any events that will assist in defending against the assault. He adds up the force values and bonuses of all these cards and adds 2D6. This is the Facility Defence Total (FDT). &lt;br/&gt;         If the AFT is equal to or greater than the FDT the base is destroyed and removed from play. If the FDT is greater the Team is destroyed and removed from play.  Of the attached characters of a destroyed Team 50% are discarded and 50% put back in the Hero players hand. &lt;br/&gt;         If the facility is destroyed all other cards used in its defence are discarded. If the facility wins, there is a 50% chance the defending unit is still discarded. Win or lose all Event and Trap cards are discarded. &lt;br/&gt;    &lt;br/&gt;     Search Phase&lt;br/&gt;         The Umbrella player may conduct one Search and Destroy Mission - one of his Units may attack one target team.  This is handled just like an assault.  The Umbrella player generates a Search and Destroy Force Total (SDFT). The Hero player generates a Team Defence Total (TDT). An Umbrella unit, even if it wins, has a 50% chance after combat of being discarded. &lt;br/&gt;    &lt;br/&gt;     End Phase&lt;br/&gt;         Max hand size is 5 cards.  Players discard excess cards. &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Hero Player wins if all the Umbrella facilities are destroyed.  The Umbrella Player wins if all the teams are destroyed.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+																			<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="360064">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

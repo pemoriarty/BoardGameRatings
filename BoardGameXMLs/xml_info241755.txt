@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="241755">
+			<yearpublished>0</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>1</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Clock Solitaire</name>
+									
+			<description>Clock Solitaire is a card game with a traditional deck of 52 cards. The game is called Clock Solitaire, because twelve piles of cards are arranged like a clock face around a 13th one in he middle. The object of the game is to complete all other four-of-a-kind before the four kings are completed.&lt;br/&gt;&lt;br/&gt;The cards are dealt face down into 13 piles, twelve in a circle around the last one in the middle. The piles are numbered 1 to 12 as on a clock face with pile 13 in the middle.&lt;br/&gt;&lt;br/&gt;The top card of the 13 pile is revealed. Play the card under the corresponding pile. Ace under the 1 pile, 2 under 2, and so on. Faces are played Jacks under 11, Queens under 12, and King under 13. Then reveal the top card of this pile and play it as described above. If there is no more the face down card on this pile continue with the next face down card in clockwise order.&lt;br/&gt;&lt;br/&gt;The game is won, if all piles become face up piles of four-of-a-kind. The game is lost, if the fourth king is revealed before all other cards are played face up.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="386026">Public domain edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>2.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

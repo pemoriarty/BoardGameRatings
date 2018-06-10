@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229188">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Cossacks</name>
+									
+			<description>A card game for 2-4 players in which players take on the roles of the Cossacks and their enemies!&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising 20 suits.  Each suit has 3 cards. The cards have 7 basic characteristics: Enemy, Disaster, Men, Control, Action, Fight and Victory. Each suit performs one or two of these basic characteristics.&lt;br/&gt;&lt;br/&gt;There is a common set of Victory Tokens (VT) and Cossack Tokens (CT) and one Hetman Token (HT).&lt;br/&gt;&lt;br/&gt;Each player takes the role of one Cossack enemy: Russians, Poles, Ottomans, or Tatars.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 7 Phases:&lt;br/&gt;&lt;br/&gt;1.   Fate Phase&lt;br/&gt;-    You draw 3 cards. You may discard a control card to draw 2 additional cards.&lt;br/&gt;&lt;br/&gt;2.   Sich Phase&lt;br/&gt;-    You may trade cards, CT, and VT with other players.&lt;br/&gt;&lt;br/&gt;3.   Control Phase&lt;br/&gt;-    You may discard a control card to gain possession of the Hetman Token. &lt;br/&gt;-    You may discard a disaster card to cause a target player to &lt;br/&gt;discard 3 random cards from his hand.&lt;br/&gt;&lt;br/&gt;4.   Cossack Phase&lt;br/&gt;-    You may discard men cards: If you discard 2 men cards gain 3 cossack tokens (CT); 3 men cards gain 5 CT; 4 men cards gain 7 CT and so on. Add 1 CT if one or more cards are from the same suit.&lt;br/&gt;&lt;br/&gt;5.   Raid Phase&lt;br/&gt;-    To go on a raid, you must be the current Hetman and you must discard 1 enemy card and 1 action card, otherwise skip this phase. &lt;br/&gt;-    You cannot play an enemy card corresponding to the role that is yours. &lt;br/&gt;-    Roll 3 dice and add them up to get a raid total. Subtract this total from the number of CT you have. If the result is positive gain that many VT. If the result is negative, lose that many VT. &lt;br/&gt;-    You may discard a fight card to cause a 1 of the 3 dice to be rerolled or to cause a roll to be reduced by 1. &lt;br/&gt;-    Discard all your CT. &lt;br/&gt;-    If you won, the player with the role of that enemy loses VT equal to the amount you gained.&lt;br/&gt;&lt;br/&gt;6.   Glory Phase&lt;br/&gt;-    If you are the current Hetman gain 1 VT. &lt;br/&gt;-    If you went on a successful raid last phase you may discard 1 victory card to gain 1 VT, 2 victory cards to gain 3 VT, 3 victory cards to gain 5 VT and so on. &lt;br/&gt;-    You may also play an enemy card of the same suit of the enemy card you &lt;br/&gt;played in Raid Phase: Gain 3 VT for each such card played.&lt;br/&gt;&lt;br/&gt;7.   End Phase&lt;br/&gt;-    Discard an enemy card or reveal your hand to all players. &lt;br/&gt;-    Max 10 CT. Discard excess CT. &lt;br/&gt;-    Max Hand size is 4 cards. Discard excess cards.&lt;br/&gt;&lt;br/&gt;The first player to accumulate 35 Victory Tokens wins the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="358319">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

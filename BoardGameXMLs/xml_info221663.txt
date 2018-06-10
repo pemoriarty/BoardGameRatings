@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="221663">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Flicker</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Flicker is a connection game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The top and bottom edges of the board are colored black; the left and right edges are colored white.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A weak pair is a set of two like-colored, diagonally adjacent stones such that there is no like-colored stone orthogonally adjacent to both.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On your turn, you must either place a stone of your color on an empty point or remove a stone from an enemy weak pair.&lt;br/&gt;&lt;br/&gt;You can't place a stone where your opponent just removed a stone from or remove a stone your opponent just placed. Also, you can't make a removal if either player made one on their single latest turn.&lt;br/&gt;&lt;br/&gt;If you have no move available on your turn, you must pass. Passing is otherwise not allowed.&lt;br/&gt;&lt;br/&gt;The game is won by the player who completes a chain of orthogonally adjacent stones of their color touching the two opposite board edges of their color.&lt;br/&gt;&lt;br/&gt;If a board position is repeated with the same player to move, the game ends in a draw. This can happen in certain positions with a board full of stones, but no such position has been conceived yet where creating a repetition is the optimal course of play.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pie rule&lt;br/&gt;&lt;br/&gt;The pie rule is used in order to make the game fair. This means that White will have the option, on their first turn only, to change sides instead of making a regular move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bb-oXDA8ffUg-BF6Nr3FWqOaY5s=/fit-in/200x150/pic3463697.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/X9Zj5tebI-NUrTvhk4bjBhX3HaY=/0x0/pic3463697.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="345965">First edition</boardgameversion>
+																						<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.6</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

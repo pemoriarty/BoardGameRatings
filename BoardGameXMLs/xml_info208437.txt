@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="208437">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Morpheus</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Morpheus is a drawless connection game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The top and bottom edges of the board are colored black; the left and right edges are colored white.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;To flip a stone means to replace it with a stone of the opposite color.&lt;br/&gt;&lt;br/&gt;A vulnerable black stone is a black stone that is part of at least one of the following two patterns or their translations, rotations or reflections:&lt;br/&gt;&lt;br/&gt;a) Black stone on b2 and white stones on b3, a3, a2 and b1.&lt;br/&gt;&lt;br/&gt;b) Black stone on b2 and white stones on a4, a3, a2, b1 and c1.&lt;br/&gt;&lt;br/&gt;Likewise, with colors reversed, for vulnerable white stones. In all cases, the colored edges of the board count as lines of stones of their respective colors, with a length equal to that of a normal row or column of the board. The status of any points outside those patterns is irrelevant.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On their turn, a player must either place a stone of their color on an empty point of the board or flip a vulnerable enemy stone.&lt;br/&gt;&lt;br/&gt;If a player has no moves available on their turn, they must pass. Passing is otherwise not allowed. There will always be a move available to at least one of the players.&lt;br/&gt;&lt;br/&gt;If, at the end of a player's turn, there is a chain of orthogonally adjacent stones of their color touching the two opposite board edges of their color, that player wins. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pie rule&lt;br/&gt;&lt;br/&gt;The pie rule is used in order to make the game fair. This means that White will have the option, on his first turn only, to change sides instead of making a regular move.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Variants&lt;br/&gt;&lt;br/&gt;The following mutators can be used (together or separately) to alter the character of the game:&lt;br/&gt;&lt;br/&gt;a) Both vulnerability patterns have the stone in the top left corner removed from them. This results in a game reminiscent of Crossway, but somewhat slower and free of illegal moves on empty points. All other mutators on this list work best when combined with this one.&lt;br/&gt;&lt;br/&gt;b) A stone that was flipped by the enemy on their latest turn still counts as a friendly stone for flipping purposes. In this case, the winning condition must be checked for a player at the start of their turn instead of at the end of it, and it's illegal to flip a stone if the opponent could flip it back on their next turn.&lt;br/&gt;&lt;br/&gt;c) On their turn, a player must either place up to two stones of their color on empty points or flip one vulnerable enemy stone.&lt;br/&gt;&lt;br/&gt;d) When a player flips a stone on their turn, their opponent has the right to place an additional stone on an empty point on their next turn.&lt;br/&gt;&lt;br/&gt;e) Before the start of the game, the board is filled with stones forming a checkered pattern. This results in a game very similar to Metamorphosis but without draws.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="325472">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>4.9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.84371</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

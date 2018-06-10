@@ -1,0 +1,117 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196339">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">7 Wonders Duel: Freiheitsstatue</name>
+							<name  sortindex="1">7 Wonders Duel: La Statue de la Liberté</name>
+							<name primary="true" sortindex="1">7 Wonders Duel: Statue of Liberty</name>
+									
+			<description>Take the three cards of the current Age which were returned to the box during the game&amp;rsquo;s setup. Choose and construct one for free, place one in the discard pile, and your opponent constructs the third for free.&lt;br/&gt;&lt;br/&gt;This Wonder is worth 5 victory points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/V9Y9Hy4AKzhlJzhJ3D4NGjuTAC0=/fit-in/200x150/pic3243290.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XtQQIBqcYn4sqm5XXdt44IljCfI=/0x0/pic3243290.png</image>
+						
+												<boardgamefamily objectid="17552">7 Wonders</boardgamefamily>
+															<boardgamefamily objectid="39540">7 Wonders Duel</boardgamefamily>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamedesigner objectid="9714">Antoine Bauza</boardgamedesigner>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgamecategory objectid="1015">Civilization</boardgamecategory>
+															<boardgameartist objectid="12016">Miguel Coimbra</boardgameartist>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="305357">First edition</boardgameversion>
+																													<boardgamepublisher objectid="4384">Repos Production</boardgamepublisher>
+															<boardgameversion objectid="365522">Second edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="27646">Tableau Building</boardgamefamily>
+															<boardgameexpansion objectid="173346" inbound="true">7 Wonders Duel</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>315</usersrated>
+					<average>7.50349</average>
+					<bayesaverage>5.9337</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.9337" />
+												
+											</ranks>
+					
+					<stddev>1.4721</stddev>
+					<median>0</median>
+					<owned>2076</owned>
+					<trading>63</trading>
+					<wanting>121</wanting>
+					<wishing>270</wishing>
+					<numcomments>120</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

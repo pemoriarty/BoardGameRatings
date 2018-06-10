@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="205125">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>6</age>
+
+							<name  sortindex="5">Les Aventuriers du Rail: Mon Premier Voyage</name>
+							<name primary="true" sortindex="1">Ticket to Ride: First Journey (U.S.)</name>
+									
+			<description>Ticket to Ride: First Journey takes the gameplay of the Ticket to Ride series and scales it down for a younger audience.&lt;br/&gt;&lt;br/&gt;In general, players collect train cards, claim routes on the map, and try to connect the cities shown on their tickets. In more detail, the game board shows a map of the United States with certain cities being connect by colored paths. Each player starts with four colored train cards in hand and two tickets; each ticket shows two cities, and you're trying to connect those two cities with a contiguous path of your trains in order to complete the ticket.&lt;br/&gt;&lt;br/&gt;On a turn, you either draw two train cards from the deck or discard train cards to claim a route between two cities; for this latter option, you must discard cards matching the color and number of spaces on that route (e.g., two yellow cards for a yellow route that's two spaces long). If you connect the two cities shown on a ticket with a path of your trains, reveal the ticket, place it face up in front of you, then draw a new ticket. (If you can't connect cities on either ticket because the paths are blocked, you can take your entire turn to discard those tickets and draw two new ones.)&lt;br/&gt;&lt;br/&gt;If you connect one of the West Coast cities to one of the East Coast cities with a path of your turns, you immediately claim a Coast-to-Coast ticket.&lt;br/&gt;&lt;br/&gt;The first player to complete six tickets wins! Alternatively, if someone has placed all twenty of their trains on the game board, then whoever has completed the most tickets wins!&lt;br/&gt;&lt;br/&gt;Part of Ticket to Ride series.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sQNxhYnE6-zgsTJBr73gWJH_F8A=/fit-in/200x150/pic3116341.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/wxktIUKdYnqZav1j5OrxIlrG49E=/0x0/pic3116341.jpg</image>
+						
+												<boardgamecategory objectid="1041">Children&#039;s Game</boardgamecategory>
+															<boardgamesubdomain objectid="4665">Children&#039;s Games</boardgamesubdomain>
+															<boardgameartist objectid="12519">Cyrille Daujean</boardgameartist>
+															<boardgamepublisher objectid="1027">Days of Wonder</boardgamepublisher>
+															<boardgameversion objectid="319886">English first edition</boardgameversion>
+															<boardgameversion objectid="325052">French first edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="9">Alan R. Moon</boardgamedesigner>
+															<boardgameartist objectid="45899">Jean-Baptiste Reynaud</boardgameartist>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="17">Ticket to Ride</boardgamefamily>
+															<boardgameexpansion objectid="53383">Ticket to Ride: Europa 1912</boardgameexpansion>
+															<videogamebg objectid="238082">Ticket to Ride: First Journey</videogamebg>
+															<boardgameimplementation objectid="218208">Ticket to Ride: First Journey (Europe)</boardgameimplementation>
+																						<boardgamecategory objectid="1034">Trains</boardgamecategory>
+															<boardgameimplementation objectid="9209" inbound="true">Ticket to Ride</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>626</usersrated>
+					<average>7.0409</average>
+					<bayesaverage>6.01893</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2014" bayesaverage="6.01893" />
+												
+							
+														<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="18" bayesaverage="6.66684" />
+												
+											</ranks>
+					
+					<stddev>1.17762</stddev>
+					<median>0</median>
+					<owned>1782</owned>
+					<trading>12</trading>
+					<wanting>60</wanting>
+					<wishing>251</wishing>
+					<numcomments>195</numcomments>
+					<numweights>10</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

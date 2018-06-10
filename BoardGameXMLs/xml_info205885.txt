@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="205885">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>25</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>25</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">X nimmt!</name>
+									
+			<description>It's time to run from the bulls once again in X nimmt!&lt;br/&gt;&lt;br/&gt;This card game starts with the same premise as the well-known 6 nimmt!: Each turn, players all simultaneously reveal one card from their hand, then these cards are placed into existing rows one at a time, starting with the lowest-valued card. If a row is full, then whoever played that final card takes all of the cards already in the row, scoring negative points for all of the bullheads on those cards.&lt;br/&gt;&lt;br/&gt;X nimmt! changes these rules a few ways. Each player starts with eight cards in hand and a personal X row. Played cards will be placed into three rows, with those rows being able to hold three, four or five cards. Whenever someone takes cards from a row, those cards go into the player's hand, then the player must play one card into their personal X row.&lt;br/&gt;&lt;br/&gt;All cards in this X row must also be played in ascending order! If you can't do this, then you place all of those X cards aside in order to start a new X row, with the value of those set-aside cards now being doubled.&lt;br/&gt;&lt;br/&gt;A round ends after someone plays the final card in their hand, and whoever has the fewest negative points after two rounds wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SD8AqZx_6nnpBwwA9EitCFd3t_c=/fit-in/200x150/pic3126004.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/rFQjR8Nn72qoi6__a31pMj3dyVs=/0x0/pic3126004.jpg</image>
+						
+												<boardgamefamily objectid="5012">6 nimmt!</boardgamefamily>
+															<boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+																													<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamepodcastepisode objectid="209450">Episode 78 - Near and Far</boardgamepodcastepisode>
+															<boardgameartist objectid="11901">Oliver Freudenreich</boardgameartist>
+															<boardgameversion objectid="321069">German first edition</boardgameversion>
+																																											<boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="12">Reinhard Staupe</boardgamedesigner>
+															<boardgamecompilation objectid="246912">Take Five &amp; Take A Number</boardgamecompilation>
+																						<boardgameimplementation objectid="432" inbound="true">6 nimmt!</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>373</usersrated>
+					<average>6.80228</average>
+					<bayesaverage>5.83084</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2929" bayesaverage="5.83084" />
+												
+											</ranks>
+					
+					<stddev>1.1547</stddev>
+					<median>0</median>
+					<owned>765</owned>
+					<trading>14</trading>
+					<wanting>42</wanting>
+					<wishing>157</wishing>
+					<numcomments>78</numcomments>
+					<numweights>6</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,134 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="221769">
+			<yearpublished>2017</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Bios: Megafauna (Second Edition)</name>
+									
+			<description>Bios: Megafauna starts where the predecessor game Bios: Genesis left off, with the invasion of the land on the daybreak of the Phanerozoic eon. Starting as either a plant, mollusk, insect, or vertebral skeletal type, your flapping, paddling, and squawking carnivores and herbivores make a beachhead on one of the drifting continental plates in the Cambrian, Their struggle for terrestrial dominance may eventually include language-based consciousness. Although this achievement elevated a certain mammal species to notoriety, in your game things may occur differently.&lt;br/&gt;&lt;br/&gt;This second edition of Bios: Megafauna is an evolutionary descendant of American Megafauna but as a part of the Bios series of games it is linked to the game Bios: Genesis. It plays well independently but if you have both games you can let the end state of a game of Bios: Genesis affect the starting state of a game of Bios: Megafauna.  A successor game, called Bios: Origins (which would be a descendant of Origin), is planned to cover the events of the Quaternary period including the rise of ideas and technology.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/vIiwMRHgFIJAAur-FoHvtq9014o=/fit-in/200x150/pic3493249.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/VWEv1h7iD0CNF1OJ_Yf3rRkYS0k=/0x0/pic3493249.png</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+																						<boardgamefamily objectid="23433">BIOS series</boardgamefamily>
+															<boardgameintegration objectid="98918">Bios: Genesis</boardgameintegration>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgameartist objectid="11925">Karim Chakroun</boardgameartist>
+															<boardgamedesigner objectid="46283">Andrew Doull</boardgamedesigner>
+															<boardgamedesigner objectid="174">Phil Eklund</boardgamedesigner>
+															<boardgameversion objectid="346136">English first edition</boardgameversion>
+															<boardgamecategory objectid="1084">Environmental</boardgamecategory>
+															<boardgamepodcastepisode objectid="214372">Episode 116 -- The 2017 Essen Session With Heavy Cardboard</boardgamepodcastepisode>
+															<boardgamefamily objectid="16886">Evolution</boardgamefamily>
+															<boardgamedesigner objectid="52913">Jon Manker</boardgamedesigner>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgameartist objectid="99099">Johanna Pettersson</boardgameartist>
+															<boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+															<boardgamepublisher objectid="101">Sierra Madre Games</boardgamepublisher>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgameintegration objectid="98918" inbound="true">Bios: Genesis</boardgameintegration>
+															<boardgameimplementation objectid="97915" inbound="true">Bios: Megafauna</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>216</usersrated>
+					<average>8.08435</average>
+					<bayesaverage>5.90289</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2519" bayesaverage="5.90289" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="363" bayesaverage="6.20046" />
+												
+											</ranks>
+					
+					<stddev>1.4551</stddev>
+					<median>0</median>
+					<owned>1744</owned>
+					<trading>28</trading>
+					<wanting>115</wanting>
+					<wishing>451</wishing>
+					<numcomments>136</numcomments>
+					<numweights>25</numweights>
+					<averageweight>4.56</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

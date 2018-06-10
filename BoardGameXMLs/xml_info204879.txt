@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="204879">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Planet Defenders</name>
+							<name  sortindex="1">星球防衛者</name>
+									
+			<description>By 2070, we have colonized hundreds of planets throughout the galaxy, and we use robots extensively for space missions. One day, a number of derelict robots suddenly recharge and appear to be operating outside their original programming! As the leading scientists in robot technology, you are tasked with directing the planet defenders to catch the derelict robots.&lt;br/&gt;&lt;br/&gt;In Planet Defenders, players pay batteries to control the three planet defenders, moving them among the planets and collecting energies. Players can enhance their actions by spending energies or batteries to upgrade their technology. They earn research points (RP) by catching derelict robots and collecting technology cards.&lt;br/&gt;&lt;br/&gt;When the robots from two different areas are depleted, complete the current round so that all players have an equal number of turns. At that point, the player with the highest RP wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SoVVKSc5dH0u8dyiNLmro3GiXcU=/fit-in/200x150/pic3720842.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ADB0Mww-DrEMZM8CKwRTT084Aws=/0x0/pic3720842.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamepublisher objectid="29636">EmperorS4</boardgamepublisher>
+															<boardgameversion objectid="359643">English Miniatures edition</boardgameversion>
+																													<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="93620">Wei-Min Ling</boardgamedesigner>
+															<boardgameartist objectid="92066">Maisherly</boardgameartist>
+															<boardgameversion objectid="319518">Multilingual first edition</boardgameversion>
+																																				<boardgamepublisher objectid="28072">Renegade Game Studios</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgameartist objectid="71432">Paul Tseng</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>117</usersrated>
+					<average>6.79128</average>
+					<bayesaverage>5.61961</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5486" bayesaverage="5.61961" />
+												
+											</ranks>
+					
+					<stddev>1.24658</stddev>
+					<median>0</median>
+					<owned>279</owned>
+					<trading>14</trading>
+					<wanting>17</wanting>
+					<wishing>130</wishing>
+					<numcomments>30</numcomments>
+					<numweights>5</numweights>
+					<averageweight>2.2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

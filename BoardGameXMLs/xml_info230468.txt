@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="230468">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">eXistenZial</name>
+									
+			<description>A card game for 2+ players based on the movie eXistenZ.&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising 8 card types which have differing effects when played: &lt;br/&gt;&lt;br/&gt;     Person - When you play a person card place it face up on the table in front of you. You control that person. It stays in play until killed. Person cards count for scoring. &lt;br/&gt;     Kill - Play a Kill card to cause a target Person to be discarded. Main Characters cannot be killed until there are no cards left in the deck, and then only one may be killed, not both. &lt;br/&gt;     Control - Play a Control card to take control of a target Person. &lt;br/&gt;     Location - Play a Location card to discard the previous location and replace it with this one. Location cards count for scoring. &lt;br/&gt;     Mechanism &amp;ndash; Play a Mechanism card to produce the effect it describes. &lt;br/&gt;     Gamepod - When you play a game pod card place it face up on the table in front of you. You control that game pod. It stays in play until it gets diseased. Game Pod cards count for scoring. The player with the most Game pod cards may play 1 additional card per turn. &lt;br/&gt;     Disease &amp;ndash; Play a Disease card to cause a target Game Pod to be discarded. &lt;br/&gt;     Quote - All players score their cards in play: &lt;br/&gt;         1 Point for playing the Quote Card&lt;br/&gt;         1 Point for each Person&lt;br/&gt;         2 Points for each Main Character &lt;br/&gt;         2 Points for the Location&lt;br/&gt;         1 Point for each Game Pod&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Allegra Geller and Ted Pikul cards are placed face-up in the centre of the table. These are the Main Character cards are not controlled by any player to start, but any player may play a control card to take control of one of them. Each player is dealt 3 cards.&lt;br/&gt;&lt;br/&gt;Players take turns. On a player&amp;rsquo;s turn, he draws 1 card from the deck and puts it in his hand. Then he may play 1 card from his hand. Max hand size is 7 cards. Extra cards are shuffled back into the deck.&lt;br/&gt;&lt;br/&gt;The game ends when there are no cards left in the deck, and all players have played all the cards from their hands. After the last card has been played all players score one last additional time. The player with the highest score wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="360265">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

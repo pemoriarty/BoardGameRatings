@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="246613">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Castella</name>
+									
+			<description>Two players play as bees and collect honey. The greedy bear will destroy the hive in the process to get the honey. To help their owner taste the delicious honey cake, players have to consider how to place their boards and collect resources. With mutual interference, the player who collects the most honey cakes wins.&lt;br/&gt;&lt;br/&gt;How to play&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Steps of the game&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Step 1. Get 1 hexagon card and select Honeycomb Side or Garden Side. It's needed to connect any side of the hexagon when placed.&lt;br/&gt;&lt;br/&gt;Step 2. Take actions of the card. A player can choose any hexagon card on the table and take its associated action.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Example of actions for the cards&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Honeycomb Side of the card  &amp;gt;  Honey producing or honey&lt;br/&gt;&lt;br/&gt;Get nectar cubes from bee card and put the cubes on the Honeycomb Card. Collect the honey cubes in the next run.&lt;br/&gt;&lt;br/&gt;Switch the white / black nectar cubes to the numbers of honey cubes according to the card, and then put the honey cubes on BOTTLE Card. Every 8 honey cubes could convert into 1 CASTELLA Card.&lt;br/&gt;&lt;br/&gt;Garden Side of the card  &amp;gt;  Nectar collecting&lt;br/&gt;&lt;br/&gt;Collect 1/2/3/D nectar cubes from your own Garden Card and put the cubes on the bee card. The nectar cubes on the bee card could be used to produce honey.&lt;br/&gt;&lt;br/&gt;How to use Greedy Bear Card&lt;br/&gt;&lt;br/&gt;Bear attack: Put Greedy Bear Card, the Greedy Bear would eat all of the nectar cubes on the Honeycomb Side around the Greedy Bear, and also turn the Honeycomb Side into Garden Side.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Goal of the game&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;When all the hexagon cards are out, the points are calculated by the total cubes on both the bee card, the bottle card, and the numbers of castella cakes.  The winner is the one who got the most points. If there are any Greedy Bear cards left, each Greedy Bear Card will deduct 1 honey cube on the honey card. If no honey cubes are on the honey Card, then no points would be deducted.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/lzDgqh6QfXFlMwy5k0sJSktdhfk=/fit-in/200x150/pic3999238.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2nVx-7TTYJiQ5IUZNyV_WJUpodA=/0x0/pic3999238.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamefamily objectid="7265">Animals: Bears</boardgamefamily>
+															<boardgamefamily objectid="7564">Animals: Bees</boardgamefamily>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="394991">First edition</boardgameversion>
+															<boardgamepublisher objectid="37401">Graemebase</boardgamepublisher>
+															<boardgamedesigner objectid="103444">Graeme Wu</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>10</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>4</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="202476">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Cation</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Cation is a drawless connection game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The top and bottom edges of the board are colored black; the left and right edges are colored white.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A crosscut is a 2x2 pattern of stones consisting of two diagonally adjacent black stones and two diagonally adjacent white stones.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On your turn, you will face one of these situations:&lt;br/&gt;&lt;br/&gt;a) There are no crosscuts on the board. In this case, you must place a stone of your color on an empty point such that it forms no crosscuts containing a stone that was placed or moved by the opponent on their latest turn. If there is no such placement available, you must pass. Passing is otherwise not allowed. A passed turn is still a turn.&lt;br/&gt;&lt;br/&gt;b) There are one or more crosscuts on the board. In this case, you must take a friendly stone from one of those crosscuts and place it on a different empty point where it doesn't create any other crosscuts. If no such point exists, the stone is simply removed from the board.&lt;br/&gt;&lt;br/&gt;The game is won by the player who completes a chain of orthogonally adjacent stones of their color touching the two opposite board edges of their color. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Pie rule&lt;br/&gt;&lt;br/&gt;The pie rule is used in order to make the game fair. This means that White will have the option, on their first turn only, to change sides instead of making a regular move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/I1Zv7R_Wl4cCTlBZUNK1SKnvjZ0=/fit-in/200x150/pic3065685.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/yXV_Io6StAm3jVKurKnq32r0U-E=/0x0/pic3065685.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="315332">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>6.2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.18748</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>6</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

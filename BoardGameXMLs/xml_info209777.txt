@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="209777">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Lear</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Lear is a finite territory game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The suggested board sizes are between 7x7 and 10x10 points.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;To flip a stone means to replace it with a stone of the opposite color.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On their turn, a player must place a stone of their color on an empty point. If the placement is part of an uninterrupted orthogonal line of stones made of&lt;br/&gt;&lt;br/&gt;a) two friendly stones and&lt;br/&gt;b) an uninterrupted line of enemy stones,&lt;br/&gt;&lt;br/&gt;said enemy stones are flipped. The two friendly stones can be both at one end of the enemy line or one at each end.&lt;br/&gt;&lt;br/&gt;x+oo ... +xoo ... +ooox ... +xxooo&lt;br/&gt;&lt;br/&gt;In the first three diagrams above, an x play at + flips the o stones; in the fourth diagram, it doesn't.&lt;br/&gt;&lt;br/&gt;The game ends when the board is full. The winner is the player with the highest score. A player's score is the number of stones with their color showing that there are on the board, plus a komi (see below) where appropriate.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Komi&lt;br/&gt;&lt;br/&gt;The komi is the number of points which are added to the score of the player who doesn't get to make the last move of the game. To avoid ties, the parity of komi should be different from the parity of the board size. On odd-sized boards, komi should be even and go to White; on even-sized boards, komi should be odd and go to Black.&lt;br/&gt;&lt;br/&gt;Before the game starts, the first player tells their opponent the number which will be used as komi, and then the second player chooses which color to play. The player who got black makes the first move of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/IiRGeZhFPo0aBxz4eR4QVZ5Lf-M=/fit-in/200x150/pic3199784.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/flhPPLUA2NaYAYy_VKuLSfY1nqs=/0x0/pic3199784.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="327669">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="245002">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Bleaktrick</name>
+									
+			<description>Bleaktrick is a trick-taking game for 3 or 4 players that can be played with a standard deck of playing cards. 40 cards are used: Aces to 10's in each of the four suits. At the start of each round, 36 of the 40 cards are dealt equally to the players and each player exchange one card face-down with both of its neighbors. In a 3-player game, each player also discards a card from his hand.&lt;br/&gt;&lt;br/&gt;The dealer leads the first trick and play proceed clockwise until all cards are played. Normal rules for trick-taking games apply: players must follow suit, otherwise they can play any card and the highest card of the leading suit wins the trick (there is no trump suit). When a player wins a trick,&lt;br/&gt;he takes only the card that won the trick (the rest of the trick is discarded), puts it in his winning pile and leads the next trick.&lt;br/&gt;&lt;br/&gt;The twist in Bleacktrick game is this: Every time a player takes a trick with a card of equal or lower value than a certain threshold, then this card becomes the &amp;quot;bleak&amp;quot; card. The starting value of the threshold is 7 but it changes each time to match the value of the last &amp;quot;bleak&amp;quot; card. There's an exception though: if you are already the &amp;quot;bleak&amp;quot; card owner, you can win tricks with cards of smaller value without lowering the threshold. The goal of the game is to score the most points without ending up with the &amp;quot;bleak&amp;quot; card in your possession.&lt;br/&gt;&lt;br/&gt;At the end of the round, each player scores points according to the cards in his winning pile, except from the &amp;quot;bleak&amp;quot; card owner who scores negative points. The lower the numerical value of a card, the more points it scores (for both the positive and the negative case). So, it's preferable to win tricks with low value cards but also more risky as you may end up with the &amp;quot;bleak&amp;quot; card. The player who won the last trick is the dealer for the next round, while the owner of the &amp;quot;bleak&amp;quot; card can have a peek at 2 of the 4 unused cards of the next round. The game ends after a prearranged number of rounds or when a player reaches a prearranged number of points.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="24434">Card Games: Outplay Games</boardgamefamily>
+															<boardgameversion objectid="392146">First edition</boardgameversion>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

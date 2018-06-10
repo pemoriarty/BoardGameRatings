@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="243693">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Shattered Nations</name>
+									
+			<description>Shattered Nations is a strategic game where you pit an army of your own design against an opponent&amp;rsquo;s army. Choose your actions and moves carefully, even one misstep can change the tide of battle and turn victory into defeat.&lt;br/&gt;&lt;br/&gt;The goal of the game is to destroy all of your opponents commanders before they destroy yours.&lt;br/&gt;&lt;br/&gt;Players will build an &amp;ldquo;Army&amp;rdquo; based off an agreed upon point army point value, deploy their army onto the battlefield, and attempt to destroy their enemy&amp;rsquo;s commanders.&lt;br/&gt;&lt;br/&gt;The battlefield is a simple yet devastating beast. Broken down into three separate zones, each zone provides a specific function to a player.&lt;br/&gt;&lt;br/&gt;Command Line &amp;ndash; The command line is the key to victory. This is where the army commanders start the game. Only commanders and heroes can be here.&lt;br/&gt;&lt;br/&gt;Deployment Line &amp;ndash; The Deployment line is how you get new troops onto the battlefield. You play cards from your hand into this location.&lt;br/&gt;&lt;br/&gt;Front Line &amp;ndash; The Front Line is where the action happens. Units must be on the front-line to attack the enemy.&lt;br/&gt;&lt;br/&gt;To move your soldiers around and attack you will need to issue commands via action cards. Each turn players will only be able to perform three actions. There are 5 types of actions they can take. Each round players will pre-select their actions. This is critical because it locks you into those actions for that round. Not choosing wisely may result in you not being able to use all the actions allotted to you.&lt;br/&gt;&lt;br/&gt;Attack Action: used for a unit in the Front-Line to attack the most forward unit in the opposing Command Line. Attacking with a unit &amp;ldquo;exhausts&amp;rdquo; the unit. (see combat section more details on attacking and killing units).&lt;br/&gt;&lt;br/&gt;Deploy Action: used to move a unit from your hand to the deployment zone of an active Command Line. Deploying a unit &amp;ldquo;exhausts&amp;rdquo; the unit.&lt;br/&gt;&lt;br/&gt;Advance Action: used to advance any unit forward in the same command line. Advancing a unit &amp;ldquo;exhausts&amp;rdquo; the unit.&lt;br/&gt;&lt;br/&gt;Event Action: used to play an event card from your hand.&lt;br/&gt;&lt;br/&gt;Ability Action: used to activate a unit&amp;rsquo;s ability. Using a unit&amp;rsquo;s ability &amp;ldquo;exhausts&amp;rdquo; the unit.&lt;br/&gt;&lt;br/&gt;Combining these actions and clever use of the battlefield will assure you a victory. Be careful though, it is of paramount importance to interpret your opponent&amp;rsquo;s battlefield and predict what actions they will be using.&lt;br/&gt;&lt;br/&gt;Assemble your army, deploy your troops, destroy your enemies commanders!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wkI-QoQAofzJKFY0w9qr6swtpWA=/fit-in/200x150/pic3974275.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/oKTuiXVw2smPf2elHXP3_cKTqhk=/0x0/pic3974275.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamepublisher objectid="38294">BlackBoxGames</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="389924">First Edition</boardgameversion>
+															<boardgamedesigner objectid="106486">Skylar Simmons</boardgamedesigner>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

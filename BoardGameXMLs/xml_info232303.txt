@@ -1,0 +1,128 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="232303">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>14</age>
+
+							<name  sortindex="1">Amun-Re: El juego de cartas</name>
+							<name  sortindex="1">Amun-Re: Le Jeu de Cartes</name>
+							<name primary="true" sortindex="1">Amun-Re: The Card Game</name>
+									
+			<description>Amun-Re: The Card Game is a card-based version of Amun-Re, and the auction at the heart of that game is still present in this design, with the results of those auctions driving the rest of the action.&lt;br/&gt;&lt;br/&gt;In more detail, Amun-Re: The Card Game lasts three rounds, with three auctions in each round, followed by other actions, then a scoring. Each player starts the game with money cards valued 0-8, and at the start of the game, everyone chooses money cards that sum to 14 (with the 0 being included) and lays those cards face up on the table. Province cards equal to the number of players are revealed, and players take turns bidding on provinces by placing exactly one money card next to one province, outbidding an opponent if someone else has already bid there; if you're outbid, you take back your money card, then bid again on your next turn. Eventually everyone will have bid on separate provinces, after which you discard the non-0 bids, then lay out new province cards and run through two more rounds of bidding.&lt;br/&gt;&lt;br/&gt;Province cards show different numbers of pyramids, ankhs, and fields, with a caravan possibly being visible as well. Whoever has the most ankhs visible is Pharaoh, going first in each action with ties broken from the Pharaoh going clockwise.&lt;br/&gt;&lt;br/&gt;After three rounds of auctions, players will have some amount of money (possibly only the 0) still in hand. Everyone simultaneously makes an offering of gold, and the sum of the offerings determines how much the Nile floods, which determines how much money players will earn from fields. If the sum is 10 or less, players with caravans receive 10 gold per caravan. Whoever offers the most gold receives three pyramids to place on their province cards, with others receiving two and one pyramids.&lt;br/&gt;&lt;br/&gt;In player order, players determine their income level, then spend gold to build pyramids on their cards (distributing them as equally as possible), then they take money cards into their hand to account for any income not spent. They then score points for sets of pyramids, for having nine or more fields, and for having the most ankhs.&lt;br/&gt;&lt;br/&gt;The second and third rounds of the game play out similarly, except that when you claim cards following the auction, you place these province cards on top of your previous province cards so that only the imprinted and acquired pyramids are visible. Everything else is buried in the sands. You score again at the end of each of these rounds, then the player with the most points wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/13zzGpul7DGkDTpsCkVNTKElBQI=/fit-in/200x150/pic3674774.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/V9llP9i7A_gouYqPX4r09aOxTJY=/0x0/pic3674774.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="363834">English/French edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="2">Reiner Knizia</boardgamedesigner>
+															<boardgamepublisher objectid="30677">Maldito Games</boardgamepublisher>
+															<boardgameversion objectid="374526">Spanish edition</boardgameversion>
+															<boardgamepublisher objectid="29409">Super Meeple</boardgamepublisher>
+															<boardgamepodcastepisode objectid="221598">The Game Pit Podcast - Episode 104: Picking Over the Bones with Eleanor</boardgamepodcastepisode>
+																						<boardgameimplementation objectid="5404" inbound="true">Amun-Re</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>89</usersrated>
+					<average>6.86292</average>
+					<bayesaverage>5.59672</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6104" bayesaverage="5.59672" />
+												
+											</ranks>
+					
+					<stddev>1.10803</stddev>
+					<median>0</median>
+					<owned>118</owned>
+					<trading>4</trading>
+					<wanting>38</wanting>
+					<wishing>129</wishing>
+					<numcomments>39</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

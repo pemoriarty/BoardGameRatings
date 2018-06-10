@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="249006">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Game-of-6</name>
+									
+			<description>Game-of-6 is an abstract strategy game for two players that can be played on a grid paper sheet, using pens of two different colors. (it's an evolution of classic Connect6). Rules:&lt;br/&gt;1. The player that opens the game places one dot of his/her color in a cell. In all the following moves, each player places consecutevely two dots in any empty cell of the grid.&lt;br/&gt;2. A player that aligns (horizontally, vertically or diagonally) six (or more) of his/her dots wins the game.&lt;br/&gt;3. Each time a player completes a closed polygonal with his/her marks, all the internal cells take that color. A closed polygonal is any closed path connecting dots of the same color, each adjacent horizontally, vertically or diagonally to next one&lt;br/&gt;4. The grid cells, once colored, are blocked. They cannot change their color even when they are enclosed in a new polygonal of the opposite color and do not take part to any alignment of dots. If a move generates both a closed polygonal and a winning alignment, the latter is prevailing and the game is over.&lt;br/&gt;4.2. A player turn is made of two separate moves: if the first one closes a polygonal, the internal cells must be colored before the second move is performed.&lt;br/&gt;4.3. A player can always enlarge an existing polygonal by adding new dots &lt;br/&gt;5. A player that colors six (or more) cells wins the game. It's not necessary that the six cells are enclosed by the same polygonal: the winning number can be made adding up spatially separated colored cells.&lt;br/&gt;When the game is over, the winner gains six points and the loser one point for each cell he/she was able to color.&lt;br/&gt;A match is composed by six games, to be started alternately by the players. The winner of the match is the player with the most game victories, and in case of a tie, the one who scored the most points.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="399157">First edition</boardgameversion>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamedesigner objectid="64741">Fabio Pozzi</boardgamedesigner>
+															<boardgameartist objectid="64741">Fabio Pozzi</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

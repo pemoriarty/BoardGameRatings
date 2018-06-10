@@ -1,0 +1,83 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="235541">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Teseu</name>
+									
+			<description>Teseu is a boardgame made almost of MDF: markers, meeples, cards and board. The players move their heroes, the common enemy on the game and the board itself.&lt;br/&gt;&lt;br/&gt;It is a game where you are a Greek mythology hero in a quest to win a challenge: be the first hero to defeat the minotaur inside a mobile labyrinth, inspirited in the myth of Teseu and the Cretan Labyrinth. The game objective is enter in the labyrinth's centre without being captured by the minotaur, pick up the Artefact that will give the power to unlock one of the dagger replicas that Teseu used to kill the minotaur. With the possession of the Artefact, return to the labyrinth, without be captured by the minotaur and then, exchange the Artefact for one of the Teseu's Dagger. Equip the dagger and enter the labyrinth again to find the minotaur and then defeat him.&lt;br/&gt;&lt;br/&gt;In your turn, the player need make 2 actions: (1) move your hero through the labyrinth until 3 spaces and (2) use the amphora's power (a Gods' magic artefacts) that can help you to move more easy on the path or make your foe's path more difficult. At the beginning of each round, each player buy a MDF card (in amphora format). In the game, exist 6 cards and this cards give 4 different powers:&lt;br/&gt;&lt;br/&gt;- Run: your hero can move more 1D6 spaces on the board;&lt;br/&gt;- Move adjacent wall: your hero can move one labyrinth's door, in the adjacent wall. The door move 1D6 spaces on the board and before the dice roll, you need to choose the direction which the wall will move;&lt;br/&gt;- Move non-adjacent wall: your hero can move one labyrinth door, in the non-adjacent wall. This door move 1D6 spaces on the board and  before the dice roll, you need to choose the direction which the wall will move;&lt;br/&gt;- Move the Minotaur: the Gods allow you to influence the Minotaur and you must move it 1D6 spaces through the labyrinth.&lt;br/&gt;&lt;br/&gt;If Minotaur find an hero and enter in the same space, two possible events happen: (1) if your hero don't have the dagger, the Minotaur send him to the other side of the labyrinth and the outer level and the hero need start again your path. At the encounter moment, the hero need to leave the Artefact, if it has it.  (2) If your hero have the dagger, you defeat the Minotaur and you are the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/T41bTdDKuvYpY7mAl9Su2X_GOL4=/fit-in/200x150/pic3806847.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Tnu0QENamJnk29O4gb1eN3dYWpQ=/0x0/pic3806847.png</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamedesigner objectid="104317">Éderson Ayres</boardgamedesigner>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="369672">First edition</boardgameversion>
+															<boardgamepublisher objectid="37410">G10 Boardgames</boardgamepublisher>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgameartist objectid="104561">Diego Sá</boardgameartist>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>8.625</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.38632</stddev>
+					<median>0</median>
+					<owned>6</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>4</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

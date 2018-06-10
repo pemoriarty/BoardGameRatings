@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="209378">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">Totem</name>
+									
+			<description>Let the Spirits guide your totems to victory!&lt;br/&gt;&lt;br/&gt;Goal of the game is to move your totems to the other side of the game board.&lt;br/&gt;&lt;br/&gt;You move to change the forbidden symbol or up to/until the forbidden symbol ether horizontally or vertically.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_ZtzqIKsTsGo5Fb4VsdmO53_UNY=/fit-in/200x150/pic3608757.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/77Vl-AiXDAQwpmizFiyVxB_VJwI=/0x0/pic3608757.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgameversion objectid="326966">Europe version</boardgameversion>
+																						<boardgamepublisher objectid="964">Tactic</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>30</usersrated>
+					<average>4.955</average>
+					<bayesaverage>5.48522</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13581" bayesaverage="5.48522" />
+												
+											</ranks>
+					
+					<stddev>1.32113</stddev>
+					<median>0</median>
+					<owned>77</owned>
+					<trading>4</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>13</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

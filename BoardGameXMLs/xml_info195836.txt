@@ -1,0 +1,107 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="195836">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Death Pit Duels</name>
+									
+			<description>In Death Pit Duels, you and your rival assemble a team of fantasy warriors who then duel in a series of one-on-one matches. Win the duel and take the spoils; lose and...well, it's not called a death pit for nothing! When the dust settles, who will be declared the victor?&lt;br/&gt;&lt;br/&gt;The game is divided into two phases: Draft and Duel. In the Draft phase, players take turns splitting up randomly drawn fantasy fighter cards of various races (Cyclops, Goblin, Human, Orc) into two pairs. Their opponent then gets to select which pair to take. The player who originally split the cards into pairs must take the remaining pair of fighters that was unselected by their opponent. This continues until both players have built a team of twelve fighters.&lt;br/&gt;&lt;br/&gt;The game then moves on to the Duel phase in which the players fight for a randomly drawn coin by revealing one of the fighter cards that they drafted. Each fighter has a base combat value and may also have a special ability to help them in the duel. The players simultaneously select a Duel card from their hand and reveal at the same time, adding the value of the Duel card to their fighter's combat value. The fighter with the highest adjusted combat value wins the coin. The game continues in this way until all twelve of a player's fighters have fought one duel each. The player with the highest total value in coins wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/LSiAf8_HUq019WYsCeK0qrdnl5s=/fit-in/200x150/pic2943829.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/h19uTlo_vHxoD_7ccbUviz2ris0=/0x0/pic2943829.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="304421">English first edition</boardgameversion>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamepublisher objectid="19090">Frost Forge Games</boardgamepublisher>
+																						<boardgamedesigner objectid="8211">Bryan Johnson</boardgamedesigner>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgameartist objectid="73439">Alisha Volkman</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.816497</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>2</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>2</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

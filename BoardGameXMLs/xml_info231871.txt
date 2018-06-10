@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="231871">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Dance School Competition</name>
+									
+			<description>A card drafting game for 2-4 players in two parts. In the first part the players build up their dance schools. In the second part the schools participate in competitions.&lt;br/&gt;&lt;br/&gt;There are 3 Decks. The build deck is only used in the first part of the game. The Judging and Competition decks are used in the second part of the game.&lt;br/&gt;&lt;br/&gt;Build Phase:&lt;br/&gt;&lt;br/&gt;The build deck card types include: Students, Teachers, Classes, Numbers, and Modifier cards. Cards have a score in one or more traits, or will give other cards a bonus to their score in one or more traits. Traits include: Base, Beginning, Intermediate, Advanced, Jazz, Tap, Ballet, Contemporary, Modern, Lyrical, Musical Theatre, Hip Hop, Solo, Duet, Form, and Heart. All traits are assigned a score.&lt;br/&gt;&lt;br/&gt;The top 12 cards of the build deck are laid out face up. Players take turns picking 1 card at a time until all 12 cards are picked. This constitutes a round. A short game will have 3 rounds, a medium game 4, and a long game 5 rounds. After the first round, the first player to pick goes to the player who was the last to pick in the previous round. Picked build cards are placed face up in front of their owner in a grid format and remain in play for the rest of the game.&lt;br/&gt;&lt;br/&gt;Build cards are placed next to each other in a grid like matrix. Side by side (orthogonal) cards and cards whose corners are touching (diagonal) are considered to be adjacent. Many cards will give point bonuses to adjacent cards: &lt;br/&gt;&lt;br/&gt;     Teachers give bonuses to all adjacent students. &lt;br/&gt;     Students give bonuses to adjacent numbers if their style matches, so for example: If it is a jazz number, the number will get jazz bonuses equal to the jazz bonuses of any adjacent students.   &lt;br/&gt;     Some cards give bonuses to all cards of a particular type even if not adjacent. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Competition Phase:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Before a competition, each player may switch the places of 2 cards within his grid.   &lt;br/&gt;     First shuffle the Judging deck and draw 5 cards. These are placed face up in the middle of the table. Each judging card lists a trait that the judges are emphasizing. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;All scores in these traits are doubled for all players in this competition. &lt;br/&gt;&lt;br/&gt;     Next, shuffle the Competition Deck. Each player draws 4 cards and places them face up in front of them. Competition cards will modify a player&amp;rsquo;s base score. &lt;br/&gt;     Each player adds up the total value of all of his cards including build cards, current competition cards and current Judging cards. &lt;br/&gt;     The player with the highest total score wins that competition. At the end of the competition discard all judging and competition cards.  Repeat as necessary dependent on game length (1 round for short game, 3 for medium, 5 for long).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The winner is the play with the highest overall score after the appropriate number if rounds.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="362987">First Edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

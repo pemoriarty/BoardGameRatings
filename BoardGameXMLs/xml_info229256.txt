@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229256">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Doomed</name>
+									
+			<description>A card game based on the Doom Video Games for 2+ players.&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising 6 card types: &lt;br/&gt;Action, Weapon, Equipment, Location, Zombie and Demon.  &lt;br/&gt;Action, Weapon and Equipment cards are collectively called Aid cards.  &lt;br/&gt;Zombie and Demon cards are collectively known as foes. All foes have damage and strength ratings. They may also have traits that will interact with other cards.&lt;br/&gt;&lt;br/&gt;Counters are used to keep track of Life Points, Doom Points and Ammunition. Each player starts with 19 + 1D6 Life Points and  2D6 Doom Points.&lt;br/&gt;&lt;br/&gt;The game is played over a series of turns with each turn comprising 6 phases.&lt;br/&gt;&lt;br/&gt;1.   Doom Phase&lt;br/&gt;-     Lay out 3X cards where X is the number of players.  These are the doom cards.&lt;br/&gt;&lt;br/&gt;2.   Leader Phase&lt;br/&gt;-     Determine the leader for this phase. The player with the least life is the leader. If tied for least life, the player with the least Doom Points goes first.&lt;br/&gt;&lt;br/&gt;3.   Tactics Phase&lt;br/&gt;-     Starting with the Leader, and going clockwise, each player picks 1 of the doom cards laid out in Doom Phase. If it is an Aid card place it in front of yourself. If it is a Foe card place it in front of an opponent. If it is a Location card, place it in front of yourself or an opponent. If a player gets a Location card, he must discard any other location card he may already have in play. &lt;br/&gt;-    Continue going around until all doom cards are assigned.&lt;br/&gt;&lt;br/&gt;4.   Resolution Phase&lt;br/&gt;-     Start with the leader and go clockwise. &lt;br/&gt;-     Each location has a foe limit. The player discards foes in front of him in excess of the foe limit. &lt;br/&gt;-     Discard 1 or more ammo tokens, equipment, and action cards to defeat a foe with a strength equal to less than the force of the cards discarded. &lt;br/&gt;-    Gain Doom Points equal to the damage rating of defeated foes. Discard defeated foes.&lt;br/&gt;&lt;br/&gt;5.   Damage Phase&lt;br/&gt;-     Each foe in front of you does damage to you equal to its damage rating (damage received corresponds to an equal loss of life points)&lt;br/&gt;&lt;br/&gt;6.   End Phase&lt;br/&gt;-     At end of turn a player may have a max of 6 aid cards in front of him.  Discard excess. &lt;br/&gt;-    If you did not take damage in damage phase, heal 2 life points.&lt;br/&gt;&lt;br/&gt;The first player to gain 50+ Doom Points and to have killed at least 1 Boss is the winner.  Lose all your life points and you are out of the game. If only one player remains, he wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6xQG9Tm7kak6DkqF3VXafg918kM=/fit-in/200x150/pic3602653.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/8XZva137tSyyu5SMqes93rGrSHE=/0x0/pic3602653.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="358433">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

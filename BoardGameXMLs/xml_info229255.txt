@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229255">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Zelda Wind Walker</name>
+									
+			<description>A card game for 2-4+ players based on the Video Game: Zelda the Wind Walker.&lt;br/&gt;&lt;br/&gt;Players share a common deck.  All cards are of 2 basic types: Quest Cards and Hero Cards. There are 7 types of hero cards:  Weapons, Items, Defence, Actions, Friends, Special, Tricks. There are 7 types of quest cards: Location, Treasure, Enemy, Boss, Monster, Obstacle, Objectives. Each card has a point value ranging from 1 to 10 and a special effect (e.g. search deck, bonus, draw card).&lt;br/&gt;&lt;br/&gt;To start each player is dealt 5 cards to form their hand. Players then take it in turns with each turn comprising 5 phases.&lt;br/&gt;&lt;br/&gt;1.   Destiny Phase&lt;br/&gt;-     Draw 2 cards and place them in your hand.&lt;br/&gt;&lt;br/&gt;2.    Adventure Phase&lt;br/&gt;-     First, play 1 card to your own tableau (the area in front of a player) or discard 1 card. &lt;br/&gt;-     Second, play 1 card to an opponent&amp;rsquo;s tableau or discard 1 card. &lt;br/&gt;-     There are 14 types of cards. A tableau can contain a max of 14 cards - 1 of each type. A card may be placed so as to replace a card of the same type already in play in a tableau in which case the replaced card is discarded.&lt;br/&gt;&lt;br/&gt;3.    Option Phase&lt;br/&gt;-     You may do one of the following 4 Options:&lt;br/&gt;&amp;bull;    Side Quest: Gain 1 Upgrade&lt;br/&gt;&amp;bull;    Mini Game: Draw 1 Card&lt;br/&gt;&amp;bull;    Picto Box: Gain 1 Quest Point&lt;br/&gt;&amp;bull;    Missing Link: Gain 2 Exploration Points&lt;br/&gt;&lt;br/&gt;4.    Quest Phase&lt;br/&gt;-     You may complete a quest. To do this, you must have at least 5 hero cards of different types present in your tableau. You must also have at least 5 quest cards of different types present in your tableau.  Also, the total score of your hero cards must equal or exceed that of the quest cards. &lt;br/&gt;-     Score Quest Points equal to the total value of the quest (nor hero) cards played &lt;br/&gt;After a quest is scored, discard your tableau and take an extra turn immediately.&lt;br/&gt;&lt;br/&gt;5.    End Phase&lt;br/&gt;-     Max hand size is 5 cards. Discard extras.&lt;br/&gt;&lt;br/&gt;The first player to acquire 100+ Quest Points is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/7xqNfmiqZVbUgA4xo3894ka9Okc=/fit-in/200x150/pic3602652.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/2ez71olQkj-5nJcAfbnKYD8-UGY=/0x0/pic3602652.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="358425">First Edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>10</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>5</wishing>
+					<numcomments>1</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

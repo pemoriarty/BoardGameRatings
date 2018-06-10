@@ -1,0 +1,96 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="199262">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Chesscalation</name>
+									
+			<description>Chesscalation is a two player strategy game based off of Chess and Shogi. It's designed to avoid analysis paralysis and avalanching by favoring the defender and easing the pressure of each move - all while still keeping the strategic depth of Chess. It also has a bunch of fun unique pieces. The main difference from Chess is that players can chose to upgrade pieces or even put new pieces on the board.&lt;br/&gt;&lt;br/&gt;There is a risk versus reward mechanic as higher value pieces limit the player's ability to upgrade and make new units. On the flip side, losing a high value piece may actually be an opportunity in disguise. It frees up the player to be able to place new pieces, which makes recovering easy. Also since you can place pieces anywhere on your own side, you can really easily block a checkmate. The increased complexity introduced by upgrading and placing new units makes it essentially becomes impossible to predict your opponent more than a few moves in advance. Each move is important, but not crushingly so. Each player feels like they have a chance to win up until the very end.&lt;br/&gt;&lt;br/&gt;There are two modes of play. The default mode plays the most like Chess. In it, the goal is simply to force a checkmate on the opponent. When pieces are captured, they are removed from play, so each player only has a set amount of pieces to work with. In the other mode, players earn points for each piece they capture. Captured pieces go back into the player's pool. The goal of the game is to capture 100 points worth of their opponent's pieces without losing their King.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NnsuXY6GizQU8Scn_kWNRSBCBfM=/fit-in/200x150/pic3008229.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/XTIslUURkXms1fcwgiGBl-1lHus=/0x0/pic3008229.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="89725">Kee Blaszczynski</boardgamedesigner>
+																						<boardgameversion objectid="309970">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>7.44444</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.42034</stddev>
+					<median>0</median>
+					<owned>4</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>4</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

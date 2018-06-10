@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="228566">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">David and Goliath</name>
+									
+			<description>A board game for 2 players with a Biblical Theme. One player is David, the other is Goliath. The aim of the game is to smite your foe.&lt;br/&gt;&lt;br/&gt;The game area is a regular 8 X 8 grid.  There are 2 rock tokens and 2 tree tokens placed randomly on the board.  Figures are used to represent David and Goliath and start on opposite back rows of the board. Figures cannot move into or through rock tokens, but they can sling or throw through them. Figures cannot move or attack into or through Tree Tokens.&lt;br/&gt;&lt;br/&gt;Players share a common deck. Some cards can be used by both players, others by David or Goliath, only. Cards allow players to move, attack or defend, or may be an event.&lt;br/&gt;&lt;br/&gt;Each player draws a hand of 7 cards. Goliath gets 1 spear token. David gets 5 stone tokens.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 7 phases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Draw Phase&lt;br/&gt;         Each player draws 1 card from the deck and adds it to their hand. &lt;br/&gt;    &lt;br/&gt;     Event Phase&lt;br/&gt;         Each player may play one event card in this phase. Events are resolved immediately.&lt;br/&gt;    &lt;br/&gt;     Goliath Move Phase&lt;br/&gt;         The Goliath player may move his figure on the board.&lt;br/&gt;         Discard a move card to move exactly the indicated number of spaces. Cards will indicate if the move can be orthogonal, diagonal, or both. &lt;br/&gt;         The David player may discard a negate card to end a move at any point  during its progression. &lt;br/&gt;         Goliath cannot move into or through the space occupied by David. &lt;br/&gt;    &lt;br/&gt;     David Move Phase&lt;br/&gt;         The David player may move his figure on the board (using the same rules as applied to Goliath) &lt;br/&gt;    &lt;br/&gt;     Goliath Attack Phase&lt;br/&gt;         The Goliath player may make a spear attack or a sword attack.  The Goliath player starts play in possession of a spear. As long as the Goliath player has his Spear he must make a Spear attack. &lt;br/&gt;         To make a sword attack discard a sword card to attack David if he is in an adjacent space. The card will indicate if the sword attack is orthogonal or diagonal.  The sword attack will be one of three types: Thrust, Slash, or Chop.  The David player may discard a defence card to block a sword attack. Some defence cards will not work against a certain type of sword attack. If a defence card is not successfully played, David is wounded. &lt;br/&gt;         To make a spear attack, the Goliath player must discard a sword card or a throw card. If a sword card is used, the attack is treated exactly like a thrust sword attack (even if the card says Slash or Cut). If a throw card is used the spear will hit exactly at the range indicated on the card. &lt;br/&gt;         Once thrown, if the Spear misses (a defence card is successfully played) place the spear token in the space occupied by David. Goliath is then without his spear. He can retrieve it simply by entering the space where it landed. If a defence card is not successfully played, David is wounded. &lt;br/&gt;    &lt;br/&gt;     David Attack Phase&lt;br/&gt;         David may only make a Sling Stone Attack. To do so both a sling card, and a stone card must be discarded. The sling card determines the range. and can be used for orthogonal or diagonal attacks. The stone card is of 3 types: Fast, Curved, and Sinker.&lt;br/&gt;         The Goliath player may discard a defence card to block a sling attack. Some defence cards will not work against a certain type of sling attack. If a defence card is not successfully played, Goliath is wounded. &lt;br/&gt;         Once slung, if a stone misses (a defence card is successfully played) place a stone token in the space occupied by Goliath. David can retrieve it simply by entering the space where it landed. &lt;br/&gt;    &lt;br/&gt;     End Phase&lt;br/&gt;         Max hand size is 7 cards. Discard excess cards. &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Players share a common set of 4 wound tokens. For each wound your max hand size is decreased by one. Three wounds is death. The game end when one player kills the other.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+																						<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="357241">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1115">Religious</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

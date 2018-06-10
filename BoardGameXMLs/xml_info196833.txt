@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196833">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Conversion Go</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;1. Conversion Go is a territory game for two players, Black and White, who alternately put stones of their color on the board.&lt;br/&gt;&lt;br/&gt;2. The board is a 16x16 grid (counting the points rather than the squares). At the beginning the board is empty, with play taking place on the points.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;3. A corner point is considered to belong to both edges that meet there.&lt;br/&gt;&lt;br/&gt;4. It is permissible to pass. If both players pass consecutively, the game concludes.&lt;br/&gt;&lt;br/&gt;5. It is not permissible to &amp;quot;mirror&amp;quot; the opponent's moves ten or more turns in succession.&lt;br/&gt;&lt;br/&gt;6. The beginning of the game is governed by a &amp;quot;refined&amp;quot; pie rule. Player 1 plays two moves for Black and one move for White. One or more of those moves can be passes. Player 2 then decides which side to take, with White to move.&lt;br/&gt;&lt;br/&gt;7. A group is a set of one or more like-colored, orthogonally adjacent stones. A liberty of a group is an empty point orthogonally adjacent to it. A dead group is a group that has no liberties and touches less than two sides of the board. To convert a group means to remove it from the board and replace it with stones of the opposite color. After a player's move, first all dead groups of the opponent's color are converted, then all dead groups of the player's color in the resulting position are converted.&lt;br/&gt;&lt;br/&gt;8. The game concludes when both players pass consecutively. Any stones that cannot escape conversion are now automatically converted. Each player then figures his score, which is the number of his stones on the board plus the territory (vacant points) they surround.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Notes&lt;br/&gt;&lt;br/&gt;Despite the fact that stones are converted and re-converted, the game can be played neatly with pen-and-paper. The reason is that the color of any &amp;quot;X&amp;quot;ed stones is always clear: it is the color of the living formation which ultimately encloses them.&lt;br/&gt;&lt;br/&gt;If played on an odd-sized board by players trying to win, the game will never end in a tie. Oddly enough, this is possible thanks to the fact that suicide moves are allowed as this prevents local impasses (&amp;quot;seki&amp;quot;) with an odd number of points in them.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="306277">First edition</boardgameversion>
+															<boardgamefamily objectid="46162">Go</boardgamefamily>
+															<boardgamedesigner objectid="6984">Steven Meyers</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

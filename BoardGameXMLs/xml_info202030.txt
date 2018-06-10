@@ -1,0 +1,71 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="202030">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Zosimos</name>
+									
+			<description>Each player in Zosimos is given four gems of five different colors (20 gems total) to start. The 24-card deck of potion cards sits in the middle of 2-4 players. On a player's turn, they peek at the top card of the deck and make a bid using gems of the same color for that card. Each card represents one of the colored gems and a number between 1-6. Numbers 1-4 have one potion on a card of a single color; numbers 5-6 have two potions of a single color.&lt;br/&gt;&lt;br/&gt;When a player makes a bid for a card, they are bidding with the gems they currently have. When all players but one has passed, the final bidder reveals the card and either pays the difference if they bid over the number, or gets paid the difference if they underbid the number. The card is free if their bid is exactly the same as the number.&lt;br/&gt;&lt;br/&gt;At the end of the game, players multiply the number of potions on their cards by the number of gems they have of that color, then add the colors up. It becomes very important to try and bluff your opponents into losing all their gems or allowing you to grab a card for cheaper than you should have gotten it.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/OcF9RXlwsRsO09BtP1lEFHAy3sc=/fit-in/200x150/pic3058895.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nHGuJfLrHOI2Q1CwGyxJQ0mXy4U=/0x0/pic3058895.jpg</image>
+						
+												<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamepublisher objectid="29082">Breaking Games</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="314672">English first edition</boardgameversion>
+															<boardgamepublisher objectid="25542">Kraken Games</boardgamepublisher>
+															<boardgamedesigner objectid="69438">Erin McDonald</boardgamedesigner>
+															<boardgamedesigner objectid="69437">Christian Strain</boardgamedesigner>
+															<boardgameartist objectid="69437">Christian Strain</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>4.02768</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

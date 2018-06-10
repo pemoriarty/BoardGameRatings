@@ -1,0 +1,72 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="219463" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Chess (BBC Micro / Electron)</name>
+									
+			<description>User Summary&lt;br/&gt;A chess game for the BBC Micro and Electron computers by Acorn. The game was made by Acorn's own software house.&lt;br/&gt;&lt;br/&gt;The game features an AI Only match where you can watch the computer play against it self, a Player vs Computer, or a Player vs Player setting. Both black and white can be chosen against the computer, which also have 10 different levels (0 = easiest / 9 = hardest)&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogameversion objectid="341880">Acorn Electron release</videogameversion>
+															<videogamedeveloper objectid="12722">Acornsoft</videogamedeveloper>
+															<videogamepublisher objectid="12722">Acornsoft</videogamepublisher>
+															<videogamemode objectid="2621">AI Only</videogamemode>
+															<videogameplatform objectid="5010">BBC Micro</videogameplatform>
+															<videogameversion objectid="341879">BBC Micro release</videogameversion>
+															<videogametheme objectid="2403">Board Game</videogametheme>
+															<videogamegenre objectid="2402">Classic Games</videogamegenre>
+															<videogamemode objectid="2409">Hotseat</videogamemode>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="5010" name="bbcmicro" friendlyname="BBC Micro Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

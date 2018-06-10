@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="239166">
+			<yearpublished>0</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Back Alley</name>
+									
+			<description>Back Alley is a variation of bridge, played with a standard deck of 52 cards including jokers.  One joker should be marked 'high' and the other joker 'low'.&lt;br/&gt;&lt;br/&gt;In the first round, one card is dealt to each of the four players. In the next round, two cards are dealt to each player, then three, four, etc. all the way up to 13 cards. Then 13 cards are dealt again and you make your way back down to 1.&lt;br/&gt;&lt;br/&gt;In each round, remaining cards are set to the side and the topmost card is turned over to reveal the trump suit. After the trump is set, players look at their hand and bid on how many tricks they think they can take. Bidding continues around the table in a clockwise direction until all players have bid. If a player thinks they can take all the tricks, they can board which is worth 13 points. The next player can double-board if they wish, which would be worth 24 points.&lt;br/&gt;&lt;br/&gt;Player with the highest bid leads the first trick. All other players must follow suit if possible, or play a trump if unable to follow suit. The highest card, or highest trump cards, wins the trick. The player who won the trick leads the next card and play continues around the table until all players are out of cards.&lt;br/&gt;&lt;br/&gt;If you meet your bid, you score three points for each trick bid and taken, plus one point for tricks greater than the bid. If the bid isn't met, it's minus one point for each trick missed. If a player boards and makes it, they score 13 points. If they board and don't get all the tricks, they get -13 points.&lt;br/&gt;&lt;br/&gt;At the end of 26 hands, the player with the most points is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="375846">First edition</boardgameversion>
+															<boardgamefamily objectid="98">Traditional Card Games</boardgamefamily>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

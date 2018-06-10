@@ -1,0 +1,73 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="200240" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Atomas</name>
+									
+			<description>User Summary&lt;br/&gt;&lt;br/&gt;Atomas is a mobile single-player game in which the player increases their score by fusing atoms together. The atoms are placed in a circle on the screen. New atoms appear in the middle of the circle, and the player can choose where to place them. Sometimes special bonding atoms appear, which the player can use to fuse equal atoms together to form higher-order atoms. The game starts with atoms with low numbers, such as Hydrogen (1), Helium (2) and Lithium (3), but while playing, the numbers of the generated atoms increase (looping back to Hydrogen after 125).&lt;br/&gt;&lt;br/&gt;Different playing modes are available, including a timed-attack mode (in which the player has only limited time to make a decision) and a Zen mode (in which the range between atom numbers is much smaller than for the classic mode, so the game is a lot easier).&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogameplatform objectid="6063">Android</videogameplatform>
+															<videogameversion objectid="311650">Android version</videogameversion>
+															<videogameversion objectid="311651">iOS version</videogameversion>
+															<videogameplatform objectid="4443">iPhone</videogameplatform>
+															<videogametheme objectid="2351">Puzzle</videogametheme>
+															<videogamegenre objectid="2165">Puzzle</videogamegenre>
+															<videogametheme objectid="2601">Science / Technology</videogametheme>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogamedeveloper objectid="32825">Sirnic Game Manufactory</videogamedeveloper>
+															<videogamepublisher objectid="32825">Sirnic Game Manufactory</videogamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

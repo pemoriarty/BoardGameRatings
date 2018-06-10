@@ -1,0 +1,138 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="204184">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>14</age>
+
+							<name  sortindex="1">Risiko Europa</name>
+							<name  sortindex="1">Risk Europa</name>
+							<name primary="true" sortindex="1">Risk Europe</name>
+									
+			<description>Description from the publisher:&lt;br/&gt;Control the crowns, control Europe in the Risk Europe game--an exciting game of medieval conquest. The game challenges players to step into the role of a medieval king and rule feudal Europe by building castles, taxing subjects, expanding territories, and engaging in battle. This in-depth game of strategy and conquest offers serious gamers a premium gameplay experience. It features 4 separate armies and 7 unique starting kingdoms, each with its own strengths and abilities, plus Kings Orders cards that play an important role in strategy.&lt;br/&gt;&lt;br/&gt;User summary:&lt;br/&gt;The goal of the game is to be the first player to control 7 crowns.  Each city under a player's control provides a crown and a mission card deck gives an opportunity to earn more crowns.&lt;br/&gt;&lt;br/&gt;While there's some similarities to other versions of Risk, the turns are quite different.&lt;br/&gt;&lt;br/&gt;Each player has a deck of orders they can take on their turn.  They secretly place two orders face down, and the first place starts by revealing an order.&lt;br/&gt;&lt;br/&gt;One order card type is to either tax a player's connected territories to gain income or to spend that income on siege weapons, archers, cavalry, infantry units, castles or crown cards.&lt;br/&gt;&lt;br/&gt;The other order card type is to expand a player's units into another territory or move units from one territory they own into another.&lt;br/&gt;&lt;br/&gt;There are also additional bonuses on some of the order cards.&lt;br/&gt;&lt;br/&gt;Battles for contested territories are fought with dice.  Non-infantry units are rolled for first by type and deal immediate damage after which all units roll with 3 dice for the attacker and 2 for the defender.&lt;br/&gt;&lt;br/&gt;Diplomacy, alliances, and backstabbing are inevitable.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yJE140lhfmimeZok_xBWCnnsCCc=/fit-in/200x150/pic3102959.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/PwJPwNDbzLeFlqnUAr28kiemzhs=/0x0/pic3102959.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="318326">English first edition</boardgameversion>
+																						<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="330210">French first edition</boardgameversion>
+															<boardgameversion objectid="324714">German First Edition</boardgameversion>
+																																				<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="51">Hasbro</boardgamepublisher>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamepodcastepisode objectid="232151">MeepleCore Podcast Episode 48 - Games we won&#039;t get rid of, Golden Geek awards, Top 5 collections</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+																						<boardgamefamily objectid="4218">Risk</boardgamefamily>
+																						<boardgamedesigner objectid="85840">Austin Rucker</boardgamedesigner>
+															<boardgameversion objectid="319686">Spanish First Edition</boardgameversion>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>578</usersrated>
+					<average>7.61628</average>
+					<bayesaverage>6.09659</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1757" bayesaverage="6.09659" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="299" bayesaverage="6.66843" />
+												
+											</ranks>
+					
+					<stddev>1.42387</stddev>
+					<median>0</median>
+					<owned>1711</owned>
+					<trading>50</trading>
+					<wanting>64</wanting>
+					<wishing>233</wishing>
+					<numcomments>199</numcomments>
+					<numweights>23</numweights>
+					<averageweight>2.6522</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

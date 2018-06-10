@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="201639">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">ABXY</name>
+									
+			<description>ABXY is a competitive 2-player simultaneous action selection game.  Players use hand-picked teams of extraordinary creatures to battle until one player has no one left.&lt;br/&gt;&lt;br/&gt;Learn the game in 3 minutes, play a match in 5-15 minutes.&lt;br/&gt;&lt;br/&gt;Players begin a standard match with a team of creature cards and 4 button cards representing A, B, X, and Y actions.  A single creature card is the active combatant for each player while all others sit on the side awaiting use.&lt;br/&gt;&lt;br/&gt;All creatures in the game possess types, a weight, a passive ability, and a special action tied to one of the four button cards.&lt;br/&gt;&lt;br/&gt;Each round, players secretly and simultaneously select a first and second action card.  Players reveal and resolve their first action and then reveal and resolve their second.  When directly contested actions occur, the lighter weight creature acts first.&lt;br/&gt;&lt;br/&gt;By default, the A action deals damage, the B action prevents damage and then deals damage back to the attacker, the X action switches out a player's active combatant for a different one, and the Y action prevents future blocking or takes control of an opponent's attempt to switch.  A creature's special action entirely replaces the default effect of one action button.&lt;br/&gt;&lt;br/&gt;Types have no innate effect on gameplay (so players don't need to remember special rules based on types) but are sometimes referenced in passive abilities or special actions.&lt;br/&gt;&lt;br/&gt;The most important effect in the game is damage.  Rather than dealing with health totals, chits, dials, or dice, a creature is either damaged or it isn't.  When a creature becomes damaged, it is flipped over to its damaged side.  If a creature that is already damaged becomes damaged again, it is defeated.&lt;br/&gt;&lt;br/&gt;When a player's last creature has been defeated, so has that player.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/c_pN6DJMI88jChCQZKW1XdNlU2A=/fit-in/200x150/pic3051177.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/kP0ksbUwlXmQm4HRST981r4qTeM=/0x0/pic3051177.jpg</image>
+						
+																			<boardgamepublisher objectid="30182">Broken Games</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="314032">First edition</boardgameversion>
+															<boardgameartist objectid="83955">Ed Francis</boardgameartist>
+															<boardgamedesigner objectid="89230">Jack Rosetree</boardgamedesigner>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>13</usersrated>
+					<average>7.69231</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.43009</stddev>
+					<median>0</median>
+					<owned>19</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>5</wishing>
+					<numcomments>8</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

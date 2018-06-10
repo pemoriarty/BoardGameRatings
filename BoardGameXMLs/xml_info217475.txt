@@ -1,0 +1,135 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="217475">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Twenty One</name>
+									
+			<description>Each player in Twenty One receives a different score sheet at the start of the game; each sheet has five horizontal rows with six colored dice pictured in each row, and while the numbers are identical in each of the rows on each sheet, the arrangement of colors differs.&lt;br/&gt;&lt;br/&gt;To score points, a player needs to fill these dice with numbers, but they have to fill (or mark off) all six dice in a row before they can move to the next row on their score sheet &amp;mdash; and to write numbers on their sheet, they'll have to depend (at least somewhat) on the luck of the dice.&lt;br/&gt;&lt;br/&gt;On a turn, the active player rolls six colored dice that match the colors depicted on each score sheet. They must keep all 1s that they roll, but they can choose to reroll all non-1 dice twice. After the second roll, all players can use the rolled dice to fill one or more of the dice on their sheet &amp;mdash; but only if the die of the matching color shows a value equal to or less than what's on the score sheet.&lt;br/&gt;&lt;br/&gt;For example, if your row shows a yellow 6, blue 5, white 4, etc., and you or the active player rolls yellow 3, blue 6, white 4, etc., you can choose to write &amp;quot;3&amp;quot; in the yellow space (earning yourself 3 points at the end of the game), but you may choose not to since you could score up to 6 points for that space. You can't write anything in blue since the die is higher than the number shown. You definitely want to write 4 in the white space since 4 is the most points you can score there. What's more, since you had an exact hit, you &amp;quot;x&amp;quot; the box as well, and you score bonus points in a row for the number of &amp;quot;x&amp;quot;s that you have.&lt;br/&gt;&lt;br/&gt;If you can't or don't want to fill in a number, you must cross out the leftmost space in your current row, earning no points for this space. As soon as all spaces in a row are filled or crossed off, you start the next row with the next roll of the dice. The game ends the turn that someone completes the fifth row, after which everyone tallies their points to see who wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mG8ki3jZ18UU9rqd7nr7zT27S44=/fit-in/200x150/pic3330091.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CA5ET2MfNk_DFvFwWDb0f4TjUas=/0x0/pic3330091.jpg</image>
+						
+												<boardgamedesigner objectid="11781">Steffen Benndorf</boardgamedesigner>
+																						<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgameversion objectid="338853">Dutch first edition</boardgameversion>
+															<boardgameversion objectid="338698">English/German first edition</boardgameversion>
+																						<boardgameversion objectid="342773">German first edition</boardgameversion>
+																																																		<boardgamepodcastepisode objectid="204382">HLG 20: Dilemma&#039;s &amp;amp; Path</boardgamepodcastepisode>
+															<boardgamepublisher objectid="1020">Nürnberger-Spielkarten-Verlag</boardgamepublisher>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamefamily objectid="41222">Roll &#039;n Write</boardgamefamily>
+															<boardgamedesigner objectid="12">Reinhard Staupe</boardgamedesigner>
+																																				<boardgameaccessory objectid="249937">Twenty One: 2 Zusatz-Blöcke</boardgameaccessory>
+																						<boardgamepublisher objectid="4932">White Goblin Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>299</usersrated>
+					<average>6.41399</average>
+					<bayesaverage>5.69517</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4092" bayesaverage="5.69517" />
+												
+											</ranks>
+					
+					<stddev>1.31713</stddev>
+					<median>0</median>
+					<owned>535</owned>
+					<trading>8</trading>
+					<wanting>25</wanting>
+					<wishing>97</wishing>
+					<numcomments>70</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

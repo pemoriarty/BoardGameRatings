@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229641">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Flash Cards</name>
+									
+			<description>A card game based on the TV show The Flash&lt;br/&gt;&lt;br/&gt;There are 3 Decks: &lt;br/&gt;-     The Flash Deck. Cards in the Flash deck have 2 numerical Traits: Speed and Investigation.  Speed is used to overcome the Threat trait of Foe cards. Investigation is used to overcome the Plot Trait of Foe cards. Numerical values of these cards range from +1 to +7. &lt;br/&gt;-     The Foe Deck.  Foe cards need to be overcome using Flash cards. &lt;br/&gt;Cards in the Foe deck have 2 numerical Traits: Threat and Plot.&lt;br/&gt;-     The Mod Deck. Modifier cards are attached to Foe cards and increase their trait values. Cards in the Mod deck have 2 numerical traits: Threat and Plot.&lt;br/&gt;&lt;br/&gt;Flip over the top 2 cards of the Foe deck. Place them face up in the middle of the table.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 4 phases:&lt;br/&gt;&lt;br/&gt;1.    Foe Phase&lt;br/&gt;-     If there are less than 2 Foe cards face up in the middle of the table, then flip over replacements. &lt;br/&gt;-     Each Foe card gets 1 Mod card attached to it. If a Foe card does not have a Mod then card flip over a Mod card and place it slightly under the Foe card to show they are attached. &lt;br/&gt;-    At the end of Foe Phase there should be 2 face-up Foe cards in the middle of the table with a Mod card attached to each.&lt;br/&gt;&lt;br/&gt;2.    Flash Phase&lt;br/&gt;-    The current player fills his hand to 7 cards from the Flash deck.&lt;br/&gt;&lt;br/&gt;3.    Capture Phase&lt;br/&gt;-    The current player plays Flash cards from his hand to capture one of the face-up Foe cards. The Total Speed value of the Flash cards must exceed the total Threat value of the target Foe card and attached Mod card. The Total Investigation value of the Flash cards must exceed the total Plot value of the target Foe card and attached Mod card. &lt;br/&gt;-   If both these conditions are satisfied, the player puts the Foe card into his victory pile.  The Flash and Mod cards are discarded. &lt;br/&gt;-   The current player may then also capture the second face-up Foe card, if he has the resources to do it.&lt;br/&gt;&lt;br/&gt;4.    Final Phase&lt;br/&gt;-     The current player may discard any number of cards from his hand.&lt;br/&gt;&lt;br/&gt;The game ends when the last Foe card in the Foe deck is captured.  The player with the most Foe cards in his victory pile wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="358966">First Edition</boardgameversion>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

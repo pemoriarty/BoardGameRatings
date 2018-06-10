@@ -1,0 +1,70 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="201901">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">LOGS</name>
+							<name  sortindex="1">ログズ</name>
+									
+			<description>User summary&lt;br/&gt;ログズ (LOGS) is an abstract game for two players. Each turn, you may place your pin on a 9x9 grid of intersections, or make a special move using your large pin. You can play two types of game with it. The game was originally published in 2015, then revised and re-issued in 2016 with the &amp;quot;bloom&amp;quot; rules also added.&lt;br/&gt;&lt;br/&gt;(1)LOGS connect&lt;br/&gt;The goal is to build a complete route on the board from your end to your opponent's end by only your own pins. You may place your pin adjacent to any of your existing pin, or remove your opponent's pin by placing your large pin if adjacent to any of your existing pins.&lt;br/&gt;&lt;br/&gt;(2)LOGS bloom&lt;br/&gt;You score victory points by orthogonally surrounding an intersection with your pins, then placing your large pin on that intersection. You may place your pin on any vacant intersection.&lt;br/&gt;&lt;br/&gt;Publisher's summary&lt;br/&gt;&amp;quot;LOGS&amp;quot;はアブストラクトゲームで、2つのゲームが遊べます。&lt;br/&gt;1つは&amp;quot;LOGS connect&amp;quot;。プレイヤーはお互いの対辺を先に繋げることを目指します。大きなコマと相手の普通のコマを取りかえることができるルールが特徴です。&lt;br/&gt;もう一つは&amp;quot;LOGS bloom&amp;quot;。陣取りした場所に、多くの点数を得ることが目的です。普通のコマで囲まれた場所の中心に大きなコマを置けば得点になります。&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamecategory objectid="1119">Game System</boardgamecategory>
+															<boardgamedesigner objectid="92366">Hiroshi Horiguchi</boardgamedesigner>
+															<boardgameartist objectid="92366">Hiroshi Horiguchi</boardgameartist>
+															<boardgameversion objectid="314437">Japanese first edition</boardgameversion>
+															<boardgameversion objectid="314438">Japanese second (bloom) edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+															<boardgamepublisher objectid="33121">SaiSai-Koubou (彩彩工房)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="204728">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">BattleCON: Trials of Indines</name>
+									
+			<description>Mechanically diverse cast of ten characters, intended as a great starting point in to the World of Indines.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/f1MluLa-3ZyJq_OW8H_mRbRwOOo=/fit-in/200x150/pic3647842.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/u2ckx27hoE3Wn1vDRzSWQEZOZL4=/0x0/pic3647842.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="18031">BattleCON</boardgamefamily>
+															<boardgameexpansion objectid="242305">BattleCON:  Merjoram Alexian Crown Princess of Jeffreys</boardgameexpansion>
+															<boardgameintegration objectid="123123">BattleCON: Devastation of Indines</boardgameintegration>
+															<boardgameintegration objectid="162388">BattleCON: Fate of Indines</boardgameintegration>
+															<boardgameexpansion objectid="242306">BattleCON: Jin the Dark King</boardgameexpansion>
+															<boardgameexpansion objectid="242307">BattleCON: Raritti Sikhar Cartomancer</boardgameexpansion>
+															<boardgameintegration objectid="89409">BattleCON: War of Indines</boardgameintegration>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="319274">English first edition</boardgameversion>
+															<boardgamepodcastepisode objectid="206660">Episode 11: Have You Heard The Good News?</boardgamepodcastepisode>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameartist objectid="46478">Fábio Fontes</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepublisher objectid="11752">Level 99 Games</boardgamepublisher>
+																						<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamedesigner objectid="36103">D. Brad Talton, Jr.</boardgamedesigner>
+															<boardgameartist objectid="68120">Eunice Abigael Tiu</boardgameartist>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+															<boardgamefamily objectid="22829">World of Indines</boardgamefamily>
+															<boardgameintegration objectid="123123" inbound="true">BattleCON: Devastation of Indines</boardgameintegration>
+															<boardgameintegration objectid="162388" inbound="true">BattleCON: Fate of Indines</boardgameintegration>
+															<boardgameintegration objectid="89409" inbound="true">BattleCON: War of Indines</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>117</usersrated>
+					<average>8.65385</average>
+					<bayesaverage>5.76932</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3373" bayesaverage="5.76932" />
+												
+											</ranks>
+					
+					<stddev>1.424</stddev>
+					<median>0</median>
+					<owned>522</owned>
+					<trading>2</trading>
+					<wanting>35</wanting>
+					<wishing>96</wishing>
+					<numcomments>40</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,111 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="210295">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Lightseekers</name>
+									
+			<description>The Lightseekers trading card game is a standalone physical game that includes 385+ lovingly crafted printed cards, each scannable by the Lightseekers video game to unlock in-game effects such as new spells, boosts or even pets that will fight alongside you! Each card is embedded with a one time in-game bonus.&lt;br/&gt;&lt;br/&gt;Each player in the trading card game takes control of a hero who uses an arsenal of cards, featuring spells, creatures, items, and locations, to defeat their opponents.&lt;br/&gt;&lt;br/&gt;The heroes of the game use a specific branch or subset of the magical energy, which is referred to as an &amp;lsquo;Order&amp;rsquo;. There are six known Orders that equate to six different playstyles.&lt;br/&gt;&lt;br/&gt;The game is quick and easy to learn, but also provides great depth for advanced players who wish to experiment with deck building and tactical play using unique mechanics.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VgjA-oV0qp_zedNQUSmezwL_ZJQ=/fit-in/200x150/pic3810773.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mJdlOg-SuFMR5AhlWpyj5XuJnKw=/0x0/pic3810773.jpg</image>
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="328551">English first edition</boardgameversion>
+																						<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<videogamebg objectid="237074">lightseekers</videogamebg>
+																						<boardgameexpansion objectid="253839">Lightseekers: Mythical Expansion</boardgameexpansion>
+															<boardgamepublisher objectid="34350">PlayFusion Ltd.</boardgamepublisher>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>68</usersrated>
+					<average>8.14706</average>
+					<bayesaverage>5.57066</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7184" bayesaverage="5.57066" />
+												
+											</ranks>
+					
+					<stddev>1.85119</stddev>
+					<median>0</median>
+					<owned>119</owned>
+					<trading>1</trading>
+					<wanting>5</wanting>
+					<wishing>22</wishing>
+					<numcomments>27</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

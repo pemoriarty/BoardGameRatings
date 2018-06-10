@@ -1,0 +1,78 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="205551">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>99</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Dicedoku</name>
+							<name  sortindex="1">骰独</name>
+									
+			<description>Dicedoku is a small game you can even print it on business card.&lt;br/&gt;Each player take a sheet with 6x6 grid.&lt;br/&gt;Each turn,roll a die to decide a tetris shape and roll 4 dice to decide 4 numbers(if 3 or more dice are same number,reroll them).Each player then need to fill in their 6x6 grid using these 4 numbers and this shape.Shape can be rotated or flipped.Shape can overlap on exist numbers or outside of 6x6 grid,then these overlap or outside positions dont need to be write number(old number stay).&lt;br/&gt;The object is,like Sudoku, make as many rows,columns and 3x2 blocks contain all digits of 1~6 as possible.&lt;br/&gt;First player complete a row, a column or a block contain 1~6 will get 3 points of bonus.&lt;br/&gt;At the end of game, each complete rows, columns and blocks give player 3 points.&lt;br/&gt;Each empty space is -1 point.&lt;br/&gt;Player with most points wins!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_OUByHdKJ0Top9RtUg2Wzxpcdi0=/fit-in/200x150/pic3121699.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/uskh5NPq6InwZnkOQKUVPRWdi_Q=/0x0/pic3121699.png</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamedesigner objectid="94585">Eastfire</boardgamedesigner>
+															<boardgameversion objectid="320567">First edition</boardgameversion>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+															<boardgamefamily objectid="41222">Roll &#039;n Write</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>5.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.942809</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

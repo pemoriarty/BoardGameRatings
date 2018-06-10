@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="228762">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Sorcerers</name>
+									
+			<description>A card game for 2 players based on the movie &amp;ldquo;Sorcerers Apprentice&amp;rdquo;. One player is the good Merlinians. The other is the evil Morganians.&lt;br/&gt;&lt;br/&gt;Players share a common deck containing cards of seven types: &lt;br/&gt;Merlinian Sorcerers, Morganian Sorcerers, Spells, Amplifiers, Objects, Events and Defence.  Most cards have a power rating which is used during the duel (combat) phase.&lt;br/&gt;&lt;br/&gt;The Merlinian player starts with Balthazar in play and the Grimhold which is equipped to Balthazar. The Morganian player starts with Horvath in play.&lt;br/&gt;&lt;br/&gt;Both players draw 5 cards.&lt;br/&gt;&lt;br/&gt;Each turn has 6 Phases:&lt;br/&gt;&lt;br/&gt;1.  Lore Phase&lt;br/&gt;-   Both players draw 2 cards from the deck.&lt;br/&gt;&lt;br/&gt;2.  Recruit Phase&lt;br/&gt;-   You may put one sorcerer into play from your hand and any number of objects. Sorcerers may give their objects to each other (max 3 objects per sorcerer). Excess objects are discarded. &lt;br/&gt;-   The Merlinian player may only recruit Merlinian Sorcerers. &lt;br/&gt;-   The Morganian player may only recruit Morganian Sorcerers.&lt;br/&gt;&lt;br/&gt;3.  Event Phase&lt;br/&gt;-   Starting with the Merlinian player, players may take turns discarding cards with event abilities to activate and immediately resolve those abilities.&lt;br/&gt;&lt;br/&gt;4.  Encounter Phase&lt;br/&gt;-   Each player randomly picks one of their sorcerers to undertake a duel.&lt;br/&gt;&lt;br/&gt;5.  Duel Phase&lt;br/&gt;-   The two Sorcerers who have encountered each other will now fight as follows.&lt;br/&gt;-   Each player will make an attack combo which are then revealed simultaneously. For their attack combo each player may play one spell, one event and up to 3 amplifiers&lt;br/&gt;-   Derive a power total for each sorcerer = the sorcerer&amp;rsquo;s power + equipped objects + spell + played event + amplifiers.&lt;br/&gt;-   Each player may play up to one defence card. These will cause certain opposing cards to be discarded, thus changing the power totals. &lt;br/&gt;-   The sorcerer with the higher power total is the combat winner. The losing sorcerer is discarded.&lt;br/&gt;-   The combat Loser may play a protection spell. This prevents the losing sorcerer from being discarded and his objects from being stolen.&lt;br/&gt;-   The winner takes the losing Sorcerers objects AND looks at his opponents hand AND then steals one target card from his opponents hand.&lt;br/&gt;&lt;br/&gt;6.  End Phase&lt;br/&gt;-   Max hand size is 5 cards. Discard excess cards. &lt;br/&gt;-   Check for Victory Conditions. Record Time Markers.&lt;br/&gt;&lt;br/&gt;The Merlinian player has 2 ways to win: &lt;br/&gt;1.  Destroy Morgana: Defeat her by 7 or more power in a Combat. &lt;br/&gt;2.  Prime Merlinian Succession: Keep Dave Stutler in play for 7 consecutive turns.&lt;br/&gt;&lt;br/&gt;The Morganian player has 1 way to win: &lt;br/&gt;Cast the Rising Spell: Keep Morgana in play for 5 consecutive turns.&lt;br/&gt;&lt;br/&gt;Both players may win by the following method: &lt;br/&gt;Army of Sorcerers: Have 6 more sorcerers in play than your opponent in the end phase.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="357531">First Edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

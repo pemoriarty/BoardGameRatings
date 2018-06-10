@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196073">
+			<yearpublished>2001</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">HexGo</name>
+									
+			<description>HexGo is played on a hexagon tiled by equilateral triangles.(see picture below) A corner of one of these triangles is called a &amp;quot;house&amp;quot;. A side of one of these triangles is called a &amp;quot;street&amp;quot;.&lt;br/&gt;&lt;br/&gt;During the game, stones are placed on houses. Player-I places black stones, while player-II places white stones. The opening move should be decided by &amp;quot;swapping&amp;quot;: one person decides where the opening move will go, and then his opponent chooses whether to make the opening move or not.&lt;br/&gt;&lt;br/&gt;Linking Families&lt;br/&gt;&lt;br/&gt;A &amp;quot;family&amp;quot; is a group of stones of the same color, such that you can travel along streets between any two stones in the group, without visiting an unoccupied house or an enemy stone.&lt;br/&gt;Label the six sides of the hexagonal board as A, B, C, D, E, and F, in the clockwise order in which they appear, and group them in the following three pairs: A with B, C with D, E with F.&lt;br/&gt;&lt;br/&gt;A family &amp;quot;links&amp;quot; one of these pairs, say A and B, if members of that family occupy a house on side A as well as a house on side B. Any houses inside the region surrounded by side A, side B, and a family linking A and B are &amp;quot;dominated&amp;quot; by that family.&lt;br/&gt;&lt;br/&gt;Forbidden Moves&lt;br/&gt;&lt;br/&gt;You may not place a stone on a house if it would be impossible to add more stones to the board to make the first stone part of a family linking one of the three pairs of sides, without removing some enemy stones. Also, you may not place a stone in any region dominated by an enemy family.&lt;br/&gt;&lt;br/&gt;Capturing&lt;br/&gt;&lt;br/&gt;If you make a move which blocks some enemy stones from linking any of the three pairs of sides, then those enemy stones are removed from the board. If you make a move which links any of the three pairs of sides, then any enemy stones in houses which are now dominated by some of your families are removed from the board.&lt;br/&gt;&lt;br/&gt;End Game&lt;br/&gt;&lt;br/&gt;&amp;quot;Territory&amp;quot; is defined this way: Each house occupied by one of your stones is included in your territory. An unoccupied house is included in your territory if it is not possible to travel along streets from that house to some enemy stone without first visiting one of your own stones. &lt;br/&gt;Eventually, each player can only place stones within his own territory. Then the game is over. The winner is the player whose territory includes the most houses.&lt;br/&gt;&lt;br/&gt;That's all!&lt;br/&gt;&lt;br/&gt;HexGo was inspired by the classic games Hex, Go, Tanbo, and Star.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="304812">First edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="6456">Gregory K. Van Patten</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

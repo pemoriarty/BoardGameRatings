@@ -1,0 +1,130 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="224653">
+			<yearpublished>2018</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Rising Sun: Monster Pack</name>
+									
+			<description>A set of four extra monsters to be added to Rising Sun that the clans can purchase and use.&lt;br/&gt;&lt;br/&gt;The monsters include:&lt;br/&gt;Oni of Plagues&lt;br/&gt;Fire Dragon&lt;br/&gt;Jinmenju&lt;br/&gt;Jorogumo&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Z78mITsgrdLLLSgIP1poio1jQu8=/fit-in/200x150/pic3986899.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/AgDJEUU0EDM4_24OrKX-ZHD0yXw=/0x0/pic3986899.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamefamily objectid="9470">Asian Theme</boardgamefamily>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamepublisher objectid="21608">CMON Limited</boardgamepublisher>
+																						<boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+															<boardgamefamily objectid="10634">Country: Japan</boardgamefamily>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="351244">English first edition</boardgameversion>
+															<boardgamepodcastepisode objectid="232495">Episode 10: Rising Sun</boardgamepodcastepisode>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamedesigner objectid="1533">Eric M. Lang</boardgamedesigner>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1082">Mythology</boardgamecategory>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgameversion objectid="402340">Polish edition</boardgameversion>
+															<boardgamepublisher objectid="2726">Portal Games</boardgamepublisher>
+															<boardgamecompilation objectid="224654">Rising Sun: Daimyo Box</boardgamecompilation>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgameartist objectid="12495">Adrian Smith</boardgameartist>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgameexpansion objectid="205896" inbound="true">Rising Sun</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>408</usersrated>
+					<average>8.32331</average>
+					<bayesaverage>6.22836</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.22836" />
+												
+											</ranks>
+					
+					<stddev>1.14605</stddev>
+					<median>0</median>
+					<owned>4226</owned>
+					<trading>35</trading>
+					<wanting>16</wanting>
+					<wishing>55</wishing>
+					<numcomments>128</numcomments>
+					<numweights>3</numweights>
+					<averageweight>3.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

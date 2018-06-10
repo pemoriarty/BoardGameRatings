@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="216421">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">COMPUS</name>
+									
+			<description>COMPUS is a game for 1 to 4 people (estimated minimum age to play: 8 years and older).&lt;br/&gt;&lt;br/&gt;In COMPUS each player will simulate being a computer program and try to get the desired result (a combination of bits) before the others.&lt;br/&gt;&lt;br/&gt;To do so, players will use operation cards (not, or, and, xor, rotate left/right, increment, decrement, copy of bits) on the shared registers of the CPU board or copy register values to their RAM board.&lt;br/&gt;&lt;br/&gt;Every turn, each player must do the following:&lt;br/&gt;&lt;br/&gt;1) Know how much CPU time is available rolling the die to get 1, 2, or 3 units of time.&lt;br/&gt;&lt;br/&gt;2) Play as many operation cards as time units have been asigned in the previous step. It is not mandatory to play all of them, it is possible to yield the CPU.&lt;br/&gt;&lt;br/&gt;3) Take as many operation cards as they have been played in the previous step (they can not be used until the next turn).&lt;br/&gt;&lt;br/&gt;The operation cards perform computational operations on the A, B, C and D registers of the CPU. All players can modify the values of all the bits in all 4 registers of the CPU, but they will not be able to read or modify the values stored in the RAM of other players.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/-VDMoCGUb1-0vB8-YF7voat7-eY=/fit-in/200x150/pic3366914.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nY14Fur-5iLXq8i1ec-rwCpRYBY=/0x0/pic3366914.png</image>
+						
+																										<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgameversion objectid="337161">First edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+															<boardgamedesigner objectid="97441">Pablo Garaizar</boardgamedesigner>
+															<boardgameartist objectid="97441">Pablo Garaizar</boardgameartist>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="227220">
+			<yearpublished>2011</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Jump Wars</name>
+									
+			<description>A Space Empire Game for 3-5+ players using simultaneous movement per written orders.&lt;br/&gt;&lt;br/&gt;Play is conducted on a 10x10 grid populated at random with counters (30 x void, 20 x star field, 10 x cluster, 20 x black hole, 20 x nebula).  The counters indicate the resources to be gain at that location or restrictions/advantages conveyed by that location.&lt;br/&gt;&lt;br/&gt;Each player gets a set of counters of a unique colour, plus one unique counter that designates their homeworld. Players share a common set of resource tokens and a common deck comprising two types of card &amp;ndash; basic technologies (of which there are 12 with each player starting at level 1 in each) and special technologies (which do not have levels &amp;ndash; players either have them or they don&amp;rsquo;t).&lt;br/&gt;&lt;br/&gt;Each turn has 8 Phases. Within a phase, the start player goes first and play proceeds clockwise.&lt;br/&gt;&lt;br/&gt;1. Draw Phase.  &lt;br/&gt;-  Each player draws 2 cards from the Tech Deck.&lt;br/&gt;&lt;br/&gt;2. Trade Phase&lt;br/&gt;-  Players may trade/gift Tech cards and resource tokens, as well as make promises and alliances. &lt;br/&gt;-  The player with the highest trade level may steal a random card from any target opponents hand. &lt;br/&gt;-  The player with the highest diplomacy level may declare one target player as an ally. The Ally may not jump fleets onto the diplomat&amp;rsquo;s currently occupied spaces.&lt;br/&gt;&lt;br/&gt;3. Tech Phase&lt;br/&gt;-  Each player discards one Tech Card from their Hand and increases their level in that tech by one.  Alternatively, a player may discard one Special Tech Card from their hand and gain that special ability. &lt;br/&gt;-  Any player then may discard 2 cards of the same type to increase their level in that tech by one.&lt;br/&gt;&lt;br/&gt;4. Mine Phase&lt;br/&gt;-  Each player gains Resource Tokens (RT) for star fields, clusters and homeworlds occupied, and for Tech cards discarded.  The RT gained is modified by the manufacturing level of the player.&lt;br/&gt;&lt;br/&gt;5. Build Phase&lt;br/&gt;-  Players may buy fleets. A fleet costs 4 plus your attack and defence levels minus your miniaturization level. All fleets start stacked on your homeworld.&lt;br/&gt;&lt;br/&gt;6. Jump Phase&lt;br/&gt;-  All movement is simultaneous. All players must write movement (jump) orders which are revealed at the same time. An order moves 1 fleet or a stack of fleets you control from one space to another space. Players must include the start and finish coordinates as well as the number of Fleets jumping in the Jump Order. Jump distance and fleet size is dictated by jump level and logistics level&lt;br/&gt;&lt;br/&gt;7. Fight Phase&lt;br/&gt;-  If 2 or more opposing fleets occupy the same space, there will be combat until only one side remains. Attack order is determined by Initiative level and the damage delivered is based on fleet size, attack level and defence level of the opposing fleet.&lt;br/&gt;&lt;br/&gt;8. Final Phase&lt;br/&gt;-  Max hand size is 3 + the player&amp;rsquo;s research level. All players discard excess cards.&lt;br/&gt;&lt;br/&gt;Victory is achieved by occupying all opponents&amp;rsquo; Homeworlds at the end of the turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="355170">First Edition</boardgameversion>
+																						<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

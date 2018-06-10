@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="230297">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>0</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Resident Evil Quest</name>
+									
+			<description>A quest style game using track, cards, and dice for one or more players, based on the Resident Evil franchise. Each player is a team of Operatives, Mercs, and/or Survivors that have infiltrated a Top Secret Underground Umbrella Corporation Research Facility with the intent to destroy it. The teams will fight zombies, mutants, Umbrella employees, and facility defences. They will be aided by cards representing weapons, Alice, and new recruits. &lt;br/&gt; There are 4 common decks: &lt;br/&gt;Agent Deck - Contains agents you can recruit for your team. &lt;br/&gt;Aid Deck - Helpful events and things you find along the way.  &lt;br/&gt;Encounter Deck - Foes and unfavourable events. &lt;br/&gt;Boss Deck - Big Monsters&lt;br/&gt;Agents and Foes have stats for Life, Evade, Attacks Initiative, Aim and Strength.&lt;br/&gt;&lt;br/&gt;The facility is represented by a track that is 40 spaces long.  The first space is the entrance. The end space is the final encounter.&lt;br/&gt;&lt;br/&gt;Each player draws 7 cards from the Agent deck and discards one. Players start with 3 Aid cards in their hand.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 6 phases:&lt;br/&gt;&lt;br/&gt;1.   Aid Phase&lt;br/&gt;-    Draw 1 Aid card and add it to your hand.&lt;br/&gt;&lt;br/&gt;2.   Recruit Phase&lt;br/&gt;-    Some Action Aid cards are played in this phase.&lt;br/&gt;&lt;br/&gt;3.   Move Phase&lt;br/&gt;-    Roll 1D6 and move your marker forward that many spaces. If you land on another player&amp;rsquo;s pawn immediately move forward 1 space.&lt;br/&gt;&lt;br/&gt;4.   Encounter Phase&lt;br/&gt;-    Draw 1 card from the Encounter deck. This will be something you have to fight this turn. If you reached the final space draw a card from the Boss deck instead of the Encounter deck.&lt;br/&gt;&lt;br/&gt;5.   Fight Phase&lt;br/&gt;-    Units make attacks in order of Initiative. &lt;br/&gt;-    When making an attack roll 1D10: if this is equal to or less than the Aim score then the attack hits. &lt;br/&gt;-    The defending unit then rolls 1D10: if this equal to or less than the Evade score of the Unit then the attack is negated. &lt;br/&gt;-    Attacks that hit and are not evaded do damage. A Unit that has more damage than life is killed. &lt;br/&gt;-    During a fight phase turn all Units get to attack (usually just once)&lt;br/&gt;-    Repeat the Fight Phase sequence until one side is completely killed off or an Aid card allows you to escape.&lt;br/&gt;&lt;br/&gt;6.   End Phase&lt;br/&gt;-    Make contamination checks if the Agent has been damaged but not killed to determine if they will turn into a zombie. &lt;br/&gt;-    Max hand size is 6 cards. Discard excess cards.&lt;br/&gt;&lt;br/&gt;The winner is the first player to make it to the end of the track and destroy the Boss Monster encountered there.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="360007">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>3</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

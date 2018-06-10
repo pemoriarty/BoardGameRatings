@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="202755">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Guildhall Fantasy: Fellowship</name>
+							<name  sortindex="1">Najemnicy: Parszywa Drużyna</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;Do you have a thirst for adventure? Is your middle name danger? Do you just like treasure? Form a party of adventurers to help you be victorious! The more members of each class you have, the greater the bonus they'll give you - but be careful; your opponents might try to poach your party members!&lt;br/&gt;&lt;br/&gt;In Guildhall Fantasy: Fellowship, 2-4 players compete to create the perfect party by recruiting adventurers into their guildhall chapters. Collect sets of cards with unique abilities to control the table, and complete a full chapter to claim victory cards. Will you go for points quickly, or build up your special powers? Which will lead to ultimate victory? Only you and the gamemaster know!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/iyz80U4NUzwOIe8ym8smdSSQyW8=/fit-in/200x150/pic3167304.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/9lGrr_N9-o6-JsJ71bsNuqaE93c=/0x0/pic3167304.jpg</image>
+						
+												<boardgameintegration objectid="226170">Advanced Guildhall Fantasy: The Gathering</boardgameintegration>
+															<boardgamepublisher objectid="396">Alderac Entertainment Group</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="315725">English first edition</boardgameversion>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamefamily objectid="40053">Guildhall</boardgamefamily>
+																						<boardgameintegration objectid="196305">Guildhall Fantasy: Alliance</boardgameintegration>
+															<boardgameintegration objectid="196306">Guildhall Fantasy: Coalition</boardgameintegration>
+															<boardgameartist objectid="89570">Gunship Revolution</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="52007">Hope S. Hwang</boardgamedesigner>
+															<boardgamepublisher objectid="27470">Lucrum Games</boardgamepublisher>
+															<boardgameversion objectid="346197">Polish edition</boardgameversion>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgameintegration objectid="226170" inbound="true">Advanced Guildhall Fantasy: The Gathering</boardgameintegration>
+															<boardgameimplementation objectid="132372" inbound="true">Guildhall</boardgameimplementation>
+															<boardgameintegration objectid="196305" inbound="true">Guildhall Fantasy: Alliance</boardgameintegration>
+															<boardgameintegration objectid="196306" inbound="true">Guildhall Fantasy: Coalition</boardgameintegration>
+															<boardgameimplementation objectid="142121" inbound="true">Guildhall: Job Faire</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>388</usersrated>
+					<average>7.30457</average>
+					<bayesaverage>5.96124</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2242" bayesaverage="5.96124" />
+												
+											</ranks>
+					
+					<stddev>1.06003</stddev>
+					<median>0</median>
+					<owned>875</owned>
+					<trading>37</trading>
+					<wanting>42</wanting>
+					<wishing>144</wishing>
+					<numcomments>79</numcomments>
+					<numweights>7</numweights>
+					<averageweight>1.8571</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

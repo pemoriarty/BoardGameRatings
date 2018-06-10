@@ -1,0 +1,106 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="203238">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>40</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Tricky Dungeon</name>
+									
+			<description>The trick-taking game Tricky Dungeon is played with 15 different hero cards and a 32 card deck that consists of 8 cards in 4 suits. The hero cards are offered in 3 different languages: English, German and Dutch. The playing cards are language independant and are valued 0 to 7. The cards with value 3 and 4 in each suit are magical spells. Each suit also has one card marked as a potion, the value being different in each suit. These special cards offer special gameplay effects, depending on which hero is chosen in a round. The other playing cards show typical dungeon inhabitants. These become relevant with a few heroes that are in the game.&lt;br/&gt;&lt;br/&gt;Players compete over multiple rounds to accumulate the most gold and the player who ends up with the most gold wins the game. There are 3 sets of 5 unique heroes and each game a set of 5 heroes is chosen to play with. Every round one of the players acts as the active player and has to choose one of 5 available heroes. Each hero changes the game and describes how gold is earned. All the other players have to cooperate and try to stop the active player from reaching this goal.&lt;br/&gt;&lt;br/&gt;The active player chooses the hero to play with after the playing cards are dealt. In a 4 player game each player receives 7 cards. The remaining 4 cards are set aside. After the active player has chosen the hero for the round, that player may exchange up to 4 cards from hand with the remaining cards. In a 2 and 3 player game each player is dealt 9 cards and 5 cards are set aside and available for exchanging.&lt;br/&gt;&lt;br/&gt;Each hero determines the goal for the active player how gold can be earned. This can be a scaling amount of gold. For example if a player chooses the Barbarian gold is earned for every collected trick and potion card above a certain threshold. Some heroes offer a fixed amount of gold. For example, if a player chooses the Assassin, 4 gold is earned if the active player wins the final trick of the round. When the active player did not manage to earn any gold, all other players are rewarded for their good cooperation by earning 1 gold each. Some heroes change the game in other ways, for example playing cards without revealing them or making use of the set aside cards during a round.&lt;br/&gt;&lt;br/&gt;The playing and winning of the tricks uses mostly standard trick-taking rules. The first played card of a trick determines the suit that is asked. Other players must follow suit, if they can. In general the player who played highest card of the suit that is requested, wins the trick. Some heroes add trump cards that round, this can be a suit, one of the special cards (magical spells, potions) or even a specific number. If one or more trump cards is played in a trick, the highest trump wins the trick. Each suit is ranked (1 to 4), if multiple trump cards of the same value are played (e.g. multiple 4's with a hero in play that makes them trump), the higher ranked suit wins the trick.&lt;br/&gt;&lt;br/&gt;The three sets of five heroes each offer a range of options for players. Starting players are recommended to play with set A first. Sets B and C offering more tricky heroes to play with. Besides these three unique set of hero options, the game also suggests a few variants to increase variability. Instead of playing 2 rounds per player the 'Adventurer's Guild' variant forces players to play once with each of the five heroes that game as an active player. Another variant, 'Random Dungeon', shuffles all the 15 heroes together and the active player is offered 1 hero at random to choose to play with. Up to two times this hero can be refused an a new hero is revealed.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/KklRvk96cGtWUZeyBbRQpm6TkMI=/fit-in/200x150/pic3092704.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qLfOWIucaL_igX2OKBPrQa_S80M=/0x0/pic3092704.png</image>
+						
+												<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgameartist objectid="24841">Víctor Pérez Corbella</boardgameartist>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="316717">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepodcastepisode objectid="197119">HLG 15: Geluk &amp;amp; Fillers</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="184227">HLG 6: Samen</boardgamepodcastepisode>
+															<boardgamedesigner objectid="93094">Arjan van Houwelingen</boardgamedesigner>
+															<boardgamepublisher objectid="33274">Pumpkin Games</boardgamepublisher>
+															<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21</usersrated>
+					<average>7.00952</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.56476</stddev>
+					<median>0</median>
+					<owned>25</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>15</wishing>
+					<numcomments>10</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

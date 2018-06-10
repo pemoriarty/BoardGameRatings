@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="193062">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Bidder Up!</name>
+							<name  sortindex="1">Koehandel: Het bordspel</name>
+							<name  sortindex="1">Kuhhandel: Das Brettspiel</name>
+									
+			<description>As in the Kuhhandel card game, in Bidder Up!, a.k.a. Kuhhandel: Das Brettspiel you're trading animals with other players and participating in auctions to try to collect valuable sets of critters. Ten different auctions take place around the game board, and the double-sided board presents players with two ways to play, with one side allowing for market manipulation of the value of the animals themselves.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6kkualeb9MFLuikHfP0V8SVAAGQ=/fit-in/200x150/pic3617170.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/7nJla6IOO1Tr4DlzPazUkCBONSY=/0x0/pic3617170.jpg</image>
+						
+												<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgameversion objectid="291353">Dutch first edition</boardgameversion>
+															<boardgameversion objectid="346801">English first edition</boardgameversion>
+															<boardgameversion objectid="299665">German first edition</boardgameversion>
+																																																		<boardgamedesigner objectid="35233">Max Kirps</boardgamedesigner>
+															<boardgameartist objectid="56356">Martin Knorpp</boardgameartist>
+															<boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+															<boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgameimplementation objectid="1117" inbound="true">You&#039;re Bluffing!</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>84</usersrated>
+					<average>6.62262</average>
+					<bayesaverage>5.57675</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6894" bayesaverage="5.57675" />
+												
+											</ranks>
+					
+					<stddev>1.41567</stddev>
+					<median>0</median>
+					<owned>246</owned>
+					<trading>10</trading>
+					<wanting>21</wanting>
+					<wishing>98</wishing>
+					<numcomments>20</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

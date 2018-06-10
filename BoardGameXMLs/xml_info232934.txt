@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="232934">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Cruise Ship Quest</name>
+									
+			<description>A board game for 2-4+ players with a Cruise Line management theme.&lt;br/&gt;&lt;br/&gt;The map contains 18 regions. Each region directly connects to 1-5 other regions by course lines.  Within each region are 3-5 cities which are connected to each other.&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising 5 types of cards: Destination Cards, Room Cards, Mess Cards, Crew Member Cards and Souvenir Cards. The Room cards are further divided into 3 types: Food Cards, Sleep Cards and Play Cards.  Players start with a hand of 7 cards.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 7 Phases:&lt;br/&gt;&lt;br/&gt;Itinerary Phase&lt;br/&gt;-   Draw 1 card from the deck and put it in your hand.&lt;br/&gt;&lt;br/&gt;Investment Phase&lt;br/&gt;-   You may reduce your Cruise Point score by 1 to draw an extra card. &lt;br/&gt;-   You may then reduce your Cruise Point score by another 2 to draw a second extra card. (total 3 points)&lt;br/&gt;-   You may then reduce your Cruise Point score by another 3 to draw a third extra card. (total 6 points)&lt;br/&gt;&lt;br/&gt;Business Phase&lt;br/&gt;-   Players may trade cards and Cruise Points with each other.&lt;br/&gt;&lt;br/&gt;Launch Phase&lt;br/&gt;-   You may launch a new cruise ship. To do this you must play 7 cards from your hands. 6 cards must be Room cards (2 Sleep cards, 2 Play cards, 2 Food cards)&lt;br/&gt;The seventh card is a city card; the location where the ship will start from. &lt;br/&gt;-   Start a Ship Log for the new ship and select a ship token.  On the log record the identity number of the ship token and, ownership of the ship, its home port (starting location) and its value (based on the total value of the room cards played (each room has a value of 1 or 2)&lt;br/&gt;-   Discard all 7 cards at the end of the phase a ship is launched.&lt;br/&gt;&lt;br/&gt;Sail Phase&lt;br/&gt;-   You may move each of your ships on the map. Each of your ships may move once on your turn in this phase. Ships move 4 ways: &lt;br/&gt;&amp;bull;   Region to adjacent Region (as allowed on the Region connectivity list) &lt;br/&gt;&amp;bull;   Region to City within that Region. &lt;br/&gt;&amp;bull;   City to Region that city is in. &lt;br/&gt;&amp;bull;   City to city within a Region (all cities within a region are connected)&lt;br/&gt;&lt;br/&gt;Destination Phase&lt;br/&gt;-   If you have one of your ships at a city, you may play a matching Destination card. &lt;br/&gt;For example: Your ship is at Cuba on the Map and you play the Cuba card.  You score Cruise Points for arriving at a destination - gain 2D6 Cruise Points and add the value of your ship to get the base number of cruise points earned. &lt;br/&gt;-   Next, each other player may play one or more Mess cards from their hands against you. You may play crew member cards from your hand to negate Mess cards on a one to one basis. For each Mess card not negated, you earn 1 less Cruise Point. &lt;br/&gt;-   You may play 1 or more Souvenir cards. Gain 1 Cruise Point for each such card played.  &lt;br/&gt;-   Record on the Ships Log the destination (City) you arrived at and the number of Cruise points you scored. &lt;br/&gt;-   Discard all cards played.&lt;br/&gt;&lt;br/&gt;Port Phase&lt;br/&gt;-   Max hand size is 7 cards. Discard excess cards.&lt;br/&gt;&lt;br/&gt;The game ends when players have gone through the deck 3 times and a turn starts and there are no cards left to draw. Scoring is then conducted.&lt;br/&gt;&lt;br/&gt;The Ship that visits the most Cities gets 25 Cruise Points.&lt;br/&gt;The Ship that visits the most Regions gets 25 Cruise Points.&lt;br/&gt;A Ship that visits a city no other ship has visited gets 10 Cruise Points for each such city. &lt;br/&gt;When a ship visits all the cities in a single region, this is called a Hat Trick. A Ship gets 10 Cruise Points for every Hat Trick it Makes.&lt;br/&gt;&lt;br/&gt;The player with the most Cruise Points at the end of the game wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+																						<boardgameversion objectid="364964">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1011">Transportation</boardgamecategory>
+															<boardgamecategory objectid="1097">Travel</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

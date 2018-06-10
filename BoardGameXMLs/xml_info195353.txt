@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="195353">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Pacific Fury: Guadalcanal, 1942</name>
+									
+			<description>Pacific Fury simulates the naval battle for Guadalcanal in 1942. Originally published in Japanese by Bonsai Games, this represents the English version produced by Revolution Games.&lt;br/&gt;&lt;br/&gt;The game is area movement where task forces are defined by each player (hidden) and placed in boxes (1 to 7) in incremental order. Each task force is then deployed in according to the number in each box.&lt;br/&gt;&lt;br/&gt;The Americans start with control of Guadalcanal and it is up to the Japanese to wrest control.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/NxrSmVTUsSN4Ezqf5jcpM0XbxAw=/fit-in/200x150/pic2999397.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/khmmapYiUarG_eiZw7u107AJ4og=/0x0/pic2999397.jpg</image>
+						
+												<boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+															<boardgamepublisher objectid="27445">Bonsai Games</boardgamepublisher>
+															<boardgameversion objectid="303693">English first edition</boardgameversion>
+															<boardgamedesigner objectid="4043">Yasushi Nakaguro</boardgamedesigner>
+																						<boardgamepublisher objectid="18698">Revolution Games (II)</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+															<boardgameimplementation objectid="16195" inbound="true">Campaign for Guadalcanal</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>64</usersrated>
+					<average>7.39531</average>
+					<bayesaverage>5.58985</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6362" bayesaverage="5.58985" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1022" bayesaverage="6.02139" />
+												
+											</ranks>
+					
+					<stddev>1.57415</stddev>
+					<median>0</median>
+					<owned>178</owned>
+					<trading>3</trading>
+					<wanting>28</wanting>
+					<wishing>44</wishing>
+					<numcomments>25</numcomments>
+					<numweights>8</numweights>
+					<averageweight>2.375</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,62 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="207388" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Go: Clock</name>
+									
+			<description>Game timer for go. Digital game timer made especially for go and able to handle advanced time modes such as byoyomi time, Canadian Style, Fischer time, etc. Evidently, also usable as an advanced chess clock as well as for Shogi and Xianqi.&lt;br/&gt;&lt;br/&gt;Advanced models are able to count down the remaining time (1 min, 30 secs, 10, 9, 8, etc.) verbally in several languages, thereby allowing the players to keep their focus on the board with no need for looking at the clock during play.&lt;br/&gt;&lt;br/&gt;Thus, what makes this kind of game timer different from a standard chess clock is the ability to handle the very different time keeping used in go compared to chess. In chess, typically one period of time is allocated to each player - e.g. 1 or 2 hours for the whole game or for the first 40 moves, or - in blitz - 5 min for each player for the whole game. In go many more moves are made during a game. Therefore, typically each player are given a small initial amount of time (eg. 10 min) after which the time keeping changes such that a certain number of moves must be made within a certain time limit (e.g. 10 min to 25 moves) after which a new time period is allocated. This pattern then repeats over and over again. Thus, in chess the players typically only get close to the time limit once in the game whereas in go the players are getting close to the time limit again and again. In a typical go game most of the game will be played during the byoyomi time with numerous count downs as the time limit will be met over and over again. A go clock is as initially described able to handles this more advanced time keeping with multiple count downs. Importantly, as mentioned above, the more advanced models counts down verbally (in English, Japanese, Chinese or Korean) mimicking tournament time keeping with a human time keeper, allowing the players to keep their eyes at the board instead of the clock.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<bgaccessoryversion objectid="323570">Meijinsen DIT-40</bgaccessoryversion>
+															<boardgameaccessory objectid="188" inbound="true">Go</boardgameaccessory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="62" name="boardgameaccessory" friendlyname="Accessory Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

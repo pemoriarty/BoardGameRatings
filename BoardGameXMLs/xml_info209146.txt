@@ -1,0 +1,97 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="209146">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Fishery</name>
+									
+			<description>Fishery is an abstract strategy game in which 2 players place ships and cast nets, each trying to have the largest area in their fisheries.&lt;br/&gt;&lt;br/&gt;MATERIALS&lt;br/&gt;&lt;br/&gt;Gameboard (7&amp;times;9 grid)&lt;br/&gt;&lt;br/&gt;12 Ship pieces (6 white, 6 black)&lt;br/&gt;&lt;br/&gt;60 Net pieces (sticks: 30 white, 30 black)&lt;br/&gt;&lt;br/&gt;SETUP&lt;br/&gt;&lt;br/&gt;The gameboard starts empty. Each player selects a color, and Black goes first. Players alternate turns during the game.&lt;br/&gt;&lt;br/&gt;PLAY&lt;br/&gt;&lt;br/&gt;Phase 1: Place Ships&lt;br/&gt;&lt;br/&gt;On your turn, place 1 of your ships in an empty square space on the gameboard.&lt;br/&gt;&lt;br/&gt;Once all 12 ships are on the gameboard, continue to the next phase.&lt;br/&gt;&lt;br/&gt;Phase 2: Place Nets&lt;br/&gt;&lt;br/&gt;On your turn, either place a net on one of the net spaces between the squares according to the rules below, or pass:&lt;br/&gt;&lt;br/&gt;1. A fishery is an area completely surrounded by nets, including the pre-printed blue nets at the edge of the board.&lt;br/&gt;&lt;br/&gt;2. Each fishery must contain at least one ship, but not necessarily your own ship.&lt;br/&gt;&lt;br/&gt;3. Each fishery must use at least one of the pre-printed blue nets at the edge of the board as part of its border.&lt;br/&gt;&lt;br/&gt;END OF THE GAME&lt;br/&gt;&lt;br/&gt;If both players pass consecutively, the game is over.&lt;br/&gt;&lt;br/&gt;SCORING&lt;br/&gt;&lt;br/&gt;For each fishery, the player with more ships in it controls that fishery, and scores 1 fish for each square space in it, including the spaces with ships. If both players have the same number of ships in a fishery, neither player controls that fishery, and neither gets the fish.&lt;br/&gt;&lt;br/&gt;The player with the most fish wins! In the event of a tie, the second player (White) wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/sZJBgah90WZyKgr8lRuCSodMoy4=/fit-in/200x150/pic3187404.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/aQniqpykV2jj8K3aSFveO3Svwyk=/0x0/pic3187404.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="95044">Yuuki Doi</boardgamedesigner>
+															<boardgameversion objectid="326622">First edition</boardgameversion>
+																						<boardgamefamily objectid="20530">nestorbooster</boardgamefamily>
+															<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>9</usersrated>
+					<average>6.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.44949</stddev>
+					<median>0</median>
+					<owned>12</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

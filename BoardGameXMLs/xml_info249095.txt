@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="249095">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Blooms</name>
+									
+			<description>Blooms is a colorful combinatorial game inspired by the algorithmic art of Ralph Turner. It's a territorial game for two players, played on any hexagonally tiled surface (the designer recommends starting on a hex board with 4 or 5 cells to a side), using stones of 4 different colors (each player owns 2 colors).&lt;br/&gt;&lt;br/&gt;It's related to the game of Go, except it plays faster, it's more colorful, and can be played on smaller boards. Each play results in different interacting patterned color combinations that can look quite striking.&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Bloom: a bloom is an entire group of connected stones on the board of the same color. A single stone (unconnected to others of the same color) is also a bloom.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Fenced: a bloom is fenced when there are no empty spaces adjacent to any of the bloom&amp;rsquo;s stones.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Territory: a lone empty space or entire connected group of empty spaces is said to belong to a player&amp;rsquo;s territory if all stones adjacent to all empty spaces in that group belong to that player.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     To start, Player 1 places a stone of either of her colors on any empty space.&lt;br/&gt;     From then on, starting with Player 2, the players take turns.&lt;br/&gt;         On your turn, you must either pass your turn, or place 1 or 2 stones on empty spaces. If you place 1 stone, it may be either of your colors. If you place 2 stones, you must place both your colors.&lt;br/&gt;         You must place your stones such that, at the end of your turn (after you&amp;rsquo;ve captured enemy blooms &amp;ndash; see below), none of your blooms is fenced.&lt;br/&gt;         After placing your stones, capture all fenced enemy blooms. Return the captured stones to your opponent.&lt;br/&gt;    &lt;br/&gt;     The game ends when one player resigns or when both players pass consecutively. In the latter case, your score is the number of stones you have on the board plus the number of spaces in your territory. The player with the highest score wins. In the event of a tie, the player who passed first in the game wins.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Note: when players have experience, most games will end in resignation, as it will be easy to see what the final scores will be well before the game actually ends.&lt;br/&gt;&lt;br/&gt;You can see diagrams and gifs here&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZHoGkhyhGSR3npQba8BPJSeeYwE=/fit-in/200x150/pic4045049.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/IDOX32KXpH9cmfi9QvERzB93q0k=/0x0/pic4045049.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamedesigner objectid="7958">Nick Bentley</boardgamedesigner>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="399307">First Edition</boardgameversion>
+															<boardgamefamily objectid="46162">Go</boardgamefamily>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>5</usersrated>
+					<average>8.2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.16619</stddev>
+					<median>0</median>
+					<owned>5</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>10</wishing>
+					<numcomments>6</numcomments>
+					<numweights>1</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

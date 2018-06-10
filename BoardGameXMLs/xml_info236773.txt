@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="236773">
+			<yearpublished>2012</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Wargasm</name>
+									
+			<description>A card game for 2-4+ players with a modern combat theme&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising cards of 4 different types of military unit (Infantry, Vehicle, Artillery, Air).  As well as their Unit type these cards also have an attack characteristic, and an event characteristic.  These cards can be used in three different ways -  as a unit, to attack, or as an event.&lt;br/&gt;&lt;br/&gt;In addition there are Intel cards which do not function as a unit but will list an attack and an event, or two events.&lt;br/&gt;&lt;br/&gt;Cards being used as Units are kept face-up on the table in front of the controlling player. Cards put into play as units are said to be Deployed.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 5 phases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Logistics Phase &lt;br/&gt;         Draw 4 cards from the deck.&lt;br/&gt;    &lt;br/&gt;     Deploy Phase&lt;br/&gt;         You may put 1 unit card into play from your hand. &lt;br/&gt;    &lt;br/&gt;     Attack Phase&lt;br/&gt;         You may make 1 attack this phase by playing a card for its attack function.  The attack function of a card will specify attacker type and target type. (e.g. Infantry attacks Vehicle).   When a card is being used to attack, you must have the appropriate type of Unit in play (deployed) that can make the attack. The attack targets either the opponent&amp;rsquo;s base or a specific type of Unit that the opponent has in play. As a result of the attack, the attack card is discarded and the target unit is discarded, or if the base was attacked, the target player will gain 1 damage for each unit that attacked.  The attacking unit(s) remain in play.  Some event cards will allow the defender to negate the Attack.&lt;br/&gt;    &lt;br/&gt;     Event Phase&lt;br/&gt;         You may play 1 event card this phase.  Discard the event card when played. &lt;br/&gt;    &lt;br/&gt;     Friction Phase&lt;br/&gt;         Max hand size is 5 cards. Give excess cards to one or more opponents. &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Players are eliminated when they have accumulated 20 or more points of damage. The goal of the game is to be the last player standing.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="371798">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

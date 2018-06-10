@@ -1,0 +1,90 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="223388">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Side Stitch</name>
+									
+			<description>Side stitch is played on board tessellated with hexagonal cells and possessing an odd numbered of sides. The goal is to create a group of stones that touches more sides than your opponent.  (Note that on game boards that have colored borders, each distinct color counts as a distinct &amp;quot;side.&amp;quot;)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Rules&lt;br/&gt;&lt;br/&gt;On each turn, a player plays a single stone of his/her color to any empty cell; once placed, stones do not move. Play continues until the board is full or until both players pass in succession. The pie rule applies (that is, once the first stone is played, the second player can opt to switch colors with his/her opponent).&lt;br/&gt;&lt;br/&gt;A group of same-color stones has a value equal to the number of sides it touches. (Note that a stone in the cell where two sides meet touches both of those sides). At the end of the game, each player identifies his/her highest-valued group. The player whose highest-valued group is highest is the winner. In case of tie, the players should ignore the tied groups and compare their remaining groups; the highest value among the remaining groups wins. This process is repeated until the tie is broken.  Draws are not possible.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/omqhWDSdQYRa1ei8q16kALa1nzE=/fit-in/200x150/pic3478657.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/fIBgXMO8dMBudiwQfKFIt9MnZYw=/0x0/pic3478657.png</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamedesigner objectid="66694">Craig Duncan</boardgamedesigner>
+															<boardgameversion objectid="349059">First edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>7.66667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.24722</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

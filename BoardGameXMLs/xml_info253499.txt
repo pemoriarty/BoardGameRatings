@@ -1,0 +1,120 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="253499">
+			<yearpublished>2019</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">A War of Whispers</name>
+									
+			<description>A War of Whispers is a competitive board game for 2 to 4 players. Five mighty empires are at war for the world, but you are no mighty ruler. Instead, you play a secret society that is betting on the results of this war while pulling strings to rig the results and ensure their bets pay off. A War of Whispers is a game of deep strategy, hidden agendas, and shifting loyalties.&lt;br/&gt;&lt;br/&gt;You start the game with five loyalty tokens, each corresponding to one of the five different empires, bet randomly on a loyalty value. Your primary goal is to ensure that when the game ends, the empires you are most loyal to control the most cities across the globe. Gameplay consists of turns broken down into four phases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Deploy agents phase: In player order (starting with the first player and proceeding clockwise), each player removes, then deploys agents to empire councils, the positions on the board marked Sheriff, Steward, Marshall, and Chancellor.&lt;br/&gt;    Empire turns phase: Each council position on each empire council will take an action. If a player has acquired cards, they may play them during this phase.&lt;br/&gt;    Cleanup phase: Add the turn marker to the next space on the turn tracker, then each player discards down to the hand limit of five cards.&lt;br/&gt;    Swap phase: In player order, each player may swap two of their unrevealed loyalty tokens. If you choose to do so, you must reveal both of the swapped loyalty tokens. They remain revealed for the rest of the game.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Gameplay repeats itself in this order four times. When the last space on the turn track is filled, the game ends immediately and scoring commences. The player with the most points based off their empire loyalties and the cities they control wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/CZgqws0I-Bzgg_i1KFY5xXjrC8A=/fit-in/200x150/pic4150994.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5FlxTM2zHLaqx3fG3ZLVysZqBbE=/0x0/pic4150994.jpg</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameversion objectid="407018">English first edition</boardgameversion>
+															<boardgameartist objectid="12019">Tomasz Jedruszek</boardgameartist>
+															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
+															<boardgamecategory objectid="1001">Political</boardgamecategory>
+															<boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+															<boardgamepublisher objectid="38298">Starling Games (II)</boardgamepublisher>
+															<boardgamedesigner objectid="69290">Jeremy Stoltzfus</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>7</usersrated>
+					<average>9.57143</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.728431</stddev>
+					<median>0</median>
+					<owned>3</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>44</wishing>
+					<numcomments>7</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

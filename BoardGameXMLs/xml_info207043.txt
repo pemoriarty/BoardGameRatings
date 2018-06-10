@@ -1,0 +1,100 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="207043">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>7</age>
+
+							<name primary="true" sortindex="1">MetaCheckers</name>
+									
+			<description>Game description from the publisher:&lt;br/&gt;&lt;br/&gt;MetaCheckers is chess, played with checkers. The goal is to capture the opponent's King Checker. Checkers make chess moves based on the roll of a special pair of dice. One die -- the Numbers Die -- is a standard D6. The other -- the Chess Die -- has the 6 chess symbols.&lt;br/&gt;&lt;br/&gt;Roll a King, Knight or Pawn and pick ANY checker -- including your King Checker -- to move as King, Pawn or Knight. The Numbers Die does not matter on these rolls. Roll a Queen, Bishop or Rook and Numbers Die tells you how far the checker MUST move as a Queen, Bishop or Rook. So, if you roll a BISHOP 6, the checker you select must move diagonally for 6 spaces, unless it makes a capture, hits the edge of the board or is blocked by a fellow piece.&lt;br/&gt;&lt;br/&gt;Again, any checker can be moved by any roll of the dice. So, the King Checker may move as a Knight or a Pawn or even a Queen 6 if desired. But no checker retains any chess rank after the completion of the turn. Every roll of the dice wipes the slate clean. For the length of the turn, the selected pieces behave as chess pieces. But pawns do not get 2 spaces on their first turn. They don't get promoted for reaching the opposite side of the board. But they do still capture diagonally. There is no check or checkmate or castling. Just capture the king.&lt;br/&gt;&lt;br/&gt;Roll a King on your first turn, and you may flip your King Checker over. This hides your king -- STEALTH MODE -- and your opponent has to keep track of it to capture it and win.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/3cCmzZDvahsNwdfHb_-hGdWp__s=/fit-in/200x150/pic3143270.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/SDIF-pq3lOiCrhMj3HRfaetg_dE=/0x0/pic3143270.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamedesigner objectid="94279">Ed Bond</boardgamedesigner>
+															<boardgamefamily objectid="96">Checkers</boardgamefamily>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamepublisher objectid="33833">DreamGames</boardgamepublisher>
+															<boardgameversion objectid="323053">First edition</boardgameversion>
+															<boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+																						<boardgameexpansion objectid="231863">MetaCheckers: Soccer</boardgameexpansion>
+															<boardgameversion objectid="323262">Second edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>7.04545</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.49048</stddev>
+					<median>0</median>
+					<owned>23</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>4</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

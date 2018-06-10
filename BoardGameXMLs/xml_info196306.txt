@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196306">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Guildhall Fantasy: Coalition</name>
+							<name  sortindex="1">Najemnicy: Nieświęte Przymierze</name>
+									
+			<description>In Guildhall Fantasy: Coalition, each profession grants you special abilities, and these abilities grow stronger the more of that profession that you collect. When you cash in that profession set for victory points, however, you lose the ability until you can build it up again.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/X-OnSQ_gii6UncK7rV6mMm83f8w=/fit-in/200x150/pic3167330.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/A2HuE3c59uLnMtIaFNm9CqQWJBY=/0x0/pic3167330.jpg</image>
+						
+												<boardgameintegration objectid="226170">Advanced Guildhall Fantasy: The Gathering</boardgameintegration>
+															<boardgamepublisher objectid="396">Alderac Entertainment Group</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameartist objectid="106156">EJ Dela Cruz</boardgameartist>
+															<boardgameversion objectid="305298">English first edition</boardgameversion>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamefamily objectid="40053">Guildhall</boardgamefamily>
+																						<boardgameintegration objectid="196305">Guildhall Fantasy: Alliance</boardgameintegration>
+															<boardgameintegration objectid="202755">Guildhall Fantasy: Fellowship</boardgameintegration>
+															<boardgameartist objectid="89570">Gunship Revolution</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="52007">Hope S. Hwang</boardgamedesigner>
+															<boardgamepublisher objectid="27470">Lucrum Games</boardgamepublisher>
+															<boardgameversion objectid="346200">Polish edition</boardgameversion>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+															<boardgameintegration objectid="226170" inbound="true">Advanced Guildhall Fantasy: The Gathering</boardgameintegration>
+															<boardgameimplementation objectid="132372" inbound="true">Guildhall</boardgameimplementation>
+															<boardgameintegration objectid="196305" inbound="true">Guildhall Fantasy: Alliance</boardgameintegration>
+															<boardgameintegration objectid="202755" inbound="true">Guildhall Fantasy: Fellowship</boardgameintegration>
+															<boardgameimplementation objectid="142121" inbound="true">Guildhall: Job Faire</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>212</usersrated>
+					<average>7.26701</average>
+					<bayesaverage>5.783</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3248" bayesaverage="5.783" />
+												
+											</ranks>
+					
+					<stddev>1.1176</stddev>
+					<median>0</median>
+					<owned>672</owned>
+					<trading>21</trading>
+					<wanting>33</wanting>
+					<wishing>78</wishing>
+					<numcomments>38</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

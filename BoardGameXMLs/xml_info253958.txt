@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="253958">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Dice Maze</name>
+									
+			<description>User summary&lt;br/&gt;Dice Maze is a two-player maze game. You place and move your dice in a 7x7 square grid to force your opponent to be unable to move. The game is language free, although published in Japanese.&lt;br/&gt;&lt;br/&gt;At beginning of the game, both players place their pawn in any vacant square of their choice.&lt;br/&gt;&lt;br/&gt;In your turn, you do the following:&lt;br/&gt;1-a) Place one of your dice from your reserve onto any vacant square, showing one pip on top, or&lt;br/&gt;1-b) Rotate (tumble) one of your dice on the grid N times, where N equals to number of pips of it.&lt;br/&gt;2) Then, move your pawn in the same manner as a Rook in Chess (orthogonally).&lt;br/&gt;&lt;br/&gt;When you rotate a die, turn it 90 degrees on a bottom edge in one of four directions. &lt;br/&gt;You may capture your opponent's die if your die finishes all rotations in the same square with the same pips on top as the opponent's die.&lt;br/&gt;&lt;br/&gt;You win the game when you capture three of your opponent's dice, or when your oppont's pawn is unable to move.&lt;br/&gt;&lt;br/&gt;Publisher's summary&lt;br/&gt;サイコロパズルの要素がある迷路ゲームです。&lt;br/&gt;サイコロを壁として使い、相手の駒を動かせなくする迷路ゲームです。&lt;br/&gt;自分の番になったら、サイコロを置くか動かし、その後で自分の駒をルークの動きで動かします。&lt;br/&gt;サイコロは上になっている目の数だけ転がり、上手く同じ目になったら相手のサイコロを取れます。&lt;br/&gt;相手の駒を動かせなくするか相手のサイコロを3個取ったら勝ちです。&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="37640">39game (39芸夢)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1017">Dice</boardgamecategory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameversion objectid="407677">Japanese first edition</boardgameversion>
+															<boardgamedesigner objectid="104280">Masoccer (マサッカー)</boardgamedesigner>
+															<boardgameartist objectid="104280">Masoccer (マサッカー)</boardgameartist>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

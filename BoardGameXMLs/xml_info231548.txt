@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="231548">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Jurassic Park Rescue</name>
+									
+			<description>A board game for 2-4 + players based on the Jurassic Park universe. The aim of the game is to be the first team to find the kids and bring them back to the Visitor Centre &lt;br/&gt;without first being killed off.&lt;br/&gt;&lt;br/&gt;The board is an 8x8 grid in the form of a map of the island. In one corner is the Visitor Centre (safe start and end zone) from which the players&amp;rsquo; teams start. In the opposite corner is the kids token. The map is populated with terrain in the form of 4 randomly placed lakes, 4 randomly placed mountains and 4 randomly placed valleys.&lt;br/&gt;&lt;br/&gt;Six dinosaurs are placed randomly on the board (but not adjacent to the visitors centre). These dinosaurs are selected at random from a table of 6 dinosaur types. Each dinosaur type is immune from one of the tactics that might be employed by the players (e.g. you cannot outrun the Velociraptors).&lt;br/&gt;&lt;br/&gt;Each player starts with an 8 member team.  Players roll 8 times on a Team Table to get the composition of their team. The 6 different types of team member have skills that improve the tactical abilities of the team. Results and changes are recorded with paper and pencil. During the game, players will lose and gain team members.&lt;br/&gt;&lt;br/&gt;Players share a Common Deck. The deck has 7 types of cards representing the tactics that can be employed to evade the dinosaurs: Hide, Run, Block, Trap, Shoot, Distract, and Special.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 4 phases.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Equip Phase &lt;br/&gt;         Draw 1 Card from the deck and add it to your hand. Max hand size is 5 cards. &lt;br/&gt;    &lt;br/&gt;     Special Phase&lt;br/&gt;         Special cards not meant to be used in other phases may be played (discarded) for their effects in this phase. &lt;br/&gt;    &lt;br/&gt;     Dinosaur Phase&lt;br/&gt;         Pick 1 Dinosaur by random and roll once on the random movement table to determine how it moves. Dinosaurs move orthogonally but not diagonally and must obey a set of movement rules related to terrain and the location of other dinosaurs.&lt;br/&gt;         If a dinosaur enters the same space as a team, the team will be attacked. The team must attempt to escape. An escape attempt must use 1 tactic from the 6 available (Shoot, Run, Hide, Trap, Block, and Distract. Next, the player must make an escape roll using 2 six-sided dice. Add up the total of the 2 dice rolls and add to this the number of teammates with the matching tactic. Next, play (discard) up to 2 tactics cards and add their bonuses. At least 1 of the tactics cards played must match the chosen tactic. If the Total (roll + team bonuses + card bonuses) is equal to or greater than 12, then the team escapes with no casualties. If the total is less, the team loses a number of random team members equal to the difference. If a team loses all its members, that player is out of the game. &lt;br/&gt;         After the attack, the team must retreat 1 space away.  If you are attacked and you control the kids token you may lose control of the token.&lt;br/&gt;    &lt;br/&gt;     Move Phase&lt;br/&gt;         Move your team pawn 1 space orthogonally. You may play (discard) 1 special card to move the team farther per the cards instructions. Terrain will affect where the teams move to and teams cannot enter spaces occupied by dinosaurs or other teams. If you enter the space containing the kids you take possession of it. The kids token moves along with your team pawn.&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="362392">First edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+																						<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>6</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

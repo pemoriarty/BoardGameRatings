@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="223312">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Little Big Fish</name>
+									
+			<description>Little Big Fish is a tactical game for two players who compete to capture five fish first.&lt;br/&gt;&lt;br/&gt;To set up, each player has three little fish in the first line of an empty sea tile, with the board being comprised of four boards pushed together to form a square. To become bigger, fish must eat plankton. When you move to a space where there is a fish of the same size or smaller than you, you capture it. Small fish are fast but vulnerable; they can capture small fish but can be captured by any fish, and they are the only ones that can go through shipwrecks. Medium fish can capture small and medium fish, and they can't go through shipwrecks. Big fish can capture fish of any size, and they can't go through shipwrecks.&lt;br/&gt;&lt;br/&gt;On a turn, you move one of your fish two spaces or two of your fish one space each. Fish can move orthogonally, and you must resolve the action of a space before taking your second move. Move into a space with plankton, and your fish grows in size; land on a birth space, and you add a little fish from your reserve to the board. The shipwreck serves as a tunnel for small fish, and the &amp;quot;?&amp;quot; space makes you draw a tile, take its action, then discard it. You might rotate part of the board, put a fisherman to work, or have an unexpected birth. Race to eat five fish first!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/B8s4GZ4HQ-qF2kmRBannODwVuDE=/fit-in/200x150/pic3790532.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/G7CplRQpJboyWkGM2lKXH1-H6KU=/0x0/pic3790532.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="7975">Animals: Fishes</boardgamefamily>
+															<boardgameartist objectid="97763">Damien Colboc</boardgameartist>
+															<boardgameversion objectid="348897">English/French first edition</boardgameversion>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamedesigner objectid="84999">David Perez (II)</boardgamedesigner>
+															<boardgamedesigner objectid="1279">Igor Polouchine</boardgamedesigner>
+																						<boardgamepublisher objectid="35770">The Flying Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>43</usersrated>
+					<average>7.59767</average>
+					<bayesaverage>5.55728</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7909" bayesaverage="5.55728" />
+												
+											</ranks>
+					
+					<stddev>1.45066</stddev>
+					<median>0</median>
+					<owned>60</owned>
+					<trading>0</trading>
+					<wanting>6</wanting>
+					<wishing>37</wishing>
+					<numcomments>12</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

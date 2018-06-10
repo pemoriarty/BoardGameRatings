@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="218625">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Rumbo</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Rumbo is a finite territory game for two players: Vertical and Horizontal. It's played on the intersections (points) of an initially empty square board. Both players must have access to a sufficient number of stones in two colors and a sufficient number of vertical and horizontal markers.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;In these rules, &amp;quot;adjacent&amp;quot; always means &amp;quot;orthogonally adjacent&amp;quot;.&lt;br/&gt;&lt;br/&gt;A group is a maximal set of orthogonally connected, like-colored stones.&lt;br/&gt;&lt;br/&gt;A liberty of a group is an empty point adjacent to it.&lt;br/&gt;&lt;br/&gt;A hole is an empty point such that all points adjacent to it are occupied by stones of the same color.&lt;br/&gt;&lt;br/&gt;To claim a group is to place a marker of yours on top of one of its stones.&lt;br/&gt;&lt;br/&gt;The four orthogonal adjacencies of a point are named after the cardinal points. Vertical owns the north and south adjacencies, the pairs north-south, north-east and south-west and the triplets north-south-east and north-south-west; Horizontal owns the east and west adjacencies, the pairs east-west, north-west and south-east and the triplets east-west-north and east-west-south.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Vertical plays first, then turns alternate. On their turn, a player must place one stone of any color on an empty point without creating any holes. Then, each unclaimed group without liberties is claimed by the player who owns the set of adjacencies of stones in that group to the stone just placed.&lt;br/&gt;&lt;br/&gt;The game ends when the board is full. A player's score is the total number of stones on the board in groups that they have claimed, plus a komi in the case of Horizontal. The player with the highest score wins.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Komi&lt;br/&gt;&lt;br/&gt;The komi is the number of points which is added to Horizontal's score at the end of the game as a compensation for playing second. Before the game starts, the first player chooses the value of komi, and then the second player chooses sides. To avoid ties, the parity of komi should be different from the parity of the board size.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/3EEqGEMMngQsZqbGLSucXMMklJ4=/fit-in/200x150/pic3435416.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/lRoyqhUn6_9oe9ShUrBBFfX2UQs=/0x0/pic3435416.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="340559">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+																													<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

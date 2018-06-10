@@ -1,0 +1,75 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="224802">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Krona</name>
+									
+			<description>Krona is an abstract board game played on a infinite square grid. You can use the Go board or play with a set of stones (checkers) on any flat surface. The goal of the game is to deprive the opponent of all available moves. To do this, you need to block all the stones of the opposite color. In this game there is no war or direct confrontation of pieces. All the stones are interconnected and constantly depend on each other. During the game, the position passes through various metamorphoses and, having exhausted all its energy, freezes as a result. This game is inspired by the ancient philosophy of the Far East...&lt;br/&gt;&lt;br/&gt;You can play with:&lt;br/&gt;&lt;br/&gt;16 stones - If you prefer quick tactical games. &lt;br/&gt;36 stones - If you like the balance of tactics and strategy. &lt;br/&gt;64 stones - If you have a worthy opponent and a lot of time.&lt;br/&gt;&lt;br/&gt;Average game length - 100-110 plies (with 36 stones). Strategy is more important than tactics. The first player has no advantages. The game can begin with any compact arrangement of stones. You can play with a handicap, if necessary. It is possible to eliminate draws by changing one rule. Connectedness of the position and irreversibility of the game is the basis of krona.&lt;br/&gt;&lt;br/&gt;Rules:&lt;br/&gt;&lt;br/&gt;Each player has an allocated color, Black and White. Players alternate turns, starting with Black. The stones must all stay connected in a single group. You cannot pick up a stone to move if doing so disconnects the remaining stones, even if they would be reconnected after putting the stone into its new location. Each stone always has neighbors. Their number can be from 1 to 8. Stones are considered to be neighbors if they stand on the nearby squares. Neighbors are divided into two types - diagonal and orthogonal. The stone can be moved to any empty square, where the number of neighbors are less than it is now. Their color does not matter. The stone can also be moved to any empty square, where the number of neighbors does not change, but orthogonal ones among them become less. The game ends when one of the players has no legal moves on his turn. If his opponent also has no moves it's a draw. If he has any move, he wins the game. In this case, the winner does as many moves as he can and earns one point for each move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/E70oV_1Gc2jHTFi5CX0tgcWsPrQ=/fit-in/200x150/pic3501833.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/HLRU8iBQomDXHL2zw5MY-0Qudto=/0x0/pic3501833.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="351445">First edition</boardgameversion>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="100016">Roman Prostomolotov</boardgamedesigner>
+															<boardgameimplementation objectid="226485">Zuirius</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>4</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196927" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">QuickShot 3</name>
+							<name primary="true" sortindex="1">QuickShot III Joystick Controller</name>
+									
+			<description>User Summary&lt;br/&gt;Third series of QuickShot joysticks; this one had a numpad as well, designed to be used with the ColecoVision. It could be used on Commodore or Atari as well, but as joystick only (numpad would not be working)&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2324">Controller</videogamehardwarecategory>
+															<videogamehwversion objectid="306396">QuickShot III</videogamehwversion>
+															<videogamehwmfg objectid="21884">Spectravision</videogamehwmfg>
+															<videogamehardware objectid="4415" inbound="true">Amiga</videogamehardware>
+															<videogamehardware objectid="4976" inbound="true">Atari ST</videogamehardware>
+															<videogamehardware objectid="4419" inbound="true">ColecoVision</videogamehardware>
+															<videogamehardware objectid="4420" inbound="true">Commodore 64</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>10</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

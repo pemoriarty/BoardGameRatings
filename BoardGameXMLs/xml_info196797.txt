@@ -1,0 +1,69 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196797" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name  sortindex="1">A580 II Memory Expansion</name>
+							<name primary="true" sortindex="1">A580 Memory Expansion</name>
+							<name  sortindex="1">A580 Plus Memory Expansion</name>
+									
+			<description>User Summary&lt;br/&gt;The A580/A580+ memory expansion was put on marked in 1990 for Amiga 500 and Amiga 500+.&lt;br/&gt;&lt;br/&gt;The mainboard on the two models are the similar, and holds 16 DIP sockets which accepts up to 2 MB RAM, in 256kx4 DIPs (70 - 80ns); these have to be added in sets of four.&lt;br/&gt;The main difference between the A580 and A580+ is how the adapter board is connected:&lt;br/&gt;The A580 adapter board connects to the Gary's Socket, and it can only use 1.8 MB RAM of it's mainboard.&lt;br/&gt;Where A580 Plus connects to the 68000's socket, and can use all 2 MB of it's mainboard. It will require Fat Agnus 8372A. Further more the chip RAM size can be switched between 512kB and 1 MB&lt;br/&gt;&lt;br/&gt;In 1992, the second generation came, called A580 II, this had 2 MB RAM (SIP). Like the A580 the adapter board was connected to the Gary's Socket.&lt;br/&gt;&lt;br/&gt;All models have battery backed up clock, and an on/off switch, and the main board is connected to the trapdoor slot.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/Ptgst81dwrbz9iD_5PZaErcS05g=/fit-in/200x150/pic2957197.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MOKRWbTHVGPhx2mlI9UQz7_URQo=/0x0/pic2957197.jpg</image>
+						
+												<videogamehwmfg objectid="32289">3-State</videogamehwmfg>
+															<videogamehwversion objectid="306213">A580</videogamehwversion>
+															<videogamehwversion objectid="306215">A580 II</videogamehwversion>
+															<videogamehwversion objectid="306214">A580 Plus</videogamehwversion>
+															<videogamehardwarecategory objectid="2326">Add-On</videogamehardwarecategory>
+															<videogamehardware objectid="4415" inbound="true">Amiga</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="233199">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="4">El Libertador</name>
+									
+			<description>A board game for 2-4+ players themed on the Latin American revolutions 1809 - 1826.&lt;br/&gt;&lt;br/&gt;The board is a circular track of 41 spaces.  Eight countries are represented on the track by a series of consecutive spaces of length 3, 4 or 5. Countries are separated from each other on the track by a revolution space&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising cards of two main types: Liberation cards and Royalist cards. There are 5 types of Liberation Cards: Simon Bolivar, Leader, Troops, Battle, and Ideals. All cards have a force value between 1 and 8.&lt;br/&gt;&lt;br/&gt;Players start with two cards drawn from the deck and a set of counters and markers.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 5 Phases:&lt;br/&gt;&lt;br/&gt;Draw Phase&lt;br/&gt;&lt;br/&gt;     Draw 1 Card and place it in your hand. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Move Phase&lt;br/&gt;&lt;br/&gt;     Roll 1 die and move forward that many spaces OR discard a card from your hand and move forward a number of spaces equal to its force value. &lt;br/&gt;     If you land on a Revolution space you may do one of three actions: &lt;br/&gt;         Roll the die and move again&lt;br/&gt;         Move to any other Revolution space on the board&lt;br/&gt;         Draw 1 card and place it in your hand&lt;br/&gt;         Play a counter onto any country space you have liberated&lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Action Phase&lt;br/&gt;&lt;br/&gt;      If you land on a Country space that has no card on it, you may (but do not have to) play a Liberation card to that space. Tuck it partially under the board directly next to the space. Place 1 of your counters on the space if you placed a card there. If you have a card under a space you are said to have liberated it. &lt;br/&gt;     If you land on a Country space that you have already liberated (You have a card and one or more counters there already) you may do one of the following: &lt;br/&gt;         Place an additional counter on the Space&lt;br/&gt;         Exchange the tucked card with one from your hand  &lt;br/&gt;         Draw 1 card and discard 1 card (It may be the same card) &lt;br/&gt;    &lt;br/&gt;     If you land on a Country space liberated by another player, you can either do nothing or play 1 or more Royalist cards with a combined force value equal to or greater than the number of counters your opponent has on the space. If you do so, discard all the counters on the space and the card tucked under it. Remove the Royalist cards from the game. &lt;br/&gt;     If you land on a Country space that is Independent skip over it and go to the next space and resume your move. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Independence Phase&lt;br/&gt;&lt;br/&gt;     If you played a Liberation card under a Country space this turn and all the other spaces for that country have already been liberated (by you or others) the Country is now said to have gained its Independence. Immediately score Victory Tokens (VT) for the country. &lt;br/&gt;         You gain 2 Victory Tokens for playing the final card to make the country go Independent. &lt;br/&gt;         The player with the highest combined total of counters and card force values gets 5 VT. &lt;br/&gt;         The player with the second highest total of counters and card force values gets 3 VT. &lt;br/&gt;         All other players with at least 1 card and counter in the country get 1 VT each. &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;End Phase&lt;br/&gt;&lt;br/&gt;     Max hand size is 5 cards. Discard excess cards. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The game ends when all countries have been liberated. The player with the most VT at the end of the game wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="365458">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

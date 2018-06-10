@@ -1,0 +1,64 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="222504" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Vixen Switchable 16K RAM</name>
+									
+			<description>Selection from instruction sheet&lt;br/&gt;'Fitting Instructions&lt;br/&gt;The VIXEN cartrige must always be inserted or removed from the VIC 20 computer with the power off.&lt;br/&gt;&lt;br/&gt;The cartridge must be set to the desired configuration prior to insertation into the expansion port at the rear of the computer. If a powered Memory Expansion Board is in use, then this should be turned off propr to insertion or removal.&lt;br/&gt;&lt;br/&gt;On switching on the computer, the screen will display the number of bytes free. (...)&lt;br/&gt;&lt;br/&gt;Switch settings&lt;br/&gt;The VIXEN can be used wither as a 16K RAM cartridge or an 11K RAM Cartridge. In the 11K Mode, 3K RAM fills the 3K gap in the Memory Map with the remaining 8K locating in block 1 or 3.&lt;br/&gt;&lt;br/&gt;Two VIXENs switched in opposition will give full 27K memory expansion.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogamehardwarecategory objectid="2325">Memory Card</videogamehardwarecategory>
+															<videogamehwmfg objectid="35702">Stonechip Electronics</videogamehwmfg>
+															<videogamehwversion objectid="347461">Vixen Switchable 16K RAM (large switches Red/brown)</videogamehwversion>
+															<videogamehwversion objectid="347462">Vixen Switchable 16K RAM (small switches white/yellow)</videogamehwversion>
+															<videogamehardware objectid="4949" inbound="true">VIC-20</videogamehardware>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="43" name="videogamehardware" friendlyname="Video Game Hardware Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

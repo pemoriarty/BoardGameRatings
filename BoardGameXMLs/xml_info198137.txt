@@ -1,0 +1,109 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="198137">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Imperial Knights: Renegade</name>
+									
+			<description>Giant war machines duel in the 41st millennium!&lt;br/&gt;&lt;br/&gt;Dominating the battlefield with their size and firepower, Imperial Knights are towering bipedal weapons platforms that hold no quarter in eliminating their targets &amp;ndash; but like anything else, they are vulnerable to the dark clutches of Chaos. The Freeblade Knight once known as the Living Litany is an unfortunate example; nobody knows what truly happened to this once-valiant hero, only that it has renamed itself Litany of Destruction, and has been leaving a brutal trail of devastation in its wake. The Imperial Knight Ever-Stalwart has made planetfall on Tellerax Prime with one goal in mind &amp;ndash; hunt down his fallen brother and restore the honour of the knightly houses, or die trying!&lt;br/&gt;&lt;br/&gt;In Imperial Knights: Renegade, you take control of an Imperial Knight- a giant, walking, mechanised weapons platform, and try to win scenarios using movement, firepower and close combat. Every game turn is split into two phases- the plan phase and the execute phase. In the plan phase, each player secretly writes down what actions they intend to perform in the execute phase, consulting the action table. Each action has an action point cost with a budget of 3 per turn. When each player has worked out what they intend to do, they move on the execute phase and reveal their actions. Each player carries out their elected actions in the order they appear on the action table. if both players choose the same action, you roll off to see who goes first. The more powerful or useful an action is, the later that actions comes in the order of play, so choose your knight's actions wisely. The goal of each game varies with the scenario chosen and can range from total elimination to reaching an important objective on the board.&lt;br/&gt;&lt;br/&gt;Imperial Knights: Renegade is a game of bluff and feint, outwitting your opponent, making clever use of terrain, movement and ion shields to secure victory. The right action at the right time can snatch a glorious victory from the jaws of bitter defeat, and an incautious move can leave your knight's lifeless hulk rusting in the pitiless sun.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_xURZ3RJx0jBCMY47r5-9Cd5e_E=/fit-in/200x150/pic2980633.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/LQu57PMtG_6mkQLhD1lezxCqoBM=/0x0/pic2980633.jpg</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgameversion objectid="308213">English first edition</boardgameversion>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamepublisher objectid="26">Games Workshop Ltd.</boardgamepublisher>
+															<boardgameversion objectid="323897">German first edition</boardgameversion>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamefamily objectid="4341">Warhammer 40,000 Wargames</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11</usersrated>
+					<average>5.54545</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.34961</stddev>
+					<median>0</median>
+					<owned>75</owned>
+					<trading>0</trading>
+					<wanting>5</wanting>
+					<wishing>14</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

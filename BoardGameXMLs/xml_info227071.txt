@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="227071">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Holmes</name>
+									
+			<description>A card game for 2-4+ players with a Sherlock Holmes Theme.&lt;br/&gt;&lt;br/&gt;The cards form 7 mini-decks, or suites, with cards ranked 1 to 13 in each suite.  In the set up phase one card from each suite is randomly selected, its identity hidden from all players, and placed it in its corresponding Suite Spot on the board. &lt;br/&gt; The remaining cards of the mini-decks are shuffled together to form the common deck.&lt;br/&gt;&lt;br/&gt;The aim of the game is to establish which card of each suite is the one located on the playing board.  Players have paper and pencil on hand to keep track of which cards of what rank they have seen for each suite, to deduce the remaining cards in the Suite Spots.&lt;br/&gt;&lt;br/&gt;TURN SEQUENCE&lt;br/&gt;Players take turns. &lt;br/&gt;Each turn has 5 Phases: &lt;br/&gt;Investigate Phase (draw cards)&lt;br/&gt;Action Phase (play (discard) one card from your hand to activate its special ability (dependant on suite))&lt;br/&gt;Sleuth Phase (solve a case by playing, all at once, seven cards - one of each of the seven card types)&lt;br/&gt;Deduction Phase (You may guess the rank of a specific card on the Board (one of the 7 Suites)).&lt;br/&gt;Retire Phase (Discard excess cards - hand limit is 9).&lt;br/&gt;&lt;br/&gt;Players share a common set of Case Tokens.  These are awarded for solving cases in the Sleuth Phase or correctly guessing a card identity in the Deduction Phase.  Victory is achieved by being the first player to accumulate 5 Case Tokens.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="354912">First Edition</boardgameversion>
+																						<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6.9</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>8</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

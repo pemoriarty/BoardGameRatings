@@ -1,0 +1,124 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="231819">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Sonar</name>
+									
+			<description>Time for an underwater game of cat-and-mouse, with each of the two teams in Sonar competing to be the first to deal two points of damage to the other. Do that, and you win the game instantly.&lt;br/&gt;&lt;br/&gt;In detail, Sonar includes four pairs of maps, and each team takes the same maps in their color. A team can be one or two players, and with two players on a team, each player takes a different role: Captain or Radio Operator. (A one--person team handles both roles.) A divider separates the teams, and each Captain marks their starting location on the map.&lt;br/&gt;&lt;br/&gt;On a turn, the Captain calls out an action, typically moving their sub one space north, south, east, or west. When they do this, they call out a direction, mark their new location, and add one energy to their ship's register. The Radio Operator on the other team notes the movement of this sub on a plastic sheet, and through deduction and trial-and-error tries to determine exactly where the opposing sub might be on the map.&lt;br/&gt;&lt;br/&gt;Instead of a moving, a Captain can also:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;    Use sonar: Erase two energy from your register; the opposing team must reveal their row or column.&lt;br/&gt;    Go silent: Erase three energy from your register; move your sub, but don't gain energy and don't tell the opponents which direction you're moving.&lt;br/&gt;    Fire a torpedo: Erase four energy from your register; call out coordinates in your quadrant (e.g., F6); if the opponents are on that space, they take a point of damage.&lt;br/&gt;    Surface: Announce your location to the opposing team, then erase your previous path on your map; you can't cross your own path during the game, so sometimes you need to surface in order not to box yourself in.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;You can have at most four energy in reserve, so you need to manage movement and the other actions carefully so that you'll be able to fire at the opponents once you know where they are &amp;mdash; ideally without being torpedoed in response!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/SSxQqrkgmgoaYVbCVVme9tBP3rg=/fit-in/200x150/pic3662558.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/MrjcMSxDavb9b0xsEASqYOUIQ64=/0x0/pic3662558.jpg</image>
+						
+																			<boardgamefamily objectid="45020">Captain Sonar</boardgamefamily>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="362915">English first edition</boardgameversion>
+															<boardgameartist objectid="88840">Ervin</boardgameartist>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgamedesigner objectid="285">Roberto Fraga</boardgamedesigner>
+																						<boardgamedesigner objectid="43218">Yohan Lemonnier</boardgamedesigner>
+															<boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+															<boardgamepublisher objectid="5400">Matagot</boardgamepublisher>
+															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
+															<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+																													<boardgameartist objectid="88839">Sabrina Tobal</boardgameartist>
+															<boardgameimplementation objectid="171131" inbound="true">Captain Sonar</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>268</usersrated>
+					<average>7.1001</average>
+					<bayesaverage>5.80375</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3117" bayesaverage="5.80375" />
+												
+											</ranks>
+					
+					<stddev>1.24758</stddev>
+					<median>0</median>
+					<owned>907</owned>
+					<trading>28</trading>
+					<wanting>75</wanting>
+					<wishing>401</wishing>
+					<numcomments>68</numcomments>
+					<numweights>9</numweights>
+					<averageweight>1.7778</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

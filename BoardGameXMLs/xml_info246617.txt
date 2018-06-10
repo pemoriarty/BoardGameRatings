@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="246617">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Tensor Chess</name>
+									
+			<description>As in classical chess, the object of Tensor Chess is to checkmate the opponent's king.&lt;br/&gt;&lt;br/&gt;The game is played on an 8X10 board with a new piece added to the array; the Tensor Beast.&lt;br/&gt;&lt;br/&gt;The Beast Manuevers dependent on interacting with the new piece.  The beast can move one square in any direction like the king.&lt;br/&gt;&lt;br/&gt;The beast can also leap forward or backward over its own or opposing pieces and land on the next square if that square is unoccupied. It can leap diagonally, or leap horizontally along a row (rank) and vertically along a column (file). The beast can hop both vertically and horizontally on the same turn, but horizontal and vertical leaping cannot be combined with diagonal leaping.&lt;br/&gt;&lt;br/&gt;The beast cannot move one square and then begin leaping. Nor can it leap and simply return to its starting square as this would be skipping a turn. It can, however, return to its starting square on the same turn if it captures an opposing beast by its final leap.&lt;br/&gt;&lt;br/&gt;The beast can only capture an opposing beast and can only be captured by an opposing beast. A beast captures an enemy beast by hopping over it rather than landing on the same square.&lt;br/&gt;&lt;br/&gt;For example, a beast may hop over an enemy beast, not capture it, and proceed to hop over and capture another beast.&lt;br/&gt;&lt;br/&gt;Or a beast may hop over an opposing beast, and not capture it on that first hop, but then hop back over the opposing beast (moving in the other direction) and capture it on that hop, all on the same turn.&lt;br/&gt;&lt;br/&gt;In addition A bishop, rook or queen can pass through a beast of its own color, but not through an enemy beast.&lt;br/&gt;&lt;br/&gt;A beast acts as a shield for its own pieces and blocks opposing pieces.&lt;br/&gt;&lt;br/&gt;A pass through may involve more than one beast.&lt;br/&gt;&lt;br/&gt;A king may pass through only when castling.&lt;br/&gt;&lt;br/&gt;Similarly there are unique ricocheting and propelling moves associated with the Beast.&lt;br/&gt;&lt;br/&gt;A beast may pass through another beast when propelled.&lt;br/&gt;&lt;br/&gt;A pawn may pass through only on its first move and only when moving forward to an unoccupied square.  Pawns cannot pass though and capture.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="4024">Chess Games</boardgamefamily>
+															<boardgameversion objectid="394996">First edition</boardgameversion>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamedesigner objectid="107227">Richard Spurgeon</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

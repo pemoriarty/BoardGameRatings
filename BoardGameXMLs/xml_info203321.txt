@@ -1,0 +1,110 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="203321">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">This War Without an Enemy</name>
+									
+			<description>Description from the publisher:&lt;br/&gt;&lt;br/&gt;This War Without an Enemy is a 2-player strategic block wargame on the first English Civil War, during which the Royalist forces fighting for King Charles I were opposed by the English Parliamentarian troops and their Scottish allies, the Covenanters, in a struggle for political, economic and religious control of England.&lt;br/&gt;&lt;br/&gt;The game engine will be familiar to anyone who has played a card-driven block wargame, but it adds a number of innovations in order to faithfully simulate both the warfare of the mid-17th century and the unique nature of this conflict that engulfed not only England but also Scotland and Ireland. The game features individual cards deck for each side, two thirds of which contain events. The card decks are adjusted from year to year to reflect the historical progression of the war. The regional nature of much of the conflict is recreated using a system of Leader and Regional blocks as well as rules for regionally-based recruitment. The usual block game mechanics for field battles have been modified with special rules for artillery, cavalry and infantry, while a completely new system has been designed for storming and sieges.&lt;br/&gt;&lt;br/&gt;The object of the game is to acquire Victory Points through the capture of cities held by the opponent. In addition, the Parliamentarians can move closer to victory by capturing the King, represented by his own block. Five scenarios are included:&lt;br/&gt;&lt;br/&gt;     The Full War: up to 26 turns. &lt;br/&gt;     The Early War: an introductory scenario of 8 turns.&lt;br/&gt;     The Mid-to-Late War: up to 18 turns.&lt;br/&gt;     The Mid War: an introductory scenario of 6 turns.&lt;br/&gt;     Prelude to War: up to 27 turns.   &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/ZbjKdqEwRfxiImOfBfbKJA4onGQ=/fit-in/200x150/pic4144327.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3MyGRP90-3EiF4oNd5193U6RkDU=/0x0/pic4144327.png</image>
+						
+												<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgamefamily objectid="6137">Block wargames</boardgamefamily>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamecategory objectid="1102">Civil War</boardgamecategory>
+															<boardgamefamily objectid="14759">Country: England</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamefamily objectid="33896">English Civil War</boardgamefamily>
+															<boardgameversion objectid="316827">First edition</boardgameversion>
+															<boardgameartist objectid="8100">François Vander Meulen</boardgameartist>
+															<boardgameartist objectid="95426">Michael Monfront</boardgameartist>
+															<boardgamedesigner objectid="92956">Scott H. Moore</boardgamedesigner>
+															<boardgamepublisher objectid="15906">Nuts! Publishing</boardgamepublisher>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>7.2</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.31517</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>10</wanting>
+					<wishing>41</wishing>
+					<numcomments>10</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

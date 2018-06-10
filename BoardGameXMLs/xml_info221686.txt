@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="221686">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>10</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>10</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Atropos</name>
+									
+			<description>Atropos is a mathematical (topological) game based on Sperner's lemma. No mathematical background is necessary in order to play the game. The game starts with a triangulation of a big triangle, whose three nodes are colored (say) red, yellow and green. Players take turns and color one vertex of the triangulation in red, yellow or green. There are two restrictions: (1) whenever possible, each player should color an adjacent vertex of the last-played vertex; (2) when coloring a vertex on an edge of the big triangle, only the two colors of its endpoints may be used, not the color of the opposing vertex.&lt;br/&gt;&lt;br/&gt;Sperner's lemma guarantees that the game cannot end in a tie: when all vertices of a triangulation have been legally colored, there will always exist a small tricolored triangle (in fact, an odd number of them).&lt;br/&gt;&lt;br/&gt;The mathematical complexity game has been studied and found to be PSPACE-complete in 2010 for the special case of a &amp;quot;regular&amp;quot; triangulation. In general, the game can be played with arbitrary triangulations, and with or without the rule that next moves must be adjacent to the last move.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/V7jLXGgRQ3XyJG7IaFZbxZ0ax9A=/fit-in/200x150/pic3480089.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/qL0wfdU0wO0geMBXOwEclcrDerU=/0x0/pic3480089.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+																						<boardgamedesigner objectid="99460">Kyle W. Burke</boardgamedesigner>
+															<boardgameversion objectid="346004">First edition</boardgameversion>
+																						<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

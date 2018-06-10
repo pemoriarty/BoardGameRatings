@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="230276">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Resident Evil Relived</name>
+									
+			<description>A meld making card game for 2-4+ players based on the Resident Evil Franchise.&lt;br/&gt;&lt;br/&gt;Players share a common deck comprising 10 card types: Alice Cards (Friend), Ally Cards (Friend), Team Cards (Friend), Weapon Cards (Friend), Mission Cards (Friend), Villain Cards (Foe), Umbrella Cards (Foe), Experiment Cards (Foe), Zombie Cards (Foe), Event Cards (Foe).  There are 10 cards of each type with every card having a point value between 1 and 5.&lt;br/&gt;&lt;br/&gt;Each turn has 5 phases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Deploy Phase: 2 cards are dealt face down to each player. Next 3X stacks of 2 cards each are dealt to the centre of the table (X = number of players). All stack cards are visible to all players. &lt;br/&gt;     Recruit Phase: Players take turns taking 1 stack of cards and putting it into their hand. This continues until all stacks are taken (each should get 3 stacks).  On each consecutive turn, the player to the left of the player who went first last time now gets to go first. &lt;br/&gt;     Action Phase: Players take turns taking one action each, in the same order as in Recruit phase. When taking an action, discard 1 card from your hand. This produces a result that that depends on the type of card you discard (i.e. if you discard an Alice card you may draw 3 cards and keep 1, discarding an Ally card allows you to draw 2 cards &lt;br/&gt;     Meld Phase: To make a meld, a player needs to have 1 card of each of the 10 types. Melds are played face up and score points equal to the total point value of all the cards in the meld.  If the total of the friend cards is greater than the total of the foe cards an extra 5 meld points are scored. All meld cards are discarded after scoring. &lt;br/&gt;     End Phase: Max hand size is 10 cards.  Discard excess cards. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The winner is the player to be the first to score 70 meld points.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="359968">First Edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

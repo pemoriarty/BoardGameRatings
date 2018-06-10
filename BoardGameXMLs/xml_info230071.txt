@@ -1,0 +1,66 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="230071">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Death by Shakespeare</name>
+									
+			<description>A game for 2-4 players about the modes of death and character types in the plays of Shakespeare.&lt;br/&gt;&lt;br/&gt;There are two decks of cards:&lt;br/&gt;-     Character Deck.  These represent the characters within the play.  Each character card has a special ability which are generally activated by die rolls.&lt;br/&gt;-     Death Deck.  These represents the methods by which characters die within the play.  Each death card has a rating of 1 to 6.&lt;br/&gt;&lt;br/&gt;To start roll 1D6 +3. This will give a random number between 4 and 9.  This is the number of characters who will die before the play is over.&lt;br/&gt;&lt;br/&gt;Each player is dealt 5 random character cards. These are kept face up on the table in front of the player.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn having 3 acts:&lt;br/&gt;&lt;br/&gt;1.   First Act: &lt;br/&gt;-    Draw 2 death cards. You max hand size is 5 cards. Discard excess cards.&lt;br/&gt;&lt;br/&gt;2.   Second Act: &lt;br/&gt;-    Place 1 death card on an opponent&amp;rsquo;s character card. A character may have any number of death cards stacked on him.&lt;br/&gt;&lt;br/&gt;3.   Third Act: &lt;br/&gt;-    Roll 1D6. This is the Death Die. If the rolled number matches the number on any death card on an opposing character, then the character is killed. If there are multiple characters that can be killed, pick just one. A killed character and any death cards on it are discarded. &lt;br/&gt;-    The death roll will often activate the special abilities of one or more characters. The attacked player may respond first with the reaction of one of his characters. Play of reactions of other characters proceeds in a clockwise direction.&lt;br/&gt;&lt;br/&gt;The game ends when the pre-determined number of deaths is reached. The winner is the player having the most living characters left at the end of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																						<boardgameversion objectid="359667">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

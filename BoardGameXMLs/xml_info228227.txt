@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="228227">
+			<yearpublished>2011</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Aquaman</name>
+									
+			<description>A card game for 2-4 players with an Aquaman Theme.&lt;br/&gt;&lt;br/&gt;Players share a common deck of 8 suites:  Aquaman (A), Companion (C), Sea Creature (X), Plot (P), Foe (F), Power (O), Strangeness (S) and Location (L).  Each suite comprises 16 cards ranked from 1 to 16.&lt;br/&gt;&lt;br/&gt;The board is an 8x8 grid. Each square must be big enough to easily hold 1 card.  1 card is randomly dealt face up to each space on the board. Each player places their pawn on a different corner space (each pawn represents a different manifestation of Aquaman).&lt;br/&gt;&lt;br/&gt;Each player draws 3 cards to start.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising five phases:&lt;br/&gt;&lt;br/&gt;1. Power Phase&lt;br/&gt;-  If you have at least 5 cards in your hand, you may discard 1 card from your hand to activate its special ability: &lt;br/&gt;-  Aquaman: Draw 2 cards from the deck &amp;amp; put them in your hand. If the sum of the ranks of the 2 cards is less than the rank of the Aquaman card, draw and keep a third card. &lt;br/&gt;-  Companion: Look at the next 4 cards in the deck. Keep one and &lt;br/&gt;discard the other 3. The one you keep must be of a lower rank than the Companion Card. &lt;br/&gt;-  Sea Creature: Take the top card of discard and put it in your hand. &lt;br/&gt;It must be of a lower rank than the Sea Creature card. &lt;br/&gt;-  Plot: You may move your pawn to any target, non-occupied space this turn in Swim phase (do not bother rolling the dice). The card in the target space must be of a lower Rank than the Plot card. &lt;br/&gt;-  Foe: Target opponent who is adjacent to you must reveal one random card from his hand; if it is lower in rank than the Foe card it is discarded.  &lt;br/&gt;-  Power: Discard X cards and draw X replacement cards. The cards you discard may not be of a higher Rank than the Power card. &lt;br/&gt;-  Strangeness: Put 1 target adjacent card on the board in your hand. It must be of a lower rank than the Strangeness card. Immediately draw a card to replace it with on the Board.   &lt;br/&gt;-  Location: Look at the next X cards in the deck where X = the rank of the Location card.&lt;br/&gt;&lt;br/&gt;2.  Swim Phase&lt;br/&gt;&lt;br/&gt;     Roll two dice. Move your pawn on the board orthogonally first the distance of one of the dice, and then the distance of the other. For example, you roll a 2 and a 5.  You decide to first move him to your left 5 spaces and then forward 2 spaces. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;3.  Action Phase&lt;br/&gt;&lt;br/&gt;     If you land on a space not occupied by another pawn, take the card there and put it in your hand. Immediately replace the card you took with the top card of the deck. &lt;br/&gt;     If the space is occupied by another player&amp;rsquo;s pawn, there will be a fight: Both players reveal 1 card from their hand. High card wins. If tied, players reveal a second card. Discard all revealed cards. The winner gets to look at the loser&amp;rsquo;s hand and steal 1 card. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;4.  Mission Phase&lt;br/&gt;&lt;br/&gt;     You may complete a Mission.  To do this play (discard) 8 cards from your hand, one from each of the eight suites.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;5.  Rest Phase&lt;br/&gt;&lt;br/&gt;     Max hand size is 10 cards. Discard excess cards. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The first player to complete 3 Missions is the winner.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+																			<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="356743">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

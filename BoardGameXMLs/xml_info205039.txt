@@ -1,0 +1,127 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="205039">
+			<yearpublished>2017</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Jackal Archipelago</name>
+							<name  sortindex="1">Шакал: Архипелаг</name>
+									
+			<description>All hands on deck!&lt;br/&gt;Welcome to the nearly uninhabited island where the Jackal, an infamous old pirate, buried his treasure. It is now your task to first explore the island, and then to find every last coin and drag it all back to your ship &amp;ndash; and be quick about it lest you be overtaken by a rival gang of buccaneers!&lt;br/&gt;&lt;br/&gt;How to play&lt;br/&gt;You control three pirates who can move around the island, explore (by flipping over unexplored tiles), haul treasure, do battle with rival pirates, or perform special actions &amp;ndash; such as meeting natives, garrisoning a fort, or even taking flight in a hot-air balloon.  To win the game, you must not only find the Jackal's buried treasure, but you must also successfully bring it back to your ship. A careless pirate's luck may be but fodder for a crafty pirate's guile: one of the most interesting strategies in the game lies in intercepting an opponent's pirates while they are carrying gold, or cunningly poaching poorly guarded piles of coins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/gpOk6JLgujt71NoYrNevxwpmnfA=/fit-in/200x150/pic3791087.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/mSM54-OqMIjgQfC-Ss58SV-8Qfg=/0x0/pic3791087.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgameversion objectid="319753">English/Russian first edition</boardgameversion>
+															<boardgameexpansion objectid="236906">Jackal Archipelago: Ben Gunn&#039;s Island</boardgameexpansion>
+															<boardgameexpansion objectid="236907">Jackal Archipelago: Island of Thousands Caves</boardgameexpansion>
+															<boardgamedesigner objectid="95557">Dmitry Kibkalo</boardgamedesigner>
+															<boardgamefamily objectid="25404">Legacy</boardgamefamily>
+															<boardgamepublisher objectid="23031">Magellan</boardgamepublisher>
+															<boardgameartist objectid="95558">Tatiana Maifat</boardgameartist>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+																						<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamecategory objectid="1090">Pirates</boardgamecategory>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgameimplementation objectid="42702" inbound="true">Jackal</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>40</usersrated>
+					<average>6.8425</average>
+					<bayesaverage>5.53535</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9500" bayesaverage="5.53535" />
+												
+											</ranks>
+					
+					<stddev>2.10058</stddev>
+					<median>0</median>
+					<owned>99</owned>
+					<trading>5</trading>
+					<wanting>8</wanting>
+					<wishing>29</wishing>
+					<numcomments>17</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

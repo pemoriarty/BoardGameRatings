@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="226842">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Yavalax</name>
+									
+			<description>Rules for Yavalax&lt;br/&gt;&lt;br/&gt;Goal: Simultaneously create two or more rows of exactly four stones of your color.&lt;br/&gt;&lt;br/&gt;Components: Square grid board at least 13x13 in size, with a&lt;br/&gt;sufficient number of white/black stones to fill the board.&lt;br/&gt;&lt;br/&gt;Note: n-in-a-row counts both orthogonally and diagonally.&lt;br/&gt;&lt;br/&gt;Play: White starts by placing a white stone at an empty cell. Players then take turns placing two stones of their color at empty cells, one stone after another.&lt;br/&gt;&lt;br/&gt;In each placement, players are not allowed to create a single&lt;br/&gt;4-in-a-row of their color, unless that placement simultaneously&lt;br/&gt;creates at least one other 4-in-a-row of their color to win the game.&lt;br/&gt;&lt;br/&gt;This means that players may NOT make a single 4-in-a-row of their color on the first placement of their turn even if they can make a second 4-in-a-row on their second placement.&lt;br/&gt;&lt;br/&gt;In no event are players allowed to create 5 (or more) -in-a-row of their color.&lt;br/&gt;&lt;br/&gt;The first player to make simultaneous 4-in-a-rows of their color wins immediately, whether it was their first or second placement.&lt;br/&gt;&lt;br/&gt;Yavalax is inspired by both Yavalath and Connect6.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/VXs8vD341kgHkYPGFvZby1B1Ohs=/fit-in/200x150/pic3861631.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/r_d6UAiiteX_64Arnszf1aw0_L8=/0x0/pic3861631.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="383662">First edition</boardgameversion>
+																						<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgameversion objectid="354599">Print and Play edition</boardgameversion>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+															<boardgamedesigner objectid="80474">Ken Shoda</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8</usersrated>
+					<average>7.375</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.1388</stddev>
+					<median>0</median>
+					<owned>9</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>10</wishing>
+					<numcomments>5</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

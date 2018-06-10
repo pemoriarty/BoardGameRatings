@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="230599">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Arcane Armies</name>
+									
+			<description>A common deck card game for 2-4+ players with a fantasy army-building conquest theme.&lt;br/&gt; Players share a common deck. There are 2 basic card types: Units and Spells. &lt;br/&gt;Units are further divided into Individuals and Groups. All cards have a strength value between 0 and 10 and a special ability that is activated and resolved as soon as the card is played.&lt;br/&gt;&lt;br/&gt;The deck is shuffled and placed face down in the centre of the table. The top card is flipped over to be the start of the discard pile. The first player to go is dealt 2 cards. &lt;br/&gt;The second player to go is dealt 3 cards. The third player to go is dealt 4 cards and so on.&lt;br/&gt;&lt;br/&gt;Players then take turns with each turn being divided into 4 phases:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Conquest Phase&lt;br/&gt;         You win if, at the beginning of your turn, your cards in play have a combined strength of 40 or more.  &lt;br/&gt;    &lt;br/&gt;     Scour Phase&lt;br/&gt;         Draw 1 card from the deck and put it in your hand.  &lt;br/&gt;    &lt;br/&gt;     Deploy Phase&lt;br/&gt;         Play 1 card from your hand face up to the table. Immediately resolve the card&amp;rsquo;s special ability. If the card has a strength of zero (most spells) it is immediately discarded. Otherwise it stays in play as part of your army, its strength contributing to your army&amp;rsquo;s total strength. You may play a second card if the strength of both cards played is 10 or less. &lt;br/&gt;    &lt;br/&gt;     Last Phase&lt;br/&gt;         You may unflip a card in play by discarding a card from your hand.  Max hand size is 5 cards. Discard excess cards. &lt;br/&gt;    &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A player wins if, at the beginning of your turn, your cards in play have a combined strength of 40 or more.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+																			<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgameversion objectid="360499">First edition</boardgameversion>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

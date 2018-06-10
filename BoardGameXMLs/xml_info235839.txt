@@ -1,0 +1,123 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="235839">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>25</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>13</age>
+
+							<name primary="true" sortindex="1">Master of Wills</name>
+									
+			<description>It is the distant future. The world has become a dangerous place where the balance of power rests between opposing forces known as Factions. These groups manipulate and influence the citizens of the Community in an effort to join their side and vanquish the opposition.&lt;br/&gt;&lt;br/&gt;Each Faction uses movement and control to turn the tide against their opposition. By expanding influence over the Community, power can be acquired. Choose a side and become the Master of Wills.&lt;br/&gt;&lt;br/&gt;Master of Wills can be played one-versus-one or two-versus-two. It&amp;rsquo;s all about moving the cards&amp;mdash;you want to move as many points to your side of the board as possible while your opponent is trying to do the same for their side. Community cards are each assigned a value, and each card is represented by a character from one of the eight sectors of the Community. Moving those cards can trigger the basic movement of other cards on the board.&lt;br/&gt;&lt;br/&gt;The cards move from a neutral area in the middle of the board toward your side or the opponent&amp;rsquo;s side through three rows. Each row represents how close the character is to joining your Faction. The rows are called Recruits, Loyalists, and Allies. Each row represents how loyal the character is to your side. If they reach your Allies, those points are locked in.&lt;br/&gt;&lt;br/&gt;When the game begins, each player will choose a Faction and build a deck of Faction cards that caters to their own style. These Faction cards allow for even more powerful card movement. For instance, let&amp;rsquo;s say you choose a Faction card that says, &amp;ldquo;Choose any card from your opponent&amp;rsquo;s Recruits or Loyalists and move to your Allies.&amp;rdquo; Then imagine your opponent has a card with a 15-point value in their Loyalists row. You can snatch up that valuable card and lock it into the Allies row on your side of the board, giving you a large number of points and taking those same points away from the opponent. A single, well-timed Faction card can be a serious game changer.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/yWrc7tThSJ3CmXtStnmFHb04TNM=/fit-in/200x150/pic3767457.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/RCJepMvCUhUVdpvvxIXcYhD-f44=/0x0/pic3767457.png</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+															<boardgameartist objectid="67924">Joshua Calloway</boardgameartist>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+																						<boardgameversion objectid="370208">First edition</boardgameversion>
+															<boardgamedesigner objectid="103640">Randy Van Gelder</boardgamedesigner>
+																						<boardgameexpansion objectid="246683">Master of Wills: Dawnlight Expansion Faction</boardgameexpansion>
+															<boardgameexpansion objectid="249899">Master of Wills: Shadowcell Expansion Faction</boardgameexpansion>
+															<boardgamepublisher objectid="37435">Stormcrest Games</boardgamepublisher>
+															<boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>25</usersrated>
+					<average>9.05</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.35277</stddev>
+					<median>0</median>
+					<owned>31</owned>
+					<trading>1</trading>
+					<wanting>2</wanting>
+					<wishing>13</wishing>
+					<numcomments>14</numcomments>
+					<numweights>2</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

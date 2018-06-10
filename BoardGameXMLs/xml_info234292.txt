@@ -1,0 +1,125 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="234292">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>8</age>
+
+							<name  sortindex="1">13 duchów</name>
+							<name primary="true" sortindex="1">13 Ghosts</name>
+							<name  sortindex="1">13 привидений</name>
+									
+			<description>The ghosts are fighting over who will rule the haunted mansion. The winner will be the one with the best hiding place!&lt;br/&gt;&lt;br/&gt;13 Ghosts is a microgame for 2-4 players in which each player tries to find the ghost hidden in the opponent's crypt. The game consists of thirteen ghost cards (provided in two sets for use in four-player games), each with a number from 1 to 13 and a special ability.&lt;br/&gt;&lt;br/&gt;When playing,  you use the card in your hand and you either play it face up to apply its ability or play it face down, thereby attacking your opponent by trying to guess the number of the ghost in their crypt. Succeed, and they are out of the game. As more and more cards are played and abilities are applied, players try to deduce their opponents' ghosts and remove them from the game. The last player to remain wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/MEAFNOEX_J-xCcP1zouYxWPtxZM=/fit-in/200x150/pic3739752.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Ub3JftpiSv7aqTjYGmM7dExpA9A=/0x0/pic3739752.jpg</image>
+						
+												<boardgameimplementation objectid="238884">13 Chefs</boardgameimplementation>
+															<boardgamedesigner objectid="103101">Victor Amanatidis</boardgamedesigner>
+															<boardgamepublisher objectid="16755">Artipia Games</boardgamepublisher>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="367455">English edition</boardgameversion>
+															<boardgamepublisher objectid="29194">GaGa Games</boardgamepublisher>
+															<boardgameartist objectid="74048">Tomasz Larek</boardgameartist>
+															<boardgamepublisher objectid="34627">Nasza Księgarnia</boardgamepublisher>
+															<boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+															<boardgameversion objectid="404630">Polish edition</boardgameversion>
+															<boardgameversion objectid="403118">Russian edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>48</usersrated>
+					<average>6.61354</average>
+					<bayesaverage>5.5392</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9195" bayesaverage="5.5392" />
+												
+											</ranks>
+					
+					<stddev>1.26626</stddev>
+					<median>0</median>
+					<owned>95</owned>
+					<trading>1</trading>
+					<wanting>8</wanting>
+					<wishing>36</wishing>
+					<numcomments>13</numcomments>
+					<numweights>4</numweights>
+					<averageweight>1.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

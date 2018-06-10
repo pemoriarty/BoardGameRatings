@@ -1,0 +1,108 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="224260">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>40</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Consta</name>
+									
+			<description>Consta is a square grid connection game with a new and simple idea: to use stacked pieces and to resolve crosscuts with a majority mechanism based on the number of stones in the crosscut.&lt;br/&gt;&lt;br/&gt;BOARD&lt;br/&gt;Consta is played on a 11x11 square grid; bigger boards can be used for more strategic gameplay. The left and right edges of the board are colored white; the top and bottom edges are colored black.&lt;br/&gt;&lt;br/&gt;DEFINITIONS&lt;br/&gt;A piece is a single stone or two stacked stones in a single space.&lt;br/&gt;A weak pair is a set of two like-colored, diagonally adjacent pieces such that there is no like-colored piece orthogonally adjacent to both.&lt;br/&gt;The rank of a weak pair is the number of stones in that weak pair. This value can range from 2 to 4.&lt;br/&gt;A crosscut is a 2x2 set of pieces consisting of two diagonally adjacent black pieces and two diagonally adjacent white pieces.&lt;br/&gt;&lt;br/&gt;OBJECTIVE&lt;br/&gt;The goal of Consta is to form a connected chain of your pieces linking the opposite edges of the board marked by your color. I.e. White should connect the Left and Right edges and Black should connect the Top and Bottom edges. A corner is considered to be part of both adjoining edges.&lt;br/&gt;&lt;br/&gt;You win when you have a connected chain at the end of the opponent&amp;rsquo;s turn.&lt;br/&gt;&lt;br/&gt;Two pieces are considered to be connected to each other if they are:&lt;br/&gt;- orthogonally adjacent or&lt;br/&gt;- diagonally adjacent and: the weak pair doesn't belong to a crosscut or the weak pair is the highest rank weak pair that belongs to a crosscut.&lt;br/&gt;&lt;br/&gt;No draws are possible in Consta.&lt;br/&gt;&lt;br/&gt;PLAY&lt;br/&gt;The game begins with an empty board. Each player has an allocated color: Black or White. Black plays first, then turns alternate.&lt;br/&gt;&lt;br/&gt;Black plays first, placing one black stone on one space. After this move players take turns placing two stones on two different unoccupied spaces or placing two stacked stones on one single unoccupied space.&lt;br/&gt;&lt;br/&gt;It is not allowed to form a crosscut of weak pairs with the same rank.&lt;br/&gt;&lt;br/&gt;Online Play&lt;br/&gt;&lt;br/&gt;     Against Stephen Tavener's AI at &lt;a target='_blank' href=&quot;http://mrraow.com/index.php/aiai-home/&quot; rel=&quot;nofollow&quot;&gt;http://mrraow.com/index.php/aiai-home/&lt;/a&gt; (Java 8 required)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/_mNBDPTY2nNuTJySmVC8l2ME3cc=/fit-in/200x150/pic3515166.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/CCBlFJngMVPV1VNw_MOnW_ungkg=/0x0/pic3515166.jpg</image>
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="350591">Consta</boardgameversion>
+																						<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+															<boardgamedesigner objectid="41103">Matteo Perlini</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>5.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.5</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

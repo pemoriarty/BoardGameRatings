@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229912">
+			<yearpublished>2015</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">X-Com Skirmish</name>
+									
+			<description>An abstract skirmish level squad combat board &amp;amp; card game for 2 players, based on the X-Com video games. One player plays X-Com units, the other the Aliens.&lt;br/&gt;&lt;br/&gt;Use a large hex-map as the playing area. Every hex has 2 ratings: terrain and elevation.  These affect defence ratings and line of sight. Terrain is selected at the discretion of the players.&lt;br/&gt;&lt;br/&gt;Players use figures, miniatures or chits to represent units. Each unit represents a single soldier or alien. &lt;br/&gt;-    X-Com units come in a variety of types: civilian, military, squaddie, specialist, officer, hero or SHIV robot.  Each has a hit value between 1 and 4, cost between 1 and 4, and can, through card play, undertake actions from one or more tables according to their type.&lt;br/&gt;-    Alien units come in 15 different types.  Each has a hit value between 1 and 5, a cost between 1 and 5 and can, through card play, undertake actions from a table that is unique to their type&lt;br/&gt;&lt;br/&gt;Players share a common action deck.  Cards are of a number of type: Move, Attack, Defence or Special.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising 3 Phases:&lt;br/&gt;&lt;br/&gt;1.   Tactical Phase&lt;br/&gt;-    Draw 5 cards (or 4 if you only have 2 units left or 3 if you only have 1 unit left)&lt;br/&gt;&lt;br/&gt;2.   Move and Fire Phase&lt;br/&gt;-    Your units may individually move and fire in either order as you decide.  All of your units get one free move of 1 hex. In addition to the free move, you can play one move card on one unit (per turn) to move it again a number of spaces as stated on the card.  Normally only one unit is allowed per space.  Exceptions include units being carried such as a soldier carrying a wounded comrade or a captured alien or flying units passing over or hovering over other units&lt;br/&gt;-    Play an attack card to have a unit attack.  The attack card has a number which is the range of the attack.  All attacks do a base of 1 hit of damage. A unit reduced to 0 hits is killed. &lt;br/&gt;-    Your opponent may play defence cards to negate damage.  A defence effect negates a base of 1 hit of damage.&lt;br/&gt;&lt;br/&gt;3.   End Phase&lt;br/&gt;-    Max hand size = 5 cards (4 if you only have 2 units, or 3 if you only have one unit left).  Discard excess cards.&lt;br/&gt;&lt;br/&gt;The winner of the game is the first to achieve complete destruction of all opposing units.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgameversion objectid="359421">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamepodcastepisode objectid="221652">TGT 066: Getting Non-Gamers to Game</boardgamepodcastepisode>
+															<boardgamecategory objectid="1101">Video Game Theme</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

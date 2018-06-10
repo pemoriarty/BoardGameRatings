@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="231797">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Street Fighter Arena</name>
+									
+			<description>A 2 player card game based on the world of Street Fighter. It simulates a match between 2 characters.&lt;br/&gt;&lt;br/&gt;Each player chooses one character (from a choice of 17) at the beginning of the game. Each character starts with 20 hits. Each character has 2 special abilities and a unique list of fighting techniques.  Each technique has a name, a cost, and an effect. The cost is in the number and type of cards that must be played to produce the effect which will be either offensive, defensive or otherwise in nature.  Offensive techniques, or attacks, will cause damage reducing the opposing character by 1 hit. A defence will reduce the damage of an attack by an indicated amount.&lt;br/&gt;&lt;br/&gt;Players share a common deck of 52 cards: 10 x Punch cards, 10 x Kick cards, 10 x Grab cards, 10 x Athletic cards, 6 x Focus cards, 4 x Link cards and 2 x Warrior cards.  Players start with a maximum hand of 7 cards (though this may reduce during the course of the game).&lt;br/&gt;&lt;br/&gt;Players take turns comprising 4 phases:&lt;br/&gt;&lt;br/&gt;1. First Refresh Phase&lt;br/&gt;-  Fill your hand to max hand size (or less if stunned)&lt;br/&gt;&lt;br/&gt;2. Attack Phase&lt;br/&gt;-  Play (discard) cards to make an attack. If you play a combo effect, you can make an extra attack. Your opponent may play cards to produce defensive effects, fully or &lt;br/&gt;partially negating one or more of your attacks.&lt;br/&gt;&lt;br/&gt;3. Tactical Phase&lt;br/&gt;-  You may discard any unwanted cards in your hand.&lt;br/&gt;&lt;br/&gt;4. Second Refresh Phase&lt;br/&gt;-  Fill your hand to max hand size (or less if stunned)&lt;br/&gt;&lt;br/&gt;The winner is the player who reduces the opposing fighter to zero or less hits.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="362860">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

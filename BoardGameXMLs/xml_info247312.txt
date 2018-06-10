@@ -1,0 +1,93 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="247312">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Stack-22</name>
+									
+			<description>Stack-22 is a tile-stacking game that uses polyhexes of 5 hexagons, called pentahexes. There are 22 different pentahexes (hence the name of the game).&lt;br/&gt;&lt;br/&gt;Stack-22 is a new addition to the Pile-Omino family (SEVEN, Pent-Up and Counterplays) by the same designer. All of them play the same, but Stack-22 can be considered a step up from Seven.&lt;br/&gt;&lt;br/&gt;Warning: this is not a game for the casual player. It is recommended that you at least master SEVEN, Pent-Up or Counterplays before playing Stack-22, as if you don&amp;rsquo;t know the tactics it can feel a bit cold at the start during the first games. Its depth can be overwhelming (22 opening moves and more than 3000 second moves; the branching factor is crazy), but it rewards those who dare to explore.&lt;br/&gt;&lt;br/&gt;Summary of gameplay: Players alternate turns placing one of their tiles according to some simple rules, trying to get the most of their pieces on the topmost layers when the game ends.&lt;br/&gt;&lt;br/&gt;a) The tile must be aligned with the hex grid.&lt;br/&gt;&lt;br/&gt;b) The selected tile must be placed on the highest level on which it can be placed legally.&lt;br/&gt;&lt;br/&gt;c) The tile must be placed either on the table and adjacent to a piece already on the table, or atop at least 2 tiles, regardless of their colour.&lt;br/&gt;&lt;br/&gt;d) The tile must lie flat, with every hex directly supported, either by the table or by a lower tile.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/jV85ybqvnDLRD9FqI3OsBCLO22s=/fit-in/200x150/pic4080678.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/Z0Ov4bMF093gjs_4qjGgM1WfVpA=/0x0/pic4080678.jpg</image>
+						
+												<boardgamepublisher objectid="10094">nestorgames</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="396259">First edition</boardgameversion>
+																						<boardgamefamily objectid="46129">Pile-Omino</boardgamefamily>
+															<boardgamedesigner objectid="9393">Néstor Romeral Andrés</boardgamedesigner>
+															<boardgameartist objectid="9393">Néstor Romeral Andrés</boardgameartist>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameimplementation objectid="151357" inbound="true">SEVEN</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>8</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>7</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

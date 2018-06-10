@@ -1,0 +1,142 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="196392">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>10</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Turin Market</name>
+									
+			<description>Turin Market is an auction set collection game for 2-5 players, takes 10-30 minutes to play, and utilizes bluffing, silent auctions, sales, and loans. It is incredibly quick and easy to pick up, but has a deep breadth of strategy driven by player interaction and perceptive card value.&lt;br/&gt;&lt;br/&gt;There are 18 goods cards in the game, each with 3 of one good, 2 of another, and 1 of another. The goal of the game is to have the most Scudo (aka money) when the game ends. Each round all players will put one card from their hand in the center, and reveal them simultaneously. Then all players will participate in a Silent Auction, with the highest bidder receiving the most cards and so on down the chain. All players who received any cards pay their bid to the bank, and anyone who did not receive a card (lowest bidders) will pay half their bid rounded down. Everyone will then have the option to put a card they have won up for sale using their own Scudo as collateral for the sale price.&lt;br/&gt;&lt;br/&gt;There are slight variations based on the number of players, such as keeping a secret card in your hand until game end to add to your goods. In the 2-4 player games there are 5 auction rounds, after which a payout phase begins. Players with the most of each good are paid an amount from bank, as well as 1 Scudo from each other player with any of the good. Once payout is complete, everyone pays back their loans (taken out for 10 and paid back for 15) and the game is over. The player with the most Scudo is declared the winner!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/bUvu7dcODB5X9qz8OepdRGsqC5E=/fit-in/200x150/pic2950983.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/22LCL6kxRpRMm7YbCysNEZMd3jM=/0x0/pic2950983.jpg</image>
+						
+												<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+															<boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamefamily objectid="18641">Cities: Torino</boardgamefamily>
+															<boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+															<boardgamefamily objectid="11515">Country: Italy</boardgamefamily>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamepublisher objectid="31778">Dark Flight</boardgamepublisher>
+															<boardgamedesigner objectid="89147">Jordan Draper</boardgamedesigner>
+															<boardgameartist objectid="89147">Jordan Draper</boardgameartist>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="305486">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamecategory objectid="1104">Math</boardgamecategory>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamecategory objectid="1098">Number</boardgamecategory>
+															<boardgamemechanic objectid="2661">Press Your Luck</boardgamemechanic>
+															<boardgamecategory objectid="1070">Renaissance</boardgamecategory>
+															<boardgameversion objectid="387469">Second edition</boardgameversion>
+															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+															<boardgamepodcastepisode objectid="223934">The Good, the Board, and the Brotherly Love: Episode 143 PAX Unplugged Convention Report with Geof Gambill</boardgamepodcastepisode>
+																											
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>22</usersrated>
+					<average>6.34091</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.33473</stddev>
+					<median>0</median>
+					<owned>70</owned>
+					<trading>0</trading>
+					<wanting>13</wanting>
+					<wishing>53</wishing>
+					<numcomments>22</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

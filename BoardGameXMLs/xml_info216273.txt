@@ -1,0 +1,91 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="216273" subtypemismatch="true">
+			<yearpublished></yearpublished>
+			<minplayers></minplayers>
+			<maxplayers></maxplayers>
+			<playingtime></playingtime>
+			<minplaytime></minplaytime>
+			<maxplaytime></maxplaytime>
+			<age></age>
+
+							<name primary="true" sortindex="1">Top 10 Collection</name>
+									
+			<description>User Summary&lt;br/&gt;Video game compilation made for Amstrad CPC, Commodore 64, and ZX Spectrum.&lt;br/&gt;Five tapes with a game on each side.&lt;br/&gt;Which games was on what tape variate on platform it seems.&lt;br/&gt;&lt;br/&gt;Published under Elite's budget brand Hit-Pak&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<videogameplatform objectid="5203">Amstrad CPC</videogameplatform>
+															<videogameversion objectid="336952">Amstrad CPC disk edition</videogameversion>
+															<videogameversion objectid="336951">Amstrad CPC tape edition</videogameversion>
+															<videogamegenre objectid="2314">Arcade</videogamegenre>
+															<videogameplatform objectid="4420">Commodore 64</videogameplatform>
+															<videogameversion objectid="336954">Commodore 64 disk edition</videogameversion>
+															<videogameversion objectid="336953">Commodore 64 tape edition</videogameversion>
+															<videogamedeveloper objectid="12205">Elite Systems</videogamedeveloper>
+															<videogamepublisher objectid="12205">Elite Systems</videogamepublisher>
+															<videogametheme objectid="2428">Minigame Compilation</videogametheme>
+															<videogamegenre objectid="2154">Racing</videogamegenre>
+															<videogamemode objectid="2149">Single-Player</videogamemode>
+															<videogametheme objectid="2331">Space</videogametheme>
+															<videogametheme objectid="2317">War - Modern</videogametheme>
+															<videogameplatform objectid="4950">ZX Spectrum</videogameplatform>
+															<videogameversion objectid="336956">ZX Spectrum disk edition</videogameversion>
+															<videogameversion objectid="336955">ZX Spectrum tape edition</videogameversion>
+															<videogamecompilation objectid="116839" inbound="true">Airwolf</videogamecompilation>
+															<videogamecompilation objectid="85838" inbound="true">Bomb Jack II</videogamecompilation>
+															<videogamecompilation objectid="98516" inbound="true">Combat Lynx</videogamecompilation>
+															<videogamecompilation objectid="155152" inbound="true">Critical Mass (Apple II/1983)</videogamecompilation>
+															<videogamecompilation objectid="89965" inbound="true">Deep Strike</videogamecompilation>
+															<videogamecompilation objectid="83103" inbound="true">Saboteur</videogamecompilation>
+															<videogamecompilation objectid="83104" inbound="true">Saboteur II: Avenging Angel</videogamecompilation>
+															<videogamecompilation objectid="216271" inbound="true">Sigma 7</videogamecompilation>
+															<videogamecompilation objectid="83203" inbound="true">Thanatos</videogamecompilation>
+															<videogamecompilation objectid="123624" inbound="true">Turbo Esprit</videogamecompilation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+														<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup as bs
 import xmltodict
 import pickle
 
-game_ids = range(75000, 137000)
+game_ids = range(137000, 254656)
 cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 cat_ids = []
 categories = []
@@ -23,7 +23,7 @@ game_names = []
 #if so, parse it
 #save parsed version
 
-loop_range = 137000-75000
+loop_range = 254656-137000
 
 for id in range(loop_range):#game_ids:
     file_name = "BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"

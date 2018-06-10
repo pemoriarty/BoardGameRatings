@@ -1,0 +1,131 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="247394">
+			<yearpublished>2019</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>150</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>150</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">EXO: Mankind Reborn</name>
+									
+			<description>EXO: Mankind Reborn takes place in a post-apocalyptic world where humanity has survived natural catastrophes taking refuge in underground caves (like the famous Son Doong cave) for centuries while on the surface, the only ones that have managed to survive are the insects, because of their adaptability and their affinity to a mysterious energy that arises during the natural catastrophes: the EXO-energy.&lt;br/&gt;&lt;br/&gt;In EXO, you will become the incarnation the chosen heroes of the main tribes that inhabit the underground caves to unveil the secrets of the EXO-energy.&lt;br/&gt;&lt;br/&gt;This is a co-operative survival board game in which players will experience the pressure of having to obtain the necessary resources to survive and fight the insects swarm all while they are fulfilling the objectives of each mission in a story that is told throughout a campaign.&lt;br/&gt;&lt;br/&gt;Gameplay&lt;br/&gt;The game is divided into two phases: Day and night. During the day phase, the players must decide what actions they are going to carry out and to do this they will place their pawns on their dashboard in the different actions they can perform:&lt;br/&gt;&lt;br/&gt;Move and/or attack&lt;br/&gt;Extraction of resources / EXO-energy&lt;br/&gt;Acquire upgrades&lt;br/&gt;Rest&lt;br/&gt;Build (a variety of useful constructions)&lt;br/&gt;Move drone&lt;br/&gt;&lt;br/&gt;Once this is done, the players will decide the order in which the actions will be executed.&lt;br/&gt;&lt;br/&gt;During the night, they must use the resources obtained during the day phase to survive, facing the disasters that the mission poses.&lt;br/&gt;&lt;br/&gt;Winning conditions&lt;br/&gt;The players will get the victory in the game if they accomplish the objective of the mission, while they will be defeated if one of the following conditions occurs: that a human character dies or that a plague occurs.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DU0Hj38YRybrDcK_litkUEjBYC4=/fit-in/200x150/pic4012032.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0bXvb8Y_xnoLYOgkrBQz8CI-RWk=/0x0/pic4012032.png</image>
+						
+												<boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamefamily objectid="24281">Campaign Games</boardgamefamily>
+															<boardgamemechanic objectid="2023">Co-operative Play</boardgamemechanic>
+															<boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgamedesigner objectid="73632">Diego de la Torre</boardgamedesigner>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+																						<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="396402">First edition</boardgameversion>
+															<boardgameartist objectid="95238">Xabi Gaztelua</boardgameartist>
+															<boardgameartist objectid="101323">Ana Marco</boardgameartist>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgameartist objectid="43246">Alejandro García Palomares</boardgameartist>
+															<boardgamepublisher objectid="38769">PlastCraft Games</boardgamepublisher>
+															<boardgamefamily objectid="41799">Post-Apocalyptic</boardgamefamily>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamepodcastepisode objectid="239936">TGT 090: Iconography and Components</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>25</usersrated>
+					<average>9.11733</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.81689</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>8</wanting>
+					<wishing>86</wishing>
+					<numcomments>18</numcomments>
+					<numweights>1</numweights>
+					<averageweight>3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

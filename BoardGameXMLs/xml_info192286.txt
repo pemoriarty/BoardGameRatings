@@ -1,0 +1,146 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="192286">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">SOL</name>
+									
+			<description>Land your crew on the island of SOL, a highly colorful but forgotten island in the Atlantic Ocean, then pit your skills against another team to find and (more importantly) leave the island with the treasure of the God of the Sun.&lt;br/&gt;&lt;br/&gt;In SOL, players divide into two teams: adventurers vs. conquistadors, with each team having three or four characters. Each character has movement, fighting, and search skills; inventory for two or three items; and a unique special ability for use in the advanced game.&lt;br/&gt;&lt;br/&gt;On a turn, all of the characters on one team act first, one after another, then the opposite team goes. During your turn, use your action points to move your character and search on the island. If you meet someone from the other team, you can fight them, whether to steal the treasure or simply to set them back. When you search, you might find move and fight tokens to save for the future; flags that let you claim a dock on the island to make it easier to leave; or clues to the treasure. The clue tokens let you play cards, and those cards determine where the treasure will be found &amp;mdash; ideally in a spot more advantageous for you than the other team.&lt;br/&gt;&lt;br/&gt;Once the final clue has been found, the treasure is up for grabs, with a team needing to have one of its characters possess it on a dock to which they have access at the start of their turn. Thus, holding it isn't enough as the other team can possibly steal it away on their turn.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/DXjWQJWCuBs1EK3G64BQNgL_uiA=/fit-in/200x150/pic3152648.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/5HChca91Xo-RjH2if-6Rl2XG5iI=/0x0/pic3152648.png</image>
+						
+																			<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamedesigner objectid="17102">Pierre Buty</boardgamedesigner>
+															<boardgamepublisher objectid="28651">Catch Up Games</boardgamepublisher>
+																						<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameartist objectid="36093">Xavier Gueniffey Durin</boardgameartist>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgameversion objectid="298245">French first edition</boardgameversion>
+																																				<boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+																													<boardgameexpansion objectid="199726">SOL: Adventure Special Tokens</boardgameexpansion>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>162</usersrated>
+					<average>6.47852</average>
+					<bayesaverage>5.6133</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5629" bayesaverage="5.6133" />
+												
+											</ranks>
+					
+					<stddev>1.53988</stddev>
+					<median>0</median>
+					<owned>255</owned>
+					<trading>9</trading>
+					<wanting>30</wanting>
+					<wishing>215</wishing>
+					<numcomments>47</numcomments>
+					<numweights>6</numweights>
+					<averageweight>2</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

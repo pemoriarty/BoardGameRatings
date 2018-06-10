@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="228304">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Escabel</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Escabel is a drawless connection game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The top and bottom edges of the board are colored black; the left and right edges are colored white.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A stack is a set of one or more pieces piled onto each other on the same point. The color of a stack is the color of its topmost piece, which denotes its owner. A stack's height is the number of pieces in it.&lt;br/&gt;&lt;br/&gt;A crosscut is a 2x2 set of stones consisting of two diagonally adjacent black stones and two diagonally adjacent white stones.&lt;br/&gt;&lt;br/&gt;Two like-colored stacks are considered connected in the following cases:&lt;br/&gt;&lt;br/&gt;a) They are orthogonally or diagonally adjacent to each other and not part of the same crosscut.&lt;br/&gt;&lt;br/&gt;b) They are part of the same crosscut and higher than the lower enemy stack in it.&lt;br/&gt;&lt;br/&gt;c) They are part of the same crosscut, the lower of them is the same height as the lower enemy stack in the crosscut and the higher of them is higher than the higher enemy stack in the crosscut.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate. On your turn, you must perform exactly one of the following actions:&lt;br/&gt;&lt;br/&gt;a) Place a piece of your color on an empty point.&lt;br/&gt;&lt;br/&gt;b) Place a piece of your color onto a stack of your color whose height, before the placement, is the same as the height of an orthogonally adjacent stack of any color.&lt;br/&gt;&lt;br/&gt;c) Move the topmost piece of a stack of your color onto an orthogonally adjacent enemy stack, provided that, before the move, the heights of both stacks are the same. Then, place a piece of your opponent's color onto the stack from which you just moved your piece.&lt;br/&gt;&lt;br/&gt;If, at the start of a player's turn, there's a chain of connected stacks of their color touching the two opposite board edges of their color, that player wins. Failing that, a player loses if they have no moves available on their turn, in which case the opponent will necessarily have a winning chain of the type just described. Draws are not possible.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Notes&lt;br/&gt;&lt;br/&gt;Escabel was inspired by Matteo Perlini's Consta.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/6p653PRB2WGbuz4rAW2joABpJWA=/fit-in/200x150/pic3945327.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/GxJJcncukhzP9X9antY_N-d5H8E=/0x0/pic3945327.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+															<boardgameversion objectid="356833">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

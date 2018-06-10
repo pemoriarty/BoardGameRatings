@@ -1,0 +1,94 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="217808">
+			<yearpublished>2016</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Wokashi-ya</name>
+							<name  sortindex="1">をかしや</name>
+									
+			<description>User summary&lt;br/&gt;をかしや (Wokashi-ya) in English is a 'Confectionery Store'.&lt;br/&gt;&lt;br/&gt;In the game of Wokashi-ya, you are running a confectionery store, and your goal is to score the most victory points by delivering confectionery to customers.&lt;br/&gt;&lt;br/&gt;In a square grid board (town map), there are several wholesalers and customers. In order to deliver confectionery to customers, you first visit wholesalers to buy ingredients, then visit customer and spend required ingredients, and finally you can score victory points.&lt;br/&gt;&lt;br/&gt;Each turn, you have five action points. You may spend one action point to&lt;br/&gt;1) Move: Move to adjacent square.&lt;br/&gt;2) Buy: If you are in a wholesaler square, spend 2 gold to buy an ingredient.&lt;br/&gt;3) Deliver: If you are in a customer square, spend required ingredients to deliver your products, then gain victory points and some positive effect.&lt;br/&gt;4) Build a shop: Spend some gold to build a shop. It grants you some movement advantage, and you score mid-game bonus if you have built the most shops in a certain district.&lt;br/&gt;5) Income: Gain 3 gold.&lt;br/&gt;&lt;br/&gt;At the end of game, the highest scorer wins the game.&lt;br/&gt;&lt;br/&gt;Publisher's summary&lt;br/&gt;「をかしや」は、手番で限られた数のアクションを行い、&lt;br/&gt;材料を購入して和菓子を届け、勝利点を得るボードゲームです。&lt;br/&gt;&lt;br/&gt;手番では下記の中から複数のアクションを組み合わせて行うことができます。&lt;br/&gt;・移動・材料の購入・注文の達成・店コマの配置・収入&lt;br/&gt;&lt;br/&gt;これらを実行し、和菓子の材料をあちこちのお店を巡って集め、公開されている共通の注文カードを他プレイヤーよりも早く達成すると、ボーナスや勝利点がもらえます。&lt;br/&gt;また、ボードに自分の店コマを置くことによって、ゲーム中に3回ある決算での勝利点の獲得や、プレイヤーのコマが移動するときに一気に移動できたり、臨時収入を得るチャンスがあります。&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/wE3CQmqKpKrbCbMYQF7plP_uv54=/fit-in/200x150/pic3349508.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/0jJrDShptB7ydE8xNZHyekhyqx8=/0x0/pic3349508.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameartist objectid="76688">舟岡 (Hunaoka)</boardgameartist>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgameversion objectid="339259">Japanese first edition</boardgameversion>
+															<boardgamedesigner objectid="75354">折口 日向 (Hinata Origuchi)</boardgamedesigner>
+															<boardgamepublisher objectid="27299">桜遊庵 (Ouyuuan)</boardgamepublisher>
+															<boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+															<boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>2</usersrated>
+					<average>7.5</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>4</wanting>
+					<wishing>8</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,76 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="223609">
+			<yearpublished>2017</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">TKG ARENA: Monster Mayhem</name>
+									
+			<description>The Elemental Kings need more than generals, they need heroes &amp;hellip; to die for their cause.&lt;br/&gt;&lt;br/&gt;This game requires the following components from TKG ARENA: The Elemental Kings &amp;amp; TKG ARENA: Brethren of Chaos.&lt;br/&gt;&lt;br/&gt;MONSTER DECK:    1&lt;br/&gt;STANDARD DECK (DECK):    1 for each player.&lt;br/&gt;LIFE:    20 for each player (default)&lt;br/&gt;&lt;br/&gt;Monsters from the MONSTER DECK can be sourced from TKG ARENA: Brethren of Chaos, this expansion itself or a mix from both games.&lt;br/&gt;&lt;br/&gt;The objective of this game scenario is to survive an onslaught from a group of monsters randomly configured and represented by a MONSTER DECK in a cooperative manner.&lt;br/&gt;&lt;br/&gt;Players start the game by drawing the top card from their shuffled DECK and the highest number starts first. The drawn top card goes back to the bottom of the DECK. Henceforth, each player takes turns to be the starting player for each cycle of attacks against the monsters in a clockwise manner. Players draw 5 cards from their STANDARD DECK as CURRENT HAND.&lt;br/&gt;&lt;br/&gt;During each turn, a specified number of monster cards are drawn from the MONSTER DECK and each player may attack them according to the rules as described in TKG ARENA: The Elemental Kings. All attacks played automatically hits unless they are SOLO attacks that are LOWER than a game variable called the Strike Rate.&lt;br/&gt;&lt;br/&gt;The Strike Rate refers to the minimum FACE VALUE of each solo card that needs to be used to remove a monster with 1 LIFE. Other categories of ATTACK HAND will automatically remove monsters according to the damage they deal. E.g. playing a TWINS can remove a monster with 2 LIFE or less automatically regardless of its FACE VALUE. Players may accumulate the damage of their attacks on 1 target but may not accumulate cards from multiple parties to form an ATTACK HAND.&lt;br/&gt;&lt;br/&gt;Likewise, all attacks from any surviving monsters will hit automatically and the sum of all damage (based on the POWER of the monster) will be distributed evenly across all players (rounded up). E.g. 5 damage scored against 4 players means each player will suffer 2 damage. Players lose half (round down to the lower of) their remaining LIFE if they deck out and reshuffle for a new DECK. For every 10 POWER worth of monsters a player removes, his/her Strike Rate goes up by 1. When the Strike Rate is 10 for any player, SOLO attacks become ineffective.&lt;br/&gt;&lt;br/&gt;The CHARGE BAR can be deployed for this game by increasing the deploying player&amp;rsquo;s initial Strike Rate by 1, and once deployed lasts till the end of the game. All spell effects and monster special abilities (printed for TKG ARENA: Brethren of Chaos) are not used.&lt;br/&gt;&lt;br/&gt;The game ends when all the monsters are killed or when all the players are eliminated. The player who eliminates the most monsters in terms of LIFE wins. When there is a tie, the accumulated POWER of the monsters removed will be considered and the higher accumulated POWER wins.&lt;br/&gt;&lt;br/&gt;Other than this new semi-cooperative mode of play, TKG ARENA: Monster Mayhem offers an additional new set of 32 monsters to complement the existing 60 monsters found in TKG ARENA: Brethren of Chaos.&lt;br/&gt;&lt;br/&gt;Let the mayhem begin!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/5gQ8k67O2Y-LgYk3VJBsTQOw4Fg=/fit-in/200x150/pic3482208.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/nPepRTsoggjEENUWIYHorEmWL2s=/0x0/pic3482208.jpg</image>
+						
+												<boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="349476">First edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamedesigner objectid="68622">Chub Tan</boardgamedesigner>
+															<boardgameartist objectid="68622">Chub Tan</boardgameartist>
+															<boardgamefamily objectid="25573">TKG ARENA</boardgamefamily>
+															<boardgamepublisher objectid="25221">The TKG Comic Circle</boardgamepublisher>
+															<boardgameexpansion objectid="163108" inbound="true">TKG ARENA: Brethren of Chaos</boardgameexpansion>
+															<boardgameexpansion objectid="142965" inbound="true">TKG ARENA: The Elemental Kings</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>2</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

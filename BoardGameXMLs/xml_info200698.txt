@@ -1,0 +1,63 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="200698">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>5</age>
+
+							<name primary="true" sortindex="1">Regions</name>
+									
+			<description>Regions is a game about territory fight, using the same board game set as Go. It has one basic concept: region. The players increase their territory by making regions:&lt;br/&gt;&lt;br/&gt;The rule of the Regions is very simple: If the player's current stone and the other 3 stones on the board form a 4-side region (which is formed by vertical lines, horizontal lines and lines of 45&amp;deg;), and the region contains no enemy stones (including edges), then the whole region belongs to the player and will be filled by the player's stones.&lt;br/&gt;&lt;br/&gt;When one player has occupied more than half of the territory, then game ends, i.e., whoever takes 181 points wins.&lt;br/&gt;&lt;br/&gt;Notes:&lt;br/&gt;    * If there is no restriction to the 4-side region, the shape can be weird and against the common sense. So the region cannot be concave, and any 2 sides of the region cannot be crossing or overlapping, which means, only regular quadrilateral are valid. Actually the shape can only be rectangle, rhombus, parallelogram, trapezoid, and a kind of right-angled quadrilateral. &lt;br/&gt;    * In some special situations, one played stone can form multiple regions&lt;br/&gt;    * Since black moves first and has advantage, so it is ruled that the first move of black cannot be in the center, because center also has advantage. At the end, maybe black needs to pay back some points to white. Currently we assume handicap of 4.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgameversion objectid="312562">First edition</boardgameversion>
+																						<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -1,0 +1,115 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="197911">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Onami</name>
+									
+			<description>Onami is a strategic card game that is simple to learn, but difficult to master!&lt;br/&gt;&lt;br/&gt;The concept is simple, both players draw 5 cards from a shuffled deck of 49 cards.&lt;br/&gt;&lt;br/&gt;Each card in their hand will have 4 numbers on it, one number on each facing of the card. North, East, South, and West&lt;br/&gt;&lt;br/&gt;The first player ( chosen randomly ) will then place a card some where on that 5 x 5 grid. Next they will place a double sided token on the card marking that they own it, with the color of their choosing facing up. They will then draw a card from the deck, signaling the end of their turn.&lt;br/&gt;&lt;br/&gt;The next player will then go, doing the same thing.&lt;br/&gt;&lt;br/&gt;Players may also rotate the card however they desire to get the optimal outcome.&lt;br/&gt;&lt;br/&gt;If a player lays a card next to a card they do not own they can potentially take ownership of it and possibly cards next to that one and so forth!&lt;br/&gt;&lt;br/&gt;Using the example below the second player, who is represented by the black token laid their card to the right of one of the first players cards, who is represented by the white token.&lt;br/&gt;&lt;br/&gt;The card they laid down has a 7 on the west face of the card. The card to the left of it has a 0 on the east face of the card. Since 7 is greater than 0 the player represented by the black token can gain control of that card,&lt;br/&gt;&lt;br/&gt;But wait it doesn't end there! There is also the possibility of chain reaction captures! Lets examine the sample below.&lt;br/&gt;&lt;br/&gt;The card with the black token on it was just laid down by the second player, the number facing west is 3, the number on the card beside it that is owned by the first player has a number of 1 on the east side. Since 3 is greater than 1 it captures it.&lt;br/&gt;&lt;br/&gt;But it doesn't end there! Since the difference between 3 and 1 is 2 the second player, represented by the black token card capture up to two cards total ( including the initial card captured ) if there are numbers on the next card that are greater than cards it is next too and that the second player doesn't already own. The ending result is as seen below.&lt;br/&gt;&lt;br/&gt;Using this mechanic, even if you are woefully behind a single card can potentially bring you back in to the game!&lt;br/&gt;&lt;br/&gt;There are many strategic ways to play Onami, but you must be careful to be both defensive and offensive&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/mMq89dSNw_xXLGryROPZwXCB5WY=/fit-in/200x150/pic3106025.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3QVinq0480J5Jic-zot5kGyFHGk=/0x0/pic3106025.png</image>
+						
+												<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="307880">English first edition</boardgameversion>
+															<boardgamepodcastepisode objectid="195973">Episode 18 - The 2016 Blitzies</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="188198">Episode 8 - Back to School</boardgamepodcastepisode>
+																													<boardgamedesigner objectid="88771">Philip Loyer</boardgamedesigner>
+																													<boardgamepublisher objectid="34719">Wyvern Gaming</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>55</usersrated>
+					<average>7.05455</average>
+					<bayesaverage>5.5512</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8314" bayesaverage="5.5512" />
+												
+											</ranks>
+					
+					<stddev>1.73444</stddev>
+					<median>0</median>
+					<owned>140</owned>
+					<trading>11</trading>
+					<wanting>11</wanting>
+					<wishing>64</wishing>
+					<numcomments>23</numcomments>
+					<numweights>2</numweights>
+					<averageweight>1</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

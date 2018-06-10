@@ -1,0 +1,65 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="248507">
+			<yearpublished>2018</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Enclose</name>
+									
+			<description>Enclose is played on a 19by19 toroidal Go board with Go stones. If a player encloses an area with their stones they capture all the enemy stones in that area. Players may not place their stones onto intersections on area that is enclosed by their opponent. In order for a stone formation to enclose area, the stone formation must be able to have imagined a string with the shape of a polygon connecting the centers of all of its stones so that each center is connected by the string to exactly two other centers of adjacent enclosing formation stones, and that string must divide the toroid into exactly two regions so that it is not possible to move from one region to the other without going through the string. Of these two regions of the toroid that are divided by the string, the one that is enclosed is the one which has a combined value of the measures of the angles of its side (its side being at all points adjacent to the string), that is smaller than that of the other region. Players may pass their turn without placing a stone, if both players pass this way consecutively, the game ends, and the winner is the player who has the most empty intersections enclosed.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/l4ppbkSoFokYjDh6h0-oVJQsork=/fit-in/200x150/pic4058342.png</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/ypdFjrCvVL5gTJUc-OcRq6-lZn4=/0x0/pic4058342.png</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+															<boardgameversion objectid="398336">First edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>0</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

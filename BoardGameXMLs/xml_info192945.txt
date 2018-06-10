@@ -1,0 +1,137 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="192945">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>80</playingtime>
+			<minplaytime>50</minplaytime>
+			<maxplaytime>80</maxplaytime>
+			<age>10</age>
+
+							<name primary="true" sortindex="1">Coal Baron: The Great Card Game</name>
+							<name  sortindex="1">Crocevia del Carbone: Il gioco di carte</name>
+							<name  sortindex="1">Crocevia del Carbone: Il Grande Gioco di Carte</name>
+							<name  sortindex="1">Glück Auf: Das große Kartenspiel</name>
+							<name  sortindex="1">Szczęść Boże: wielka gra karciana</name>
+									
+			<description>The city of Essen, Germany at the turn of the 20th century was a center for coal mining in Europe. Immerse yourself in the dark world of coal mining as you extract coal from pits, load coal to wagon trains, and then rail your coal off to distant locations in search of fortunes.&lt;br/&gt;&lt;br/&gt;Coal Baron: The Great Card Game is a standalone game based on the very popular board game, Coal Baron, originally published in 2013. With innovative mechanisms and almost 240 cards, Coal Baron: The Great Card Game creates an experience that feels very distinct from, yet is just as intense as, the original game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/hMSXz7aACvaJ6iu4BulJlrSwTPg=/fit-in/200x150/pic3142962.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/UaTMIQ4YQQLZsAgYNzBqNvR4DW0=/0x0/pic3142962.jpg</image>
+						
+																			<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+																													<boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+																													<boardgamepublisher objectid="1015">eggertspiele</boardgamepublisher>
+																						<boardgameversion objectid="323603">English-only first edition</boardgameversion>
+															<boardgameversion objectid="299480">English/German first edition</boardgameversion>
+															<boardgamepodcastepisode objectid="233989">Episode 1 - Check Out These Bits!</boardgamepodcastepisode>
+																																											<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepodcastepisode objectid="192576">HLG-EXTRA 5: Spellenspektakel 2016</boardgamepodcastepisode>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgameversion objectid="360015">Italian edition</boardgameversion>
+															<boardgamedesigner objectid="42">Michael Kiesling</boardgamedesigner>
+															<boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+															<boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
+															<boardgameartist objectid="12484">Dennis Lohausen</boardgameartist>
+															<boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+															<boardgameversion objectid="344884">Polish edition</boardgameversion>
+																													<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="11652">Stronghold Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="206294">The Long View - Quick Looks #27</boardgamepodcastepisode>
+															<boardgamecategory objectid="1034">Trains</boardgamecategory>
+																						<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+															<boardgameimplementation objectid="143515" inbound="true">Coal Baron</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>752</usersrated>
+					<average>7.24778</average>
+					<bayesaverage>6.20167</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1470" bayesaverage="6.20167" />
+												
+											</ranks>
+					
+					<stddev>1.02533</stddev>
+					<median>0</median>
+					<owned>1759</owned>
+					<trading>57</trading>
+					<wanting>73</wanting>
+					<wishing>239</wishing>
+					<numcomments>169</numcomments>
+					<numweights>16</numweights>
+					<averageweight>2.75</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

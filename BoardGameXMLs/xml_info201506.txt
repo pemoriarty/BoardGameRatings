@@ -1,0 +1,68 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="201506">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>6</age>
+
+							<name primary="true" sortindex="1">Lin</name>
+									
+			<description>&lt;br/&gt;Introduction&lt;br/&gt;&lt;br/&gt;Lin is a drawless territory game for two players: Black and White. It's played on the intersections (points) of an odd-sized, initially empty square board. The suggested sizes are between 9x9 and 19x19.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Definitions&lt;br/&gt;&lt;br/&gt;A domain of one color is a set of orthogonally adjacent points that includes no points occupied by the opposite color. In other words, a domain of one color can include zero or more stones of that color and zero or more empty points.&lt;br/&gt;&lt;br/&gt;A domain is alive if it includes a line of six orthogonally adjacent points in the same row or column. When the game is played on tiny boards, the required line length can be reduced.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Play&lt;br/&gt;&lt;br/&gt;Black plays first, then turns alternate.&lt;br/&gt;&lt;br/&gt;On their turn, a player must place a stone of their own color on an empty point that is part of a living domain of their color.&lt;br/&gt;&lt;br/&gt;After a placement, all enemy stones that are part of no living domains are removed from the board.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Objective&lt;br/&gt;&lt;br/&gt;The game ends when there are no points on the board belonging to living domains of both colors. The player with the highest score wins. A player's score is the number of board points that are part of living domains of their color in the final position, plus a komi in the case of White.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Komi&lt;br/&gt;&lt;br/&gt;The komi is the even number of points which are added to White's score at the end of the game as a compensation for playing second. Before the game starts, the first player tells his opponent the even number which will be used as komi, and then the second player chooses which color to play.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Acknowledgements&lt;br/&gt;&lt;br/&gt;Lin was inspired by Rin and Loops.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+															<boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+															<boardgameversion objectid="313866">First edition</boardgameversion>
+															<boardgamedesigner objectid="47001">Luis Bolaños Mures</boardgamedesigner>
+															<boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+															<boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

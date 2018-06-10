@@ -1,0 +1,92 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="195348">
+			<yearpublished>2014</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>8</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>5</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>9</age>
+
+							<name primary="true" sortindex="1">Hallux Rigidus: Jeremy&#039;s Raceway</name>
+									
+			<description>Objective:&lt;br/&gt;Be the first racer to cross the finish line.&lt;br/&gt;&lt;br/&gt;Set-up:&lt;br/&gt;Place racer tokens on start (checkered area). Shuffle deck and place as many as you choose face down&lt;br/&gt;onto the track in the empty spaces.&lt;br/&gt;&lt;br/&gt;Play:&lt;br/&gt;Roll both dice, move forward the number rolled. When landing on a space with a card, turn it over and do whatever it specifies unless the card has no immediate function. Once a card is turned over it stays visible for the remainder of the race. A player who is sent to that space is not affected by the card but all who land on it during their regular turn must do as the card specifies.&lt;br/&gt;When a double is rolled that racer may move any another racer back the full amount or two racers back half each.&lt;br/&gt;If a card specifies &amp;ldquo;closest racer&amp;rdquo; all closest on the same space are affected.&lt;br/&gt;Sometimes a loop in play is created... stop on the last space before the loop is created.&lt;br/&gt;Pit Stop: When your racer is required to move back you may move into a pit stop, possibly cutting&lt;br/&gt;short the number of spaces you have to move backward. Only one racer may occupy a pit stop.&lt;br/&gt;The pit stop is considered a safe zone.&lt;br/&gt;Safe Zone: When on a safe zone you cannot be moved by another player for any reason.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/thumb/img/p5bgb_uJp8KNdvjKyWdmXV5lhug=/fit-in/200x150/pic2933668.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/original/img/3YGUhPFJ3e4psTyaThJpb3QDvjk=/0x0/pic2933668.jpg</image>
+						
+												<boardgamedesigner objectid="89904">Nate Atwater</boardgamedesigner>
+															<boardgameartist objectid="89904">Nate Atwater</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="303682">First edition</boardgameversion>
+															<boardgamepublisher objectid="2456">The Game Crafter, LLC</boardgamepublisher>
+															<boardgameintegration objectid="193096">Hallux Rigidus</boardgameintegration>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgameintegration objectid="193096" inbound="true">Hallux Rigidus</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>3</usersrated>
+					<average>6.33333</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>3.29983</stddev>
+					<median>0</median>
+					<owned>2</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>2</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

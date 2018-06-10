@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="237077">
+			<yearpublished>2010</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Zone Stalker</name>
+									
+			<description>A card game for 2-4+ players based on the Novella &amp;ldquo;Roadside Picnic&amp;rdquo; by the Strugatsky brothers.  Each player is a Stalker, venturing into the dangerous Visitation Zones to bring back valuable artefacts left by visiting Aliens.&lt;br/&gt;&lt;br/&gt;There are 3 Decks: &lt;br/&gt;-  The Stalker Deck.  This deck is composed of cards the Stalkers use to avoid &lt;br/&gt;Hazards and find Artefacts. Each card has a Rating in 2 Traits: Avoidance Rating (used to avoid hazards) and Detection Rating (used to find artefacts)&lt;br/&gt;-  The Zone Deck.  This deck has 4 card types: Location, Hazard, Artefact and Events.&lt;br/&gt;-  The Character Deck. These represent Stalkers. Each one has a special Ability.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn having four phases:&lt;br/&gt;&lt;br/&gt;1.  Stalker Phase&lt;br/&gt;The current Stalker fills his hand to 10 stalker cards drawn from the top of the stalker deck.&lt;br/&gt;&lt;br/&gt;2.  Zone Phase&lt;br/&gt;A player may decide to completely skip the Zone Phase on his turn. &lt;br/&gt;The current stalker flips over the top card of the Zone Deck and places it face-up in the middle of the table. This card is called the Primary Zone Card. &lt;br/&gt;-   If the Primary Zone card is a location the Stalker must discard a stalker card of his choice from his hand along with the location card. &lt;br/&gt;-   If the Primary Zone card is a hazard the Stalker must play (discard) a stalker card to avoid it. The Hazard card will have a danger rating. The Stalker must roll 1D10 and add the avoidance rating on the Stalker card he played to the roll. If this total is equal to or greater than the danger rating of the Hazard card he successfully avoids it. If the total is less, he must roll 1D10 on the Hazard Table. Either way discard the hazard card. &lt;br/&gt;-   If the Primary Zone card is an Artefact the Stalker must play (discard) a Stalker card to find it. The Stalker must roll 1D10 and add the detection rating on the Stalker card he played to the roll. If this total is 7 or greater he successfully finds it. The stalker places it face-down next to him in his Swag pile. If the total is less, he does not find it; discard the Artefact card. &lt;br/&gt;-   If the Primary Zone card is an Event card, resolve it and discard it. &lt;br/&gt;-   The Stalker may repeat this process as long as he still has Stalker cards in his hand.&lt;br/&gt;&lt;br/&gt;3.  Recovery Phase&lt;br/&gt;If the Stalker skipped the Zone Phase completely, he may remove one injury marker. If he has 1 or more bracelets in his swag remove 1 additional injury marker.&lt;br/&gt;&lt;br/&gt;4.  End Phase&lt;br/&gt;The player may discard none, some, or all of his Stalker cards. Players may trade Stalker and Swag cards.&lt;br/&gt;&lt;br/&gt;The game ends when only 1 player is left alive or a new turn starts and there are no cards left in the Zone Deck. The winner is the last Stalker left alive or the one with the most Swag Points at the end of the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="372248">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

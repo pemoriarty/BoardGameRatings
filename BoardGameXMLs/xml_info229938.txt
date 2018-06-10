@@ -1,0 +1,67 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="229938">
+			<yearpublished>2016</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Restauranteur</name>
+									
+			<description>A game for 2-4+ players with a restaurant building theme.&lt;br/&gt;&lt;br/&gt;An 8x8 grid represents a city.  There is a set of 64 counters to be placed on the spaces of the board representing 16 districts (of 6 different types) and 48 restaurants (6 each of 8 different types).  A space on the board may only ever contain 1 district or 1 restaurant.&lt;br/&gt;&lt;br/&gt;To start the 16 districts are distributed to the board such that each row gets 2 random districts randomly placed. All restaurant counters are in a pile called the build pile which is shuffled and placed face down next to the board.&lt;br/&gt;&lt;br/&gt;Each player gets a set of 20 tokens, 10 coins, 4 random restaurant counters and 4 cards from a common card deck. Cards are of three types: Number, Income and Improvement.&lt;br/&gt;&lt;br/&gt;Players take turns with each turn comprising has 6 phases:&lt;br/&gt;&lt;br/&gt;1.   Investment Phase&lt;br/&gt;-    The active player receives 1 Coin. &lt;br/&gt;-    If you have the most restaurants of a given type (for each type) get one extra coin.&lt;br/&gt;&lt;br/&gt;2.   Recruit Phase&lt;br/&gt;-    The active player draws 1 card and puts it in his hand.&lt;br/&gt;&lt;br/&gt;3.   Build Phase&lt;br/&gt;-    You may build one restaurant. This costs 10 coins and the restaurant must come from your restaurant pool. &lt;br/&gt;-    When a restaurant is built, draw a replacement counter from the build pile. &lt;br/&gt;-    Place the restaurant counter on an open space on the board with one of your tokens on top of it.  When building a restaurant, you must also discard a number card and the restaurant must be placed on a row or column matching that number. &lt;br/&gt;-    You may not build a restaurant adjacent to another of the same type.&lt;br/&gt;&lt;br/&gt;4.   Improvement Phase&lt;br/&gt;-    You may play one Improvement card. This costs 5 Coins. &lt;br/&gt;-    Place improvements face up on the table in front of you. &lt;br/&gt;-    You can have a maximum of 5 improvements.&lt;br/&gt;&lt;br/&gt;5.   Income Phase&lt;br/&gt;-    You must either play an income card or initiate a random income sequence. &lt;br/&gt;-    When playing a restaurant income card all restaurants of that type earn income. &lt;br/&gt;They gain 1 coin for every adjacent (orthogonal or diagonal) district.  When playing a district income card all restaurants adjacent to that type of district earn 1 coin each. &lt;br/&gt;All players earn income, not just the active player. &lt;br/&gt;-   To initiate a random income sequence roll 2D8 to get a random space on the board. If that space is a restaurant, that restaurant earns income for each adjacent district. If that space is a district, each adjacent restaurant earns 1 coin. &lt;br/&gt;-   If you have the only restaurants of a given type on the board they gain 1 star.  All restaurants start with a base rating of 1 star.  Certain Improvements and bonuses increase the number of stars. When a restaurant receives income multiply by its star rating to get the number of coins it earns.&lt;br/&gt;&lt;br/&gt;End Phase&lt;br/&gt;Discard cards in your hand in excess of 4.&lt;br/&gt;&lt;br/&gt;The game ends immediately when one of the following happens: &lt;br/&gt;-    Any player runs out of tokens to use.&lt;br/&gt;-    All restaurants of a single type are built.&lt;br/&gt;-    Players go through the deck twice. &lt;br/&gt;The player with the most coins at the end of the game wins.&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1029">City Building</boardgamecategory>
+															<boardgameversion objectid="359447">First Edition</boardgameversion>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="810">Lloyd Krassner</boardgamedesigner>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+																						<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgamepublisher objectid="873">Warp Spawn Games</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+
+			
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>0</usersrated>
+					<average>0</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>1</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>
