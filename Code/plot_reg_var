@@ -7,16 +7,21 @@ Created on Sat Jun  9 16:45:43 2018
 """
 
 import pandas as pd
+import pickle
 from sklearn import datasets, linear_model
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
+fileObject = open('Data/box_colors','rb')
+box_colors = pickle.load(fileObject)
+fileObject.close()
+
 #plot x var- check for shape and collinearity
 #plot y var
-num_bins = 500
-counts, bins, patches = plt.hist(success['users_per_yr'].dropna(), num_bins, range = [0, 200])
-plt.ylim(0, 500)
-plt.show()
+#num_bins = 500
+#counts, bins, patches = plt.hist(success['users_per_yr'].dropna(), num_bins, range = [0, 200])
+#plt.ylim(0, 500)
+#plt.show()
 
 #merge box_colors with success
 all_var = pd.merge(box_colors, success, how = 'inner', on = 'id')
@@ -30,18 +35,23 @@ color_dummies_mat['dummy_orange'] = color_dummies['orange']
 color_dummies_mat['dummy_purple'] = color_dummies['purple']
 color_dummies_mat['dummy_green'] = color_dummies['green']
 color_dummies_mat['dummy_yellow'] = color_dummies['yellow']
+#
+#ids = [d['id'] for d in compiled_info]
+#ratings = [d['rating'] for d in compiled_info]
+#rating_vars = pd.DataFrame()
+#rating_vars['id'] = ids
+#rating_vars['ratings'] = ratings
 
-ids = [d['id'] for d in compiled_info]
-ratings = [d['rating'] for d in compiled_info]
-rating_vars = pd.DataFrame()
-rating_vars['id'] = ids
-rating_vars['ratings'] = ratings
-np.asscalar(rating_vars)
-[type(rating_vars['id'].item()) for i in rating_vars]
+success_slim = pd.DataFrame(columns = ['id','users_per_yr'])
+success_slim['id'] = success['id']
+success_slim['users_per_yr']= success['users_per_yr']
 
-all_var_success = pd.merge(all_var, rating_vars, on = 'id', how = 'inner')
+#np.asscalar(rating_vars)
+#[type(rating_vars['id'].item()) for i in rating_vars]
 
-all_var_clean = clean_dataset(all_var)
+all_var_success = pd.merge(all_var, success_slim, on = 'id', how = 'inner')
+
+all_var_clean = clean_dataset(all_var_success)
 test = pd.DataFrame.plot(all_var)
 all_var.plot.scatter('saturation', 'users_per_yr')
 all_var.plot.bar('simple_color', 'users_per_yr')
@@ -51,13 +61,13 @@ all_var['simple_color'].plot.box()
 all_var['users_per_yr'].groupby(all_var['simple_color']).groups.keys()
 all_var.groupby('simple_color')['users_per_yr'].mean()
 
-color_dummies = pd.get_dummies(all_var['simple_color'])
+color_dummies = pd.get_dummies(all_var_success['simple_color'])
 
 #DF of predictor vars
 Xvars = pd.DataFrame()
 #Xvars['simple_color'] = all_var['simple_color']
-Xvars['saturation'] = all_var['saturation']
-Xvars['red'] = all_var['mean_red']
+Xvars['saturation'] = all_var_success['saturation']
+#Xvars['red'] = all_var_success['mean_red']
 
 Xvars = Xvars.join(color_dummies)
 Xvars_mat = Xvars.as_matrix().astype(np.float)
@@ -72,7 +82,7 @@ def clean_dataset(df):
 Xvars_clean = clean_dataset(Xvars)
 users_clean = clean_dataset(pd.DataFrame(all_var['users_per_yr']))
 
-X_train, X_test, y_train, y_test = train_test_split(Xvars_clean, , test_size = 0.2)
+X_train, X_test, y_train, y_test = train_test_split(Xvars, all_var_clean['users_per_yr_y'], test_size = 0.2)
 print(X_train.shape)
 
 lm = linear_model.LinearRegression()
