@@ -13,7 +13,7 @@ def simplify_color(color_name):
         return 'orange'
     elif 'yellow' in color_name:
         return 'yellow'
-    elif 'green' in color_name:
+    elif 'green' in color_name or 'olivedrab' in color_name:
         return 'green'
     elif 'blue' in color_name:
         return 'blue'
@@ -21,7 +21,7 @@ def simplify_color(color_name):
         return 'purple'
     elif 'brown' in color_name or 'khaki' in color_name or 'tan' in color_name or 'peru':
         return 'brown'
-    elif 'grey' in color_name or 'olivedrab':
+    elif 'grey' in color_name:
         return 'grey'
     elif 'white' in color_name:
         return 'white'
