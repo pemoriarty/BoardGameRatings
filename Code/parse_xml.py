@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup as bs
 import xmltodict
 import pickle
 
-game_ids = range(137000, 254656)
+game_ids = range(254656)
 cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 cat_ids = []
 categories = []

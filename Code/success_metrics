@@ -23,7 +23,11 @@ for game in range(n_games):
     users_tmp = compiled_info[game]['no_owned']
     try:
         users_per_year = int(users_tmp)/(2018-int(year_tmp))
-    except TypeError:
+    except (TypeError, ZeroDivisionError):
         users_per_year = None
         
     success.loc[len(success)] = [id_tmp, year_tmp, users_tmp, users_per_year]
+    
+fileObject  = open("Data/success", 'wb')
+pickle.dump(success, fileObject)
+fileObject.close()

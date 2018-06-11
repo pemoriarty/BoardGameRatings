@@ -26,8 +26,9 @@ fileObject.close()
 #merge box_colors with success
 all_var = pd.merge(box_colors, success, how = 'inner', on = 'id')
 
-color_dummies_mat = []
+color_dummies_mat = pd.DataFrame()
 color_dummies = pd.get_dummies(box_colors['simple_color'])
+color_dummies_mat['id'] = box_colors['id']
 color_dummies_mat['dummy_blue'] = color_dummies['blue']
 color_dummies_mat['dummy_red'] = color_dummies['red']
 color_dummies_mat['dummy_brown'] = color_dummies['brown']
@@ -42,14 +43,14 @@ color_dummies_mat['dummy_yellow'] = color_dummies['yellow']
 #rating_vars['id'] = ids
 #rating_vars['ratings'] = ratings
 
-success_slim = pd.DataFrame(columns = ['id','users_per_yr'])
-success_slim['id'] = success['id']
-success_slim['users_per_yr']= success['users_per_yr']
+#success_slim = pd.DataFrame(columns = ['id','users_per_yr'])
+#success_slim['id'] = success['id']
+#success_slim['users_per_yr']= success['users_per_yr']
 
 #np.asscalar(rating_vars)
 #[type(rating_vars['id'].item()) for i in rating_vars]
 
-all_var_success = pd.merge(all_var, success_slim, on = 'id', how = 'inner')
+#all_var_success = pd.merge(all_var, success_slim, on = 'id', how = 'inner')
 
 all_var_clean = clean_dataset(all_var_success)
 test = pd.DataFrame.plot(all_var)
