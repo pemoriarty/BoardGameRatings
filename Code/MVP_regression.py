@@ -13,21 +13,44 @@ import statsmodels.api as sm
 from sklearn import datasets, linear_model
 from sklearn.model_selection import train_test_split
 
+file_name = "/media/pamela/Stuff/compiled_info"
+fileObject = open(file_name,'rb') 
+pickle.dump(compiled_info,fileObject)   
+fileObject.close()   
 #to_drop = [compiled_info[game]['id'] for game in range(len(compiled_info)) if compiled_info[game]['complexity'] == 0]
+#del compiled_info[43610]
+
+all_games = compiled_info.deepcopy()
+idx_to_del = []
+for i in range(len(compiled_info)):
+    if all_games[i]['complexity'] == '0' or all_games[i]['age'] == '':
+        idx_to_del.append(i)
+
+    
+for i in range(len(idx_to_del)-1,0, -1):       
+    del compiled_info[idx_to_del[i]]
+        
 
 ages = [compiled_info[game]['age'] for game in range(len(compiled_info))]
 ages = list(map(float, ages))
-complexities = list(map(float, [compiled_info[game]['complexity'] for game in range(len(compiled_info))]))
+complexities =  [compiled_info[game]['complexity'] for game in range(len(compiled_info))]
+complexities = list(map(float, complexities))
+
+for i in range(len(ages)):
+    try: 
+        ages[i] = float(ages[i])
+    except ValueError:
+        print(i)
 
 nmech = [len(compiled_info[game]['mechanics']) for game in range(len(compiled_info))]
-nmech = list(map(float, nmech))
+nmech = list(map(float, nmech[-43610]))
 
 nplayerrange = [int(compiled_info[game]['maxplayers']) - int(compiled_info[game]['minplayers']) for game in range(len(compiled_info))]
 
 is_strategy = ['Strategy Games' in compiled_info[game]['subdomains'] for game in range(len(compiled_info))]
 is_party = ['Party Game' in compiled_info[game]['categories'] for game in range(len(compiled_info))]
-strat_bool = np.array(is_strategy) * 1
-party_bool = np.array(is_party) * 1
+strat_bool = np.array(is_strategy[-43610]) * 1
+party_bool = np.array(is_party[-43610]) * 1
 
 all_vars = pd.DataFrame()
 all_vars['ages'] = ages

@@ -7,9 +7,9 @@ Created on Fri Jun  8 08:41:45 2018
 @purpose: parse xmls
 """
 from bs4 import BeautifulSoup as bs
-import xmltodict
+#import xmltodict
 import pickle
-import lxml
+#import lxml
 
 game_ids = range(254656)
 #cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
@@ -26,7 +26,7 @@ compiled_info = []
 
 #loop_range = 254656-137000
 
-for id in range(1000):#game_ids:
+for id in game_ids:#game_ids:
     file_name = "BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"
     fileObject = open(file_name,'rb')  
     xml_content_tmp = fileObject.read ()
@@ -35,8 +35,13 @@ for id in range(1000):#game_ids:
     fileObject.close()
     if soup_tmp.find_all('description'):
         year = soup_tmp.find_all('yearpublished')[0].get_text()
+
         if year != '0':
-            name = soup_tmp.find_all('name')[0].get_text()
+            #print(str(id) + ' has a year ' + str(year))
+            try:
+                name = soup_tmp.find_all('name')[0].get_text()
+            except IndexError:
+                name = None
             minplayers = soup_tmp.find_all('minplayers')[0].get_text()    
             maxplayers = soup_tmp.find_all('maxplayers')[0].get_text()   
             playtime = soup_tmp.find_all('playingtime')[0].get_text()    
@@ -44,7 +49,10 @@ for id in range(1000):#game_ids:
             maxplaytime = soup_tmp.find_all('maxplaytime')[0].get_text()    
             age = soup_tmp.find_all('age')[0].get_text()
             description = soup_tmp.find_all('description')[0].get_text()
-            image = soup_tmp.find_all('img')[0].get_text()
+            try:
+                image = soup_tmp.find_all('img')[0].get_text()
+            except IndexError:
+                image = None
             users_rated = soup_tmp.find_all('usersrated')[0].get_text()
             average_rating = soup_tmp.find_all('average')[0].get_text()
             bayes_rating = soup_tmp.find_all('bayesaverage')[0].get_text()
@@ -83,52 +91,36 @@ for id in range(1000):#game_ids:
                 subdomain_list = []
                 for idx in range(nsubdomains):#check if it's a party game
                     subdomain_list.append(soup_tmp.find_all('boardgamesubdomain')[idx].get_text())
-            
-        #        
-            #if cat_to_pull in cat_tmp:    
-        #            cat_ids.append(id)
-        #            game_names.append(soup_tmp.find_all('name')[0].get_text())
-        #            xml_tmp = xmltodict.parse(xml_content_tmp)
-        #        
-        #            users_tmp = (xml_tmp['boardgames']['boardgame']['statistics']['ratings']['usersrated'])
-        #            rating_tmp = (xml_tmp['boardgames']['boardgame']['statistics']['ratings']['average'])
-        #            year_tmp = (xml_tmp['boardgames']['boardgame']['yearpublished'])
-        #            num_owned_tmp = (xml_tmp['boardgames']['boardgame']['statistics']['ratings']['owned'])
-        #            #if len(soup_tmp.find_all('image')) > 0:
-        #            try:
-        #                img_tmp = xml_tmp['boardgames']['boardgame']['image']
-        #            except KeyError:
-        #                img_tmp = None
                     
-                    game_tmp = {'id': id,
-                                'name': name,
-                                'year': year,
-                                'minplayers': minplayers,
-                                'maxplayers': maxplayers,
-                                'mintime': minplaytime,
-                                'maxtime': maxplaytime, 
-                                'playtime': playtime,
-                                'age': age,
-                                'description': description,
-                                'users_rated': users_rated,
-                                'average_rating': average_rating,
-                                'bayes_rating': bayes_rating,
-                                'sd_rating': sd_rating,
-                                'complexity': complexity,
-                                'categories': cat_list,
-                                'subdomains': subdomain_list,
-                                'mechanics': mech_list,
-                                'publisher': publisher_list
-                                }
+            game_tmp = {'id': id,
+                    'name': name,
+                    'year': year,
+                    'minplayers': minplayers,
+                    'maxplayers': maxplayers,
+                    'mintime': minplaytime,
+                    'maxtime': maxplaytime, 
+                    'playtime': playtime,
+                    'age': age,
+                    'description': description,
+                    'users_rated': users_rated,
+                    'average_rating': average_rating,
+                    'bayes_rating': bayes_rating,
+                    'sd_rating': sd_rating,
+                    'complexity': complexity,
+                    'categories': cat_list,
+                    'subdomains': subdomain_list,
+                    'mechanics': mech_list,
+                    'publisher': publisher_list
+                    }
                     
-    
+            print('game ' + str(id) + ' has been processed')
                 #[id, rating_tmp, users_tmp, year_tmp, num_owned_tmp, cat_tmp, img_tmp]
             
-                compiled_info.append(game_tmp)
+            compiled_info.append(game_tmp)
 
 #file_name = "/media/pamela/Stuff/BoardGameXMLs/compiled_info"# + str(game_ids[id]) + ".txt"
 
-file_name = "Data/compiled_info"
+file_name = "/media/pamela/Stuff/xmls_parsed.pickle"
 fileObject = open(file_name,'wb') 
 pickle.dump(compiled_info,fileObject)   
 fileObject.close()    
