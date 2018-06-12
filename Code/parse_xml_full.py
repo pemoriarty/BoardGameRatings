@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup as bs
 import pickle
 #import lxml
 
-game_ids = range(1000)
+game_ids = range(5000)
 #cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 #cat_ids = []
 #categories = []
@@ -42,23 +42,73 @@ for game in game_ids:#game_ids:
                 name = soup_tmp.find_all('name')[0].get_text()
             except IndexError:
                 name = None
-            minplayers = float(soup_tmp.find_all('minplayers')[0].get_text())  
-            maxplayers = float(soup_tmp.find_all('maxplayers')[0].get_text())   
-            playtime = float(soup_tmp.find_all('playingtime')[0].get_text())    
-            minplaytime = float(soup_tmp.find_all('minplaytime')[0].get_text())   
-            maxplaytime = float(soup_tmp.find_all('maxplaytime')[0].get_text())    
-            age = float(soup_tmp.find_all('age')[0].get_text())
+            
+            try:
+                minplayers = float(soup_tmp.find_all('minplayers')[0].get_text())  
+            except ValueError:
+                minplayers = None
+            
+            try:
+                maxplayers = float(soup_tmp.find_all('maxplayers')[0].get_text())   
+            except ValueError:
+                maxplayers = None
+                
+            try:
+                playtime = float(soup_tmp.find_all('playingtime')[0].get_text())    
+            except ValueError:
+                playtime = None
+            
+            try:
+                minplaytime = float(soup_tmp.find_all('minplaytime')[0].get_text())   
+            except ValueError:
+                minplaytime = None
+                
+            try:
+                maxplaytime = float(soup_tmp.find_all('maxplaytime')[0].get_text())    
+            except ValueError:
+                maxplaytime = None
+                
+            try:
+                age = float(soup_tmp.find_all('age')[0].get_text())
+            except ValueError:
+                age = None
+
             description = soup_tmp.find_all('description')[0].get_text()
+            
             try:
                 image = soup_tmp.find_all('img')[0].get_text()
             except IndexError:
                 image = None
-            users_rated = float(soup_tmp.find_all('usersrated')[0].get_text())
-            average_rating = float(soup_tmp.find_all('average')[0].get_text())
-            bayes_rating = float(soup_tmp.find_all('bayesaverage')[0].get_text())
-            sd_rating = float(soup_tmp.find_all('stddev')[0].get_text())
-            complexity = float(soup_tmp.find_all('averageweight')[0].get_text())
-            num_comp = float(soup_tmp.find_all('numweights')[0].get_text())
+            
+            try:
+                users_rated = float(soup_tmp.find_all('usersrated')[0].get_text())
+            except ValueError:
+                users_rated = None
+            
+            try:
+                average_rating = float(soup_tmp.find_all('average')[0].get_text())
+            except ValueError:
+                average_rating = None
+                
+            try:
+                bayes_rating = float(soup_tmp.find_all('bayesaverage')[0].get_text())
+            except ValueError:
+                bayes_rating = None
+                
+            try:
+                sd_rating = float(soup_tmp.find_all('stddev')[0].get_text())
+            except ValueError:
+                sd_rating = None
+                
+            try:
+                complexity = float(soup_tmp.find_all('averageweight')[0].get_text())
+            except ValueError:
+                complexity = None
+                
+            try:
+                num_comp = float(soup_tmp.find_all('numweights')[0].get_text())
+            except ValueError:
+                num_comp = None
             
             #category = soup_tmp.find_all('boardgamecategory')[0].get_text()
             #mechanic = soup_tmp.find_all('boardgamemechanic')
