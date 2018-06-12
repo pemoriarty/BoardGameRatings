@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup as bs
 import pickle
 #import lxml
 
-game_ids = range(254656)
+game_ids = range(1000)
 #cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 #cat_ids = []
 #categories = []
@@ -26,10 +26,10 @@ compiled_info = []
 
 #loop_range = 254656-137000
 
-for id in game_ids:#game_ids:
-    file_name = "BoardGameXMLs/xml_info" + str(game_ids[id]) + ".txt"
-    fileObject = open(file_name,'rb')  
-    xml_content_tmp = fileObject.read ()
+for game in game_ids:#game_ids:
+    file_name = "BoardGameXMLs/xml_info" + str(game_ids[game]) + ".txt"
+    fileObject = open(file_name, 'rb')
+    xml_content_tmp = fileObject.read()
 
     soup_tmp = bs(xml_content_tmp, features = 'html5lib')#parse file
     fileObject.close()
@@ -42,22 +42,23 @@ for id in game_ids:#game_ids:
                 name = soup_tmp.find_all('name')[0].get_text()
             except IndexError:
                 name = None
-            minplayers = soup_tmp.find_all('minplayers')[0].get_text()    
-            maxplayers = soup_tmp.find_all('maxplayers')[0].get_text()   
-            playtime = soup_tmp.find_all('playingtime')[0].get_text()    
-            minplaytime = soup_tmp.find_all('minplaytime')[0].get_text()    
-            maxplaytime = soup_tmp.find_all('maxplaytime')[0].get_text()    
-            age = soup_tmp.find_all('age')[0].get_text()
+            minplayers = float(soup_tmp.find_all('minplayers')[0].get_text())  
+            maxplayers = float(soup_tmp.find_all('maxplayers')[0].get_text())   
+            playtime = float(soup_tmp.find_all('playingtime')[0].get_text())    
+            minplaytime = float(soup_tmp.find_all('minplaytime')[0].get_text())   
+            maxplaytime = float(soup_tmp.find_all('maxplaytime')[0].get_text())    
+            age = float(soup_tmp.find_all('age')[0].get_text())
             description = soup_tmp.find_all('description')[0].get_text()
             try:
                 image = soup_tmp.find_all('img')[0].get_text()
             except IndexError:
                 image = None
-            users_rated = soup_tmp.find_all('usersrated')[0].get_text()
-            average_rating = soup_tmp.find_all('average')[0].get_text()
-            bayes_rating = soup_tmp.find_all('bayesaverage')[0].get_text()
-            sd_rating = soup_tmp.find_all('stddev')[0].get_text()
-            complexity = soup_tmp.find_all('averageweight')[0].get_text()
+            users_rated = float(soup_tmp.find_all('usersrated')[0].get_text())
+            average_rating = float(soup_tmp.find_all('average')[0].get_text())
+            bayes_rating = float(soup_tmp.find_all('bayesaverage')[0].get_text())
+            sd_rating = float(soup_tmp.find_all('stddev')[0].get_text())
+            complexity = float(soup_tmp.find_all('averageweight')[0].get_text())
+            num_comp = float(soup_tmp.find_all('numweights')[0].get_text())
             
             #category = soup_tmp.find_all('boardgamecategory')[0].get_text()
             #mechanic = soup_tmp.find_all('boardgamemechanic')
@@ -92,7 +93,7 @@ for id in game_ids:#game_ids:
                 for idx in range(nsubdomains):#check if it's a party game
                     subdomain_list.append(soup_tmp.find_all('boardgamesubdomain')[idx].get_text())
                     
-            game_tmp = {'id': id,
+            game_tmp = {'id':game,
                     'name': name,
                     'year': year,
                     'minplayers': minplayers,
@@ -107,13 +108,14 @@ for id in game_ids:#game_ids:
                     'bayes_rating': bayes_rating,
                     'sd_rating': sd_rating,
                     'complexity': complexity,
+                    'num_comp': num_comp,
                     'categories': cat_list,
                     'subdomains': subdomain_list,
                     'mechanics': mech_list,
                     'publisher': publisher_list
                     }
                     
-            print('game ' + str(id) + ' has been processed')
+            print('game ' + str(game) + ' has been processed')
                 #[id, rating_tmp, users_tmp, year_tmp, num_owned_tmp, cat_tmp, img_tmp]
             
             compiled_info.append(game_tmp)
