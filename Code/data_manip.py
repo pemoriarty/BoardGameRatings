@@ -19,6 +19,7 @@ import scipy.special
 
 #file_name = "/media/pamela/Stuff/compiled_info"
 file_name = "/media/pamela/Stuff/xmls_parsed"
+file_name = "/home/pamela/Dropbox/xmls_parsed"
 fileObject = open(file_name, 'rb')
 with open(file_name, 'rb') as f:
     full_info = pickle.load(f)
@@ -63,6 +64,7 @@ party_bool = np.array(is_party) * 1
 
 
 sub_df = pd.DataFrame()
+sub_df['id'] = df_info2['id']
 sub_df['ages'] = df_info2['age']
 sub_df['nmech'] = nmech
 sub_df['is_party'] = party_bool
@@ -81,8 +83,22 @@ for idx in range(len(bounded_y)):
 #continuous_y = scipy.special.logit(np.asarray(bounded_y))
 
 sub_df['response'] = continuous_y
+sub_df.reset_index(drop = 0, inplace = True)
 
 
+ages_0_idx = sub_df['ages'][sub_df['ages'] == 0].index.values
+
+sub_df2 = sub_df.copy(deep = True)
+
+for i in range(len(ages_0_idx)-1, -1, -1):
+    #del sub_df2[ages_0_idx[i]]
+    sub_df2.drop(ages_0_idx[i], inplace = True)
+
+
+#remove nan's
+    
+    
+    
 #ages = np.asarray([red_info[game]['age'] for game in range(len(red_info))])
 
 #ages = [np.nan if v is None else v for v in ages]
@@ -139,20 +155,14 @@ party_dummies = pd.get_dummies(all_vars['party'])
 #look at ages
 ##################################
 plt.figure()
-plt.hist(ages)
+plt.hist(sub_df2['ages'])
 
-all_vars['ages'].max()
 #all_vars[all_vars['ages'] == 0].index()
 #ages[np.isnan(ages)]
 
-plt.scatter(ages_tmp, continuous_y == 1.8421)
-continuous_y)
+plt.scatter(sub_df2['ages'], sub_df2['response'])
+
 #feature engineering: turn ages into 3 categories: 0, =< 12, > 12
-ages_tmp = np.asarray(all_vars['ages'])
-ages_tmp = np.asarray(ages)
-
-all(ages_tmp == 0)
-
 #idx_0 = []
 ##idx_0 = [idx_0.append(i) for i in range(len(ages_tmp)) if ages_tmp[i] == 0]
 #for i in range(len(ages_tmp)):
