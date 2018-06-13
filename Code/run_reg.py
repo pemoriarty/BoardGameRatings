@@ -9,6 +9,7 @@ from sklearn import datasets, linear_model
 from sklearn.model_selection import train_test_split
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
+import scipy.stats as stats
 #continuous_y ~ ages_dummies + party_dummies + nmech
 
 Xvars = pd.DataFrame()
@@ -42,7 +43,41 @@ train.reset_index(inplace = True)
 train.drop(test_idx, axis = 0, inplace = True)
 
 
-form = "response ~ ages + nmech + party"
+form = "response ~ ages + nmech + C(party)"
 model_r = smf.ols(formula = form, data = train, missing = 'drop').fit()
 print(model_r.summary())
 
+res = model_r.resid_pearson
+fits = model_r.fittedvalues
+
+fig, ax = plt.subplots()
+ax.scatter(fits, res)
+ax.hlines(0, 0, 1)
+
+fig, ax = plt.subplots(figsize=(8,6))
+fig = sm.graphics.influence_plot(model_r, ax=ax)
+
+fig, ax = plt.subplots(figsize=(8,6))
+fig = sm.graphics.plot_leverage_resid2(model_r, ax=ax)
+
+fig, ax = plt.subplots(figsize=(8,6))
+fig = sm.graphics.plot_fit(model_r, 3, ax=ax)
+
+fig = sm.qqplot(res, stats.t, fit=True, line='45')
+
+
+##predict test data
+predictions = model_r.predict(test)
+#test2 = pd.DataFrame(columns = ['ages', 'nmech', 'party'])
+new_data = pd.DataFrame([13, 4, 1], columns = ['ages', 'nmech', 'party'])
+new_data = {'ages': 13.0, 'nmech': 4, 'party': 1}
+test2 = pd.DataFrame(new_data, index = [0])
+model_r.predict(test2)
+
+plt.figure()
+plt.scatter(test['response'], predictions)
+
+file_name = '/home/pamela/Documents/model_fit_cached'
+fileObject = open(file_name, 'wb')
+pickle.dump(model_r, fileObject)
+fileObject.close()
