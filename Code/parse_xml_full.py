@@ -9,6 +9,7 @@ Created on Fri Jun  8 08:41:45 2018
 from bs4 import BeautifulSoup as bs
 #import xmltodict
 import pickle
+import numpy as np
 #import lxml
 
 game_ids = range(5000)
@@ -41,74 +42,74 @@ for game in game_ids:#game_ids:
             try:
                 name = soup_tmp.find_all('name')[0].get_text()
             except IndexError:
-                name = None
+                name = np.nan
             
             try:
                 minplayers = float(soup_tmp.find_all('minplayers')[0].get_text())  
             except ValueError:
-                minplayers = None
+                minplayers = np.nan
             
             try:
                 maxplayers = float(soup_tmp.find_all('maxplayers')[0].get_text())   
             except ValueError:
-                maxplayers = None
+                maxplayers = np.nan
                 
             try:
                 playtime = float(soup_tmp.find_all('playingtime')[0].get_text())    
             except ValueError:
-                playtime = None
+                playtime = np.nan
             
             try:
                 minplaytime = float(soup_tmp.find_all('minplaytime')[0].get_text())   
             except ValueError:
-                minplaytime = None
+                minplaytime = np.nan
                 
             try:
                 maxplaytime = float(soup_tmp.find_all('maxplaytime')[0].get_text())    
             except ValueError:
-                maxplaytime = None
+                maxplaytime = np.nan
                 
             try:
                 age = float(soup_tmp.find_all('age')[0].get_text())
             except ValueError:
-                age = None
+                age = np.nan
 
             description = soup_tmp.find_all('description')[0].get_text()
             
             try:
                 image = soup_tmp.find_all('img')[0].get_text()
             except IndexError:
-                image = None
+                image = np.nan
             
             try:
                 users_rated = float(soup_tmp.find_all('usersrated')[0].get_text())
             except ValueError:
-                users_rated = None
+                users_rated = np.nan
             
             try:
                 average_rating = float(soup_tmp.find_all('average')[0].get_text())
             except ValueError:
-                average_rating = None
+                average_rating = np.nan
                 
             try:
                 bayes_rating = float(soup_tmp.find_all('bayesaverage')[0].get_text())
             except ValueError:
-                bayes_rating = None
+                bayes_rating = np.nan
                 
             try:
                 sd_rating = float(soup_tmp.find_all('stddev')[0].get_text())
             except ValueError:
-                sd_rating = None
+                sd_rating = np.nan
                 
             try:
                 complexity = float(soup_tmp.find_all('averageweight')[0].get_text())
             except ValueError:
-                complexity = None
+                complexity = np.nan
                 
             try:
                 num_comp = float(soup_tmp.find_all('numweights')[0].get_text())
             except ValueError:
-                num_comp = None
+                num_comp = np.nan
             
             #category = soup_tmp.find_all('boardgamecategory')[0].get_text()
             #mechanic = soup_tmp.find_all('boardgamemechanic')
@@ -172,8 +173,8 @@ for game in game_ids:#game_ids:
 
 #file_name = "/media/pamela/Stuff/BoardGameXMLs/compiled_info"# + str(game_ids[id]) + ".txt"
 
-file_name = "/media/pamela/Stuff/xmls_parsed2.pickle"
-file_name = "/home/pamela/Documents/xmls_parsed"
+file_name = "/media/pamela/Stuff/xmls_parsed"
+#file_name = "/home/pamela/Documents/xmls_parsed"
 fileObject = open(file_name,'wb') 
 pickle.dump(compiled_info,fileObject)   
 fileObject.close()    

@@ -18,20 +18,21 @@ import scipy.special
 #from sklearn.model_selection import train_test_split
 
 #file_name = "/media/pamela/Stuff/compiled_info"
-file_name = '/home/pamela/Documents/xmls_parsed'
+file_name = "/media/pamela/Stuff/xmls_parsed"
 fileObject = open(file_name, 'rb')
 with open(file_name, 'rb') as f:
     full_info = pickle.load(f)
 fileObject.close()
 
 #full_info = list(compiled_info)
-#remove games without a complexity rating or with fewer than 10 people having rated it
+
+#remove games without a complexity rating or with fewer than 20 people having rated it
 red_info = list(full_info)
 
 idx_to_del = []
 for i in range(len(red_info)):
     try:
-        if int(red_info[i]['num_comp']) < 20:
+        if red_info[i]['num_comp'] < 20 or red_info[i]['complexity'] == 0:
             idx_to_del.append(i)
     except TypeError:
         idx_to_del.append(i)
@@ -39,47 +40,77 @@ for i in range(len(red_info)):
 for i in range(len(idx_to_del)-1, 0, -1):
     del red_info[idx_to_del[i]]
 
-#pull out the variables I'm using
-ages = [red_info[game]['age'] for game in range(len(red_info))]
-#ages = [np.nan if v is None else v for v in ages]
-complexities = [red_info[game]['complexity'] for game in range(len(red_info))]
-nmech = [len(red_info[game]['mechanics']) for game in range(len(red_info))]
-is_strategy = ['Strategy Games' in red_info[game]['subdomains'] for game in range(len(red_info))]
-is_party = ['Party Game' in red_info[game]['categories'] for game in range(len(red_info))]
-strat_bool = np.array(is_strategy) * 1
+#move all variables to a dataframe
+df_info = pd.DataFrame()    
+for game in range(len(red_info)):
+    df_tmp = pd.DataFrame.from_dict(red_info[game], orient = 'index')
+    df_info = pd.concat([df_info, df_tmp], axis = 1)
+
+df_info.index.rename('attribute', inplace = True)
+df_info2 = df_info.transpose().copy()
+df_info2
+#df_info2['std_comp'] = 
+#test4.loc['categories']
+#np.asarray(test4.loc['categories'])[0]
+#test3.iloc[0]
+#test4.T
+
+
+#make variables for regression: nmech, is_party
+nmech = [len(np.asarray(df_info2['mechanics'])[game]) for game in range(df_info2.shape[0])]
+is_party = ['Party Game' in np.asarray(df_info2['categories'])[game] for game in range(df_info2.shape[0])]
 party_bool = np.array(is_party) * 1
 
-df_info = pd.DataFrame()
-df_info['ages'] = ages
-df_info['complexities'] = complexities
-df_info['nmech'] = nmech
-df_info['is_strategy'] = strat_bool
-df_info['is_party'] = party_bool
+
+sub_df = pd.DataFrame()
+sub_df['ages'] = df_info2['age']
+sub_df['nmech'] = nmech
+sub_df['is_party'] = party_bool
+sub_df['complexity'] = df_info2['complexity']
+
+bounded_y = np.array((df_info2['complexity'] - 1)/4)
+#bounded_y[bounded_y == 0]
+#bounded_y[bounded_y == 1]
+bounded_y[bounded_y == 0] = .001
+bounded_y[bounded_y == 1] = 0.99
+
+continuous_y = np.empty([len(bounded_y), 1])
+for idx in range(len(bounded_y)):
+    continuous_y[idx] = (scipy.special.logit(bounded_y[idx]))
+    
+#continuous_y = scipy.special.logit(np.asarray(bounded_y))
+
+sub_df['response'] = continuous_y
 
 
-idx_to_del = []
-for i in range(len(df_info)):
-    try:
-        if df_info['complexities'][i] == 0 or df_info['ages'][i] == 0:
-            idx_to_del.append(i)
-    except NameError:
-        idx_to_del.append(i)
+#ages = np.asarray([red_info[game]['age'] for game in range(len(red_info))])
 
-for i in range(len(idx_to_del)-1, 0, -1):
-    del df_info[idx_to_del[i]]
+#ages = [np.nan if v is None else v for v in ages]
+#complexities = [red_info[game]['complexity'] for game in range(len(red_info))]
+#nmech = [len(red_info[game]['mechanics']) for game in range(len(red_info))]
+#is_strategy = ['Strategy Games' in red_info[game]['subdomains'] for game in range(len(red_info))]
+#is_party = ['Party Game' in red_info[game]['categories'] for game in range(len(red_info))]
+#strat_bool = np.array(is_strategy) * 1
+#party_bool = np.array(is_party) * 1
+#
+#df_info = pd.DataFrame()
+#df_info['ages'] = ages
+#df_info['complexities'] = complexities
+#df_info['nmech'] = nmech
+#df_info['is_strategy'] = strat_bool
+#df_info['is_party'] = party_bool
 
 
-
-
-
-##make a dataframe of the cleaned and processed variables I'm using
-#all_vars = pd.DataFrame()
-#all_vars['ages'] = ages
-#all_vars['nmech'] = nmech
-#all_vars['strategy'] = strat_bool
-#all_vars['party'] = party_bool
-#all_vars['complexity'] = complexities
-##all_vars['nplayerrange'] = nplayerrange
+#idx_to_del = []
+#for i in range(len(df_info)):
+#    try:
+#        if df_info['complexities'][i] == 0 or df_info['ages'][i] == 0:
+#            idx_to_del.append(i)
+#    except NameError:
+#        idx_to_del.append(i)
+#
+#for i in range(len(idx_to_del)-1, 0, -1):
+#    del df_info[idx_to_del[i]]
 
 
 all_no0 = all_vars[all_vars['complexity'] != 0]
