@@ -172,7 +172,8 @@ for game in game_ids:#game_ids:
 
 #file_name = "/media/pamela/Stuff/BoardGameXMLs/compiled_info"# + str(game_ids[id]) + ".txt"
 
-file_name = "/media/pamela/Stuff/xmls_parsed.pickle"
+file_name = "/media/pamela/Stuff/xmls_parsed2.pickle"
+file_name = "/home/pamela/Documents/xmls_parsed"
 fileObject = open(file_name,'wb') 
 pickle.dump(compiled_info,fileObject)   
 fileObject.close()    
