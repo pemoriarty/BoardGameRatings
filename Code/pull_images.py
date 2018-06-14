@@ -10,15 +10,15 @@ import urllib
 
 image_dir = "/media/pamela/Stuff/game_images/"
 
-image_dir = "/home/pamela/game_images"
-n_games = len(df_info2)
-for n in range(df_info2.shape[0]):
-    id_tmp = np.asarray(df_info2['id'])[0]
+#image_dir = "/home/pamela/game_images"
+n_games = df_info2.shape[0]
+for n in range(n_games):
+    id_tmp = np.asarray(df_info2['id'])[n]
     file_name_tmp = image_dir + str(id_tmp) + ".jpg"
     try:
-        urllib.request.urlretrieve(np.asarray(df_info2['img'])[n], file_name_tmp)
-    except (TypeError, urllib.error.HTTPError):
-        print(compiled_info[n]['image'])
+        urllib.request.urlretrieve(np.asarray(df_info2['image'])[n], file_name_tmp)
+    except (TypeError, ValueError,urllib.error.HTTPError):
+        print(np.asarray(df_info2['image'])[n])
         print(str(n))
 
 

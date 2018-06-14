@@ -5,27 +5,28 @@ Created on Tue Jun 12 16:36:27 2018
 
 @author: pamela
 """
-from sklearn import datasets, linear_model
-from sklearn.model_selection import train_test_split
+from sklearn import datasets, linear_model, metrics
+from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 import scipy.stats as stats
-#continuous_y ~ ages_dummies + party_dummies + nmech
 
 Xvars = pd.DataFrame()
 Xvars['ages'] = pd.to_numeric(sub_df2['ages'])
 Xvars['nmech'] = sub_df2['nmech']
 Xvars['party'] = sub_df2['is_party']
 Xvars['strategy'] = sub_df2['is_strategy']
-Xvars['nplayers'] = pd.to_numeric(sub_df2['nplayers'])
+Xvars['child'] = sub_df2['is_child']
+#Xvars['nplayers'] = pd.to_numeric(sub_df2['nplayers'])
 #Xvars = np.asarray(Xvars)
-Xvars['response'] = sub_df2['response']
-Xvars.reset_index(inplace = True)
+#Xvars['response'] = sub_df2['response']
+yvars = sub_df2['response']
+#yvars.reset_index(inplace = True)
 
 #Xvars = pd.concat([age_dummies, party_dummies, all_vars['nmech']], axis = 1)
 #X_train, X_test, y_train, y_test = train_test_split(Xvars,
 #                                                    sub_df2['response'], 
-                                                    test_size = 0.2)
+ #                                                   test_size = 0.2)
 #print(X_train.shape)
 #lm = linear_model.LinearRegression()
 #model = lm.fit(X_train, y_train)
@@ -35,18 +36,51 @@ Xvars.reset_index(inplace = True)
 
 #split data
 np.random.seed(100)
-num_test = int(np.floor(0.33 * Xvars.shape[0]))
-test_idx = np.sort(np.random.choice(range(Xvars.shape[0]), size = num_test, replace = False))
+###############sklearn####################
+index_nan = Xvars['ages'][np.isnan(Xvars['ages'])].index
+Xvars.drop(index_nan, axis = 0, inplace = True)
+yvars.drop(index_nan, axis = 0, inplace = True)
 
-test = Xvars.iloc[test_idx]
+X_train, X_test, y_train, y_test = train_test_split(Xvars, yvars, test_size=0.2)
+lm = linear_model.LinearRegression()
+model = lm.fit(X_train, y_train)
+model = lm.fit(Xvars, yvars)
+model.intercept_
+model.coef_
+model.score(X_train, y_train)
+model.score(X_test, y_test)
 
-train = Xvars.copy(deep = True)
-train.reset_index(inplace = True)
-train.drop(test_idx, axis = 0, inplace = True)
+predictions = lm.predict(X_test)
+
+###cross fold validation
+
+scores = cross_val_score(model, Xvars, yvars, cv=5)
+print('Cross-validated scores:', scores)
+
+predicted = cross_val_predict(model, Xvars, yvars, cv=5)
+metrics.accuracy_score(Xvars, predicted) 
 
 
-form = "response ~ ages + nmech + C(party) + C(strategy)"
-model_r = smf.ols(formula = form, data = train, missing = 'drop').fit()
+plt.figure()
+plt.scatter(yvars, predicted)
+#####################statsmodel below#################
+#num_test = int(np.floor(0.2 * Xvars.shape[0]))
+#test_idx = np.sort(np.random.choice(range(Xvars.shape[0]), size = num_test, replace = False))
+
+#test = Xvars.iloc[test_idx]
+
+#train = Xvars.copy(deep = True)
+#train.reset_index(inplace = True)
+#train.drop(test_idx, axis = 0, inplace = True)
+
+#
+#
+#index_nan = train['ages'][np.isnan(train['ages'])].index
+#train.drop(index_nan, axis = 0, inplace = True)
+
+full_vars = X_train.join(y_train)
+form = "response ~ ages + nmech + C(party) + C(strategy) + C(child)"
+model_r = smf.ols(formula = form, data = full_vars, missing = 'drop').fit()
 print(model_r.summary())
 
 res = model_r.resid_pearson
@@ -54,7 +88,23 @@ fits = model_r.fittedvalues
 
 fig, ax = plt.subplots()
 ax.scatter(fits, res)
-ax.hlines(0, 0, 1)
+ax.hlines(0, -5, 0)
+
+fig, ax = plt.subplots()
+ax.scatter(train['ages'], res)
+ax.hlines(0, 0, 18)
+
+fig, ax = plt.subplots()
+ax.scatter(train['nmech'], res)
+ax.hlines(0, 0, 10)
+
+fig, ax = plt.subplots()
+ax.scatter(train['party'], res)
+ax.hlines(0, 0, 18)
+
+fig, ax = plt.subplots()
+ax.scatter(train['strategy'], res)
+ax.hlines(0, 0, 18)
 
 fig, ax = plt.subplots(figsize=(8,6))
 fig = sm.graphics.influence_plot(model_r, ax=ax)

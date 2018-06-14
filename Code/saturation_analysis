@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun  8 11:02:52 2018
+
+@author: pamela
+@purpose: create dataframe of basic color attributes of each game box
+"""
+def saturation(image_file):
+    import matplotlib.image as mp
+    import matplotlib.colors
+    img_color = mp.imread(file_name)
+    if img_color.shape[2] == 3:
+        if not img_color is None:
+            HSV_img = matplotlib.colors.rgb_to_hsv(img_color)
+            sat = HSV_img[:,:,2].mean()
+            return sat
+
+def many_saturation(df_info2):
+    game_ids = range(df_info2.shape[0])
+    sat_all = pd.Series()
+    for game in game_ids:
+        id_tmp = np.asarray(df_info2['id'])[game]
+        #url_tmp = np.asarray(df_info2)]'image'][game]]
+        file_name = "/media/pamela/Stuff/game_images/" + str(id_tmp) + ".jpg"
+        try:
+           sat_tmp = saturation(file_name)
+        except FileNotFoundError:
+           sat_tmp = np.nan
+        sat_all.loc[sat_all.shape[0]] = (sat_tmp)
+        
+    return sat_all
+
+box_sat = many_saturation(df_info2)

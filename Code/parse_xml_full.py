@@ -12,7 +12,7 @@ import pickle
 import numpy as np
 #import lxml
 
-game_ids = range(5000)
+game_ids = range(254656)
 #cat_to_pull = "Party Game"#"Children's Game"#"Party Game"
 #cat_ids = []
 #categories = []
@@ -77,7 +77,7 @@ for game in game_ids:#game_ids:
             description = soup_tmp.find_all('description')[0].get_text()
             
             try:
-                image = soup_tmp.find_all('img')[0].get_text()
+                image = soup_tmp.find_all('thumbnail')[0].get_text()
             except IndexError:
                 image = np.nan
             
