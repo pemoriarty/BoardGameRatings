@@ -49,18 +49,26 @@ for game in range(len(red_info)):
 
 df_info.index.rename('attribute', inplace = True)
 df_info2 = df_info.transpose().copy()
-df_info2
+
+pub_string = pd.Series()
+for game in range(df_info2.shape[0]):
+    pub_string.loc[game] = (''.join(np.asarray(df_info2['publisher'])[game]))
+
+df_info2 = df_info2.assign(all_pub = (pub_string))#.Series().values)
+df_info2.columns
 #df_info2['std_comp'] = 
 #test4.loc['categories']
 #np.asarray(test4.loc['categories'])[0]
 #test3.iloc[0]
 #test4.T
-
-
 #make variables for regression: nmech, is_party
 nmech = [len(np.asarray(df_info2['mechanics'])[game]) for game in range(df_info2.shape[0])]
 is_party = ['Party Game' in np.asarray(df_info2['categories'])[game] for game in range(df_info2.shape[0])]
 party_bool = np.array(is_party) * 1
+is_strategy = ['Strategy Games' in np.asarray(df_info2['subdomains'])[game] for game in range(df_info2.shape[0])]
+strategy_bool = np.array(is_strategy) * 1
+is_german = ['Germany' in np.asarray(df_info2['all_pub'])[game] for game in range(df_info2.shape[0])]
+german_bool = np.array(is_german) * 1
 
 
 sub_df = pd.DataFrame()
@@ -69,6 +77,8 @@ sub_df['ages'] = df_info2['age']
 sub_df['nmech'] = nmech
 sub_df['is_party'] = party_bool
 sub_df['complexity'] = df_info2['complexity']
+sub_df['is_strategy'] = is_strategy
+sub_df['nplayers'] = player_range
 
 bounded_y = np.array((df_info2['complexity'] - 1)/4)
 #bounded_y[bounded_y == 0]
@@ -162,30 +172,11 @@ plt.hist(sub_df2['ages'])
 
 plt.scatter(sub_df2['ages'], sub_df2['response'])
 
-#feature engineering: turn ages into 3 categories: 0, =< 12, > 12
-#idx_0 = []
-##idx_0 = [idx_0.append(i) for i in range(len(ages_tmp)) if ages_tmp[i] == 0]
-#for i in range(len(ages_tmp)):
-#    if ages_tmp[i] == 0:
-#        idx_0.append(i)
-#        
-#idx_13 = []
-#for i in range(len(ages_tmp)):
-#    if ages_tmp[i] > 12:
-#        idx_13.append(i)
-#        
-#idx_12 = []
-#for i in range(len(ages_tmp)):
-#    if ages_tmp[i] > 0 and ages_tmp[i] <13:
-#        idx_12.append(i)
-        
-#ages_tmp[idx_0] = 0
-#ages_tmp[idx_12] = 1
-#ages_tmp[idx_13] = 2
-
-#age_dummies = pd.get_dummies(ages_tmp)
-
 ###########################################
 #number of mechanics
 ###########################################
 plt.hist(all_vars['nmech'])
+
+######################################
+#if published in Germany
+plt.hist(german_bool)

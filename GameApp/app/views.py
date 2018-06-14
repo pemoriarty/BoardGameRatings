@@ -56,6 +56,7 @@ def game_output():
   age = request.args.get('age')#, 'nmech', 'is_party')
   nmech = request.args.get('nmech')
   is_party = request.args.get('is_party')
+  is_strategy = request.args.get('is_strategy')
     #just select the Cesareans  from the birth dtabase for the month that the user inputs
   #query = "SELECT index, attendant, birth_month FROM birth_data_table WHERE delivery_method='Cesarean' AND birth_month='%s'" % patient
   #print(query)
@@ -64,5 +65,5 @@ def game_output():
   #births = []
   #for i in range(0,query_results.shape[0]):
   #    births.append(dict(index=query_results.iloc[i]['index'], attendant=query_results.iloc[i]['attendant'], birth_month=query_results.iloc[i]['birth_month']))
-  the_result = PredictComplexity(age, nmech, is_party)
+  the_result = PredictComplexity(age, nmech, is_party, is_strategy)
   return render_template("output.html", the_result = the_result)

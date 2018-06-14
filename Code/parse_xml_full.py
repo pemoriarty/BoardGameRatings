@@ -147,6 +147,7 @@ for game in game_ids:#game_ids:
             game_tmp = {'id':game,
                     'name': name,
                     'year': year,
+                    'image': image,
                     'minplayers': minplayers,
                     'maxplayers': maxplayers,
                     'mintime': minplaytime,

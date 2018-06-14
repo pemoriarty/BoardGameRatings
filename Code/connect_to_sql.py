@@ -26,4 +26,4 @@ if not database_exists(engine.url):
     create_database(engine.url)
 print(database_exists(engine.url))
 
-all_var.to_sql('game_box_features', engine, if_exists='replace')
+df_info2.to_sql('full_data', engine, if_exists='replace')

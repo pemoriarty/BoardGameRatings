@@ -16,6 +16,8 @@ Xvars = pd.DataFrame()
 Xvars['ages'] = pd.to_numeric(sub_df2['ages'])
 Xvars['nmech'] = sub_df2['nmech']
 Xvars['party'] = sub_df2['is_party']
+Xvars['strategy'] = sub_df2['is_strategy']
+Xvars['nplayers'] = pd.to_numeric(sub_df2['nplayers'])
 #Xvars = np.asarray(Xvars)
 Xvars['response'] = sub_df2['response']
 Xvars.reset_index(inplace = True)
@@ -43,7 +45,7 @@ train.reset_index(inplace = True)
 train.drop(test_idx, axis = 0, inplace = True)
 
 
-form = "response ~ ages + nmech + C(party)"
+form = "response ~ ages + nmech + C(party) + C(strategy)"
 model_r = smf.ols(formula = form, data = train, missing = 'drop').fit()
 print(model_r.summary())
 
@@ -70,10 +72,10 @@ fig = sm.qqplot(res, stats.t, fit=True, line='45')
 predictions = model_r.predict(test)
 #test2 = pd.DataFrame(columns = ['ages', 'nmech', 'party'])
 new_data = pd.DataFrame([13, 4, 1], columns = ['ages', 'nmech', 'party'])
-new_data = {'ages': 13.0, 'nmech': 4, 'party': 1}
+new_data = {'ages': 13.0, 'nmech': 4, 'party': 'yes', 'strategy': 'no'}
 test2 = pd.DataFrame(new_data, index = [0])
-model_r.predict(test2)
-
+scipy.special.expit(model_r.get_prediction(test2).summary_frame())*4 + 1
+scipy.special.expit(model.get_prediction(df_predict).summary_frame())*4 + 1
 plt.figure()
 plt.scatter(test['response'], predictions)
 
