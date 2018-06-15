@@ -79,7 +79,7 @@ plt.scatter(yvars, predicted)
 #train.drop(index_nan, axis = 0, inplace = True)
 
 full_vars = X_train.join(y_train)
-form = "response ~ ages + nmech + C(party) + C(strategy) + C(child)"
+form = "response ~ ages + C(party) + C(strategy)"# + C(child)"
 model_r = smf.ols(formula = form, data = full_vars, missing = 'drop').fit()
 print(model_r.summary())
 

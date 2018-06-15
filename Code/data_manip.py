@@ -63,15 +63,20 @@ df_info2.columns
 #test4.T
 #make variables for regression: nmech, is_party
 nmech = [len(np.asarray(df_info2['mechanics'])[game]) for game in range(df_info2.shape[0])]
-is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-party_bool = np.array(is_party) * 1
- is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-child_bool = np.array(is_childrens) * 1
+#is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
+#party_bool = np.array(is_party) * 1
+# is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
+#child_bool = np.array(is_childrens) * 1
 is_strategy = ['Strategy Games' in np.asarray(df_info2['subdomains'])[game] for game in range(df_info2.shape[0])]
 strategy_bool = np.array(is_strategy) * 1
 is_german = ['Germany' in np.asarray(df_info2['all_pub'])[game] for game in range(df_info2.shape[0])]
 german_bool = np.array(is_german) * 1
 
+is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) 
+    or ("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
+party_bool = np.array(is_party) * 1
+# is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
+#child_bool = np.array(is_childrens) * 1
 
 sub_df = pd.DataFrame()
 sub_df['id'] = df_info2['id']
@@ -79,8 +84,8 @@ sub_df['ages'] = df_info2['age']
 sub_df['nmech'] = nmech
 sub_df['is_party'] = party_bool
 sub_df['complexity'] = df_info2['complexity']
-sub_df['is_strategy'] = is_strategy
-sub_df['is_child'] = child_bool
+sub_df['is_strategy'] = strategy_bool
+#sub_df['is_child'] = child_bool
 #sub_df['box_sat'] = box_sat
 #sub_df['nplayers'] = player_range
 
@@ -107,10 +112,13 @@ for i in range(len(ages_0_idx)-1, -1, -1):
 
 plt.figure()
 plt.hist(continuous_y)#approximatley normal!
+plt.hist(sub_df2['complexity'])
 
+sub_df2['complexity'].plot('hist')
+sub_df2['response'].plot('hist')
 ##################################
 #look at is_party
-##################################
+################### ###############
 plt.figure()
 plt.hist(all_vars['party'])
 
