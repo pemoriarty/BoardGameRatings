@@ -36,7 +36,7 @@ def PredictComplexity(age, nmech, is_party, is_strategy):
     else:
         strategy_num = 0
     
-    new_data = {'ages': float(age), 'nmech':float(nmech), 'party': float(party_num), 'strategy': float(strategy_num)}
+    new_data = {'Intercept': float (1), 'ages': float(age), 'nmech':float(nmech), 'party': float(party_num), 'strategy': float(strategy_num)}
     df_predict = pd.DataFrame(new_data, index = [0])
     prediction = model.get_prediction(df_predict)
     est = prediction.summary_frame()['mean']

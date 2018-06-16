@@ -86,7 +86,7 @@ sub_df['is_party'] = party_bool
 sub_df['complexity'] = df_info2['complexity']
 sub_df['is_strategy'] = strategy_bool
 #sub_df['is_child'] = child_bool
-#sub_df['box_sat'] = box_sat
+sub_df['box_sat'] = box_sat
 #sub_df['nplayers'] = player_range
 
 #scale and transform complexity rating
@@ -108,7 +108,31 @@ for i in range(len(ages_0_idx)-1, -1, -1):
     #del sub_df2[ages_0_idx[i]]
     sub_df2.drop(ages_0_idx[i], inplace = True)
 
+###make matrix of subdomains for each game
 
+subdomains = pd.DataFrame(np.zeros([df_info2.shape[0], 7]), 
+                          columns = ['Abstract', 'Thematic', 'Strategy',
+                                     'Customizable', 'Party', 'War', 'Family'])
+for game in range(df_info2.shape[0]):
+    subdomain_tmp = np.asarray(df_info2['subdomains'])[game]
+    if 'Abstract Games' in subdomain_tmp:
+        subdomains.iloc[game][0] = 1
+    if 'Thematic Games' in subdomain_tmp:
+        subdomains.iloc[game][1] = 1
+    if 'Strategy Games' in subdomain_tmp:
+        subdomains.iloc[game][2] = 1
+    if 'Customizable Games' in subdomain_tmp:
+        subdomains.iloc[game][3] = 1
+    if 'Party Games' or "Children's Games" in subdomain_tmp:
+        subdomains.iloc[game][4] = 1
+    #if "Children's Games" in subdomain_tmp:
+    #    subdomains.iloc[game][5] = 1
+    if 'Wargames' in subdomain_tmp:
+        subdomains.iloc[game][5] = 1
+    if 'Family Games' in subdomain_tmp:
+        subdomains.iloc[game][6] = 1
+    
+sub_df2 = sub_df2.join(subdomains)
 
 plt.figure()
 plt.hist(continuous_y)#approximatley normal!

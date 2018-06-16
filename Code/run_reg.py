@@ -14,9 +14,21 @@ import scipy.stats as stats
 Xvars = pd.DataFrame()
 Xvars['ages'] = pd.to_numeric(sub_df2['ages'])
 Xvars['nmech'] = sub_df2['nmech']
-Xvars['party'] = sub_df2['is_party']
-Xvars['strategy'] = sub_df2['is_strategy']
-Xvars['child'] = sub_df2['is_child']
+Xvars['abstract'] = sub_df2['Abstract']
+Xvars['thematic'] = sub_df2['Thematic']
+Xvars['war'] = sub_df2['War']
+Xvars['custom'] = sub_df2['Customizable']
+Xvars['family'] = sub_df2['Family']
+Xvars['party'] = sub_df2['Party']
+#Xvars['child'] = sub_df2['Child']
+Xvars['strategy'] = sub_df2['Strategy']
+#pd.concat([Xvars, sub_df2.iloc[:, 9:17]], orient = 'columns')
+
+#Xvars.iloc[:, 2:11] = sub_df2.iloc[:, 9:17]
+#Xvars['party'] = sub_df2['is_party']
+#Xvars['strategy'] = sub_df2['is_strategy']
+#Xvars['box_sat'] = sub_df2['box_sat']
+#Xvars['child'] = sub_df2['is_child']
 #Xvars['nplayers'] = pd.to_numeric(sub_df2['nplayers'])
 #Xvars = np.asarray(Xvars)
 #Xvars['response'] = sub_df2['response']
@@ -79,7 +91,9 @@ plt.scatter(yvars, predicted)
 #train.drop(index_nan, axis = 0, inplace = True)
 
 full_vars = X_train.join(y_train)
-form = "response ~ ages + C(party) + C(strategy)"# + C(child)"
+form = "response ~ ages"
+form = "response ~ ages + + nmech + C(party) + C(strategy)"# + C(child)"
+form = "response ~ ages + nmech + C(custom) + C(family) + C(party) + C(strategy) + C(war)"
 model_r = smf.ols(formula = form, data = full_vars, missing = 'drop').fit()
 print(model_r.summary())
 
@@ -113,7 +127,7 @@ fig, ax = plt.subplots(figsize=(8,6))
 fig = sm.graphics.plot_leverage_resid2(model_r, ax=ax)
 
 fig, ax = plt.subplots(figsize=(8,6))
-fig = sm.graphics.plot_fit(model_r, 3, ax=ax)
+fig = sm.graphics.plot_fit(model_r, 3 , ax=ax)
 
 fig = sm.qqplot(res, stats.t, fit=True, line='45')
 
@@ -124,6 +138,8 @@ predictions = model_r.predict(test)
 new_data = pd.DataFrame([13, 4, 1], columns = ['ages', 'nmech', 'party'])
 new_data = {'ages': 13.0, 'nmech': 4, 'party': 'yes', 'strategy': 'no'}
 test2 = pd.DataFrame(new_data, index = [0])
+
+
 scipy.special.expit(model_r.get_prediction(test2).summary_frame())*4 + 1
 scipy.special.expit(model.get_prediction(df_predict).summary_frame())*4 + 1
 plt.figure()

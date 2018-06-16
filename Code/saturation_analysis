@@ -9,7 +9,7 @@ Created on Fri Jun  8 11:02:52 2018
 def saturation(image_file):
     import matplotlib.image as mp
     import matplotlib.colors
-    img_color = mp.imread(file_name)
+    img_color = mp.imread(image_file)
     if img_color.shape[2] == 3:
         if not img_color is None:
             HSV_img = matplotlib.colors.rgb_to_hsv(img_color)
