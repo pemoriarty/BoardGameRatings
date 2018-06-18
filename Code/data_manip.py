@@ -82,11 +82,11 @@ sub_df = pd.DataFrame()
 sub_df['id'] = df_info2['id']
 sub_df['ages'] = df_info2['age']
 sub_df['nmech'] = nmech
-sub_df['is_party'] = party_bool
+#sub_df['is_party'] = party_bool
 sub_df['complexity'] = df_info2['complexity']
-sub_df['is_strategy'] = strategy_bool
+#sub_df['is_strategy'] = strategy_bool
 #sub_df['is_child'] = child_bool
-sub_df['box_sat'] = box_sat
+#sub_df['box_sat'] = box_sat
 #sub_df['nplayers'] = player_range
 
 #scale and transform complexity rating
@@ -100,6 +100,30 @@ for idx in range(len(bounded_y)):
     
 sub_df['response'] = continuous_y
 sub_df.reset_index(drop = 0, inplace = True)
+
+##make complexity categorical
+np.percentile(sub_df['complexity'], 33)
+np.percentile(sub_df['complexity'], 66)
+
+#low: 1-1.8
+#mid: 1.81-2.6
+#high: 2.6-5
+
+#based on bgg categories:
+#low: 1-2
+#mid: 2-3.5
+#high: 3.5-5
+sub_df.reset_index(drop = 0, inplace = True)
+sub_df['categorical'] = sub_df['complexity']
+mid_index = sub_df['complexity'][(sub_df['complexity'] >=2)]# and (sub_df['complexity'] <=3.5)]
+mid_index = mid_index[mid_index <= 3.5].index
+low_index = sub_df['complexity'][sub_df['complexity'] < 2].index
+high_index = sub_df['complexity'][sub_df['complexity'] > 3.5].index
+sub_df['categorical'].replace(sub_df['complexity'][low_index], 'low', inplace = True)
+sub_df['categorical'].replace(sub_df['complexity'][mid_index], 'mid', inplace = True)
+sub_df['categorical'].replace(sub_df['complexity'][high_index], 'high', inplace = True)
+
+
 
 #remove points where age = 0
 ages_0_idx = sub_df['ages'][sub_df['ages'] == 0].index.values
