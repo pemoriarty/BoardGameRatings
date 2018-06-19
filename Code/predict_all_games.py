@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import scipy.special
+from sklearn.preprocessing import Imputer
 #import statsmodels.api as sm
 #import statsmodels.genmod as
 #import statsmodels as sm
@@ -39,11 +40,11 @@ for game in range(len(red_info)):
 df_info.index.rename('attribute', inplace = True)
 df_info2 = df_info.transpose().copy()
 
-pub_string = pd.Series()
-for game in range(df_info2.shape[0]):
-    pub_string.loc[game] = (''.join(np.asarray(df_info2['publisher'])[game]))
-
-df_info2 = df_info2.assign(all_pub = (pub_string))#.Series().values)
+#pub_string = pd.Series()
+#for game in range(df_info2.shape[0]):
+#    pub_string.loc[game] = (''.join(np.asarray(df_info2['publisher'])[game]))
+#
+#df_info2 = df_info2.assign(all_pub = (pub_string))#.Series().values)
 df_info2.columns
 
 #make variables for regression: nmech, is_party
@@ -52,14 +53,14 @@ nmech = [len(np.asarray(df_info2['mechanics'])[game]) for game in range(df_info2
 #party_bool = np.array(is_party) * 1
 # is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
 #child_bool = np.array(is_childrens) * 1
-is_strategy = ['Strategy Games' in np.asarray(df_info2['subdomains'])[game] for game in range(df_info2.shape[0])]
-strategy_bool = np.array(is_strategy) * 1
+#is_strategy = ['Strategy Games' in np.asarray(df_info2['subdomains'])[game] for game in range(df_info2.shape[0])]
+#strategy_bool = np.array(is_strategy) * 1
 #is_german = ['Germany' in np.asarray(df_info2['all_pub'])[game] for game in range(df_info2.shape[0])]
 #german_bool = np.array(is_german) * 1
 
-is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) 
-    or ("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-party_bool = np.array(is_party) * 1
+#is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) 
+#    or ("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
+#party_bool = np.array(is_party) * 1
 # is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
 #child_bool = np.array(is_childrens) * 1
 
@@ -67,29 +68,10 @@ sub_df = pd.DataFrame()
 sub_df['id'] = df_info2['id']
 sub_df['ages'] = df_info2['age']
 sub_df['nmech'] = nmech
-#sub_df['is_party'] = party_bool
 sub_df['complexity'] = df_info2['complexity']
-#sub_df['is_strategy'] = strategy_bool
-#sub_df['is_child'] = child_bool
-#sub_df['box_sat'] = box_sat
-#sub_df['nplayers'] = player_range
 
-#scale and transform complexity rating
-bounded_y = np.array((df_info2['complexity'] - 1)/4)
-bounded_y[bounded_y == 0] = .001
-bounded_y[bounded_y == 1] = 0.99
-
-continuous_y = np.empty([len(bounded_y), 1])
-for idx in range(len(bounded_y)):
-    continuous_y[idx] = (scipy.special.logit(bounded_y[idx]))
-    
-sub_df['response'] = continuous_y
-sub_df.reset_index(drop = 0, inplace = True)
 
 ##make complexity categorical
-np.percentile(sub_df['complexity'], 33)
-np.percentile(sub_df['complexity'], 66)
-
 #low: 1-1.8
 #mid: 1.81-2.6
 #high: 2.6-5
@@ -143,40 +125,38 @@ for game in range(df_info2.shape[0]):
     
 sub_df2 = sub_df2.join(subdomains)
 
-plt.figure()
-plt.hist(continuous_y)#approximatley normal!
-plt.hist(sub_df2['complexity'])
 
-sub_df2['complexity'].plot('hist')
-sub_df2['response'].plot('hist')
-##################################
-#look at is_party
-################### ###############
-plt.figure()
-plt.hist(all_vars['party'])
+file_name = 'Data/all_games_df'
+fileObject = open(file_name, 'wb')
+pickle.dump(df_info2, fileObject)
+pickle.dump(sub_df2, fileObject)
+fileObject.close()
 
-party_dummies = pd.get_dummies(all_vars['party'])
+######predict all games using RF model
+file_name = '/home/pamela/Documents/rf_fit_cached'
+fileObject = open(file_name, 'rb')
+rf_fit = pickle.load(fileObject)
+fileObject.close()
 
-#################################
-#look at ages
-##################################
-plt.figure()
-plt.hist(sub_df2['ages'])
+#column order: ages, nmech, abstract, thematic, war, custom, family, party, strategy
 
-#all_vars[all_vars['ages'] == 0].index()
-#ages[np.isnan(ages)]
+predict_mat = pd.DataFrame(columns = ['ages', 'nmech','abstract', 'thematic',
+                                      'war', 'custom', 'family', 'party', 'strategy'])
+predict_mat['ages'] = sub_df2['ages']
+predict_mat['nmech'] = sub_df2['nmech']
+predict_mat['abstract'] = sub_df2['Abstract']
+predict_mat['thematic'] = sub_df2['Thematic']
+predict_mat['war'] = sub_df2['War']
+predict_mat['custom'] = sub_df2['Customizable']
+predict_mat['family'] = sub_df2['Family']
+predict_mat['party'] = sub_df2['Party']
+predict_mat['strategy'] = sub_df2['Strategy']
 
-plt.scatter(sub_df2['ages'], sub_df2['response'])
+imputer = Imputer()
+transformed_values = imputer.fit_transform(predict_mat)
+np.isnan(transformed_values).sum()
 
-###########################################
-#number of mechanics
-###########################################
-plt.hist(all_vars['nmech'])
+#impute missing values in prediction matrix
 
-######################################
-#if published in Germany
-plt.hist(german_bool)
 
-###box saturation
-plt.figure()
-plt.scatter(sub_df['box_sat'], sub_df['response'])
+pred_all = rf_fit.predict(transformed_values)

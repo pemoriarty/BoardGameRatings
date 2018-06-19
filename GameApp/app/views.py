@@ -27,13 +27,6 @@ import pickle
 #con = None
 #con = psycopg2.connect(database = dbname, user = user, host = host, port = port)
 
-@app.route('/')
-@app.route('/index')
-def index():
-    return render_template("index.html",
-       title = 'Home', user = { 'nickname': 'Miguel' },
-       )
-
 #@app.route('/db')
 #def birth_page():
 #    sql_query = """                                                                       
@@ -45,8 +38,8 @@ def index():
 #        births += query_results.iloc[i]['birth_month']
 #        births += "<br>"
 #    return births
-
-@app.route('/input')
+@app.route('/')
+@app.route('/index')
 def game_input():
     return render_template("input.html")
 

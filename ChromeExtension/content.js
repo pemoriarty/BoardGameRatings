@@ -12,6 +12,14 @@ var HttpClient = function() {
     }
 }
 
+   
+function callOtherDomain() {
+  if(invocation) {    
+    invocation.open('GET', url, true);
+    invocation.onreadystatechange = handler;
+    invocation.send(); 
+  }
+}
 
 setInterval(() => {
     console.log('Running now')
