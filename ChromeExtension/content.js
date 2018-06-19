@@ -28,14 +28,14 @@ setInterval(() => {
     for (var i = 0; i < game_names.length; i++) {
         if(!game_names[i].hasAttribute('game_rating')){
             if (game_names[i].dataset.test === "product-title") {
-                game_names[i].innerHTML = game_names[i].innerHTML + "<br /> Game complexity is blahh!";
-                game_names[i].setAttribute('game_rating', 'Done');
                 var client = new HttpClient();
                 
-                client.get('http://127.0.0.1:5000/input', response =>
+                client.get('http://127.0.0.1:5000', {game_name: game_names[i]}, response =>
                  {console.log(response)
                  });
-                
+            
+                 game_names[i].innerHTML = game_names[i].innerHTML + "<br /> Game complexity is ";
+                 game_names[i].setAttribute('game_rating', 'Done');
             }
         }
     }

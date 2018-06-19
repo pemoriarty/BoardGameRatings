@@ -98,9 +98,9 @@ errors = abs(predictions - y_test)
 ######################random forest###################3
 rf = ensemble.RandomForestClassifier(n_estimators = 10, random_state = 42)
 # Train the model on training data
-rf.fit(X_train, y_train);
+rf_mod = rf.fit(X_train, y_train);
 rf.feature_importances_
-predictions = rf.predict(X_test)
+predictions = rf_mod.predict(X_test)
 
 rf.oob_score_
 rf.decision_path(X_train)
@@ -108,12 +108,13 @@ rf.predict_proba(X_train).shape
 
 # Calculate the absolute errors
 sum(predictions == y_test)/len(y_test)
-rf.score(X_test, y_test)
-rf.score(X_train, y_train)
+rf_mod.score(X_test, y_test)
+rf_mod.score(X_train, y_train)
 len(predictions[predictions == 'low'])/len(y_test[y_test == 'low'])
 len(predictions[predictions == 'mid'])/len(y_test[y_test == 'mid'])
 len(predictions[predictions == 'high'])/len(y_test[y_test == 'high'])#doing a bit better with high complexity games
 
+file_name =
 metrics.classification_report(predictions, y_test)
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
@@ -146,7 +147,11 @@ for tree_in_forest in rf.estimators_:
     with open('tree_' + str(i_tree) + '.dot', 'w') as my_file:
         my_file = export_graphviz(tree_in_forest, out_file = my_file)
     i_tree = i_tree + 1
-    
+
+file_name = '/home/pamela/Documents/rf_fit_cached'
+fileObject = open(file_name, 'wb')
+pickle.dump(rf_mod, fileObject)
+fileObject.close()
 #####################statsmodel below#################
 #num_test = int(np.floor(0.2 * Xvars.shape[0]))
 #test_idx = np.sort(np.random.choice(range(Xvars.shape[0]), size = num_test, replace = False))

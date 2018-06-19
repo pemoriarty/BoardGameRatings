@@ -46,21 +46,10 @@
     
           <form  action="/output" method="GET">
             <div class="form-group">
-              <label for="age">Minimum Recommended Age:</label>
-              <input type="int" id="age" name='age' placeholder="e.g. 12">
+              <label for="game_name">Game Name:</label>
+              <input type="text" id="game_name" name='game_name' placeholder="e.g. Apples to Apples ">
             </div>
-            <div class="form-group">
-              <label for="nmech">How many types of mechanics does the game involve?:</label>
-              <input type="int" id="nmech" name='nmech' placeholder="e.g. 3 ">
-            </div>
-            <div class="form-group">
-              <label for="is_party">Is this a family game?:</label>
-              <input type="text" id="is_party" name='is_party' placeholder="e.g. yes ">
-            </div>
-            <div class="form-group">
-              <label for="is_strategy">Is this a strategy game?:</label>
-              <input type="text" id="is_strategy" name='is_strategy' placeholder="e.g. yes ">
-            </div>
+            
             <div>
               <button type="submit" class="btn btn-default btn-lg">Estimate the complexity!</button>
             </div>

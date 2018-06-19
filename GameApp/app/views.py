@@ -43,20 +43,13 @@ import pickle
 def game_input():
     return render_template("input.html")
 
+
 @app.route('/output')
 def game_output():
   #pull 'birth_month' from input field and store it
-  age = request.args.get('age')#, 'nmech', 'is_party')
-  nmech = request.args.get('nmech')
-  is_party = request.args.get('is_party')
-  is_strategy = request.args.get('is_strategy')
-    #just select the Cesareans  from the birth dtabase for the month that the user inputs
-  #query = "SELECT index, attendant, birth_month FROM birth_data_table WHERE delivery_method='Cesarean' AND birth_month='%s'" % patient
-  #print(query)
-  #query_results=pd.read_sql_query(query,con)
-  #print(query_results)
-  #births = []
-  #for i in range(0,query_results.shape[0]):
-  #    births.append(dict(index=query_results.iloc[i]['index'], attendant=query_results.iloc[i]['attendant'], birth_month=query_results.iloc[i]['birth_month']))
-  the_result = PredictComplexity(age, nmech, is_party, is_strategy)
-  return render_template("output.html", the_result = the_result)
+  name = request.args.get('game_name')#, 'nmech', 'is_party')
+
+  #check if game is in the database
+  print(name)
+  return name
+  #return render_template("output.html", the_result = the_result)
