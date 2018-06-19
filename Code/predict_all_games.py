@@ -30,17 +30,6 @@ fileObject.close()
 #remove games without a complexity rating or with fewer than 20 people having rated it
 red_info = list(full_info)
 
-idx_to_del = []
-for i in range(len(red_info)):
-    try:
-        if red_info[i]['num_comp'] < 20 or red_info[i]['complexity'] == 0:
-            idx_to_del.append(i)
-    except TypeError:
-        idx_to_del.append(i)
-
-for i in range(len(idx_to_del)-1, 0, -1):
-    del red_info[idx_to_del[i]]
-
 #move all variables to a dataframe
 df_info = pd.DataFrame()    
 for game in range(len(red_info)):

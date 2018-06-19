@@ -75,7 +75,7 @@ predictions_train = lm.predict(X_train)
 len(predictions_train[predictions_train == 'low'])/len(y_train[y_train == 'low'])
 len(predictions_train[predictions_train == 'mid'])/len(y_train[y_train == 'mid'])
 len(predictions_train[predictions_train == 'high'])/len(y_train[y_train == 'high'])
-sum(predictions_train == y_train)/
+
 
 predictions = lm.predict(X_test)
 len(predictions[predictions == 'low'])/len(y_test[y_test == 'low'])
@@ -96,24 +96,16 @@ plt.scatter(yvars, predicted)
 errors = abs(predictions - y_test)
 
 ######################random forest###################3
-x, y = make_classification(n_samples=1000, n_features=4, n_informative=2, n_redundant=0,
-                                   random_state=0, shuffle=False)
-clf = ensemble.RandomForestClassifier(max_depth=2, random_state=0)
-clf.fit(x, y)
-ensemble.RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
-            max_depth=2, max_features='auto', max_leaf_nodes=None,
-            min_impurity_decrease=0.0, min_impurity_split=None,
-            min_samples_leaf=1, min_samples_split=2,
-            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=1,
-            oob_score=False, random_state=0, verbose=0, warm_start=False)
-print(clf.feature_importances_)
-
-
 rf = ensemble.RandomForestClassifier(n_estimators = 10, random_state = 42)
 # Train the model on training data
 rf.fit(X_train, y_train);
 rf.feature_importances_
 predictions = rf.predict(X_test)
+
+rf.oob_score_
+rf.decision_path(X_train)
+rf.predict_proba(X_train).shape
+
 # Calculate the absolute errors
 sum(predictions == y_test)/len(y_test)
 rf.score(X_test, y_test)
@@ -129,6 +121,7 @@ mat = confusion_matrix(y_test, predictions)
 sns.heatmap(mat.T, square=True, annot=True, fmt='d', cbar=False)
 plt.xlabel('true label')
 plt.ylabel('predicted label');
+
 # Import tools needed for visualization
 from sklearn.tree import export_graphviz
 import pydot
