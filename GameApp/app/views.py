@@ -41,12 +41,12 @@ import pickle
 @app.route('/')
 @app.route('/index')
 def game_input():
+   
     return render_template("input.html")
 
 
 @app.route('/output')
 def game_output():
-  #pull 'birth_month' from input field and store it
   name = request.args.get('game_name')#, 'nmech', 'is_party')
 
   #check if game is in the database
