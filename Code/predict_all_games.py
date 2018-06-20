@@ -130,6 +130,12 @@ pickle.dump(df_info2, fileObject)
 pickle.dump(sub_df2, fileObject)
 fileObject.close()
 
+
+fileObject = open(file_name, 'rb')
+test1 = pickle.load(fileObject)
+test2 = pickle.load(fileObject)
+fileObject.close()
+
 ######predict all games using RF model
 file_name = '/home/pamela/Documents/rf_fit_cached'
 fileObject = open(file_name, 'rb')
