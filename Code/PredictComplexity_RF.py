@@ -5,12 +5,11 @@ Created on Wed Jun 13 12:21:38 2018
 
 @author: pamela
 """
-
 import pandas as pd
 import pickle
 import difflib
     
-def PredictComplexity(game_name):
+def PredictComplexity2(game_name):
 
     
 #    file_name = '/home/pamela/Documents/game_complexity_db'

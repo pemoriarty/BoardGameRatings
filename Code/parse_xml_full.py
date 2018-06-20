@@ -40,7 +40,7 @@ for game in game_ids:#game_ids:
         if year != '0':
             #print(str(id) + ' has a year ' + str(year))
             try:
-                name = soup_tmp.find_all('name')[0].get_text()
+                name = soup_tmp.select('name[primary]')[0].get_text()
             except IndexError:
                 name = np.nan
             
