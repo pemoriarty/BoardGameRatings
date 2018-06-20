@@ -7,19 +7,11 @@ Created on Wed Jun 13 12:21:38 2018
 """
 
 import pandas as pd
-#import scipy.special
-def FindGame(game_to_match,game_df):
-    game_df['name'][game_to_match in game_df['name']]
+import pickle
+import difflib
     
-    return game_id
-
-def GameInfo(game_id):
-    
-    return [age, nmech, is_family, is_party, is_strategy, is_abstract, is_thematic, is_war]
-
 def PredictComplexity(game_name):
-    import pickle
-    import difflib
+
     
 #    file_name = '/home/pamela/Documents/game_complexity_db'
 #    fileObject = open(file_name, 'rb')
