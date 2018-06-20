@@ -8,10 +8,13 @@ Created on Wed Jun 13 12:21:38 2018
 import pandas as pd
 import pickle
 import difflib
-    
+import numpy as np
+
 def PredictComplexity2(game_name):
 
-    
+    fileObject = open('/home/pamela/Documents/df_info2_tmp', 'rb')
+    df_info2 = pickle.load(fileObject)
+    fileObject.close()
 #    file_name = '/home/pamela/Documents/game_complexity_db'
 #    fileObject = open(file_name, 'rb')
 #    games = pickle.load(fileObject)
