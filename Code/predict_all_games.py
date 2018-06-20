@@ -71,6 +71,7 @@ sub_df['id'] = df_info2['id']
 sub_df['ages'] = df_info2['age']
 sub_df['nmech'] = nmech
 sub_df['complexity'] = df_info2['complexity']
+sub_df['name'] = df_info2['name']
 
 
 ##make complexity categorical
@@ -95,14 +96,9 @@ sub_df['categorical'].replace(sub_df['complexity'][high_index], 'high', inplace 
 
 
 #remove points where age = 0
-ages_0_idx = sub_df['ages'][sub_df['ages'] == 0].index.values
 sub_df2 = sub_df.copy(deep = True)
-for i in range(len(ages_0_idx)-1, -1, -1):
-    #del sub_df2[ages_0_idx[i]]
-    sub_df2.drop(ages_0_idx[i], inplace = True)
 
 ###make matrix of subdomains for each game
-
 subdomains = pd.DataFrame(np.zeros([df_info2.shape[0], 7]), 
                           columns = ['Abstract', 'Thematic', 'Strategy',
                                      'Customizable', 'Party', 'War', 'Family'])
@@ -128,7 +124,7 @@ for game in range(df_info2.shape[0]):
 sub_df2 = sub_df2.join(subdomains)
 
 
-file_name = 'Data/all_games_df'
+file_name = '/home/pamela/Documents/all_games_df'
 fileObject = open(file_name, 'wb')
 pickle.dump(df_info2, fileObject)
 pickle.dump(sub_df2, fileObject)
