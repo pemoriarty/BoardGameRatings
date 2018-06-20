@@ -8,7 +8,7 @@ Created on Tue Jun 12 16:36:27 2018
 #            if best_match[0] == possible_match.iloc[i]:
 #                best_idx = possible_idx[i]
 from sklearn import datasets, linear_model, metrics
-from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold, RandomizedSearchCV
+from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold, RandomizedSearchCV, GridSearchCV
 from sklearn import ensemble
 from sklearn.datasets import make_classification
 import statsmodels.api as sm
@@ -90,7 +90,7 @@ scores = cross_val_score(model, Xvars, yvars, cv=10)
 print('Cross-validated scores:', scores)
 
 predicted = cross_val_predict(model, Xvars, yvars, cv=5)
-metrics.accuracy_score(Xvars, predicted) 
+chmetrics.accuracy_score(Xvars, predicted) 
 
 
 plt.figure()
@@ -98,33 +98,104 @@ plt.scatter(yvars, predicted)
 errors = abs(predictions - y_test)
 
 ######################random forest###################3
-rf = ensemble.RandomForestClassifier(n_estimators = 100, random_state = 42, n_jobs = -1, min_samples_leaf = 100, oob_score = True)
+rf = ensemble.RandomForestClassifier(n_estimators = 100, 
+                                     random_state = 42, 
+                                     n_jobs = -1, 
+                                     min_samples_leaf = 1, 
+                                     criterion = 'entropy',
+                                     class_weight = 'balanced')
+rf = best_grid
 # Train the model on training data
 rf.get_params()
-rf_mod = rf.fit(X_train, y_train);
+rf_mod = rf.fit(Xvars, yvars)
 scores = cross_val_score(rf_mod, Xvars, yvars, cv = 10)
 predicted_cross = cross_val_predict(rf_mod, Xvars, yvars, cv = 10)
 metrics.accuracy_score(yvars, predicted_cross)
+len(predicted_cross[predicted_cross == 'low'])/len(yvars[yvars == 'low'])
+len(predicted_cross[predicted_cross == 'medium'])/len(yvars[yvars == 'medium'])
+len(predicted_cross[predicted_cross == 'high'])/len(yvars[yvars == 'high'])
 
 rf.feature_importances_
-predictions = rf_mod.predict(X_test)
-
-
-evaluate(rf_mod, y_test, predictions)
+predictions = rf_mod.predict(Xvars)
 
 rf.oob_score_
-rf.decision_path(X_train)
-rf.predict_proba(X_train).shape
-
-# Calculate the absolute errors
 sum(predictions == y_test)/len(y_test)
 rf_mod.score(X_test, y_test)
 rf_mod.score(X_train, y_train)
 len(predictions[predictions == 'low'])/len(y_test[y_test == 'low'])
-len(predictions[predictions == 'mid'])/len(y_test[y_test == 'mid'])
+len(predictions[predictions == 'medium'])/len(y_test[y_test == 'medium'])
 len(predictions[predictions == 'high'])/len(y_test[y_test == 'high'])#doing a bit better with high complexity games
 
-file_name =
+#####parameter tuning#####
+# Number of trees in random forest
+n_estimators = [int(x) for x in np.linspace(start = 10, stop = 200, num = 10)]
+# Number of features to consider at every split
+max_features = ['auto', 'sqrt']
+# Maximum number of levels in tree
+max_depth = [int(x) for x in np.linspace(3, 110, num = 11)]
+max_depth.append(None)
+# Minimum number of samples required to split a node
+min_samples_split = [2, 5, 10]
+# Minimum number of samples required at each leaf node
+min_samples_leaf = [1, 2, 4]
+# Method of selecting samples for training each tree
+bootstrap = [True, False]
+criteria = ['gini', 'entropy']
+# Create the random grid
+random_grid = {'n_estimators': n_estimators,
+               'max_features': max_features,
+               'max_depth': max_depth,
+               'min_samples_split': min_samples_split,
+               'min_samples_leaf': min_samples_leaf,
+               'bootstrap': bootstrap,
+               'criterion': criteria}
+print(random_grid)
+
+# Use the random grid to search for best hyperparameters
+# First create the base model to tune
+
+# Random search of parameters, using 3 fold cross validation, 
+# search across 100 different combinations, and use all available cores
+rf_random = RandomizedSearchCV(estimator = rf_mod, 
+                               param_distributions = random_grid, 
+                               n_iter = 100, 
+                               cv = 3, 
+                               verbose=2, 
+                               random_state=42, 
+                               n_jobs = -1)
+# Fit the random search model
+rf_random.fit(Xvars, yvars)
+rf_random.best_params_
+
+# Create the parameter grid based on the results of random search 
+param_grid = {
+    'bootstrap': [True],
+    'max_depth': [90, 100, 110, 120],
+    'max_features': ['auto'],
+    'min_samples_leaf': [1, 2, 3],
+    'min_samples_split': [8, 10, 12],
+    'n_estimators': [90, 95, 100],
+    'criterion': ['entropy']
+}
+# Instantiate the grid search model
+grid_search = GridSearchCV(estimator = rf_mod, 
+                           param_grid = param_grid, 
+                          cv = 3, 
+                          n_jobs = -1, 
+                          verbose = 2)
+
+
+grid_search.fit(Xvars, yvars)
+grid_search.best_params_
+{'bootstrap': True,
+ 'max_depth': 90,
+ 'max_features': 'auto',
+ 'min_samples_leaf': 1,
+ 'min_samples_split': 12,
+ 'n_estimators': 90}
+best_grid = grid_search.best_estimator_
+
+
 metrics.classification_report(predictions, y_test)
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
