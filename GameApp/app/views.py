@@ -19,6 +19,10 @@ def game_input():
    
     return render_template("input.html")
 
+@app.route('/weight')
+def weight():
+  name = request.args.get('game_name')
+  return str(PredictComplexity2(name))
 
 @app.route('/output')
 def game_output():
