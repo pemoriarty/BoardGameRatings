@@ -50,6 +50,6 @@ def game_output():
   name = request.args.get('game_name')#, 'nmech', 'is_party')
 
   #check if game is in the database
-  print(name)
+  the_result = PredictComplexity_RF(name)
   return name
   #return render_template("output.html", the_result = the_result)
