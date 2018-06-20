@@ -154,6 +154,8 @@ for game in range(df_info2.shape[0]):
     
 sub_df2 = sub_df2.join(subdomains)
 
+
+
 plt.figure()
 plt.hist(continuous_y)#approximatley normal!
 plt.hist(sub_df2['complexity'])
