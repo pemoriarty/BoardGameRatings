@@ -17,38 +17,32 @@ def GameInfo(game_id):
     
     return [age, nmech, is_family, is_party, is_strategy, is_abstract, is_thematic, is_war]
 
-def PredictComplexity(age, nmech, is_family, is_party, is_strategy, is_abstract, is_thematic, is_war):
+def PredictComplexity(game_name):
     import pickle
+    import difflib
     
-    file_name = '/home/pamela/Documents/rf_fit_cached'
-    fileObject = open(file_name, 'rb')
-    pickle.load(fileObject)
-    fileObject.close()
+#    file_name = '/home/pamela/Documents/game_complexity_db'
+#    fileObject = open(file_name, 'rb')
+#    games = pickle.load(fileObject)
+#    fileObject.close()
 
-#    x_to_predict = pd.DataFrame(columns = ['ages', 'nmech', 'party'])
-#    x_to_predict['ages'] = age
-#    x_to_predict['nmech'] = nmech
-#    x_to_predict['party'] = is_party
-    
-    #new_data = pd.DataFrame([age, nmech, is_party], columns = ['ages', 'nmech', 'party'])
-    #new_data = pd.DataFrame([age, nmech, is_party], columns = ['ages', 'nmech', 'party'], index = [0])
-#    if is_party == 'yes' or is_party == 'Yes':
-#        party_num =1
-#    else:
-#        party_num = 0
-    new_data = {'ages': age, 'nmech':nmech, 'family': is_family, 
-                'party': is_party, 'strategy': is_strategy, 
-                'abstract': is_abstract, 'thematic': is_thematic, 'war': is_war}
-    df_predict = pd.DataFrame(new_data, index = [0])
-    prediction = rf_mod.predict(df_predict)
-#    est = prediction.summary_frame()['mean']
-#    SE = prediction.summary_frame()['mean_se']
-#    lower_ci = prediction.summary_frame()['obs_ci_lower']
-#    upper_ci = prediction.summary_frame()['obs_ci_upper']
-#
-#    transformed_est = (scipy.special.expit(est)*4 + 1)[0]
-#    transformed_lower_ci = (scipy.special.expit(lower_ci)*4 + 1)[0]
-#    transformed_upper_ci = (scipy.special.expit(upper_ci)*4 + 1)[0]
+    possible_match = df_info2['name'][df_info2['name'].str.contains(game_name, case = False, na = False)]
+    if len(possible_match) > 1:
+        possible_idx = df_info2['name'][df_info2['name'].str.contains(game_name, case = False, na = False)].index
+        best_match = difflib.get_close_matches(game_name, possible_match, n=1)
+        if len(best_match) > 0:
+            for i in range(len(possible_match)):
+                if best_match[0] == possible_match.iloc[i]:
+                    best_idx = possible_idx[i]
+            prediction = np.asarray(df_info2['complexity'])[best_idx] 
+        elif len(best_match) == 0:
+           prediction = np.asarray(df_info2['complexity'])[possible_idx[0]] 
+    elif len(possible_match == 1):
+        possible_idx = df_info2['name'][df_info2['name'].str.contains(game_name, case = False, na = False)].index
+        prediction = np.asarray(df_info2['complexity'])[possible_idx[0]] 
+    else:
+        prediction = 'unknown'
+
 
     #prediction_out = pd.DataFrame()
     return prediction

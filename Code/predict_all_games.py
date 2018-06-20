@@ -12,6 +12,8 @@ import pandas as pd
 import numpy as np
 import scipy.special
 from sklearn.preprocessing import Imputer
+import regex as re
+import difflib
 #import statsmodels.api as sm
 #import statsmodels.genmod as
 #import statsmodels as sm
@@ -152,11 +154,35 @@ predict_mat['family'] = sub_df2['Family']
 predict_mat['party'] = sub_df2['Party']
 predict_mat['strategy'] = sub_df2['Strategy']
 
+#impute missing values in prediction matrix
 imputer = Imputer()
 transformed_values = imputer.fit_transform(predict_mat)
 np.isnan(transformed_values).sum()
 
-#impute missing values in prediction matrix
-
-
 pred_all = rf_fit.predict(transformed_values)
+game_complexity = pd.DataFrame({'id': sub_df2['id'], 'name': sub_df2['name'], 'complexity': pred_all})
+
+file_name = "/home/pamela/Documents/game_complexity_db"
+fileObject = open(file_name, 'wb')
+pickle.dump(game_complexity, fileObject)
+fileObject.close()
+
+game_name = 'Die Macher'
+game_name = 'Acquire'
+game_name = 'Agricola'
+
+df_info2.reset_index(inplace = True)
+
+df_info2['complexity'][df_info2['name'].str.contains(game_name, case = False, na = False)]
+possible_match = df_info2['name'][df_info2['name'].str.contains(game_name, case = False, na = False)]
+possible_idx = df_info2['name'][df_info2['name'].str.contains(game_name, case = False, na = False)].index
+
+best_match = difflib.get_close_matches(game_name, possible_match, n=1)[0]
+
+
+for i in range(len(possible_match)):
+    if best_match == possible_match.iloc[i]:
+        best_idx = possible_idx[i]
+prediction = np.asarray(df_info2['complexity'])[best_idx] 
+
+[print("found") for name in game_complexity['name'] if game_name in name]
