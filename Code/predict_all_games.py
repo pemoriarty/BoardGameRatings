@@ -41,30 +41,10 @@ for game in range(len(red_info)):
 
 df_info.index.rename('attribute', inplace = True)
 df_info2 = df_info.transpose().copy()
-
-#pub_string = pd.Series()
-#for game in range(df_info2.shape[0]):
-#    pub_string.loc[game] = (''.join(np.asarray(df_info2['publisher'])[game]))
-#
-#df_info2 = df_info2.assign(all_pub = (pub_string))#.Series().values)
 df_info2.columns
 
 #make variables for regression: nmech, is_party
 nmech = [len(np.asarray(df_info2['mechanics'])[game]) for game in range(df_info2.shape[0])]
-#is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-#party_bool = np.array(is_party) * 1
-# is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-#child_bool = np.array(is_childrens) * 1
-#is_strategy = ['Strategy Games' in np.asarray(df_info2['subdomains'])[game] for game in range(df_info2.shape[0])]
-#strategy_bool = np.array(is_strategy) * 1
-#is_german = ['Germany' in np.asarray(df_info2['all_pub'])[game] for game in range(df_info2.shape[0])]
-#german_bool = np.array(is_german) * 1
-
-#is_party = [('Party Game' in np.asarray(df_info2['categories'])[game]) 
-#    or ("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-#party_bool = np.array(is_party) * 1
-# is_childrens = [("Children's Game" in np.asarray(df_info2['categories'])[game]) for game in range(df_info2.shape[0])]
-#child_bool = np.array(is_childrens) * 1
 
 sub_df = pd.DataFrame()
 sub_df['id'] = df_info2['id']
@@ -131,12 +111,13 @@ pickle.dump(sub_df2, fileObject)
 fileObject.close()
 
 
+######predict all games using RF model
+file_name = '/home/pamela/Documents/all_games_df'
 fileObject = open(file_name, 'rb')
-test1 = pickle.load(fileObject)
-test2 = pickle.load(fileObject)
+df_info2 = pickle.load(fileObject)
+sub_df2 = pickle.load(fileObject)
 fileObject.close()
 
-######predict all games using RF model
 file_name = '/home/pamela/Documents/rf_fit_cached'
 fileObject = open(file_name, 'rb')
 rf_fit = pickle.load(fileObject)

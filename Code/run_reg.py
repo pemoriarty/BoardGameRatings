@@ -4,9 +4,11 @@
 Created on Tue Jun 12 16:36:27 2018
 
 @author: pamela
-"""
+"""#        for i in range(len(possible_match)):
+#            if best_match[0] == possible_match.iloc[i]:
+#                best_idx = possible_idx[i]
 from sklearn import datasets, linear_model, metrics
-from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold
+from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold, RandomizedSearchCV
 from sklearn import ensemble
 from sklearn.datasets import make_classification
 import statsmodels.api as sm
@@ -31,8 +33,8 @@ Xvars['strategy'] = sub_df2['Strategy']
 #pd.concat([Xvars, sub_df2.iloc[:, 9:17]], orient = 'columns')
 
 #Xvars.iloc[:, 2:11] = sub_df2.iloc[:, 9:17]
-Xvars['party'] = sub_df2['is_party']
-Xvars['strategy'] = sub_df2['is_strategy']
+#Xvars['party'] = sub_df2['is_party']
+#Xvars['strategy'] = sub_df2['is_strategy']
 #Xvars['box_sat'] = sub_df2['box_sat']
 #Xvars['child'] = sub_df2['is_child']
 #Xvars['nplayers'] = pd.to_numeric(sub_df2['nplayers'])
@@ -96,11 +98,19 @@ plt.scatter(yvars, predicted)
 errors = abs(predictions - y_test)
 
 ######################random forest###################3
-rf = ensemble.RandomForestClassifier(n_estimators = 10, random_state = 42)
+rf = ensemble.RandomForestClassifier(n_estimators = 100, random_state = 42, n_jobs = -1, min_samples_leaf = 100, oob_score = True)
 # Train the model on training data
+rf.get_params()
 rf_mod = rf.fit(X_train, y_train);
+scores = cross_val_score(rf_mod, Xvars, yvars, cv = 10)
+predicted_cross = cross_val_predict(rf_mod, Xvars, yvars, cv = 10)
+metrics.accuracy_score(yvars, predicted_cross)
+
 rf.feature_importances_
 predictions = rf_mod.predict(X_test)
+
+
+evaluate(rf_mod, y_test, predictions)
 
 rf.oob_score_
 rf.decision_path(X_train)
