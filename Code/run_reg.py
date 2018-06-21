@@ -10,6 +10,7 @@ Created on Tue Jun 12 16:36:27 2018
 from sklearn import datasets, linear_model, metrics
 from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold, RandomizedSearchCV, GridSearchCV
 from sklearn import ensemble
+from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from sklearn.datasets import make_classification
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
@@ -30,29 +31,9 @@ Xvars['family'] = sub_df2['Family']
 Xvars['party'] = sub_df2['Party']
 #Xvars['child'] = sub_df2['Child']
 Xvars['strategy'] = sub_df2['Strategy']
-#pd.concat([Xvars, sub_df2.iloc[:, 9:17]], orient = 'columns')
 
-#Xvars.iloc[:, 2:11] = sub_df2.iloc[:, 9:17]
-#Xvars['party'] = sub_df2['is_party']
-#Xvars['strategy'] = sub_df2['is_strategy']
-#Xvars['box_sat'] = sub_df2['box_sat']
-#Xvars['child'] = sub_df2['is_child']
-#Xvars['nplayers'] = pd.to_numeric(sub_df2['nplayers'])
-#Xvars = np.asarray(Xvars)
-#Xvars['response'] = sub_df2['response']
 yvars = sub_df2['categorical']
 #yvars.reset_index(inplace = True)
-
-#Xvars = pd.concat([age_dummies, party_dummies, all_vars['nmech']], axis = 1)
-#X_train, X_test, y_train, y_test = train_test_split(Xvars,
-#                                                    sub_df2['response'], 
- #                                                   test_size = 0.2)
-#print(X_train.shape)
-#lm = linear_model.LinearRegression()
-#model = lm.fit(X_train, y_train)
-#model.coef_
-#model.intercept_
-#model.score(X_test, y_test)
 
 #split data
 np.random.seed(100)
@@ -60,74 +41,23 @@ np.random.seed(100)
 index_nan = Xvars['ages'][np.isnan(Xvars['ages'])].index
 Xvars.drop(index_nan, axis = 0, inplace = True)
 yvars.drop(index_nan, axis = 0, inplace = True)
+from imblearn.over_sampling import SMOTE
 
 X_train, X_test, y_train, y_test = train_test_split(Xvars, yvars, test_size=0.2)
+sm = SMOTE(random_state=42)
+X_sm, y_sm = sm.fit_sample(X_train, y_train)
 #lm = linear_model.LinearRegression()
-lm = linear_model.LogisticRegression(multi_class = 'multinomial', solver = 'lbfgs', max_iter = 200)
-model = lm.fit(X_train, y_train)
-#model = lm.fit(Xvars, yvars)
-model.intercept_
-model.coef_
-model.score(X_train, y_train)
-model.get_params()
-model.score(X_test, y_test)
 
-predictions_train = lm.predict(X_train)
-
-len(predictions_train[predictions_train == 'low'])/len(y_train[y_train == 'low'])
-len(predictions_train[predictions_train == 'mid'])/len(y_train[y_train == 'mid'])
-len(predictions_train[predictions_train == 'high'])/len(y_train[y_train == 'high'])
-
-
-predictions = lm.predict(X_test)
-len(predictions[predictions == 'low'])/len(y_test[y_test == 'low'])
-len(predictions[predictions == 'mid'])/len(y_test[y_test == 'mid'])
-len(predictions[predictions == 'high'])/len(y_test[y_test == 'high'])
-
-###cross fold validation
-
-scores = cross_val_score(model, Xvars, yvars, cv=10)
-print('Cross-validated scores:', scores)
-
-predicted = cross_val_predict(model, Xvars, yvars, cv=5)
-chmetrics.accuracy_score(Xvars, predicted) 
-
-
-plt.figure()
-plt.scatter(yvars, predicted)
-errors = abs(predictions - y_test)
-
-######################random forest###################3
+######################random forest###################
+###tune hyperparameters
 rf = ensemble.RandomForestClassifier(n_estimators = 100, 
                                      random_state = 42, 
                                      n_jobs = -1, 
                                      min_samples_leaf = 1, 
                                      criterion = 'entropy',
-                                     class_weight = 'balanced')
-rf = best_grid
-# Train the model on training data
-rf.get_params()
-rf_mod = rf.fit(Xvars, yvars)
-scores = cross_val_score(rf_mod, Xvars, yvars, cv = 10)
-predicted_cross = cross_val_predict(rf_mod, Xvars, yvars, cv = 10)
-metrics.accuracy_score(yvars, predicted_cross)
-len(predicted_cross[predicted_cross == 'low'])/len(yvars[yvars == 'low'])
-len(predicted_cross[predicted_cross == 'medium'])/len(yvars[yvars == 'medium'])
-len(predicted_cross[predicted_cross == 'high'])/len(yvars[yvars == 'high'])
-
-rf.feature_importances_
-predictions = rf_mod.predict(Xvars)
-
-rf.oob_score_
-sum(predictions == y_test)/len(y_test)
-rf_mod.score(X_test, y_test)
-rf_mod.score(X_train, y_train)
-len(predictions[predictions == 'low'])/len(y_test[y_test == 'low'])
-len(predictions[predictions == 'medium'])/len(y_test[y_test == 'medium'])
-len(predictions[predictions == 'high'])/len(y_test[y_test == 'high'])#doing a bit better with high complexity games
-
-#####parameter tuning#####
-# Number of trees in random forest
+                                     #class_weight = 'balanced')
+                                     )
+rf_mod = rf.fit(X_sm, y_sm)
 n_estimators = [int(x) for x in np.linspace(start = 10, stop = 200, num = 10)]
 # Number of features to consider at every split
 max_features = ['auto', 'sqrt']
@@ -164,18 +94,18 @@ rf_random = RandomizedSearchCV(estimator = rf_mod,
                                random_state=42, 
                                n_jobs = -1)
 # Fit the random search model
-rf_random.fit(Xvars, yvars)
+rf_random.fit(X_sm, y_sm)
 rf_random.best_params_
 
 # Create the parameter grid based on the results of random search 
 param_grid = {
     'bootstrap': [True],
     'max_depth': [90, 100, 110, 120],
-    'max_features': ['auto'],
+    'max_features': ['sqrt'],
     'min_samples_leaf': [1, 2, 3],
-    'min_samples_split': [8, 10, 12],
+    'min_samples_split': [2, 3, 4],
     'n_estimators': [90, 95, 100],
-    'criterion': ['entropy']
+    'criterion': ['gini']
 }
 # Instantiate the grid search model
 grid_search = GridSearchCV(estimator = rf_mod, 
@@ -189,50 +119,82 @@ grid_search.fit(Xvars, yvars)
 grid_search.best_params_
 {'bootstrap': True,
  'max_depth': 90,
- 'max_features': 'auto',
+ 'max_features': 'sqrt',
  'min_samples_leaf': 1,
- 'min_samples_split': 12,
+ 'min_samples_split': 4,
  'n_estimators': 90}
 best_grid = grid_search.best_estimator_
 
+#train the model on training data
+rf = best_grid
+rf = ensemble.RandomForestClassifier(bootstrap=True,
+            criterion='gini', max_depth=90, max_features='sqrt',
+            max_leaf_nodes=None, min_impurity_decrease=0.0,
+            min_impurity_split=None, min_samples_leaf=3,
+            min_samples_split=4, min_weight_fraction_leaf=0.0,
+            n_estimators=200, n_jobs=-1, oob_score=False, random_state=42,
+            verbose=0, warm_start=False)
+rf.get_params()
+rf_mod = rf.fit(X_sm, y_sm)
+scores = cross_val_score(rf_mod, X_sm, y_sm, cv = 5)
+predicted_cross = cross_val_predict(rf_mod, X_sm, y_sm, cv = 5)
+metrics.accuracy_score(y_sm, predicted_cross)
+len(predicted_cross[predicted_cross == 'low'])/len(y_sm[y_sm == 'low'])
+len(predicted_cross[predicted_cross == 'medium'])/len(y_sm[y_sm == 'medium'])
+len(predicted_cross[predicted_cross == 'high'])/len(y_sm[y_sm == 'high'])
 
-metrics.classification_report(predictions, y_test)
+Xvars.columns
+rf.feature_importances_
+predictions = rf_mod.predict(X_sm)
+predictions_test = rf_mod.predict(X_test)
+
+sum(y_test == predictions_test)/len(y_test)
+
+metrics.classification_report(predictions, y_sm)
+#metrics.roc_curve(onehot_encoded, predictions)
+
+file_name = '/home/pamela/Documents/Data/rf_fit_cached'
+fileObject = open(file_name, 'wb')
+pickle.dump(rf_mod, fileObject)
+fileObject.close()
+
+#############smote
+
+len(y_res[y_res == 'high'])
+len(y_res[y_res == 'medium'])
+len(y_res[y_res == 'low'])
+######plots#################################
+#plot confusion matrix
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-mat = confusion_matrix(y_test, predictions)
+mat = confusion_matrix(y_sm, predictions)
+
 sns.heatmap(mat.T, square=True, annot=True, fmt='d', cbar=False)
 plt.xlabel('true label')
 plt.ylabel('predicted label');
 
-# Import tools needed for visualization
-from sklearn.tree import export_graphviz
-import pydot
+###########plot ROC
+label_encoder = LabelEncoder()
+integer_encoded = label_encoder.fit_transform(y_train)
+print(integer_encoded)
 
-# Pull out one tree from the forest
-tree = rf.estimators_[5]
-# Export the image to a dot file
-export_graphviz(tree, out_file = 'tree.dot', rounded = True, precision = 1)
-# Use dot file to create a graph
-(graph, ) = pydot.graph_from_dot_file('tree.dot')
-# Write graph to a png file
-graph.write_png('tree.png')
+rf_enc = OneHotEncoder(sparse = False)
+integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
+onehot_encoded = rf_enc.fit_transform(integer_encoded)
+print(onehot_encoded)
+metrics.roc_curve(y_train, y_pred_rf_lm)
 
-export_graphviz(tree,
-                feature_names=Xvars.columns,
-                filled=True,
-                rounded=True)
-os.system('dot -Tpng tree.dot -o tree.png')
+rf_lm = linear_model.LogisticRegression()
 
-i_tree = 0
-for tree_in_forest in rf.estimators_:
-    with open('tree_' + str(i_tree) + '.dot', 'w') as my_file:
-        my_file = export_graphviz(tree_in_forest, out_file = my_file)
-    i_tree = i_tree + 1
+rf_enc.fit(rf.apply(X_train))
+rf_lm.fit(rf_enc.transform(rf.apply(X_train)), y_train)
 
-file_name = '/home/pamela/Documents/rf_fit_cached'
-fileObject = open(file_name, 'wb')
-pickle.dump(rf_mod, fileObject)
-fileObject.close()
+y_pred_rf_lm = rf_lm.predict_proba()[:, 1]
+fpr_rf_lm, tpr_rf_lm, _ = metrics.roc_curve(y_test, y_pred_rf_lm)
+
+y_pred_rf = rf.predict_proba(X_test)[:, 1]
+fpr_rf, tpr_rf, _ = metrics.roc_curve(y_test, y_pred_rf)
+
 #####################statsmodel below#################
 #num_test = int(np.floor(0.2 * Xvars.shape[0]))
 #test_idx = np.sort(np.random.choice(range(Xvars.shape[0]), size = num_test, replace = False))

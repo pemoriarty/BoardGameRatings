@@ -104,7 +104,7 @@ for game in range(df_info2.shape[0]):
 sub_df2 = sub_df2.join(subdomains)
 
 
-file_name = '/home/pamela/Documents/all_games_df'
+file_name = '/home/pamela/Documents/Data/all_games_df'
 fileObject = open(file_name, 'wb')
 pickle.dump(df_info2, fileObject)
 pickle.dump(sub_df2, fileObject)
@@ -112,13 +112,13 @@ fileObject.close()
 
 
 ######predict all games using RF model
-file_name = '/home/pamela/Documents/all_games_df'
+file_name = '/home/pamela/Documents/Data/all_games_df'
 fileObject = open(file_name, 'rb')
 df_info2 = pickle.load(fileObject)
 sub_df2 = pickle.load(fileObject)
 fileObject.close()
 
-file_name = '/home/pamela/Documents/rf_fit_cached'
+file_name = '/home/pamela/Documents/Data/rf_fit_cached'
 fileObject = open(file_name, 'rb')
 rf_fit = pickle.load(fileObject)
 fileObject.close()
