@@ -16,6 +16,14 @@ import statsmodels.api as sm
 import statsmodels.formula.api as smf
 import scipy.stats as stats
 from statsmodels.formula.api import logit, probit, poisson, ols
+import pickle
+import pandas as pd
+import numpy as np
+
+file_name = '/home/pamela/Documents/Data/building_model_data'
+fileObject = open(file_name, 'rb')
+sub_df2 = pickle.load(fileObject)
+fileObject.close()
 
 plt.figure()
 pd.plotting.scatter_matrix(sub_df2.drop(columns = {'index', 'id', 'Customizable', 'Abstract', 'Thematic', 'War',  'Family'}))
@@ -167,9 +175,12 @@ len(y_res[y_res == 'low'])
 #plot confusion matrix
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-mat = confusion_matrix(y_sm, predictions)
+mat = confusion_matrix(y_sm, predictions, labels = ['low', 'medium', 'high'])
 
-sns.heatmap(mat.T, square=True, annot=True, fmt='d', cbar=False)
+plt.figure()
+sns.heatmap(mat.T, square=True, annot=False, fmt='d', cbar=False,
+            yticklabels = ['low', 'medium', 'high'],
+            xticklabels = ['low', 'medium', 'high'])
 plt.xlabel('true label')
 plt.ylabel('predicted label');
 
