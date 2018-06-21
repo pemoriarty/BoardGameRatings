@@ -123,9 +123,6 @@ fileObject = open(file_name, 'wb')
 pickle.dump(sub_df2, fileObject)
 fileObject.close()
 
-plt.figure()
-plt.hist(continuous_y)#approximatley normal!
-plt.hist(sub_df2['complexity'])
 
 sub_df2['complexity'].plot('hist')
 sub_df2['response'].plot('hist')

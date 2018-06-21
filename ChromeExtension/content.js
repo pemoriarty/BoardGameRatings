@@ -35,7 +35,7 @@ setInterval(() => {
                 client.get(
                     'http://127.0.0.1:5000/weight?game_name=' + temp.innerHTML, 
                     (response, element) => {
-                        element.innerHTML = element.innerHTML + ("<br />  (game complexity is " + response + ")").italics().fontsize(2);
+                        element.innerHTML = element.innerHTML + ("<br />  (game complexity is " + response + ")").italics().fontsize(3).fontcolor("green");
                         },
                      temp);
             
