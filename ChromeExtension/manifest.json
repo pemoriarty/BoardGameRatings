@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Bearable Boardgames",
+  "name": "GaMe",
   "description": "This extension reveals the complexity of board games that the user is browsing.",
   "version": "1.0",
   "author": "Pamela Moriarty",
@@ -12,6 +12,10 @@
     "http://127.0.0.1:5000/input",
     "http://127.0.0.1:5000/output"
   ],
+
+    "browser_action":{
+      "default_icon": "icon.jpg"
+    },
   "content_scripts": [{
       "js": ["content.js"],
       "matches": ["https://www.target.com/*"]

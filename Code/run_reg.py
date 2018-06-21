@@ -141,9 +141,11 @@ rf = ensemble.RandomForestClassifier(bootstrap=True,
             min_impurity_split=None, min_samples_leaf=3,
             min_samples_split=4, min_weight_fraction_leaf=0.0,
             n_estimators=200, n_jobs=-1, oob_score=False, random_state=42,
-            verbose=0, warm_start=False)
+            verbose=0, warm_start=False,
+            class_weight= 'balanced')
 rf.get_params()
 rf_mod = rf.fit(X_sm, y_sm)
+rf_mod = rf.fit(X_train, y_train)
 scores = cross_val_score(rf_mod, X_sm, y_sm, cv = 5)
 predicted_cross = cross_val_predict(rf_mod, X_sm, y_sm, cv = 5)
 metrics.accuracy_score(y_sm, predicted_cross)
@@ -152,13 +154,16 @@ len(predicted_cross[predicted_cross == 'medium'])/len(y_sm[y_sm == 'medium'])
 len(predicted_cross[predicted_cross == 'high'])/len(y_sm[y_sm == 'high'])
 
 Xvars.columns
-rf.feature_importances_
+print(rf.feature_importances_)
 predictions = rf_mod.predict(X_sm)
 predictions_test = rf_mod.predict(X_test)
 
 sum(y_test == predictions_test)/len(y_test)
+len(predictions_test[predictions_test == 'low'])/len(y_test[y_test == 'low'])
+len(predictions_test[predictions_test == 'medium'])/len(y_test[y_test == 'medium'])
+len(predictions_test[predictions_test == 'high'])/len(y_test[y_test == 'high'])
 
-metrics.classification_report(predictions, y_sm)
+print(metrics.classification_report(predictions, y_sm))
 #metrics.roc_curve(onehot_encoded, predictions)
 
 file_name = '/home/pamela/Documents/Data/rf_fit_cached'
@@ -175,15 +180,41 @@ len(y_res[y_res == 'low'])
 #plot confusion matrix
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-mat = confusion_matrix(y_sm, predictions, labels = ['low', 'medium', 'high'])
+mat = confusion_matrix(y_test, predictions_test, labels = ['low', 'medium', 'high'])
 
 plt.figure()
-sns.heatmap(mat.T, square=True, annot=False, fmt='d', cbar=False,
-            yticklabels = ['low', 'medium', 'high'],
-            xticklabels = ['low', 'medium', 'high'])
-plt.xlabel('true label')
-plt.ylabel('predicted label');
+sns.set(font_scale = 3)
+cm = sns.heatmap(mat.T, square=True, annot=False, fmt='d', cbar=True,
+            #yticklabels = ['low', 'medium', 'high'],
+            #xticklabels = ['low', 'medium', 'high'])
+#cm.axes.set_title("Title",fontsize=50)
+            )
+cm.set_xlabel("True",fontsize=50)
+plt.xticks(rotation = 0)
+cm.set_xticklabels(labels = ['low', 'medium', 'high'])
+plt.yticks(rotation = 90)
+cm.set_yticklabels(labels = ['low', 'medium', 'high'])
+cm.set_ylabel("Predicted",fontsize=60)
+cm.tick_params(labelsize=50)
+sns.plt.show()
 
+
+###make theoretical perfect heatmap
+perfect = [[10, 0, 0], [0, 10, 0], [0, 0, 10]]
+plt.figure()
+sns.heatmap(perfect)
+cm_perf = sns.heatmap(perfect, square=True, annot=False, fmt='d', cbar=True,
+            #yticklabels = ['low', 'medium', 'high'],
+            #xticklabels = ['low', 'medium', 'high'])
+#cm.axes.set_title("Title",fontsize=50)
+            )
+cm_perf.set_xlabel("True",fontsize=50)
+plt.xticks(rotation = 0)
+cm_perf.set_xticklabels(labels = ['low', 'medium', 'high'])
+plt.yticks(rotation = 90)
+cm_perf.set_yticklabels(labels = ['low', 'medium', 'high'])
+cm_perf.set_ylabel("Predicted",fontsize=60)
+cm_perf.tick_params(labelsize=50)
 ###########plot ROC
 label_encoder = LabelEncoder()
 integer_encoded = label_encoder.fit_transform(y_train)
