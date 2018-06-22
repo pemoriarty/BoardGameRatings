@@ -10,6 +10,7 @@ Created on Tue Jun 12 16:36:27 2018
 from sklearn import datasets, linear_model, metrics
 from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict, KFold, RandomizedSearchCV, GridSearchCV
 from sklearn import ensemble
+from sklearn.feature_selection import RFECV
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from sklearn.datasets import make_classification
 import statsmodels.api as sm
@@ -53,7 +54,7 @@ from imblearn.over_sampling import SMOTE
 
 X_train, X_test, y_train, y_test = train_test_split(Xvars, yvars, test_size=0.2)
 sm = SMOTE(random_state=42)
-X_sm, y_sm = sm.fit_sample(X_train, y_train)
+X_sm, y_sm = sm.fit_sample(Xvars, yvars)
 #lm = linear_model.LinearRegression()
 
 ######################random forest###################
@@ -146,12 +147,17 @@ rf = ensemble.RandomForestClassifier(bootstrap=True,
 rf.get_params()
 rf_mod = rf.fit(X_sm, y_sm)
 rf_mod = rf.fit(X_train, y_train)
-scores = cross_val_score(rf_mod, X_sm, y_sm, cv = 5)
-predicted_cross = cross_val_predict(rf_mod, X_sm, y_sm, cv = 5)
+scores = cross_val_score(rf_mod, X_sm, y_sm, cv = 10)
+predicted_cross = cross_val_predict(rf_mod, X_sm, y_sm, cv = 10)
 metrics.accuracy_score(y_sm, predicted_cross)
 len(predicted_cross[predicted_cross == 'low'])/len(y_sm[y_sm == 'low'])
 len(predicted_cross[predicted_cross == 'medium'])/len(y_sm[y_sm == 'medium'])
 len(predicted_cross[predicted_cross == 'high'])/len(y_sm[y_sm == 'high'])
+
+selector = RFECV(rf_mod)
+select2 = selector.fit(X_sm, y_sm)
+select2.support_
+
 
 Xvars.columns
 print(rf.feature_importances_)
@@ -163,7 +169,7 @@ len(predictions_test[predictions_test == 'low'])/len(y_test[y_test == 'low'])
 len(predictions_test[predictions_test == 'medium'])/len(y_test[y_test == 'medium'])
 len(predictions_test[predictions_test == 'high'])/len(y_test[y_test == 'high'])
 
-print(metrics.classification_report(predictions, y_sm))
+print(metrics.classification_report(predicted_cross, y_sm))
 #metrics.roc_curve(onehot_encoded, predictions)
 
 file_name = '/home/pamela/Documents/Data/rf_fit_cached'
@@ -180,7 +186,7 @@ len(y_res[y_res == 'low'])
 #plot confusion matrix
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-mat = confusion_matrix(y_test, predictions_test, labels = ['low', 'medium', 'high'])
+mat = confusion_matrix(y_sm, predictions_cross, labels = ['low', 'medium', 'high'])
 
 plt.figure()
 sns.set(font_scale = 3)
