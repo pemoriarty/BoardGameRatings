@@ -9,4 +9,4 @@ Created on Mon Jun 11 20:07:27 2018
 # !/usr/bin/env python
 from app import app
 import pickle
-app.run(debug = True)
+app.run(host='0.0.0.0', debug = True)

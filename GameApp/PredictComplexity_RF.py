@@ -14,7 +14,8 @@ import numpy as np
 
 def PredictComplexity2(game_name):
 
-    file_name = "/home/pamela/Documents/Data/game_complexity_db"
+    #file_name = "/home/pamela/Documents/Data/game_complexity_db"
+    file_name = "/home/ubuntu/Data/game_complexity_db"
     fileObject = open(file_name, 'rb')
     game_complexity = pickle.load(fileObject)
     fileObject.close()
