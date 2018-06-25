@@ -32,3 +32,8 @@ def game_output():
   the_result = PredictComplexity2(name)
   #return name
   return render_template("output.html", the_result = the_result)
+
+@app.route('/slides')
+def show_slides():
+   
+    return render_template("slides.html")
