@@ -186,11 +186,25 @@ len(y_res[y_res == 'low'])
 #plot confusion matrix
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-mat = confusion_matrix(y_sm, predictions_cross, labels = ['low', 'medium', 'high'])
+
+file_name = '/home/pamela/Documents/Data/rf_fit_cached'
+fileObject = open(file_name, 'rb')
+rf_mod = pickle.load(fileObject)
+fileObject.close()
+
+mat = confusion_matrix(y_sm, predicted_cross, labels = ['low', 'medium', 'high'])
 
 plt.figure()
 sns.set(font_scale = 3)
-cm = sns.heatmap(mat.T, square=True, annot=False, fmt='d', cbar=True,
+sns.palplot(sns.color_palette("Blues"))
+sns.palplot(sns.color_palette("GnBu_d"))
+sns.palplot(sns.cubehelix_palette(8, start=.5, rot=-.75))
+cm = sns.heatmap(mat.T, 
+                 square=True, 
+                 annot=False, 
+                 fmt='d', 
+                 cbar=True,
+                cmap = 'YlGnBu'
             #yticklabels = ['low', 'medium', 'high'],
             #xticklabels = ['low', 'medium', 'high'])
 #cm.axes.set_title("Title",fontsize=50)
@@ -202,14 +216,20 @@ plt.yticks(rotation = 90)
 cm.set_yticklabels(labels = ['low', 'medium', 'high'])
 cm.set_ylabel("Predicted",fontsize=60)
 cm.tick_params(labelsize=50)
-sns.plt.show()
+plt.show()
 
+sns.choose_colorbrewer_palette('sequential')
 
 ###make theoretical perfect heatmap
 perfect = [[10, 0, 0], [0, 10, 0], [0, 0, 10]]
 plt.figure()
 sns.heatmap(perfect)
-cm_perf = sns.heatmap(perfect, square=True, annot=False, fmt='d', cbar=True,
+cm_perf = sns.heatmap(perfect, 
+                      square=True, 
+                      annot=False, 
+                      fmt='d', 
+                      cbar=True,
+                      cmap = 'Blues'
             #yticklabels = ['low', 'medium', 'high'],
             #xticklabels = ['low', 'medium', 'high'])
 #cm.axes.set_title("Title",fontsize=50)
@@ -221,6 +241,7 @@ plt.yticks(rotation = 90)
 cm_perf.set_yticklabels(labels = ['low', 'medium', 'high'])
 cm_perf.set_ylabel("Predicted",fontsize=60)
 cm_perf.tick_params(labelsize=50)
+
 ###########plot ROC
 label_encoder = LabelEncoder()
 integer_encoded = label_encoder.fit_transform(y_train)
