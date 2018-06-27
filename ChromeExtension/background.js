@@ -1,6 +1,6 @@
-/* chrome.browserAction.onClikced.addListener(function(tab) {
-    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-        var activeTab = tabs[0];
-        chrome.tabs.sendMessage(activeTab.id, {"message": "clicked_browser_action});
-    });
-}); */
+
+function sendfunc(tab){
+msg={txtt:"execute"};
+chrome.tabs.sendMessage(tab.id,msg);
+}
+chrome.browserAction.onClicked.addListener(sendfunc);

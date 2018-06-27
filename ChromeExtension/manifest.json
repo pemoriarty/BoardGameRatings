@@ -2,15 +2,13 @@
   "manifest_version": 2,
 
   "name": "GameOn",
-  "description": "This extension reveals the complexity of board games that the user is browsing.",
-  "version": "1.0",
+  "description": "Shows shoppers the complexity of each board game on the page they are browsing.",
+  "version": "1.0.1",
   "author": "Pamela Moriarty",
 
 
   "permissions": [
     "activeTab",
-    //"http://127.0.0.1:5000/input",
-    //"http://127.0.0.1:5000/output"
     "https://gameonapp.xyz/"
   ],
  
@@ -20,7 +18,11 @@
   "content_scripts": [{
       "js": ["content.js"],
       "matches": ["https://www.target.com/c/board-games-puzzles-toys/*"]
-  }]
+  }],
+  "background":{
+    "scripts":["background.js"],
+    "persistent": false
+}
 
 }
 

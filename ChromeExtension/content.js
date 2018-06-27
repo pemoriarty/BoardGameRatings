@@ -1,3 +1,8 @@
+
+function receivefunc(mssg,sender,sendResponse){
+if(mssg.txtt==="execute"){
+
+
 var HttpClient = function() {
     this.get = function(aUrl, aCallback, element) {
         var anHttpRequest = new XMLHttpRequest();
@@ -44,3 +49,17 @@ setInterval(() => {
         }
     }
 }, 1000)
+
+
+
+
+/*  
+your code of content script
+goes here
+*/
+
+
+
+}
+}
+chrome.runtime.onMessage.addListener(receivefunc);
