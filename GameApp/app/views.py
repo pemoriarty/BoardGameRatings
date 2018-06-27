@@ -17,7 +17,7 @@ import pickle
 @app.route('/index')
 def game_input():
    
-    return render_template("input.html")
+    return render_template("home3.html")
 
 @app.route('/weight')
 def weight():
@@ -37,3 +37,7 @@ def game_output():
 def show_slides():
    
     return render_template("slides.html")
+
+@app.route('/about')
+def about_gameon():
+    return render_template("about.html")
