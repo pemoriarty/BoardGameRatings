@@ -4,7 +4,7 @@
 Created on Thu Jun  7 17:29:58 2018
 
 @author: pamela
-@purpose: slow rate of api requests
+@purpose: slow down rate of api requests
 """
 import time
 
@@ -19,7 +19,7 @@ def request(msg, slp=0.5):
             if status_code != 200:
                 print("Server Error! Response Code %i. Retrying..." % (r.status_code))
         except:
-            print("An exception has occurred, probably a momentory loss of connection. Waiting one seconds...")
+            print("""An exception has occurred, probably a momentory loss of connection.
+                  Waiting one seconds...""")
             time.sleep(1)
     return r
-

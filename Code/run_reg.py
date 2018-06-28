@@ -276,15 +276,30 @@ fpr_rf, tpr_rf, _ = metrics.roc_curve(y_test, y_pred_rf)
 
 #
 #
-#index_nan = train['ages'][np.isnan(train['ages'])].index
+#index_nan = train['ages'][np.isnan(trimport pandas as pd
+ain['ages'])].index
 #train.drop(index_nan, axis = 0, inplace = True)
 
-full_vars = X_train.join(y_train)
-form = "response ~ ages"
-form = "categorical ~ ages + + nmech + C(party)"# + C(strategy)"# + C(child)"
+yvar = pd.DataFrame
+yvar['response'] = sub_df['complexity'].astype('float')
+full_vars = test_x.join(yvar)
+
+form = "complexity ~ ages"
+form = "categorical ~ ages + nmech + C(party)"# + C(strategy)"# + C(child)"
 form = "response ~ ages + nmech + C(custom) + C(family) + C(party) + C(strategy) + C(war)"
-model_r = smf.ols(formula = form, data = full_vars, missing = 'drop').fit()
+model_r = smf.ols(formula = form, data = sub_df.astype('float'), missing = 'drop').fit()
 print(model_r.summary())
+
+test_x = pd.DataFrame()
+test_x['ages'] = sub_df['ages'].astype('float')
+test_x['playtime'] = sub_df['playtime'].astype('float')
+
+test = sm.OLS(sub_df['complexity'].astype('float'),(test_x), missing = 'drop').fit()
+print(test.summary())
+test.score()
+pred = test.predict()
+
+plt.scatter(sub_df['complexity'], pred)
 
 sm.MNLogit(formula = form, data = full_vars).fit()
 

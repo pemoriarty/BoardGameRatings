@@ -4,26 +4,29 @@
 Created on Mon Jun 11 11:39:05 2018
 
 @author: pamela
+@purpose: push database of predicted complexity of all games to sql
 """
 
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
-import psycopg2
-import pandas as pd
 
-# Define a database name (we're using a dataset on births, so we'll call it birth_db)
-# Set your postgres username/password, and connection specifics
+#set connection info
 username = 'postgres'
-password = None    # change this
-host     = 'localhost'
-port     = '5432'            # default port that postgres listens on
-db_name  = 'board_games'
+password = None
+host = 'localhost'
+port = '5432'
+db_name = 'board_games'
 
-engine = create_engine( 'postgresql://{}:{}@{}:{}/{}'.format(username, password, host, port, db_name) )
+engine = create_engine('postgresql://{}:{}@{}:{}/{}'.format(username,
+                       password,
+                       host,
+                       port,
+                       db_name))
 print(engine.url)
 
 if not database_exists(engine.url):
     create_database(engine.url)
 print(database_exists(engine.url))
 
+#actually push data to SQL
 df_info2.to_sql('full_data', engine, if_exists='replace')

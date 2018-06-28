@@ -11,28 +11,20 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import scipy.special
-from sklearn.preprocessing import Imputer
 import difflib
-#import statsmodels.api as sm
-#import statsmodels.genmod as
-#import statsmodels as sm
-#from sklearn import datasets, linear_model
-#from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import Imputer
 
-#file_name = "/media/pamela/Stuff/compiled_info"
+
 file_name = "/media/pamela/Stuff/xmls_parsed"
-#file_name = "/home/pamela/Dropbox/xmls_parsed"
+
 fileObject = open(file_name, 'rb')
 with open(file_name, 'rb') as f:
     full_info = pickle.load(f)
 fileObject.close()
 
-#full_info = list(compiled_info)
-
-#remove games without a complexity rating or with fewer than 20 people having rated it
+#make dataframe of all games
 red_info = list(full_info)
 
-#move all variables to a dataframe
 df_info = pd.DataFrame()    
 for game in range(len(red_info)):
     df_tmp = pd.DataFrame.from_dict(red_info[game], orient = 'index')
@@ -52,16 +44,7 @@ sub_df['nmech'] = nmech
 sub_df['complexity'] = df_info2['complexity']
 sub_df['name'] = df_info2['name']
 
-
 ##make complexity categorical
-#low: 1-1.8
-#mid: 1.81-2.6
-#high: 2.6-5
-
-#based on bgg categories:
-#low: 1-2
-#mid: 2-3.5
-#high: 3.5-5
 sub_df.reset_index(drop = 0, inplace = True)
 sub_df['categorical'] = sub_df['complexity']
 mid_index = sub_df['complexity'][(sub_df['complexity'] >=2)]# and (sub_df['complexity'] <=3.5)]
@@ -73,8 +56,6 @@ sub_df['categorical'].replace(sub_df['complexity'][mid_index], 'medium', inplace
 sub_df['categorical'].replace(sub_df['complexity'][high_index], 'high', inplace = True)
 
 
-
-#remove points where age = 0
 sub_df2 = sub_df.copy(deep = True)
 
 ###make matrix of subdomains for each game
