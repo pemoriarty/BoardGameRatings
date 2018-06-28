@@ -4,14 +4,12 @@
 Created on Tue Jun 12 13:24:46 2018
 
 @author: pamela
+@purpose: create dataframe of features of all games and predict complexity
 """
 
 import pickle
-import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-import scipy.special
-import difflib
 from sklearn.preprocessing import Imputer
 
 
@@ -25,12 +23,12 @@ fileObject.close()
 #make dataframe of all games
 red_info = list(full_info)
 
-df_info = pd.DataFrame()    
+df_info = pd.DataFrame()
 for game in range(len(red_info)):
-    df_tmp = pd.DataFrame.from_dict(red_info[game], orient = 'index')
-    df_info = pd.concat([df_info, df_tmp], axis = 1)
+    df_tmp = pd.DataFrame.from_dict(red_info[game], orient='index')
+    df_info = pd.concat([df_info, df_tmp], axis=1)
 
-df_info.index.rename('attribute', inplace = True)
+df_info.index.rename('attribute', inplace=True)
 df_info2 = df_info.transpose().copy()
 df_info2.columns
 
@@ -45,23 +43,23 @@ sub_df['complexity'] = df_info2['complexity']
 sub_df['name'] = df_info2['name']
 
 ##make complexity categorical
-sub_df.reset_index(drop = 0, inplace = True)
+sub_df.reset_index(drop=0, inplace=True)
 sub_df['categorical'] = sub_df['complexity']
-mid_index = sub_df['complexity'][(sub_df['complexity'] >=2)]# and (sub_df['complexity'] <=3.5)]
+mid_index = sub_df['complexity'][(sub_df['complexity'] >= 2)]# and (sub_df['complexity'] <=3.5)]
 mid_index = mid_index[mid_index <= 3.5].index
 low_index = sub_df['complexity'][sub_df['complexity'] < 2].index
 high_index = sub_df['complexity'][sub_df['complexity'] > 3.5].index
-sub_df['categorical'].replace(sub_df['complexity'][low_index], 'low', inplace = True)
-sub_df['categorical'].replace(sub_df['complexity'][mid_index], 'medium', inplace = True)
-sub_df['categorical'].replace(sub_df['complexity'][high_index], 'high', inplace = True)
+sub_df['categorical'].replace(sub_df['complexity'][low_index], 'low', inplace=True)
+sub_df['categorical'].replace(sub_df['complexity'][mid_index], 'medium', inplace=True)
+sub_df['categorical'].replace(sub_df['complexity'][high_index], 'high', inplace=True)
 
 
-sub_df2 = sub_df.copy(deep = True)
+sub_df2 = sub_df.copy(deep=True)
 
 ###make matrix of subdomains for each game
-subdomains = pd.DataFrame(np.zeros([df_info2.shape[0], 7]), 
-                          columns = ['Abstract', 'Thematic', 'Strategy',
-                                     'Customizable', 'Party', 'War', 'Family'])
+subdomains = pd.DataFrame(np.zeros([df_info2.shape[0], 7]),
+                          columns=['Abstract', 'Thematic', 'Strategy',
+                                   'Customizable', 'Party', 'War', 'Family'])
 for game in range(df_info2.shape[0]):
     subdomain_tmp = np.asarray(df_info2['subdomains'])[game]
     if 'Abstract Games' in subdomain_tmp:
@@ -80,7 +78,7 @@ for game in range(df_info2.shape[0]):
         subdomains.iloc[game][5] = 1
     if 'Family Games' in subdomain_tmp:
         subdomains.iloc[game][6] = 1
-    
+   
 sub_df2 = sub_df2.join(subdomains)
 
 
@@ -105,8 +103,8 @@ fileObject.close()
 
 #column order: ages, nmech, abstract, thematic, war, custom, family, party, strategy
 
-predict_mat = pd.DataFrame(columns = ['ages', 'nmech','abstract', 'thematic',
-                                      'war', 'custom', 'family', 'party', 'strategy'])
+predict_mat = pd.DataFrame(columns=['ages', 'nmech', 'abstract', 'thematic',
+                                    'war', 'custom', 'family', 'party', 'strategy'])
 predict_mat['ages'] = sub_df2['ages']
 predict_mat['nmech'] = sub_df2['nmech']
 predict_mat['abstract'] = sub_df2['Abstract']
@@ -123,10 +121,11 @@ transformed_values = imputer.fit_transform(predict_mat)
 np.isnan(transformed_values).sum()
 
 pred_all = rf_fit.predict(transformed_values)
-game_complexity = pd.DataFrame({'id': sub_df2['id'], 'name': sub_df2['name'], 'complexity': pred_all})
+game_complexity = pd.DataFrame({'id': sub_df2['id'],
+                                'name': sub_df2['name'],
+                                'complexity': pred_all})
 
 file_name = "/home/pamela/Documents/game_complexity_db"
 fileObject = open(file_name, 'wb')
 pickle.dump(game_complexity, fileObject)
 fileObject.close()
-
